@@ -1,0 +1,609 @@
+{
+ "topic": "Modular Arithmetic",
+ "ss_level": "SSS 1",
+ "icon": "fa-clock",
+ "color": "#0891b2",
+ "outline": [
+  "Concept of modulo",
+  "Addition, subtraction, and multiplication in modular arithmetic",
+  "Applications to daily life (clocks, calendars, cycles)"
+ ],
+ "modules": [
+  {
+   "title": "Module 1 · The Modulo Idea",
+   "html": "<p>The symbol $a \\equiv b\\ (\\bmod\\ n)$ means <i>$a$ and $b$ leave the same remainder when divided by $n$</i>, equivalently, $n \\mid (a-b)$.</p><p>The <b>residues mod $n$</b> are $\\{0,1,2,\\ldots,n-1\\}$. Every integer is equivalent to exactly one of these.</p>",
+   "examples": [
+    {
+     "q": "Reduce $17$ mod $5$.",
+     "a": "$17 = 3\\cdot 5 + 2$, so $17 \\equiv 2 \\pmod 5$."
+    },
+    {
+     "q": "Reduce $-4$ mod $6$.",
+     "a": "Add 6: $-4 + 6 = 2$, so $-4 \\equiv 2 \\pmod 6$."
+    }
+   ]
+  },
+  {
+   "title": "Module 2 · Addition, Subtraction, Multiplication mod $n$",
+   "html": "<p>Reduce each operand mod $n$ first, then perform the operation, then reduce again.</p>$$(a+b)\\bmod n = ((a\\bmod n)+(b\\bmod n))\\bmod n$$$$(a\\cdot b)\\bmod n = ((a\\bmod n)\\cdot(b\\bmod n))\\bmod n$$",
+   "examples": [
+    {
+     "q": "Compute $(23+18)\\bmod 7$.",
+     "a": "$23\\equiv 2,\\ 18\\equiv 4 \\pmod 7$; $2+4=6$. So $(23+18)\\equiv 6\\pmod 7$."
+    },
+    {
+     "q": "Compute $(9\\times 11)\\bmod 4$.",
+     "a": "$9\\equiv 1,\\ 11\\equiv 3 \\pmod 4$; $1\\times 3=3$. Answer: $3$."
+    }
+   ]
+  },
+  {
+   "title": "Module 3 · Applications in Daily Life",
+   "html": "<p><b>Clocks</b> use mod 12; <b>days of the week</b> use mod 7; <b>calendar months</b> use mod 12. Any repeating cycle can be modelled with modular arithmetic.</p>",
+   "examples": [
+    {
+     "q": "If today is Wednesday, what day will it be $100$ days from now?",
+     "a": "Wednesday = day 3 (Sun=0). $3+100 = 103$; $103\\bmod 7 = 5$. Day 5 = Friday."
+    },
+    {
+     "q": "The time now is 8 o'clock. What time will it be after 29 hours?",
+     "a": "$(8+29)\\bmod 12 = 37 \\bmod 12 = 1$. Answer: 1 o'clock."
+    }
+   ]
+  }
+ ],
+ "slug": "modular-arithmetic",
+ "subject": "Mathematics",
+ "quiz": [
+  {
+   "q": "Reduce $46$ modulo $6$.",
+   "options": [
+    "5",
+    "4",
+    "0",
+    "3"
+   ],
+   "answer": 1,
+   "solution": "$46 \\bmod 6 = 4$ since $46 = 7\\cdot 6 + 4$."
+  },
+  {
+   "q": "Reduce $54$ modulo $7$.",
+   "options": [
+    "0",
+    "4",
+    "5",
+    "6"
+   ],
+   "answer": 2,
+   "solution": "$54 \\bmod 7 = 5$ since $54 = 7\\cdot 7 + 5$."
+  },
+  {
+   "q": "Reduce $27$ modulo $12$.",
+   "options": [
+    "5",
+    "3",
+    "2",
+    "4"
+   ],
+   "answer": 1,
+   "solution": "$27 \\bmod 12 = 3$ since $27 = 2\\cdot 12 + 3$."
+  },
+  {
+   "q": "Reduce $-17$ modulo $9$.",
+   "options": [
+    "2",
+    "1",
+    "0",
+    "3"
+   ],
+   "answer": 1,
+   "solution": "Add multiples of 9 to $-17$ until non-negative: result is $1$."
+  },
+  {
+   "q": "Reduce $-2$ modulo $7$.",
+   "options": [
+    "5",
+    "4",
+    "0",
+    "6"
+   ],
+   "answer": 0,
+   "solution": "Add multiples of 7 to $-2$ until non-negative: result is $5$."
+  },
+  {
+   "q": "Reduce $-14$ modulo $5$.",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "solution": "Add multiples of 5 to $-14$ until non-negative: result is $1$."
+  },
+  {
+   "q": "Reduce $4$ modulo $7$.",
+   "options": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "answer": 1,
+   "solution": "$4 \\bmod 7 = 4$ since $4 = 0\\cdot 7 + 4$."
+  },
+  {
+   "q": "Reduce $29$ modulo $6$.",
+   "options": [
+    "4",
+    "0",
+    "1",
+    "5"
+   ],
+   "answer": 3,
+   "solution": "$29 \\bmod 6 = 5$ since $29 = 4\\cdot 6 + 5$."
+  },
+  {
+   "q": "Reduce $59$ modulo $8$.",
+   "options": [
+    "5",
+    "4",
+    "3",
+    "2"
+   ],
+   "answer": 2,
+   "solution": "$59 \\bmod 8 = 3$ since $59 = 7\\cdot 8 + 3$."
+  },
+  {
+   "q": "Reduce $43$ modulo $9$.",
+   "options": [
+    "6",
+    "8",
+    "7",
+    "0"
+   ],
+   "answer": 2,
+   "solution": "$43 \\bmod 9 = 7$ since $43 = 4\\cdot 9 + 7$."
+  },
+  {
+   "q": "Reduce $-1$ modulo $9$.",
+   "options": [
+    "8",
+    "7",
+    "0",
+    "1"
+   ],
+   "answer": 0,
+   "solution": "Add multiples of 9 to $-1$ until non-negative: result is $8$."
+  },
+  {
+   "q": "Reduce $-3$ modulo $10$.",
+   "options": [
+    "7",
+    "8",
+    "6",
+    "9"
+   ],
+   "answer": 0,
+   "solution": "Add multiples of 10 to $-3$ until non-negative: result is $7$."
+  },
+  {
+   "q": "Reduce $39$ modulo $8$.",
+   "options": [
+    "7",
+    "6",
+    "1",
+    "0"
+   ],
+   "answer": 0,
+   "solution": "$39 \\bmod 8 = 7$ since $39 = 4\\cdot 8 + 7$."
+  },
+  {
+   "q": "Reduce $50$ modulo $6$.",
+   "options": [
+    "4",
+    "2",
+    "3",
+    "1"
+   ],
+   "answer": 1,
+   "solution": "$50 \\bmod 6 = 2$ since $50 = 8\\cdot 6 + 2$."
+  },
+  {
+   "q": "Reduce $9$ modulo $5$.",
+   "options": [
+    "0",
+    "4",
+    "1",
+    "3"
+   ],
+   "answer": 1,
+   "solution": "$9 \\bmod 5 = 4$ since $9 = 1\\cdot 5 + 4$."
+  },
+  {
+   "q": "Reduce $18$ modulo $5$.",
+   "options": [
+    "2",
+    "3",
+    "0",
+    "4"
+   ],
+   "answer": 1,
+   "solution": "$18 \\bmod 5 = 3$ since $18 = 3\\cdot 5 + 3$."
+  },
+  {
+   "q": "Reduce $-16$ modulo $9$.",
+   "options": [
+    "3",
+    "4",
+    "2",
+    "1"
+   ],
+   "answer": 2,
+   "solution": "Add multiples of 9 to $-16$ until non-negative: result is $2$."
+  },
+  {
+   "q": "Reduce $52$ modulo $4$.",
+   "options": [
+    "3",
+    "2",
+    "1",
+    "0"
+   ],
+   "answer": 3,
+   "solution": "$52 \\bmod 4 = 0$ since $52 = 13\\cdot 4 + 0$."
+  },
+  {
+   "q": "Reduce $55$ modulo $3$.",
+   "options": [
+    "0",
+    "1",
+    "0",
+    "2"
+   ],
+   "answer": 1,
+   "solution": "$55 \\bmod 3 = 1$ since $55 = 18\\cdot 3 + 1$."
+  },
+  {
+   "q": "Reduce $25$ modulo $3$.",
+   "options": [
+    "1",
+    "0",
+    "2",
+    "0"
+   ],
+   "answer": 0,
+   "solution": "$25 \\bmod 3 = 1$ since $25 = 8\\cdot 3 + 1$."
+  },
+  {
+   "q": "Compute $(2\\times34) \\bmod 5$.",
+   "options": [
+    "0",
+    "3",
+    "4",
+    "2"
+   ],
+   "answer": 1,
+   "solution": "$2×34 = 68$; $68 \\bmod 5 = 3$."
+  },
+  {
+   "q": "Compute $(43\\times20) \\bmod 14$.",
+   "options": [
+    "7",
+    "8",
+    "6",
+    "5"
+   ],
+   "answer": 2,
+   "solution": "$43×20 = 860$; $860 \\bmod 14 = 6$."
+  },
+  {
+   "q": "Compute $(19+29) \\bmod 4$.",
+   "options": [
+    "2",
+    "1",
+    "0",
+    "3"
+   ],
+   "answer": 2,
+   "solution": "$19+29 = 48$; $48 \\bmod 4 = 0$."
+  },
+  {
+   "q": "Compute $(38\\times33) \\bmod 8$.",
+   "options": [
+    "5",
+    "7",
+    "6",
+    "0"
+   ],
+   "answer": 2,
+   "solution": "$38×33 = 1254$; $1254 \\bmod 8 = 6$."
+  },
+  {
+   "q": "Compute $(1\\times10) \\bmod 7$.",
+   "options": [
+    "3",
+    "4",
+    "5",
+    "2"
+   ],
+   "answer": 0,
+   "solution": "$1×10 = 10$; $10 \\bmod 7 = 3$."
+  },
+  {
+   "q": "Compute $(2-34) \\bmod 7$.",
+   "options": [
+    "5",
+    "2",
+    "4",
+    "3"
+   ],
+   "answer": 3,
+   "solution": "$2-34 = -32$; $-32 \\bmod 7 = 3$."
+  },
+  {
+   "q": "Compute $(11\\times45) \\bmod 11$.",
+   "options": [
+    "0",
+    "2",
+    "10",
+    "1"
+   ],
+   "answer": 0,
+   "solution": "$11×45 = 495$; $495 \\bmod 11 = 0$."
+  },
+  {
+   "q": "Compute $(41\\times20) \\bmod 10$.",
+   "options": [
+    "1",
+    "9",
+    "2",
+    "0"
+   ],
+   "answer": 3,
+   "solution": "$41×20 = 820$; $820 \\bmod 10 = 0$."
+  },
+  {
+   "q": "Compute $(9+2) \\bmod 14$.",
+   "options": [
+    "11",
+    "10",
+    "12",
+    "13"
+   ],
+   "answer": 0,
+   "solution": "$9+2 = 11$; $11 \\bmod 14 = 11$."
+  },
+  {
+   "q": "Compute $(46-26) \\bmod 6$.",
+   "options": [
+    "4",
+    "3",
+    "1",
+    "2"
+   ],
+   "answer": 3,
+   "solution": "$46-26 = 20$; $20 \\bmod 6 = 2$."
+  },
+  {
+   "q": "Compute $(38\\times14) \\bmod 5$.",
+   "options": [
+    "3",
+    "2",
+    "1",
+    "4"
+   ],
+   "answer": 1,
+   "solution": "$38×14 = 532$; $532 \\bmod 5 = 2$."
+  },
+  {
+   "q": "Compute $(12-6) \\bmod 7$.",
+   "options": [
+    "6",
+    "5",
+    "1",
+    "0"
+   ],
+   "answer": 0,
+   "solution": "$12-6 = 6$; $6 \\bmod 7 = 6$."
+  },
+  {
+   "q": "Compute $(42\\times1) \\bmod 15$.",
+   "options": [
+    "12",
+    "14",
+    "13",
+    "11"
+   ],
+   "answer": 0,
+   "solution": "$42×1 = 42$; $42 \\bmod 15 = 12$."
+  },
+  {
+   "q": "Compute $(14\\times38) \\bmod 14$.",
+   "options": [
+    "13",
+    "0",
+    "2",
+    "1"
+   ],
+   "answer": 1,
+   "solution": "$14×38 = 532$; $532 \\bmod 14 = 0$."
+  },
+  {
+   "q": "Compute $(2-39) \\bmod 12$.",
+   "options": [
+    "0",
+    "11",
+    "1",
+    "10"
+   ],
+   "answer": 1,
+   "solution": "$2-39 = -37$; $-37 \\bmod 12 = 11$."
+  },
+  {
+   "q": "Compute $(1-40) \\bmod 6$.",
+   "options": [
+    "5",
+    "4",
+    "3",
+    "2"
+   ],
+   "answer": 2,
+   "solution": "$1-40 = -39$; $-39 \\bmod 6 = 3$."
+  },
+  {
+   "q": "Compute $(35+24) \\bmod 12$.",
+   "options": [
+    "11",
+    "0",
+    "10",
+    "1"
+   ],
+   "answer": 0,
+   "solution": "$35+24 = 59$; $59 \\bmod 12 = 11$."
+  },
+  {
+   "q": "Compute $(45+6) \\bmod 4$.",
+   "options": [
+    "1",
+    "3",
+    "2",
+    "0"
+   ],
+   "answer": 1,
+   "solution": "$45+6 = 51$; $51 \\bmod 4 = 3$."
+  },
+  {
+   "q": "Compute $(42-30) \\bmod 9$.",
+   "options": [
+    "2",
+    "5",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "solution": "$42-30 = 12$; $12 \\bmod 9 = 3$."
+  },
+  {
+   "q": "Compute $(18-6) \\bmod 8$.",
+   "options": [
+    "3",
+    "6",
+    "4",
+    "5"
+   ],
+   "answer": 2,
+   "solution": "$18-6 = 12$; $12 \\bmod 8 = 4$."
+  },
+  {
+   "q": "If today is Monday, what day of the week will it be 324 days from now?",
+   "options": [
+    "Thursday",
+    "Saturday",
+    "Friday",
+    "Wednesday"
+   ],
+   "answer": 3,
+   "solution": "Days repeat every 7. $324 \\bmod 7 = 2$. Starting from Monday and adding 2: Wednesday."
+  },
+  {
+   "q": "If today is Thursday, what day of the week will it be 415 days from now?",
+   "options": [
+    "Tuesday",
+    "Monday",
+    "Sunday",
+    "Saturday"
+   ],
+   "answer": 3,
+   "solution": "Days repeat every 7. $415 \\bmod 7 = 2$. Starting from Thursday and adding 2: Saturday."
+  },
+  {
+   "q": "If today is Saturday, what day of the week will it be 406 days from now?",
+   "options": [
+    "Monday",
+    "Sunday",
+    "Saturday",
+    "Tuesday"
+   ],
+   "answer": 2,
+   "solution": "Days repeat every 7. $406 \\bmod 7 = 0$. Starting from Saturday and adding 0: Saturday."
+  },
+  {
+   "q": "If today is Tuesday, what day of the week will it be 79 days from now?",
+   "options": [
+    "Saturday",
+    "Sunday",
+    "Thursday",
+    "Friday"
+   ],
+   "answer": 2,
+   "solution": "Days repeat every 7. $79 \\bmod 7 = 2$. Starting from Tuesday and adding 2: Thursday."
+  },
+  {
+   "q": "If today is Wednesday, what day of the week will it be 162 days from now?",
+   "options": [
+    "Sunday",
+    "Saturday",
+    "Friday",
+    "Thursday"
+   ],
+   "answer": 3,
+   "solution": "Days repeat every 7. $162 \\bmod 7 = 1$. Starting from Wednesday and adding 1: Thursday."
+  },
+  {
+   "q": "If today is Tuesday, what day of the week will it be 74 days from now?",
+   "options": [
+    "Sunday",
+    "Saturday",
+    "Tuesday",
+    "Monday"
+   ],
+   "answer": 1,
+   "solution": "Days repeat every 7. $74 \\bmod 7 = 4$. Starting from Tuesday and adding 4: Saturday."
+  },
+  {
+   "q": "If today is Friday, what day of the week will it be 320 days from now?",
+   "options": [
+    "Wednesday",
+    "Saturday",
+    "Friday",
+    "Thursday"
+   ],
+   "answer": 0,
+   "solution": "Days repeat every 7. $320 \\bmod 7 = 5$. Starting from Friday and adding 5: Wednesday."
+  },
+  {
+   "q": "If today is Saturday, what day of the week will it be 447 days from now?",
+   "options": [
+    "Sunday",
+    "Monday",
+    "Friday",
+    "Saturday"
+   ],
+   "answer": 2,
+   "solution": "Days repeat every 7. $447 \\bmod 7 = 6$. Starting from Saturday and adding 6: Friday."
+  },
+  {
+   "q": "If today is Thursday, what day of the week will it be 387 days from now?",
+   "options": [
+    "Saturday",
+    "Sunday",
+    "Monday",
+    "Tuesday"
+   ],
+   "answer": 0,
+   "solution": "Days repeat every 7. $387 \\bmod 7 = 2$. Starting from Thursday and adding 2: Saturday."
+  },
+  {
+   "q": "If today is Saturday, what day of the week will it be 435 days from now?",
+   "options": [
+    "Tuesday",
+    "Sunday",
+    "Monday",
+    "Wednesday"
+   ],
+   "answer": 1,
+   "solution": "Days repeat every 7. $435 \\bmod 7 = 1$. Starting from Saturday and adding 1: Sunday."
+  }
+ ]
+}

@@ -1,0 +1,597 @@
+{
+ "topic": "Matrices and Determinants",
+ "ss_level": "SSS 3",
+ "icon": "fa-table-cells",
+ "color": "#7c3aed",
+ "outline": [
+  "Matrix operations (add, subtract, multiply)",
+  "Determinant and inverse of a 2×2 matrix",
+  "Solving systems via Cramer's rule"
+ ],
+ "modules": [
+  {
+   "title": "Module 1 · Matrix Operations",
+   "html": "<p>Add/subtract matrices of the same order entrywise. Multiply matrices $A_{m\\times n}$ and $B_{n\\times p}$ so that the number of columns of $A$ equals rows of $B$; the entry $(i,j)$ of $AB$ is the dot product of row $i$ of $A$ with column $j$ of $B$.</p>",
+   "examples": [
+    {
+     "q": "If $A=\\begin{pmatrix}1&2\\\\3&4\\end{pmatrix}$ and $B=\\begin{pmatrix}2&0\\\\1&3\\end{pmatrix}$, find $AB$.",
+     "a": "$AB=\\begin{pmatrix}1\\cdot2+2\\cdot1 & 1\\cdot0+2\\cdot3\\\\3\\cdot2+4\\cdot1 & 3\\cdot0+4\\cdot3\\end{pmatrix}=\\begin{pmatrix}4&6\\\\10&12\\end{pmatrix}$."
+    }
+   ]
+  },
+  {
+   "title": "Module 2 · Determinant & Inverse of a 2×2",
+   "html": "<p>For $A=\\begin{pmatrix}a&b\\\\c&d\\end{pmatrix}$:</p>$$\\det A = ad - bc,\\qquad A^{-1} = \\dfrac{1}{ad-bc}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$$<p>An inverse exists iff $\\det A \\ne 0$.</p>",
+   "examples": [
+    {
+     "q": "Find the determinant of $\\begin{pmatrix}3&5\\\\2&4\\end{pmatrix}$.",
+     "a": "$\\det = 3\\cdot 4 - 5\\cdot 2 = 12 - 10 = 2$."
+    }
+   ]
+  },
+  {
+   "title": "Module 3 · Cramer's Rule",
+   "html": "<p>For $ax+by=e$, $cx+dy=f$ with $D=ad-bc\\ne 0$:</p>$$x=\\dfrac{ed-bf}{D},\\qquad y=\\dfrac{af-ec}{D}$$",
+   "examples": [
+    {
+     "q": "Solve $2x+3y=8$, $x-y=1$ using Cramer's rule.",
+     "a": "$D=2(-1)-3(1)=-5$. $x=(8(-1)-3(1))/-5=(-11)/-5=11/5$. $y=(2(1)-8(1))/-5=(-6)/-5=6/5$. (Or directly: $x=2,y=1$? Check: substitution gives $D=-5, x=(-11)/-5=2.2$; consistent with $2(2.2)+3(1.2)=4.4+3.6=8$ ✓.)"
+    }
+   ]
+  }
+ ],
+ "slug": "matrices",
+ "subject": "Mathematics",
+ "quiz": [
+  {
+   "q": "Find the determinant of $\\begin{pmatrix}2&2\\\\6&5\\end{pmatrix}$.",
+   "options": [
+    "-1",
+    "22",
+    "-3",
+    "-2"
+   ],
+   "answer": 3,
+   "solution": "$\\det = ad - bc = 2\\cdot 5 - 2\\cdot 6 = -2$."
+  },
+  {
+   "q": "Find the determinant of $\\begin{pmatrix}7&9\\\\6&2\\end{pmatrix}$.",
+   "options": [
+    "-40",
+    "68",
+    "-41",
+    "-39"
+   ],
+   "answer": 0,
+   "solution": "$\\det = ad - bc = 7\\cdot 2 - 9\\cdot 6 = -40$."
+  },
+  {
+   "q": "Find the determinant of $\\begin{pmatrix}6&5\\\\9&3\\end{pmatrix}$.",
+   "options": [
+    "63",
+    "-26",
+    "-27",
+    "-28"
+   ],
+   "answer": 2,
+   "solution": "$\\det = ad - bc = 6\\cdot 3 - 5\\cdot 9 = -27$."
+  },
+  {
+   "q": "Find the determinant of $\\begin{pmatrix}7&1\\\\7&7\\end{pmatrix}$.",
+   "options": [
+    "56",
+    "42",
+    "43",
+    "41"
+   ],
+   "answer": 1,
+   "solution": "$\\det = ad - bc = 7\\cdot 7 - 1\\cdot 7 = 42$."
+  },
+  {
+   "q": "Find the determinant of $\\begin{pmatrix}2&2\\\\3&7\\end{pmatrix}$.",
+   "options": [
+    "20",
+    "7",
+    "9",
+    "8"
+   ],
+   "answer": 3,
+   "solution": "$\\det = ad - bc = 2\\cdot 7 - 2\\cdot 3 = 8$."
+  },
+  {
+   "q": "Find the determinant of $\\begin{pmatrix}7&2\\\\1&3\\end{pmatrix}$.",
+   "options": [
+    "20",
+    "19",
+    "18",
+    "23"
+   ],
+   "answer": 1,
+   "solution": "$\\det = ad - bc = 7\\cdot 3 - 2\\cdot 1 = 19$."
+  },
+  {
+   "q": "Find the determinant of $\\begin{pmatrix}9&6\\\\2&8\\end{pmatrix}$.",
+   "options": [
+    "61",
+    "59",
+    "84",
+    "60"
+   ],
+   "answer": 3,
+   "solution": "$\\det = ad - bc = 9\\cdot 8 - 6\\cdot 2 = 60$."
+  },
+  {
+   "q": "Find the determinant of $\\begin{pmatrix}1&5\\\\3&1\\end{pmatrix}$.",
+   "options": [
+    "16",
+    "-13",
+    "-14",
+    "-15"
+   ],
+   "answer": 2,
+   "solution": "$\\det = ad - bc = 1\\cdot 1 - 5\\cdot 3 = -14$."
+  },
+  {
+   "q": "Find the determinant of $\\begin{pmatrix}6&4\\\\8&7\\end{pmatrix}$.",
+   "options": [
+    "11",
+    "10",
+    "9",
+    "74"
+   ],
+   "answer": 1,
+   "solution": "$\\det = ad - bc = 6\\cdot 7 - 4\\cdot 8 = 10$."
+  },
+  {
+   "q": "Find the determinant of $\\begin{pmatrix}7&1\\\\1&7\\end{pmatrix}$.",
+   "options": [
+    "47",
+    "50",
+    "49",
+    "48"
+   ],
+   "answer": 3,
+   "solution": "$\\det = ad - bc = 7\\cdot 7 - 1\\cdot 1 = 48$."
+  },
+  {
+   "q": "Find the determinant of $\\begin{pmatrix}2&3\\\\9&6\\end{pmatrix}$.",
+   "options": [
+    "-14",
+    "39",
+    "-15",
+    "-16"
+   ],
+   "answer": 2,
+   "solution": "$\\det = ad - bc = 2\\cdot 6 - 3\\cdot 9 = -15$."
+  },
+  {
+   "q": "Find the determinant of $\\begin{pmatrix}8&8\\\\2&4\\end{pmatrix}$.",
+   "options": [
+    "16",
+    "48",
+    "17",
+    "15"
+   ],
+   "answer": 0,
+   "solution": "$\\det = ad - bc = 8\\cdot 4 - 8\\cdot 2 = 16$."
+  },
+  {
+   "q": "Find the determinant of $\\begin{pmatrix}1&9\\\\2&4\\end{pmatrix}$.",
+   "options": [
+    "22",
+    "-15",
+    "-14",
+    "-13"
+   ],
+   "answer": 2,
+   "solution": "$\\det = ad - bc = 1\\cdot 4 - 9\\cdot 2 = -14$."
+  },
+  {
+   "q": "Find the determinant of $\\begin{pmatrix}8&6\\\\7&5\\end{pmatrix}$.",
+   "options": [
+    "-2",
+    "-3",
+    "-1",
+    "82"
+   ],
+   "answer": 0,
+   "solution": "$\\det = ad - bc = 8\\cdot 5 - 6\\cdot 7 = -2$."
+  },
+  {
+   "q": "Find the determinant of $\\begin{pmatrix}6&3\\\\8&1\\end{pmatrix}$.",
+   "options": [
+    "-17",
+    "30",
+    "-18",
+    "-19"
+   ],
+   "answer": 2,
+   "solution": "$\\det = ad - bc = 6\\cdot 1 - 3\\cdot 8 = -18$."
+  },
+  {
+   "q": "Find $A+B$ where $A=\\begin{pmatrix}2&9\\\\3&8\\end{pmatrix}$ and $B=\\begin{pmatrix}9&2\\\\9&3\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}18&18\\\\27&24\\end{pmatrix}",
+    "\\begin{pmatrix}11&11\\\\12&11\\end{pmatrix}",
+    "\\begin{pmatrix}-7&7\\\\-6&5\\end{pmatrix}",
+    "\\begin{pmatrix}12&11\\\\12&11\\end{pmatrix}"
+   ],
+   "answer": 1,
+   "solution": "Add matrices entry-by-entry."
+  },
+  {
+   "q": "Find $A+B$ where $A=\\begin{pmatrix}7&7\\\\5&3\\end{pmatrix}$ and $B=\\begin{pmatrix}4&2\\\\1&1\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}3&5\\\\4&2\\end{pmatrix}",
+    "\\begin{pmatrix}12&9\\\\6&4\\end{pmatrix}",
+    "\\begin{pmatrix}11&9\\\\6&4\\end{pmatrix}",
+    "\\begin{pmatrix}28&14\\\\5&3\\end{pmatrix}"
+   ],
+   "answer": 2,
+   "solution": "Add matrices entry-by-entry."
+  },
+  {
+   "q": "Find $A+B$ where $A=\\begin{pmatrix}4&7\\\\4&7\\end{pmatrix}$ and $B=\\begin{pmatrix}3&8\\\\2&3\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}1&-1\\\\2&4\\end{pmatrix}",
+    "\\begin{pmatrix}8&15\\\\6&10\\end{pmatrix}",
+    "\\begin{pmatrix}12&56\\\\8&21\\end{pmatrix}",
+    "\\begin{pmatrix}7&15\\\\6&10\\end{pmatrix}"
+   ],
+   "answer": 3,
+   "solution": "Add matrices entry-by-entry."
+  },
+  {
+   "q": "Find $A+B$ where $A=\\begin{pmatrix}6&8\\\\5&5\\end{pmatrix}$ and $B=\\begin{pmatrix}6&9\\\\7&4\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}0&-1\\\\-2&1\\end{pmatrix}",
+    "\\begin{pmatrix}13&17\\\\12&9\\end{pmatrix}",
+    "\\begin{pmatrix}12&17\\\\12&9\\end{pmatrix}",
+    "\\begin{pmatrix}36&72\\\\35&20\\end{pmatrix}"
+   ],
+   "answer": 2,
+   "solution": "Add matrices entry-by-entry."
+  },
+  {
+   "q": "Find $A+B$ where $A=\\begin{pmatrix}8&7\\\\9&4\\end{pmatrix}$ and $B=\\begin{pmatrix}5&6\\\\8&6\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}40&42\\\\72&24\\end{pmatrix}",
+    "\\begin{pmatrix}3&1\\\\1&-2\\end{pmatrix}",
+    "\\begin{pmatrix}13&13\\\\17&10\\end{pmatrix}",
+    "\\begin{pmatrix}14&13\\\\17&10\\end{pmatrix}"
+   ],
+   "answer": 2,
+   "solution": "Add matrices entry-by-entry."
+  },
+  {
+   "q": "Find $A+B$ where $A=\\begin{pmatrix}4&8\\\\9&4\\end{pmatrix}$ and $B=\\begin{pmatrix}3&6\\\\4&9\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}12&48\\\\36&36\\end{pmatrix}",
+    "\\begin{pmatrix}1&2\\\\5&-5\\end{pmatrix}",
+    "\\begin{pmatrix}7&14\\\\13&13\\end{pmatrix}",
+    "\\begin{pmatrix}8&14\\\\13&13\\end{pmatrix}"
+   ],
+   "answer": 2,
+   "solution": "Add matrices entry-by-entry."
+  },
+  {
+   "q": "Find $A+B$ where $A=\\begin{pmatrix}8&8\\\\8&5\\end{pmatrix}$ and $B=\\begin{pmatrix}7&1\\\\2&8\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}16&9\\\\10&13\\end{pmatrix}",
+    "\\begin{pmatrix}1&7\\\\6&-3\\end{pmatrix}",
+    "\\begin{pmatrix}15&9\\\\10&13\\end{pmatrix}",
+    "\\begin{pmatrix}56&8\\\\16&40\\end{pmatrix}"
+   ],
+   "answer": 2,
+   "solution": "Add matrices entry-by-entry."
+  },
+  {
+   "q": "Find $A+B$ where $A=\\begin{pmatrix}5&9\\\\2&7\\end{pmatrix}$ and $B=\\begin{pmatrix}1&5\\\\8&5\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}5&45\\\\16&35\\end{pmatrix}",
+    "\\begin{pmatrix}6&14\\\\10&12\\end{pmatrix}",
+    "\\begin{pmatrix}4&4\\\\-6&2\\end{pmatrix}",
+    "\\begin{pmatrix}7&14\\\\10&12\\end{pmatrix}"
+   ],
+   "answer": 1,
+   "solution": "Add matrices entry-by-entry."
+  },
+  {
+   "q": "Find $A+B$ where $A=\\begin{pmatrix}5&4\\\\8&1\\end{pmatrix}$ and $B=\\begin{pmatrix}1&7\\\\7&8\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}4&-3\\\\1&-7\\end{pmatrix}",
+    "\\begin{pmatrix}6&11\\\\15&9\\end{pmatrix}",
+    "\\begin{pmatrix}5&28\\\\56&8\\end{pmatrix}",
+    "\\begin{pmatrix}7&11\\\\15&9\\end{pmatrix}"
+   ],
+   "answer": 1,
+   "solution": "Add matrices entry-by-entry."
+  },
+  {
+   "q": "Find $A+B$ where $A=\\begin{pmatrix}7&6\\\\2&7\\end{pmatrix}$ and $B=\\begin{pmatrix}4&9\\\\4&3\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}28&54\\\\8&21\\end{pmatrix}",
+    "\\begin{pmatrix}3&-3\\\\-2&4\\end{pmatrix}",
+    "\\begin{pmatrix}12&15\\\\6&10\\end{pmatrix}",
+    "\\begin{pmatrix}11&15\\\\6&10\\end{pmatrix}"
+   ],
+   "answer": 3,
+   "solution": "Add matrices entry-by-entry."
+  },
+  {
+   "q": "Find $ 3A$ where $A=\\begin{pmatrix}6&6\\\\6&5\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}6&6\\\\6&5\\end{pmatrix}",
+    "\\begin{pmatrix}18&18\\\\18&15\\end{pmatrix}",
+    "\\begin{pmatrix}19&18\\\\18&15\\end{pmatrix}",
+    "\\begin{pmatrix}9&9\\\\9&8\\end{pmatrix}"
+   ],
+   "answer": 1,
+   "solution": "Scalar multiplies every entry."
+  },
+  {
+   "q": "Find $ 6A$ where $A=\\begin{pmatrix}4&2\\\\2&3\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}24&12\\\\12&18\\end{pmatrix}",
+    "\\begin{pmatrix}25&12\\\\12&18\\end{pmatrix}",
+    "\\begin{pmatrix}10&8\\\\8&9\\end{pmatrix}",
+    "\\begin{pmatrix}4&2\\\\2&3\\end{pmatrix}"
+   ],
+   "answer": 0,
+   "solution": "Scalar multiplies every entry."
+  },
+  {
+   "q": "Find $ 5A$ where $A=\\begin{pmatrix}4&6\\\\2&3\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}4&6\\\\2&3\\end{pmatrix}",
+    "\\begin{pmatrix}9&11\\\\7&8\\end{pmatrix}",
+    "\\begin{pmatrix}21&30\\\\10&15\\end{pmatrix}",
+    "\\begin{pmatrix}20&30\\\\10&15\\end{pmatrix}"
+   ],
+   "answer": 3,
+   "solution": "Scalar multiplies every entry."
+  },
+  {
+   "q": "Find $ 2A$ where $A=\\begin{pmatrix}6&4\\\\2&1\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}6&4\\\\2&1\\end{pmatrix}",
+    "\\begin{pmatrix}12&8\\\\4&2\\end{pmatrix}",
+    "\\begin{pmatrix}8&6\\\\4&3\\end{pmatrix}",
+    "\\begin{pmatrix}13&8\\\\4&2\\end{pmatrix}"
+   ],
+   "answer": 1,
+   "solution": "Scalar multiplies every entry."
+  },
+  {
+   "q": "Find $ 3A$ where $A=\\begin{pmatrix}6&4\\\\3&6\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}6&4\\\\3&6\\end{pmatrix}",
+    "\\begin{pmatrix}9&7\\\\6&9\\end{pmatrix}",
+    "\\begin{pmatrix}19&12\\\\9&18\\end{pmatrix}",
+    "\\begin{pmatrix}18&12\\\\9&18\\end{pmatrix}"
+   ],
+   "answer": 3,
+   "solution": "Scalar multiplies every entry."
+  },
+  {
+   "q": "Find $ 4A$ where $A=\\begin{pmatrix}5&1\\\\3&2\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}9&5\\\\7&6\\end{pmatrix}",
+    "\\begin{pmatrix}20&4\\\\12&8\\end{pmatrix}",
+    "\\begin{pmatrix}5&1\\\\3&2\\end{pmatrix}",
+    "\\begin{pmatrix}21&4\\\\12&8\\end{pmatrix}"
+   ],
+   "answer": 1,
+   "solution": "Scalar multiplies every entry."
+  },
+  {
+   "q": "Find $ 3A$ where $A=\\begin{pmatrix}2&6\\\\2&6\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}6&18\\\\6&18\\end{pmatrix}",
+    "\\begin{pmatrix}7&18\\\\6&18\\end{pmatrix}",
+    "\\begin{pmatrix}2&6\\\\2&6\\end{pmatrix}",
+    "\\begin{pmatrix}5&9\\\\5&9\\end{pmatrix}"
+   ],
+   "answer": 0,
+   "solution": "Scalar multiplies every entry."
+  },
+  {
+   "q": "Find $ 4A$ where $A=\\begin{pmatrix}6&5\\\\3&1\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}6&5\\\\3&1\\end{pmatrix}",
+    "\\begin{pmatrix}25&20\\\\12&4\\end{pmatrix}",
+    "\\begin{pmatrix}10&9\\\\7&5\\end{pmatrix}",
+    "\\begin{pmatrix}24&20\\\\12&4\\end{pmatrix}"
+   ],
+   "answer": 3,
+   "solution": "Scalar multiplies every entry."
+  },
+  {
+   "q": "Find $ 5A$ where $A=\\begin{pmatrix}4&2\\\\6&1\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}9&7\\\\11&6\\end{pmatrix}",
+    "\\begin{pmatrix}21&10\\\\30&5\\end{pmatrix}",
+    "\\begin{pmatrix}4&2\\\\6&1\\end{pmatrix}",
+    "\\begin{pmatrix}20&10\\\\30&5\\end{pmatrix}"
+   ],
+   "answer": 3,
+   "solution": "Scalar multiplies every entry."
+  },
+  {
+   "q": "Find $ 2A$ where $A=\\begin{pmatrix}6&6\\\\6&3\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}13&12\\\\12&6\\end{pmatrix}",
+    "\\begin{pmatrix}12&12\\\\12&6\\end{pmatrix}",
+    "\\begin{pmatrix}8&8\\\\8&5\\end{pmatrix}",
+    "\\begin{pmatrix}6&6\\\\6&3\\end{pmatrix}"
+   ],
+   "answer": 1,
+   "solution": "Scalar multiplies every entry."
+  },
+  {
+   "q": "Find the inverse of $\\begin{pmatrix}5&2\\\\5&5\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}5&-2\\\\-5&5\\end{pmatrix}",
+    "\\dfrac{1}{15}\\begin{pmatrix}5&-2\\\\-5&5\\end{pmatrix}",
+    "\\dfrac{1}{15}\\begin{pmatrix}5&-2\\\\-5&5\\end{pmatrix}",
+    "\\dfrac{1}{35}\\begin{pmatrix}5&-2\\\\-5&5\\end{pmatrix}"
+   ],
+   "answer": 1,
+   "solution": "$A^{-1} = \\dfrac{1}{\\det A}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$ with $\\det = 15$."
+  },
+  {
+   "q": "Find the inverse of $\\begin{pmatrix}5&5\\\\5&3\\end{pmatrix}$.",
+   "options": [
+    "\\dfrac{1}{-10}\\begin{pmatrix}5&-5\\\\-5&3\\end{pmatrix}",
+    "\\dfrac{1}{-10}\\begin{pmatrix}3&-5\\\\-5&5\\end{pmatrix}",
+    "\\begin{pmatrix}3&-5\\\\-5&5\\end{pmatrix}",
+    "\\dfrac{1}{40}\\begin{pmatrix}3&-5\\\\-5&5\\end{pmatrix}"
+   ],
+   "answer": 1,
+   "solution": "$A^{-1} = \\dfrac{1}{\\det A}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$ with $\\det = -10$."
+  },
+  {
+   "q": "Find the inverse of $\\begin{pmatrix}4&2\\\\1&4\\end{pmatrix}$.",
+   "options": [
+    "\\dfrac{1}{14}\\begin{pmatrix}4&-2\\\\-1&4\\end{pmatrix}",
+    "\\dfrac{1}{14}\\begin{pmatrix}4&-2\\\\-1&4\\end{pmatrix}",
+    "\\begin{pmatrix}4&-2\\\\-1&4\\end{pmatrix}",
+    "\\dfrac{1}{18}\\begin{pmatrix}4&-2\\\\-1&4\\end{pmatrix}"
+   ],
+   "answer": 0,
+   "solution": "$A^{-1} = \\dfrac{1}{\\det A}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$ with $\\det = 14$."
+  },
+  {
+   "q": "Find the inverse of $\\begin{pmatrix}2&4\\\\5&3\\end{pmatrix}$.",
+   "options": [
+    "\\dfrac{1}{26}\\begin{pmatrix}3&-4\\\\-5&2\\end{pmatrix}",
+    "\\dfrac{1}{-14}\\begin{pmatrix}2&-4\\\\-5&3\\end{pmatrix}",
+    "\\begin{pmatrix}3&-4\\\\-5&2\\end{pmatrix}",
+    "\\dfrac{1}{-14}\\begin{pmatrix}3&-4\\\\-5&2\\end{pmatrix}"
+   ],
+   "answer": 3,
+   "solution": "$A^{-1} = \\dfrac{1}{\\det A}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$ with $\\det = -14$."
+  },
+  {
+   "q": "Find the inverse of $\\begin{pmatrix}5&5\\\\3&1\\end{pmatrix}$.",
+   "options": [
+    "\\dfrac{1}{20}\\begin{pmatrix}1&-5\\\\-3&5\\end{pmatrix}",
+    "\\dfrac{1}{-10}\\begin{pmatrix}1&-5\\\\-3&5\\end{pmatrix}",
+    "\\begin{pmatrix}1&-5\\\\-3&5\\end{pmatrix}",
+    "\\dfrac{1}{-10}\\begin{pmatrix}5&-5\\\\-3&1\\end{pmatrix}"
+   ],
+   "answer": 1,
+   "solution": "$A^{-1} = \\dfrac{1}{\\det A}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$ with $\\det = -10$."
+  },
+  {
+   "q": "Find the inverse of $\\begin{pmatrix}2&4\\\\1&5\\end{pmatrix}$.",
+   "options": [
+    "\\dfrac{1}{6}\\begin{pmatrix}2&-4\\\\-1&5\\end{pmatrix}",
+    "\\dfrac{1}{14}\\begin{pmatrix}5&-4\\\\-1&2\\end{pmatrix}",
+    "\\begin{pmatrix}5&-4\\\\-1&2\\end{pmatrix}",
+    "\\dfrac{1}{6}\\begin{pmatrix}5&-4\\\\-1&2\\end{pmatrix}"
+   ],
+   "answer": 3,
+   "solution": "$A^{-1} = \\dfrac{1}{\\det A}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$ with $\\det = 6$."
+  },
+  {
+   "q": "Find the inverse of $\\begin{pmatrix}1&3\\\\2&3\\end{pmatrix}$.",
+   "options": [
+    "\\dfrac{1}{9}\\begin{pmatrix}3&-3\\\\-2&1\\end{pmatrix}",
+    "\\dfrac{1}{-3}\\begin{pmatrix}1&-3\\\\-2&3\\end{pmatrix}",
+    "\\dfrac{1}{-3}\\begin{pmatrix}3&-3\\\\-2&1\\end{pmatrix}",
+    "\\begin{pmatrix}3&-3\\\\-2&1\\end{pmatrix}"
+   ],
+   "answer": 2,
+   "solution": "$A^{-1} = \\dfrac{1}{\\det A}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$ with $\\det = -3$."
+  },
+  {
+   "q": "Find the inverse of $\\begin{pmatrix}5&1\\\\5&2\\end{pmatrix}$.",
+   "options": [
+    "\\dfrac{1}{5}\\begin{pmatrix}5&-1\\\\-5&2\\end{pmatrix}",
+    "\\dfrac{1}{15}\\begin{pmatrix}2&-1\\\\-5&5\\end{pmatrix}",
+    "\\begin{pmatrix}2&-1\\\\-5&5\\end{pmatrix}",
+    "\\dfrac{1}{5}\\begin{pmatrix}2&-1\\\\-5&5\\end{pmatrix}"
+   ],
+   "answer": 3,
+   "solution": "$A^{-1} = \\dfrac{1}{\\det A}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$ with $\\det = 5$."
+  },
+  {
+   "q": "Find the inverse of $\\begin{pmatrix}1&2\\\\4&5\\end{pmatrix}$.",
+   "options": [
+    "\\dfrac{1}{-3}\\begin{pmatrix}1&-2\\\\-4&5\\end{pmatrix}",
+    "\\dfrac{1}{13}\\begin{pmatrix}5&-2\\\\-4&1\\end{pmatrix}",
+    "\\dfrac{1}{-3}\\begin{pmatrix}5&-2\\\\-4&1\\end{pmatrix}",
+    "\\begin{pmatrix}5&-2\\\\-4&1\\end{pmatrix}"
+   ],
+   "answer": 2,
+   "solution": "$A^{-1} = \\dfrac{1}{\\det A}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$ with $\\det = -3$."
+  },
+  {
+   "q": "Find the inverse of $\\begin{pmatrix}5&2\\\\5&4\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}4&-2\\\\-5&5\\end{pmatrix}",
+    "\\dfrac{1}{10}\\begin{pmatrix}4&-2\\\\-5&5\\end{pmatrix}",
+    "\\dfrac{1}{30}\\begin{pmatrix}4&-2\\\\-5&5\\end{pmatrix}",
+    "\\dfrac{1}{10}\\begin{pmatrix}5&-2\\\\-5&4\\end{pmatrix}"
+   ],
+   "answer": 1,
+   "solution": "$A^{-1} = \\dfrac{1}{\\det A}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$ with $\\det = 10$."
+  },
+  {
+   "q": "Find the inverse of $\\begin{pmatrix}3&5\\\\3&4\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}4&-5\\\\-3&3\\end{pmatrix}",
+    "\\dfrac{1}{-3}\\begin{pmatrix}3&-5\\\\-3&4\\end{pmatrix}",
+    "\\dfrac{1}{-3}\\begin{pmatrix}4&-5\\\\-3&3\\end{pmatrix}",
+    "\\dfrac{1}{27}\\begin{pmatrix}4&-5\\\\-3&3\\end{pmatrix}"
+   ],
+   "answer": 2,
+   "solution": "$A^{-1} = \\dfrac{1}{\\det A}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$ with $\\det = -3$."
+  },
+  {
+   "q": "Find the inverse of $\\begin{pmatrix}3&5\\\\3&2\\end{pmatrix}$.",
+   "options": [
+    "\\dfrac{1}{-9}\\begin{pmatrix}3&-5\\\\-3&2\\end{pmatrix}",
+    "\\begin{pmatrix}2&-5\\\\-3&3\\end{pmatrix}",
+    "\\dfrac{1}{-9}\\begin{pmatrix}2&-5\\\\-3&3\\end{pmatrix}",
+    "\\dfrac{1}{21}\\begin{pmatrix}2&-5\\\\-3&3\\end{pmatrix}"
+   ],
+   "answer": 2,
+   "solution": "$A^{-1} = \\dfrac{1}{\\det A}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$ with $\\det = -9$."
+  },
+  {
+   "q": "Find the inverse of $\\begin{pmatrix}4&3\\\\1&2\\end{pmatrix}$.",
+   "options": [
+    "\\dfrac{1}{5}\\begin{pmatrix}4&-3\\\\-1&2\\end{pmatrix}",
+    "\\dfrac{1}{11}\\begin{pmatrix}2&-3\\\\-1&4\\end{pmatrix}",
+    "\\dfrac{1}{5}\\begin{pmatrix}2&-3\\\\-1&4\\end{pmatrix}",
+    "\\begin{pmatrix}2&-3\\\\-1&4\\end{pmatrix}"
+   ],
+   "answer": 2,
+   "solution": "$A^{-1} = \\dfrac{1}{\\det A}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$ with $\\det = 5$."
+  },
+  {
+   "q": "Find the inverse of $\\begin{pmatrix}2&4\\\\5&4\\end{pmatrix}$.",
+   "options": [
+    "\\dfrac{1}{-12}\\begin{pmatrix}2&-4\\\\-5&4\\end{pmatrix}",
+    "\\begin{pmatrix}4&-4\\\\-5&2\\end{pmatrix}",
+    "\\dfrac{1}{-12}\\begin{pmatrix}4&-4\\\\-5&2\\end{pmatrix}",
+    "\\dfrac{1}{28}\\begin{pmatrix}4&-4\\\\-5&2\\end{pmatrix}"
+   ],
+   "answer": 2,
+   "solution": "$A^{-1} = \\dfrac{1}{\\det A}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$ with $\\det = -12$."
+  },
+  {
+   "q": "Find the inverse of $\\begin{pmatrix}2&4\\\\5&4\\end{pmatrix}$.",
+   "options": [
+    "\\begin{pmatrix}4&-4\\\\-5&2\\end{pmatrix}",
+    "\\dfrac{1}{-12}\\begin{pmatrix}2&-4\\\\-5&4\\end{pmatrix}",
+    "\\dfrac{1}{-12}\\begin{pmatrix}4&-4\\\\-5&2\\end{pmatrix}",
+    "\\dfrac{1}{28}\\begin{pmatrix}4&-4\\\\-5&2\\end{pmatrix}"
+   ],
+   "answer": 2,
+   "solution": "$A^{-1} = \\dfrac{1}{\\det A}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$ with $\\det = -12$."
+  }
+ ]
+}

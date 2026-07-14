@@ -1,0 +1,635 @@
+{
+ "topic": "Number Bases",
+ "ss_level": "SSS 1",
+ "icon": "fa-hashtag",
+ "color": "#7c3aed",
+ "outline": [
+  "Place value & counting in different bases",
+  "Converting base 10 → other bases",
+  "Converting other bases → base 10",
+  "Arithmetic (add / subtract / multiply) in different bases",
+  "Solving equations involving number bases"
+ ],
+ "modules": [
+  {
+   "title": "Module 1 · What is a Number Base?",
+   "html": "<p>The <b>base</b> (or <b>radix</b>) of a number system is the number of distinct digits, including 0, used to represent numbers. The decimal system we use every day is <b>base 10</b> because it uses the ten digits $0,1,2,3,4,5,6,7,8,9$.</p><p>In base $b$, a number written as $d_n d_{n-1}\\ldots d_1 d_0$ means:</p>$$d_n\\cdot b^n + d_{n-1}\\cdot b^{n-1} + \\ldots + d_1\\cdot b^1 + d_0\\cdot b^0$$<p>For example, $234_{10}$ means $2\\cdot 10^2 + 3\\cdot 10^1 + 4\\cdot 10^0 = 234$.</p><p>In base 2 (binary), only digits 0 and 1 are used. In base 8 (octal): 0–7. In base 16 (hexadecimal): 0–9 and A–F where $A=10, B=11, \\ldots, F=15$.</p>",
+   "examples": [
+    {
+     "q": "Expand $1011_2$ in terms of powers of 2.",
+     "a": "$1011_2 = 1\\cdot 2^3 + 0\\cdot 2^2 + 1\\cdot 2^1 + 1\\cdot 2^0 = 8+0+2+1 = 11_{10}$"
+    }
+   ]
+  },
+  {
+   "title": "Module 2 · Converting from Base 10 to Base $b$",
+   "html": "<p>Use <b>repeated division by $b$</b>: divide the number by $b$, note the remainder, then divide the quotient by $b$ again. Continue until the quotient is 0. The base-$b$ representation is read from the last remainder to the first (bottom-up).</p><p><b>Steps:</b></p><ol><li>Divide the number by the new base.</li><li>Write the remainder.</li><li>Repeat with the quotient until quotient = 0.</li><li>Read the remainders from bottom to top.</li></ol>",
+   "examples": [
+    {
+     "q": "Convert $45_{10}$ to base 2.",
+     "a": "$45\\div 2 = 22\\ r\\ 1$; $22\\div 2 = 11\\ r\\ 0$; $11\\div 2 = 5\\ r\\ 1$; $5\\div 2 = 2\\ r\\ 1$; $2\\div 2 = 1\\ r\\ 0$; $1\\div 2 = 0\\ r\\ 1$. Reading bottom-up: $101101_2$."
+    },
+    {
+     "q": "Convert $250_{10}$ to base 8.",
+     "a": "$250\\div 8 = 31\\ r\\ 2$; $31\\div 8 = 3\\ r\\ 7$; $3\\div 8 = 0\\ r\\ 3$. Answer: $372_8$."
+    }
+   ]
+  },
+  {
+   "title": "Module 3 · Converting from Base $b$ to Base 10",
+   "html": "<p>Multiply each digit by the appropriate power of the base and add:</p>$$N_{10}=\\sum_{k=0}^{n} d_k \\cdot b^{k}$$",
+   "examples": [
+    {
+     "q": "Convert $432_5$ to base 10.",
+     "a": "$4\\cdot 5^2 + 3\\cdot 5^1 + 2\\cdot 5^0 = 100 + 15 + 2 = 117_{10}$."
+    },
+    {
+     "q": "Convert $1A_{16}$ to base 10 (where $A=10$).",
+     "a": "$1\\cdot 16 + 10 = 26_{10}$."
+    }
+   ]
+  },
+  {
+   "title": "Module 4 · Arithmetic in Other Bases",
+   "html": "<p>Add or multiply digit-by-digit as in base 10, but <b>carry</b> whenever the digit-sum reaches the base $b$ (instead of 10).</p><p><b>Golden rule:</b> for base $b$, any digit $\\ge b$ triggers a carry equal to $\\lfloor \\text{sum}/b\\rfloor$; the digit written is $\\text{sum}\\bmod b$.</p><p>For subtraction, borrowing gives $b$ (not 10) to the next-lower column.</p>",
+   "examples": [
+    {
+     "q": "Add $110_2 + 101_2$.",
+     "a": "Column-wise from right: $0+1=1$; $1+0=1$; $1+1=10_2$ so write 0 carry 1; leading carry 1. Answer: $1011_2$."
+    },
+    {
+     "q": "Multiply $23_5 \\times 4_5$.",
+     "a": "$3\\times 4 = 12_{10} = 22_5$ (since $12 = 2\\cdot 5 + 2$): write 2, carry 2. Then $2\\times 4 = 8 + 2 = 10_{10} = 20_5$: write 0, carry 2. Answer: $202_5$."
+    }
+   ]
+  },
+  {
+   "title": "Module 5 · Solving Equations in Different Bases",
+   "html": "<p>Convert each number to base 10, solve the equation, then convert back if required.</p>",
+   "examples": [
+    {
+     "q": "Find $x$ if $32_x = 26_{10}$.",
+     "a": "$32_x = 3x + 2 = 26 \\Rightarrow 3x = 24 \\Rightarrow x = 8$."
+    },
+    {
+     "q": "Find $y$ if $y1_5 = 21_{10}$.",
+     "a": "$y1_5 = 5y + 1 = 21 \\Rightarrow y = 4$."
+    }
+   ]
+  }
+ ],
+ "slug": "number-bases",
+ "subject": "Mathematics",
+ "quiz": [
+  {
+   "q": "Convert $999_{10}$ to base $2$.",
+   "options": [
+    "1111101000_{2}",
+    "1101000_{3}",
+    "1111100110_{2}",
+    "1111100111_{2}"
+   ],
+   "answer": 3,
+   "solution": "Repeated division by 2: $999 \\to 1111100111_{2}$."
+  },
+  {
+   "q": "Convert $68_{10}$ to base $6$.",
+   "options": [
+    "153_{6}",
+    "125_{7}",
+    "152_{6}",
+    "151_{6}"
+   ],
+   "answer": 2,
+   "solution": "Repeated division by 6: $68 \\to 152_{6}$."
+  },
+  {
+   "q": "Convert $1560_{7}$ to base 10.",
+   "options": [
+    "628_{10}",
+    "628_{10}",
+    "629_{10}",
+    "630_{10}"
+   ],
+   "answer": 3,
+   "solution": "$1560_{7} = 0\\cdot 7^{0} + 6\\cdot 7^{1} + 5\\cdot 7^{2} + 1\\cdot 7^{3} = 630_{10}$."
+  },
+  {
+   "q": "Convert $1021100_{3}$ to base 10.",
+   "options": [
+    "927_{10}",
+    "929_{10}",
+    "926_{10}",
+    "928_{10}"
+   ],
+   "answer": 0,
+   "solution": "$1021100_{3} = 0\\cdot 3^{0} + 0\\cdot 3^{1} + 1\\cdot 3^{2} + 1\\cdot 3^{3} + 2\\cdot 3^{4} + 0\\cdot 3^{5} + 1\\cdot 3^{6} = 927_{10}$."
+  },
+  {
+   "q": "Convert $4343_{5}$ to base 10.",
+   "options": [
+    "598_{10}",
+    "599_{10}",
+    "596_{10}",
+    "600_{10}"
+   ],
+   "answer": 0,
+   "solution": "$4343_{5} = 3\\cdot 5^{0} + 4\\cdot 5^{1} + 3\\cdot 5^{2} + 4\\cdot 5^{3} = 598_{10}$."
+  },
+  {
+   "q": "Convert $111111000_{2}$ to base 10.",
+   "options": [
+    "506_{10}",
+    "502_{10}",
+    "502_{10}",
+    "504_{10}"
+   ],
+   "answer": 3,
+   "solution": "$111111000_{2} = 0\\cdot 2^{0} + 0\\cdot 2^{1} + 0\\cdot 2^{2} + 1\\cdot 2^{3} + 1\\cdot 2^{4} + 1\\cdot 2^{5} + 1\\cdot 2^{6} + 1\\cdot 2^{7} + 1\\cdot 2^{8} = 504_{10}$."
+  },
+  {
+   "q": "Convert $183_{10}$ to base $3$.",
+   "options": [
+    "20202_{3}",
+    "20211_{3}",
+    "2313_{4}",
+    "20210_{3}"
+   ],
+   "answer": 3,
+   "solution": "Repeated division by 3: $183 \\to 20210_{3}$."
+  },
+  {
+   "q": "Convert $299_{10}$ to base $7$.",
+   "options": [
+    "453_{8}",
+    "604_{7}",
+    "605_{7}",
+    "606_{7}"
+   ],
+   "answer": 2,
+   "solution": "Repeated division by 7: $299 \\to 605_{7}$."
+  },
+  {
+   "q": "Convert $479_{10}$ to base $3$.",
+   "options": [
+    "122202_{3}",
+    "122201_{3}",
+    "13133_{4}",
+    "122210_{3}"
+   ],
+   "answer": 0,
+   "solution": "Repeated division by 3: $479 \\to 122202_{3}$."
+  },
+  {
+   "q": "Convert $485_{10}$ to base $2$.",
+   "options": [
+    "111100110_{2}",
+    "111100101_{2}",
+    "111100100_{2}",
+    "122222_{3}"
+   ],
+   "answer": 1,
+   "solution": "Repeated division by 2: $485 \\to 111100101_{2}$."
+  },
+  {
+   "q": "Convert $855_{10}$ to base $3$.",
+   "options": [
+    "1011201_{3}",
+    "1011122_{3}",
+    "1011200_{3}",
+    "31113_{4}"
+   ],
+   "answer": 2,
+   "solution": "Repeated division by 3: $855 \\to 1011200_{3}$."
+  },
+  {
+   "q": "Convert $1244_{5}$ to base 10.",
+   "options": [
+    "201_{10}",
+    "198_{10}",
+    "199_{10}",
+    "200_{10}"
+   ],
+   "answer": 2,
+   "solution": "$1244_{5} = 4\\cdot 5^{0} + 4\\cdot 5^{1} + 2\\cdot 5^{2} + 1\\cdot 5^{3} = 199_{10}$."
+  },
+  {
+   "q": "Convert $659_{10}$ to base $6$.",
+   "options": [
+    "3020_{6}",
+    "3015_{6}",
+    "1631_{7}",
+    "3014_{6}"
+   ],
+   "answer": 1,
+   "solution": "Repeated division by 6: $659 \\to 3015_{6}$."
+  },
+  {
+   "q": "Convert $1034_{5}$ to base 10.",
+   "options": [
+    "146_{10}",
+    "142_{10}",
+    "146_{10}",
+    "144_{10}"
+   ],
+   "answer": 3,
+   "solution": "$1034_{5} = 4\\cdot 5^{0} + 3\\cdot 5^{1} + 0\\cdot 5^{2} + 1\\cdot 5^{3} = 144_{10}$."
+  },
+  {
+   "q": "Convert $263_{10}$ to base $2$.",
+   "options": [
+    "100000110_{2}",
+    "100202_{3}",
+    "100001000_{2}",
+    "100000111_{2}"
+   ],
+   "answer": 3,
+   "solution": "Repeated division by 2: $263 \\to 100000111_{2}$."
+  },
+  {
+   "q": "Convert $785_{10}$ to base $8$.",
+   "options": [
+    "1062_{9}",
+    "1421_{8}",
+    "1420_{8}",
+    "1422_{8}"
+   ],
+   "answer": 1,
+   "solution": "Repeated division by 8: $785 \\to 1421_{8}$."
+  },
+  {
+   "q": "Convert $644_{10}$ to base $4$.",
+   "options": [
+    "22003_{4}",
+    "22010_{4}",
+    "22011_{4}",
+    "10034_{5}"
+   ],
+   "answer": 1,
+   "solution": "Repeated division by 4: $644 \\to 22010_{4}$."
+  },
+  {
+   "q": "Convert $221212_{3}$ to base 10.",
+   "options": [
+    "699_{10}",
+    "698_{10}",
+    "696_{10}",
+    "699_{10}"
+   ],
+   "answer": 1,
+   "solution": "$221212_{3} = 2\\cdot 3^{0} + 1\\cdot 3^{1} + 2\\cdot 3^{2} + 1\\cdot 3^{3} + 2\\cdot 3^{4} + 2\\cdot 3^{5} = 698_{10}$."
+  },
+  {
+   "q": "Convert $101_{10}$ to base $16$.",
+   "options": [
+    "6B_{15}",
+    "66_{16}",
+    "64_{16}",
+    "65_{16}"
+   ],
+   "answer": 3,
+   "solution": "Repeated division by 16: $101 \\to 65_{16}$."
+  },
+  {
+   "q": "Convert $726_{10}$ to base $8$.",
+   "options": [
+    "1326_{8}",
+    "886_{9}",
+    "1327_{8}",
+    "1325_{8}"
+   ],
+   "answer": 0,
+   "solution": "Repeated division by 8: $726 \\to 1326_{8}$."
+  },
+  {
+   "q": "Convert $719_{10}$ to base $16$.",
+   "options": [
+    "32E_{15}",
+    "2CE_{16}",
+    "2D0_{16}",
+    "2CF_{16}"
+   ],
+   "answer": 3,
+   "solution": "Repeated division by 16: $719 \\to 2CF_{16}$."
+  },
+  {
+   "q": "Convert $718_{10}$ to base $5$.",
+   "options": [
+    "3154_{6}",
+    "10333_{5}",
+    "10334_{5}",
+    "10332_{5}"
+   ],
+   "answer": 1,
+   "solution": "Repeated division by 5: $718 \\to 10333_{5}$."
+  },
+  {
+   "q": "Convert $328_{10}$ to base $4$.",
+   "options": [
+    "2303_{5}",
+    "11021_{4}",
+    "11020_{4}",
+    "11013_{4}"
+   ],
+   "answer": 2,
+   "solution": "Repeated division by 4: $328 \\to 11020_{4}$."
+  },
+  {
+   "q": "Convert $12003_{5}$ to base 10.",
+   "options": [
+    "877_{10}",
+    "879_{10}",
+    "880_{10}",
+    "878_{10}"
+   ],
+   "answer": 3,
+   "solution": "$12003_{5} = 3\\cdot 5^{0} + 0\\cdot 5^{1} + 0\\cdot 5^{2} + 2\\cdot 5^{3} + 1\\cdot 5^{4} = 878_{10}$."
+  },
+  {
+   "q": "Convert $1000001001_{2}$ to base 10.",
+   "options": [
+    "519_{10}",
+    "519_{10}",
+    "521_{10}",
+    "522_{10}"
+   ],
+   "answer": 2,
+   "solution": "$1000001001_{2} = 1\\cdot 2^{0} + 0\\cdot 2^{1} + 0\\cdot 2^{2} + 1\\cdot 2^{3} + 0\\cdot 2^{4} + 0\\cdot 2^{5} + 0\\cdot 2^{6} + 0\\cdot 2^{7} + 0\\cdot 2^{8} + 1\\cdot 2^{9} = 521_{10}$."
+  },
+  {
+   "q": "Evaluate $73_{8} \\times 74_{8}$ in base 8.",
+   "options": [
+    "6724_{8}",
+    "6723_{8}",
+    "6734_{8}",
+    "6725_{8}"
+   ],
+   "answer": 0,
+   "solution": "Convert to base 10: $73_{8}=59$ and $74_{8}=60$. Then $59\\times60=3540=6724_{8}$."
+  },
+  {
+   "q": "Evaluate $45_{6} + 22_{6}$ in base 6.",
+   "options": [
+    "110_{6}",
+    "112_{6}",
+    "121_{6}",
+    "111_{6}"
+   ],
+   "answer": 3,
+   "solution": "Convert to base 10: $45_{6}=29$ and $22_{6}=14$. Then $29+14=43=111_{6}$."
+  },
+  {
+   "q": "Evaluate $73_{8} \\times 20_{8}$ in base 8.",
+   "options": [
+    "1661_{8}",
+    "1660_{8}",
+    "1657_{8}",
+    "1670_{8}"
+   ],
+   "answer": 1,
+   "solution": "Convert to base 10: $73_{8}=59$ and $20_{8}=16$. Then $59\\times16=944=1660_{8}$."
+  },
+  {
+   "q": "Evaluate $35_{6} \\times 45_{6}$ in base 6.",
+   "options": [
+    "3030_{6}",
+    "3032_{6}",
+    "3031_{6}",
+    "3041_{6}"
+   ],
+   "answer": 2,
+   "solution": "Convert to base 10: $35_{6}=23$ and $45_{6}=29$. Then $23\\times29=667=3031_{6}$."
+  },
+  {
+   "q": "Evaluate $11_{2} \\times 11_{2}$ in base 2.",
+   "options": [
+    "1000_{2}",
+    "1001_{2}",
+    "1011_{2}",
+    "1010_{2}"
+   ],
+   "answer": 1,
+   "solution": "Convert to base 10: $11_{2}=3$ and $11_{2}=3$. Then $3\\times3=9=1001_{2}$."
+  },
+  {
+   "q": "Evaluate $11_{2} \\times 11_{2}$ in base 2.",
+   "options": [
+    "1001_{2}",
+    "1010_{2}",
+    "1011_{2}",
+    "1000_{2}"
+   ],
+   "answer": 0,
+   "solution": "Convert to base 10: $11_{2}=3$ and $11_{2}=3$. Then $3\\times3=9=1001_{2}$."
+  },
+  {
+   "q": "Evaluate $14_{5} + 20_{5}$ in base 5.",
+   "options": [
+    "34_{5}",
+    "40_{5}",
+    "33_{5}",
+    "44_{5}"
+   ],
+   "answer": 0,
+   "solution": "Convert to base 10: $14_{5}=9$ and $20_{5}=10$. Then $9+10=19=34_{5}$."
+  },
+  {
+   "q": "Evaluate $11_{4} \\times 13_{4}$ in base 4.",
+   "options": [
+    "203_{4}",
+    "213_{4}",
+    "210_{4}",
+    "202_{4}"
+   ],
+   "answer": 0,
+   "solution": "Convert to base 10: $11_{4}=5$ and $13_{4}=7$. Then $5\\times7=35=203_{4}$."
+  },
+  {
+   "q": "Evaluate $4_{7} \\times 54_{7}$ in base 7.",
+   "options": [
+    "311_{7}",
+    "312_{7}",
+    "322_{7}",
+    "313_{7}"
+   ],
+   "answer": 1,
+   "solution": "Convert to base 10: $4_{7}=4$ and $54_{7}=39$. Then $4\\times39=156=312_{7}$."
+  },
+  {
+   "q": "Evaluate $11_{2} \\times 11_{2}$ in base 2.",
+   "options": [
+    "1001_{2}",
+    "1010_{2}",
+    "1000_{2}",
+    "1011_{2}"
+   ],
+   "answer": 0,
+   "solution": "Convert to base 10: $11_{2}=3$ and $11_{2}=3$. Then $3\\times3=9=1001_{2}$."
+  },
+  {
+   "q": "Evaluate $21_{3} + 10_{3}$ in base 3.",
+   "options": [
+    "100_{3}",
+    "101_{3}",
+    "111_{3}",
+    "102_{3}"
+   ],
+   "answer": 1,
+   "solution": "Convert to base 10: $21_{3}=7$ and $10_{3}=3$. Then $7+3=10=101_{3}$."
+  },
+  {
+   "q": "Evaluate $20_{4} \\times 12_{4}$ in base 4.",
+   "options": [
+    "300_{4}",
+    "301_{4}",
+    "310_{4}",
+    "233_{4}"
+   ],
+   "answer": 0,
+   "solution": "Convert to base 10: $20_{4}=8$ and $12_{4}=6$. Then $8\\times6=48=300_{4}$."
+  },
+  {
+   "q": "Evaluate $20_{3} \\times 12_{3}$ in base 3.",
+   "options": [
+    "1020_{3}",
+    "1002_{3}",
+    "1010_{3}",
+    "1011_{3}"
+   ],
+   "answer": 2,
+   "solution": "Convert to base 10: $20_{3}=6$ and $12_{3}=5$. Then $6\\times5=30=1010_{3}$."
+  },
+  {
+   "q": "Evaluate $11_{5} \\times 23_{5}$ in base 5.",
+   "options": [
+    "302_{5}",
+    "304_{5}",
+    "303_{5}",
+    "313_{5}"
+   ],
+   "answer": 2,
+   "solution": "Convert to base 10: $11_{5}=6$ and $23_{5}=13$. Then $6\\times13=78=303_{5}$."
+  },
+  {
+   "q": "Evaluate $11_{2} + 11_{2}$ in base 2.",
+   "options": [
+    "111_{2}",
+    "110_{2}",
+    "1000_{2}",
+    "101_{2}"
+   ],
+   "answer": 1,
+   "solution": "Convert to base 10: $11_{2}=3$ and $11_{2}=3$. Then $3+3=6=110_{2}$."
+  },
+  {
+   "q": "If $92_{x} = 92_{10}$, find $x$.",
+   "options": [
+    "11",
+    "12",
+    "9",
+    "10"
+   ],
+   "answer": 3,
+   "solution": "$92_x = 9x + 2 = 92 \\Rightarrow 9x = 90 \\Rightarrow x = 10$."
+  },
+  {
+   "q": "If $74_{x} = 60_{10}$, find $x$.",
+   "options": [
+    "10",
+    "8",
+    "9",
+    "7"
+   ],
+   "answer": 1,
+   "solution": "$74_x = 7x + 4 = 60 \\Rightarrow 7x = 56 \\Rightarrow x = 8$."
+  },
+  {
+   "q": "If $87_{x} = 103_{10}$, find $x$.",
+   "options": [
+    "14",
+    "13",
+    "11",
+    "12"
+   ],
+   "answer": 3,
+   "solution": "$87_x = 8x + 7 = 103 \\Rightarrow 8x = 96 \\Rightarrow x = 12$."
+  },
+  {
+   "q": "If $52_{x} = 47_{10}$, find $x$.",
+   "options": [
+    "11",
+    "8",
+    "9",
+    "10"
+   ],
+   "answer": 2,
+   "solution": "$52_x = 5x + 2 = 47 \\Rightarrow 5x = 45 \\Rightarrow x = 9$."
+  },
+  {
+   "q": "If $69_{x} = 69_{10}$, find $x$.",
+   "options": [
+    "12",
+    "9",
+    "11",
+    "10"
+   ],
+   "answer": 3,
+   "solution": "$69_x = 6x + 9 = 69 \\Rightarrow 6x = 60 \\Rightarrow x = 10$."
+  },
+  {
+   "q": "If $107_{x} = 127_{10}$, find $x$.",
+   "options": [
+    "11",
+    "13",
+    "12",
+    "14"
+   ],
+   "answer": 2,
+   "solution": "$107_x = 10x + 7 = 127 \\Rightarrow 10x = 120 \\Rightarrow x = 12$."
+  },
+  {
+   "q": "If $22_{x} = 10_{10}$, find $x$.",
+   "options": [
+    "3",
+    "6",
+    "5",
+    "4"
+   ],
+   "answer": 3,
+   "solution": "$22_x = 2x + 2 = 10 \\Rightarrow 2x = 8 \\Rightarrow x = 4$."
+  },
+  {
+   "q": "If $70_{x} = 77_{10}$, find $x$.",
+   "options": [
+    "13",
+    "12",
+    "11",
+    "10"
+   ],
+   "answer": 2,
+   "solution": "$70_x = 7x + 0 = 77 \\Rightarrow 7x = 77 \\Rightarrow x = 11$."
+  },
+  {
+   "q": "If $42_{x} = 50_{10}$, find $x$.",
+   "options": [
+    "13",
+    "14",
+    "11",
+    "12"
+   ],
+   "answer": 3,
+   "solution": "$42_x = 4x + 2 = 50 \\Rightarrow 4x = 48 \\Rightarrow x = 12$."
+  },
+  {
+   "q": "If $41_{x} = 21_{10}$, find $x$.",
+   "options": [
+    "5",
+    "7",
+    "4",
+    "6"
+   ],
+   "answer": 0,
+   "solution": "$41_x = 4x + 1 = 21 \\Rightarrow 4x = 20 \\Rightarrow x = 5$."
+  }
+ ]
+}

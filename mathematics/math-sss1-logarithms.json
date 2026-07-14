@@ -1,0 +1,601 @@
+{
+ "topic": "Logarithms",
+ "ss_level": "SSS 1",
+ "icon": "fa-chart-line",
+ "color": "#ef4444",
+ "outline": [
+  "Logarithms of numbers > 1",
+  "Log tables for ×, ÷, powers, roots",
+  "Characteristic and mantissa"
+ ],
+ "modules": [
+  {
+   "title": "Module 1 · Definition",
+   "html": "<p>A logarithm answers the question: <i>to what power must the base be raised to get this number?</i></p>$$\\log_b N = x \\iff b^x = N$$<p>Common logarithms use base 10. We write $\\log N$ meaning $\\log_{10} N$.</p><p><b>Laws of logarithms</b></p><ol><li>$\\log(MN)=\\log M+\\log N$</li><li>$\\log(M/N)=\\log M-\\log N$</li><li>$\\log(M^k)=k\\log M$</li><li>$\\log_b b = 1$, $\\log_b 1 = 0$</li></ol>",
+   "examples": [
+    {
+     "q": "Evaluate $\\log_2 32$.",
+     "a": "$32 = 2^5$, so $\\log_2 32 = 5$."
+    },
+    {
+     "q": "Express $\\log 6$ in terms of $\\log 2$ and $\\log 3$.",
+     "a": "$\\log 6 = \\log(2\\cdot 3) = \\log 2 + \\log 3$."
+    }
+   ]
+  },
+  {
+   "title": "Module 2 · Characteristic and Mantissa",
+   "html": "<p>For $N>1$, $\\log_{10} N$ has two parts:</p><ul><li>The <b>characteristic</b> — the integer part — equals (number of digits before the decimal point) $-1$.</li><li>The <b>mantissa</b> — the decimal part — is read from the log table.</li></ul><p>Example: $\\log 350$ has characteristic $2$ (three digits), mantissa $0.5441$, so $\\log 350 \\approx 2.5441$.</p>",
+   "examples": [
+    {
+     "q": "State the characteristic of $\\log 4560$.",
+     "a": "$4560$ has 4 digits, so the characteristic is $4-1 = 3$."
+    }
+   ]
+  },
+  {
+   "title": "Module 3 · Using Log Tables",
+   "html": "<p>To compute products, quotients, powers and roots quickly:</p>$$\\log(MN)=\\log M+\\log N,\\quad \\log(M/N)=\\log M-\\log N$$$$\\log(M^k)=k\\log M,\\quad \\log(\\sqrt[n]{M})=\\tfrac{1}{n}\\log M$$<p>Take logs, add/subtract/multiply, then use the antilog table to convert back.</p>",
+   "examples": [
+    {
+     "q": "Use logs to evaluate $23.4 \\times 5.62$.",
+     "a": "$\\log 23.4 \\approx 1.3692$; $\\log 5.62 \\approx 0.7497$. Sum $= 2.1189$. Antilog $= 131.5$."
+    }
+   ]
+  }
+ ],
+ "slug": "logarithms",
+ "subject": "Mathematics",
+ "quiz": [
+  {
+   "q": "Evaluate $\\log_{3} 81$.",
+   "options": [
+    "3",
+    "4",
+    "5",
+    "3"
+   ],
+   "answer": 1,
+   "solution": "$81 = 3^{4}$, so $\\log_{3} 81 = 4$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 1000000$.",
+   "options": [
+    "7",
+    "5",
+    "6",
+    "10"
+   ],
+   "answer": 2,
+   "solution": "$1000000 = 10^{6}$, so $\\log_{10} 1000000 = 6$."
+  },
+  {
+   "q": "Evaluate $\\log_{4} 4096$.",
+   "options": [
+    "4",
+    "7",
+    "6",
+    "5"
+   ],
+   "answer": 2,
+   "solution": "$4096 = 4^{6}$, so $\\log_{4} 4096 = 6$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 1000$.",
+   "options": [
+    "10",
+    "4",
+    "3",
+    "2"
+   ],
+   "answer": 2,
+   "solution": "$1000 = 10^{3}$, so $\\log_{10} 1000 = 3$."
+  },
+  {
+   "q": "Evaluate $\\log_{3} 243$.",
+   "options": [
+    "4",
+    "5",
+    "3",
+    "6"
+   ],
+   "answer": 1,
+   "solution": "$243 = 3^{5}$, so $\\log_{3} 243 = 5$."
+  },
+  {
+   "q": "Evaluate $\\log_{3} 81$.",
+   "options": [
+    "4",
+    "3",
+    "3",
+    "5"
+   ],
+   "answer": 0,
+   "solution": "$81 = 3^{4}$, so $\\log_{3} 81 = 4$."
+  },
+  {
+   "q": "Evaluate $\\log_{5} 25$.",
+   "options": [
+    "2",
+    "3",
+    "1",
+    "5"
+   ],
+   "answer": 0,
+   "solution": "$25 = 5^{2}$, so $\\log_{5} 25 = 2$."
+  },
+  {
+   "q": "Evaluate $\\log_{5} 25$.",
+   "options": [
+    "3",
+    "5",
+    "2",
+    "1"
+   ],
+   "answer": 2,
+   "solution": "$25 = 5^{2}$, so $\\log_{5} 25 = 2$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 10000$.",
+   "options": [
+    "4",
+    "10",
+    "5",
+    "3"
+   ],
+   "answer": 0,
+   "solution": "$10000 = 10^{4}$, so $\\log_{10} 10000 = 4$."
+  },
+  {
+   "q": "Evaluate $\\log_{2} 8$.",
+   "options": [
+    "2",
+    "4",
+    "3",
+    "2"
+   ],
+   "answer": 2,
+   "solution": "$8 = 2^{3}$, so $\\log_{2} 8 = 3$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 100000$.",
+   "options": [
+    "5",
+    "4",
+    "6",
+    "10"
+   ],
+   "answer": 0,
+   "solution": "$100000 = 10^{5}$, so $\\log_{10} 100000 = 5$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 1000$.",
+   "options": [
+    "4",
+    "10",
+    "3",
+    "2"
+   ],
+   "answer": 2,
+   "solution": "$1000 = 10^{3}$, so $\\log_{10} 1000 = 3$."
+  },
+  {
+   "q": "Evaluate $\\log_{5} 15625$.",
+   "options": [
+    "7",
+    "5",
+    "6",
+    "5"
+   ],
+   "answer": 2,
+   "solution": "$15625 = 5^{6}$, so $\\log_{5} 15625 = 6$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 1000$.",
+   "options": [
+    "4",
+    "2",
+    "10",
+    "3"
+   ],
+   "answer": 3,
+   "solution": "$1000 = 10^{3}$, so $\\log_{10} 1000 = 3$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 1000000$.",
+   "options": [
+    "6",
+    "5",
+    "7",
+    "10"
+   ],
+   "answer": 0,
+   "solution": "$1000000 = 10^{6}$, so $\\log_{10} 1000000 = 6$."
+  },
+  {
+   "q": "Evaluate $\\log_{3} 9$.",
+   "options": [
+    "1",
+    "3",
+    "3",
+    "2"
+   ],
+   "answer": 3,
+   "solution": "$9 = 3^{2}$, so $\\log_{3} 9 = 2$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 1000000$.",
+   "options": [
+    "10",
+    "7",
+    "5",
+    "6"
+   ],
+   "answer": 3,
+   "solution": "$1000000 = 10^{6}$, so $\\log_{10} 1000000 = 6$."
+  },
+  {
+   "q": "Evaluate $\\log_{5} 3125$.",
+   "options": [
+    "5",
+    "6",
+    "4",
+    "5"
+   ],
+   "answer": 0,
+   "solution": "$3125 = 5^{5}$, so $\\log_{5} 3125 = 5$."
+  },
+  {
+   "q": "Evaluate $\\log_{5} 15625$.",
+   "options": [
+    "5",
+    "7",
+    "6",
+    "5"
+   ],
+   "answer": 2,
+   "solution": "$15625 = 5^{6}$, so $\\log_{5} 15625 = 6$."
+  },
+  {
+   "q": "Evaluate $\\log_{2} 32$.",
+   "options": [
+    "5",
+    "2",
+    "6",
+    "4"
+   ],
+   "answer": 0,
+   "solution": "$32 = 2^{5}$, so $\\log_{2} 32 = 5$."
+  },
+  {
+   "q": "Which is equal to $\\log(MN)$?",
+   "options": [
+    "\\log M - \\log N",
+    "M\\log N",
+    "\\log M \\cdot \\log N",
+    "\\log M + \\log N"
+   ],
+   "answer": 3,
+   "solution": "By the product law of logarithms: $\\log(MN)=\\log M + \\log N$."
+  },
+  {
+   "q": "Which is equal to $\\log(M^k)$?",
+   "options": [
+    "\\log M + k",
+    "k\\log M",
+    "\\log M / k",
+    "(\\log M)^k"
+   ],
+   "answer": 1,
+   "solution": "Power law: $\\log(M^k)=k\\log M$."
+  },
+  {
+   "q": "Which is equal to $\\log(MN)$?",
+   "options": [
+    "\\log M + \\log N",
+    "M\\log N",
+    "\\log M - \\log N",
+    "\\log M \\cdot \\log N"
+   ],
+   "answer": 0,
+   "solution": "By the product law of logarithms: $\\log(MN)=\\log M + \\log N$."
+  },
+  {
+   "q": "Which is equal to $\\log(M^k)$?",
+   "options": [
+    "\\log M / k",
+    "(\\log M)^k",
+    "k\\log M",
+    "\\log M + k"
+   ],
+   "answer": 2,
+   "solution": "Power law: $\\log(M^k)=k\\log M$."
+  },
+  {
+   "q": "Which is equal to $\\log(MN)$?",
+   "options": [
+    "\\log M + \\log N",
+    "M\\log N",
+    "\\log M - \\log N",
+    "\\log M \\cdot \\log N"
+   ],
+   "answer": 0,
+   "solution": "By the product law of logarithms: $\\log(MN)=\\log M + \\log N$."
+  },
+  {
+   "q": "Which is equal to $\\log(M^k)$?",
+   "options": [
+    "\\log M + k",
+    "k\\log M",
+    "\\log M / k",
+    "(\\log M)^k"
+   ],
+   "answer": 1,
+   "solution": "Power law: $\\log(M^k)=k\\log M$."
+  },
+  {
+   "q": "Which is equal to $\\log(MN)$?",
+   "options": [
+    "\\log M - \\log N",
+    "M\\log N",
+    "\\log M + \\log N",
+    "\\log M \\cdot \\log N"
+   ],
+   "answer": 2,
+   "solution": "By the product law of logarithms: $\\log(MN)=\\log M + \\log N$."
+  },
+  {
+   "q": "Which is equal to $\\log(M^k)$?",
+   "options": [
+    "\\log M + k",
+    "(\\log M)^k",
+    "k\\log M",
+    "\\log M / k"
+   ],
+   "answer": 2,
+   "solution": "Power law: $\\log(M^k)=k\\log M$."
+  },
+  {
+   "q": "Which is equal to $\\log(MN)$?",
+   "options": [
+    "\\log M \\cdot \\log N",
+    "\\log M - \\log N",
+    "M\\log N",
+    "\\log M + \\log N"
+   ],
+   "answer": 3,
+   "solution": "By the product law of logarithms: $\\log(MN)=\\log M + \\log N$."
+  },
+  {
+   "q": "Which is equal to $\\log(M^k)$?",
+   "options": [
+    "\\log M / k",
+    "\\log M + k",
+    "(\\log M)^k",
+    "k\\log M"
+   ],
+   "answer": 3,
+   "solution": "Power law: $\\log(M^k)=k\\log M$."
+  },
+  {
+   "q": "State the characteristic of $\\log 792$.",
+   "options": [
+    "1",
+    "3",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "solution": "$792$ has 3 digits before the decimal point, so its characteristic is $ 3-1 = 2$."
+  },
+  {
+   "q": "State the characteristic of $\\log 403056$.",
+   "options": [
+    "6",
+    "4",
+    "5",
+    "6"
+   ],
+   "answer": 2,
+   "solution": "$403056$ has 6 digits before the decimal point, so its characteristic is $ 6-1 = 5$."
+  },
+  {
+   "q": "State the characteristic of $\\log 466883$.",
+   "options": [
+    "4",
+    "5",
+    "6",
+    "6"
+   ],
+   "answer": 1,
+   "solution": "$466883$ has 6 digits before the decimal point, so its characteristic is $ 6-1 = 5$."
+  },
+  {
+   "q": "State the characteristic of $\\log 999230$.",
+   "options": [
+    "6",
+    "5",
+    "4",
+    "6"
+   ],
+   "answer": 1,
+   "solution": "$999230$ has 6 digits before the decimal point, so its characteristic is $ 6-1 = 5$."
+  },
+  {
+   "q": "State the characteristic of $\\log 256641$.",
+   "options": [
+    "4",
+    "6",
+    "6",
+    "5"
+   ],
+   "answer": 3,
+   "solution": "$256641$ has 6 digits before the decimal point, so its characteristic is $ 6-1 = 5$."
+  },
+  {
+   "q": "State the characteristic of $\\log 17$.",
+   "options": [
+    "2",
+    "1",
+    "2",
+    "0"
+   ],
+   "answer": 1,
+   "solution": "$17$ has 2 digits before the decimal point, so its characteristic is $ 2-1 = 1$."
+  },
+  {
+   "q": "State the characteristic of $\\log 756$.",
+   "options": [
+    "1",
+    "3",
+    "3",
+    "2"
+   ],
+   "answer": 3,
+   "solution": "$756$ has 3 digits before the decimal point, so its characteristic is $ 3-1 = 2$."
+  },
+  {
+   "q": "State the characteristic of $\\log 81467$.",
+   "options": [
+    "4",
+    "5",
+    "3",
+    "5"
+   ],
+   "answer": 0,
+   "solution": "$81467$ has 5 digits before the decimal point, so its characteristic is $ 5-1 = 4$."
+  },
+  {
+   "q": "State the characteristic of $\\log 56753$.",
+   "options": [
+    "5",
+    "4",
+    "5",
+    "3"
+   ],
+   "answer": 1,
+   "solution": "$56753$ has 5 digits before the decimal point, so its characteristic is $ 5-1 = 4$."
+  },
+  {
+   "q": "State the characteristic of $\\log 16667$.",
+   "options": [
+    "5",
+    "4",
+    "5",
+    "3"
+   ],
+   "answer": 1,
+   "solution": "$16667$ has 5 digits before the decimal point, so its characteristic is $ 5-1 = 4$."
+  },
+  {
+   "q": "Solve $\\log_{2} x = 4$.",
+   "options": [
+    "15",
+    "8",
+    "17",
+    "16"
+   ],
+   "answer": 3,
+   "solution": "Rewrite in index form: $x = 2^{4} = 16$."
+  },
+  {
+   "q": "Solve $\\log_{3} x = 5$.",
+   "options": [
+    "242",
+    "244",
+    "243",
+    "15"
+   ],
+   "answer": 2,
+   "solution": "Rewrite in index form: $x = 3^{5} = 243$."
+  },
+  {
+   "q": "Solve $\\log_{3} x = 2$.",
+   "options": [
+    "8",
+    "6",
+    "10",
+    "9"
+   ],
+   "answer": 3,
+   "solution": "Rewrite in index form: $x = 3^{2} = 9$."
+  },
+  {
+   "q": "Solve $\\log_{2} x = 2$.",
+   "options": [
+    "4",
+    "3",
+    "5",
+    "4"
+   ],
+   "answer": 0,
+   "solution": "Rewrite in index form: $x = 2^{2} = 4$."
+  },
+  {
+   "q": "Solve $\\log_{10} x = 2$.",
+   "options": [
+    "101",
+    "100",
+    "20",
+    "99"
+   ],
+   "answer": 1,
+   "solution": "Rewrite in index form: $x = 10^{2} = 100$."
+  },
+  {
+   "q": "Solve $\\log_{10} x = 5$.",
+   "options": [
+    "100001",
+    "100000",
+    "50",
+    "99999"
+   ],
+   "answer": 1,
+   "solution": "Rewrite in index form: $x = 10^{5} = 100000$."
+  },
+  {
+   "q": "Solve $\\log_{5} x = 2$.",
+   "options": [
+    "25",
+    "26",
+    "10",
+    "24"
+   ],
+   "answer": 0,
+   "solution": "Rewrite in index form: $x = 5^{2} = 25$."
+  },
+  {
+   "q": "Solve $\\log_{5} x = 5$.",
+   "options": [
+    "25",
+    "3124",
+    "3126",
+    "3125"
+   ],
+   "answer": 3,
+   "solution": "Rewrite in index form: $x = 5^{5} = 3125$."
+  },
+  {
+   "q": "Solve $\\log_{3} x = 4$.",
+   "options": [
+    "12",
+    "80",
+    "81",
+    "82"
+   ],
+   "answer": 2,
+   "solution": "Rewrite in index form: $x = 3^{4} = 81$."
+  },
+  {
+   "q": "Solve $\\log_{5} x = 5$.",
+   "options": [
+    "3126",
+    "3125",
+    "25",
+    "3124"
+   ],
+   "answer": 1,
+   "solution": "Rewrite in index form: $x = 5^{5} = 3125$."
+  }
+ ]
+}

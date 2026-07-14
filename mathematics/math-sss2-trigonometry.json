@@ -1,0 +1,597 @@
+{
+ "topic": "Trigonometry",
+ "ss_level": "SSS 2",
+ "icon": "fa-wave-square",
+ "color": "#db2777",
+ "outline": [
+  "Trig ratios of acute and special angles",
+  "Angles of elevation and depression",
+  "Bearings and distances"
+ ],
+ "modules": [
+  {
+   "title": "Module 1 · Trig Ratios",
+   "html": "<p>In a right-angled triangle with an acute angle $\\theta$:</p>$$\\sin\\theta=\\dfrac{\\text{opp}}{\\text{hyp}},\\quad \\cos\\theta=\\dfrac{\\text{adj}}{\\text{hyp}},\\quad \\tan\\theta=\\dfrac{\\text{opp}}{\\text{adj}}$$<p><b>Special angles</b>: $\\sin 30° = \\tfrac{1}{2}$, $\\cos 30° = \\tfrac{\\sqrt 3}{2}$, $\\tan 45° = 1$, $\\sin 60° = \\tfrac{\\sqrt 3}{2}$.</p>",
+   "examples": [
+    {
+     "q": "Find $\\tan 60°$ exactly.",
+     "a": "$\\tan 60° = \\sqrt 3$."
+    }
+   ]
+  },
+  {
+   "title": "Module 2 · Elevation & Depression",
+   "html": "<p>The <b>angle of elevation</b> is measured upward from the horizontal to the line of sight of a higher object. The <b>angle of depression</b> is measured downward from horizontal to a lower object. Both use the same value between the horizontal and the sight line.</p>",
+   "examples": [
+    {
+     "q": "From a point 20 m from a tower, the angle of elevation to the top is $30°$. Find the height of the tower.",
+     "a": "$h = 20\\tan 30° = 20/\\sqrt 3 \\approx 11.55\\ \\text{m}$."
+    }
+   ]
+  },
+  {
+   "title": "Module 3 · Bearings",
+   "html": "<p><b>Three-figure bearings</b> are measured clockwise from North (always 3 digits: $045°$, $270°$).</p><p><b>Compass bearings</b> use directions like N40°E (start from N or S, rotate through the given angle towards E or W).</p>",
+   "examples": [
+    {
+     "q": "A boat sails N60°E for 100 km. What is its bearing in three-figure notation?",
+     "a": "N60°E = $060°$."
+    }
+   ]
+  }
+ ],
+ "slug": "trigonometry",
+ "subject": "Mathematics",
+ "quiz": [
+  {
+   "q": "Evaluate $\\sin 30°$.",
+   "options": [
+    "\\dfrac{\\sqrt{2}}{2}",
+    "1",
+    "\\dfrac{1}{2}",
+    "\\dfrac{\\sqrt{3}}{2}"
+   ],
+   "answer": 2,
+   "solution": "$\\sin 30° = 1/2$."
+  },
+  {
+   "q": "Evaluate $\\cos 60°$.",
+   "options": [
+    "\\dfrac{1}{2}",
+    "1",
+    "\\dfrac{\\sqrt{3}}{2}",
+    "0"
+   ],
+   "answer": 0,
+   "solution": "$\\cos 60° = 1/2$."
+  },
+  {
+   "q": "Evaluate $\\tan 45°$.",
+   "options": [
+    "\\dfrac{1}{\\sqrt{3}}",
+    "0",
+    "1",
+    "\\sqrt{3}"
+   ],
+   "answer": 2,
+   "solution": "$\\tan 45° = 1$."
+  },
+  {
+   "q": "Evaluate $\\sin 60°$.",
+   "options": [
+    "\\dfrac{\\sqrt{3}}{2}",
+    "1",
+    "\\dfrac{\\sqrt{2}}{2}",
+    "\\dfrac{1}{2}"
+   ],
+   "answer": 0,
+   "solution": "$\\sin 60° = \\sqrt 3 /2$."
+  },
+  {
+   "q": "Evaluate $\\cos 30°$.",
+   "options": [
+    "\\dfrac{1}{2}",
+    "1",
+    "\\dfrac{\\sqrt{3}}{2}",
+    "\\dfrac{\\sqrt{2}}{2}"
+   ],
+   "answer": 2,
+   "solution": "$\\cos 30° = \\sqrt 3 / 2$."
+  },
+  {
+   "q": "Evaluate $\\tan 60°$.",
+   "options": [
+    "1",
+    "\\sqrt{2}",
+    "\\sqrt{3}",
+    "\\dfrac{1}{\\sqrt{3}}"
+   ],
+   "answer": 2,
+   "solution": "$\\tan 60° = \\sqrt 3$."
+  },
+  {
+   "q": "Evaluate $\\tan 30°$.",
+   "options": [
+    "\\sqrt{3}",
+    "\\dfrac{\\sqrt{3}}{2}",
+    "1",
+    "\\dfrac{1}{\\sqrt{3}}"
+   ],
+   "answer": 3,
+   "solution": "$\\tan 30° = 1/\\sqrt 3$."
+  },
+  {
+   "q": "Evaluate $\\sin 45°$.",
+   "options": [
+    "1",
+    "\\dfrac{1}{2}",
+    "\\dfrac{\\sqrt{3}}{2}",
+    "\\dfrac{\\sqrt{2}}{2}"
+   ],
+   "answer": 3,
+   "solution": "$\\sin 45° = \\sqrt 2 / 2$."
+  },
+  {
+   "q": "Evaluate $\\cos 45°$.",
+   "options": [
+    "1",
+    "\\dfrac{\\sqrt{2}}{2}",
+    "\\dfrac{\\sqrt{3}}{2}",
+    "\\dfrac{1}{2}"
+   ],
+   "answer": 1,
+   "solution": "$\\cos 45° = \\sqrt 2 / 2$."
+  },
+  {
+   "q": "Evaluate $\\sin 90°$.",
+   "options": [
+    "\\infty",
+    "1",
+    "\\dfrac{\\sqrt{3}}{2}",
+    "0"
+   ],
+   "answer": 1,
+   "solution": "$\\sin 90° = 1$."
+  },
+  {
+   "q": "In a right triangle, the opposite is $7$ and adjacent is $24$. Find $\\tan\\theta$.",
+   "options": [
+    "\\dfrac{7}{24}",
+    "\\dfrac{24}{7}",
+    "\\dfrac{8}{24}",
+    "\\dfrac{7}{25}"
+   ],
+   "answer": 0,
+   "solution": "Ratio $= 7/24$."
+  },
+  {
+   "q": "In a right triangle, the opposite side is $6$ and hypotenuse is $10$. Find $\\sin\\theta$.",
+   "options": [
+    "\\dfrac{3}{6}",
+    "\\dfrac{4}{5}",
+    "\\dfrac{5}{3}",
+    "\\dfrac{3}{5}"
+   ],
+   "answer": 3,
+   "solution": "Ratio $= 3/5$."
+  },
+  {
+   "q": "In a right triangle, the opposite side is $9$ and hypotenuse is $15$. Find $\\sin\\theta$.",
+   "options": [
+    "\\dfrac{4}{5}",
+    "\\dfrac{3}{6}",
+    "\\dfrac{3}{5}",
+    "\\dfrac{5}{3}"
+   ],
+   "answer": 2,
+   "solution": "Ratio $= 3/5$."
+  },
+  {
+   "q": "In a right triangle, the opposite is $6$ and adjacent is $8$. Find $\\tan\\theta$.",
+   "options": [
+    "\\dfrac{3}{4}",
+    "\\dfrac{4}{3}",
+    "\\dfrac{3}{5}",
+    "\\dfrac{4}{4}"
+   ],
+   "answer": 0,
+   "solution": "Ratio $= 3/4$."
+  },
+  {
+   "q": "In a right triangle, the adjacent side is $12$ and hypotenuse is $13$. Find $\\cos\\theta$.",
+   "options": [
+    "\\dfrac{12}{14}",
+    "\\dfrac{13}{12}",
+    "\\dfrac{12}{13}",
+    "\\dfrac{13}{13}"
+   ],
+   "answer": 2,
+   "solution": "Ratio $= 12/13$."
+  },
+  {
+   "q": "In a right triangle, the opposite side is $8$ and hypotenuse is $17$. Find $\\sin\\theta$.",
+   "options": [
+    "\\dfrac{9}{17}",
+    "\\dfrac{8}{17}",
+    "\\dfrac{17}{8}",
+    "\\dfrac{8}{18}"
+   ],
+   "answer": 1,
+   "solution": "Ratio $= 8/17$."
+  },
+  {
+   "q": "In a right triangle, the adjacent side is $24$ and hypotenuse is $25$. Find $\\cos\\theta$.",
+   "options": [
+    "\\dfrac{24}{26}",
+    "\\dfrac{25}{25}",
+    "\\dfrac{25}{24}",
+    "\\dfrac{24}{25}"
+   ],
+   "answer": 3,
+   "solution": "Ratio $= 24/25$."
+  },
+  {
+   "q": "In a right triangle, the opposite is $5$ and adjacent is $12$. Find $\\tan\\theta$.",
+   "options": [
+    "\\dfrac{5}{12}",
+    "\\dfrac{5}{13}",
+    "\\dfrac{12}{5}",
+    "\\dfrac{6}{12}"
+   ],
+   "answer": 0,
+   "solution": "Ratio $= 5/12$."
+  },
+  {
+   "q": "In a right triangle, the adjacent side is $8$ and hypotenuse is $10$. Find $\\cos\\theta$.",
+   "options": [
+    "\\dfrac{5}{4}",
+    "\\dfrac{4}{5}",
+    "\\dfrac{5}{5}",
+    "\\dfrac{4}{6}"
+   ],
+   "answer": 1,
+   "solution": "Ratio $= 4/5$."
+  },
+  {
+   "q": "In a right triangle, the opposite side is $9$ and hypotenuse is $15$. Find $\\sin\\theta$.",
+   "options": [
+    "\\dfrac{3}{5}",
+    "\\dfrac{5}{3}",
+    "\\dfrac{3}{6}",
+    "\\dfrac{4}{5}"
+   ],
+   "answer": 0,
+   "solution": "Ratio $= 3/5$."
+  },
+  {
+   "q": "In a right triangle, the opposite is $3$ and adjacent is $4$. Find $\\tan\\theta$.",
+   "options": [
+    "\\dfrac{4}{3}",
+    "\\dfrac{3}{5}",
+    "\\dfrac{3}{4}",
+    "\\dfrac{4}{4}"
+   ],
+   "answer": 2,
+   "solution": "Ratio $= 3/4$."
+  },
+  {
+   "q": "In a right triangle, the opposite is $7$ and adjacent is $24$. Find $\\tan\\theta$.",
+   "options": [
+    "\\dfrac{24}{7}",
+    "\\dfrac{7}{25}",
+    "\\dfrac{7}{24}",
+    "\\dfrac{8}{24}"
+   ],
+   "answer": 2,
+   "solution": "Ratio $= 7/24$."
+  },
+  {
+   "q": "In a right triangle, the opposite is $8$ and adjacent is $15$. Find $\\tan\\theta$.",
+   "options": [
+    "\\dfrac{8}{16}",
+    "\\dfrac{9}{15}",
+    "\\dfrac{15}{8}",
+    "\\dfrac{8}{15}"
+   ],
+   "answer": 3,
+   "solution": "Ratio $= 8/15$."
+  },
+  {
+   "q": "In a right triangle, the opposite is $8$ and adjacent is $15$. Find $\\tan\\theta$.",
+   "options": [
+    "\\dfrac{8}{15}",
+    "\\dfrac{9}{15}",
+    "\\dfrac{15}{8}",
+    "\\dfrac{8}{16}"
+   ],
+   "answer": 0,
+   "solution": "Ratio $= 8/15$."
+  },
+  {
+   "q": "In a right triangle, the opposite side is $7$ and hypotenuse is $25$. Find $\\sin\\theta$.",
+   "options": [
+    "\\dfrac{25}{7}",
+    "\\dfrac{7}{26}",
+    "\\dfrac{7}{25}",
+    "\\dfrac{8}{25}"
+   ],
+   "answer": 2,
+   "solution": "Ratio $= 7/25$."
+  },
+  {
+   "q": "A point is $35$ m from the base of a tower. The angle of elevation to the top is $60°$. Find the height of the tower.",
+   "options": [
+    "60.62 m",
+    "54.56 m",
+    "35 m",
+    "66.68 m"
+   ],
+   "answer": 0,
+   "solution": "$\\tan 60° = h/d \\Rightarrow h = 35\\tan 60° \\approx 60.62$ m."
+  },
+  {
+   "q": "A point is $33$ m from the base of a tower. The angle of elevation to the top is $60°$. Find the height of the tower.",
+   "options": [
+    "33 m",
+    "57.16 m",
+    "62.88 m",
+    "51.44 m"
+   ],
+   "answer": 1,
+   "solution": "$\\tan 60° = h/d \\Rightarrow h = 33\\tan 60° \\approx 57.16$ m."
+  },
+  {
+   "q": "A point is $11$ m from the base of a tower. The angle of elevation to the top is $30°$. Find the height of the tower.",
+   "options": [
+    "11 m",
+    "6.99 m",
+    "5.71 m",
+    "6.35 m"
+   ],
+   "answer": 3,
+   "solution": "$\\tan 30° = h/d \\Rightarrow h = 11\\tan 30° \\approx 6.35$ m."
+  },
+  {
+   "q": "A point is $40$ m from the base of a tower. The angle of elevation to the top is $60°$. Find the height of the tower.",
+   "options": [
+    "62.35 m",
+    "40 m",
+    "76.21 m",
+    "69.28 m"
+   ],
+   "answer": 3,
+   "solution": "$\\tan 60° = h/d \\Rightarrow h = 40\\tan 60° \\approx 69.28$ m."
+  },
+  {
+   "q": "A point is $32$ m from the base of a tower. The angle of elevation to the top is $45°$. Find the height of the tower.",
+   "options": [
+    "28.8 m",
+    "35.2 m",
+    "32 m",
+    "32 m"
+   ],
+   "answer": 2,
+   "solution": "$\\tan 45° = h/d \\Rightarrow h = 32\\tan 45° \\approx 32$ m."
+  },
+  {
+   "q": "A point is $50$ m from the base of a tower. The angle of elevation to the top is $30°$. Find the height of the tower.",
+   "options": [
+    "25.98 m",
+    "31.76 m",
+    "28.87 m",
+    "50 m"
+   ],
+   "answer": 2,
+   "solution": "$\\tan 30° = h/d \\Rightarrow h = 50\\tan 30° \\approx 28.87$ m."
+  },
+  {
+   "q": "A point is $30$ m from the base of a tower. The angle of elevation to the top is $45°$. Find the height of the tower.",
+   "options": [
+    "30 m",
+    "33.0 m",
+    "27.0 m",
+    "30 m"
+   ],
+   "answer": 0,
+   "solution": "$\\tan 45° = h/d \\Rightarrow h = 30\\tan 45° \\approx 30$ m."
+  },
+  {
+   "q": "A point is $41$ m from the base of a tower. The angle of elevation to the top is $45°$. Find the height of the tower.",
+   "options": [
+    "41 m",
+    "36.9 m",
+    "45.1 m",
+    "41 m"
+   ],
+   "answer": 0,
+   "solution": "$\\tan 45° = h/d \\Rightarrow h = 41\\tan 45° \\approx 41$ m."
+  },
+  {
+   "q": "A point is $37$ m from the base of a tower. The angle of elevation to the top is $60°$. Find the height of the tower.",
+   "options": [
+    "70.5 m",
+    "37 m",
+    "64.09 m",
+    "57.68 m"
+   ],
+   "answer": 2,
+   "solution": "$\\tan 60° = h/d \\Rightarrow h = 37\\tan 60° \\approx 64.09$ m."
+  },
+  {
+   "q": "A point is $31$ m from the base of a tower. The angle of elevation to the top is $60°$. Find the height of the tower.",
+   "options": [
+    "31 m",
+    "48.32 m",
+    "53.69 m",
+    "59.06 m"
+   ],
+   "answer": 2,
+   "solution": "$\\tan 60° = h/d \\Rightarrow h = 31\\tan 60° \\approx 53.69$ m."
+  },
+  {
+   "q": "A point is $47$ m from the base of a tower. The angle of elevation to the top is $45°$. Find the height of the tower.",
+   "options": [
+    "47 m",
+    "47 m",
+    "42.3 m",
+    "51.7 m"
+   ],
+   "answer": 0,
+   "solution": "$\\tan 45° = h/d \\Rightarrow h = 47\\tan 45° \\approx 47$ m."
+  },
+  {
+   "q": "A point is $23$ m from the base of a tower. The angle of elevation to the top is $30°$. Find the height of the tower.",
+   "options": [
+    "23 m",
+    "14.61 m",
+    "11.95 m",
+    "13.28 m"
+   ],
+   "answer": 3,
+   "solution": "$\\tan 30° = h/d \\Rightarrow h = 23\\tan 30° \\approx 13.28$ m."
+  },
+  {
+   "q": "A point is $34$ m from the base of a tower. The angle of elevation to the top is $30°$. Find the height of the tower.",
+   "options": [
+    "34 m",
+    "17.67 m",
+    "21.59 m",
+    "19.63 m"
+   ],
+   "answer": 3,
+   "solution": "$\\tan 30° = h/d \\Rightarrow h = 34\\tan 30° \\approx 19.63$ m."
+  },
+  {
+   "q": "A point is $37$ m from the base of a tower. The angle of elevation to the top is $60°$. Find the height of the tower.",
+   "options": [
+    "64.09 m",
+    "57.68 m",
+    "70.5 m",
+    "37 m"
+   ],
+   "answer": 0,
+   "solution": "$\\tan 60° = h/d \\Rightarrow h = 37\\tan 60° \\approx 64.09$ m."
+  },
+  {
+   "q": "A point is $43$ m from the base of a tower. The angle of elevation to the top is $30°$. Find the height of the tower.",
+   "options": [
+    "22.35 m",
+    "27.31 m",
+    "24.83 m",
+    "43 m"
+   ],
+   "answer": 2,
+   "solution": "$\\tan 30° = h/d \\Rightarrow h = 43\\tan 30° \\approx 24.83$ m."
+  },
+  {
+   "q": "Bearing 090° corresponds to which direction?",
+   "options": [
+    "South",
+    "North",
+    "East",
+    "West"
+   ],
+   "answer": 2,
+   "solution": "090° from North (clockwise) points East."
+  },
+  {
+   "q": "Bearing 090° corresponds to which direction?",
+   "options": [
+    "North",
+    "South",
+    "East",
+    "West"
+   ],
+   "answer": 2,
+   "solution": "090° from North (clockwise) points East."
+  },
+  {
+   "q": "Bearing 270° corresponds to which direction?",
+   "options": [
+    "North",
+    "East",
+    "South",
+    "West"
+   ],
+   "answer": 3,
+   "solution": "270° clockwise from North is West."
+  },
+  {
+   "q": "A boat sails N40°E. What is its three-figure bearing?",
+   "options": [
+    "040°",
+    "140°",
+    "320°",
+    "220°"
+   ],
+   "answer": 0,
+   "solution": "N40°E = 040° measured clockwise from North."
+  },
+  {
+   "q": "Bearing 270° corresponds to which direction?",
+   "options": [
+    "South",
+    "East",
+    "West",
+    "North"
+   ],
+   "answer": 2,
+   "solution": "270° clockwise from North is West."
+  },
+  {
+   "q": "A boat sails N40°E. What is its three-figure bearing?",
+   "options": [
+    "220°",
+    "040°",
+    "140°",
+    "320°"
+   ],
+   "answer": 1,
+   "solution": "N40°E = 040° measured clockwise from North."
+  },
+  {
+   "q": "Bearing 270° corresponds to which direction?",
+   "options": [
+    "South",
+    "North",
+    "West",
+    "East"
+   ],
+   "answer": 2,
+   "solution": "270° clockwise from North is West."
+  },
+  {
+   "q": "Bearing 090° corresponds to which direction?",
+   "options": [
+    "South",
+    "North",
+    "East",
+    "West"
+   ],
+   "answer": 2,
+   "solution": "090° from North (clockwise) points East."
+  },
+  {
+   "q": "A plane flies S30°W. What is its three-figure bearing?",
+   "options": [
+    "030°",
+    "150°",
+    "330°",
+    "210°"
+   ],
+   "answer": 3,
+   "solution": "S30°W = 180° + 30° = 210°."
+  },
+  {
+   "q": "A boat sails N40°E. What is its three-figure bearing?",
+   "options": [
+    "320°",
+    "040°",
+    "140°",
+    "220°"
+   ],
+   "answer": 1,
+   "solution": "N40°E = 040° measured clockwise from North."
+  }
+ ]
+}

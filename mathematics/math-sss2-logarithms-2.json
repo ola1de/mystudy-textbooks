@@ -1,0 +1,597 @@
+{
+ "topic": "Logarithms (Part II)",
+ "ss_level": "SSS 2",
+ "icon": "fa-chart-line",
+ "color": "#ef4444",
+ "outline": [
+  "Logs of numbers less than 1",
+  "Calculations using tables",
+  "Relationship between indices and logarithms"
+ ],
+ "modules": [
+  {
+   "title": "Module 1 · Logs of Numbers Less Than 1",
+   "html": "<p>If $0<N<1$, then $\\log_{10}N$ is negative. We write it with a <b>bar characteristic</b>: e.g. $\\log 0.023 = \\bar{2}.3617$ meaning $-2 + 0.3617 = -1.6383$.</p><p>Method: shift the decimal so the number is in $[1,10)$; the number of shifts (negated) gives the characteristic.</p>",
+   "examples": [
+    {
+     "q": "State the characteristic of $\\log 0.0025$.",
+     "a": "$0.0025 = 2.5\\times 10^{-3}$, so characteristic $=\\bar{3}$ (i.e. $-3$)."
+    }
+   ]
+  },
+  {
+   "title": "Module 2 · Calculations Using Log Tables",
+   "html": "<p>Multiply, divide, raise to powers or take roots using $\\log(ab)=\\log a+\\log b$, $\\log(a/b)=\\log a-\\log b$, $\\log a^n = n\\log a$. Read antilog at the end.</p>",
+   "examples": [
+    {
+     "q": "Evaluate $\\sqrt{0.4356}$ using logs.",
+     "a": "$\\log 0.4356 = \\bar{1}.6390 = -0.3610$. Half: $-0.1805 = \\bar{1}.8195$. Antilog $\\approx 0.6600$."
+    }
+   ]
+  },
+  {
+   "title": "Module 3 · Indices ↔ Logarithms",
+   "html": "<p>The core identity: $b^x = N \\iff \\log_b N = x$. Logarithms are exponents written a different way.</p>",
+   "examples": [
+    {
+     "q": "Rewrite $\\log_5 125 = 3$ in index form.",
+     "a": "$5^3 = 125$."
+    }
+   ]
+  }
+ ],
+ "slug": "logarithms-2",
+ "subject": "Mathematics",
+ "quiz": [
+  {
+   "q": "State the characteristic of $\\log 0.03245$.",
+   "options": [
+    "-2",
+    "\\bar{2}",
+    "\\bar{1}",
+    "\\bar{3}"
+   ],
+   "answer": 1,
+   "solution": "$0.03245 = 3.245\\times 10^{-2}$, so characteristic $= \\bar{2}$."
+  },
+  {
+   "q": "State the characteristic of $\\log 0.00035$.",
+   "options": [
+    "\\bar{4}",
+    "-4",
+    "\\bar{5}",
+    "\\bar{3}"
+   ],
+   "answer": 0,
+   "solution": "$0.00035 = 3.5\\times 10^{-4}$, so characteristic $= \\bar{4}$."
+  },
+  {
+   "q": "State the characteristic of $\\log 0.04073$.",
+   "options": [
+    "-2",
+    "\\bar{1}",
+    "\\bar{2}",
+    "\\bar{3}"
+   ],
+   "answer": 2,
+   "solution": "$0.04073 = 4.073\\times 10^{-2}$, so characteristic $= \\bar{2}$."
+  },
+  {
+   "q": "State the characteristic of $\\log 0.00829$.",
+   "options": [
+    "\\bar{2}",
+    "-3",
+    "\\bar{4}",
+    "\\bar{3}"
+   ],
+   "answer": 3,
+   "solution": "$0.00829 = 8.29\\times 10^{-3}$, so characteristic $= \\bar{3}$."
+  },
+  {
+   "q": "State the characteristic of $\\log 0.00031$.",
+   "options": [
+    "-4",
+    "\\bar{3}",
+    "\\bar{4}",
+    "\\bar{5}"
+   ],
+   "answer": 2,
+   "solution": "$0.00031 = 3.1\\times 10^{-4}$, so characteristic $= \\bar{4}$."
+  },
+  {
+   "q": "State the characteristic of $\\log 0.04412$.",
+   "options": [
+    "-2",
+    "\\bar{3}",
+    "\\bar{2}",
+    "\\bar{1}"
+   ],
+   "answer": 2,
+   "solution": "$0.04412 = 4.412\\times 10^{-2}$, so characteristic $= \\bar{2}$."
+  },
+  {
+   "q": "State the characteristic of $\\log 9e-05$.",
+   "options": [
+    "\\bar{5}",
+    "\\bar{4}",
+    "\\bar{6}",
+    "-5"
+   ],
+   "answer": 0,
+   "solution": "$9e-05 = 9.0\\times 10^{-5}$, so characteristic $= \\bar{5}$."
+  },
+  {
+   "q": "State the characteristic of $\\log 0.00074$.",
+   "options": [
+    "\\bar{3}",
+    "\\bar{5}",
+    "-4",
+    "\\bar{4}"
+   ],
+   "answer": 3,
+   "solution": "$0.00074 = 7.4\\times 10^{-4}$, so characteristic $= \\bar{4}$."
+  },
+  {
+   "q": "State the characteristic of $\\log 0.008$.",
+   "options": [
+    "\\bar{2}",
+    "\\bar{4}",
+    "-3",
+    "\\bar{3}"
+   ],
+   "answer": 3,
+   "solution": "$0.008 = 8.0\\times 10^{-3}$, so characteristic $= \\bar{3}$."
+  },
+  {
+   "q": "State the characteristic of $\\log 0.28408$.",
+   "options": [
+    "\\bar{3}",
+    "-1",
+    "\\bar{1}",
+    "\\bar{2}"
+   ],
+   "answer": 2,
+   "solution": "$0.28408 = 2.841\\times 10^{-1}$, so characteristic $= \\bar{1}$."
+  },
+  {
+   "q": "State the characteristic of $\\log 0.21928$.",
+   "options": [
+    "\\bar{1}",
+    "-1",
+    "\\bar{2}",
+    "\\bar{3}"
+   ],
+   "answer": 0,
+   "solution": "$0.21928 = 2.193\\times 10^{-1}$, so characteristic $= \\bar{1}$."
+  },
+  {
+   "q": "State the characteristic of $\\log 0.00829$.",
+   "options": [
+    "-3",
+    "\\bar{3}",
+    "\\bar{4}",
+    "\\bar{2}"
+   ],
+   "answer": 1,
+   "solution": "$0.00829 = 8.29\\times 10^{-3}$, so characteristic $= \\bar{3}$."
+  },
+  {
+   "q": "State the characteristic of $\\log 6e-05$.",
+   "options": [
+    "\\bar{6}",
+    "\\bar{5}",
+    "\\bar{4}",
+    "-5"
+   ],
+   "answer": 1,
+   "solution": "$6e-05 = 6.0\\times 10^{-5}$, so characteristic $= \\bar{5}$."
+  },
+  {
+   "q": "State the characteristic of $\\log 0.53531$.",
+   "options": [
+    "-1",
+    "\\bar{2}",
+    "\\bar{1}",
+    "\\bar{3}"
+   ],
+   "answer": 2,
+   "solution": "$0.53531 = 5.353\\times 10^{-1}$, so characteristic $= \\bar{1}$."
+  },
+  {
+   "q": "State the characteristic of $\\log 0.43973$.",
+   "options": [
+    "-1",
+    "\\bar{3}",
+    "\\bar{1}",
+    "\\bar{2}"
+   ],
+   "answer": 2,
+   "solution": "$0.43973 = 4.397\\times 10^{-1}$, so characteristic $= \\bar{1}$."
+  },
+  {
+   "q": "Rewrite $\\log_{2} 8 = 3$ in index form.",
+   "options": [
+    "8^{3} = 2",
+    "2^{8} = 3",
+    "2^{3} = 8",
+    "3^{2} = 8"
+   ],
+   "answer": 2,
+   "solution": "$\\log_b N = x$ ⇔ $b^x = N$: $2^{3} = 8$."
+  },
+  {
+   "q": "Rewrite $\\log_{10} 100000 = 5$ in index form.",
+   "options": [
+    "10^{5} = 100000",
+    "100000^{5} = 10",
+    "5^{10} = 100000",
+    "10^{100000} = 5"
+   ],
+   "answer": 0,
+   "solution": "$\\log_b N = x$ ⇔ $b^x = N$: $10^{5} = 100000$."
+  },
+  {
+   "q": "Rewrite $\\log_{5} 125 = 3$ in index form.",
+   "options": [
+    "5^{3} = 125",
+    "5^{125} = 3",
+    "3^{5} = 125",
+    "125^{3} = 5"
+   ],
+   "answer": 0,
+   "solution": "$\\log_b N = x$ ⇔ $b^x = N$: $5^{3} = 125$."
+  },
+  {
+   "q": "Rewrite $\\log_{3} 9 = 2$ in index form.",
+   "options": [
+    "2^{3} = 9",
+    "3^{9} = 2",
+    "9^{2} = 3",
+    "3^{2} = 9"
+   ],
+   "answer": 3,
+   "solution": "$\\log_b N = x$ ⇔ $b^x = N$: $3^{2} = 9$."
+  },
+  {
+   "q": "Rewrite $\\log_{2} 4 = 2$ in index form.",
+   "options": [
+    "4^{2} = 2",
+    "2^{2} = 4",
+    "2^{4} = 2",
+    "2^{2} = 4"
+   ],
+   "answer": 1,
+   "solution": "$\\log_b N = x$ ⇔ $b^x = N$: $2^{2} = 4$."
+  },
+  {
+   "q": "Rewrite $\\log_{10} 100000 = 5$ in index form.",
+   "options": [
+    "100000^{5} = 10",
+    "5^{10} = 100000",
+    "10^{5} = 100000",
+    "10^{100000} = 5"
+   ],
+   "answer": 2,
+   "solution": "$\\log_b N = x$ ⇔ $b^x = N$: $10^{5} = 100000$."
+  },
+  {
+   "q": "Rewrite $\\log_{3} 81 = 4$ in index form.",
+   "options": [
+    "3^{81} = 4",
+    "3^{4} = 81",
+    "81^{4} = 3",
+    "4^{3} = 81"
+   ],
+   "answer": 1,
+   "solution": "$\\log_b N = x$ ⇔ $b^x = N$: $3^{4} = 81$."
+  },
+  {
+   "q": "Rewrite $\\log_{2} 4 = 2$ in index form.",
+   "options": [
+    "4^{2} = 2",
+    "2^{2} = 4",
+    "2^{2} = 4",
+    "2^{4} = 2"
+   ],
+   "answer": 1,
+   "solution": "$\\log_b N = x$ ⇔ $b^x = N$: $2^{2} = 4$."
+  },
+  {
+   "q": "Rewrite $\\log_{2} 32 = 5$ in index form.",
+   "options": [
+    "2^{32} = 5",
+    "2^{5} = 32",
+    "32^{5} = 2",
+    "5^{2} = 32"
+   ],
+   "answer": 1,
+   "solution": "$\\log_b N = x$ ⇔ $b^x = N$: $2^{5} = 32$."
+  },
+  {
+   "q": "Rewrite $\\log_{10} 1000 = 3$ in index form.",
+   "options": [
+    "10^{3} = 1000",
+    "10^{1000} = 3",
+    "3^{10} = 1000",
+    "1000^{3} = 10"
+   ],
+   "answer": 0,
+   "solution": "$\\log_b N = x$ ⇔ $b^x = N$: $10^{3} = 1000$."
+  },
+  {
+   "q": "Rewrite $\\log_{3} 9 = 2$ in index form.",
+   "options": [
+    "3^{9} = 2",
+    "9^{2} = 3",
+    "2^{3} = 9",
+    "3^{2} = 9"
+   ],
+   "answer": 3,
+   "solution": "$\\log_b N = x$ ⇔ $b^x = N$: $3^{2} = 9$."
+  },
+  {
+   "q": "Rewrite $\\log_{3} 81 = 4$ in index form.",
+   "options": [
+    "3^{81} = 4",
+    "81^{4} = 3",
+    "3^{4} = 81",
+    "4^{3} = 81"
+   ],
+   "answer": 2,
+   "solution": "$\\log_b N = x$ ⇔ $b^x = N$: $3^{4} = 81$."
+  },
+  {
+   "q": "Rewrite $\\log_{2} 8 = 3$ in index form.",
+   "options": [
+    "2^{8} = 3",
+    "3^{2} = 8",
+    "8^{3} = 2",
+    "2^{3} = 8"
+   ],
+   "answer": 3,
+   "solution": "$\\log_b N = x$ ⇔ $b^x = N$: $2^{3} = 8$."
+  },
+  {
+   "q": "Rewrite $\\log_{5} 625 = 4$ in index form.",
+   "options": [
+    "5^{625} = 4",
+    "625^{4} = 5",
+    "5^{4} = 625",
+    "4^{5} = 625"
+   ],
+   "answer": 2,
+   "solution": "$\\log_b N = x$ ⇔ $b^x = N$: $5^{4} = 625$."
+  },
+  {
+   "q": "Rewrite $\\log_{10} 100000 = 5$ in index form.",
+   "options": [
+    "10^{5} = 100000",
+    "5^{10} = 100000",
+    "100000^{5} = 10",
+    "10^{100000} = 5"
+   ],
+   "answer": 0,
+   "solution": "$\\log_b N = x$ ⇔ $b^x = N$: $10^{5} = 100000$."
+  },
+  {
+   "q": "Simplify $\\log 5 + \\log 4$.",
+   "options": [
+    "\\log 20",
+    "\\log 9",
+    "\\log 5^4",
+    "\\log 1.25"
+   ],
+   "answer": 0,
+   "solution": "$\\log 5 + \\log 4 = \\log(5\\cdot 4) = \\log 20$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 1$.",
+   "options": [
+    "\\infty",
+    "10",
+    "0",
+    "1"
+   ],
+   "answer": 2,
+   "solution": "$10^0 = 1 \\Rightarrow \\log_{10} 1 = 0$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 1$.",
+   "options": [
+    "0",
+    "10",
+    "\\infty",
+    "1"
+   ],
+   "answer": 0,
+   "solution": "$10^0 = 1 \\Rightarrow \\log_{10} 1 = 0$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 1$.",
+   "options": [
+    "\\infty",
+    "10",
+    "1",
+    "0"
+   ],
+   "answer": 3,
+   "solution": "$10^0 = 1 \\Rightarrow \\log_{10} 1 = 0$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 100$.",
+   "options": [
+    "1",
+    "2",
+    "0",
+    "10"
+   ],
+   "answer": 1,
+   "solution": "$100=10^2 \\Rightarrow \\log_{10} 100 = 2$."
+  },
+  {
+   "q": "Simplify $3\\log 2$ as a single log.",
+   "options": [
+    "\\log 8",
+    "\\log 5",
+    "\\log 6",
+    "\\log 2^3 \\cdot 3"
+   ],
+   "answer": 0,
+   "solution": "$k\\log M = \\log M^k$, so $3\\log 2 = \\log 8$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 1$.",
+   "options": [
+    "1",
+    "10",
+    "\\infty",
+    "0"
+   ],
+   "answer": 3,
+   "solution": "$10^0 = 1 \\Rightarrow \\log_{10} 1 = 0$."
+  },
+  {
+   "q": "Simplify $\\log 20 - \\log 4$.",
+   "options": [
+    "\\log 5",
+    "\\log 16",
+    "\\log 24",
+    "\\log 80"
+   ],
+   "answer": 0,
+   "solution": "$\\log(20/4) = \\log 5$."
+  },
+  {
+   "q": "Simplify $\\log 5 + \\log 4$.",
+   "options": [
+    "\\log 1.25",
+    "\\log 20",
+    "\\log 5^4",
+    "\\log 9"
+   ],
+   "answer": 1,
+   "solution": "$\\log 5 + \\log 4 = \\log(5\\cdot 4) = \\log 20$."
+  },
+  {
+   "q": "Simplify $\\log 5 + \\log 4$.",
+   "options": [
+    "\\log 20",
+    "\\log 1.25",
+    "\\log 5^4",
+    "\\log 9"
+   ],
+   "answer": 0,
+   "solution": "$\\log 5 + \\log 4 = \\log(5\\cdot 4) = \\log 20$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 100$.",
+   "options": [
+    "2",
+    "1",
+    "10",
+    "0"
+   ],
+   "answer": 0,
+   "solution": "$100=10^2 \\Rightarrow \\log_{10} 100 = 2$."
+  },
+  {
+   "q": "Simplify $3\\log 2$ as a single log.",
+   "options": [
+    "\\log 6",
+    "\\log 5",
+    "\\log 8",
+    "\\log 2^3 \\cdot 3"
+   ],
+   "answer": 2,
+   "solution": "$k\\log M = \\log M^k$, so $3\\log 2 = \\log 8$."
+  },
+  {
+   "q": "Simplify $\\log 5 + \\log 4$.",
+   "options": [
+    "\\log 5^4",
+    "\\log 9",
+    "\\log 1.25",
+    "\\log 20"
+   ],
+   "answer": 3,
+   "solution": "$\\log 5 + \\log 4 = \\log(5\\cdot 4) = \\log 20$."
+  },
+  {
+   "q": "Simplify $\\log 20 - \\log 4$.",
+   "options": [
+    "\\log 24",
+    "\\log 80",
+    "\\log 5",
+    "\\log 16"
+   ],
+   "answer": 2,
+   "solution": "$\\log(20/4) = \\log 5$."
+  },
+  {
+   "q": "Simplify $\\log 5 + \\log 4$.",
+   "options": [
+    "\\log 20",
+    "\\log 9",
+    "\\log 1.25",
+    "\\log 5^4"
+   ],
+   "answer": 0,
+   "solution": "$\\log 5 + \\log 4 = \\log(5\\cdot 4) = \\log 20$."
+  },
+  {
+   "q": "Simplify $3\\log 2$ as a single log.",
+   "options": [
+    "\\log 2^3 \\cdot 3",
+    "\\log 5",
+    "\\log 6",
+    "\\log 8"
+   ],
+   "answer": 3,
+   "solution": "$k\\log M = \\log M^k$, so $3\\log 2 = \\log 8$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 100$.",
+   "options": [
+    "1",
+    "2",
+    "10",
+    "0"
+   ],
+   "answer": 1,
+   "solution": "$100=10^2 \\Rightarrow \\log_{10} 100 = 2$."
+  },
+  {
+   "q": "Simplify $\\log 20 - \\log 4$.",
+   "options": [
+    "\\log 24",
+    "\\log 80",
+    "\\log 5",
+    "\\log 16"
+   ],
+   "answer": 2,
+   "solution": "$\\log(20/4) = \\log 5$."
+  },
+  {
+   "q": "Simplify $\\log 5 + \\log 4$.",
+   "options": [
+    "\\log 5^4",
+    "\\log 20",
+    "\\log 1.25",
+    "\\log 9"
+   ],
+   "answer": 1,
+   "solution": "$\\log 5 + \\log 4 = \\log(5\\cdot 4) = \\log 20$."
+  },
+  {
+   "q": "Evaluate $\\log_{10} 1$.",
+   "options": [
+    "10",
+    "0",
+    "1",
+    "\\infty"
+   ],
+   "answer": 1,
+   "solution": "$10^0 = 1 \\Rightarrow \\log_{10} 1 = 0$."
+  }
+ ]
+}

@@ -1,0 +1,616 @@
+{
+ "topic": "Algebraic Processes",
+ "ss_level": "SSS 1",
+ "icon": "fa-square-root-variable",
+ "color": "#8b5cf6",
+ "outline": [
+  "Expansion of algebraic expressions",
+  "Factorisation of quadratic expressions",
+  "Solving linear equations & word problems",
+  "Change of subject & substitution"
+ ],
+ "modules": [
+  {
+   "title": "Module 1 · Expansion",
+   "html": "<p>Use the distributive law $a(b+c)=ab+ac$ and identities:</p>$$(a+b)^2 = a^2 + 2ab + b^2$$$$(a-b)^2 = a^2 - 2ab + b^2$$$$(a+b)(a-b) = a^2 - b^2$$",
+   "examples": [
+    {
+     "q": "Expand $(2x+3)^2$.",
+     "a": "$(2x)^2 + 2\\cdot 2x\\cdot 3 + 3^2 = 4x^2 + 12x + 9$."
+    }
+   ]
+  },
+  {
+   "title": "Module 2 · Factorisation of Quadratics",
+   "html": "<p>For $x^2 + bx + c$, find two numbers whose sum is $b$ and product is $c$. For $ax^2+bx+c$ with $a\\ne 1$, use the AC method: find factors of $ac$ that add to $b$, split the middle term and factor by grouping.</p>",
+   "examples": [
+    {
+     "q": "Factorise $x^2 + 7x + 12$.",
+     "a": "$3+4=7$, $3\\cdot 4=12$: $(x+3)(x+4)$."
+    },
+    {
+     "q": "Factorise $2x^2 + 7x + 3$.",
+     "a": "$ac=6$; factors of 6 summing to 7 are 6 and 1. Split: $2x^2 + 6x + x + 3 = 2x(x+3)+1(x+3) = (2x+1)(x+3)$."
+    }
+   ]
+  },
+  {
+   "title": "Module 3 · Linear Equations & Word Problems",
+   "html": "<p>Isolate the variable using inverse operations. In word problems, define a variable, translate the words into an equation, solve, and check.</p>",
+   "examples": [
+    {
+     "q": "Solve $3(x-2) = 15$.",
+     "a": "$x-2 = 5 \\Rightarrow x = 7$."
+    }
+   ]
+  },
+  {
+   "title": "Module 4 · Change of Subject & Substitution",
+   "html": "<p>Treat the target letter as the unknown; use the same rules as solving equations to isolate it.</p>",
+   "examples": [
+    {
+     "q": "Make $r$ the subject of $A = \\pi r^2$.",
+     "a": "$r^2 = A/\\pi \\Rightarrow r = \\sqrt{A/\\pi}$."
+    },
+    {
+     "q": "If $v = u + at$, find $t$.",
+     "a": "$t = (v-u)/a$."
+    }
+   ]
+  }
+ ],
+ "slug": "algebraic-processes",
+ "subject": "Mathematics",
+ "quiz": [
+  {
+   "q": "Expand $(1x+5)^2$.",
+   "options": [
+    "1x^2 + 5x + 25",
+    "1x^2 + 10x + 25",
+    "1x^2 + 10x + 25",
+    "1x^2 + 25"
+   ],
+   "answer": 1,
+   "solution": "$(1x+5)^2 = 1x^2 + 2\\cdot 1x\\cdot 5 + 25 = 1x^2 + 10x + 25$."
+  },
+  {
+   "q": "Expand $(5x+8)^2$.",
+   "options": [
+    "5x^2 + 80x + 64",
+    "25x^2 + 80x + 64",
+    "25x^2 + 40x + 64",
+    "25x^2 + 64"
+   ],
+   "answer": 1,
+   "solution": "$(5x+8)^2 = 25x^2 + 2\\cdot 5x\\cdot 8 + 64 = 25x^2 + 80x + 64$."
+  },
+  {
+   "q": "Expand $(4x+2)^2$.",
+   "options": [
+    "16x^2 + 16x + 4",
+    "16x^2 + 4",
+    "16x^2 + 8x + 4",
+    "4x^2 + 16x + 4"
+   ],
+   "answer": 0,
+   "solution": "$(4x+2)^2 = 16x^2 + 2\\cdot 4x\\cdot 2 + 4 = 16x^2 + 16x + 4$."
+  },
+  {
+   "q": "Expand $(3x+2)^2$.",
+   "options": [
+    "9x^2 + 6x + 4",
+    "9x^2 + 4",
+    "9x^2 + 12x + 4",
+    "3x^2 + 12x + 4"
+   ],
+   "answer": 2,
+   "solution": "$(3x+2)^2 = 9x^2 + 2\\cdot 3x\\cdot 2 + 4 = 9x^2 + 12x + 4$."
+  },
+  {
+   "q": "Expand $(5x+6)^2$.",
+   "options": [
+    "25x^2 + 60x + 36",
+    "5x^2 + 60x + 36",
+    "25x^2 + 30x + 36",
+    "25x^2 + 36"
+   ],
+   "answer": 0,
+   "solution": "$(5x+6)^2 = 25x^2 + 2\\cdot 5x\\cdot 6 + 36 = 25x^2 + 60x + 36$."
+  },
+  {
+   "q": "Expand $(3x+8)^2$.",
+   "options": [
+    "9x^2 + 24x + 64",
+    "9x^2 + 64",
+    "3x^2 + 48x + 64",
+    "9x^2 + 48x + 64"
+   ],
+   "answer": 3,
+   "solution": "$(3x+8)^2 = 9x^2 + 2\\cdot 3x\\cdot 8 + 64 = 9x^2 + 48x + 64$."
+  },
+  {
+   "q": "Expand $(5x+6)^2$.",
+   "options": [
+    "25x^2 + 60x + 36",
+    "5x^2 + 60x + 36",
+    "25x^2 + 30x + 36",
+    "25x^2 + 36"
+   ],
+   "answer": 0,
+   "solution": "$(5x+6)^2 = 25x^2 + 2\\cdot 5x\\cdot 6 + 36 = 25x^2 + 60x + 36$."
+  },
+  {
+   "q": "Expand $(2x+8)^2$.",
+   "options": [
+    "4x^2 + 32x + 64",
+    "4x^2 + 64",
+    "2x^2 + 32x + 64",
+    "4x^2 + 16x + 64"
+   ],
+   "answer": 0,
+   "solution": "$(2x+8)^2 = 4x^2 + 2\\cdot 2x\\cdot 8 + 64 = 4x^2 + 32x + 64$."
+  },
+  {
+   "q": "Expand $(2x+3)^2$.",
+   "options": [
+    "4x^2 + 6x + 9",
+    "4x^2 + 12x + 9",
+    "4x^2 + 9",
+    "2x^2 + 12x + 9"
+   ],
+   "answer": 1,
+   "solution": "$(2x+3)^2 = 4x^2 + 2\\cdot 2x\\cdot 3 + 9 = 4x^2 + 12x + 9$."
+  },
+  {
+   "q": "Expand $(1x+6)^2$.",
+   "options": [
+    "1x^2 + 12x + 36",
+    "1x^2 + 6x + 36",
+    "1x^2 + 12x + 36",
+    "1x^2 + 36"
+   ],
+   "answer": 0,
+   "solution": "$(1x+6)^2 = 1x^2 + 2\\cdot 1x\\cdot 6 + 36 = 1x^2 + 12x + 36$."
+  },
+  {
+   "q": "Expand $(2x+1)^2$.",
+   "options": [
+    "4x^2 + 2x + 1",
+    "4x^2 + 1",
+    "2x^2 + 4x + 1",
+    "4x^2 + 4x + 1"
+   ],
+   "answer": 3,
+   "solution": "$(2x+1)^2 = 4x^2 + 2\\cdot 2x\\cdot 1 + 1 = 4x^2 + 4x + 1$."
+  },
+  {
+   "q": "Expand $(4x+9)^2$.",
+   "options": [
+    "16x^2 + 81",
+    "16x^2 + 36x + 81",
+    "16x^2 + 72x + 81",
+    "4x^2 + 72x + 81"
+   ],
+   "answer": 2,
+   "solution": "$(4x+9)^2 = 16x^2 + 2\\cdot 4x\\cdot 9 + 81 = 16x^2 + 72x + 81$."
+  },
+  {
+   "q": "Expand $(x+7)(x+4)$.",
+   "options": [
+    "x^2 + 11",
+    "x^2 + 11x + 28",
+    "x^2 - 11x + 28",
+    "x^2 + 28x + 11"
+   ],
+   "answer": 1,
+   "solution": "$(x+7)(x+4) = x^2 + (7+4)x + 7\\cdot 4 = x^2 + 11x + 28$."
+  },
+  {
+   "q": "Expand $(x+4)(x+3)$.",
+   "options": [
+    "x^2 + 12x + 7",
+    "x^2 + 7",
+    "x^2 - 7x + 12",
+    "x^2 + 7x + 12"
+   ],
+   "answer": 3,
+   "solution": "$(x+4)(x+3) = x^2 + (4+3)x + 4\\cdot 3 = x^2 + 7x + 12$."
+  },
+  {
+   "q": "Expand $(x+6)(x+6)$.",
+   "options": [
+    "x^2 - 12x + 36",
+    "x^2 + 12x + 36",
+    "x^2 + 12",
+    "x^2 + 36x + 12"
+   ],
+   "answer": 1,
+   "solution": "$(x+6)(x+6) = x^2 + (6+6)x + 6\\cdot 6 = x^2 + 12x + 36$."
+  },
+  {
+   "q": "Expand $(x+3)(x+2)$.",
+   "options": [
+    "x^2 + 5",
+    "x^2 + 6x + 5",
+    "x^2 - 5x + 6",
+    "x^2 + 5x + 6"
+   ],
+   "answer": 3,
+   "solution": "$(x+3)(x+2) = x^2 + (3+2)x + 3\\cdot 2 = x^2 + 5x + 6$."
+  },
+  {
+   "q": "Expand $(x+2)(x+1)$.",
+   "options": [
+    "x^2 - 3x + 2",
+    "x^2 + 3x + 2",
+    "x^2 + 3",
+    "x^2 + 2x + 3"
+   ],
+   "answer": 1,
+   "solution": "$(x+2)(x+1) = x^2 + (2+1)x + 2\\cdot 1 = x^2 + 3x + 2$."
+  },
+  {
+   "q": "Expand $(x+8)(x+4)$.",
+   "options": [
+    "x^2 + 12x + 32",
+    "x^2 + 12",
+    "x^2 - 12x + 32",
+    "x^2 + 32x + 12"
+   ],
+   "answer": 0,
+   "solution": "$(x+8)(x+4) = x^2 + (8+4)x + 8\\cdot 4 = x^2 + 12x + 32$."
+  },
+  {
+   "q": "Expand $(x+8)(x+3)$.",
+   "options": [
+    "x^2 + 24x + 11",
+    "x^2 - 11x + 24",
+    "x^2 + 11x + 24",
+    "x^2 + 11"
+   ],
+   "answer": 2,
+   "solution": "$(x+8)(x+3) = x^2 + (8+3)x + 8\\cdot 3 = x^2 + 11x + 24$."
+  },
+  {
+   "q": "Expand $(x+2)(x+8)$.",
+   "options": [
+    "x^2 + 10",
+    "x^2 + 16x + 10",
+    "x^2 - 10x + 16",
+    "x^2 + 10x + 16"
+   ],
+   "answer": 3,
+   "solution": "$(x+2)(x+8) = x^2 + (2+8)x + 2\\cdot 8 = x^2 + 10x + 16$."
+  },
+  {
+   "q": "Expand $(x+9)(x+8)$.",
+   "options": [
+    "x^2 + 17x + 72",
+    "x^2 + 72x + 17",
+    "x^2 - 17x + 72",
+    "x^2 + 17"
+   ],
+   "answer": 0,
+   "solution": "$(x+9)(x+8) = x^2 + (9+8)x + 9\\cdot 8 = x^2 + 17x + 72$."
+  },
+  {
+   "q": "Expand $(x+5)(x+6)$.",
+   "options": [
+    "x^2 + 30x + 11",
+    "x^2 + 11",
+    "x^2 + 11x + 30",
+    "x^2 - 11x + 30"
+   ],
+   "answer": 2,
+   "solution": "$(x+5)(x+6) = x^2 + (5+6)x + 5\\cdot 6 = x^2 + 11x + 30$."
+  },
+  {
+   "q": "Expand $(x+3)(x+7)$.",
+   "options": [
+    "x^2 - 10x + 21",
+    "x^2 + 10x + 21",
+    "x^2 + 21x + 10",
+    "x^2 + 10"
+   ],
+   "answer": 1,
+   "solution": "$(x+3)(x+7) = x^2 + (3+7)x + 3\\cdot 7 = x^2 + 10x + 21$."
+  },
+  {
+   "q": "Expand $(x+2)(x+6)$.",
+   "options": [
+    "x^2 - 8x + 12",
+    "x^2 + 12x + 8",
+    "x^2 + 8x + 12",
+    "x^2 + 8"
+   ],
+   "answer": 2,
+   "solution": "$(x+2)(x+6) = x^2 + (2+6)x + 2\\cdot 6 = x^2 + 8x + 12$."
+  },
+  {
+   "q": "Factorise $x^2 + 8x + 7$.",
+   "options": [
+    "(x-1)(x-7)",
+    "(x+8)(x+7)",
+    "(x+1)(x+7)",
+    "(x+1)(x+8)"
+   ],
+   "answer": 2,
+   "solution": "Two numbers whose sum is $8$ and product is $7$ are $1$ and $7$. So factorisation is $(x+1)(x+7)$."
+  },
+  {
+   "q": "Factorise $x^2 + 15x + 56$.",
+   "options": [
+    "(x+6)(x+9)",
+    "(x+15)(x+56)",
+    "(x+7)(x+8)",
+    "(x-7)(x-8)"
+   ],
+   "answer": 2,
+   "solution": "Two numbers whose sum is $15$ and product is $56$ are $7$ and $8$. So factorisation is $(x+7)(x+8)$."
+  },
+  {
+   "q": "Factorise $x^2 + 10x + 24$.",
+   "options": [
+    "(x+4)(x+6)",
+    "(x+3)(x+7)",
+    "(x+10)(x+24)",
+    "(x-4)(x-6)"
+   ],
+   "answer": 0,
+   "solution": "Two numbers whose sum is $10$ and product is $24$ are $4$ and $6$. So factorisation is $(x+4)(x+6)$."
+  },
+  {
+   "q": "Factorise $x^2 + 7x + 6$.",
+   "options": [
+    "(x+7)(x+6)",
+    "(x+1)(x+6)",
+    "(x-6)(x-1)",
+    "(x+5)(x+2)"
+   ],
+   "answer": 1,
+   "solution": "Two numbers whose sum is $7$ and product is $6$ are $6$ and $1$. So factorisation is $(x+1)(x+6)$."
+  },
+  {
+   "q": "Factorise $x^2 + 7x + 6$.",
+   "options": [
+    "(x-6)(x-1)",
+    "(x+7)(x+6)",
+    "(x+1)(x+6)",
+    "(x+5)(x+2)"
+   ],
+   "answer": 2,
+   "solution": "Two numbers whose sum is $7$ and product is $6$ are $6$ and $1$. So factorisation is $(x+1)(x+6)$."
+  },
+  {
+   "q": "Factorise $x^2 + 8x + 12$.",
+   "options": [
+    "(x+2)(x+6)",
+    "(x+1)(x+7)",
+    "(x-2)(x-6)",
+    "(x+8)(x+12)"
+   ],
+   "answer": 0,
+   "solution": "Two numbers whose sum is $8$ and product is $12$ are $2$ and $6$. So factorisation is $(x+2)(x+6)$."
+  },
+  {
+   "q": "Factorise $x^2 + 11x + 24$.",
+   "options": [
+    "(x+11)(x+24)",
+    "(x-3)(x-8)",
+    "(x+2)(x+9)",
+    "(x+3)(x+8)"
+   ],
+   "answer": 3,
+   "solution": "Two numbers whose sum is $11$ and product is $24$ are $3$ and $8$. So factorisation is $(x+3)(x+8)$."
+  },
+  {
+   "q": "Factorise $x^2 + 11x + 28$.",
+   "options": [
+    "(x+11)(x+28)",
+    "(x-4)(x-7)",
+    "(x+4)(x+7)",
+    "(x+3)(x+8)"
+   ],
+   "answer": 2,
+   "solution": "Two numbers whose sum is $11$ and product is $28$ are $4$ and $7$. So factorisation is $(x+4)(x+7)$."
+  },
+  {
+   "q": "Factorise $x^2 + 9x + 8$.",
+   "options": [
+    "(x-1)(x-8)",
+    "(x+1)(x+8)",
+    "(x+1)(x+9)",
+    "(x+9)(x+8)"
+   ],
+   "answer": 1,
+   "solution": "Two numbers whose sum is $9$ and product is $8$ are $1$ and $8$. So factorisation is $(x+1)(x+8)$."
+  },
+  {
+   "q": "Factorise $x^2 + 14x + 45$.",
+   "options": [
+    "(x+5)(x+9)",
+    "(x+8)(x+6)",
+    "(x+14)(x+45)",
+    "(x-9)(x-5)"
+   ],
+   "answer": 0,
+   "solution": "Two numbers whose sum is $14$ and product is $45$ are $9$ and $5$. So factorisation is $(x+5)(x+9)$."
+  },
+  {
+   "q": "Factorise $x^2 + 10x + 16$.",
+   "options": [
+    "(x-8)(x-2)",
+    "(x+2)(x+8)",
+    "(x+7)(x+3)",
+    "(x+10)(x+16)"
+   ],
+   "answer": 1,
+   "solution": "Two numbers whose sum is $10$ and product is $16$ are $8$ and $2$. So factorisation is $(x+2)(x+8)$."
+  },
+  {
+   "q": "Factorise $x^2 + 15x + 54$.",
+   "options": [
+    "(x+6)(x+9)",
+    "(x+8)(x+7)",
+    "(x-9)(x-6)",
+    "(x+15)(x+54)"
+   ],
+   "answer": 0,
+   "solution": "Two numbers whose sum is $15$ and product is $54$ are $9$ and $6$. So factorisation is $(x+6)(x+9)$."
+  },
+  {
+   "q": "Solve $6x + 4 = 64$.",
+   "options": [
+    "20",
+    "11",
+    "10",
+    "9"
+   ],
+   "answer": 2,
+   "solution": "$6x = 60 \\Rightarrow x = 10$."
+  },
+  {
+   "q": "Solve $2x + 11 = 23$.",
+   "options": [
+    "12",
+    "5",
+    "7",
+    "6"
+   ],
+   "answer": 3,
+   "solution": "$2x = 12 \\Rightarrow x = 6$."
+  },
+  {
+   "q": "Solve $4x + 12 = 28$.",
+   "options": [
+    "8",
+    "4",
+    "5",
+    "3"
+   ],
+   "answer": 1,
+   "solution": "$4x = 16 \\Rightarrow x = 4$."
+  },
+  {
+   "q": "Solve $9x + 15 = 42$.",
+   "options": [
+    "6",
+    "4",
+    "2",
+    "3"
+   ],
+   "answer": 3,
+   "solution": "$9x = 27 \\Rightarrow x = 3$."
+  },
+  {
+   "q": "Solve $5x + 2 = 37$.",
+   "options": [
+    "14",
+    "7",
+    "6",
+    "8"
+   ],
+   "answer": 1,
+   "solution": "$5x = 35 \\Rightarrow x = 7$."
+  },
+  {
+   "q": "Solve $5x + 5 = 25$.",
+   "options": [
+    "3",
+    "8",
+    "4",
+    "5"
+   ],
+   "answer": 2,
+   "solution": "$5x = 20 \\Rightarrow x = 4$."
+  },
+  {
+   "q": "Solve $7x + 14 = 77$.",
+   "options": [
+    "18",
+    "9",
+    "8",
+    "10"
+   ],
+   "answer": 1,
+   "solution": "$7x = 63 \\Rightarrow x = 9$."
+  },
+  {
+   "q": "Solve $9x + 14 = 50$.",
+   "options": [
+    "4",
+    "8",
+    "3",
+    "5"
+   ],
+   "answer": 0,
+   "solution": "$9x = 36 \\Rightarrow x = 4$."
+  },
+  {
+   "q": "Solve $3x + 13 = 25$.",
+   "options": [
+    "4",
+    "5",
+    "3",
+    "8"
+   ],
+   "answer": 0,
+   "solution": "$3x = 12 \\Rightarrow x = 4$."
+  },
+  {
+   "q": "Make $h$ the subject of $V = \\pi r^2 h$.",
+   "options": [
+    "h = \\pi r^2 / V",
+    "h = \\dfrac{V}{\\pi r^2}",
+    "h = V - \\pi r^2",
+    "h = V\\pi r^2"
+   ],
+   "answer": 1,
+   "solution": "Divide both sides by $\\pi r^2$."
+  },
+  {
+   "q": "Given $s = ut + \\tfrac{1}{2}at^2$, make $a$ the subject.",
+   "options": [
+    "a = \\dfrac{s-ut}{t^2}",
+    "a = 2s - ut",
+    "a = \\dfrac{2(s-ut)}{t^2}",
+    "a = (s-ut)/2t"
+   ],
+   "answer": 2,
+   "solution": "Isolate the $\\tfrac12 at^2$ term, then multiply by $2/t^2$."
+  },
+  {
+   "q": "If $v = u + at$, make $t$ the subject.",
+   "options": [
+    "t = \\dfrac{v-u}{a}",
+    "t = v - u - a",
+    "t = a(v-u)",
+    "t = \\dfrac{v+u}{a}"
+   ],
+   "answer": 0,
+   "solution": "$at = v-u \\Rightarrow t = (v-u)/a$."
+  },
+  {
+   "q": "Given $s = ut + \\tfrac{1}{2}at^2$, make $a$ the subject.",
+   "options": [
+    "a = \\dfrac{2(s-ut)}{t^2}",
+    "a = 2s - ut",
+    "a = (s-ut)/2t",
+    "a = \\dfrac{s-ut}{t^2}"
+   ],
+   "answer": 0,
+   "solution": "Isolate the $\\tfrac12 at^2$ term, then multiply by $2/t^2$."
+  },
+  {
+   "q": "If $v = u + at$, make $t$ the subject.",
+   "options": [
+    "t = \\dfrac{v-u}{a}",
+    "t = \\dfrac{v+u}{a}",
+    "t = a(v-u)",
+    "t = v - u - a"
+   ],
+   "answer": 0,
+   "solution": "$at = v-u \\Rightarrow t = (v-u)/a$."
+  }
+ ]
+}

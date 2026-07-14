@@ -1,0 +1,597 @@
+{
+ "topic": "Sets",
+ "ss_level": "SSS 1",
+ "icon": "fa-diagram-project",
+ "color": "#14b8a6",
+ "outline": [
+  "Definitions, notation, types of sets",
+  "Union, intersection, complement",
+  "Venn diagrams (up to 3 sets) & word problems"
+ ],
+ "modules": [
+  {
+   "title": "Module 1 · Basic Ideas & Notation",
+   "html": "<p>A <b>set</b> is a well-defined collection of distinct objects called its <b>elements</b>. We use capital letters for sets: $A,B,U$ etc.</p><ul><li>$x\\in A$: '$x$ belongs to $A$'.</li><li>$x\\notin A$: '$x$ does not belong to $A$'.</li><li>$\\emptyset$ or $\\{\\}$: the <b>empty set</b>.</li><li>$U$: the <b>universal set</b>.</li><li>$n(A)$: the number of elements in $A$.</li></ul><p><b>Types:</b> finite, infinite, equal, equivalent, subset ($A\\subseteq B$), proper subset ($A\\subset B$), power set.</p>",
+   "examples": [
+    {
+     "q": "If $A=\\{2,4,6,8\\}$, find $n(A)$.",
+     "a": "$n(A)=4$."
+    }
+   ]
+  },
+  {
+   "title": "Module 2 · Union, Intersection, Complement",
+   "html": "<p>$A\\cup B$ is the set of elements in $A$ <i>or</i> $B$ (or both). $A\\cap B$ is the set of elements in both. $A'$ (or $A^c$) is the complement of $A$ w.r.t. $U$: elements in $U$ not in $A$.</p>$$n(A\\cup B) = n(A) + n(B) - n(A\\cap B)$$",
+   "examples": [
+    {
+     "q": "If $n(A)=15$, $n(B)=12$ and $n(A\\cap B)=5$, find $n(A\\cup B)$.",
+     "a": "$n(A\\cup B) = 15 + 12 - 5 = 22$."
+    }
+   ]
+  },
+  {
+   "title": "Module 3 · Venn Diagrams & Word Problems",
+   "html": "<p>For three overlapping sets:</p>$$n(A\\cup B\\cup C)=n(A)+n(B)+n(C)-n(A\\cap B)-n(A\\cap C)-n(B\\cap C)+n(A\\cap B\\cap C)$$<p>Word-problem strategy: draw the Venn diagram, start with the innermost region ($A\\cap B\\cap C$), then move outward, filling each region using the given data.</p>",
+   "examples": [
+    {
+     "q": "In a class of 40, 22 like Maths, 18 like English, 8 like both. How many like neither?",
+     "a": "Like at least one: $22+18-8=32$. Like neither: $40-32=8$."
+    }
+   ]
+  }
+ ],
+ "slug": "sets",
+ "subject": "Mathematics",
+ "quiz": [
+  {
+   "q": "If $n(A)=22$, $n(B)=12$ and $n(A\\cap B)=5$, find $n(A\\cup B)$.",
+   "options": [
+    "28",
+    "34",
+    "30",
+    "29"
+   ],
+   "answer": 3,
+   "solution": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 22+12-5 = 29$."
+  },
+  {
+   "q": "If $n(A)=13$, $n(B)=16$ and $n(A\\cap B)=3$, find $n(A\\cup B)$.",
+   "options": [
+    "27",
+    "25",
+    "26",
+    "29"
+   ],
+   "answer": 2,
+   "solution": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 13+16-3 = 26$."
+  },
+  {
+   "q": "If $n(A)=23$, $n(B)=17$ and $n(A\\cap B)=6$, find $n(A\\cup B)$.",
+   "options": [
+    "35",
+    "33",
+    "34",
+    "40"
+   ],
+   "answer": 2,
+   "solution": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 23+17-6 = 34$."
+  },
+  {
+   "q": "If $n(A)=23$, $n(B)=16$ and $n(A\\cap B)=11$, find $n(A\\cup B)$.",
+   "options": [
+    "39",
+    "27",
+    "28",
+    "29"
+   ],
+   "answer": 2,
+   "solution": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 23+16-11 = 28$."
+  },
+  {
+   "q": "If $n(A)=10$, $n(B)=20$ and $n(A\\cap B)=5$, find $n(A\\cup B)$.",
+   "options": [
+    "30",
+    "25",
+    "24",
+    "26"
+   ],
+   "answer": 1,
+   "solution": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 10+20-5 = 25$."
+  },
+  {
+   "q": "If $n(A)=11$, $n(B)=23$ and $n(A\\cap B)=8$, find $n(A\\cup B)$.",
+   "options": [
+    "27",
+    "26",
+    "34",
+    "25"
+   ],
+   "answer": 1,
+   "solution": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 11+23-8 = 26$."
+  },
+  {
+   "q": "If $n(A)=15$, $n(B)=23$ and $n(A\\cap B)=10$, find $n(A\\cup B)$.",
+   "options": [
+    "29",
+    "28",
+    "27",
+    "38"
+   ],
+   "answer": 1,
+   "solution": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 15+23-10 = 28$."
+  },
+  {
+   "q": "If $n(A)=22$, $n(B)=30$ and $n(A\\cap B)=17$, find $n(A\\cup B)$.",
+   "options": [
+    "52",
+    "36",
+    "35",
+    "34"
+   ],
+   "answer": 2,
+   "solution": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 22+30-17 = 35$."
+  },
+  {
+   "q": "If $n(A)=11$, $n(B)=27$ and $n(A\\cap B)=10$, find $n(A\\cup B)$.",
+   "options": [
+    "29",
+    "38",
+    "27",
+    "28"
+   ],
+   "answer": 3,
+   "solution": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 11+27-10 = 28$."
+  },
+  {
+   "q": "If $n(A)=29$, $n(B)=30$ and $n(A\\cap B)=26$, find $n(A\\cup B)$.",
+   "options": [
+    "33",
+    "34",
+    "59",
+    "32"
+   ],
+   "answer": 0,
+   "solution": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 29+30-26 = 33$."
+  },
+  {
+   "q": "If $n(A)=16$, $n(B)=16$ and $n(A\\cap B)=8$, find $n(A\\cup B)$.",
+   "options": [
+    "23",
+    "25",
+    "32",
+    "24"
+   ],
+   "answer": 3,
+   "solution": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 16+16-8 = 24$."
+  },
+  {
+   "q": "If $n(A)=15$, $n(B)=14$ and $n(A\\cap B)=8$, find $n(A\\cup B)$.",
+   "options": [
+    "20",
+    "21",
+    "29",
+    "22"
+   ],
+   "answer": 1,
+   "solution": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 15+14-8 = 21$."
+  },
+  {
+   "q": "If $n(A)=20$, $n(B)=12$ and $n(A\\cap B)=9$, find $n(A\\cup B)$.",
+   "options": [
+    "23",
+    "24",
+    "32",
+    "22"
+   ],
+   "answer": 0,
+   "solution": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 20+12-9 = 23$."
+  },
+  {
+   "q": "If $n(A)=19$, $n(B)=19$ and $n(A\\cap B)=6$, find $n(A\\cup B)$.",
+   "options": [
+    "31",
+    "33",
+    "38",
+    "32"
+   ],
+   "answer": 3,
+   "solution": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 19+19-6 = 32$."
+  },
+  {
+   "q": "If $n(A)=16$, $n(B)=15$ and $n(A\\cap B)=12$, find $n(A\\cup B)$.",
+   "options": [
+    "31",
+    "18",
+    "19",
+    "20"
+   ],
+   "answer": 2,
+   "solution": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 16+15-12 = 19$."
+  },
+  {
+   "q": "In a class of 43 students, 16 study Maths and 28 study English. If 7 study both, how many study neither?",
+   "options": [
+    "7",
+    "5",
+    "6",
+    "37"
+   ],
+   "answer": 2,
+   "solution": "Study at least one $= 16+28-7 = 37$. Neither $= 43-37 = 6$."
+  },
+  {
+   "q": "In a class of 42 students, 29 study Maths and 15 study English. If 11 study both, how many study neither?",
+   "options": [
+    "9",
+    "8",
+    "10",
+    "33"
+   ],
+   "answer": 0,
+   "solution": "Study at least one $= 29+15-11 = 33$. Neither $= 42-33 = 9$."
+  },
+  {
+   "q": "In a class of 30 students, 23 study Maths and 11 study English. If 10 study both, how many study neither?",
+   "options": [
+    "6",
+    "24",
+    "7",
+    "5"
+   ],
+   "answer": 0,
+   "solution": "Study at least one $= 23+11-10 = 24$. Neither $= 30-24 = 6$."
+  },
+  {
+   "q": "In a class of 42 students, 31 study Maths and 27 study English. If 23 study both, how many study neither?",
+   "options": [
+    "35",
+    "6",
+    "7",
+    "8"
+   ],
+   "answer": 2,
+   "solution": "Study at least one $= 31+27-23 = 35$. Neither $= 42-35 = 7$."
+  },
+  {
+   "q": "In a class of 43 students, 26 study Maths and 16 study English. If 13 study both, how many study neither?",
+   "options": [
+    "29",
+    "13",
+    "15",
+    "14"
+   ],
+   "answer": 3,
+   "solution": "Study at least one $= 26+16-13 = 29$. Neither $= 43-29 = 14$."
+  },
+  {
+   "q": "In a class of 37 students, 26 study Maths and 14 study English. If 5 study both, how many study neither?",
+   "options": [
+    "1",
+    "3",
+    "35",
+    "2"
+   ],
+   "answer": 3,
+   "solution": "Study at least one $= 26+14-5 = 35$. Neither $= 37-35 = 2$."
+  },
+  {
+   "q": "In a class of 60 students, 19 study Maths and 41 study English. If 18 study both, how many study neither?",
+   "options": [
+    "17",
+    "42",
+    "19",
+    "18"
+   ],
+   "answer": 3,
+   "solution": "Study at least one $= 19+41-18 = 42$. Neither $= 60-42 = 18$."
+  },
+  {
+   "q": "In a class of 58 students, 28 study Maths and 15 study English. If 2 study both, how many study neither?",
+   "options": [
+    "41",
+    "18",
+    "16",
+    "17"
+   ],
+   "answer": 3,
+   "solution": "Study at least one $= 28+15-2 = 41$. Neither $= 58-41 = 17$."
+  },
+  {
+   "q": "In a class of 30 students, 21 study Maths and 17 study English. If 13 study both, how many study neither?",
+   "options": [
+    "4",
+    "5",
+    "25",
+    "6"
+   ],
+   "answer": 1,
+   "solution": "Study at least one $= 21+17-13 = 25$. Neither $= 30-25 = 5$."
+  },
+  {
+   "q": "In a class of 31 students, 21 study Maths and 16 study English. If 15 study both, how many study neither?",
+   "options": [
+    "22",
+    "9",
+    "10",
+    "8"
+   ],
+   "answer": 1,
+   "solution": "Study at least one $= 21+16-15 = 22$. Neither $= 31-22 = 9$."
+  },
+  {
+   "q": "In a class of 33 students, 25 study Maths and 12 study English. If 11 study both, how many study neither?",
+   "options": [
+    "7",
+    "26",
+    "8",
+    "6"
+   ],
+   "answer": 0,
+   "solution": "Study at least one $= 25+12-11 = 26$. Neither $= 33-26 = 7$."
+  },
+  {
+   "q": "In a class of 38 students, 31 study Maths and 17 study English. If 12 study both, how many study neither?",
+   "options": [
+    "2",
+    "1",
+    "3",
+    "36"
+   ],
+   "answer": 0,
+   "solution": "Study at least one $= 31+17-12 = 36$. Neither $= 38-36 = 2$."
+  },
+  {
+   "q": "In a class of 37 students, 24 study Maths and 22 study English. If 18 study both, how many study neither?",
+   "options": [
+    "10",
+    "8",
+    "9",
+    "28"
+   ],
+   "answer": 2,
+   "solution": "Study at least one $= 24+22-18 = 28$. Neither $= 37-28 = 9$."
+  },
+  {
+   "q": "In a class of 43 students, 34 study Maths and 13 study English. If 12 study both, how many study neither?",
+   "options": [
+    "9",
+    "7",
+    "8",
+    "35"
+   ],
+   "answer": 2,
+   "solution": "Study at least one $= 34+13-12 = 35$. Neither $= 43-35 = 8$."
+  },
+  {
+   "q": "In a class of 59 students, 15 study Maths and 21 study English. If 12 study both, how many study neither?",
+   "options": [
+    "34",
+    "24",
+    "36",
+    "35"
+   ],
+   "answer": 3,
+   "solution": "Study at least one $= 15+21-12 = 24$. Neither $= 59-24 = 35$."
+  },
+  {
+   "q": "How many subsets does a set of $4$ elements have?",
+   "options": [
+    "16",
+    "15",
+    "17",
+    "8"
+   ],
+   "answer": 0,
+   "solution": "A set with $n$ elements has $2^n$ subsets. Here $2^{4} = 16$."
+  },
+  {
+   "q": "How many subsets does a set of $4$ elements have?",
+   "options": [
+    "16",
+    "17",
+    "8",
+    "15"
+   ],
+   "answer": 0,
+   "solution": "A set with $n$ elements has $2^n$ subsets. Here $2^{4} = 16$."
+  },
+  {
+   "q": "How many subsets does a set of $3$ elements have?",
+   "options": [
+    "8",
+    "7",
+    "9",
+    "6"
+   ],
+   "answer": 0,
+   "solution": "A set with $n$ elements has $2^n$ subsets. Here $2^{3} = 8$."
+  },
+  {
+   "q": "How many subsets does a set of $2$ elements have?",
+   "options": [
+    "3",
+    "4",
+    "5",
+    "4"
+   ],
+   "answer": 1,
+   "solution": "A set with $n$ elements has $2^n$ subsets. Here $2^{2} = 4$."
+  },
+  {
+   "q": "How many subsets does a set of $2$ elements have?",
+   "options": [
+    "4",
+    "4",
+    "5",
+    "3"
+   ],
+   "answer": 0,
+   "solution": "A set with $n$ elements has $2^n$ subsets. Here $2^{2} = 4$."
+  },
+  {
+   "q": "How many subsets does a set of $4$ elements have?",
+   "options": [
+    "17",
+    "16",
+    "8",
+    "15"
+   ],
+   "answer": 1,
+   "solution": "A set with $n$ elements has $2^n$ subsets. Here $2^{4} = 16$."
+  },
+  {
+   "q": "How many subsets does a set of $2$ elements have?",
+   "options": [
+    "4",
+    "4",
+    "3",
+    "5"
+   ],
+   "answer": 0,
+   "solution": "A set with $n$ elements has $2^n$ subsets. Here $2^{2} = 4$."
+  },
+  {
+   "q": "How many subsets does a set of $3$ elements have?",
+   "options": [
+    "9",
+    "6",
+    "8",
+    "7"
+   ],
+   "answer": 2,
+   "solution": "A set with $n$ elements has $2^n$ subsets. Here $2^{3} = 8$."
+  },
+  {
+   "q": "How many subsets does a set of $4$ elements have?",
+   "options": [
+    "17",
+    "8",
+    "16",
+    "15"
+   ],
+   "answer": 2,
+   "solution": "A set with $n$ elements has $2^n$ subsets. Here $2^{4} = 16$."
+  },
+  {
+   "q": "How many subsets does a set of $5$ elements have?",
+   "options": [
+    "32",
+    "31",
+    "10",
+    "33"
+   ],
+   "answer": 0,
+   "solution": "A set with $n$ elements has $2^n$ subsets. Here $2^{5} = 32$."
+  },
+  {
+   "q": "If $A = \\{a,b\\}$ and $B = \\{b,c\\}$, find $A \\cup B$.",
+   "options": [
+    "\\{a, b, b, c\\}",
+    "\\{b\\}",
+    "\\{a, c\\}",
+    "\\{a, b, c\\}"
+   ],
+   "answer": 3,
+   "solution": "Union = all distinct elements from either set."
+  },
+  {
+   "q": "If $A \\subseteq B$ and $B \\subseteq A$, then...",
+   "options": [
+    "A = B",
+    "A \\subset B",
+    "A \\ne B",
+    "A \\cap B = \\emptyset"
+   ],
+   "answer": 0,
+   "solution": "Mutual inclusion means the two sets are equal."
+  },
+  {
+   "q": "If $A = \\{1,2,3\\}$ and $B = \\{2,3,4\\}$, find $A \\cap B$.",
+   "options": [
+    "\\{2, 3\\}",
+    "\\{1,2,3,4\\}",
+    "\\emptyset",
+    "\\{1, 4\\}"
+   ],
+   "answer": 0,
+   "solution": "Intersection = elements common to both."
+  },
+  {
+   "q": "If $A = \\{1,2,3\\}$ and $B = \\{2,3,4\\}$, find $A \\cap B$.",
+   "options": [
+    "\\emptyset",
+    "\\{1, 4\\}",
+    "\\{2, 3\\}",
+    "\\{1,2,3,4\\}"
+   ],
+   "answer": 2,
+   "solution": "Intersection = elements common to both."
+  },
+  {
+   "q": "If $A = \\{a,b\\}$ and $B = \\{b,c\\}$, find $A \\cup B$.",
+   "options": [
+    "\\{a, b, c\\}",
+    "\\{b\\}",
+    "\\{a, c\\}",
+    "\\{a, b, b, c\\}"
+   ],
+   "answer": 0,
+   "solution": "Union = all distinct elements from either set."
+  },
+  {
+   "q": "If $A = \\{a,b\\}$ and $B = \\{b,c\\}$, find $A \\cup B$.",
+   "options": [
+    "\\{b\\}",
+    "\\{a, b, b, c\\}",
+    "\\{a, b, c\\}",
+    "\\{a, c\\}"
+   ],
+   "answer": 2,
+   "solution": "Union = all distinct elements from either set."
+  },
+  {
+   "q": "The set of all elements in $U$ not in $A$ is called...",
+   "options": [
+    "A \\cap U",
+    "A \\cup U",
+    "A",
+    "A'"
+   ],
+   "answer": 3,
+   "solution": "$A'$ (or $A^c$) is the complement of $A$."
+  },
+  {
+   "q": "Which symbol denotes the empty set?",
+   "options": [
+    "U",
+    "\\{\\emptyset\\}",
+    "\\{0\\}",
+    "\\emptyset"
+   ],
+   "answer": 3,
+   "solution": "The empty set contains no elements; it is denoted $\\emptyset$ or $\\{\\}$."
+  },
+  {
+   "q": "If $A = \\{a,b\\}$ and $B = \\{b,c\\}$, find $A \\cup B$.",
+   "options": [
+    "\\{a, c\\}",
+    "\\{a, b, c\\}",
+    "\\{a, b, b, c\\}",
+    "\\{b\\}"
+   ],
+   "answer": 1,
+   "solution": "Union = all distinct elements from either set."
+  },
+  {
+   "q": "Which symbol denotes the empty set?",
+   "options": [
+    "\\{\\emptyset\\}",
+    "\\{0\\}",
+    "U",
+    "\\emptyset"
+   ],
+   "answer": 3,
+   "solution": "The empty set contains no elements; it is denoted $\\emptyset$ or $\\{\\}$."
+  }
+ ]
+}

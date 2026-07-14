@@ -1,0 +1,608 @@
+{
+ "topic": "Algebraic Processes (Part II)",
+ "ss_level": "SSS 2",
+ "icon": "fa-square-root-variable",
+ "color": "#8b5cf6",
+ "outline": [
+  "Simultaneous linear equations",
+  "Simultaneous linear & quadratic",
+  "Quadratic equations by completing the square & formula",
+  "Linear inequalities in 1 and 2 variables"
+ ],
+ "modules": [
+  {
+   "title": "Module 1 · Simultaneous Linear Equations",
+   "html": "<p><b>Elimination:</b> add/subtract multiples of the equations to remove one variable. <b>Substitution:</b> solve one equation for a variable and substitute. <b>Graphical:</b> intersect the two lines.</p>",
+   "examples": [
+    {
+     "q": "Solve $x + y = 7$, $x - y = 3$.",
+     "a": "Add: $2x = 10 \\Rightarrow x = 5$. Then $y = 7 - 5 = 2$."
+    }
+   ]
+  },
+  {
+   "title": "Module 2 · Linear & Quadratic Simultaneously",
+   "html": "<p>Make one variable the subject in the linear equation, substitute into the quadratic, solve the resulting quadratic.</p>",
+   "examples": [
+    {
+     "q": "Solve $y = x+1$ and $y = x^2 - 1$.",
+     "a": "$x^2 - 1 = x + 1 \\Rightarrow x^2 - x - 2 = 0 \\Rightarrow (x-2)(x+1)=0$. So $x=2, y=3$ or $x=-1, y=0$."
+    }
+   ]
+  },
+  {
+   "title": "Module 3 · Completing the Square & the Formula",
+   "html": "<p>For $ax^2 + bx + c = 0$ with $a\\ne 0$, the roots are given by:</p>$$x = \\dfrac{-b \\pm \\sqrt{b^2-4ac}}{2a}$$<p>Equivalently, by completing the square:</p>$$a\\left(x+\\dfrac{b}{2a}\\right)^2 = \\dfrac{b^2-4ac}{4a}$$",
+   "examples": [
+    {
+     "q": "Solve $x^2 + 4x - 5 = 0$ by the formula.",
+     "a": "$a=1, b=4, c=-5$. $x = \\dfrac{-4\\pm\\sqrt{16+20}}{2} = \\dfrac{-4\\pm 6}{2}$. So $x=1$ or $x=-5$."
+    }
+   ]
+  },
+  {
+   "title": "Module 4 · Linear Inequalities",
+   "html": "<p>Treat like equations, but <b>reverse the inequality</b> when multiplying/dividing by a negative. For two variables, sketch the boundary line (dashed if strict, solid if inclusive), then shade the region satisfying the inequality.</p>",
+   "examples": [
+    {
+     "q": "Solve $-3x + 5 < 14$.",
+     "a": "$-3x < 9 \\Rightarrow x > -3$ (sign flipped)."
+    }
+   ]
+  }
+ ],
+ "slug": "algebraic-processes-2",
+ "subject": "Mathematics",
+ "quiz": [
+  {
+   "q": "Solve simultaneously: $1x+3y=14$ and $5x+2y=44$.",
+   "options": [
+    "x=9,\\ y=2",
+    "x=2,\\ y=8",
+    "x=8,\\ y=2",
+    "x=8,\\ y=3"
+   ],
+   "answer": 2,
+   "solution": "Using elimination or substitution gives $x=8$, $y=2$."
+  },
+  {
+   "q": "Solve simultaneously: $1x+1y=11$ and $2x+1y=14$.",
+   "options": [
+    "x=3,\\ y=8",
+    "x=3,\\ y=9",
+    "x=4,\\ y=8",
+    "x=8,\\ y=3"
+   ],
+   "answer": 0,
+   "solution": "Using elimination or substitution gives $x=3$, $y=8$."
+  },
+  {
+   "q": "Solve simultaneously: $4x+1y=44$ and $1x+5y=49$.",
+   "options": [
+    "x=8,\\ y=9",
+    "x=9,\\ y=8",
+    "x=9,\\ y=9",
+    "x=10,\\ y=8"
+   ],
+   "answer": 1,
+   "solution": "Using elimination or substitution gives $x=9$, $y=8$."
+  },
+  {
+   "q": "Solve simultaneously: $4x+1y=26$ and $5x+3y=36$.",
+   "options": [
+    "x=6,\\ y=2",
+    "x=2,\\ y=6",
+    "x=7,\\ y=2",
+    "x=6,\\ y=3"
+   ],
+   "answer": 0,
+   "solution": "Using elimination or substitution gives $x=6$, $y=2$."
+  },
+  {
+   "q": "Solve simultaneously: $5x+4y=9$ and $4x+1y=5$.",
+   "options": [
+    "x=1,\\ y=2",
+    "x=2,\\ y=1",
+    "x=1,\\ y=1",
+    "x=1,\\ y=1"
+   ],
+   "answer": 2,
+   "solution": "Using elimination or substitution gives $x=1$, $y=1$."
+  },
+  {
+   "q": "Solve simultaneously: $4x+2y=48$ and $3x+1y=33$.",
+   "options": [
+    "x=9,\\ y=7",
+    "x=9,\\ y=6",
+    "x=6,\\ y=9",
+    "x=10,\\ y=6"
+   ],
+   "answer": 1,
+   "solution": "Using elimination or substitution gives $x=9$, $y=6$."
+  },
+  {
+   "q": "Solve simultaneously: $1x+2y=28$ and $4x+1y=42$.",
+   "options": [
+    "x=8,\\ y=10",
+    "x=8,\\ y=11",
+    "x=10,\\ y=8",
+    "x=9,\\ y=10"
+   ],
+   "answer": 0,
+   "solution": "Using elimination or substitution gives $x=8$, $y=10$."
+  },
+  {
+   "q": "Solve simultaneously: $4x+3y=46$ and $1x+5y=20$.",
+   "options": [
+    "x=2,\\ y=10",
+    "x=10,\\ y=2",
+    "x=10,\\ y=3",
+    "x=11,\\ y=2"
+   ],
+   "answer": 1,
+   "solution": "Using elimination or substitution gives $x=10$, $y=2$."
+  },
+  {
+   "q": "Solve simultaneously: $3x+3y=18$ and $2x+1y=9$.",
+   "options": [
+    "x=3,\\ y=3",
+    "x=4,\\ y=3",
+    "x=3,\\ y=3",
+    "x=3,\\ y=4"
+   ],
+   "answer": 0,
+   "solution": "Using elimination or substitution gives $x=3$, $y=3$."
+  },
+  {
+   "q": "Solve simultaneously: $1x+1y=8$ and $2x+5y=28$.",
+   "options": [
+    "x=4,\\ y=4",
+    "x=5,\\ y=4",
+    "x=4,\\ y=4",
+    "x=4,\\ y=5"
+   ],
+   "answer": 0,
+   "solution": "Using elimination or substitution gives $x=4$, $y=4$."
+  },
+  {
+   "q": "Solve simultaneously: $1x+1y=12$ and $5x+2y=39$.",
+   "options": [
+    "x=5,\\ y=7",
+    "x=5,\\ y=8",
+    "x=7,\\ y=5",
+    "x=6,\\ y=7"
+   ],
+   "answer": 0,
+   "solution": "Using elimination or substitution gives $x=5$, $y=7$."
+  },
+  {
+   "q": "Solve simultaneously: $2x+5y=38$ and $1x+3y=21$.",
+   "options": [
+    "x=10,\\ y=4",
+    "x=9,\\ y=5",
+    "x=4,\\ y=9",
+    "x=9,\\ y=4"
+   ],
+   "answer": 3,
+   "solution": "Using elimination or substitution gives $x=9$, $y=4$."
+  },
+  {
+   "q": "Solve simultaneously: $2x+4y=48$ and $1x+4y=38$.",
+   "options": [
+    "x=10,\\ y=7",
+    "x=11,\\ y=7",
+    "x=7,\\ y=10",
+    "x=10,\\ y=8"
+   ],
+   "answer": 0,
+   "solution": "Using elimination or substitution gives $x=10$, $y=7$."
+  },
+  {
+   "q": "Solve simultaneously: $5x+4y=69$ and $2x+1y=24$.",
+   "options": [
+    "x=9,\\ y=7",
+    "x=6,\\ y=9",
+    "x=10,\\ y=6",
+    "x=9,\\ y=6"
+   ],
+   "answer": 3,
+   "solution": "Using elimination or substitution gives $x=9$, $y=6$."
+  },
+  {
+   "q": "Solve simultaneously: $4x+1y=5$ and $3x+3y=6$.",
+   "options": [
+    "x=2,\\ y=1",
+    "x=1,\\ y=2",
+    "x=1,\\ y=1",
+    "x=1,\\ y=1"
+   ],
+   "answer": 2,
+   "solution": "Using elimination or substitution gives $x=1$, $y=1$."
+  },
+  {
+   "q": "Solve simultaneously: $1x+3y=28$ and $5x+3y=44$.",
+   "options": [
+    "x=4,\\ y=8",
+    "x=8,\\ y=4",
+    "x=5,\\ y=8",
+    "x=4,\\ y=9"
+   ],
+   "answer": 0,
+   "solution": "Using elimination or substitution gives $x=4$, $y=8$."
+  },
+  {
+   "q": "Solve simultaneously: $5x+1y=16$ and $4x+4y=16$.",
+   "options": [
+    "x=1,\\ y=3",
+    "x=3,\\ y=1",
+    "x=4,\\ y=1",
+    "x=3,\\ y=2"
+   ],
+   "answer": 1,
+   "solution": "Using elimination or substitution gives $x=3$, $y=1$."
+  },
+  {
+   "q": "Solve simultaneously: $2x+5y=60$ and $5x+2y=66$.",
+   "options": [
+    "x=8,\\ y=10",
+    "x=11,\\ y=8",
+    "x=10,\\ y=8",
+    "x=10,\\ y=9"
+   ],
+   "answer": 2,
+   "solution": "Using elimination or substitution gives $x=10$, $y=8$."
+  },
+  {
+   "q": "Solve simultaneously: $3x+2y=10$ and $3x+5y=16$.",
+   "options": [
+    "x=2,\\ y=2",
+    "x=3,\\ y=2",
+    "x=2,\\ y=2",
+    "x=2,\\ y=3"
+   ],
+   "answer": 0,
+   "solution": "Using elimination or substitution gives $x=2$, $y=2$."
+  },
+  {
+   "q": "Solve simultaneously: $5x+2y=26$ and $5x+4y=32$.",
+   "options": [
+    "x=4,\\ y=4",
+    "x=3,\\ y=4",
+    "x=5,\\ y=3",
+    "x=4,\\ y=3"
+   ],
+   "answer": 3,
+   "solution": "Using elimination or substitution gives $x=4$, $y=3$."
+  },
+  {
+   "q": "Solve $x^2 -17x +72 = 0$.",
+   "options": [
+    "x=9\\ \\text{or}\\ x=9",
+    "x=8\\ \\text{or}\\ x=9",
+    "x=8\\ \\text{only}",
+    "x=-8\\ \\text{or}\\ x=-9"
+   ],
+   "answer": 1,
+   "solution": "Factorise: $(x-8)(x-9) = 0$, so $x=8$ or $x=9$."
+  },
+  {
+   "q": "Solve $x^2 -13x +42 = 0$.",
+   "options": [
+    "x=-7\\ \\text{or}\\ x=-6",
+    "x=7\\ \\text{only}",
+    "x=8\\ \\text{or}\\ x=6",
+    "x=7\\ \\text{or}\\ x=6"
+   ],
+   "answer": 3,
+   "solution": "Factorise: $(x-7)(x-6) = 0$, so $x=7$ or $x=6$."
+  },
+  {
+   "q": "Solve $x^2 -16x +63 = 0$.",
+   "options": [
+    "x=8\\ \\text{or}\\ x=9",
+    "x=-7\\ \\text{or}\\ x=-9",
+    "x=7\\ \\text{only}",
+    "x=7\\ \\text{or}\\ x=9"
+   ],
+   "answer": 3,
+   "solution": "Factorise: $(x-7)(x-9) = 0$, so $x=7$ or $x=9$."
+  },
+  {
+   "q": "Solve $x^2 -16x +63 = 0$.",
+   "options": [
+    "x=9\\ \\text{or}\\ x=7",
+    "x=-9\\ \\text{or}\\ x=-7",
+    "x=10\\ \\text{or}\\ x=7",
+    "x=9\\ \\text{only}"
+   ],
+   "answer": 0,
+   "solution": "Factorise: $(x-9)(x-7) = 0$, so $x=9$ or $x=7$."
+  },
+  {
+   "q": "Solve $x^2 -11x +18 = 0$.",
+   "options": [
+    "x=2\\ \\text{or}\\ x=9",
+    "x=3\\ \\text{or}\\ x=9",
+    "x=-2\\ \\text{or}\\ x=-9",
+    "x=2\\ \\text{only}"
+   ],
+   "answer": 0,
+   "solution": "Factorise: $(x-2)(x-9) = 0$, so $x=2$ or $x=9$."
+  },
+  {
+   "q": "Solve $x^2 -9x +8 = 0$.",
+   "options": [
+    "x=8\\ \\text{only}",
+    "x=-8\\ \\text{or}\\ x=-1",
+    "x=8\\ \\text{or}\\ x=1",
+    "x=9\\ \\text{or}\\ x=1"
+   ],
+   "answer": 2,
+   "solution": "Factorise: $(x-8)(x-1) = 0$, so $x=8$ or $x=1$."
+  },
+  {
+   "q": "Solve $x^2 -13x +40 = 0$.",
+   "options": [
+    "x=8\\ \\text{only}",
+    "x=9\\ \\text{or}\\ x=5",
+    "x=-8\\ \\text{or}\\ x=-5",
+    "x=8\\ \\text{or}\\ x=5"
+   ],
+   "answer": 3,
+   "solution": "Factorise: $(x-8)(x-5) = 0$, so $x=8$ or $x=5$."
+  },
+  {
+   "q": "Solve $x^2 -7x +10 = 0$.",
+   "options": [
+    "x=5\\ \\text{only}",
+    "x=-5\\ \\text{or}\\ x=-2",
+    "x=6\\ \\text{or}\\ x=2",
+    "x=5\\ \\text{or}\\ x=2"
+   ],
+   "answer": 3,
+   "solution": "Factorise: $(x-5)(x-2) = 0$, so $x=5$ or $x=2$."
+  },
+  {
+   "q": "Solve $x^2 -8x +15 = 0$.",
+   "options": [
+    "x=4\\ \\text{or}\\ x=5",
+    "x=3\\ \\text{or}\\ x=5",
+    "x=-3\\ \\text{or}\\ x=-5",
+    "x=3\\ \\text{only}"
+   ],
+   "answer": 1,
+   "solution": "Factorise: $(x-3)(x-5) = 0$, so $x=3$ or $x=5$."
+  },
+  {
+   "q": "Solve $x^2 -12x +32 = 0$.",
+   "options": [
+    "x=5\\ \\text{or}\\ x=8",
+    "x=4\\ \\text{only}",
+    "x=-4\\ \\text{or}\\ x=-8",
+    "x=4\\ \\text{or}\\ x=8"
+   ],
+   "answer": 3,
+   "solution": "Factorise: $(x-4)(x-8) = 0$, so $x=4$ or $x=8$."
+  },
+  {
+   "q": "Solve $x^2 -5x +6 = 0$.",
+   "options": [
+    "x=2\\ \\text{or}\\ x=3",
+    "x=-2\\ \\text{or}\\ x=-3",
+    "x=2\\ \\text{only}",
+    "x=3\\ \\text{or}\\ x=3"
+   ],
+   "answer": 0,
+   "solution": "Factorise: $(x-2)(x-3) = 0$, so $x=2$ or $x=3$."
+  },
+  {
+   "q": "Solve $x^2 -9x +18 = 0$.",
+   "options": [
+    "x=7\\ \\text{or}\\ x=3",
+    "x=6\\ \\text{or}\\ x=3",
+    "x=6\\ \\text{only}",
+    "x=-6\\ \\text{or}\\ x=-3"
+   ],
+   "answer": 1,
+   "solution": "Factorise: $(x-6)(x-3) = 0$, so $x=6$ or $x=3$."
+  },
+  {
+   "q": "Solve $x^2 -11x +24 = 0$.",
+   "options": [
+    "x=-8\\ \\text{or}\\ x=-3",
+    "x=8\\ \\text{only}",
+    "x=9\\ \\text{or}\\ x=3",
+    "x=8\\ \\text{or}\\ x=3"
+   ],
+   "answer": 3,
+   "solution": "Factorise: $(x-8)(x-3) = 0$, so $x=8$ or $x=3$."
+  },
+  {
+   "q": "Solve $x^2 -14x +48 = 0$.",
+   "options": [
+    "x=8\\ \\text{or}\\ x=6",
+    "x=8\\ \\text{only}",
+    "x=9\\ \\text{or}\\ x=6",
+    "x=-8\\ \\text{or}\\ x=-6"
+   ],
+   "answer": 0,
+   "solution": "Factorise: $(x-8)(x-6) = 0$, so $x=8$ or $x=6$."
+  },
+  {
+   "q": "Solve $x^2 -11x +28 = 0$.",
+   "options": [
+    "x=-4\\ \\text{or}\\ x=-7",
+    "x=4\\ \\text{only}",
+    "x=4\\ \\text{or}\\ x=7",
+    "x=5\\ \\text{or}\\ x=7"
+   ],
+   "answer": 2,
+   "solution": "Factorise: $(x-4)(x-7) = 0$, so $x=4$ or $x=7$."
+  },
+  {
+   "q": "Solve $x^2 -9x +8 = 0$.",
+   "options": [
+    "x=-8\\ \\text{or}\\ x=-1",
+    "x=8\\ \\text{or}\\ x=1",
+    "x=8\\ \\text{only}",
+    "x=9\\ \\text{or}\\ x=1"
+   ],
+   "answer": 1,
+   "solution": "Factorise: $(x-8)(x-1) = 0$, so $x=8$ or $x=1$."
+  },
+  {
+   "q": "Solve $x^2 -10x +16 = 0$.",
+   "options": [
+    "x=9\\ \\text{or}\\ x=2",
+    "x=8\\ \\text{or}\\ x=2",
+    "x=-8\\ \\text{or}\\ x=-2",
+    "x=8\\ \\text{only}"
+   ],
+   "answer": 1,
+   "solution": "Factorise: $(x-8)(x-2) = 0$, so $x=8$ or $x=2$."
+  },
+  {
+   "q": "Solve $x^2 -10x +24 = 0$.",
+   "options": [
+    "x=4\\ \\text{or}\\ x=6",
+    "x=5\\ \\text{or}\\ x=6",
+    "x=-4\\ \\text{or}\\ x=-6",
+    "x=4\\ \\text{only}"
+   ],
+   "answer": 0,
+   "solution": "Factorise: $(x-4)(x-6) = 0$, so $x=4$ or $x=6$."
+  },
+  {
+   "q": "Solve $x^2 -8x +7 = 0$.",
+   "options": [
+    "x=7\\ \\text{or}\\ x=1",
+    "x=7\\ \\text{only}",
+    "x=-7\\ \\text{or}\\ x=-1",
+    "x=8\\ \\text{or}\\ x=1"
+   ],
+   "answer": 0,
+   "solution": "Factorise: $(x-7)(x-1) = 0$, so $x=7$ or $x=1$."
+  },
+  {
+   "q": "Solve $x^2 -12x +35 = 0$.",
+   "options": [
+    "x=-7\\ \\text{or}\\ x=-5",
+    "x=8\\ \\text{or}\\ x=5",
+    "x=7\\ \\text{only}",
+    "x=7\\ \\text{or}\\ x=5"
+   ],
+   "answer": 3,
+   "solution": "Factorise: $(x-7)(x-5) = 0$, so $x=7$ or $x=5$."
+  },
+  {
+   "q": "Solve $4x + 4 < -5$.",
+   "options": [
+    "x < -5/4",
+    "x > -9/4",
+    "x = -9/4",
+    "x < -9/4"
+   ],
+   "answer": 3,
+   "solution": "$4x < -9 \\Rightarrow x < -9/4$."
+  },
+  {
+   "q": "Solve $4x + 4 < 14$.",
+   "options": [
+    "x < 5/2",
+    "x < 7/2",
+    "x > 5/2",
+    "x = 5/2"
+   ],
+   "answer": 0,
+   "solution": "$4x < 10 \\Rightarrow x < 5/2$."
+  },
+  {
+   "q": "Solve $4x + 6 < 1$.",
+   "options": [
+    "x < -5/4",
+    "x = -5/4",
+    "x > -5/4",
+    "x < -1/4"
+   ],
+   "answer": 0,
+   "solution": "$4x < -5 \\Rightarrow x < -5/4$."
+  },
+  {
+   "q": "Solve $2x + 1 < 6$.",
+   "options": [
+    "x > 5/2",
+    "x < 7/2",
+    "x = 5/2",
+    "x < 5/2"
+   ],
+   "answer": 3,
+   "solution": "$2x < 5 \\Rightarrow x < 5/2$."
+  },
+  {
+   "q": "Solve $5x + 5 < 14$.",
+   "options": [
+    "x < 14/5",
+    "x > 9/5",
+    "x = 9/5",
+    "x < 9/5"
+   ],
+   "answer": 3,
+   "solution": "$5x < 9 \\Rightarrow x < 9/5$."
+  },
+  {
+   "q": "Solve $5x + 9 < 4$.",
+   "options": [
+    "x < 0",
+    "x < -1",
+    "x = -1",
+    "x > -1"
+   ],
+   "answer": 1,
+   "solution": "$5x < -5 \\Rightarrow x < -1$."
+  },
+  {
+   "q": "Solve $2x + 3 < 10$.",
+   "options": [
+    "x > 7/2",
+    "x = 7/2",
+    "x < 9/2",
+    "x < 7/2"
+   ],
+   "answer": 3,
+   "solution": "$2x < 7 \\Rightarrow x < 7/2$."
+  },
+  {
+   "q": "Solve $6x + 6 < 14$.",
+   "options": [
+    "x < 4/3",
+    "x < 7/3",
+    "x = 4/3",
+    "x > 4/3"
+   ],
+   "answer": 0,
+   "solution": "$6x < 8 \\Rightarrow x < 4/3$."
+  },
+  {
+   "q": "Solve $5x + 6 < 5$.",
+   "options": [
+    "x < 4/5",
+    "x = -1/5",
+    "x < -1/5",
+    "x > -1/5"
+   ],
+   "answer": 2,
+   "solution": "$5x < -1 \\Rightarrow x < -1/5$."
+  },
+  {
+   "q": "Solve $6x + 8 < 9$.",
+   "options": [
+    "x = 1/6",
+    "x < 7/6",
+    "x > 1/6",
+    "x < 1/6"
+   ],
+   "answer": 3,
+   "solution": "$6x < 1 \\Rightarrow x < 1/6$."
+  }
+ ]
+}

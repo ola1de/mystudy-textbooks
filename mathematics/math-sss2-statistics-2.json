@@ -1,0 +1,597 @@
+{
+ "topic": "Statistics (Part II)",
+ "ss_level": "SSS 2",
+ "icon": "fa-chart-column",
+ "color": "#2563eb",
+ "outline": [
+  "Measures of central tendency",
+  "Measures of dispersion (range, mean deviation, variance, SD)",
+  "Cumulative frequency curve (Ogive); median, quartiles, percentiles"
+ ],
+ "modules": [
+  {
+   "title": "Module 1 · Central Tendency",
+   "html": "<p><b>Mean</b>: $\\bar x = \\dfrac{\\sum fx}{\\sum f}$. <b>Median</b>: middle value when data is arranged in order. <b>Mode</b>: most frequent value.</p>",
+   "examples": [
+    {
+     "q": "Find the mean of 4, 8, 6, 10, 12.",
+     "a": "$\\bar x = (4+8+6+10+12)/5 = 40/5 = 8$."
+    }
+   ]
+  },
+  {
+   "title": "Module 2 · Dispersion",
+   "html": "<p><b>Range</b> = max − min. <b>Mean deviation</b> $=\\dfrac{\\sum|x-\\bar x|}{n}$. <b>Variance</b> $\\sigma^2 = \\dfrac{\\sum(x-\\bar x)^2}{n}$. <b>Standard deviation</b> $\\sigma = \\sqrt{\\sigma^2}$.</p>",
+   "examples": [
+    {
+     "q": "Find the range of 3, 7, 2, 9, 5.",
+     "a": "Range $= 9 - 2 = 7$."
+    }
+   ]
+  },
+  {
+   "title": "Module 3 · Ogive & Quartiles",
+   "html": "<p>An <b>ogive</b> plots cumulative frequency against upper class boundaries. From it we can read:</p><ul><li>Median at cumulative frequency $=\\tfrac{N}{2}$.</li><li>Lower quartile $Q_1$ at $\\tfrac{N}{4}$; upper quartile $Q_3$ at $\\tfrac{3N}{4}$.</li><li>The $p$-th percentile at $\\tfrac{pN}{100}$.</li></ul><p><b>Interquartile range</b> = $Q_3 - Q_1$.</p>",
+   "examples": [
+    {
+     "q": "If $Q_1=42$ and $Q_3=68$, find the interquartile range.",
+     "a": "IQR $= 68-42 = 26$."
+    }
+   ]
+  }
+ ],
+ "slug": "statistics-2",
+ "subject": "Mathematics",
+ "quiz": [
+  {
+   "q": "Find the mean deviation of 6, 9, 4, 4, 12.",
+   "options": [
+    "2.8",
+    "3.8",
+    "2.3",
+    "7"
+   ],
+   "answer": 0,
+   "solution": "Mean $=7$. Deviations $|x-\\bar x|$: 1, 2, 3, 3, 5. Mean deviation $= \\dfrac{14}{5} = 2.8$."
+  },
+  {
+   "q": "Find the mean deviation of 15, 19, 4, 7, 10.",
+   "options": [
+    "4.3",
+    "11",
+    "5.8",
+    "4.8"
+   ],
+   "answer": 3,
+   "solution": "Mean $=11$. Deviations $|x-\\bar x|$: 4, 8, 7, 4, 1. Mean deviation $= \\dfrac{24}{5} = 4.8$."
+  },
+  {
+   "q": "Find the mean deviation of 20, 19, 7, 6, 18.",
+   "options": [
+    "7.0",
+    "6.0",
+    "14",
+    "5.5"
+   ],
+   "answer": 1,
+   "solution": "Mean $=14$. Deviations $|x-\\bar x|$: 6, 5, 7, 8, 4. Mean deviation $= \\dfrac{30}{5} = 6.0$."
+  },
+  {
+   "q": "Find the mean deviation of 7, 17, 14, 12, 5.",
+   "options": [
+    "3.5",
+    "5.0",
+    "4.0",
+    "11"
+   ],
+   "answer": 2,
+   "solution": "Mean $=11$. Deviations $|x-\\bar x|$: 4, 6, 3, 1, 6. Mean deviation $= \\dfrac{20}{5} = 4.0$."
+  },
+  {
+   "q": "Find the mean deviation of 3, 18, 16, 16, 2.",
+   "options": [
+    "11",
+    "6.3",
+    "7.8",
+    "6.8"
+   ],
+   "answer": 3,
+   "solution": "Mean $=11$. Deviations $|x-\\bar x|$: 8, 7, 5, 5, 9. Mean deviation $= \\dfrac{34}{5} = 6.8$."
+  },
+  {
+   "q": "Find the mean deviation of 5, 15, 13, 18, 19.",
+   "options": [
+    "3.5",
+    "14",
+    "5.0",
+    "4.0"
+   ],
+   "answer": 3,
+   "solution": "Mean $=14$. Deviations $|x-\\bar x|$: 9, 1, 1, 4, 5. Mean deviation $= \\dfrac{20}{5} = 4.0$."
+  },
+  {
+   "q": "Find the mean deviation of 9, 6, 8, 3, 14.",
+   "options": [
+    "2.8",
+    "2.3",
+    "3.8",
+    "8"
+   ],
+   "answer": 0,
+   "solution": "Mean $=8$. Deviations $|x-\\bar x|$: 1, 2, 0, 5, 6. Mean deviation $= \\dfrac{14}{5} = 2.8$."
+  },
+  {
+   "q": "Find the mean deviation of 10, 5, 16, 11, 3.",
+   "options": [
+    "3.5",
+    "4.0",
+    "9",
+    "5.0"
+   ],
+   "answer": 1,
+   "solution": "Mean $=9$. Deviations $|x-\\bar x|$: 1, 4, 7, 2, 6. Mean deviation $= \\dfrac{20}{5} = 4.0$."
+  },
+  {
+   "q": "Find the mean deviation of 19, 15, 12, 4, 10.",
+   "options": [
+    "5.0",
+    "12",
+    "3.5",
+    "4.0"
+   ],
+   "answer": 3,
+   "solution": "Mean $=12$. Deviations $|x-\\bar x|$: 7, 3, 0, 8, 2. Mean deviation $= \\dfrac{20}{5} = 4.0$."
+  },
+  {
+   "q": "Find the mean deviation of 11, 15, 17, 4, 3.",
+   "options": [
+    "10",
+    "5.2",
+    "6.2",
+    "4.7"
+   ],
+   "answer": 1,
+   "solution": "Mean $=10$. Deviations $|x-\\bar x|$: 1, 5, 7, 6, 7. Mean deviation $= \\dfrac{26}{5} = 5.2$."
+  },
+  {
+   "q": "Find the mean deviation of 12, 20, 12, 11, 10.",
+   "options": [
+    "13",
+    "3.8",
+    "2.3",
+    "2.8"
+   ],
+   "answer": 3,
+   "solution": "Mean $=13$. Deviations $|x-\\bar x|$: 1, 7, 1, 2, 3. Mean deviation $= \\dfrac{14}{5} = 2.8$."
+  },
+  {
+   "q": "Find the mean deviation of 13, 7, 16, 17, 2.",
+   "options": [
+    "4.7",
+    "11",
+    "6.2",
+    "5.2"
+   ],
+   "answer": 3,
+   "solution": "Mean $=11$. Deviations $|x-\\bar x|$: 2, 4, 5, 6, 9. Mean deviation $= \\dfrac{26}{5} = 5.2$."
+  },
+  {
+   "q": "Find the variance of 4, 6, 2, 9, 3.",
+   "options": [
+    "6.16",
+    "3.08",
+    "2.48",
+    "7.16"
+   ],
+   "answer": 0,
+   "solution": "Mean $=4.8$. $\\sigma^2 = \\dfrac{\\sum(x-\\bar x)^2}{n} \\approx 6.16$."
+  },
+  {
+   "q": "Find the variance of 4, 9, 3, 2, 3.",
+   "options": [
+    "6.16",
+    "2.48",
+    "3.08",
+    "7.16"
+   ],
+   "answer": 0,
+   "solution": "Mean $=4.2$. $\\sigma^2 = \\dfrac{\\sum(x-\\bar x)^2}{n} \\approx 6.16$."
+  },
+  {
+   "q": "Find the variance of 2, 5, 6, 5, 8.",
+   "options": [
+    "3.76",
+    "4.76",
+    "1.94",
+    "1.88"
+   ],
+   "answer": 0,
+   "solution": "Mean $=5.2$. $\\sigma^2 = \\dfrac{\\sum(x-\\bar x)^2}{n} \\approx 3.76$."
+  },
+  {
+   "q": "Find the variance of 2, 3, 8, 10, 8.",
+   "options": [
+    "4.88",
+    "3.12",
+    "9.76",
+    "10.76"
+   ],
+   "answer": 2,
+   "solution": "Mean $=6.2$. $\\sigma^2 = \\dfrac{\\sum(x-\\bar x)^2}{n} \\approx 9.76$."
+  },
+  {
+   "q": "Find the variance of 10, 5, 10, 3, 4.",
+   "options": [
+    "9.04",
+    "3.01",
+    "4.52",
+    "10.04"
+   ],
+   "answer": 0,
+   "solution": "Mean $=6.4$. $\\sigma^2 = \\dfrac{\\sum(x-\\bar x)^2}{n} \\approx 9.04$."
+  },
+  {
+   "q": "Find the variance of 5, 4, 4, 10, 8.",
+   "options": [
+    "5.76",
+    "6.76",
+    "2.4",
+    "2.88"
+   ],
+   "answer": 0,
+   "solution": "Mean $=6.2$. $\\sigma^2 = \\dfrac{\\sum(x-\\bar x)^2}{n} \\approx 5.76$."
+  },
+  {
+   "q": "Find the variance of 8, 9, 2, 8, 10.",
+   "options": [
+    "2.8",
+    "7.84",
+    "3.92",
+    "8.84"
+   ],
+   "answer": 1,
+   "solution": "Mean $=7.4$. $\\sigma^2 = \\dfrac{\\sum(x-\\bar x)^2}{n} \\approx 7.84$."
+  },
+  {
+   "q": "Find the variance of 6, 5, 7, 7, 9.",
+   "options": [
+    "0.88",
+    "2.76",
+    "1.76",
+    "1.33"
+   ],
+   "answer": 2,
+   "solution": "Mean $=6.8$. $\\sigma^2 = \\dfrac{\\sum(x-\\bar x)^2}{n} \\approx 1.76$."
+  },
+  {
+   "q": "Find the variance of 8, 3, 6, 8, 7.",
+   "options": [
+    "1.72",
+    "4.44",
+    "1.85",
+    "3.44"
+   ],
+   "answer": 3,
+   "solution": "Mean $=6.4$. $\\sigma^2 = \\dfrac{\\sum(x-\\bar x)^2}{n} \\approx 3.44$."
+  },
+  {
+   "q": "Find the variance of 7, 8, 10, 10, 2.",
+   "options": [
+    "4.32",
+    "9.64",
+    "8.64",
+    "2.94"
+   ],
+   "answer": 2,
+   "solution": "Mean $=7.4$. $\\sigma^2 = \\dfrac{\\sum(x-\\bar x)^2}{n} \\approx 8.64$."
+  },
+  {
+   "q": "Find the variance of 3, 2, 4, 7, 10.",
+   "options": [
+    "2.93",
+    "8.56",
+    "4.28",
+    "9.56"
+   ],
+   "answer": 1,
+   "solution": "Mean $=5.2$. $\\sigma^2 = \\dfrac{\\sum(x-\\bar x)^2}{n} \\approx 8.56$."
+  },
+  {
+   "q": "Find the variance of 7, 7, 3, 9, 9.",
+   "options": [
+    "5.8",
+    "2.4",
+    "4.8",
+    "2.19"
+   ],
+   "answer": 2,
+   "solution": "Mean $=7.0$. $\\sigma^2 = \\dfrac{\\sum(x-\\bar x)^2}{n} \\approx 4.8$."
+  },
+  {
+   "q": "If $Q_1 = 32$ and $Q_3 = 44$, find the interquartile range.",
+   "options": [
+    "76",
+    "13",
+    "38",
+    "12"
+   ],
+   "answer": 3,
+   "solution": "IQR $= Q_3 - Q_1 = 44 - 32 = 12$."
+  },
+  {
+   "q": "If $Q_1 = 38$ and $Q_3 = 59$, find the interquartile range.",
+   "options": [
+    "22",
+    "21",
+    "48",
+    "97"
+   ],
+   "answer": 1,
+   "solution": "IQR $= Q_3 - Q_1 = 59 - 38 = 21$."
+  },
+  {
+   "q": "If $Q_1 = 49$ and $Q_3 = 73$, find the interquartile range.",
+   "options": [
+    "61",
+    "122",
+    "25",
+    "24"
+   ],
+   "answer": 3,
+   "solution": "IQR $= Q_3 - Q_1 = 73 - 49 = 24$."
+  },
+  {
+   "q": "If $Q_1 = 36$ and $Q_3 = 59$, find the interquartile range.",
+   "options": [
+    "23",
+    "95",
+    "24",
+    "47"
+   ],
+   "answer": 0,
+   "solution": "IQR $= Q_3 - Q_1 = 59 - 36 = 23$."
+  },
+  {
+   "q": "If $Q_1 = 28$ and $Q_3 = 42$, find the interquartile range.",
+   "options": [
+    "15",
+    "70",
+    "35",
+    "14"
+   ],
+   "answer": 3,
+   "solution": "IQR $= Q_3 - Q_1 = 42 - 28 = 14$."
+  },
+  {
+   "q": "If $Q_1 = 36$ and $Q_3 = 55$, find the interquartile range.",
+   "options": [
+    "19",
+    "20",
+    "91",
+    "45"
+   ],
+   "answer": 0,
+   "solution": "IQR $= Q_3 - Q_1 = 55 - 36 = 19$."
+  },
+  {
+   "q": "If $Q_1 = 44$ and $Q_3 = 68$, find the interquartile range.",
+   "options": [
+    "24",
+    "25",
+    "112",
+    "56"
+   ],
+   "answer": 0,
+   "solution": "IQR $= Q_3 - Q_1 = 68 - 44 = 24$."
+  },
+  {
+   "q": "If $Q_1 = 45$ and $Q_3 = 58$, find the interquartile range.",
+   "options": [
+    "14",
+    "51",
+    "103",
+    "13"
+   ],
+   "answer": 3,
+   "solution": "IQR $= Q_3 - Q_1 = 58 - 45 = 13$."
+  },
+  {
+   "q": "If $Q_1 = 43$ and $Q_3 = 63$, find the interquartile range.",
+   "options": [
+    "21",
+    "53",
+    "106",
+    "20"
+   ],
+   "answer": 3,
+   "solution": "IQR $= Q_3 - Q_1 = 63 - 43 = 20$."
+  },
+  {
+   "q": "If $Q_1 = 40$ and $Q_3 = 60$, find the interquartile range.",
+   "options": [
+    "20",
+    "100",
+    "50",
+    "21"
+   ],
+   "answer": 0,
+   "solution": "IQR $= Q_3 - Q_1 = 60 - 40 = 20$."
+  },
+  {
+   "q": "If $Q_1 = 43$ and $Q_3 = 61$, find the interquartile range.",
+   "options": [
+    "19",
+    "104",
+    "18",
+    "52"
+   ],
+   "answer": 2,
+   "solution": "IQR $= Q_3 - Q_1 = 61 - 43 = 18$."
+  },
+  {
+   "q": "On an ogive with total frequency $N$, the median is read off at a cumulative frequency of:",
+   "options": [
+    "N/4",
+    "N/2",
+    "N",
+    "3N/4"
+   ],
+   "answer": 1,
+   "solution": "Median = value at cumulative frequency N/2."
+  },
+  {
+   "q": "The $p$-th percentile is read at cumulative frequency of:",
+   "options": [
+    "p/N",
+    "N/p",
+    "pN/100",
+    "p/100"
+   ],
+   "answer": 2,
+   "solution": "The p-th percentile is at cumulative frequency pN/100."
+  },
+  {
+   "q": "The $p$-th percentile is read at cumulative frequency of:",
+   "options": [
+    "N/p",
+    "p/N",
+    "pN/100",
+    "p/100"
+   ],
+   "answer": 2,
+   "solution": "The p-th percentile is at cumulative frequency pN/100."
+  },
+  {
+   "q": "On an ogive with total frequency $N$, the median is read off at a cumulative frequency of:",
+   "options": [
+    "N",
+    "3N/4",
+    "N/4",
+    "N/2"
+   ],
+   "answer": 3,
+   "solution": "Median = value at cumulative frequency N/2."
+  },
+  {
+   "q": "The upper quartile is read at cumulative frequency of:",
+   "options": [
+    "2N/3",
+    "N/2",
+    "3N/4",
+    "N/4"
+   ],
+   "answer": 2,
+   "solution": "Q3 corresponds to 3N/4."
+  },
+  {
+   "q": "The lower quartile is read at a cumulative frequency of:",
+   "options": [
+    "N/2",
+    "N/3",
+    "N/4",
+    "3N/4"
+   ],
+   "answer": 2,
+   "solution": "Q1 corresponds to N/4."
+  },
+  {
+   "q": "The $p$-th percentile is read at cumulative frequency of:",
+   "options": [
+    "pN/100",
+    "N/p",
+    "p/N",
+    "p/100"
+   ],
+   "answer": 0,
+   "solution": "The p-th percentile is at cumulative frequency pN/100."
+  },
+  {
+   "q": "On an ogive with total frequency $N$, the median is read off at a cumulative frequency of:",
+   "options": [
+    "N/2",
+    "N",
+    "3N/4",
+    "N/4"
+   ],
+   "answer": 0,
+   "solution": "Median = value at cumulative frequency N/2."
+  },
+  {
+   "q": "On an ogive with total frequency $N$, the median is read off at a cumulative frequency of:",
+   "options": [
+    "N",
+    "N/2",
+    "3N/4",
+    "N/4"
+   ],
+   "answer": 1,
+   "solution": "Median = value at cumulative frequency N/2."
+  },
+  {
+   "q": "The lower quartile is read at a cumulative frequency of:",
+   "options": [
+    "3N/4",
+    "N/4",
+    "N/3",
+    "N/2"
+   ],
+   "answer": 1,
+   "solution": "Q1 corresponds to N/4."
+  },
+  {
+   "q": "The upper quartile is read at cumulative frequency of:",
+   "options": [
+    "3N/4",
+    "N/4",
+    "2N/3",
+    "N/2"
+   ],
+   "answer": 0,
+   "solution": "Q3 corresponds to 3N/4."
+  },
+  {
+   "q": "The lower quartile is read at a cumulative frequency of:",
+   "options": [
+    "N/4",
+    "N/2",
+    "3N/4",
+    "N/3"
+   ],
+   "answer": 0,
+   "solution": "Q1 corresponds to N/4."
+  },
+  {
+   "q": "On an ogive with total frequency $N$, the median is read off at a cumulative frequency of:",
+   "options": [
+    "N/4",
+    "3N/4",
+    "N",
+    "N/2"
+   ],
+   "answer": 3,
+   "solution": "Median = value at cumulative frequency N/2."
+  },
+  {
+   "q": "The lower quartile is read at a cumulative frequency of:",
+   "options": [
+    "N/2",
+    "N/3",
+    "N/4",
+    "3N/4"
+   ],
+   "answer": 2,
+   "solution": "Q1 corresponds to N/4."
+  },
+  {
+   "q": "The lower quartile is read at a cumulative frequency of:",
+   "options": [
+    "N/4",
+    "N/2",
+    "N/3",
+    "3N/4"
+   ],
+   "answer": 0,
+   "solution": "Q1 corresponds to N/4."
+  }
+ ]
+}
