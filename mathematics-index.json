@@ -1,0 +1,165 @@
+{
+  "subject": "Mathematics",
+  "topics": [
+    {
+      "level": "SSS 1",
+      "slug": "number-bases",
+      "file": "math-sss1-number-bases.json",
+      "topic": "Number Bases",
+      "questions": 50,
+      "modules": 5
+    },
+    {
+      "level": "SSS 1",
+      "slug": "modular-arithmetic",
+      "file": "math-sss1-modular-arithmetic.json",
+      "topic": "Modular Arithmetic",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 1",
+      "slug": "indices",
+      "file": "math-sss1-indices.json",
+      "topic": "Indices",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 1",
+      "slug": "logarithms",
+      "file": "math-sss1-logarithms.json",
+      "topic": "Logarithms",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 1",
+      "slug": "sets",
+      "file": "math-sss1-sets.json",
+      "topic": "Sets",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 1",
+      "slug": "algebraic-processes",
+      "file": "math-sss1-algebraic-processes.json",
+      "topic": "Algebraic Processes",
+      "questions": 50,
+      "modules": 4
+    },
+    {
+      "level": "SSS 1",
+      "slug": "plane-geometry",
+      "file": "math-sss1-plane-geometry.json",
+      "topic": "Plane Geometry & Mensuration",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 1",
+      "slug": "statistics",
+      "file": "math-sss1-statistics.json",
+      "topic": "Statistics",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 2",
+      "slug": "logarithms-2",
+      "file": "math-sss2-logarithms-2.json",
+      "topic": "Logarithms (Part II)",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 2",
+      "slug": "algebraic-processes-2",
+      "file": "math-sss2-algebraic-processes-2.json",
+      "topic": "Algebraic Processes (Part II)",
+      "questions": 50,
+      "modules": 4
+    },
+    {
+      "level": "SSS 2",
+      "slug": "circle-theorems",
+      "file": "math-sss2-circle-theorems.json",
+      "topic": "Circle Theorems",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 2",
+      "slug": "mensuration-solids",
+      "file": "math-sss2-mensuration-solids.json",
+      "topic": "Mensuration of Solids",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 2",
+      "slug": "trigonometry",
+      "file": "math-sss2-trigonometry.json",
+      "topic": "Trigonometry",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 2",
+      "slug": "statistics-2",
+      "file": "math-sss2-statistics-2.json",
+      "topic": "Statistics (Part II)",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 3",
+      "slug": "surds",
+      "file": "math-sss3-surds.json",
+      "topic": "Surds",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 3",
+      "slug": "sequences-series",
+      "file": "math-sss3-sequences-series.json",
+      "topic": "Sequences and Series",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 3",
+      "slug": "matrices",
+      "file": "math-sss3-matrices.json",
+      "topic": "Matrices and Determinants",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 3",
+      "slug": "coordinate-geometry",
+      "file": "math-sss3-coordinate-geometry.json",
+      "topic": "Coordinate Geometry",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 3",
+      "slug": "calculus",
+      "file": "math-sss3-calculus.json",
+      "topic": "Introductory Calculus",
+      "questions": 50,
+      "modules": 3
+    },
+    {
+      "level": "SSS 3",
+      "slug": "probability",
+      "file": "math-sss3-probability.json",
+      "topic": "Probability",
+      "questions": 50,
+      "modules": 3
+    }
+  ]
+}
