@@ -1,0 +1,606 @@
+{
+  "subject": "English",
+  "level": "SSS 2",
+  "slug": "grammar-structure",
+  "title": "Grammar and Structure",
+  "outline": [
+    "Noun, adjectival and adverbial phrases and clauses",
+    "Rules of concord (grammatical, proximity, notional, mathematical)",
+    "Perfect and perfect continuous tenses",
+    "Adverbs — types, position and comparison"
+  ],
+  "modules": [
+    {
+      "title": "Phrases and clauses",
+      "html": "<p>A <b>phrase</b> is a group of related words without a subject-verb pair. A <b>clause</b> has both a subject and a finite verb. Phrases and clauses are classified by the job they do — like a noun, an adjective or an adverb.</p>\n  <h4>1. Noun phrase / noun clause</h4>\n  <ul><li>Noun phrase: <i>The tall boy in blue</i> won the race. (subject)</li>\n  <li>Noun clause: <i>That he came late</i> annoyed the teacher. (subject)</li></ul>\n  <h4>2. Adjectival (adjective) phrase / clause</h4>\n  <ul><li>Adjectival phrase (modifies a noun): <i>The book on the table</i> is mine.</li>\n  <li>Adjective clause (relative): The girl <i>who won the prize</i> is my sister.</li></ul>\n  <h4>3. Adverbial phrase / clause</h4>\n  <ul><li>Adverbial phrase: She spoke <i>in a loud voice</i>. (manner)</li>\n  <li>Adverbial clause: I stayed at home <i>because it was raining</i>. (reason)</li></ul>\n  <p>Common adverbial clause types: <b>time</b> (when, before), <b>reason</b> (because, since), <b>condition</b> (if, unless), <b>concession</b> (although, though), <b>purpose</b> (so that), <b>result</b> (so…that, so that), <b>comparison</b> (than, as…as).</p>",
+      "examples": [
+        {
+          "q": "Identify the function of the underlined clause: <i>The man <u>who spoke first</u> is the chairman.</i>",
+          "a": "Adjective clause modifying <i>man</i>."
+        }
+      ]
+    },
+    {
+      "title": "Concord (subject–verb agreement)",
+      "html": "<p><b>Concord</b> is the grammatical agreement between subject and verb (also pronoun and antecedent).</p>\n  <h4>Common rules</h4>\n  <ol>\n    <li><b>Singular subject → singular verb; plural subject → plural verb.</b> <i>The girl <b>sings</b>. The girls <b>sing</b>.</i></li>\n    <li><b>Two subjects joined by <i>and</i></b> take a plural verb: <i>Ada and Musa <b>are</b> here.</i></li>\n    <li><b>Two singular subjects joined by <i>or / nor / either…or / neither…nor</i></b> take a singular verb; if one is plural, the verb agrees with the nearer subject (<b>rule of proximity</b>): <i>Neither the teacher nor the students <b>are</b> ready.</i></li>\n    <li><b>Collective nouns</b> take a singular verb when the group acts together, plural when members act individually.</li>\n    <li><b>Indefinite pronouns</b> like <i>each, either, neither, everyone, somebody, nothing</i> take a singular verb.</li>\n    <li><b>Notional concord</b>: certain words are singular in form but plural in sense (or vice versa) — <i>The police <b>are</b>…</i>; <i>Mathematics <b>is</b>…</i>.</li>\n    <li><b>Mathematical concord</b>: <i>Two and two <b>is</b> four</i> (treated as a single sum).</li>\n  </ol>",
+      "examples": [
+        {
+          "q": "Correct or wrong? <i>Every one of the boys are present.</i>",
+          "a": "Wrong — <i>every one</i> is singular; use <b>is</b>."
+        }
+      ]
+    },
+    {
+      "title": "Verb tenses — perfect and perfect continuous",
+      "html": "<p>The <b>perfect</b> tenses use <b>have/has/had + past participle</b> to link an action to another time. The <b>perfect continuous</b> tenses use <b>have/has/had + been + -ing</b> to emphasise duration.</p>\n  <table style=\"width:100%;border-collapse:collapse\"><tr><th style=\"text-align:left;padding:4px 8px\">Tense</th><th style=\"padding:4px 8px\">Form</th><th style=\"padding:4px 8px\">Example</th></tr>\n  <tr><td style=\"padding:4px 8px\">Present perfect</td><td>have/has + past participle</td><td>She has written the letter.</td></tr>\n  <tr><td style=\"padding:4px 8px\">Past perfect</td><td>had + past participle</td><td>She had written before I arrived.</td></tr>\n  <tr><td style=\"padding:4px 8px\">Future perfect</td><td>will have + past participle</td><td>She will have written by noon.</td></tr>\n  <tr><td style=\"padding:4px 8px\">Present perfect continuous</td><td>have/has been + -ing</td><td>She has been writing for two hours.</td></tr>\n  <tr><td style=\"padding:4px 8px\">Past perfect continuous</td><td>had been + -ing</td><td>She had been writing when the light went out.</td></tr>\n  <tr><td style=\"padding:4px 8px\">Future perfect continuous</td><td>will have been + -ing</td><td>By noon she will have been writing for three hours.</td></tr></table>",
+      "examples": [
+        {
+          "q": "Complete: <i>By next month I ______ (finish) the project.</i>",
+          "a": "<b>will have finished</b> — future perfect."
+        }
+      ]
+    },
+    {
+      "title": "Adverbs — types, position, comparison",
+      "html": "<p>An <b>adverb</b> modifies a verb, adjective, another adverb or a whole sentence.</p>\n  <h4>Types</h4>\n  <ul><li>Manner: <i>quickly</i>. Place: <i>here</i>. Time: <i>yesterday</i>. Frequency: <i>often</i>. Degree: <i>very</i>. Focusing: <i>only, even</i>. Sentence: <i>fortunately</i>.</li></ul>\n  <h4>Position</h4>\n  <ul><li>Adverbs of frequency go before the main verb: <i>She <b>often</b> visits her aunt</i>; but after the verb <i>be</i>: <i>She is <b>often</b> late</i>.</li>\n  <li>Adverbs of manner usually go after the object: <i>He spoke to us <b>politely</b></i>.</li></ul>\n  <h4>Comparison</h4>\n  <ul><li>Most short adverbs: <i>fast → faster → fastest</i>.</li>\n  <li>Most -ly adverbs: <i>carefully → more carefully → most carefully</i>.</li>\n  <li>Irregular: <i>well → better → best; badly → worse → worst; little → less → least; much → more → most</i>.</li></ul>",
+      "examples": [
+        {
+          "q": "Comparative and superlative of <i>badly</i>?",
+          "a": "<i>badly → worse → worst</i>."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "A <b>clause</b> must contain:",
+      "options": [
+        "only a verb",
+        "a subject and a finite verb",
+        "a preposition",
+        "only a noun"
+      ],
+      "answer": 1,
+      "solution": "Clause = subject + finite verb."
+    },
+    {
+      "q": "<i>Because it was raining</i> is a(n):",
+      "options": [
+        "noun phrase",
+        "adverbial clause of reason",
+        "adjectival phrase",
+        "noun clause"
+      ],
+      "answer": 1,
+      "solution": "Introduced by <i>because</i>."
+    },
+    {
+      "q": "Identify the noun clause: <i>What she said surprised everyone.</i>",
+      "options": [
+        "What she said",
+        "she said",
+        "surprised everyone",
+        "everyone"
+      ],
+      "answer": 0,
+      "solution": "'What she said' functions as the subject."
+    },
+    {
+      "q": "<i>The girl who won the prize is my sister.</i> The underlined clause is:",
+      "options": [
+        "adverbial",
+        "adjectival",
+        "noun",
+        "independent"
+      ],
+      "answer": 1,
+      "solution": "It modifies <i>girl</i>."
+    },
+    {
+      "q": "Choose the correct verb: <i>Neither the teacher nor the students _____ ready.</i>",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has"
+      ],
+      "answer": 1,
+      "solution": "Rule of proximity — <i>students</i> is plural."
+    },
+    {
+      "q": "<i>Each of the students _____ a book.</i>",
+      "options": [
+        "have",
+        "has",
+        "are",
+        "were"
+      ],
+      "answer": 1,
+      "solution": "<i>Each</i> is singular."
+    },
+    {
+      "q": "<i>The jury _____ divided in its opinion.</i>",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have been"
+      ],
+      "answer": 0,
+      "solution": "Collective noun acting as a body — singular."
+    },
+    {
+      "q": "<i>The jury _____ arguing among themselves.</i>",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has"
+      ],
+      "answer": 1,
+      "solution": "Members acting individually — plural."
+    },
+    {
+      "q": "<i>Mathematics _____ my favourite subject.</i>",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "answer": 1,
+      "solution": "Notional — singular subject."
+    },
+    {
+      "q": "<i>The police _____ investigating the case.</i>",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has"
+      ],
+      "answer": 1,
+      "solution": "<i>Police</i> is plural in English."
+    },
+    {
+      "q": "<i>Twenty naira _____ a small amount.</i>",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "answer": 1,
+      "solution": "Money as a sum takes singular verb."
+    },
+    {
+      "q": "<i>Ten kilometres _____ a long distance.</i>",
+      "options": [
+        "are",
+        "is",
+        "was",
+        "were"
+      ],
+      "answer": 1,
+      "solution": "Distance as one unit — singular."
+    },
+    {
+      "q": "Perfect tense uses:",
+      "options": [
+        "will + verb",
+        "have/has/had + past participle",
+        "is + -ing",
+        "do + verb"
+      ],
+      "answer": 1,
+      "solution": "That is the perfect formula."
+    },
+    {
+      "q": "<i>She has written the letter.</i> Tense is:",
+      "options": [
+        "simple past",
+        "past perfect",
+        "present perfect",
+        "present continuous"
+      ],
+      "answer": 2,
+      "solution": "has + written = present perfect."
+    },
+    {
+      "q": "<i>They had left before I arrived.</i> Tense is:",
+      "options": [
+        "present perfect",
+        "past perfect",
+        "past continuous",
+        "future perfect"
+      ],
+      "answer": 1,
+      "solution": "had + past participle."
+    },
+    {
+      "q": "<i>By 8 o'clock, we will have finished.</i> Tense is:",
+      "options": [
+        "present perfect",
+        "past perfect",
+        "future perfect",
+        "future continuous"
+      ],
+      "answer": 2,
+      "solution": "will have + past participle."
+    },
+    {
+      "q": "<i>She has been working since 6 a.m.</i> Tense is:",
+      "options": [
+        "present perfect",
+        "present perfect continuous",
+        "past perfect continuous",
+        "future perfect continuous"
+      ],
+      "answer": 1,
+      "solution": "has been + -ing."
+    },
+    {
+      "q": "<i>He had been reading for two hours when the light went out.</i> Tense is:",
+      "options": [
+        "past perfect",
+        "past perfect continuous",
+        "present perfect continuous",
+        "past continuous"
+      ],
+      "answer": 1,
+      "solution": "had been + -ing."
+    },
+    {
+      "q": "Choose correct: <i>Ada as well as her friends _____ present.</i>",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have been"
+      ],
+      "answer": 2,
+      "solution": "<i>As well as</i> does not add to the subject — singular."
+    },
+    {
+      "q": "Choose correct: <i>The number of applicants _____ growing.</i>",
+      "options": [
+        "are",
+        "is",
+        "have been",
+        "were"
+      ],
+      "answer": 1,
+      "solution": "<i>The number of</i> is singular."
+    },
+    {
+      "q": "Choose correct: <i>A number of students _____ absent.</i>",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has been"
+      ],
+      "answer": 1,
+      "solution": "<i>A number of</i> is plural."
+    },
+    {
+      "q": "<i>None of the answers _____ correct.</i>",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "were"
+      ],
+      "answer": 1,
+      "solution": "With plural noun after <i>of</i>, <i>none</i> takes plural verb."
+    },
+    {
+      "q": "<i>Bread and butter _____ my breakfast.</i>",
+      "options": [
+        "are",
+        "is",
+        "have been",
+        "were"
+      ],
+      "answer": 1,
+      "solution": "Compound noun treated as one item — singular."
+    },
+    {
+      "q": "<i>Two and two _____ four.</i>",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "was"
+      ],
+      "answer": 1,
+      "solution": "Mathematical concord — singular."
+    },
+    {
+      "q": "Position the adverb: (often) — <i>She (often) visits her aunt.</i>",
+      "options": [
+        "before main verb",
+        "after main verb",
+        "end of sentence",
+        "start"
+      ],
+      "answer": 0,
+      "solution": "Adverbs of frequency go before the main verb."
+    },
+    {
+      "q": "Position the adverb: (often) — <i>She is (often) late.</i>",
+      "options": [
+        "before is",
+        "after is",
+        "start",
+        "end"
+      ],
+      "answer": 1,
+      "solution": "After the verb <i>be</i>."
+    },
+    {
+      "q": "Comparative of <i>well</i>:",
+      "options": [
+        "weller",
+        "better",
+        "gooder",
+        "best"
+      ],
+      "answer": 1,
+      "solution": "Irregular: well → better → best."
+    },
+    {
+      "q": "Superlative of <i>little</i>:",
+      "options": [
+        "littlest",
+        "less",
+        "least",
+        "lesser"
+      ],
+      "answer": 2,
+      "solution": "little → less → least."
+    },
+    {
+      "q": "Comparative of <i>carefully</i>:",
+      "options": [
+        "carefuller",
+        "more carefully",
+        "most carefully",
+        "carefullest"
+      ],
+      "answer": 1,
+      "solution": "Multi-syllable adverb uses <i>more</i>."
+    },
+    {
+      "q": "Which is a sentence adverb?",
+      "options": [
+        "quickly",
+        "fortunately",
+        "here",
+        "very"
+      ],
+      "answer": 1,
+      "solution": "<i>Fortunately</i> modifies the whole sentence."
+    },
+    {
+      "q": "Which is an adverb of degree?",
+      "options": [
+        "quickly",
+        "yesterday",
+        "very",
+        "here"
+      ],
+      "answer": 2,
+      "solution": "<i>Very</i> shows degree."
+    },
+    {
+      "q": "Which is an adverb of frequency?",
+      "options": [
+        "seldom",
+        "politely",
+        "far",
+        "today"
+      ],
+      "answer": 0,
+      "solution": "<i>Seldom</i> = how often."
+    },
+    {
+      "q": "Adverbial clause of condition begins with:",
+      "options": [
+        "if / unless",
+        "because",
+        "although",
+        "when"
+      ],
+      "answer": 0,
+      "solution": "<i>If / unless</i> introduce condition."
+    },
+    {
+      "q": "Adverbial clause of concession begins with:",
+      "options": [
+        "although",
+        "because",
+        "when",
+        "so that"
+      ],
+      "answer": 0,
+      "solution": "<i>Although / though</i> = concession."
+    },
+    {
+      "q": "Adverbial clause of purpose begins with:",
+      "options": [
+        "because",
+        "so that",
+        "when",
+        "although"
+      ],
+      "answer": 1,
+      "solution": "<i>So that</i> = purpose."
+    },
+    {
+      "q": "Which sentence contains a noun clause?",
+      "options": [
+        "The book on the table is mine.",
+        "I know that he is honest.",
+        "She sings sweetly.",
+        "He arrived early."
+      ],
+      "answer": 1,
+      "solution": "<i>That he is honest</i> is the object noun clause."
+    },
+    {
+      "q": "Which sentence contains an adjective clause?",
+      "options": [
+        "When he came, we left.",
+        "The house that I bought is old.",
+        "Because it rained, we stayed.",
+        "She sings sweetly."
+      ],
+      "answer": 1,
+      "solution": "<i>That I bought</i> modifies <i>house</i>."
+    },
+    {
+      "q": "Which is an adjectival phrase?",
+      "options": [
+        "running fast",
+        "on the table",
+        "because it rained",
+        "that she came"
+      ],
+      "answer": 1,
+      "solution": "<i>On the table</i> modifies a noun."
+    },
+    {
+      "q": "Which sentence uses the past perfect correctly?",
+      "options": [
+        "After she leaves, she had lunch.",
+        "She had left before I arrived.",
+        "She has left last night.",
+        "She will have leave."
+      ],
+      "answer": 1,
+      "solution": "had + past participle + before-clause."
+    },
+    {
+      "q": "Which sentence uses the present perfect correctly?",
+      "options": [
+        "I have seen him yesterday.",
+        "I have seen him already.",
+        "I saw him already.",
+        "I am seeing him already."
+      ],
+      "answer": 1,
+      "solution": "Present perfect with <i>already</i> — no exact past time."
+    },
+    {
+      "q": "<i>Neither of them _____ willing to help.</i>",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have been"
+      ],
+      "answer": 2,
+      "solution": "<i>Neither</i> = singular."
+    },
+    {
+      "q": "<i>The scissors _____ on the table.</i>",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has been"
+      ],
+      "answer": 1,
+      "solution": "<i>Scissors</i> is always plural."
+    },
+    {
+      "q": "Which sentence follows the rule of proximity?",
+      "options": [
+        "Either you or he are wrong.",
+        "Either you or he is wrong.",
+        "Either you or he am wrong.",
+        "Either you or he were wrong."
+      ],
+      "answer": 1,
+      "solution": "Verb agrees with <i>he</i> — the nearer subject."
+    },
+    {
+      "q": "<i>The team _____ won its match.</i>",
+      "options": [
+        "has",
+        "have",
+        "are",
+        "were"
+      ],
+      "answer": 0,
+      "solution": "Team acting as a unit — singular."
+    },
+    {
+      "q": "<i>My family _____ having breakfast when I called.</i>",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "has"
+      ],
+      "answer": 1,
+      "solution": "Members acting individually — plural."
+    },
+    {
+      "q": "Which sentence is correct?",
+      "options": [
+        "He rarely goes out.",
+        "He goes out rarely often.",
+        "He rarely often goes out.",
+        "Rarely he goes out."
+      ],
+      "answer": 0,
+      "solution": "Adverb of frequency before main verb."
+    },
+    {
+      "q": "Which of these adverbs shows manner?",
+      "options": [
+        "yesterday",
+        "quickly",
+        "here",
+        "very"
+      ],
+      "answer": 1,
+      "solution": "<i>Quickly</i> — how something is done."
+    },
+    {
+      "q": "Choose correct: <i>She sings _____ than her brother.</i>",
+      "options": [
+        "better",
+        "best",
+        "more well",
+        "more better"
+      ],
+      "answer": 0,
+      "solution": "Comparative of <i>well</i> = <i>better</i>."
+    },
+    {
+      "q": "Choose the sentence with correct concord.",
+      "options": [
+        "The set of books are new.",
+        "The set of books is new.",
+        "The sets of books is new.",
+        "The set of books were new."
+      ],
+      "answer": 1,
+      "solution": "<i>Set</i> is singular; <i>of books</i> is a prepositional phrase."
+    },
+    {
+      "q": "Choose the sentence with correct concord.",
+      "options": [
+        "Each boy and girl have a seat.",
+        "Each boy and girl has a seat.",
+        "Each boy and girl are seated.",
+        "Each boy and girl were seated."
+      ],
+      "answer": 1,
+      "solution": "<i>Each…</i> is singular."
+    }
+  ]
+}

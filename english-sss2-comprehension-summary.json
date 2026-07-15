@@ -1,0 +1,596 @@
+{
+  "subject": "English",
+  "level": "SSS 2",
+  "slug": "comprehension-summary",
+  "title": "Comprehension and Summary",
+  "outline": [
+    "Figures of speech and figurative language",
+    "Making inferences from texts",
+    "Reading argumentative passages",
+    "Writing summary bullet points"
+  ],
+  "modules": [
+    {
+      "title": "Figures of speech in passages",
+      "html": "<p>Writers use figurative language to make ideas vivid. Common figures include:</p>\n  <ul><li><b>Simile</b> — comparison with <i>as / like</i>: <i>brave as a lion</i>.</li>\n  <li><b>Metaphor</b> — direct comparison: <i>Time is a thief</i>.</li>\n  <li><b>Personification</b> — giving human qualities to things: <i>the sun smiled</i>.</li>\n  <li><b>Hyperbole</b> — exaggeration for effect: <i>I've told you a million times</i>.</li>\n  <li><b>Litotes</b> — understatement: <i>not bad</i> (= very good).</li>\n  <li><b>Oxymoron</b> — apparent contradiction: <i>deafening silence</i>.</li>\n  <li><b>Alliteration</b> — repeated initial sounds: <i>slippery snakes</i>.</li>\n  <li><b>Onomatopoeia</b> — words that imitate sounds: <i>buzz, clang, hiss</i>.</li>\n  <li><b>Irony</b> — meaning opposite of the literal: <i>a fire station burnt down</i> (situational).</li>\n  <li><b>Euphemism</b> — mild expression: <i>passed away</i> (= died).</li></ul>",
+      "examples": [
+        {
+          "q": "Identify the figure: <i>The waves danced along the shore.</i>",
+          "a": "Personification — waves given the human action of dancing."
+        }
+      ]
+    },
+    {
+      "title": "Drawing inferences",
+      "html": "<p>An <b>inference</b> is a reasonable conclusion drawn from what a passage says, not stated directly.</p>\n  <p>Ask: <i>What does the writer expect me to understand without saying it aloud?</i></p>\n  <p>Steps:</p>\n  <ol><li>Note the exact words and details in the passage.</li>\n  <li>Combine those details with common knowledge.</li>\n  <li>Choose the option that fits the passage evidence — not just your feelings.</li></ol>\n  <p>Beware of over-inferring: any conclusion must be justified by something the writer wrote.</p>",
+      "examples": [
+        {
+          "q": "From <i>Ada glanced at her watch and quickened her pace</i>, what can you infer?",
+          "a": "That Ada was afraid of being late."
+        }
+      ]
+    },
+    {
+      "title": "Summary of an argumentative passage",
+      "html": "<p>An <b>argumentative passage</b> puts forward a case with reasons. Its summary must list those <b>reasons</b>, not merely restate the topic.</p>\n  <h4>Bullet-point method</h4>\n  <ol><li>State the writer's main claim in one sentence.</li>\n  <li>List each reason or piece of evidence as one bullet — in your own words.</li>\n  <li>Answer only the number of points asked (say, four reasons).</li>\n  <li>Keep to the word limit.</li></ol>",
+      "examples": [
+        {
+          "q": "If asked for <i>four reasons the writer opposes plastic bags</i>, what should you list?",
+          "a": "Four separate, non-overlapping reasons, each rephrased in your own words and drawn only from the passage."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "<i>Time is a thief</i> is an example of:",
+      "options": [
+        "simile",
+        "metaphor",
+        "hyperbole",
+        "irony"
+      ],
+      "answer": 1,
+      "solution": "Direct comparison."
+    },
+    {
+      "q": "<i>She sings like an angel</i> is an example of:",
+      "options": [
+        "simile",
+        "metaphor",
+        "personification",
+        "hyperbole"
+      ],
+      "answer": 0,
+      "solution": "Uses <i>like</i>."
+    },
+    {
+      "q": "<i>The wind whispered secrets.</i>",
+      "options": [
+        "metaphor",
+        "personification",
+        "hyperbole",
+        "irony"
+      ],
+      "answer": 1,
+      "solution": "Wind given human speech."
+    },
+    {
+      "q": "<i>I've told you a million times.</i>",
+      "options": [
+        "simile",
+        "metaphor",
+        "hyperbole",
+        "litotes"
+      ],
+      "answer": 2,
+      "solution": "Exaggeration."
+    },
+    {
+      "q": "<i>Not bad</i> (meaning 'very good') is:",
+      "options": [
+        "hyperbole",
+        "litotes",
+        "oxymoron",
+        "onomatopoeia"
+      ],
+      "answer": 1,
+      "solution": "Understatement."
+    },
+    {
+      "q": "<i>Deafening silence</i> is:",
+      "options": [
+        "oxymoron",
+        "simile",
+        "metaphor",
+        "personification"
+      ],
+      "answer": 0,
+      "solution": "Contradictory pairing."
+    },
+    {
+      "q": "<i>Buzz, hiss, clang</i> are examples of:",
+      "options": [
+        "alliteration",
+        "onomatopoeia",
+        "personification",
+        "metaphor"
+      ],
+      "answer": 1,
+      "solution": "Sound-imitating words."
+    },
+    {
+      "q": "<i>Peter Piper picked a peck of pickled peppers</i> shows:",
+      "options": [
+        "alliteration",
+        "assonance",
+        "rhyme",
+        "onomatopoeia"
+      ],
+      "answer": 0,
+      "solution": "Repeated /p/ sounds."
+    },
+    {
+      "q": "<i>The fire station burnt down</i> shows:",
+      "options": [
+        "situational irony",
+        "dramatic irony",
+        "verbal irony",
+        "hyperbole"
+      ],
+      "answer": 0,
+      "solution": "An outcome opposite to what one expects."
+    },
+    {
+      "q": "<i>Passed away</i> for <i>died</i> is a:",
+      "options": [
+        "euphemism",
+        "idiom",
+        "metaphor",
+        "irony"
+      ],
+      "answer": 0,
+      "solution": "Mild expression."
+    },
+    {
+      "q": "Inference: <i>Musa took an umbrella when leaving.</i> We can infer:",
+      "options": [
+        "He was going to a party.",
+        "He expected rain.",
+        "He liked umbrellas.",
+        "He owns an umbrella shop."
+      ],
+      "answer": 1,
+      "solution": "Reasonable inference."
+    },
+    {
+      "q": "Inference: <i>The road is wet.</i> Best inference:",
+      "options": [
+        "It rained recently.",
+        "It is snowing.",
+        "There is a fire.",
+        "It is very hot."
+      ],
+      "answer": 0,
+      "solution": "Most probable cause."
+    },
+    {
+      "q": "Inference: <i>She frowned and slammed the door.</i>",
+      "options": [
+        "She was happy.",
+        "She was angry.",
+        "She was tired.",
+        "She was hungry."
+      ],
+      "answer": 1,
+      "solution": "Frowning + slamming = anger."
+    },
+    {
+      "q": "Inference should be based on:",
+      "options": [
+        "personal wishes",
+        "passage evidence + logic",
+        "imagination",
+        "other passages"
+      ],
+      "answer": 1,
+      "solution": "Only what the text supports."
+    },
+    {
+      "q": "An argumentative passage aims to:",
+      "options": [
+        "describe",
+        "tell a story",
+        "persuade with reasons",
+        "list facts only"
+      ],
+      "answer": 2,
+      "solution": "Persuasion by reason."
+    },
+    {
+      "q": "In summary, quoting long passages is:",
+      "options": [
+        "encouraged",
+        "not allowed / avoid",
+        "required",
+        "allowed only in poems"
+      ],
+      "answer": 1,
+      "solution": "Paraphrase in your own words."
+    },
+    {
+      "q": "A good summary bullet is:",
+      "options": [
+        "one full paragraph",
+        "one clear sentence per point",
+        "many sentences",
+        "only phrases"
+      ],
+      "answer": 1,
+      "solution": "One sentence per point."
+    },
+    {
+      "q": "How many points should you give in summary?",
+      "options": [
+        "all you find",
+        "exactly the number asked",
+        "one",
+        "ten"
+      ],
+      "answer": 1,
+      "solution": "Only the number requested."
+    },
+    {
+      "q": "Writers use figurative language mainly to:",
+      "options": [
+        "confuse the reader",
+        "make ideas vivid",
+        "fill space",
+        "obey grammar rules"
+      ],
+      "answer": 1,
+      "solution": "To create vivid images."
+    },
+    {
+      "q": "<i>The world is a stage.</i>",
+      "options": [
+        "metaphor",
+        "simile",
+        "hyperbole",
+        "personification"
+      ],
+      "answer": 0,
+      "solution": "Direct comparison."
+    },
+    {
+      "q": "<i>He runs faster than the wind.</i>",
+      "options": [
+        "hyperbole",
+        "litotes",
+        "personification",
+        "alliteration"
+      ],
+      "answer": 0,
+      "solution": "Exaggeration."
+    },
+    {
+      "q": "A summary should be in:",
+      "options": [
+        "your own words",
+        "exact words of the text",
+        "only bullet points",
+        "dialogue"
+      ],
+      "answer": 0,
+      "solution": "Paraphrase."
+    },
+    {
+      "q": "Which is <u>not</u> a figure of speech?",
+      "options": [
+        "metaphor",
+        "hyperbole",
+        "paragraph",
+        "irony"
+      ],
+      "answer": 2,
+      "solution": "A paragraph is a text unit."
+    },
+    {
+      "q": "Which figure gives objects human traits?",
+      "options": [
+        "personification",
+        "simile",
+        "hyperbole",
+        "irony"
+      ],
+      "answer": 0,
+      "solution": "Personification."
+    },
+    {
+      "q": "Which figure repeats initial consonants?",
+      "options": [
+        "assonance",
+        "alliteration",
+        "onomatopoeia",
+        "hyperbole"
+      ],
+      "answer": 1,
+      "solution": "Alliteration."
+    },
+    {
+      "q": "Which figure repeats vowel sounds within words?",
+      "options": [
+        "alliteration",
+        "assonance",
+        "consonance",
+        "rhyme"
+      ],
+      "answer": 1,
+      "solution": "Assonance."
+    },
+    {
+      "q": "<i>The classroom was a zoo.</i> Figure:",
+      "options": [
+        "metaphor",
+        "simile",
+        "hyperbole",
+        "personification"
+      ],
+      "answer": 0,
+      "solution": "Direct comparison."
+    },
+    {
+      "q": "<i>Ada tiptoed so as not to wake the baby.</i> Infer:",
+      "options": [
+        "The baby was crying.",
+        "The baby was asleep.",
+        "Ada was tired.",
+        "Ada was scared."
+      ],
+      "answer": 1,
+      "solution": "Tiptoeing implies not disturbing sleep."
+    },
+    {
+      "q": "<i>The lecturer glanced at his watch and cleared his throat.</i> Infer:",
+      "options": [
+        "He was about to leave.",
+        "He was about to end / continue speaking.",
+        "He was ill.",
+        "He was cold."
+      ],
+      "answer": 1,
+      "solution": "Suggests he was ready to speak."
+    },
+    {
+      "q": "Which of these is a valid summary technique?",
+      "options": [
+        "inventing extra examples",
+        "joining related points into one sentence",
+        "adding an opinion",
+        "quoting the whole passage"
+      ],
+      "answer": 1,
+      "solution": "Combine overlapping ideas."
+    },
+    {
+      "q": "Which is <u>not</u> a mark of a good summary?",
+      "options": [
+        "clarity",
+        "conciseness",
+        "personal opinion",
+        "accuracy"
+      ],
+      "answer": 2,
+      "solution": "Objectivity is required."
+    },
+    {
+      "q": "What is the tone of a passage warning against drug abuse?",
+      "options": [
+        "light-hearted",
+        "warning / serious",
+        "sarcastic",
+        "joyful"
+      ],
+      "answer": 1,
+      "solution": "Serious warning."
+    },
+    {
+      "q": "A biased passage:",
+      "options": [
+        "gives all sides fairly",
+        "favours one side",
+        "provides only facts",
+        "asks questions"
+      ],
+      "answer": 1,
+      "solution": "One-sided."
+    },
+    {
+      "q": "<i>Slippery snakes slither silently</i> is:",
+      "options": [
+        "alliteration",
+        "onomatopoeia",
+        "personification",
+        "litotes"
+      ],
+      "answer": 0,
+      "solution": "Repeated /s/."
+    },
+    {
+      "q": "<i>The clock is ticking.</i> Figure:",
+      "options": [
+        "personification",
+        "onomatopoeia",
+        "hyperbole",
+        "metaphor"
+      ],
+      "answer": 1,
+      "solution": "<i>Ticking</i> imitates sound."
+    },
+    {
+      "q": "<i>Life is a journey.</i> Figure:",
+      "options": [
+        "simile",
+        "metaphor",
+        "hyperbole",
+        "irony"
+      ],
+      "answer": 1,
+      "solution": "Direct comparison."
+    },
+    {
+      "q": "<i>Cold fire, bright darkness.</i>",
+      "options": [
+        "oxymoron",
+        "hyperbole",
+        "personification",
+        "simile"
+      ],
+      "answer": 0,
+      "solution": "Contradictory."
+    },
+    {
+      "q": "Bullet summaries are typically found in questions on:",
+      "options": [
+        "narrative passages",
+        "argumentative passages",
+        "dialogues",
+        "poems"
+      ],
+      "answer": 1,
+      "solution": "Argumentative passages."
+    },
+    {
+      "q": "If word limit is 90 and you have written 130 words, you should:",
+      "options": [
+        "submit",
+        "cut redundant words",
+        "add more",
+        "use bullet points"
+      ],
+      "answer": 1,
+      "solution": "Trim to fit the limit."
+    },
+    {
+      "q": "Which is a topic sentence of a paragraph?",
+      "options": [
+        "Rain fell all day.",
+        "Nigeria is a democracy.",
+        "Deforestation harms the environment in several ways.",
+        "Cats are animals."
+      ],
+      "answer": 2,
+      "solution": "Announces controlling idea with room for support."
+    },
+    {
+      "q": "Which of the following belongs to figurative language?",
+      "options": [
+        "fact",
+        "statistic",
+        "metaphor",
+        "date"
+      ],
+      "answer": 2,
+      "solution": "Metaphor is figurative."
+    },
+    {
+      "q": "Inference: <i>The road was strewn with fallen branches.</i>",
+      "options": [
+        "A storm had passed.",
+        "It was a sunny day.",
+        "People had a picnic.",
+        "A carnival was on."
+      ],
+      "answer": 0,
+      "solution": "Fallen branches suggest wind/storm."
+    },
+    {
+      "q": "Which of these words signals contrast in a passage?",
+      "options": [
+        "however",
+        "therefore",
+        "furthermore",
+        "moreover"
+      ],
+      "answer": 0,
+      "solution": "<i>However</i> shows contrast."
+    },
+    {
+      "q": "Which signals a reason?",
+      "options": [
+        "because",
+        "therefore",
+        "however",
+        "although"
+      ],
+      "answer": 0,
+      "solution": "<i>Because</i> gives a reason."
+    },
+    {
+      "q": "Which signals a result?",
+      "options": [
+        "because",
+        "therefore",
+        "because of",
+        "since"
+      ],
+      "answer": 1,
+      "solution": "<i>Therefore</i> = result."
+    },
+    {
+      "q": "Which signals addition?",
+      "options": [
+        "moreover",
+        "however",
+        "although",
+        "because"
+      ],
+      "answer": 0,
+      "solution": "<i>Moreover</i> = also."
+    },
+    {
+      "q": "An argumentative essay usually ends with:",
+      "options": [
+        "a joke",
+        "a restated claim + conclusion",
+        "a list of names",
+        "a formula"
+      ],
+      "answer": 1,
+      "solution": "Restated position + conclusion."
+    },
+    {
+      "q": "Which is <u>not</u> a summary rule?",
+      "options": [
+        "stay within word limit",
+        "write in prose",
+        "copy the passage",
+        "use your own words"
+      ],
+      "answer": 2,
+      "solution": "Copying is discouraged."
+    },
+    {
+      "q": "<i>She is not unkind</i> is a form of:",
+      "options": [
+        "oxymoron",
+        "litotes",
+        "hyperbole",
+        "alliteration"
+      ],
+      "answer": 1,
+      "solution": "Understatement by double negative."
+    },
+    {
+      "q": "Which is a rhetorical question?",
+      "options": [
+        "What is the time?",
+        "Should we not fight injustice?",
+        "Where is the book?",
+        "Who won the match?"
+      ],
+      "answer": 1,
+      "solution": "Asked for effect; no reply expected."
+    }
+  ]
+}

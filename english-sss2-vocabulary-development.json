@@ -1,0 +1,596 @@
+{
+  "subject": "English",
+  "level": "SSS 2",
+  "slug": "vocabulary-development",
+  "title": "Vocabulary Development",
+  "outline": [
+    "Homophones, homonyms and homographs",
+    "Phrasal verbs and idioms",
+    "Common collocations",
+    "Registers: Medicine, Science, ICT"
+  ],
+  "modules": [
+    {
+      "title": "Homophones, homonyms, homographs",
+      "html": "<p><b>Homophones</b> — sound the same but differ in spelling and meaning: <i>their / there / they're; principal / principle; stationery / stationary; bare / bear; peace / piece</i>.</p>\n  <p><b>Homonyms</b> — same spelling <u>and</u> same sound but different meanings: <i>bank</i> (river / financial); <i>bark</i> (of a tree / of a dog); <i>fair</i> (just / market).</p>\n  <p><b>Homographs</b> — same spelling but different meaning and often different pronunciation: <i>lead</i> (metal, /led/) vs <i>lead</i> (to guide, /liːd/); <i>tear</i> (from the eye, /tɪə/) vs <i>tear</i> (to rip, /teə/); <i>row</i> (a line) vs <i>row</i> (a quarrel).</p>",
+      "examples": [
+        {
+          "q": "Choose the right word: <i>The wound had a (bare / bear) minimum of bandage.</i>",
+          "a": "<b>bare</b> = minimum; <i>bear</i> = the animal or 'to endure'."
+        }
+      ]
+    },
+    {
+      "title": "Phrasal verbs, idioms and collocations",
+      "html": "<p>A <b>phrasal verb</b> is a verb + particle whose meaning is often not obvious from its parts: <i>put off</i> (postpone), <i>give up</i> (quit), <i>look after</i> (care for), <i>break down</i> (stop functioning; cry).</p>\n  <p>An <b>idiom</b> is a fixed expression whose meaning is not literal: <i>kick the bucket</i> (die), <i>let the cat out of the bag</i> (reveal a secret), <i>burn the midnight oil</i> (work late), <i>a piece of cake</i> (very easy).</p>\n  <p>A <b>collocation</b> is a natural word partnership: <i>make a decision</i> (not 'do a decision'), <i>strong tea</i> (not 'powerful tea'), <i>heavy rain</i>, <i>catch a cold</i>.</p>",
+      "examples": [
+        {
+          "q": "Give the meaning of <i>burn the midnight oil</i>.",
+          "a": "To work or study late into the night."
+        }
+      ]
+    },
+    {
+      "title": "Registers — Medicine, Science, ICT",
+      "html": "<p><b>Medicine</b>: diagnosis, prognosis, symptom, prescription, dosage, antibiotic, epidemic, surgery, anaesthetic, quarantine, immunisation.</p>\n  <p><b>Science</b> (general): hypothesis, experiment, control, variable, molecule, compound, catalyst, momentum, evaporation, ecosystem.</p>\n  <p><b>ICT</b>: hardware, software, byte, browser, encryption, algorithm, database, malware, cloud, bandwidth, firewall, protocol.</p>",
+      "examples": [
+        {
+          "q": "Which register does <i>algorithm, encryption, malware</i> belong to?",
+          "a": "ICT / Computing."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which pair are homophones?",
+      "options": [
+        "their / there",
+        "bear / bear",
+        "lead / lead",
+        "row / row"
+      ],
+      "answer": 0,
+      "solution": "Same sound, different spelling."
+    },
+    {
+      "q": "Which pair are homographs (differ in sound)?",
+      "options": [
+        "bare / bear",
+        "peace / piece",
+        "lead (metal) / lead (guide)",
+        "stationery / stationary"
+      ],
+      "answer": 2,
+      "solution": "Same spelling, different sound and meaning."
+    },
+    {
+      "q": "<i>Bank</i> (river bank / money bank) is an example of a:",
+      "options": [
+        "homophone",
+        "homonym",
+        "antonym",
+        "synonym"
+      ],
+      "answer": 1,
+      "solution": "Same spelling and sound, different meanings."
+    },
+    {
+      "q": "Choose correct: <i>Please write on the (stationary / stationery).</i>",
+      "options": [
+        "stationary",
+        "stationery",
+        "stationaries",
+        "stationeries"
+      ],
+      "answer": 1,
+      "solution": "<i>Stationery</i> = writing materials; <i>stationary</i> = not moving."
+    },
+    {
+      "q": "<i>Principal</i> vs <i>principle</i>: which means a rule or belief?",
+      "options": [
+        "principal",
+        "principle",
+        "both",
+        "neither"
+      ],
+      "answer": 1,
+      "solution": "<i>Principle</i> = rule."
+    },
+    {
+      "q": "Meaning of <i>put off</i>:",
+      "options": [
+        "accept",
+        "postpone",
+        "invite",
+        "support"
+      ],
+      "answer": 1,
+      "solution": "Put off = postpone."
+    },
+    {
+      "q": "Meaning of <i>give up</i>:",
+      "options": [
+        "surrender / quit",
+        "begin",
+        "enter",
+        "travel"
+      ],
+      "answer": 0,
+      "solution": "To stop trying."
+    },
+    {
+      "q": "Meaning of <i>look after</i>:",
+      "options": [
+        "ignore",
+        "search",
+        "take care of",
+        "postpone"
+      ],
+      "answer": 2,
+      "solution": "To care for someone."
+    },
+    {
+      "q": "Meaning of <i>break down</i>:",
+      "options": [
+        "begin",
+        "fail / stop working",
+        "celebrate",
+        "assemble"
+      ],
+      "answer": 1,
+      "solution": "Machines break down; people break down (cry)."
+    },
+    {
+      "q": "Meaning of <i>a piece of cake</i>:",
+      "options": [
+        "difficult",
+        "very easy",
+        "tasty",
+        "boring"
+      ],
+      "answer": 1,
+      "solution": "Idiom = very easy."
+    },
+    {
+      "q": "Meaning of <i>burn the midnight oil</i>:",
+      "options": [
+        "waste time",
+        "study late",
+        "cook late",
+        "sleep early"
+      ],
+      "answer": 1,
+      "solution": "Work late into the night."
+    },
+    {
+      "q": "Meaning of <i>kick the bucket</i>:",
+      "options": [
+        "run",
+        "die",
+        "play",
+        "kick a ball"
+      ],
+      "answer": 1,
+      "solution": "Slang / idiom for die."
+    },
+    {
+      "q": "Meaning of <i>let the cat out of the bag</i>:",
+      "options": [
+        "free an animal",
+        "reveal a secret",
+        "lose a pet",
+        "tell a joke"
+      ],
+      "answer": 1,
+      "solution": "Reveal a secret."
+    },
+    {
+      "q": "Meaning of <i>bury the hatchet</i>:",
+      "options": [
+        "dig a grave",
+        "make peace",
+        "fight",
+        "hide a weapon"
+      ],
+      "answer": 1,
+      "solution": "Idiom = end a quarrel."
+    },
+    {
+      "q": "Meaning of <i>hit the books</i>:",
+      "options": [
+        "fight",
+        "study hard",
+        "travel",
+        "cook"
+      ],
+      "answer": 1,
+      "solution": "Study hard."
+    },
+    {
+      "q": "Which is the correct collocation?",
+      "options": [
+        "make a decision",
+        "do a decision",
+        "take a decision",
+        "give a decision"
+      ],
+      "answer": 0,
+      "solution": "'Make a decision' is standard; <i>take</i> is also used in British English."
+    },
+    {
+      "q": "Which collocation is correct?",
+      "options": [
+        "strong tea",
+        "powerful tea",
+        "heavy tea",
+        "hard tea"
+      ],
+      "answer": 0,
+      "solution": "'Strong tea' is standard."
+    },
+    {
+      "q": "Which collocation is correct?",
+      "options": [
+        "heavy rain",
+        "strong rain",
+        "big rain",
+        "hard rain"
+      ],
+      "answer": 0,
+      "solution": "'Heavy rain' is standard."
+    },
+    {
+      "q": "Which collocation is correct?",
+      "options": [
+        "catch a cold",
+        "take a cold",
+        "have a cold",
+        "get a cold"
+      ],
+      "answer": 0,
+      "solution": "'Catch a cold' is standard."
+    },
+    {
+      "q": "<i>Diagnosis</i> belongs to which register?",
+      "options": [
+        "Law",
+        "Medicine",
+        "ICT",
+        "Sports"
+      ],
+      "answer": 1,
+      "solution": "Diagnosis — medical."
+    },
+    {
+      "q": "<i>Encryption</i> belongs to which register?",
+      "options": [
+        "Law",
+        "Medicine",
+        "ICT",
+        "Agriculture"
+      ],
+      "answer": 2,
+      "solution": "Encryption — computing/ICT."
+    },
+    {
+      "q": "<i>Hypothesis</i> belongs to which register?",
+      "options": [
+        "Science",
+        "Medicine",
+        "Sports",
+        "Law"
+      ],
+      "answer": 0,
+      "solution": "Science."
+    },
+    {
+      "q": "<i>Prescription</i> is:",
+      "options": [
+        "a diet plan",
+        "written medical order",
+        "legal document",
+        "farming term"
+      ],
+      "answer": 1,
+      "solution": "Written order for medicine."
+    },
+    {
+      "q": "<i>Antibiotic</i> is used to treat:",
+      "options": [
+        "viruses",
+        "bacterial infections",
+        "fungi only",
+        "allergies"
+      ],
+      "answer": 1,
+      "solution": "Bacterial infections."
+    },
+    {
+      "q": "<i>Quarantine</i> means:",
+      "options": [
+        "treatment",
+        "isolation to prevent spread",
+        "surgery",
+        "vaccination"
+      ],
+      "answer": 1,
+      "solution": "Isolation."
+    },
+    {
+      "q": "<i>Symptom</i> is:",
+      "options": [
+        "cause of a disease",
+        "sign of a disease",
+        "cure",
+        "test"
+      ],
+      "answer": 1,
+      "solution": "A sign of illness."
+    },
+    {
+      "q": "<i>Malware</i> refers to:",
+      "options": [
+        "hardware",
+        "harmful software",
+        "email",
+        "cable"
+      ],
+      "answer": 1,
+      "solution": "Malicious software."
+    },
+    {
+      "q": "<i>Firewall</i> in ICT is:",
+      "options": [
+        "a physical wall",
+        "security software / hardware to block threats",
+        "a virus",
+        "a printer"
+      ],
+      "answer": 1,
+      "solution": "Blocks unauthorised access."
+    },
+    {
+      "q": "<i>Bandwidth</i> refers to:",
+      "options": [
+        "file size",
+        "data transfer capacity",
+        "screen size",
+        "printer speed"
+      ],
+      "answer": 1,
+      "solution": "Capacity of a network."
+    },
+    {
+      "q": "<i>Database</i> is:",
+      "options": [
+        "a printer",
+        "organised store of data",
+        "virus",
+        "internet cable"
+      ],
+      "answer": 1,
+      "solution": "Organised collection of data."
+    },
+    {
+      "q": "<i>Compound</i> in Science means:",
+      "options": [
+        "a residential enclosure",
+        "a substance from two or more elements chemically joined",
+        "a mixture",
+        "an element"
+      ],
+      "answer": 1,
+      "solution": "Chemistry sense; the residence sense is another meaning."
+    },
+    {
+      "q": "<i>Catalyst</i> is:",
+      "options": [
+        "a slow substance",
+        "a substance that speeds a reaction",
+        "a solid only",
+        "a fuel"
+      ],
+      "answer": 1,
+      "solution": "Speeds a reaction without being used up."
+    },
+    {
+      "q": "Meaning of the idiom <i>a bolt from the blue</i>:",
+      "options": [
+        "a lightning storm",
+        "an unexpected event",
+        "a strong bolt",
+        "a slow event"
+      ],
+      "answer": 1,
+      "solution": "Sudden surprise."
+    },
+    {
+      "q": "Meaning of the idiom <i>once in a blue moon</i>:",
+      "options": [
+        "always",
+        "never",
+        "very rarely",
+        "monthly"
+      ],
+      "answer": 2,
+      "solution": "Very rarely."
+    },
+    {
+      "q": "Meaning of the idiom <i>through thick and thin</i>:",
+      "options": [
+        "only when things are easy",
+        "in all circumstances",
+        "by force",
+        "secretly"
+      ],
+      "answer": 1,
+      "solution": "In all circumstances."
+    },
+    {
+      "q": "<i>Take after</i> means:",
+      "options": [
+        "resemble",
+        "chase",
+        "pursue",
+        "imitate on purpose"
+      ],
+      "answer": 0,
+      "solution": "To resemble (a parent, etc.)."
+    },
+    {
+      "q": "<i>Turn down</i> means:",
+      "options": [
+        "accept",
+        "reject",
+        "lower",
+        "invite"
+      ],
+      "answer": 1,
+      "solution": "To reject; also to lower volume."
+    },
+    {
+      "q": "<i>Bring up</i> a child means:",
+      "options": [
+        "carry up",
+        "raise",
+        "punish",
+        "teach at school"
+      ],
+      "answer": 1,
+      "solution": "Raise a child."
+    },
+    {
+      "q": "<i>Run into</i> an old friend means:",
+      "options": [
+        "hit",
+        "meet by chance",
+        "argue",
+        "avoid"
+      ],
+      "answer": 1,
+      "solution": "Meet by chance."
+    },
+    {
+      "q": "<i>Look up</i> a word means:",
+      "options": [
+        "ignore",
+        "search in a reference",
+        "copy",
+        "write"
+      ],
+      "answer": 1,
+      "solution": "Search in a dictionary."
+    },
+    {
+      "q": "Which is a homophone of <i>flower</i>?",
+      "options": [
+        "flour",
+        "floor",
+        "flow",
+        "flew"
+      ],
+      "answer": 0,
+      "solution": "<i>Flower / flour</i> sound alike."
+    },
+    {
+      "q": "Which is a homophone of <i>peace</i>?",
+      "options": [
+        "piece",
+        "pace",
+        "pass",
+        "peas"
+      ],
+      "answer": 0,
+      "solution": "Same sound."
+    },
+    {
+      "q": "Which is a homophone of <i>knight</i>?",
+      "options": [
+        "night",
+        "kite",
+        "knee",
+        "note"
+      ],
+      "answer": 0,
+      "solution": "Sound alike."
+    },
+    {
+      "q": "Which is a homophone of <i>meet</i>?",
+      "options": [
+        "meat",
+        "mate",
+        "mete",
+        "met"
+      ],
+      "answer": 0,
+      "solution": "Sound alike."
+    },
+    {
+      "q": "Which pair are correct collocations?",
+      "options": [
+        "fast food / quick food",
+        "fast food only",
+        "quick food only",
+        "both wrong"
+      ],
+      "answer": 1,
+      "solution": "'Fast food' is the fixed collocation."
+    },
+    {
+      "q": "Which pair are correct collocations?",
+      "options": [
+        "make a mistake",
+        "do a mistake",
+        "take a mistake",
+        "have a mistake"
+      ],
+      "answer": 0,
+      "solution": "'Make a mistake' is standard."
+    },
+    {
+      "q": "<i>Cloud</i> in ICT means:",
+      "options": [
+        "a weather cloud",
+        "internet-hosted computing storage",
+        "dust",
+        "a name"
+      ],
+      "answer": 1,
+      "solution": "Remote servers/storage."
+    },
+    {
+      "q": "<i>Epidemic</i> refers to:",
+      "options": [
+        "a single illness",
+        "disease affecting many at once in an area",
+        "a cure",
+        "a doctor"
+      ],
+      "answer": 1,
+      "solution": "Wide outbreak of disease."
+    },
+    {
+      "q": "<i>Prognosis</i> means:",
+      "options": [
+        "diagnosis",
+        "forecast of illness course",
+        "cure",
+        "test"
+      ],
+      "answer": 1,
+      "solution": "Prediction of how a disease will develop."
+    },
+    {
+      "q": "<i>Algorithm</i> is:",
+      "options": [
+        "a musical rhythm",
+        "a step-by-step problem-solving procedure",
+        "a virus",
+        "a printer"
+      ],
+      "answer": 1,
+      "solution": "A defined set of steps."
+    }
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "subject": "English",
+  "level": "SSS 3",
+  "slug": "comprehension-summary",
+  "title": "Comprehension and Summary",
+  "outline": [
+    "Types of comprehension question",
+    "Answering strategy",
+    "Complex summary rules",
+    "Word-limit trimming",
+    "Tone, purpose and rhetorical devices"
+  ],
+  "modules": [
+    {
+      "title": "Answering past-paper comprehension questions",
+      "html": "<p>SSS 3 comprehension is examination-style. Question types include:</p>\n  <ul>\n    <li><b>Factual</b> — the answer is stated in the passage. Copy or paraphrase.</li>\n    <li><b>Inference</b> — you must deduce from clues.</li>\n    <li><b>Vocabulary in context</b> — choose the meaning that fits the passage.</li>\n    <li><b>Grammatical name / function</b> — name a phrase or clause and give its function (e.g. 'noun clause acting as object of the verb <i>said</i>').</li>\n    <li><b>Author's purpose / tone</b> — identify why the writer wrote and how they feel.</li>\n    <li><b>Figures of speech</b> — identify and briefly explain.</li>\n  </ul>\n  <h4>Answering strategy</h4>\n  <ol><li>Read the question first; then read the passage twice.</li>\n  <li>Underline the relevant words in the passage.</li>\n  <li>Answer in complete sentences; do not lift long sections verbatim unless asked.</li></ol>",
+      "examples": [
+        {
+          "q": "How would you answer a 'grammatical name and function' question?",
+          "a": "Name the type of construction (e.g. adverbial clause of reason), then state what it modifies (e.g. modifies the verb <i>stayed</i>)."
+        }
+      ]
+    },
+    {
+      "title": "Complex summary tasks and word limits",
+      "html": "<p>SSS 3 summaries carry strict rules. Follow the exact number and type of points asked. Stay within the word limit.</p>\n  <h4>Method</h4>\n  <ol>\n    <li>Read the passage twice; underline the ideas that answer the question.</li>\n    <li>Group related ideas; drop repetitions and examples.</li>\n    <li>Rewrite in your own words as short, clear sentences.</li>\n    <li>Count the words; trim redundancies (<i>each and every → each</i>, <i>due to the fact that → because</i>).</li>\n    <li>Never add opinion; never introduce information not in the passage.</li>\n  </ol>\n  <p>Answer <b>exactly</b> the number of points required. Extras may be ignored or, worse, penalised.</p>",
+      "examples": [
+        {
+          "q": "If a question asks for three reasons the writer opposes gambling and you list five, what happens?",
+          "a": "Examiners usually mark only the first three; extras waste time and can dilute quality."
+        }
+      ]
+    },
+    {
+      "title": "Detecting tone, purpose and figurative devices",
+      "html": "<p><b>Tone</b> is the writer's attitude — critical, sarcastic, admiring, alarmed, nostalgic, humorous, urgent, sombre.</p>\n  <p><b>Purpose</b> — to inform, persuade, entertain, warn, praise.</p>\n  <p>Watch out for:</p>\n  <ul>\n    <li><b>Irony</b> — words meaning the opposite of what is said.</li>\n    <li><b>Sarcasm</b> — biting mockery.</li>\n    <li><b>Rhetorical questions</b> — used for effect.</li>\n    <li><b>Repetition</b> and <b>parallelism</b> — for emphasis.</li>\n    <li><b>Symbolism</b> — an object standing for an idea.</li>\n  </ul>",
+      "examples": [
+        {
+          "q": "Identify the device: <i>Ask not what your country can do for you; ask what you can do for your country.</i>",
+          "a": "Parallelism and antithesis — parallel structure with contrasting halves."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "A 'grammatical name' question expects you to state:",
+      "options": [
+        "the meaning",
+        "the type of phrase/clause and its function",
+        "the writer's name",
+        "the number of paragraphs"
+      ],
+      "answer": 1,
+      "solution": "Name + function."
+    },
+    {
+      "q": "If asked for three reasons, you should give:",
+      "options": [
+        "as many as you can",
+        "exactly three",
+        "only one",
+        "five"
+      ],
+      "answer": 1,
+      "solution": "Only three."
+    },
+    {
+      "q": "Word-limit trimming can start by removing:",
+      "options": [
+        "main verbs",
+        "redundancies (e.g. 'each and every')",
+        "conjunctions",
+        "punctuation"
+      ],
+      "answer": 1,
+      "solution": "Cut redundancies."
+    },
+    {
+      "q": "<i>Due to the fact that</i> can be shortened to:",
+      "options": [
+        "because",
+        "although",
+        "however",
+        "therefore"
+      ],
+      "answer": 0,
+      "solution": "Concise substitute."
+    },
+    {
+      "q": "Which tone signals warning?",
+      "options": [
+        "cheerful",
+        "serious/urgent",
+        "romantic",
+        "sarcastic"
+      ],
+      "answer": 1,
+      "solution": "Serious warnings sound urgent."
+    },
+    {
+      "q": "Which is a rhetorical device?",
+      "options": [
+        "parallelism",
+        "stanza",
+        "alliteration only",
+        "dialogue"
+      ],
+      "answer": 0,
+      "solution": "Parallelism repeats structure."
+    },
+    {
+      "q": "<i>Ask not what your country…</i> uses:",
+      "options": [
+        "metaphor",
+        "parallelism/antithesis",
+        "simile",
+        "irony"
+      ],
+      "answer": 1,
+      "solution": "Parallel structure."
+    },
+    {
+      "q": "<i>Great! I love missing the bus.</i> shows:",
+      "options": [
+        "sarcasm",
+        "admiration",
+        "praise",
+        "warning"
+      ],
+      "answer": 0,
+      "solution": "Meaning opposite of literal."
+    },
+    {
+      "q": "A factual comprehension question is best answered by:",
+      "options": [
+        "inference",
+        "direct reference to the passage",
+        "personal opinion",
+        "other passages"
+      ],
+      "answer": 1,
+      "solution": "Refer to the text."
+    },
+    {
+      "q": "Vocabulary-in-context requires you to:",
+      "options": [
+        "give the dictionary meaning",
+        "pick the meaning that fits the sentence",
+        "list synonyms",
+        "translate"
+      ],
+      "answer": 1,
+      "solution": "Meaning in the sentence."
+    },
+    {
+      "q": "Which of these is a passage-based inference?",
+      "options": [
+        "Copying a fact",
+        "Deducing an unstated conclusion",
+        "Adding opinion",
+        "Guessing wildly"
+      ],
+      "answer": 1,
+      "solution": "Deduction from clues."
+    },
+    {
+      "q": "Which is <u>not</u> a valid tone?",
+      "options": [
+        "nostalgic",
+        "urgent",
+        "onomatopoeia",
+        "admiring"
+      ],
+      "answer": 2,
+      "solution": "Onomatopoeia is a device, not a tone."
+    },
+    {
+      "q": "Which is a purpose of writing?",
+      "options": [
+        "to bore",
+        "to inform / persuade / entertain",
+        "to punctuate",
+        "to fill space"
+      ],
+      "answer": 1,
+      "solution": "Purposes of writing."
+    },
+    {
+      "q": "<i>Passed away</i> is a:",
+      "options": [
+        "euphemism",
+        "idiom",
+        "metaphor",
+        "rhetorical question"
+      ],
+      "answer": 0,
+      "solution": "Mild expression for died."
+    },
+    {
+      "q": "Which shows repetition for emphasis?",
+      "options": [
+        "We must fight. We must fight. We must fight.",
+        "She walked.",
+        "He ate.",
+        "It rained."
+      ],
+      "answer": 0,
+      "solution": "Repetition."
+    },
+    {
+      "q": "A sentence with figures of speech in comprehension should be answered by:",
+      "options": [
+        "copying",
+        "naming and explaining the effect",
+        "translating",
+        "ignoring"
+      ],
+      "answer": 1,
+      "solution": "Name + explain."
+    },
+    {
+      "q": "Which sentence uses irony?",
+      "options": [
+        "The rain fell.",
+        "How lovely — my car has broken down again.",
+        "Ada is tall.",
+        "We ate lunch."
+      ],
+      "answer": 1,
+      "solution": "Positive words for a negative event."
+    },
+    {
+      "q": "A summary of an argumentative passage should list:",
+      "options": [
+        "descriptions",
+        "arguments/reasons",
+        "narratives",
+        "dialogues"
+      ],
+      "answer": 1,
+      "solution": "Reasons."
+    },
+    {
+      "q": "An 'author's purpose' question requires:",
+      "options": [
+        "identify why the passage was written",
+        "count paragraphs",
+        "list characters",
+        "translate"
+      ],
+      "answer": 0,
+      "solution": "Purpose."
+    },
+    {
+      "q": "Which is a signal of contrast in a passage?",
+      "options": [
+        "moreover",
+        "however",
+        "therefore",
+        "because"
+      ],
+      "answer": 1,
+      "solution": "'However'."
+    },
+    {
+      "q": "Grammatical name for <i>who saved the child</i> in <i>The boy who saved the child was rewarded</i>:",
+      "options": [
+        "noun clause",
+        "adjectival clause",
+        "adverbial clause",
+        "main clause"
+      ],
+      "answer": 1,
+      "solution": "Modifies 'boy'."
+    },
+    {
+      "q": "Function of the same clause:",
+      "options": [
+        "subject of the sentence",
+        "object of the verb",
+        "modifies the noun 'boy'",
+        "modifies the verb 'was rewarded'"
+      ],
+      "answer": 2,
+      "solution": "Adjectival — modifies 'boy'."
+    },
+    {
+      "q": "Grammatical name for <i>because it was raining</i>:",
+      "options": [
+        "noun clause",
+        "adjectival clause",
+        "adverbial clause of reason",
+        "main clause"
+      ],
+      "answer": 2,
+      "solution": "Adverbial (reason)."
+    },
+    {
+      "q": "Function of the same clause in <i>We stayed indoors because it was raining</i>:",
+      "options": [
+        "modifies the noun 'indoors'",
+        "modifies the verb 'stayed'",
+        "subject",
+        "complement"
+      ],
+      "answer": 1,
+      "solution": "Adverbial — modifies verb 'stayed'."
+    },
+    {
+      "q": "Grammatical name for <i>What he said</i> in <i>What he said surprised us</i>:",
+      "options": [
+        "noun clause (subject)",
+        "adjectival clause",
+        "adverbial clause",
+        "main clause"
+      ],
+      "answer": 0,
+      "solution": "Noun clause acting as subject."
+    },
+    {
+      "q": "A summary sentence should be:",
+      "options": [
+        "long",
+        "concise and clear",
+        "in bullet only",
+        "in dialogue"
+      ],
+      "answer": 1,
+      "solution": "Concise."
+    },
+    {
+      "q": "A poor summary technique:",
+      "options": [
+        "paraphrasing",
+        "adding new examples",
+        "reading carefully",
+        "using linkers"
+      ],
+      "answer": 1,
+      "solution": "Do not add outside info."
+    },
+    {
+      "q": "Which linker best joins two related summary sentences?",
+      "options": [
+        "and / also",
+        "however",
+        "because",
+        "therefore"
+      ],
+      "answer": 0,
+      "solution": "Adds a linked point."
+    },
+    {
+      "q": "A one-line summary is called a:",
+      "options": [
+        "gist / précis",
+        "paragraph",
+        "dialogue",
+        "monologue"
+      ],
+      "answer": 0,
+      "solution": "Gist/precis."
+    },
+    {
+      "q": "Which is <u>not</u> a summary question type?",
+      "options": [
+        "give three reasons",
+        "give four ways",
+        "identify the tone",
+        "give five effects"
+      ],
+      "answer": 2,
+      "solution": "Tone is a comprehension question, not a summary task."
+    },
+    {
+      "q": "Choose the concise equivalent of <i>in view of the fact that</i>:",
+      "options": [
+        "although",
+        "because",
+        "however",
+        "besides"
+      ],
+      "answer": 1,
+      "solution": "= because."
+    },
+    {
+      "q": "Concise equivalent of <i>at this point in time</i>:",
+      "options": [
+        "always",
+        "now",
+        "never",
+        "soon"
+      ],
+      "answer": 1,
+      "solution": "= now."
+    },
+    {
+      "q": "Concise equivalent of <i>the majority of</i>:",
+      "options": [
+        "some",
+        "most",
+        "few",
+        "many"
+      ],
+      "answer": 1,
+      "solution": "= most."
+    },
+    {
+      "q": "Meaning of <i>succinct</i>:",
+      "options": [
+        "long",
+        "concise",
+        "boring",
+        "complex"
+      ],
+      "answer": 1,
+      "solution": "= brief and clear."
+    },
+    {
+      "q": "Meaning of <i>verbose</i>:",
+      "options": [
+        "silent",
+        "wordy",
+        "clear",
+        "short"
+      ],
+      "answer": 1,
+      "solution": "= too wordy."
+    },
+    {
+      "q": "An examiner will penalise summaries that:",
+      "options": [
+        "are in prose",
+        "obey the word limit",
+        "exceed the word limit",
+        "use own words"
+      ],
+      "answer": 2,
+      "solution": "Word limit matters."
+    },
+    {
+      "q": "Which device does <i>She sells sea-shells on the sea-shore</i> employ?",
+      "options": [
+        "alliteration",
+        "metaphor",
+        "irony",
+        "personification"
+      ],
+      "answer": 0,
+      "solution": "Alliteration."
+    },
+    {
+      "q": "Which device does <i>Life is a stage</i> employ?",
+      "options": [
+        "simile",
+        "metaphor",
+        "hyperbole",
+        "irony"
+      ],
+      "answer": 1,
+      "solution": "Metaphor."
+    },
+    {
+      "q": "Which device does <i>as light as a feather</i> employ?",
+      "options": [
+        "simile",
+        "metaphor",
+        "personification",
+        "hyperbole"
+      ],
+      "answer": 0,
+      "solution": "Simile."
+    },
+    {
+      "q": "Which device does <i>the sun peeped through the clouds</i> employ?",
+      "options": [
+        "metaphor",
+        "personification",
+        "irony",
+        "litotes"
+      ],
+      "answer": 1,
+      "solution": "Personification."
+    },
+    {
+      "q": "Which is <u>not</u> a legitimate summary source?",
+      "options": [
+        "passage",
+        "your general knowledge",
+        "the writer's implied point",
+        "the writer's stated point"
+      ],
+      "answer": 1,
+      "solution": "Only use the passage."
+    },
+    {
+      "q": "Best synonym of <i>brief</i>:",
+      "options": [
+        "long",
+        "succinct",
+        "complex",
+        "dull"
+      ],
+      "answer": 1,
+      "solution": "= succinct."
+    },
+    {
+      "q": "Which sentence is most concise?",
+      "options": [
+        "Due to the fact that she was tired, she slept.",
+        "Because she was tired, she slept.",
+        "In view of tiredness, she slept.",
+        "She slept for the reason of tiredness."
+      ],
+      "answer": 1,
+      "solution": "Direct use of 'because'."
+    },
+    {
+      "q": "Which sentence is passive?",
+      "options": [
+        "The letter was sent.",
+        "She sent the letter.",
+        "She writes letters.",
+        "Send the letter."
+      ],
+      "answer": 0,
+      "solution": "'Was sent' = passive."
+    },
+    {
+      "q": "Change to active voice: <i>The prize was won by Ada.</i>",
+      "options": [
+        "Ada won the prize.",
+        "Ada was won by the prize.",
+        "Ada is winning.",
+        "Ada has been won."
+      ],
+      "answer": 0,
+      "solution": "Straightforward active."
+    },
+    {
+      "q": "Which device: <i>Ask not… ask</i> (repeating structure)?",
+      "options": [
+        "chiasmus/parallelism",
+        "hyperbole",
+        "irony",
+        "litotes"
+      ],
+      "answer": 0,
+      "solution": "Parallelism (with chiasmus)."
+    },
+    {
+      "q": "Reading strategy for exam comprehension: first…",
+      "options": [
+        "answer",
+        "read the passage twice",
+        "translate",
+        "summarise"
+      ],
+      "answer": 1,
+      "solution": "Read carefully first."
+    },
+    {
+      "q": "Which is a valid comprehension answer style?",
+      "options": [
+        "complete sentences",
+        "note form only",
+        "in dialogue",
+        "only phrases"
+      ],
+      "answer": 0,
+      "solution": "Complete sentences preferred."
+    },
+    {
+      "q": "Which is a rhetorical question?",
+      "options": [
+        "What time is it?",
+        "Isn't it time we said enough is enough?",
+        "Where is the market?",
+        "How much does it cost?"
+      ],
+      "answer": 1,
+      "solution": "Asked for effect."
+    },
+    {
+      "q": "<i>She entered noiselessly.</i> The word <i>noiselessly</i> is a:",
+      "options": [
+        "noun",
+        "verb",
+        "adverb",
+        "adjective"
+      ],
+      "answer": 2,
+      "solution": "Adverb of manner."
+    }
+  ]
+}

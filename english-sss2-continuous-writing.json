@@ -1,0 +1,596 @@
+{
+  "subject": "English",
+  "level": "SSS 2",
+  "slug": "continuous-writing",
+  "title": "Continuous Writing",
+  "outline": [
+    "Structuring an argumentative essay",
+    "Expository essay patterns",
+    "Formal letter layout and tone",
+    "Complimentary closes and register"
+  ],
+  "modules": [
+    {
+      "title": "Argumentative essay",
+      "html": "<p>An <b>argumentative essay</b> presents a position on a topic and defends it with reasons and evidence. It has a clear <b>thesis</b>, gives well-organised <b>arguments</b>, considers <b>counter-arguments</b>, and ends with a firm <b>conclusion</b>.</p>\n  <h4>Layout</h4>\n  <ol>\n    <li><b>Introduction</b> — background + thesis statement + your stand.</li>\n    <li><b>Body</b> — one argument per paragraph, each with a topic sentence, evidence and explanation.</li>\n    <li><b>Counter-argument</b> — briefly present the other side and refute it.</li>\n    <li><b>Conclusion</b> — restate the thesis; summarise reasons; issue a call to action.</li>\n  </ol>\n  <p>Use linking words: <i>firstly, in addition, moreover, however, on the other hand, in conclusion.</i> Keep the tone firm but polite; avoid slang.</p>",
+      "examples": [
+        {
+          "q": "State a thesis for the topic 'Boarding schools are better than day schools'.",
+          "a": "e.g. <i>I strongly support the view that boarding schools are better than day schools because they build discipline, independence and academic focus.</i>"
+        }
+      ]
+    },
+    {
+      "title": "Expository essay",
+      "html": "<p>An <b>expository essay</b> explains, defines or informs. It is factual, objective and orderly.</p>\n  <h4>Common patterns</h4>\n  <ul>\n    <li><b>Process</b>: how something is done (steps in order).</li>\n    <li><b>Cause and effect</b>: reasons and their results.</li>\n    <li><b>Comparison and contrast</b>: similarities and differences.</li>\n    <li><b>Classification</b>: dividing into categories.</li>\n    <li><b>Definition</b>: what a term means, with examples.</li>\n  </ul>\n  <h4>Tips</h4>\n  <ul><li>Begin with a clear thesis: what will be explained.</li>\n  <li>Support each point with facts or examples.</li>\n  <li>Use transitions to move from one point to the next.</li></ul>",
+      "examples": [
+        {
+          "q": "Suggest a thesis for the essay 'How to prepare for an examination'.",
+          "a": "e.g. <i>Effective examination preparation involves planning early, mastering the syllabus, practising past questions and staying healthy.</i>"
+        }
+      ]
+    },
+    {
+      "title": "Formal and semi-formal letters",
+      "html": "<p>Formal letters follow a strict layout; semi-formal letters (to teachers, older acquaintances) relax it slightly.</p>\n  <h4>Formal letter parts</h4>\n  <ol>\n    <li>Writer's address — top right.</li>\n    <li>Date — below writer's address.</li>\n    <li>Recipient's address — top left.</li>\n    <li>Salutation — <i>Dear Sir / Madam,</i> or <i>Dear Mr Adamu,</i></li>\n    <li>Subject / Heading — a short line stating the purpose (often underlined).</li>\n    <li>Body — introduction, details, conclusion.</li>\n    <li>Complimentary close — <i>Yours faithfully,</i> (with <i>Dear Sir/Madam</i>) or <i>Yours sincerely,</i> (with <i>Dear Mr X</i>).</li>\n    <li>Signature and typed name.</li>\n  </ol>\n  <p>Tone: courteous, direct and objective; no contractions or slang.</p>",
+      "examples": [
+        {
+          "q": "Which complimentary close pairs with <i>Dear Sir</i>?",
+          "a": "<i>Yours faithfully,</i>"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "An argumentative essay aims to:",
+      "options": [
+        "describe",
+        "persuade",
+        "tell a story",
+        "narrate"
+      ],
+      "answer": 1,
+      "solution": "Persuade with reasons."
+    },
+    {
+      "q": "The introduction of an argumentative essay must contain a:",
+      "options": [
+        "joke",
+        "thesis statement",
+        "conclusion",
+        "dialogue"
+      ],
+      "answer": 1,
+      "solution": "A clear thesis."
+    },
+    {
+      "q": "Which is a linking word for addition?",
+      "options": [
+        "moreover",
+        "however",
+        "although",
+        "therefore"
+      ],
+      "answer": 0,
+      "solution": "Moreover adds."
+    },
+    {
+      "q": "Which linker signals contrast?",
+      "options": [
+        "however",
+        "besides",
+        "moreover",
+        "also"
+      ],
+      "answer": 0,
+      "solution": "<i>However</i> = contrast."
+    },
+    {
+      "q": "Which linker gives a conclusion?",
+      "options": [
+        "in conclusion",
+        "for instance",
+        "because",
+        "after that"
+      ],
+      "answer": 0,
+      "solution": "<i>In conclusion</i> ends."
+    },
+    {
+      "q": "An expository essay is mostly:",
+      "options": [
+        "fictional",
+        "factual and explanatory",
+        "emotional",
+        "narrative"
+      ],
+      "answer": 1,
+      "solution": "Explanatory."
+    },
+    {
+      "q": "A process essay is organised by:",
+      "options": [
+        "random order",
+        "time / step order",
+        "importance only",
+        "alphabetical order"
+      ],
+      "answer": 1,
+      "solution": "Steps in order."
+    },
+    {
+      "q": "A cause-and-effect essay explains:",
+      "options": [
+        "a story",
+        "how one event leads to another",
+        "how something looks",
+        "how people feel only"
+      ],
+      "answer": 1,
+      "solution": "Causes and their effects."
+    },
+    {
+      "q": "A comparison essay looks at:",
+      "options": [
+        "only differences",
+        "only similarities",
+        "similarities and differences",
+        "only causes"
+      ],
+      "answer": 2,
+      "solution": "Both similarities and differences."
+    },
+    {
+      "q": "A formal letter salutation to an unknown official is:",
+      "options": [
+        "Dear friend,",
+        "Dear Sir/Madam,",
+        "Hi there,",
+        "Hello,"
+      ],
+      "answer": 1,
+      "solution": "When name unknown."
+    },
+    {
+      "q": "Complimentary close for <i>Dear Sir/Madam</i>:",
+      "options": [
+        "Yours sincerely,",
+        "Yours faithfully,",
+        "Your friend,",
+        "Cheers,"
+      ],
+      "answer": 1,
+      "solution": "British convention."
+    },
+    {
+      "q": "Complimentary close for <i>Dear Mr Adamu</i>:",
+      "options": [
+        "Yours faithfully,",
+        "Yours sincerely,",
+        "Yours truly,",
+        "Your friend,"
+      ],
+      "answer": 1,
+      "solution": "With named recipient."
+    },
+    {
+      "q": "Formal letters avoid:",
+      "options": [
+        "objective language",
+        "contractions and slang",
+        "subject lines",
+        "polite tone"
+      ],
+      "answer": 1,
+      "solution": "No contractions/slang."
+    },
+    {
+      "q": "Which is the correct order for a formal letter?",
+      "options": [
+        "date, writer's address, recipient's address, salutation",
+        "writer's address, date, recipient's address, salutation",
+        "recipient's address, writer's address, date, salutation",
+        "salutation, writer's address, date, recipient's address"
+      ],
+      "answer": 1,
+      "solution": "Standard order."
+    },
+    {
+      "q": "Which paragraph of an argumentative essay presents the other side?",
+      "options": [
+        "introduction",
+        "conclusion",
+        "counter-argument",
+        "body"
+      ],
+      "answer": 2,
+      "solution": "Counter-argument paragraph."
+    },
+    {
+      "q": "A thesis statement is:",
+      "options": [
+        "a question",
+        "a one-sentence summary of the writer's position",
+        "a title",
+        "an example"
+      ],
+      "answer": 1,
+      "solution": "Position statement."
+    },
+    {
+      "q": "Which is <u>not</u> a feature of a good argument paragraph?",
+      "options": [
+        "topic sentence",
+        "evidence",
+        "explanation",
+        "opinion without support"
+      ],
+      "answer": 3,
+      "solution": "Every claim needs support."
+    },
+    {
+      "q": "Which is a strong opening for an argumentative essay?",
+      "options": [
+        "The topic is interesting.",
+        "In an era where …, the case for … has never been stronger.",
+        "I want to write.",
+        "There are many things to say."
+      ],
+      "answer": 1,
+      "solution": "Contextual + firm entry."
+    },
+    {
+      "q": "Which is the best conclusion?",
+      "options": [
+        "restate thesis + summarise reasons + call to action",
+        "introduce new points",
+        "apologise for length",
+        "list references"
+      ],
+      "answer": 0,
+      "solution": "Standard conclusion."
+    },
+    {
+      "q": "Which is a semi-formal letter?",
+      "options": [
+        "letter to your friend",
+        "letter to your teacher",
+        "letter to a company",
+        "business letter to a stranger"
+      ],
+      "answer": 1,
+      "solution": "To a teacher — semi-formal."
+    },
+    {
+      "q": "Which of these is <u>not</u> appropriate in a formal letter?",
+      "options": [
+        "Yours faithfully,",
+        "I am writing to…",
+        "BTW, please…",
+        "subject line"
+      ],
+      "answer": 2,
+      "solution": "'BTW' is slang."
+    },
+    {
+      "q": "An expository essay 'How to make jollof rice' is organised by:",
+      "options": [
+        "comparison",
+        "classification",
+        "process (steps)",
+        "argument"
+      ],
+      "answer": 2,
+      "solution": "Steps in order."
+    },
+    {
+      "q": "A definition essay explains:",
+      "options": [
+        "a process",
+        "the meaning of a term with examples",
+        "two sides",
+        "a cause"
+      ],
+      "answer": 1,
+      "solution": "Explains meaning."
+    },
+    {
+      "q": "A classification essay divides:",
+      "options": [
+        "a topic into categories",
+        "a paragraph into sentences",
+        "a letter into paragraphs",
+        "numbers into digits"
+      ],
+      "answer": 0,
+      "solution": "Categorising."
+    },
+    {
+      "q": "Which is a well-chosen thesis for 'Cell phones do more harm than good in schools'?",
+      "options": [
+        "Phones are useful.",
+        "Although cell phones have some benefits, their harm outweighs their good in schools.",
+        "I like phones.",
+        "Phones exist."
+      ],
+      "answer": 1,
+      "solution": "Concedes and states position."
+    },
+    {
+      "q": "Which linker introduces an example?",
+      "options": [
+        "for instance",
+        "however",
+        "because",
+        "although"
+      ],
+      "answer": 0,
+      "solution": "<i>For instance</i> gives example."
+    },
+    {
+      "q": "Which linker shows cause?",
+      "options": [
+        "because",
+        "although",
+        "however",
+        "besides"
+      ],
+      "answer": 0,
+      "solution": "Cause = because."
+    },
+    {
+      "q": "Which linker shows result?",
+      "options": [
+        "therefore",
+        "although",
+        "yet",
+        "however"
+      ],
+      "answer": 0,
+      "solution": "Therefore = result."
+    },
+    {
+      "q": "Which linker shows time order?",
+      "options": [
+        "afterwards",
+        "however",
+        "although",
+        "because"
+      ],
+      "answer": 0,
+      "solution": "Time linker."
+    },
+    {
+      "q": "Which is <u>not</u> part of a formal letter?",
+      "options": [
+        "subject line",
+        "greetings to the family",
+        "complimentary close",
+        "salutation"
+      ],
+      "answer": 1,
+      "solution": "Personal greetings belong to informal letters."
+    },
+    {
+      "q": "An argumentative essay usually has:",
+      "options": [
+        "one paragraph",
+        "five to seven paragraphs",
+        "only two paragraphs",
+        "one long sentence"
+      ],
+      "answer": 1,
+      "solution": "Intro + body + counter + conclusion."
+    },
+    {
+      "q": "Which is <u>not</u> a rhetorical device for persuasion?",
+      "options": [
+        "appeal to reason",
+        "appeal to emotion",
+        "statistics",
+        "random gossip"
+      ],
+      "answer": 3,
+      "solution": "Gossip is not evidence."
+    },
+    {
+      "q": "Formal letters use:",
+      "options": [
+        "contractions freely",
+        "full forms (do not, cannot)",
+        "slang",
+        "emojis"
+      ],
+      "answer": 1,
+      "solution": "No contractions."
+    },
+    {
+      "q": "Subject lines in formal letters help to:",
+      "options": [
+        "decorate",
+        "state the purpose immediately",
+        "confuse",
+        "greet"
+      ],
+      "answer": 1,
+      "solution": "Announce purpose."
+    },
+    {
+      "q": "Which best introduces a formal complaint letter?",
+      "options": [
+        "Hey there,",
+        "I hope you are well.",
+        "I write to bring to your attention…",
+        "LOL,"
+      ],
+      "answer": 2,
+      "solution": "Direct, formal."
+    },
+    {
+      "q": "Which best closes a formal complaint letter?",
+      "options": [
+        "Thanks a lot!",
+        "I look forward to your prompt response.",
+        "Bye,",
+        "See ya,"
+      ],
+      "answer": 1,
+      "solution": "Formal expectation."
+    },
+    {
+      "q": "A well-structured body paragraph in an argumentative essay follows the pattern:",
+      "options": [
+        "evidence, evidence, evidence",
+        "topic sentence → evidence → explanation → link",
+        "random ideas",
+        "opinion → opinion"
+      ],
+      "answer": 1,
+      "solution": "TEEL / PEEL structure."
+    },
+    {
+      "q": "Which is a fallacy?",
+      "options": [
+        "citing statistics",
+        "attacking the person, not the argument (ad hominem)",
+        "using a quotation",
+        "giving examples"
+      ],
+      "answer": 1,
+      "solution": "Ad hominem is a logical fallacy."
+    },
+    {
+      "q": "A good expository essay uses tone that is:",
+      "options": [
+        "emotional",
+        "objective and clear",
+        "angry",
+        "poetic"
+      ],
+      "answer": 1,
+      "solution": "Objective."
+    },
+    {
+      "q": "The most formal complimentary close is:",
+      "options": [
+        "Cheers",
+        "Yours faithfully",
+        "Best",
+        "Hugs"
+      ],
+      "answer": 1,
+      "solution": "'Yours faithfully' is most formal."
+    },
+    {
+      "q": "Which is <u>not</u> a good practice in argumentative writing?",
+      "options": [
+        "citing examples",
+        "acknowledging the other side",
+        "using name-calling",
+        "using linking words"
+      ],
+      "answer": 2,
+      "solution": "Name-calling weakens argument."
+    },
+    {
+      "q": "A body paragraph should discuss:",
+      "options": [
+        "several unrelated points",
+        "one clear point supported with evidence",
+        "only questions",
+        "only quotations"
+      ],
+      "answer": 1,
+      "solution": "One idea per paragraph."
+    },
+    {
+      "q": "A good expository thesis for 'Effects of climate change in Nigeria' would list:",
+      "options": [
+        "only opinions",
+        "the main effects to be explained",
+        "the writer's plans",
+        "a story"
+      ],
+      "answer": 1,
+      "solution": "Main effects to be discussed."
+    },
+    {
+      "q": "Which is <u>not</u> a linker of consequence?",
+      "options": [
+        "therefore",
+        "hence",
+        "thus",
+        "however"
+      ],
+      "answer": 3,
+      "solution": "<i>However</i> is contrast."
+    },
+    {
+      "q": "A formal complaint letter should include:",
+      "options": [
+        "polite tone + facts + desired action",
+        "insults",
+        "only apologies",
+        "only questions"
+      ],
+      "answer": 0,
+      "solution": "Polite request with facts."
+    },
+    {
+      "q": "A recommendation in an expository essay is:",
+      "options": [
+        "required",
+        "optional and stated in the conclusion if useful",
+        "forbidden",
+        "only for reports"
+      ],
+      "answer": 1,
+      "solution": "May appear if fitting."
+    },
+    {
+      "q": "<i>Yours truly</i> is:",
+      "options": [
+        "only used in informal letters",
+        "a valid formal close in American usage",
+        "never used",
+        "used only in poems"
+      ],
+      "answer": 1,
+      "solution": "Common in AmE formal letters."
+    },
+    {
+      "q": "Best transition for adding stronger evidence:",
+      "options": [
+        "furthermore",
+        "however",
+        "otherwise",
+        "instead"
+      ],
+      "answer": 0,
+      "solution": "'Furthermore' escalates support."
+    },
+    {
+      "q": "Best transition for conceding a point:",
+      "options": [
+        "admittedly",
+        "therefore",
+        "hence",
+        "otherwise"
+      ],
+      "answer": 0,
+      "solution": "'Admittedly' concedes."
+    },
+    {
+      "q": "The subject line of a formal letter is usually:",
+      "options": [
+        "written in a chatty tone",
+        "short, specific and often underlined",
+        "a long paragraph",
+        "optional but not helpful"
+      ],
+      "answer": 1,
+      "solution": "Concise and highlighted."
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "subject": "English",
+  "level": "SSS 1",
+  "slug": "vocabulary-development",
+  "title": "Vocabulary Development",
+  "outline": [
+    "Types of synonyms and antonyms",
+    "Connotation vs denotation",
+    "Registers: Agriculture, Sports, Law",
+    "Contextual meaning of words"
+  ],
+  "modules": [
+    {
+      "title": "Synonyms and antonyms in context",
+      "html": "<p>A <b>synonym</b> is a word close in meaning to another (<i>begin ~ commence</i>). An <b>antonym</b> is a word of opposite meaning (<i>brave ↔ cowardly</i>). English rarely offers perfect synonyms — the right choice depends on <i>context, register</i> and <i>connotation</i>.</p>\n      <ul>\n        <li><b>Connotation</b>: <i>childish</i> (negative) vs <i>childlike</i> (positive) — both mean 'like a child'.</li>\n        <li><b>Register</b>: <i>buy</i> (neutral), <i>purchase</i> (formal), <i>cop</i> (slang).</li>\n        <li><b>Collocation</b>: we say <i>strong tea</i> and <i>heavy rain</i> — not <i>powerful tea</i>.</li>\n      </ul>\n      <p>Tip: read the whole sentence before choosing a synonym. Test each option in the gap and check that the tone, part of speech and collocation all fit.</p>",
+      "examples": [
+        {
+          "q": "Choose the closest in meaning to <i>reluctant</i> in: <i>She was reluctant to answer.</i>",
+          "a": "<b>unwilling</b> — the sentence shows hesitation to speak, not fear or dislike."
+        }
+      ]
+    },
+    {
+      "title": "Register — Agriculture, Sports, Law",
+      "html": "<p><b>Register</b> is the specialised vocabulary of a subject or profession. Recognising register helps you follow a passage and pick precise answers.</p>\n      <h4>Agriculture</h4>\n      <ul><li><i>arable, fallow, pasture, tuber, weeding, harvest, silo, irrigation, manure, husbandry, seedling, transplanting.</i></li></ul>\n      <h4>Sports</h4>\n      <ul><li><i>referee, umpire, offside, penalty, sprint, marathon, coach, tactics, halftime, knockout, draw, fixture, dribble, tackle.</i></li></ul>\n      <h4>Law</h4>\n      <ul><li><i>plaintiff, defendant, prosecution, verdict, acquit, convict, bail, adjourn, appeal, testimony, evidence, jurisdiction, judgment, litigation.</i></li></ul>",
+      "examples": [
+        {
+          "q": "Which register does <i>plaintiff, defendant, verdict</i> belong to?",
+          "a": "Law — these are court-room terms."
+        }
+      ]
+    },
+    {
+      "title": "Contextual meaning in passages",
+      "html": "<p>Comprehension questions often test what a word or phrase means <i>as used in the passage</i>. That may differ from its dictionary meaning.</p>\n      <ol>\n        <li>Read the whole sentence — sometimes two sentences before and after.</li>\n        <li>Ask what idea the sentence is trying to convey; the word must fit that idea.</li>\n        <li>Substitute each option in the sentence. Reject any that changes the meaning or grammar.</li>\n        <li>Beware of <i>look-alike</i> words that sound similar but mean something different.</li>\n      </ol>",
+      "examples": [
+        {
+          "q": "In <i>Her sharp reply silenced the class</i>, <i>sharp</i> means:",
+          "a": "<b>quick and cutting</b> (not literally pointed)."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Choose the word that is nearest in meaning to <b>commence</b>.",
+      "options": [
+        "end",
+        "begin",
+        "stop",
+        "delay"
+      ],
+      "answer": 1,
+      "solution": "<i>Commence</i> is a formal synonym for <i>begin</i>."
+    },
+    {
+      "q": "Antonym of <b>generous</b>:",
+      "options": [
+        "kind",
+        "stingy",
+        "gentle",
+        "loving"
+      ],
+      "answer": 1,
+      "solution": "<i>Stingy</i> = unwilling to give — opposite of generous."
+    },
+    {
+      "q": "Choose the closest meaning: <i>She gave a <b>concise</b> answer.</i>",
+      "options": [
+        "long",
+        "brief",
+        "angry",
+        "confused"
+      ],
+      "answer": 1,
+      "solution": "<i>Concise</i> = short and to the point."
+    },
+    {
+      "q": "Antonym of <b>arrogant</b>:",
+      "options": [
+        "proud",
+        "humble",
+        "cheerful",
+        "noisy"
+      ],
+      "answer": 1,
+      "solution": "<i>Humble</i> = opposite of arrogant."
+    },
+    {
+      "q": "Which word belongs to the register of Agriculture?",
+      "options": [
+        "adjournment",
+        "fallow",
+        "tackle",
+        "affidavit"
+      ],
+      "answer": 1,
+      "solution": "<i>Fallow</i> land is ploughed but left unsown — farming term."
+    },
+    {
+      "q": "Which word belongs to the register of Sports?",
+      "options": [
+        "silo",
+        "offside",
+        "plaintiff",
+        "tuber"
+      ],
+      "answer": 1,
+      "solution": "<i>Offside</i> is a football/hockey term."
+    },
+    {
+      "q": "Which word belongs to the register of Law?",
+      "options": [
+        "irrigation",
+        "goalkeeper",
+        "acquit",
+        "harvest"
+      ],
+      "answer": 2,
+      "solution": "<i>Acquit</i> = declare not guilty — a legal act."
+    },
+    {
+      "q": "The <b>plaintiff</b> in a court case is the person who…",
+      "options": [
+        "is accused",
+        "brings the complaint",
+        "judges",
+        "defends the accused"
+      ],
+      "answer": 1,
+      "solution": "The plaintiff begins the lawsuit."
+    },
+    {
+      "q": "A <b>silo</b> is used to…",
+      "options": [
+        "referee a match",
+        "store grain",
+        "argue in court",
+        "plough land"
+      ],
+      "answer": 1,
+      "solution": "Silos are tall structures for storing grain."
+    },
+    {
+      "q": "Synonym of <b>vast</b>:",
+      "options": [
+        "tiny",
+        "huge",
+        "narrow",
+        "empty"
+      ],
+      "answer": 1,
+      "solution": "<i>Vast</i> = very large."
+    },
+    {
+      "q": "Antonym of <b>ancient</b>:",
+      "options": [
+        "old",
+        "modern",
+        "aged",
+        "tired"
+      ],
+      "answer": 1,
+      "solution": "<i>Modern</i> is opposite of ancient."
+    },
+    {
+      "q": "<i>The referee <b>brandished</b> a red card.</i> <b>Brandished</b> means:",
+      "options": [
+        "hid",
+        "waved",
+        "tore",
+        "kept"
+      ],
+      "answer": 1,
+      "solution": "<i>Brandish</i> = wave menacingly."
+    },
+    {
+      "q": "Which is <u>not</u> a farming term?",
+      "options": [
+        "weeding",
+        "irrigation",
+        "tackle",
+        "harvest"
+      ],
+      "answer": 2,
+      "solution": "<i>Tackle</i> is football / rugby."
+    },
+    {
+      "q": "Synonym of <b>swift</b>:",
+      "options": [
+        "slow",
+        "fast",
+        "late",
+        "dull"
+      ],
+      "answer": 1,
+      "solution": "<i>Swift</i> = fast."
+    },
+    {
+      "q": "Antonym of <b>victory</b>:",
+      "options": [
+        "defeat",
+        "success",
+        "triumph",
+        "match"
+      ],
+      "answer": 0,
+      "solution": "Defeat is the opposite of victory."
+    },
+    {
+      "q": "A person accused of a crime is called the…",
+      "options": [
+        "plaintiff",
+        "defendant",
+        "witness",
+        "juror"
+      ],
+      "answer": 1,
+      "solution": "Defendant — the one defending against the charge."
+    },
+    {
+      "q": "<i>The land is <b>arable</b>.</i> This means it is:",
+      "options": [
+        "barren",
+        "unfit for animals",
+        "suitable for farming",
+        "forested"
+      ],
+      "answer": 2,
+      "solution": "Arable land is fit for growing crops."
+    },
+    {
+      "q": "A <b>tuber</b> is a…",
+      "options": [
+        "type of pipe",
+        "swollen underground stem",
+        "fishing net",
+        "court order"
+      ],
+      "answer": 1,
+      "solution": "Tubers include yam, cassava, potato."
+    },
+    {
+      "q": "Choose the closest meaning: <i>He was <b>elated</b> by the news.</i>",
+      "options": [
+        "saddened",
+        "overjoyed",
+        "confused",
+        "tired"
+      ],
+      "answer": 1,
+      "solution": "<i>Elated</i> = very happy."
+    },
+    {
+      "q": "Antonym of <b>frequent</b>:",
+      "options": [
+        "often",
+        "rare",
+        "many",
+        "normal"
+      ],
+      "answer": 1,
+      "solution": "Rare = not frequent."
+    },
+    {
+      "q": "The verdict is:",
+      "options": [
+        "the charge",
+        "the final decision",
+        "the arrest",
+        "the appeal"
+      ],
+      "answer": 1,
+      "solution": "Verdict = the decision returned by the judge or jury."
+    },
+    {
+      "q": "A <b>penalty kick</b> is awarded in football when…",
+      "options": [
+        "the ball is out",
+        "a foul occurs in the box",
+        "half-time ends",
+        "the goalkeeper touches the ball"
+      ],
+      "answer": 1,
+      "solution": "It follows a foul committed inside the penalty area."
+    },
+    {
+      "q": "Synonym of <b>abundant</b>:",
+      "options": [
+        "scarce",
+        "plenty",
+        "few",
+        "little"
+      ],
+      "answer": 1,
+      "solution": "<i>Abundant</i> = plentiful."
+    },
+    {
+      "q": "Antonym of <b>expand</b>:",
+      "options": [
+        "swell",
+        "grow",
+        "shrink",
+        "stretch"
+      ],
+      "answer": 2,
+      "solution": "Shrink is opposite of expand."
+    },
+    {
+      "q": "In law, to <b>adjourn</b> a case is to…",
+      "options": [
+        "dismiss it",
+        "postpone it",
+        "conclude it",
+        "appeal it"
+      ],
+      "answer": 1,
+      "solution": "Adjourn = put off to a later date."
+    },
+    {
+      "q": "Choose the closest meaning: <i>a <b>lucrative</b> business</i>",
+      "options": [
+        "losing money",
+        "risky",
+        "profitable",
+        "new"
+      ],
+      "answer": 2,
+      "solution": "Lucrative = producing much profit."
+    },
+    {
+      "q": "Which is a farming implement?",
+      "options": [
+        "gavel",
+        "hoe",
+        "whistle",
+        "subpoena"
+      ],
+      "answer": 1,
+      "solution": "A hoe is used for weeding."
+    },
+    {
+      "q": "A person who watches a match without playing is a…",
+      "options": [
+        "referee",
+        "spectator",
+        "captain",
+        "substitute"
+      ],
+      "answer": 1,
+      "solution": "Spectators watch."
+    },
+    {
+      "q": "<b>Testimony</b> is given by a…",
+      "options": [
+        "juror",
+        "witness",
+        "referee",
+        "farmer"
+      ],
+      "answer": 1,
+      "solution": "A witness gives testimony."
+    },
+    {
+      "q": "Synonym of <b>diligent</b>:",
+      "options": [
+        "lazy",
+        "hardworking",
+        "clever",
+        "late"
+      ],
+      "answer": 1,
+      "solution": "Diligent = hardworking."
+    },
+    {
+      "q": "Antonym of <b>brave</b>:",
+      "options": [
+        "bold",
+        "cowardly",
+        "strong",
+        "careful"
+      ],
+      "answer": 1,
+      "solution": "Cowardly is opposite of brave."
+    },
+    {
+      "q": "<i>The farmer planted <b>seedlings</b>.</i> Seedlings are:",
+      "options": [
+        "fully grown crops",
+        "young plants",
+        "seeds",
+        "weeds"
+      ],
+      "answer": 1,
+      "solution": "Small young plants ready for transplanting."
+    },
+    {
+      "q": "A <b>coach</b> in sports is one who…",
+      "options": [
+        "plays in defence",
+        "referees the match",
+        "trains the team",
+        "sells tickets"
+      ],
+      "answer": 2,
+      "solution": "Coaches train and instruct."
+    },
+    {
+      "q": "Choose the odd word out.",
+      "options": [
+        "hoe",
+        "cutlass",
+        "irrigation",
+        "referee"
+      ],
+      "answer": 3,
+      "solution": "Referee is a sports term; the rest are farming."
+    },
+    {
+      "q": "Choose the odd word out.",
+      "options": [
+        "prosecution",
+        "evidence",
+        "bail",
+        "harvest"
+      ],
+      "answer": 3,
+      "solution": "Harvest is farming; the rest are legal."
+    },
+    {
+      "q": "Choose the closest meaning: <i>The suspect was <b>acquitted</b>.</i>",
+      "options": [
+        "found guilty",
+        "released as not guilty",
+        "imprisoned",
+        "fined"
+      ],
+      "answer": 1,
+      "solution": "Acquitted = found not guilty."
+    },
+    {
+      "q": "Antonym of <b>innocent</b>:",
+      "options": [
+        "free",
+        "guilty",
+        "fair",
+        "kind"
+      ],
+      "answer": 1,
+      "solution": "Guilty is opposite of innocent."
+    },
+    {
+      "q": "A <b>marathon</b> is a…",
+      "options": [
+        "short sprint",
+        "long-distance race",
+        "boxing round",
+        "football fixture"
+      ],
+      "answer": 1,
+      "solution": "About 42 km — very long distance."
+    },
+    {
+      "q": "Which term describes soil left unplanted for a season?",
+      "options": [
+        "fallow",
+        "fertile",
+        "arable",
+        "cultivated"
+      ],
+      "answer": 0,
+      "solution": "Fallow land is deliberately left uncultivated to recover."
+    },
+    {
+      "q": "Choose the closest meaning: <i>She spoke with <b>candour</b>.</i>",
+      "options": [
+        "fear",
+        "honesty",
+        "anger",
+        "doubt"
+      ],
+      "answer": 1,
+      "solution": "Candour = frankness / honesty."
+    },
+    {
+      "q": "Antonym of <b>optimistic</b>:",
+      "options": [
+        "hopeful",
+        "cheerful",
+        "pessimistic",
+        "confident"
+      ],
+      "answer": 2,
+      "solution": "Pessimistic is opposite of optimistic."
+    },
+    {
+      "q": "A <b>subpoena</b> is:",
+      "options": [
+        "a farm tool",
+        "a legal summons",
+        "a football foul",
+        "a type of contract"
+      ],
+      "answer": 1,
+      "solution": "A court order compelling someone to appear."
+    },
+    {
+      "q": "Synonym of <b>ancient</b>:",
+      "options": [
+        "young",
+        "new",
+        "old",
+        "modern"
+      ],
+      "answer": 2,
+      "solution": "Ancient = old."
+    },
+    {
+      "q": "Choose the closest meaning: <i>His story was <b>plausible</b>.</i>",
+      "options": [
+        "untrue",
+        "believable",
+        "boring",
+        "short"
+      ],
+      "answer": 1,
+      "solution": "Plausible = seeming reasonable."
+    },
+    {
+      "q": "Which of these is a court official?",
+      "options": [
+        "umpire",
+        "bailiff",
+        "farmer",
+        "striker"
+      ],
+      "answer": 1,
+      "solution": "Bailiff — assists in a court."
+    },
+    {
+      "q": "Antonym of <b>ally</b>:",
+      "options": [
+        "friend",
+        "enemy",
+        "partner",
+        "helper"
+      ],
+      "answer": 1,
+      "solution": "Ally ↔ enemy."
+    },
+    {
+      "q": "The <b>dribble</b> in football is:",
+      "options": [
+        "a pass",
+        "running with the ball under control",
+        "a foul",
+        "a kick-off"
+      ],
+      "answer": 1,
+      "solution": "Dribbling = moving the ball with small touches."
+    },
+    {
+      "q": "Choose the closest meaning: <i>a <b>meagre</b> meal</i>",
+      "options": [
+        "heavy",
+        "tasty",
+        "scanty",
+        "spicy"
+      ],
+      "answer": 2,
+      "solution": "Meagre = small in quantity."
+    },
+    {
+      "q": "Which term describes fertile deposits left by a flood?",
+      "options": [
+        "silt",
+        "silo",
+        "sand",
+        "seed"
+      ],
+      "answer": 0,
+      "solution": "Silt — fine fertile mud."
+    },
+    {
+      "q": "<b>Litigation</b> means:",
+      "options": [
+        "farming",
+        "legal action",
+        "refereeing",
+        "training"
+      ],
+      "answer": 1,
+      "solution": "Litigation = the process of taking legal action."
+    }
+  ]
+}

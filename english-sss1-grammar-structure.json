@@ -1,0 +1,626 @@
+{
+  "subject": "English",
+  "level": "SSS 1",
+  "slug": "grammar-structure",
+  "title": "Grammar and Structure",
+  "outline": [
+    "Kinds of nouns and their functions in sentences",
+    "Regular and irregular plural formation",
+    "Personal, possessive, reflexive and relative pronouns",
+    "Finite vs non-finite verbs",
+    "Simple present, past and future tenses",
+    "Active and passive voice",
+    "Order and comparison of adjectives",
+    "Basic punctuation and capitalisation rules"
+  ],
+  "modules": [
+    {
+      "title": "Nouns — classification, gender, number and function",
+      "html": "<p>A <b>noun</b> is a word that names a person, place, thing, quality or idea. Nouns are the naming words of English, and every sentence usually contains at least one.</p>\n        <h4>1. Classification</h4>\n        <ul>\n          <li><b>Proper noun</b> — a specific name; always capitalised: <i>Lagos, Chinua Achebe, Monday</i>.</li>\n          <li><b>Common noun</b> — a general name: <i>city, writer, day</i>.</li>\n          <li><b>Concrete noun</b> — something perceivable by the senses: <i>book, rain, laughter</i>.</li>\n          <li><b>Abstract noun</b> — an idea, feeling or quality: <i>honesty, freedom, patience</i>.</li>\n          <li><b>Collective noun</b> — a group taken as a unit: <i>team, herd, jury, flock</i>.</li>\n          <li><b>Countable</b> vs <b>uncountable</b>: <i>chair/chairs</i> (countable); <i>water, information, furniture</i> (uncountable — no plural, no <i>a/an</i>).</li>\n        </ul>\n        <h4>2. Gender</h4>\n        <p>English recognises four genders:</p>\n        <ul>\n          <li><b>Masculine</b>: <i>king, actor, lion</i>.</li>\n          <li><b>Feminine</b>: <i>queen, actress, lioness</i>.</li>\n          <li><b>Common</b> (either sex): <i>student, doctor, teacher, cousin</i>.</li>\n          <li><b>Neuter</b> (no sex): <i>book, chair, honesty</i>.</li>\n        </ul>\n        <h4>3. Number — forming plurals</h4>\n        <ul>\n          <li>Most nouns add <b>-s</b>: <i>cat → cats</i>.</li>\n          <li>Nouns ending in <i>-s, -x, -ch, -sh</i> add <b>-es</b>: <i>bus → buses, box → boxes</i>.</li>\n          <li>Consonant + <i>-y</i> changes to <b>-ies</b>: <i>baby → babies</i>; but vowel + <i>-y</i> just adds <i>-s</i>: <i>boy → boys</i>.</li>\n          <li>Some <i>-f/-fe</i> nouns change to <b>-ves</b>: <i>leaf → leaves, knife → knives</i>. Exceptions: <i>roof → roofs, chief → chiefs</i>.</li>\n          <li>Irregular plurals: <i>man → men, foot → feet, child → children, mouse → mice, ox → oxen, criterion → criteria</i>.</li>\n          <li>Unchanging: <i>sheep, deer, aircraft, series</i>.</li>\n        </ul>\n        <h4>4. Functions of the noun in a sentence</h4>\n        <ol>\n          <li><b>Subject</b> — <i>The <u>teacher</u> arrived.</i></li>\n          <li><b>Object of a verb</b> — <i>She read the <u>book</u>.</i></li>\n          <li><b>Object of a preposition</b> — <i>He sat on the <u>chair</u>.</i></li>\n          <li><b>Complement</b> — <i>Ada became a <u>doctor</u>.</i></li>\n          <li><b>Apposition</b> — <i>My brother, <u>Musa</u>, is a pilot.</i></li>\n        </ol>",
+      "examples": [
+        {
+          "q": "Give the plural of <i>ox, sheep, criterion</i>.",
+          "a": "<i>oxen, sheep, criteria</i>. <i>Sheep</i> is unchanging; <i>criterion</i> takes its Greek plural."
+        },
+        {
+          "q": "Underline the noun and state its function: <i>Freedom is precious to every citizen.</i>",
+          "a": "<i>Freedom</i> — subject of the verb <i>is</i>. It is an abstract noun."
+        }
+      ]
+    },
+    {
+      "title": "Pronouns — personal, relative, possessive, reflexive",
+      "html": "<p>A <b>pronoun</b> replaces a noun so we do not repeat it. The noun it stands for is called its <b>antecedent</b>.</p>\n        <h4>1. Personal pronouns</h4>\n        <table style=\"width:100%;border-collapse:collapse\"><tr><th style=\"text-align:left;padding:4px 8px;border-bottom:1px solid #cbd5e1\">Person</th><th style=\"padding:4px 8px;border-bottom:1px solid #cbd5e1\">Subject</th><th style=\"padding:4px 8px;border-bottom:1px solid #cbd5e1\">Object</th></tr>\n        <tr><td style=\"padding:4px 8px\">1st sg / pl</td><td style=\"text-align:center\">I / we</td><td style=\"text-align:center\">me / us</td></tr>\n        <tr><td style=\"padding:4px 8px\">2nd</td><td style=\"text-align:center\">you</td><td style=\"text-align:center\">you</td></tr>\n        <tr><td style=\"padding:4px 8px\">3rd sg</td><td style=\"text-align:center\">he, she, it</td><td style=\"text-align:center\">him, her, it</td></tr>\n        <tr><td style=\"padding:4px 8px\">3rd pl</td><td style=\"text-align:center\">they</td><td style=\"text-align:center\">them</td></tr></table>\n        <p><b>Subject</b> pronouns act as the doer; <b>object</b> pronouns receive the action: <i>She saw him at the market.</i></p>\n        <h4>2. Possessive pronouns and adjectives</h4>\n        <ul>\n          <li><b>Possessive adjective</b> (before a noun): <i>my, your, his, her, its, our, their</i> — <i>my book</i>.</li>\n          <li><b>Possessive pronoun</b> (standing alone): <i>mine, yours, his, hers, ours, theirs</i> — <i>That book is mine.</i></li>\n          <li>Note: <b>its</b> = belonging to it (no apostrophe); <b>it's</b> = <i>it is</i>.</li>\n        </ul>\n        <h4>3. Reflexive pronouns</h4>\n        <p>Formed with <i>-self / -selves</i>: <i>myself, yourself, himself, herself, itself, ourselves, yourselves, themselves</i>. Use them when the subject and object are the same person — <i>She hurt herself</i> — or for emphasis — <i>I built it myself</i>. Never say <i>hisself</i> or <i>theirselves</i>.</p>\n        <h4>4. Relative pronouns</h4>\n        <ul>\n          <li><b>who / whom</b> — for people (<i>who</i> as subject, <i>whom</i> as object).</li>\n          <li><b>whose</b> — possession.</li>\n          <li><b>which</b> — for things and animals.</li>\n          <li><b>that</b> — people or things (defining clauses only).</li>\n        </ul>\n        <p><i>The girl <b>who</b> won the prize is my sister.</i> — <i>who</i> refers back to <i>girl</i>.</p>",
+      "examples": [
+        {
+          "q": "Correct: <i>Between you and (I / me), the plan is risky.</i>",
+          "a": "<b>me</b> — after the preposition <i>between</i>, we need the object form."
+        },
+        {
+          "q": "Fill in with a relative pronoun: <i>The boy _____ bicycle was stolen has reported to the police.</i>",
+          "a": "<b>whose</b> — showing possession."
+        }
+      ]
+    },
+    {
+      "title": "Verbs — finite / non-finite, auxiliaries, simple tenses, voice",
+      "html": "<p>A <b>verb</b> expresses action (<i>write, run</i>) or a state (<i>be, seem</i>). Every complete sentence must have at least one finite verb.</p>\n        <h4>1. Finite vs non-finite</h4>\n        <ul>\n          <li><b>Finite</b> verbs change their form to agree with the subject and to show tense: <i>She <u>writes</u>. They <u>wrote</u>.</i></li>\n          <li><b>Non-finite</b> verbs do <u>not</u> change with the subject. Three types:\n            <ul>\n              <li><b>Infinitive</b>: <i>to write</i>.</li>\n              <li><b>Gerund</b> (-ing, acts as a noun): <i>Writing is fun.</i></li>\n              <li><b>Participle</b>: present (<i>writing</i>) and past (<i>written</i>), used in continuous / perfect tenses and as adjectives.</li>\n            </ul>\n          </li>\n        </ul>\n        <h4>2. Auxiliary (helping) verbs</h4>\n        <ul>\n          <li><b>Primary</b>: <i>be, have, do</i> — help form tenses, questions and negatives.</li>\n          <li><b>Modal</b>: <i>can, could, may, might, must, shall, should, will, would, ought to</i> — express ability, permission, obligation, possibility.</li>\n        </ul>\n        <h4>3. The three simple tenses</h4>\n        <table style=\"width:100%;border-collapse:collapse\"><tr><th style=\"text-align:left;padding:4px 8px;border-bottom:1px solid #cbd5e1\">Tense</th><th style=\"padding:4px 8px;border-bottom:1px solid #cbd5e1\">Form</th><th style=\"padding:4px 8px;border-bottom:1px solid #cbd5e1\">Example</th></tr>\n        <tr><td style=\"padding:4px 8px\">Simple present</td><td>base (+ <i>-s</i> for 3rd sg)</td><td>She writes daily.</td></tr>\n        <tr><td style=\"padding:4px 8px\">Simple past</td><td>base + <i>-ed</i> / irregular</td><td>She wrote yesterday.</td></tr>\n        <tr><td style=\"padding:4px 8px\">Simple future</td><td>will / shall + base</td><td>She will write tomorrow.</td></tr></table>\n        <h4>4. Active vs passive voice</h4>\n        <p>In the <b>active</b> voice the subject <i>does</i> the action; in the <b>passive</b> the subject <i>receives</i> it.</p>\n        <ul>\n          <li>Active: <i>The teacher marked the scripts.</i></li>\n          <li>Passive: <i>The scripts <b>were marked</b> by the teacher.</i></li>\n        </ul>\n        <p>Formula: <b>form of <i>be</i> + past participle</b>. The doer, if mentioned, follows <i>by</i>.</p>",
+      "examples": [
+        {
+          "q": "Change to the passive: <i>Musa is reading the novel.</i>",
+          "a": "<i>The novel <b>is being read</b> by Musa.</i> — present continuous passive uses <i>is being + past participle</i>."
+        },
+        {
+          "q": "Identify the non-finite verb in: <i>She loves to sing in the choir.</i>",
+          "a": "<b>to sing</b> — an infinitive. The finite verb is <i>loves</i>."
+        }
+      ]
+    },
+    {
+      "title": "Adjectives — order, degrees of comparison",
+      "html": "<p>An <b>adjective</b> describes or modifies a noun or pronoun: <i>a <b>bright</b> student, the sky is <b>blue</b>.</i></p>\n        <h4>1. Order of adjectives</h4>\n        <p>When several adjectives modify one noun, English arranges them in a fixed order — <b>OSASCOMP</b>:\n        <b>O</b>pinion → <b>S</b>ize → <b>A</b>ge → <b>S</b>hape → <b>C</b>olour → <b>O</b>rigin → <b>M</b>aterial → <b>P</b>urpose.</p>\n        <p>Example: <i>a lovely small old round brown Nigerian wooden dining table.</i></p>\n        <h4>2. Degrees of comparison</h4>\n        <ul>\n          <li><b>Positive</b>: <i>tall, beautiful, good</i>.</li>\n          <li><b>Comparative</b>: <i>taller, more beautiful, better</i>.</li>\n          <li><b>Superlative</b>: <i>tallest, most beautiful, best</i>.</li>\n        </ul>\n        <p>Rules of thumb:</p>\n        <ul>\n          <li>1-syllable adjectives add <i>-er / -est</i>: <i>fast → faster → fastest</i>.</li>\n          <li>2-syllable ending in <i>-y</i> change <i>-y</i> to <i>-ier / -iest</i>: <i>happy → happier → happiest</i>.</li>\n          <li>Adjectives of 3+ syllables use <i>more / most</i>: <i>beautiful → more beautiful → most beautiful</i>.</li>\n          <li>Irregular: <i>good → better → best; bad → worse → worst; little → less → least; many/much → more → most.</i></li>\n        </ul>\n        <h4>3. Punctuation and capitalisation reminders</h4>\n        <ul>\n          <li>Capitalise the first word of a sentence, proper nouns, months, days, and titles used with names.</li>\n          <li>Use a comma before <i>and / but / or</i> when joining two independent clauses.</li>\n          <li>Semicolons join two closely related independent clauses: <i>Ada was tired; she slept early.</i></li>\n          <li>An apostrophe shows possession (<i>Musa's book</i>) or contraction (<i>don't</i>).</li>\n        </ul>",
+      "examples": [
+        {
+          "q": "Arrange correctly: <i>brown / small / leather / two / old / bags</i>.",
+          "a": "<i>two small old brown leather bags</i> — number → size → age → colour → material."
+        },
+        {
+          "q": "Comparative and superlative of <i>bad</i>?",
+          "a": "<i>bad → worse → worst</i> (irregular)."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which of the following is an abstract noun?",
+      "options": [
+        "book",
+        "honesty",
+        "classroom",
+        "teacher"
+      ],
+      "answer": 1,
+      "solution": "<i>Honesty</i> is a quality — you cannot see or touch it — so it is abstract."
+    },
+    {
+      "q": "The plural of <i>criterion</i> is:",
+      "options": [
+        "criterions",
+        "criteria",
+        "criterias",
+        "criterion"
+      ],
+      "answer": 1,
+      "solution": "Words from Greek ending in <i>-on</i> take <i>-a</i> in the plural: <i>criterion → criteria</i>."
+    },
+    {
+      "q": "Choose the correct sentence.",
+      "options": [
+        "Between you and I, he is wrong.",
+        "Between you and me, he is wrong.",
+        "Between I and you, he is wrong.",
+        "Between me and you, he is wrong."
+      ],
+      "answer": 1,
+      "solution": "After the preposition <i>between</i> we need the object form <i>me</i>, and courtesy places the other person first."
+    },
+    {
+      "q": "Which sentence uses <i>who</i> correctly?",
+      "options": [
+        "The girl whom won the race is my sister.",
+        "The girl who I saw is my sister.",
+        "The girl who won the race is my sister.",
+        "The girl whose won the race is my sister."
+      ],
+      "answer": 2,
+      "solution": "<i>Who</i> is used because it is the <b>subject</b> of the verb <i>won</i> inside the relative clause."
+    },
+    {
+      "q": "The word <i>team</i> is a…",
+      "options": [
+        "proper noun",
+        "abstract noun",
+        "collective noun",
+        "material noun"
+      ],
+      "answer": 2,
+      "solution": "A team is a group of players viewed as one unit — a collective noun."
+    },
+    {
+      "q": "Which of the following is uncountable?",
+      "options": [
+        "chair",
+        "information",
+        "apple",
+        "boy"
+      ],
+      "answer": 1,
+      "solution": "<i>Information</i> is uncountable — no plural, no <i>an</i>."
+    },
+    {
+      "q": "Feminine gender of <i>bachelor</i>:",
+      "options": [
+        "mistress",
+        "spinster",
+        "widow",
+        "lady"
+      ],
+      "answer": 1,
+      "solution": "<i>Bachelor / spinster</i> is the traditional pair for an unmarried man / woman."
+    },
+    {
+      "q": "Choose the plural of <i>leaf</i>.",
+      "options": [
+        "leafs",
+        "leafes",
+        "leaves",
+        "leave"
+      ],
+      "answer": 2,
+      "solution": "Most <i>-f/-fe</i> nouns change to <i>-ves</i>: <i>leaf → leaves</i>."
+    },
+    {
+      "q": "Identify the reflexive pronoun.",
+      "options": [
+        "their",
+        "them",
+        "themselves",
+        "theirs"
+      ],
+      "answer": 2,
+      "solution": "Reflexive pronouns end in <i>-self / -selves</i>."
+    },
+    {
+      "q": "Which word is a possessive adjective?",
+      "options": [
+        "mine",
+        "my",
+        "me",
+        "I"
+      ],
+      "answer": 1,
+      "solution": "<i>My</i> comes before a noun (<i>my book</i>); <i>mine</i> stands alone."
+    },
+    {
+      "q": "The <i>bell</i> in <i>the school bell</i> is a…",
+      "options": [
+        "adjective",
+        "noun",
+        "verb",
+        "adverb"
+      ],
+      "answer": 1,
+      "solution": "<i>Bell</i> is still a noun; <i>school</i> is used attributively (like an adjective) but <i>bell</i> is the head noun."
+    },
+    {
+      "q": "Choose the correct verb: <i>Neither the boys nor the girl _____ ready.</i>",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have"
+      ],
+      "answer": 2,
+      "solution": "With <i>neither…nor</i>, the verb agrees with the nearer subject — <i>the girl</i> is singular, so <i>is</i>."
+    },
+    {
+      "q": "Which verb form is non-finite?",
+      "options": [
+        "writes",
+        "wrote",
+        "writing",
+        "will write"
+      ],
+      "answer": 2,
+      "solution": "<i>Writing</i> (participle / gerund) does not change with the subject, so it is non-finite."
+    },
+    {
+      "q": "Change to passive: <i>They built the house last year.</i>",
+      "options": [
+        "The house is built last year.",
+        "The house was built last year.",
+        "The house has been built last year.",
+        "The house had been built last year."
+      ],
+      "answer": 1,
+      "solution": "Simple past passive = <i>was/were + past participle</i>."
+    },
+    {
+      "q": "Which sentence is in the active voice?",
+      "options": [
+        "The letter was written by Ada.",
+        "The window has been broken.",
+        "The chairman opened the meeting.",
+        "The car is being repaired."
+      ],
+      "answer": 2,
+      "solution": "In (c) the subject <i>chairman</i> performs the action."
+    },
+    {
+      "q": "Comparative form of <i>little</i> (meaning amount):",
+      "options": [
+        "littler",
+        "lesser",
+        "less",
+        "more little"
+      ],
+      "answer": 2,
+      "solution": "<i>Little → less → least</i> for uncountable amounts."
+    },
+    {
+      "q": "The superlative of <i>good</i> is:",
+      "options": [
+        "gooder",
+        "goodest",
+        "better",
+        "best"
+      ],
+      "answer": 3,
+      "solution": "<i>Good → better → best</i> is irregular."
+    },
+    {
+      "q": "Arrange in correct order: <i>Nigerian / small / old / wooden</i> chair.",
+      "options": [
+        "Nigerian small old wooden chair",
+        "small old wooden Nigerian chair",
+        "small old Nigerian wooden chair",
+        "old small Nigerian wooden chair"
+      ],
+      "answer": 2,
+      "solution": "Order = Size → Age → Origin → Material."
+    },
+    {
+      "q": "Which sentence is punctuated correctly?",
+      "options": [
+        "Ada, Musa and Sade are friends.",
+        "Ada Musa and Sade are friends.",
+        "Ada Musa, and Sade, are friends.",
+        "Ada, Musa and, Sade are friends."
+      ],
+      "answer": 0,
+      "solution": "Commas separate items in a series; the final comma before <i>and</i> is optional in British style."
+    },
+    {
+      "q": "Which noun is common gender?",
+      "options": [
+        "king",
+        "actress",
+        "cousin",
+        "hen"
+      ],
+      "answer": 2,
+      "solution": "<i>Cousin</i> can be male or female — common gender."
+    },
+    {
+      "q": "Choose the correct plural: <i>mouse</i> (the animal).",
+      "options": [
+        "mouses",
+        "mice",
+        "mouse",
+        "mices"
+      ],
+      "answer": 1,
+      "solution": "Irregular plural: <i>mouse → mice</i>."
+    },
+    {
+      "q": "Which is a proper noun?",
+      "options": [
+        "river",
+        "Niger",
+        "water",
+        "fish"
+      ],
+      "answer": 1,
+      "solution": "<i>Niger</i> is the specific name of a river — proper noun."
+    },
+    {
+      "q": "<i>The children are playing</i>. The tense is:",
+      "options": [
+        "simple present",
+        "present continuous",
+        "simple past",
+        "present perfect"
+      ],
+      "answer": 1,
+      "solution": "<i>are + playing</i> = present continuous."
+    },
+    {
+      "q": "Auxiliary verb in <i>She has finished her meal</i>:",
+      "options": [
+        "she",
+        "has",
+        "finished",
+        "meal"
+      ],
+      "answer": 1,
+      "solution": "<i>Has</i> helps form the present perfect."
+    },
+    {
+      "q": "Which is a modal auxiliary?",
+      "options": [
+        "is",
+        "have",
+        "must",
+        "do"
+      ],
+      "answer": 2,
+      "solution": "<i>Must, can, may, should…</i> are modals."
+    },
+    {
+      "q": "Correct the sentence: <i>He don't know the answer.</i>",
+      "options": [
+        "He not know the answer.",
+        "He doesn't know the answer.",
+        "He didn't knows the answer.",
+        "He does not knew the answer."
+      ],
+      "answer": 1,
+      "solution": "3rd person singular takes <i>doesn't</i>, not <i>don't</i>."
+    },
+    {
+      "q": "Choose the correct question tag: <i>She sings beautifully, _____?</i>",
+      "options": [
+        "doesn't she",
+        "isn't she",
+        "does she",
+        "did she"
+      ],
+      "answer": 0,
+      "solution": "Positive statement in simple present takes a negative tag with <i>doesn't</i>."
+    },
+    {
+      "q": "Fill in: <i>The book _____ cover is torn belongs to me.</i>",
+      "options": [
+        "who",
+        "whose",
+        "which",
+        "that"
+      ],
+      "answer": 1,
+      "solution": "<i>Whose</i> shows possession, even for things."
+    },
+    {
+      "q": "<i>It is I who am to blame.</i> — the underlined word is a:",
+      "options": [
+        "personal pronoun",
+        "relative pronoun",
+        "possessive pronoun",
+        "reflexive pronoun"
+      ],
+      "answer": 0,
+      "solution": "<i>I</i> is a 1st-person personal pronoun."
+    },
+    {
+      "q": "Choose the correct sentence.",
+      "options": [
+        "Each of the boys have a book.",
+        "Each of the boys has a book.",
+        "Each of the boys are having a book.",
+        "Each of the boys were having a book."
+      ],
+      "answer": 1,
+      "solution": "<i>Each</i> is singular, so takes <i>has</i>."
+    },
+    {
+      "q": "The word <i>swimming</i> in <i>Swimming is fun</i> is a:",
+      "options": [
+        "verb",
+        "adjective",
+        "gerund",
+        "adverb"
+      ],
+      "answer": 2,
+      "solution": "An <i>-ing</i> form acting as a noun is a gerund; here it is the subject."
+    },
+    {
+      "q": "Which sentence uses the apostrophe correctly?",
+      "options": [
+        "The boy's are playing.",
+        "The boys are playing.",
+        "The boys' are playing.",
+        "The boys's are playing."
+      ],
+      "answer": 1,
+      "solution": "<i>Boys</i> here is a simple plural; no apostrophe."
+    },
+    {
+      "q": "Possessive of <i>children</i>:",
+      "options": [
+        "childrens'",
+        "children's",
+        "childrens",
+        "childrens's"
+      ],
+      "answer": 1,
+      "solution": "Irregular plurals not ending in -s add <i>'s</i>: <i>children's</i>."
+    },
+    {
+      "q": "Choose the reflexive form: <i>I hurt _____ while cooking.</i>",
+      "options": [
+        "me",
+        "myself",
+        "mine",
+        "I"
+      ],
+      "answer": 1,
+      "solution": "Subject = object = <i>I</i>, so use the reflexive <i>myself</i>."
+    },
+    {
+      "q": "Which is a countable noun?",
+      "options": [
+        "furniture",
+        "advice",
+        "chair",
+        "luggage"
+      ],
+      "answer": 2,
+      "solution": "<i>Chair</i> can be counted (one chair, two chairs)."
+    },
+    {
+      "q": "Adverb form of <i>quick</i>:",
+      "options": [
+        "quicker",
+        "quickest",
+        "quickly",
+        "quickness"
+      ],
+      "answer": 2,
+      "solution": "Add <i>-ly</i> to make the adverb."
+    },
+    {
+      "q": "The sentence <i>Never have I seen such a mess</i> begins with:",
+      "options": [
+        "a verb",
+        "an adverb",
+        "a conjunction",
+        "an adjective"
+      ],
+      "answer": 1,
+      "solution": "<i>Never</i> is an adverb; fronting it inverts subject and auxiliary."
+    },
+    {
+      "q": "Simple past of <i>lie</i> (to recline):",
+      "options": [
+        "lied",
+        "laid",
+        "lay",
+        "lain"
+      ],
+      "answer": 2,
+      "solution": "<i>Lie / lay / lain</i>. <i>Lied</i> is the past of <i>lie</i> = tell an untruth."
+    },
+    {
+      "q": "Simple past of <i>lay</i> (to place):",
+      "options": [
+        "lay",
+        "laid",
+        "layed",
+        "lain"
+      ],
+      "answer": 1,
+      "solution": "<i>Lay / laid / laid</i>."
+    },
+    {
+      "q": "Choose the correct sentence.",
+      "options": [
+        "The news are bad today.",
+        "The news is bad today.",
+        "The news were bad today.",
+        "The news have been bad today."
+      ],
+      "answer": 1,
+      "solution": "<i>News</i> is singular and uncountable."
+    },
+    {
+      "q": "Which noun is always plural in form?",
+      "options": [
+        "scissor",
+        "trouser",
+        "scissors",
+        "furniture"
+      ],
+      "answer": 2,
+      "solution": "Instruments in two parts — <i>scissors, trousers, tongs</i> — are always plural."
+    },
+    {
+      "q": "Passive of <i>Somebody has stolen my bag.</i>",
+      "options": [
+        "My bag has stolen.",
+        "My bag was stolen by somebody.",
+        "My bag has been stolen.",
+        "My bag is stolen."
+      ],
+      "answer": 2,
+      "solution": "Present perfect passive: <i>has been + past participle</i>. The agent <i>somebody</i> is dropped as unimportant."
+    },
+    {
+      "q": "Choose the sentence with correct capitalisation.",
+      "options": [
+        "We travel to lagos every december.",
+        "We travel to Lagos every December.",
+        "We Travel to Lagos every December.",
+        "we travel to Lagos every december."
+      ],
+      "answer": 1,
+      "solution": "Proper nouns (<i>Lagos, December</i>) are capitalised; common verbs are not."
+    },
+    {
+      "q": "Feminine of <i>hero</i>:",
+      "options": [
+        "heroes",
+        "heroin",
+        "heroine",
+        "heroina"
+      ],
+      "answer": 2,
+      "solution": "<i>Heroine</i> — the feminine hero. <i>Heroin</i> is a drug."
+    },
+    {
+      "q": "Which word is an abstract noun?",
+      "options": [
+        "silver",
+        "freedom",
+        "garden",
+        "boy"
+      ],
+      "answer": 1,
+      "solution": "<i>Freedom</i> is an idea, not something you can touch."
+    },
+    {
+      "q": "Change to future tense: <i>She writes a letter.</i>",
+      "options": [
+        "She wrote a letter.",
+        "She has written a letter.",
+        "She will write a letter.",
+        "She is writing a letter."
+      ],
+      "answer": 2,
+      "solution": "<i>Will/shall + base form</i>."
+    },
+    {
+      "q": "Which sentence contains an adverb?",
+      "options": [
+        "The tall boy sings.",
+        "She sings loudly.",
+        "She is a good singer.",
+        "Her voice is sweet."
+      ],
+      "answer": 1,
+      "solution": "<i>Loudly</i> modifies the verb <i>sings</i>."
+    },
+    {
+      "q": "The word <i>that</i> in <i>The book that I bought is new</i> is a:",
+      "options": [
+        "conjunction",
+        "relative pronoun",
+        "preposition",
+        "demonstrative"
+      ],
+      "answer": 1,
+      "solution": "It introduces a relative clause modifying <i>book</i>."
+    },
+    {
+      "q": "Choose the correct sentence.",
+      "options": [
+        "Neither of the answers are correct.",
+        "Neither of the answers is correct.",
+        "Neither of the answers were correct.",
+        "Neither of the answers have been correct."
+      ],
+      "answer": 1,
+      "solution": "<i>Neither</i> takes a singular verb."
+    },
+    {
+      "q": "Underline the subject: <i>Under the table sat a cat.</i>",
+      "options": [
+        "Under",
+        "the table",
+        "a cat",
+        "sat"
+      ],
+      "answer": 2,
+      "solution": "Inverted order: the true subject is <i>a cat</i>."
+    }
+  ]
+}

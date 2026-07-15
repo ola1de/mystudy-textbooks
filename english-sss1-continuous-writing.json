@@ -1,0 +1,596 @@
+{
+  "subject": "English",
+  "level": "SSS 1",
+  "slug": "continuous-writing",
+  "title": "Continuous Writing",
+  "outline": [
+    "Plot structure of narrative essays",
+    "Characters, setting and dialogue",
+    "Descriptive techniques and imagery",
+    "Layout, salutation and tone of informal letters"
+  ],
+  "modules": [
+    {
+      "title": "Narrative essay",
+      "html": "<p>A <b>narrative essay</b> tells a story. It follows a clear <b>plot</b>: exposition → rising action → climax → falling action → resolution.</p>\n      <h4>Key ingredients</h4>\n      <ul><li>A clear <b>setting</b> — time and place.</li>\n      <li>A small number of well-drawn <b>characters</b>.</li>\n      <li>A <b>conflict</b> that drives the story.</li>\n      <li>A definite <b>climax</b> — the turning point.</li>\n      <li>A satisfying <b>ending</b> that ties up the plot.</li></ul>\n      <p>Use past tense throughout; use dialogue sparingly; describe sights, sounds and feelings to make the reader see and hear what happened.</p>",
+      "examples": [
+        {
+          "q": "Give a strong opening for a narrative titled <i>The Day I Was Bullied</i>.",
+          "a": "e.g. <i>The morning sun could not warm the fear that lay in my chest as I trudged towards the school gate that Monday.</i> It sets time, place and mood at once."
+        }
+      ]
+    },
+    {
+      "title": "Descriptive essay",
+      "html": "<p>A <b>descriptive essay</b> paints a picture in words. It appeals to the five senses — sight, sound, smell, taste, touch — so the reader can imagine the person, place or scene.</p>\n      <h4>Tips</h4>\n      <ul><li>Choose a clear point of view (first person or observer).</li>\n      <li>Use vivid <b>adjectives</b> and <b>strong verbs</b> — <i>the market bustled</i>, not <i>the market was busy</i>.</li>\n      <li>Organise details by space (top to bottom, near to far) or by time.</li>\n      <li>Use figurative language: similes, metaphors, personification.</li></ul>",
+      "examples": [
+        {
+          "q": "Rewrite for stronger imagery: <i>The market was busy and noisy.</i>",
+          "a": "<i>The market throbbed with the clang of hawkers' bells, the sizzle of frying akara, and the tide of shoppers flowing between stalls.</i>"
+        }
+      ]
+    },
+    {
+      "title": "Informal letter — structure and tone",
+      "html": "<p>An <b>informal letter</b> is written to a friend or relative. It is friendly, chatty and personal.</p>\n      <h4>Layout</h4>\n      <ol>\n        <li><b>Writer's address</b> — top right, no name, each line separated by commas, full stop at the end.</li>\n        <li><b>Date</b> — one line below the address.</li>\n        <li><b>Salutation</b> — <i>Dear Musa,</i> (comma after the name).</li>\n        <li><b>Opening paragraph</b> — enquire after the reader's health / respond to the last letter.</li>\n        <li><b>Body</b> — the reason for writing, in two or three paragraphs.</li>\n        <li><b>Closing paragraph</b> — round off, send greetings.</li>\n        <li><b>Complimentary close</b> — <i>Your friend, / Your loving cousin,</i></li>\n        <li><b>Signature</b> — first name only.</li>\n      </ol>",
+      "examples": [
+        {
+          "q": "Correct salutation for a friend called Adaeze?",
+          "a": "<i>Dear Ada,</i> — note the comma after her name."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "A narrative essay tells:",
+      "options": [
+        "a story",
+        "a fact",
+        "an opinion",
+        "an argument"
+      ],
+      "answer": 0,
+      "solution": "Narrative = story."
+    },
+    {
+      "q": "The turning point of a story is called the:",
+      "options": [
+        "climax",
+        "denouement",
+        "exposition",
+        "setting"
+      ],
+      "answer": 0,
+      "solution": "Climax = highest point of tension."
+    },
+    {
+      "q": "Which tense dominates in a narrative essay?",
+      "options": [
+        "present",
+        "past",
+        "future",
+        "perfect"
+      ],
+      "answer": 1,
+      "solution": "Stories usually told in the past tense."
+    },
+    {
+      "q": "A descriptive essay appeals mainly to:",
+      "options": [
+        "logic",
+        "the senses",
+        "emotion only",
+        "time"
+      ],
+      "answer": 1,
+      "solution": "It creates sensory pictures."
+    },
+    {
+      "q": "Which is a sensory detail?",
+      "options": [
+        "He was happy.",
+        "The sky was blue-grey with racing clouds.",
+        "She said hello.",
+        "He arrived."
+      ],
+      "answer": 1,
+      "solution": "Vivid sight image."
+    },
+    {
+      "q": "In an informal letter, the writer's address is placed:",
+      "options": [
+        "top left",
+        "top right",
+        "bottom right",
+        "centre"
+      ],
+      "answer": 1,
+      "solution": "Top right corner."
+    },
+    {
+      "q": "The salutation in an informal letter to your father is:",
+      "options": [
+        "Dear Sir,",
+        "Dear Father,",
+        "Yours faithfully,",
+        "To whom it may concern,"
+      ],
+      "answer": 1,
+      "solution": "Personal — <i>Dear Father,</i>"
+    },
+    {
+      "q": "The complimentary close of an informal letter is often:",
+      "options": [
+        "Yours faithfully,",
+        "Yours sincerely,",
+        "Your loving son,",
+        "Yours truly,"
+      ],
+      "answer": 2,
+      "solution": "Warm and personal."
+    },
+    {
+      "q": "Which sentence is best for opening a story?",
+      "options": [
+        "I want to tell you a story.",
+        "It happened on a chilly Monday morning.",
+        "This is a narrative.",
+        "The end.”"
+      ],
+      "answer": 1,
+      "solution": "Sets time and mood at once."
+    },
+    {
+      "q": "<i>Show, don't tell</i> in writing means:",
+      "options": [
+        "use short sentences",
+        "give sensory details",
+        "tell everything",
+        "avoid describing"
+      ],
+      "answer": 1,
+      "solution": "Let the reader experience through detail."
+    },
+    {
+      "q": "A <b>simile</b> uses:",
+      "options": [
+        "is",
+        "as or like",
+        "and",
+        "but"
+      ],
+      "answer": 1,
+      "solution": "Similes compare with <i>as</i> or <i>like</i>."
+    },
+    {
+      "q": "A <b>metaphor</b>:",
+      "options": [
+        "states one thing IS another",
+        "compares with <i>like</i>",
+        "gives a definition",
+        "asks a question"
+      ],
+      "answer": 0,
+      "solution": "Direct comparison."
+    },
+    {
+      "q": "Which is the correct order of a plot?",
+      "options": [
+        "climax → setting → resolution",
+        "exposition → rising action → climax → resolution",
+        "resolution → climax → setting",
+        "introduction → conclusion → climax"
+      ],
+      "answer": 1,
+      "solution": "Standard Freytag order."
+    },
+    {
+      "q": "Which sentence uses personification?",
+      "options": [
+        "The wind whispered through the trees.",
+        "The wind was strong.",
+        "The trees were green.",
+        "It was windy."
+      ],
+      "answer": 0,
+      "solution": "The wind is given human power to whisper."
+    },
+    {
+      "q": "Best synonym for <b>gigantic</b> in description:",
+      "options": [
+        "small",
+        "huge",
+        "new",
+        "empty"
+      ],
+      "answer": 1,
+      "solution": "Gigantic = huge."
+    },
+    {
+      "q": "An informal letter should:",
+      "options": [
+        "be strictly formal",
+        "use contractions freely",
+        "avoid personal news",
+        "begin with 'To whom it may concern'"
+      ],
+      "answer": 1,
+      "solution": "Contractions (<i>don't, I'm</i>) are fine."
+    },
+    {
+      "q": "The date in an informal letter is written:",
+      "options": [
+        "under the salutation",
+        "under the writer's address",
+        "under the signature",
+        "in the middle"
+      ],
+      "answer": 1,
+      "solution": "Just below the address, top right."
+    },
+    {
+      "q": "The best paragraph plan for a narrative is:",
+      "options": [
+        "one long paragraph",
+        "introduction, incidents, climax, conclusion",
+        "only dialogue",
+        "only description"
+      ],
+      "answer": 1,
+      "solution": "Paragraphs mark stages of the story."
+    },
+    {
+      "q": "A narrative essay is usually written from a:",
+      "options": [
+        "first- or third-person point of view",
+        "second-person only",
+        "impersonal 'one' only",
+        "list of bullet points"
+      ],
+      "answer": 0,
+      "solution": "Choose I or the narrator."
+    },
+    {
+      "q": "Which of these words shows the passing of time?",
+      "options": [
+        "meanwhile",
+        "suddenly",
+        "later",
+        "all of the above"
+      ],
+      "answer": 3,
+      "solution": "All are time signals."
+    },
+    {
+      "q": "Which is <u>not</u> appropriate for a friendly letter?",
+      "options": [
+        "Dear Musa,",
+        "Hello Ada,",
+        "Sir/Madam,",
+        "Hi Chidi,"
+      ],
+      "answer": 2,
+      "solution": "<i>Sir/Madam</i> is for formal letters."
+    },
+    {
+      "q": "<b>Dialogue</b> in a story is:",
+      "options": [
+        "descriptions",
+        "actions",
+        "conversations",
+        "summaries"
+      ],
+      "answer": 2,
+      "solution": "Direct speech between characters."
+    },
+    {
+      "q": "Which punctuation encloses direct speech?",
+      "options": [
+        "parentheses",
+        "quotation marks",
+        "dashes",
+        "semicolons"
+      ],
+      "answer": 1,
+      "solution": "'…' or \"…\" encloses spoken words."
+    },
+    {
+      "q": "Which word signals a new stage in the plot?",
+      "options": [
+        "therefore",
+        "suddenly",
+        "because",
+        "although"
+      ],
+      "answer": 1,
+      "solution": "<i>Suddenly</i> often marks a twist."
+    },
+    {
+      "q": "A vivid opening sentence in a description of a market might be:",
+      "options": [
+        "Markets are useful.",
+        "The market roared with a hundred voices.",
+        "People go to markets.",
+        "There are stalls."
+      ],
+      "answer": 1,
+      "solution": "Auditory imagery — strong verb <i>roared</i>."
+    },
+    {
+      "q": "The last paragraph of a narrative essay should:",
+      "options": [
+        "introduce new characters",
+        "resolve the conflict",
+        "give a bibliography",
+        "list characters"
+      ],
+      "answer": 1,
+      "solution": "Bring the story to a satisfying close."
+    },
+    {
+      "q": "Which of these is <u>not</u> a feature of an informal letter?",
+      "options": [
+        "writer's address",
+        "subject line labelled 'RE:'",
+        "salutation",
+        "complimentary close"
+      ],
+      "answer": 1,
+      "solution": "Subject lines belong to formal letters and memos."
+    },
+    {
+      "q": "Which is best in a descriptive essay: <i>The soup was ___</i>?",
+      "options": [
+        "good",
+        "nice",
+        "fiery with pepper and warm with palm-oil",
+        "okay"
+      ],
+      "answer": 2,
+      "solution": "Sensory taste details."
+    },
+    {
+      "q": "Which linking word shows sequence?",
+      "options": [
+        "firstly",
+        "however",
+        "although",
+        "therefore"
+      ],
+      "answer": 0,
+      "solution": "<i>Firstly</i> lists steps in order."
+    },
+    {
+      "q": "Which is a well-formed complimentary close?",
+      "options": [
+        "Yours friend",
+        "Your friend,",
+        "Your friendly",
+        "Friend yours,"
+      ],
+      "answer": 1,
+      "solution": "<i>Your friend,</i> (comma)."
+    },
+    {
+      "q": "The setting of a story is:",
+      "options": [
+        "the plot",
+        "the time and place",
+        "the moral",
+        "the characters"
+      ],
+      "answer": 1,
+      "solution": "Where and when it happens."
+    },
+    {
+      "q": "Which is a run-on sentence?",
+      "options": [
+        "I read the book. It was long.",
+        "I read the book it was long.",
+        "Because I read the book, I know the story.",
+        "After reading, I slept."
+      ],
+      "answer": 1,
+      "solution": "Two independent clauses without punctuation."
+    },
+    {
+      "q": "<b>Point of view</b> refers to:",
+      "options": [
+        "author's age",
+        "who tells the story",
+        "word count",
+        "genre"
+      ],
+      "answer": 1,
+      "solution": "First-person, third-person, etc."
+    },
+    {
+      "q": "In descriptive writing, appealing to smell might use words like:",
+      "options": [
+        "fragrant, musty, pungent",
+        "loud, faint, sharp",
+        "rough, silky, cold",
+        "bright, dim, dark"
+      ],
+      "answer": 0,
+      "solution": "Olfactory adjectives."
+    },
+    {
+      "q": "Which is a stronger verb than <i>walk</i>?",
+      "options": [
+        "move",
+        "go",
+        "stroll",
+        "do"
+      ],
+      "answer": 2,
+      "solution": "<i>Stroll</i> is more vivid."
+    },
+    {
+      "q": "An informal letter should end with:",
+      "options": [
+        "your surname only",
+        "first name only",
+        "full official title",
+        "your address"
+      ],
+      "answer": 1,
+      "solution": "Just the first name."
+    },
+    {
+      "q": "Which sentence best builds suspense?",
+      "options": [
+        "It was a normal day.",
+        "Something did not feel right about the empty street.",
+        "Ada ate lunch.",
+        "We went home."
+      ],
+      "answer": 1,
+      "solution": "Hints at trouble to come."
+    },
+    {
+      "q": "A <b>flashback</b> is:",
+      "options": [
+        "a future event",
+        "a scene from earlier in time",
+        "a moral",
+        "a description"
+      ],
+      "answer": 1,
+      "solution": "Return to an earlier moment."
+    },
+    {
+      "q": "Which is a common weakness in student narratives?",
+      "options": [
+        "too many boring 'and thens'",
+        "strong opening",
+        "vivid detail",
+        "clear ending"
+      ],
+      "answer": 0,
+      "solution": "Long chains of <i>and then</i> flatten a story."
+    },
+    {
+      "q": "Which is proper paragraphing for a 500-word narrative?",
+      "options": [
+        "one paragraph",
+        "5–7 focused paragraphs",
+        "two paragraphs",
+        "every sentence a paragraph"
+      ],
+      "answer": 1,
+      "solution": "Enough paragraphs to mark plot stages."
+    },
+    {
+      "q": "Which is <u>not</u> a purpose of dialogue?",
+      "options": [
+        "reveal character",
+        "move plot",
+        "state moral",
+        "break monotony"
+      ],
+      "answer": 2,
+      "solution": "Morals are usually shown, not told."
+    },
+    {
+      "q": "Descriptive writing should mostly use:",
+      "options": [
+        "abstract nouns",
+        "concrete details",
+        "statistics",
+        "technical jargon"
+      ],
+      "answer": 1,
+      "solution": "Concrete detail sparks imagination."
+    },
+    {
+      "q": "Which sentence is properly capitalised?",
+      "options": [
+        "last friday, I visited lagos.",
+        "Last Friday, I visited Lagos.",
+        "Last friday, I visited Lagos.",
+        "last Friday, I visited lagos."
+      ],
+      "answer": 1,
+      "solution": "Proper nouns and sentence start capitalised."
+    },
+    {
+      "q": "Which punctuation ends a strong interjection?",
+      "options": [
+        "!",
+        "?",
+        ".",
+        ","
+      ],
+      "answer": 0,
+      "solution": "An exclamation mark."
+    },
+    {
+      "q": "An informal letter uses:",
+      "options": [
+        "formal register",
+        "conversational register",
+        "legal register",
+        "scientific register"
+      ],
+      "answer": 1,
+      "solution": "It is chatty."
+    },
+    {
+      "q": "What should NOT appear in an informal letter to a friend?",
+      "options": [
+        "news",
+        "jokes",
+        "business signature block with company logo",
+        "greetings to family"
+      ],
+      "answer": 2,
+      "solution": "That belongs to a formal business letter."
+    },
+    {
+      "q": "Which is a strong closing line for a story?",
+      "options": [
+        "The end.",
+        "And so, at last, the little dog was safely home.",
+        "We finished.",
+        "This story is over."
+      ],
+      "answer": 1,
+      "solution": "Provides resolution and image."
+    },
+    {
+      "q": "A <b>protagonist</b> is:",
+      "options": [
+        "the villain",
+        "the main character",
+        "a setting",
+        "the narrator only"
+      ],
+      "answer": 1,
+      "solution": "The central character."
+    },
+    {
+      "q": "An <b>antagonist</b> is:",
+      "options": [
+        "a helper",
+        "a rival or opposing force",
+        "the narrator",
+        "the reader"
+      ],
+      "answer": 1,
+      "solution": "Opposes the protagonist."
+    },
+    {
+      "q": "Which of these best describes 'mood' in writing?",
+      "options": [
+        "the author's age",
+        "the emotional atmosphere",
+        "the number of paragraphs",
+        "the title"
+      ],
+      "answer": 1,
+      "solution": "Mood = feeling created in the reader."
+    }
+  ]
+}

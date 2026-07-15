@@ -1,0 +1,596 @@
+{
+  "subject": "English",
+  "level": "SSS 3",
+  "slug": "oral-english",
+  "title": "Oral English",
+  "outline": [
+    "Stress shift in noun/verb pairs",
+    "Phonetic (IPA) transcription",
+    "Rhyme schemes and metre",
+    "Exam techniques for oral English"
+  ],
+  "modules": [
+    {
+      "title": "Stress shift and phonetic transcription",
+      "html": "<p><b>Stress shift</b> occurs when the same spelling is stressed on different syllables depending on whether the word is a noun/adjective or a verb.</p>\n  <table style=\"width:100%;border-collapse:collapse\"><tr><th style=\"text-align:left;padding:4px 8px\">Word</th><th style=\"padding:4px 8px\">Noun / adj.</th><th style=\"padding:4px 8px\">Verb</th></tr>\n  <tr><td>record</td><td>'RE-cord</td><td>re-'CORD</td></tr>\n  <tr><td>present</td><td>'PRE-sent</td><td>pre-'SENT</td></tr>\n  <tr><td>object</td><td>'OB-ject</td><td>ob-'JECT</td></tr>\n  <tr><td>contract</td><td>'CON-tract</td><td>con-'TRACT</td></tr>\n  <tr><td>increase</td><td>'IN-crease</td><td>in-'CREASE</td></tr>\n  <tr><td>subject</td><td>'SUB-ject</td><td>sub-'JECT</td></tr>\n  <tr><td>conflict</td><td>'CON-flict</td><td>con-'FLICT</td></tr></table>\n  <h4>Phonetic transcription</h4>\n  <p>Write words in IPA between slashes: <i>cat /kæt/, night /naɪt/, laughter /ˈlɑːftə/, education /ˌedʒʊˈkeɪʃn/</i>. Learn to identify vowels, consonants, and mark primary (ˈ) and secondary (ˌ) stress.</p>",
+      "examples": [
+        {
+          "q": "Transcribe: <i>cat, night, book, learn</i>.",
+          "a": "/kæt/, /naɪt/, /bʊk/, /lɜːn/."
+        }
+      ]
+    },
+    {
+      "title": "Rhyme patterns and rhythmic structures",
+      "html": "<p><b>Rhyme</b> is the repetition of the same or similar sounds at the ends of words. In poetry, rhyme schemes are labelled with letters (a, b, c…):</p>\n  <ul>\n    <li><b>Couplet</b>: aa bb.</li>\n    <li><b>Alternate</b>: abab.</li>\n    <li><b>Envelope</b>: abba.</li>\n  </ul>\n  <p><b>Rhythm</b> in speech comes from stressed and unstressed syllables. English is a <b>stress-timed</b> language: stressed syllables occur at roughly equal intervals, and unstressed ones are compressed between them.</p>\n  <p>In poetry, this becomes <b>metre</b>: a foot such as iambic (u ' u ') or trochaic (' u ' u) repeats a pattern.</p>",
+      "examples": [
+        {
+          "q": "Give the rhyme scheme: <br/>'The road was long, / The night was dark, / He sang a song, / And left his mark.'",
+          "a": "abab — alternate rhyme (long/song, dark/mark)."
+        }
+      ]
+    },
+    {
+      "title": "Oral English examination practice",
+      "html": "<p>Typical WAEC / NECO Oral English items:</p>\n  <ol>\n    <li><b>Vowel selection</b>: pick the word with the same vowel as a given word.</li>\n    <li><b>Consonant selection</b>: pick the word with the same consonant sound.</li>\n    <li><b>Rhyme</b>: pick the word that rhymes with a given word.</li>\n    <li><b>Stress</b>: pick where the stress falls (1st, 2nd, 3rd syllable) or the odd word out by stress pattern.</li>\n    <li><b>Emphatic stress</b>: given a sentence with a bold word, identify the correct implication.</li>\n    <li><b>Function of stress</b>: identify a noun/verb pair.</li>\n  </ol>\n  <h4>Practice tips</h4>\n  <ul><li>Learn the IPA symbols by heart.</li>\n  <li>Practise minimal pairs: <i>ship/sheep, cat/cut, bit/beat</i>.</li>\n  <li>Read aloud paying attention to stress and intonation.</li></ul>",
+      "examples": [
+        {
+          "q": "In <i>She 'called him a liar</i>, the emphasis on 'called' implies:",
+          "a": "That she did not merely think it or say something less — she went as far as to <i>call</i> him a liar."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Stress in <i>record</i> (noun):",
+      "options": [
+        "1st syllable",
+        "2nd syllable",
+        "3rd syllable",
+        "last syllable"
+      ],
+      "answer": 0,
+      "solution": "'RE-cord'."
+    },
+    {
+      "q": "Stress in <i>record</i> (verb):",
+      "options": [
+        "1st syllable",
+        "2nd syllable",
+        "3rd syllable",
+        "last syllable"
+      ],
+      "answer": 1,
+      "solution": "re-'CORD."
+    },
+    {
+      "q": "Stress in <i>increase</i> (verb):",
+      "options": [
+        "1st syllable",
+        "2nd syllable",
+        "3rd syllable",
+        "last syllable"
+      ],
+      "answer": 1,
+      "solution": "in-'CREASE."
+    },
+    {
+      "q": "Stress in <i>present</i> (noun):",
+      "options": [
+        "1st syllable",
+        "2nd syllable",
+        "3rd syllable",
+        "last syllable"
+      ],
+      "answer": 0,
+      "solution": "'PRE-sent."
+    },
+    {
+      "q": "Stress in <i>contract</i> (verb):",
+      "options": [
+        "1st syllable",
+        "2nd syllable",
+        "3rd syllable",
+        "last syllable"
+      ],
+      "answer": 1,
+      "solution": "con-'TRACT."
+    },
+    {
+      "q": "Stress in <i>object</i> (verb):",
+      "options": [
+        "1st syllable",
+        "2nd syllable",
+        "3rd syllable",
+        "last syllable"
+      ],
+      "answer": 1,
+      "solution": "ob-'JECT."
+    },
+    {
+      "q": "Stress in <i>subject</i> (noun):",
+      "options": [
+        "1st syllable",
+        "2nd syllable",
+        "3rd syllable",
+        "last syllable"
+      ],
+      "answer": 0,
+      "solution": "'SUB-ject."
+    },
+    {
+      "q": "Stress in <i>conflict</i> (verb):",
+      "options": [
+        "1st syllable",
+        "2nd syllable",
+        "3rd syllable",
+        "last syllable"
+      ],
+      "answer": 1,
+      "solution": "con-'FLICT."
+    },
+    {
+      "q": "IPA for <i>cat</i>:",
+      "options": [
+        "/kæt/",
+        "/kʌt/",
+        "/keɪt/",
+        "/kɒt/"
+      ],
+      "answer": 0,
+      "solution": "Short /æ/."
+    },
+    {
+      "q": "IPA for <i>night</i>:",
+      "options": [
+        "/naɪt/",
+        "/nait/",
+        "/neɪt/",
+        "/nɪt/"
+      ],
+      "answer": 0,
+      "solution": "Diphthong /aɪ/."
+    },
+    {
+      "q": "IPA for <i>book</i>:",
+      "options": [
+        "/buːk/",
+        "/bʊk/",
+        "/bʌk/",
+        "/bɒk/"
+      ],
+      "answer": 1,
+      "solution": "Short /ʊ/."
+    },
+    {
+      "q": "IPA for <i>learn</i>:",
+      "options": [
+        "/lɜːn/",
+        "/lɑːn/",
+        "/lɪn/",
+        "/liːn/"
+      ],
+      "answer": 0,
+      "solution": "Long /ɜː/."
+    },
+    {
+      "q": "IPA for <i>ship</i>:",
+      "options": [
+        "/ʃɪp/",
+        "/siːp/",
+        "/sɪp/",
+        "/ʃiːp/"
+      ],
+      "answer": 0,
+      "solution": "/ʃɪp/."
+    },
+    {
+      "q": "IPA for <i>sheep</i>:",
+      "options": [
+        "/ʃiːp/",
+        "/sɪp/",
+        "/sɪːp/",
+        "/ʃɪp/"
+      ],
+      "answer": 0,
+      "solution": "/ʃiːp/."
+    },
+    {
+      "q": "IPA for <i>chair</i>:",
+      "options": [
+        "/tʃeə/",
+        "/keə/",
+        "/ʃeə/",
+        "/tʃɪə/"
+      ],
+      "answer": 0,
+      "solution": "/tʃeə/."
+    },
+    {
+      "q": "Rhyme scheme of a couplet:",
+      "options": [
+        "aa",
+        "abab",
+        "abba",
+        "aabb"
+      ],
+      "answer": 0,
+      "solution": "'aa' pair."
+    },
+    {
+      "q": "Rhyme scheme of alternate rhyme:",
+      "options": [
+        "aabb",
+        "abab",
+        "abba",
+        "aaaa"
+      ],
+      "answer": 1,
+      "solution": "abab."
+    },
+    {
+      "q": "Rhyme scheme of envelope rhyme:",
+      "options": [
+        "abab",
+        "aabb",
+        "abba",
+        "abcd"
+      ],
+      "answer": 2,
+      "solution": "abba."
+    },
+    {
+      "q": "Which pair rhymes?",
+      "options": [
+        "night / mate",
+        "night / kite",
+        "night / neat",
+        "night / knot"
+      ],
+      "answer": 1,
+      "solution": "Both /aɪt/."
+    },
+    {
+      "q": "Which pair rhymes?",
+      "options": [
+        "cat / cut",
+        "cat / bat",
+        "cat / cot",
+        "cat / kite"
+      ],
+      "answer": 1,
+      "solution": "Both /æt/."
+    },
+    {
+      "q": "Which pair rhymes?",
+      "options": [
+        "road / rode",
+        "road / read",
+        "road / red",
+        "road / rate"
+      ],
+      "answer": 0,
+      "solution": "Both /rəʊd/."
+    },
+    {
+      "q": "English speech rhythm is described as:",
+      "options": [
+        "syllable-timed",
+        "stress-timed",
+        "tone-timed",
+        "pitch-timed"
+      ],
+      "answer": 1,
+      "solution": "Stress-timed."
+    },
+    {
+      "q": "Iambic foot pattern:",
+      "options": [
+        "' u",
+        "u '",
+        "' '",
+        "u u"
+      ],
+      "answer": 1,
+      "solution": "Unstressed + stressed."
+    },
+    {
+      "q": "Trochaic foot pattern:",
+      "options": [
+        "' u",
+        "u '",
+        "' '",
+        "u u"
+      ],
+      "answer": 0,
+      "solution": "Stressed + unstressed."
+    },
+    {
+      "q": "Emphatic stress in <i>I 'gave her the book</i> implies:",
+      "options": [
+        "not you",
+        "not sold",
+        "not her",
+        "not the book"
+      ],
+      "answer": 1,
+      "solution": "'gave' — not sold/lent."
+    },
+    {
+      "q": "Emphatic stress in <i>I gave 'her the book</i> implies:",
+      "options": [
+        "not you",
+        "not him",
+        "not the book",
+        "not gave"
+      ],
+      "answer": 1,
+      "solution": "Recipient contrast — her, not him."
+    },
+    {
+      "q": "Emphatic stress in <i>I gave her 'the book</i> implies:",
+      "options": [
+        "not a magazine",
+        "not you",
+        "not gave",
+        "not now"
+      ],
+      "answer": 0,
+      "solution": "Specific book contrast."
+    },
+    {
+      "q": "Which word has the same vowel as <i>book</i>?",
+      "options": [
+        "boot",
+        "full",
+        "fool",
+        "bod"
+      ],
+      "answer": 1,
+      "solution": "Both /ʊ/."
+    },
+    {
+      "q": "Which word has the same vowel as <i>bird</i>?",
+      "options": [
+        "heard",
+        "hard",
+        "hoard",
+        "head"
+      ],
+      "answer": 0,
+      "solution": "Both /ɜː/."
+    },
+    {
+      "q": "Which word has the same vowel as <i>car</i>?",
+      "options": [
+        "cart",
+        "cur",
+        "cot",
+        "cat"
+      ],
+      "answer": 0,
+      "solution": "Both /ɑː/."
+    },
+    {
+      "q": "Odd word out by stress pattern (2-syllable, 1st-syllable stress): <i>table, silver, begin, happy</i>",
+      "options": [
+        "table",
+        "silver",
+        "begin",
+        "happy"
+      ],
+      "answer": 2,
+      "solution": "'begin' is 2nd-syllable stressed."
+    },
+    {
+      "q": "Odd word out by stress pattern (2-syllable, 2nd-syllable stress): <i>enjoy, receive, mother, forget</i>",
+      "options": [
+        "enjoy",
+        "receive",
+        "mother",
+        "forget"
+      ],
+      "answer": 2,
+      "solution": "'mother' is 1st-syllable stressed."
+    },
+    {
+      "q": "Which word carries primary stress on the 3rd syllable?",
+      "options": [
+        "photograph",
+        "photographer",
+        "photographic",
+        "photo"
+      ],
+      "answer": 2,
+      "solution": "pho-to-'GRA-phic."
+    },
+    {
+      "q": "Which word carries primary stress on the 2nd syllable?",
+      "options": [
+        "photograph",
+        "photographer",
+        "photographic",
+        "photo"
+      ],
+      "answer": 1,
+      "solution": "pho-'TO-gra-pher."
+    },
+    {
+      "q": "Which word carries primary stress on the 1st syllable?",
+      "options": [
+        "photograph",
+        "photographer",
+        "photographic",
+        "photocopy"
+      ],
+      "answer": 0,
+      "solution": "'PHO-to-graph."
+    },
+    {
+      "q": "Number of syllables in <i>opportunity</i>:",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2,
+      "solution": "op-por-tu-ni-ty = 5."
+    },
+    {
+      "q": "Primary stress in <i>opportunity</i>:",
+      "options": [
+        "1st",
+        "2nd",
+        "3rd",
+        "4th"
+      ],
+      "answer": 2,
+      "solution": "op-por-'TU-ni-ty."
+    },
+    {
+      "q": "Which pair rhymes?",
+      "options": [
+        "saw / low",
+        "saw / law",
+        "saw / see",
+        "saw / so"
+      ],
+      "answer": 1,
+      "solution": "Both /ɔː/."
+    },
+    {
+      "q": "Which pair rhymes?",
+      "options": [
+        "fire / fair",
+        "fire / hire",
+        "fire / far",
+        "fire / fur"
+      ],
+      "answer": 1,
+      "solution": "Both /faɪə/."
+    },
+    {
+      "q": "Emphatic stress on <i>you</i> in <i>Did 'you take my pen?</i> implies:",
+      "options": [
+        "someone else",
+        "not the pen",
+        "not a book",
+        "not now"
+      ],
+      "answer": 0,
+      "solution": "Contrast — 'you', not somebody else."
+    },
+    {
+      "q": "Emphatic stress on <i>my</i> in <i>Did you take 'my pen?</i> implies:",
+      "options": [
+        "not his/hers",
+        "not the pen",
+        "not you",
+        "not now"
+      ],
+      "answer": 0,
+      "solution": "Possessive contrast."
+    },
+    {
+      "q": "IPA symbol /θ/ is heard in:",
+      "options": [
+        "thin",
+        "this",
+        "sing",
+        "chin"
+      ],
+      "answer": 0,
+      "solution": "/θ/ voiceless as in 'thin'."
+    },
+    {
+      "q": "IPA symbol /ð/ is heard in:",
+      "options": [
+        "this",
+        "thin",
+        "chin",
+        "sing"
+      ],
+      "answer": 0,
+      "solution": "/ð/ voiced as in 'this'."
+    },
+    {
+      "q": "IPA symbol /ŋ/ is heard in:",
+      "options": [
+        "sing",
+        "sin",
+        "chin",
+        "then"
+      ],
+      "answer": 0,
+      "solution": "/ŋ/ as in 'sing'."
+    },
+    {
+      "q": "IPA symbol /ʒ/ is heard in:",
+      "options": [
+        "measure",
+        "see",
+        "she",
+        "chip"
+      ],
+      "answer": 0,
+      "solution": "/ʒ/ as in 'measure'."
+    },
+    {
+      "q": "IPA symbol /ʃ/ is heard in:",
+      "options": [
+        "she",
+        "sea",
+        "chin",
+        "tin"
+      ],
+      "answer": 0,
+      "solution": "/ʃ/ as in 'she'."
+    },
+    {
+      "q": "Which word begins with the semi-vowel /j/?",
+      "options": [
+        "yes",
+        "yet",
+        "you",
+        "all"
+      ],
+      "answer": 3,
+      "solution": "All three begin with /j/."
+    },
+    {
+      "q": "Which word contains three syllables?",
+      "options": [
+        "banana",
+        "chair",
+        "cat",
+        "book"
+      ],
+      "answer": 0,
+      "solution": "ba-na-na = 3."
+    },
+    {
+      "q": "The primary stress in <i>banana</i> falls on the:",
+      "options": [
+        "1st",
+        "2nd",
+        "3rd",
+        "last"
+      ],
+      "answer": 1,
+      "solution": "ba-'NA-na."
+    },
+    {
+      "q": "Which is the correct IPA for <i>education</i>?",
+      "options": [
+        "/edʒʊˈkeɪʃn/",
+        "/ˌedjuˈkeɪʃn/",
+        "/edʊˈkeɪtn/",
+        "/ˈedʒukeɪʃn/"
+      ],
+      "answer": 0,
+      "solution": "/edʒʊˈkeɪʃn/."
+    }
+  ]
+}

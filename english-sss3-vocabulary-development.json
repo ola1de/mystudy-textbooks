@@ -1,0 +1,596 @@
+{
+  "subject": "English",
+  "level": "SSS 3",
+  "slug": "vocabulary-development",
+  "title": "Vocabulary Development",
+  "outline": [
+    "Advanced idioms and proverbs",
+    "Registers: Aviation, Maritime, Commerce, Banking, Administration",
+    "Word formation — prefixes, roots, suffixes",
+    "Contextual word study"
+  ],
+  "modules": [
+    {
+      "title": "Advanced idioms, proverbs and figures of speech",
+      "html": "<p>Senior candidates must recognise <b>advanced idioms</b> — fixed expressions whose meaning is not literal.</p>\n  <ul>\n    <li><i>a wolf in sheep's clothing</i> — a dangerous person pretending to be harmless.</li>\n    <li><i>bite the bullet</i> — accept an unpleasant duty bravely.</li>\n    <li><i>call it a day</i> — stop working.</li>\n    <li><i>cut corners</i> — do something in the easiest but poorest way.</li>\n    <li><i>the ball is in your court</i> — it is your turn to decide.</li>\n    <li><i>throw in the towel</i> — give up.</li>\n    <li><i>hit the nail on the head</i> — describe something exactly right.</li>\n    <li><i>a storm in a teacup</i> — a big fuss about a small matter.</li>\n  </ul>\n  <p><b>Proverbs</b> compress wisdom: <i>A stitch in time saves nine; too many cooks spoil the broth; every cloud has a silver lining; when the going gets tough, the tough get going.</i></p>",
+      "examples": [
+        {
+          "q": "Explain <i>throw in the towel</i>.",
+          "a": "To give up (from boxing, where the trainer throws in a towel to signal surrender)."
+        }
+      ]
+    },
+    {
+      "title": "Registers — Aviation, Maritime, Commerce, Banking, Administration",
+      "html": "<p><b>Aviation</b>: cockpit, cabin crew, altitude, turbulence, runway, taxiing, boarding pass, aviation fuel, air-traffic control, hangar, jet lag, itinerary, callsign.</p>\n  <p><b>Maritime</b>: vessel, cargo, port, harbour, quay, buoy, anchor, stevedore, freight, bill of lading, keel, deck, mast, tanker.</p>\n  <p><b>Commerce</b>: retailer, wholesaler, invoice, quotation, discount, dispatch, warehouse, consignment, gross, net, turnover, credit facility.</p>\n  <p><b>Banking</b>: deposit, withdrawal, ledger, overdraft, credit balance, interest rate, mortgage, cheque, standing order, remittance, teller.</p>\n  <p><b>Administration</b>: memorandum, agenda, minutes, quorum, resolution, ex-officio, delegation, dossier, protocol, secretariat.</p>",
+      "examples": [
+        {
+          "q": "Which register is <i>bill of lading</i>?",
+          "a": "Maritime (shipping) — the document listing goods being shipped."
+        }
+      ]
+    },
+    {
+      "title": "Advanced word study",
+      "html": "<p>Beyond memorising lists, examine words by their <b>parts</b>:</p>\n  <ul>\n    <li><b>Prefix</b> — added at the front (<i>un-, dis-, mis-, over-, anti-, pre-</i>): <i>uneducated, mislead, overrule, anti-social.</i></li>\n    <li><b>Root</b> — the core meaning (<i>bene</i> = good; <i>ject</i> = throw; <i>graph</i> = write).</li>\n    <li><b>Suffix</b> — added at the end (<i>-ness, -ity, -ment, -tion, -able</i>): <i>happiness, ability, movement, decision, readable.</i></li>\n  </ul>\n  <p>Use word roots to guess meaning: <i>benefactor</i> — someone who <b>does good</b> (bene + factor).</p>",
+      "examples": [
+        {
+          "q": "Break down <i>unhappiness</i>: prefix / root / suffix.",
+          "a": "un- (prefix, not) + happy (root) + -ness (suffix, state). Meaning: state of not being happy."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Meaning of <i>a wolf in sheep's clothing</i>:",
+      "options": [
+        "a costume",
+        "a dangerous person appearing harmless",
+        "a shepherd",
+        "a farm tool"
+      ],
+      "answer": 1,
+      "solution": "Deceptive appearance."
+    },
+    {
+      "q": "Meaning of <i>bite the bullet</i>:",
+      "options": [
+        "shoot",
+        "bear pain bravely",
+        "give up",
+        "escape"
+      ],
+      "answer": 1,
+      "solution": "Accept difficulty."
+    },
+    {
+      "q": "Meaning of <i>call it a day</i>:",
+      "options": [
+        "celebrate",
+        "stop working",
+        "start early",
+        "name a holiday"
+      ],
+      "answer": 1,
+      "solution": "Finish for the day."
+    },
+    {
+      "q": "Meaning of <i>cut corners</i>:",
+      "options": [
+        "turn quickly",
+        "do the easy but poor way",
+        "travel",
+        "measure"
+      ],
+      "answer": 1,
+      "solution": "Skimp on quality."
+    },
+    {
+      "q": "Meaning of <i>the ball is in your court</i>:",
+      "options": [
+        "it's your turn to act",
+        "you won",
+        "game over",
+        "begin now"
+      ],
+      "answer": 0,
+      "solution": "Decision is yours."
+    },
+    {
+      "q": "Meaning of <i>throw in the towel</i>:",
+      "options": [
+        "clean up",
+        "give up",
+        "win",
+        "attack"
+      ],
+      "answer": 1,
+      "solution": "Concede/surrender."
+    },
+    {
+      "q": "Meaning of <i>hit the nail on the head</i>:",
+      "options": [
+        "hurt yourself",
+        "be exactly right",
+        "miss",
+        "hammer"
+      ],
+      "answer": 1,
+      "solution": "Correctly identify the issue."
+    },
+    {
+      "q": "Meaning of <i>a storm in a teacup</i>:",
+      "options": [
+        "heavy weather",
+        "a big fuss over nothing",
+        "tea time",
+        "a chore"
+      ],
+      "answer": 1,
+      "solution": "Trivial issue exaggerated."
+    },
+    {
+      "q": "Proverb: <i>A stitch in time saves ___.</i>",
+      "options": [
+        "one",
+        "nine",
+        "ten",
+        "many"
+      ],
+      "answer": 1,
+      "solution": "'nine' — early action saves more work."
+    },
+    {
+      "q": "Proverb meaning of <i>Every cloud has a silver lining</i>:",
+      "options": [
+        "all clouds shine",
+        "every difficulty has a good side",
+        "clouds rain",
+        "silver comes from clouds"
+      ],
+      "answer": 1,
+      "solution": "Hopeful outlook."
+    },
+    {
+      "q": "Register: <i>cockpit</i> belongs to:",
+      "options": [
+        "Maritime",
+        "Aviation",
+        "Banking",
+        "Law"
+      ],
+      "answer": 1,
+      "solution": "Aviation."
+    },
+    {
+      "q": "Register: <i>bill of lading</i>:",
+      "options": [
+        "Aviation",
+        "Maritime",
+        "Banking",
+        "Sports"
+      ],
+      "answer": 1,
+      "solution": "Shipping doc."
+    },
+    {
+      "q": "Register: <i>overdraft</i>:",
+      "options": [
+        "Banking",
+        "Maritime",
+        "Aviation",
+        "Law"
+      ],
+      "answer": 0,
+      "solution": "Banking term."
+    },
+    {
+      "q": "Register: <i>quorum</i>:",
+      "options": [
+        "Administration",
+        "Aviation",
+        "Maritime",
+        "Sports"
+      ],
+      "answer": 0,
+      "solution": "Meeting term."
+    },
+    {
+      "q": "Register: <i>invoice</i>:",
+      "options": [
+        "Commerce",
+        "Aviation",
+        "Maritime",
+        "Sports"
+      ],
+      "answer": 0,
+      "solution": "Commerce."
+    },
+    {
+      "q": "Register: <i>turbulence</i>:",
+      "options": [
+        "Aviation",
+        "Maritime",
+        "Banking",
+        "Commerce"
+      ],
+      "answer": 0,
+      "solution": "Aviation."
+    },
+    {
+      "q": "Register: <i>consignment</i>:",
+      "options": [
+        "Commerce",
+        "Aviation",
+        "Banking",
+        "Sports"
+      ],
+      "answer": 0,
+      "solution": "Commerce/shipping goods sent."
+    },
+    {
+      "q": "Register: <i>agenda</i>:",
+      "options": [
+        "Administration",
+        "Maritime",
+        "Aviation",
+        "Banking"
+      ],
+      "answer": 0,
+      "solution": "Meeting/administration."
+    },
+    {
+      "q": "Register: <i>quay</i> is a:",
+      "options": [
+        "dock alongside a ship",
+        "runway",
+        "market",
+        "office"
+      ],
+      "answer": 0,
+      "solution": "A landing place at a port."
+    },
+    {
+      "q": "Register: <i>stevedore</i>:",
+      "options": [
+        "dock worker who loads/unloads ships",
+        "cabin crew",
+        "banker",
+        "farmer"
+      ],
+      "answer": 0,
+      "solution": "Maritime worker."
+    },
+    {
+      "q": "Meaning of <i>net</i> (Commerce):",
+      "options": [
+        "gross amount",
+        "after deductions",
+        "before deductions",
+        "tax"
+      ],
+      "answer": 1,
+      "solution": "'Net' = after deductions."
+    },
+    {
+      "q": "Meaning of <i>gross</i> (Commerce):",
+      "options": [
+        "after deductions",
+        "before deductions",
+        "tax",
+        "interest"
+      ],
+      "answer": 1,
+      "solution": "'Gross' = before deductions."
+    },
+    {
+      "q": "Meaning of <i>remittance</i> (Banking):",
+      "options": [
+        "a loan",
+        "sending money",
+        "withdrawal",
+        "deposit only"
+      ],
+      "answer": 1,
+      "solution": "Money sent."
+    },
+    {
+      "q": "Meaning of <i>ex-officio</i> (Administration):",
+      "options": [
+        "outside the office",
+        "by virtue of one's position",
+        "fired",
+        "retired"
+      ],
+      "answer": 1,
+      "solution": "Serving by right of office."
+    },
+    {
+      "q": "Prefix <i>un-</i> means:",
+      "options": [
+        "again",
+        "not",
+        "before",
+        "after"
+      ],
+      "answer": 1,
+      "solution": "Not / opposite."
+    },
+    {
+      "q": "Prefix <i>re-</i> means:",
+      "options": [
+        "again",
+        "not",
+        "before",
+        "under"
+      ],
+      "answer": 0,
+      "solution": "Again."
+    },
+    {
+      "q": "Prefix <i>pre-</i> means:",
+      "options": [
+        "after",
+        "before",
+        "between",
+        "against"
+      ],
+      "answer": 1,
+      "solution": "Before."
+    },
+    {
+      "q": "Suffix <i>-able</i> means:",
+      "options": [
+        "capable of",
+        "state of",
+        "one who",
+        "full of"
+      ],
+      "answer": 0,
+      "solution": "'Readable' = able to be read."
+    },
+    {
+      "q": "Suffix <i>-ness</i> forms:",
+      "options": [
+        "nouns from adjectives",
+        "verbs from nouns",
+        "adjectives",
+        "adverbs"
+      ],
+      "answer": 0,
+      "solution": "'Kindness' from 'kind'."
+    },
+    {
+      "q": "Root <i>bene</i> means:",
+      "options": [
+        "bad",
+        "good",
+        "two",
+        "without"
+      ],
+      "answer": 1,
+      "solution": "'Benefit', 'benefactor' — good."
+    },
+    {
+      "q": "Meaning of <i>malicious</i> (root <i>mal</i>):",
+      "options": [
+        "good",
+        "bad / harmful",
+        "strong",
+        "weak"
+      ],
+      "answer": 1,
+      "solution": "'Mal-' = bad."
+    },
+    {
+      "q": "Word from parts: <i>anti- + social</i> means:",
+      "options": [
+        "very social",
+        "opposed to society",
+        "above society",
+        "for society"
+      ],
+      "answer": 1,
+      "solution": "Against."
+    },
+    {
+      "q": "Meaning of <i>overrule</i>:",
+      "options": [
+        "rule again",
+        "reject a lower authority's decision",
+        "under-govern",
+        "measure"
+      ],
+      "answer": 1,
+      "solution": "To reject/reverse."
+    },
+    {
+      "q": "Meaning of <i>misinform</i>:",
+      "options": [
+        "not inform",
+        "inform wrongly",
+        "inform in advance",
+        "re-inform"
+      ],
+      "answer": 1,
+      "solution": "To give wrong information."
+    },
+    {
+      "q": "Register: <i>hangar</i>:",
+      "options": [
+        "Aviation shelter for aircraft",
+        "boat house",
+        "market",
+        "office"
+      ],
+      "answer": 0,
+      "solution": "Aircraft storage."
+    },
+    {
+      "q": "Register: <i>keel</i> is part of:",
+      "options": [
+        "aircraft",
+        "ship",
+        "car",
+        "train"
+      ],
+      "answer": 1,
+      "solution": "Bottom structure of a ship."
+    },
+    {
+      "q": "Register: <i>freight</i>:",
+      "options": [
+        "passengers",
+        "cargo goods",
+        "fuel",
+        "fare"
+      ],
+      "answer": 1,
+      "solution": "Goods transported."
+    },
+    {
+      "q": "Register: <i>ledger</i>:",
+      "options": [
+        "accounts book",
+        "letter",
+        "aviation form",
+        "farm tool"
+      ],
+      "answer": 0,
+      "solution": "Banking/accounting."
+    },
+    {
+      "q": "Register: <i>protocol</i> (Administration):",
+      "options": [
+        "procedure/set of rules",
+        "medicine",
+        "farm plan",
+        "recipe"
+      ],
+      "answer": 0,
+      "solution": "Diplomatic/procedural rules."
+    },
+    {
+      "q": "Meaning of <i>reservation</i> (Aviation):",
+      "options": [
+        "doubt only",
+        "booking a seat",
+        "cancellation",
+        "refund"
+      ],
+      "answer": 1,
+      "solution": "To reserve = book."
+    },
+    {
+      "q": "Meaning of <i>chartered</i> in <i>chartered flight</i>:",
+      "options": [
+        "hired for private use",
+        "cancelled",
+        "scheduled",
+        "free"
+      ],
+      "answer": 0,
+      "solution": "Booked for private use."
+    },
+    {
+      "q": "Meaning of <i>collateral</i> (Banking):",
+      "options": [
+        "free money",
+        "property pledged as security",
+        "fine",
+        "tax"
+      ],
+      "answer": 1,
+      "solution": "Security for a loan."
+    },
+    {
+      "q": "Meaning of <i>subsidy</i> (Commerce/Administration):",
+      "options": [
+        "financial support from government",
+        "tax",
+        "tariff",
+        "dividend"
+      ],
+      "answer": 0,
+      "solution": "Government support."
+    },
+    {
+      "q": "Meaning of <i>manifesto</i> (Administration):",
+      "options": [
+        "public declaration of intentions",
+        "farming tool",
+        "aircraft manual",
+        "bank slip"
+      ],
+      "answer": 0,
+      "solution": "Public statement."
+    },
+    {
+      "q": "Meaning of <i>itinerary</i> (Aviation/travel):",
+      "options": [
+        "itinerary of items",
+        "travel plan/schedule",
+        "meal",
+        "seat"
+      ],
+      "answer": 1,
+      "solution": "Journey plan."
+    },
+    {
+      "q": "Meaning of <i>consignor</i>:",
+      "options": [
+        "one who sends the goods",
+        "one who receives",
+        "dock worker",
+        "banker"
+      ],
+      "answer": 0,
+      "solution": "Sender."
+    },
+    {
+      "q": "Meaning of <i>consignee</i>:",
+      "options": [
+        "sender",
+        "receiver",
+        "banker",
+        "judge"
+      ],
+      "answer": 1,
+      "solution": "Receiver."
+    },
+    {
+      "q": "Meaning of <i>litigation</i>:",
+      "options": [
+        "farming",
+        "court action",
+        "banking",
+        "aviation"
+      ],
+      "answer": 1,
+      "solution": "Legal process."
+    },
+    {
+      "q": "Idiom: <i>burn one's bridges</i>:",
+      "options": [
+        "build safely",
+        "destroy the possibility of return",
+        "travel",
+        "invest"
+      ],
+      "answer": 1,
+      "solution": "Cut off retreat."
+    },
+    {
+      "q": "Idiom: <i>the tip of the iceberg</i>:",
+      "options": [
+        "a small unseen problem",
+        "a small visible part of a large problem",
+        "a cold place",
+        "a summit"
+      ],
+      "answer": 1,
+      "solution": "Small visible part of a bigger issue."
+    }
+  ]
+}

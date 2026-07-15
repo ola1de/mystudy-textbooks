@@ -1,0 +1,596 @@
+{
+  "subject": "English",
+  "level": "SSS 2",
+  "slug": "oral-english",
+  "title": "Oral English",
+  "outline": [
+    "Diphthongs and triphthongs",
+    "Consonant clusters",
+    "Rising and falling intonation",
+    "Emphatic and contrastive stress"
+  ],
+  "modules": [
+    {
+      "title": "Diphthongs and triphthongs",
+      "html": "<p>A <b>diphthong</b> is a vowel sound that glides from one vowel quality to another in the same syllable. RP English has 8 diphthongs:</p>\n  <ul>\n    <li>/eɪ/ — <i>day, name, wait</i></li>\n    <li>/aɪ/ — <i>my, high, buy</i></li>\n    <li>/ɔɪ/ — <i>boy, toy, coin</i></li>\n    <li>/əʊ/ — <i>go, boat, no</i></li>\n    <li>/aʊ/ — <i>now, house, cow</i></li>\n    <li>/ɪə/ — <i>near, here, dear</i></li>\n    <li>/eə/ — <i>hair, care, there</i></li>\n    <li>/ʊə/ — <i>tour, poor</i></li>\n  </ul>\n  <p>A <b>triphthong</b> glides through three vowel qualities in a single syllable: <i>fire</i> /faɪə/, <i>hour</i> /aʊə/, <i>player</i> /pleɪə/, <i>royal</i> /rɔɪəl/, <i>lower</i> /ləʊə/.</p>",
+      "examples": [
+        {
+          "q": "State the diphthong in <i>coin</i>.",
+          "a": "/ɔɪ/."
+        }
+      ]
+    },
+    {
+      "title": "Consonant clusters",
+      "html": "<p>A <b>consonant cluster</b> is a group of two or more consonants next to each other without a vowel between them, at the beginning or end of a syllable.</p>\n  <h4>Initial clusters</h4>\n  <ul><li>2-consonant: <i>play, snow, cry, glass, twin, dwell</i>.</li>\n  <li>3-consonant: <i>splash, string, scream, spread</i> — always begins with /s/, then /p, t, k/, then /l, r, w, j/.</li></ul>\n  <h4>Final clusters</h4>\n  <ul><li>2 consonants: <i>help, hand, jump, best</i>.</li>\n  <li>3 consonants: <i>text /tekst/, next /nekst/, sixths /sɪksθs/</i>.</li></ul>",
+      "examples": [
+        {
+          "q": "Identify the initial cluster in <i>spring</i>.",
+          "a": "/spr/."
+        }
+      ]
+    },
+    {
+      "title": "Intonation and emphatic stress",
+      "html": "<p><b>Intonation</b> is the rise and fall of the voice in speech. Two main tunes:</p>\n  <ul>\n    <li><b>Falling tune (⇘)</b> — used for statements, commands, WH-questions, exclamations: <i>I am tired.⇘ Where is he?⇘</i></li>\n    <li><b>Rising tune (⇗)</b> — used for yes/no questions, polite requests, incomplete lists: <i>Are you coming?⇗ Would you like tea?⇗</i></li>\n  </ul>\n  <p><b>Emphatic (or contrastive) stress</b> puts extra stress on a particular word to change the meaning of a sentence:</p>\n  <ul>\n    <li><b>I</b> gave her the book — <i>(I did, not somebody else)</i></li>\n    <li>I gave her the <b>book</b> — <i>(not the pen)</i></li>\n    <li>I gave <b>her</b> the book — <i>(not him)</i></li>\n  </ul>",
+      "examples": [
+        {
+          "q": "Which tune is used for a yes/no question?",
+          "a": "Rising tune (⇗)."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "A diphthong is:",
+      "options": [
+        "a single vowel",
+        "a vowel that glides between two qualities",
+        "a consonant",
+        "a stress mark"
+      ],
+      "answer": 1,
+      "solution": "Vowel glide."
+    },
+    {
+      "q": "Which word contains /eɪ/?",
+      "options": [
+        "day",
+        "dye",
+        "dew",
+        "doe"
+      ],
+      "answer": 0,
+      "solution": "<i>Day</i> uses /eɪ/."
+    },
+    {
+      "q": "Which word contains /aɪ/?",
+      "options": [
+        "my",
+        "may",
+        "mow",
+        "moo"
+      ],
+      "answer": 0,
+      "solution": "<i>My</i> uses /aɪ/."
+    },
+    {
+      "q": "Which word contains /ɔɪ/?",
+      "options": [
+        "boy",
+        "by",
+        "bay",
+        "bow"
+      ],
+      "answer": 0,
+      "solution": "<i>Boy</i> uses /ɔɪ/."
+    },
+    {
+      "q": "Which word contains /əʊ/?",
+      "options": [
+        "go",
+        "gay",
+        "guy",
+        "gow"
+      ],
+      "answer": 0,
+      "solution": "<i>Go</i> uses /əʊ/."
+    },
+    {
+      "q": "Which word contains /aʊ/?",
+      "options": [
+        "now",
+        "no",
+        "nay",
+        "new"
+      ],
+      "answer": 0,
+      "solution": "<i>Now</i> uses /aʊ/."
+    },
+    {
+      "q": "Which word contains /ɪə/?",
+      "options": [
+        "near",
+        "nay",
+        "no",
+        "new"
+      ],
+      "answer": 0,
+      "solution": "<i>Near</i> uses /ɪə/."
+    },
+    {
+      "q": "Which word contains /eə/?",
+      "options": [
+        "hair",
+        "hair-dryer",
+        "hire",
+        "here"
+      ],
+      "answer": 0,
+      "solution": "<i>Hair</i> uses /eə/."
+    },
+    {
+      "q": "Which word contains /ʊə/?",
+      "options": [
+        "tour",
+        "tor",
+        "toe",
+        "too"
+      ],
+      "answer": 0,
+      "solution": "<i>Tour</i> uses /ʊə/."
+    },
+    {
+      "q": "Which is a triphthong?",
+      "options": [
+        "/faɪə/ (fire)",
+        "/aɪ/",
+        "/əʊ/",
+        "/uː/"
+      ],
+      "answer": 0,
+      "solution": "Three-way glide."
+    },
+    {
+      "q": "Which word has a triphthong?",
+      "options": [
+        "hour",
+        "how",
+        "hop",
+        "hip"
+      ],
+      "answer": 0,
+      "solution": "<i>Hour</i> = /aʊə/."
+    },
+    {
+      "q": "Which word has a triphthong?",
+      "options": [
+        "player",
+        "play",
+        "paw",
+        "pie"
+      ],
+      "answer": 0,
+      "solution": "<i>Player</i> = /pleɪə/."
+    },
+    {
+      "q": "Initial cluster in <i>splash</i>:",
+      "options": [
+        "/spl/",
+        "/pl/",
+        "/sh/",
+        "/lʃ/"
+      ],
+      "answer": 0,
+      "solution": "/spl/ — three-consonant cluster."
+    },
+    {
+      "q": "Final cluster in <i>text</i>:",
+      "options": [
+        "/kst/",
+        "/xt/",
+        "/tekst/",
+        "/ts/"
+      ],
+      "answer": 0,
+      "solution": "/kst/ at the end."
+    },
+    {
+      "q": "Final cluster in <i>sixths</i>:",
+      "options": [
+        "/ksθs/",
+        "/sths/",
+        "/kst/",
+        "/θs/"
+      ],
+      "answer": 0,
+      "solution": "/ksθs/ — a difficult cluster."
+    },
+    {
+      "q": "Which word has an initial cluster?",
+      "options": [
+        "play",
+        "apple",
+        "open",
+        "enter"
+      ],
+      "answer": 0,
+      "solution": "<i>Play</i> begins with /pl/."
+    },
+    {
+      "q": "Which word has a final cluster?",
+      "options": [
+        "help",
+        "he",
+        "hi",
+        "how"
+      ],
+      "answer": 0,
+      "solution": "<i>Help</i> ends with /lp/."
+    },
+    {
+      "q": "Which word has no cluster?",
+      "options": [
+        "street",
+        "strong",
+        "apple",
+        "print"
+      ],
+      "answer": 2,
+      "solution": "<i>Apple</i> has no cluster — /æ.pl/ divides across syllables."
+    },
+    {
+      "q": "Falling tune is used for:",
+      "options": [
+        "yes/no questions",
+        "statements",
+        "polite requests",
+        "calling attention"
+      ],
+      "answer": 1,
+      "solution": "Statements fall."
+    },
+    {
+      "q": "Rising tune is used for:",
+      "options": [
+        "statements",
+        "commands",
+        "yes/no questions",
+        "WH-questions"
+      ],
+      "answer": 2,
+      "solution": "Yes/no questions rise."
+    },
+    {
+      "q": "WH-questions typically take the:",
+      "options": [
+        "rising tune",
+        "falling tune",
+        "flat tune",
+        "emphatic tune"
+      ],
+      "answer": 1,
+      "solution": "They usually fall."
+    },
+    {
+      "q": "A polite request tends to take the:",
+      "options": [
+        "falling tune",
+        "rising tune",
+        "flat tune",
+        "stress tune"
+      ],
+      "answer": 1,
+      "solution": "Rising tune for politeness."
+    },
+    {
+      "q": "Emphatic stress on <b>I</b> in <i>I gave her the book</i> means:",
+      "options": [
+        "not you",
+        "not the book",
+        "not her",
+        "not gave"
+      ],
+      "answer": 0,
+      "solution": "Contrast with someone else."
+    },
+    {
+      "q": "Emphatic stress on <b>her</b> in <i>I gave her the book</i> means:",
+      "options": [
+        "not you",
+        "not the book",
+        "not him",
+        "not gave"
+      ],
+      "answer": 2,
+      "solution": "Contrast with another recipient."
+    },
+    {
+      "q": "Emphatic stress on <b>book</b> means:",
+      "options": [
+        "not you",
+        "not the book",
+        "not a different object",
+        "other things"
+      ],
+      "answer": 2,
+      "solution": "Contrast with something else given."
+    },
+    {
+      "q": "Which word has a two-consonant initial cluster?",
+      "options": [
+        "snake",
+        "apple",
+        "open",
+        "era"
+      ],
+      "answer": 0,
+      "solution": "/sn/ in <i>snake</i>."
+    },
+    {
+      "q": "Which word has a three-consonant initial cluster?",
+      "options": [
+        "spread",
+        "play",
+        "stop",
+        "crab"
+      ],
+      "answer": 0,
+      "solution": "/spr/ in <i>spread</i>."
+    },
+    {
+      "q": "Which word has a three-consonant final cluster?",
+      "options": [
+        "glimpsed",
+        "help",
+        "stop",
+        "cake"
+      ],
+      "answer": 0,
+      "solution": "/mpst/ in <i>glimpsed</i>."
+    },
+    {
+      "q": "Which diphthong is in <i>boat</i>?",
+      "options": [
+        "/aʊ/",
+        "/əʊ/",
+        "/ɔɪ/",
+        "/ɪə/"
+      ],
+      "answer": 1,
+      "solution": "/əʊ/."
+    },
+    {
+      "q": "Which diphthong is in <i>high</i>?",
+      "options": [
+        "/eɪ/",
+        "/aɪ/",
+        "/ɔɪ/",
+        "/əʊ/"
+      ],
+      "answer": 1,
+      "solution": "/aɪ/."
+    },
+    {
+      "q": "Which diphthong is in <i>toy</i>?",
+      "options": [
+        "/eɪ/",
+        "/aɪ/",
+        "/ɔɪ/",
+        "/əʊ/"
+      ],
+      "answer": 2,
+      "solution": "/ɔɪ/."
+    },
+    {
+      "q": "Which word does NOT contain a diphthong?",
+      "options": [
+        "day",
+        "bee",
+        "boy",
+        "now"
+      ],
+      "answer": 1,
+      "solution": "<i>Bee</i> has the pure vowel /iː/."
+    },
+    {
+      "q": "Which pair rhymes?",
+      "options": [
+        "hair / here",
+        "hair / care",
+        "hair / hire",
+        "hair / how"
+      ],
+      "answer": 1,
+      "solution": "Both /eə/."
+    },
+    {
+      "q": "Which pair rhymes?",
+      "options": [
+        "cow / cue",
+        "cow / how",
+        "cow / coo",
+        "cow / cop"
+      ],
+      "answer": 1,
+      "solution": "Both /aʊ/."
+    },
+    {
+      "q": "Which word is spelled with a silent letter?",
+      "options": [
+        "knee",
+        "tree",
+        "tea",
+        "bee"
+      ],
+      "answer": 0,
+      "solution": "<i>K</i> is silent in <i>knee</i>."
+    },
+    {
+      "q": "Which word is spelled with a silent letter?",
+      "options": [
+        "hour",
+        "hop",
+        "hat",
+        "hot"
+      ],
+      "answer": 0,
+      "solution": "<i>H</i> is silent in <i>hour</i>."
+    },
+    {
+      "q": "Which word begins with a semi-vowel (glide)?",
+      "options": [
+        "yes",
+        "tree",
+        "cat",
+        "bat"
+      ],
+      "answer": 0,
+      "solution": "/j/ in <i>yes</i>."
+    },
+    {
+      "q": "Which word begins with the semi-vowel /w/?",
+      "options": [
+        "wet",
+        "yet",
+        "pet",
+        "net"
+      ],
+      "answer": 0,
+      "solution": "<i>Wet</i>."
+    },
+    {
+      "q": "A <b>tune</b> in intonation refers to:",
+      "options": [
+        "a song",
+        "the melody of speech",
+        "volume",
+        "the accent"
+      ],
+      "answer": 1,
+      "solution": "Melodic movement."
+    },
+    {
+      "q": "Intonation for the tag in <i>You are ready, aren't you?</i> when unsure:",
+      "options": [
+        "falling",
+        "rising",
+        "flat",
+        "emphatic"
+      ],
+      "answer": 1,
+      "solution": "Rising when unsure."
+    },
+    {
+      "q": "Intonation for the tag when sure:",
+      "options": [
+        "falling",
+        "rising",
+        "flat",
+        "emphatic"
+      ],
+      "answer": 0,
+      "solution": "Falling when sure."
+    },
+    {
+      "q": "Which of these has a final /nd/ cluster?",
+      "options": [
+        "hand",
+        "hat",
+        "cat",
+        "ham"
+      ],
+      "answer": 0,
+      "solution": "<i>Hand</i> ends /nd/."
+    },
+    {
+      "q": "Which word ends with /ŋk/?",
+      "options": [
+        "think",
+        "that",
+        "them",
+        "those"
+      ],
+      "answer": 0,
+      "solution": "<i>Think</i> = /θɪŋk/."
+    },
+    {
+      "q": "Which word begins with /kl/?",
+      "options": [
+        "clean",
+        "kind",
+        "cat",
+        "kite"
+      ],
+      "answer": 0,
+      "solution": "<i>Clean</i>."
+    },
+    {
+      "q": "Which word begins with /gl/?",
+      "options": [
+        "glass",
+        "get",
+        "gate",
+        "goat"
+      ],
+      "answer": 0,
+      "solution": "<i>Glass</i>."
+    },
+    {
+      "q": "Which pattern is impossible in English initial clusters?",
+      "options": [
+        "/spl/",
+        "/str/",
+        "/ts/",
+        "/pl/"
+      ],
+      "answer": 2,
+      "solution": "/ts/ does not begin English syllables (only across boundaries)."
+    },
+    {
+      "q": "The vowel in <i>fear</i> is:",
+      "options": [
+        "/ɪə/",
+        "/eə/",
+        "/ʊə/",
+        "/aɪ/"
+      ],
+      "answer": 0,
+      "solution": "/ɪə/."
+    },
+    {
+      "q": "The vowel in <i>care</i> is:",
+      "options": [
+        "/ɪə/",
+        "/eə/",
+        "/ʊə/",
+        "/əʊ/"
+      ],
+      "answer": 1,
+      "solution": "/eə/."
+    },
+    {
+      "q": "The vowel in <i>tour</i> is:",
+      "options": [
+        "/ɪə/",
+        "/eə/",
+        "/ʊə/",
+        "/aʊ/"
+      ],
+      "answer": 2,
+      "solution": "/ʊə/."
+    },
+    {
+      "q": "Which word contains the triphthong /aɪə/?",
+      "options": [
+        "fire",
+        "fair",
+        "far",
+        "for"
+      ],
+      "answer": 0,
+      "solution": "<i>Fire</i>."
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "subject": "English",
+  "level": "SSS 1",
+  "slug": "comprehension-summary",
+  "title": "Comprehension and Summary",
+  "outline": [
+    "Skimming vs scanning",
+    "Topic sentences and paragraph structure",
+    "Identifying main and supporting ideas",
+    "Basic summary writing"
+  ],
+  "modules": [
+    {
+      "title": "Skimming and scanning",
+      "html": "<p><b>Skimming</b> is reading fast to get the general idea. <b>Scanning</b> is reading fast to find a specific fact (a date, a name, a figure).</p>\n      <h4>How to skim</h4>\n      <ol><li>Read the title, sub-title and first paragraph.</li>\n      <li>Read the first sentence of each remaining paragraph.</li>\n      <li>Read the last paragraph.</li></ol>\n      <p>You should now know: what the passage is about, the writer's opinion, and how it is organised.</p>\n      <h4>How to scan</h4>\n      <ol><li>Decide the exact keyword you want (a name, a number, a technical term).</li>\n      <li>Let your eyes sweep down the passage looking only for that keyword.</li>\n      <li>Once you find it, read the sentence carefully.</li></ol>",
+      "examples": [
+        {
+          "q": "Which technique would you use to find the date on which the peace treaty was signed?",
+          "a": "<b>Scanning</b> — you want one specific fact."
+        }
+      ]
+    },
+    {
+      "title": "Topic sentences and main points",
+      "html": "<p>A <b>topic sentence</b> states the main idea of a paragraph; the other sentences support it with examples, reasons or details. In most English passages the topic sentence is the <b>first</b> sentence of the paragraph.</p>\n      <p>To find the main point of a paragraph, ask: <i>What one idea do all these sentences prove or explain?</i> That answer, in your own words, is the main point.</p>\n      <p>To find the main idea of a whole passage, combine the topic sentences of all the paragraphs — that is essentially the writer's argument.</p>",
+      "examples": [
+        {
+          "q": "How do you identify the main point of a passage quickly?",
+          "a": "Read the introduction and the first sentence of each paragraph — the main point is usually the sum of the paragraph topic sentences."
+        }
+      ]
+    },
+    {
+      "title": "Basic summary techniques",
+      "html": "<p>A <b>summary</b> is a short retelling of the important information in your own words. Rules:</p>\n      <ul><li>Use your own words as much as possible.</li>\n      <li>Give only what the passage says — no personal opinion.</li>\n      <li>Keep to the word limit (usually one third of the original).</li>\n      <li>Answer <i>exactly</i> the number of points asked for; do not add extra.</li>\n      <li>Write in complete sentences.</li></ul>\n      <p>Steps:</p>\n      <ol><li>Read the passage twice.</li><li>Underline the main points that answer the question.</li><li>Combine them into a rough paragraph.</li><li>Rewrite in clean prose, within the word limit.</li></ol>",
+      "examples": [
+        {
+          "q": "Why should you not include your own opinion in a summary?",
+          "a": "A summary reports what the writer says. Adding opinion misrepresents the passage and costs marks."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Skimming means reading to find…",
+      "options": [
+        "specific facts",
+        "general ideas",
+        "spelling errors",
+        "synonyms"
+      ],
+      "answer": 1,
+      "solution": "Skimming gives you the overall sense."
+    },
+    {
+      "q": "Scanning means reading to find…",
+      "options": [
+        "general ideas",
+        "specific facts",
+        "opinions",
+        "synonyms"
+      ],
+      "answer": 1,
+      "solution": "Scanning hunts for a particular piece of information."
+    },
+    {
+      "q": "A topic sentence usually appears…",
+      "options": [
+        "at the end of the passage",
+        "at the start of a paragraph",
+        "in the middle",
+        "only in dialogue"
+      ],
+      "answer": 1,
+      "solution": "Most paragraphs place the topic sentence first."
+    },
+    {
+      "q": "The main idea of a paragraph is best found by…",
+      "options": [
+        "counting the words",
+        "reading the topic sentence",
+        "reading only the last line",
+        "looking at punctuation"
+      ],
+      "answer": 1,
+      "solution": "Topic sentence carries the main idea."
+    },
+    {
+      "q": "Which is <u>not</u> a rule of good summary writing?",
+      "options": [
+        "Use your own words",
+        "Keep within the word limit",
+        "Add your own opinion",
+        "Answer only what is asked"
+      ],
+      "answer": 2,
+      "solution": "A summary must be objective."
+    },
+    {
+      "q": "If a passage is 300 words, a good summary length is about…",
+      "options": [
+        "10 words",
+        "100 words",
+        "250 words",
+        "500 words"
+      ],
+      "answer": 1,
+      "solution": "Roughly one-third of the original."
+    },
+    {
+      "q": "<i>The stadium was packed. Every seat was taken.</i> The second sentence is a…",
+      "options": [
+        "topic sentence",
+        "supporting detail",
+        "summary",
+        "conclusion"
+      ],
+      "answer": 1,
+      "solution": "It gives evidence for the first sentence."
+    },
+    {
+      "q": "A supporting sentence usually gives…",
+      "options": [
+        "the main idea",
+        "examples or reasons",
+        "the title",
+        "new topic"
+      ],
+      "answer": 1,
+      "solution": "It supports the topic sentence."
+    },
+    {
+      "q": "To find the meaning of a word from context, you should…",
+      "options": [
+        "skip the word",
+        "read the surrounding sentences",
+        "look at the last paragraph",
+        "count letters"
+      ],
+      "answer": 1,
+      "solution": "Context is in nearby sentences."
+    },
+    {
+      "q": "A well-written summary uses…",
+      "options": [
+        "exact words of the writer",
+        "your own words",
+        "only quotations",
+        "only bullet points"
+      ],
+      "answer": 1,
+      "solution": "Paraphrase in your own words."
+    },
+    {
+      "q": "The last paragraph of a passage often contains the…",
+      "options": [
+        "title",
+        "conclusion",
+        "first example",
+        "author's name"
+      ],
+      "answer": 1,
+      "solution": "It usually restates the main point."
+    },
+    {
+      "q": "Which is a scanning task?",
+      "options": [
+        "reading for the writer's tone",
+        "finding the year of an event",
+        "picking a moral",
+        "noting an argument"
+      ],
+      "answer": 1,
+      "solution": "You are hunting for a specific fact."
+    },
+    {
+      "q": "Which is a skimming task?",
+      "options": [
+        "locating a phone number",
+        "getting the gist of a news report",
+        "proof-reading",
+        "calculating a sum"
+      ],
+      "answer": 1,
+      "solution": "You want a quick overview."
+    },
+    {
+      "q": "A paragraph normally develops:",
+      "options": [
+        "several unrelated ideas",
+        "one main idea",
+        "only questions",
+        "only definitions"
+      ],
+      "answer": 1,
+      "solution": "One paragraph = one main idea."
+    },
+    {
+      "q": "The <b>gist</b> of a passage is:",
+      "options": [
+        "the exact wording",
+        "the general meaning",
+        "the punctuation",
+        "the title only"
+      ],
+      "answer": 1,
+      "solution": "Gist = essence."
+    },
+    {
+      "q": "Which is <u>not</u> a summary tip?",
+      "options": [
+        "Read the passage first",
+        "Underline key points",
+        "Add extra examples",
+        "Rewrite in your own words"
+      ],
+      "answer": 2,
+      "solution": "Do not add outside information."
+    },
+    {
+      "q": "<i>Elephants live in herds and eat only plants.</i> The main idea is that elephants…",
+      "options": [
+        "are dangerous",
+        "live socially and are herbivores",
+        "migrate long distances",
+        "use trunks"
+      ],
+      "answer": 1,
+      "solution": "Both parts are captured in (b)."
+    },
+    {
+      "q": "The purpose of the introduction is to…",
+      "options": [
+        "give the conclusion",
+        "introduce the topic",
+        "give examples",
+        "summarise"
+      ],
+      "answer": 1,
+      "solution": "Introduction opens the topic."
+    },
+    {
+      "q": "<i>Ada is careful. She checks her work twice.</i> The relationship between the sentences is:",
+      "options": [
+        "contrast",
+        "cause and effect",
+        "statement and example",
+        "comparison"
+      ],
+      "answer": 2,
+      "solution": "Second sentence illustrates the first."
+    },
+    {
+      "q": "The word <b>gist</b> is closest in meaning to…",
+      "options": [
+        "truth",
+        "essence",
+        "proof",
+        "opinion"
+      ],
+      "answer": 1,
+      "solution": "Gist = essence."
+    },
+    {
+      "q": "If you have 5 minutes to decide whether a book is useful for a project, you should…",
+      "options": [
+        "read every page",
+        "skim the table of contents and introduction",
+        "read the last page",
+        "copy quotations"
+      ],
+      "answer": 1,
+      "solution": "Skimming saves time."
+    },
+    {
+      "q": "Which sentence would make the best topic sentence for a paragraph on healthy eating?",
+      "options": [
+        "Yesterday I ate rice.",
+        "Vegetables and fruits are important for good health.",
+        "My mother is a nurse.",
+        "Chocolate tastes sweet."
+      ],
+      "answer": 1,
+      "solution": "It states a main idea to be developed."
+    },
+    {
+      "q": "A one-sentence answer that captures the main point of a passage is called…",
+      "options": [
+        "quotation",
+        "summary sentence",
+        "topic sentence",
+        "opinion"
+      ],
+      "answer": 1,
+      "solution": "A summary sentence."
+    },
+    {
+      "q": "<i>The lion is called the king of the jungle because of its strength and roar.</i> Reason given is:",
+      "options": [
+        "colour",
+        "habitat",
+        "strength and roar",
+        "diet"
+      ],
+      "answer": 2,
+      "solution": "The passage names strength and roar."
+    },
+    {
+      "q": "What is the first step in writing a summary?",
+      "options": [
+        "Write the answer",
+        "Read the passage carefully",
+        "Count words",
+        "Look at the questions only"
+      ],
+      "answer": 1,
+      "solution": "Understanding comes first."
+    },
+    {
+      "q": "In summary writing, quoting long passages from the text is…",
+      "options": [
+        "encouraged",
+        "allowed if brief",
+        "not allowed",
+        "required"
+      ],
+      "answer": 2,
+      "solution": "You should paraphrase, not quote."
+    },
+    {
+      "q": "A summary should be written in…",
+      "options": [
+        "note form",
+        "dialogue",
+        "complete sentences",
+        "poetry"
+      ],
+      "answer": 2,
+      "solution": "Continuous prose."
+    },
+    {
+      "q": "The <b>tone</b> of a passage refers to…",
+      "options": [
+        "the writer's attitude",
+        "the number of words",
+        "the pictures",
+        "the author's age"
+      ],
+      "answer": 0,
+      "solution": "Tone = writer's attitude."
+    },
+    {
+      "q": "A biased writer is one who…",
+      "options": [
+        "is fair",
+        "favours one side",
+        "reports facts only",
+        "asks questions"
+      ],
+      "answer": 1,
+      "solution": "Bias = one-sided view."
+    },
+    {
+      "q": "Which is the best summary of: <i>Musa woke early, packed his bag and hurried to school.</i>?",
+      "options": [
+        "Musa was tired.",
+        "Musa rushed to school after packing.",
+        "Musa's bag was heavy.",
+        "Musa loves school."
+      ],
+      "answer": 1,
+      "solution": "It captures all key facts briefly."
+    },
+    {
+      "q": "<i>Although he was tired, he continued.</i> The relationship shown is:",
+      "options": [
+        "cause",
+        "contrast",
+        "addition",
+        "time"
+      ],
+      "answer": 1,
+      "solution": "<i>Although</i> signals contrast."
+    },
+    {
+      "q": "Which linker signals an example?",
+      "options": [
+        "for instance",
+        "however",
+        "therefore",
+        "meanwhile"
+      ],
+      "answer": 0,
+      "solution": "<i>For instance</i> introduces an example."
+    },
+    {
+      "q": "Which linker shows a conclusion?",
+      "options": [
+        "for instance",
+        "however",
+        "in conclusion",
+        "furthermore"
+      ],
+      "answer": 2,
+      "solution": "<i>In conclusion</i> ends an argument."
+    },
+    {
+      "q": "<i>She works hard; consequently, she succeeds.</i> <b>Consequently</b> shows:",
+      "options": [
+        "contrast",
+        "cause and effect",
+        "time",
+        "addition"
+      ],
+      "answer": 1,
+      "solution": "It shows a result."
+    },
+    {
+      "q": "Which word does NOT signal contrast?",
+      "options": [
+        "however",
+        "but",
+        "therefore",
+        "yet"
+      ],
+      "answer": 2,
+      "solution": "<i>Therefore</i> shows result, not contrast."
+    },
+    {
+      "q": "Reading only headings and sub-headings is called…",
+      "options": [
+        "scanning",
+        "summarising",
+        "skimming",
+        "translating"
+      ],
+      "answer": 2,
+      "solution": "Skimming gets you a quick overview."
+    },
+    {
+      "q": "A synonym for <b>brief</b> in <i>a brief summary</i> is:",
+      "options": [
+        "long",
+        "concise",
+        "dull",
+        "complete"
+      ],
+      "answer": 1,
+      "solution": "Brief = concise."
+    },
+    {
+      "q": "The best way to check your summary is to…",
+      "options": [
+        "count letters",
+        "re-read it against the passage",
+        "ask a friend",
+        "translate it"
+      ],
+      "answer": 1,
+      "solution": "Compare with the source for accuracy."
+    },
+    {
+      "q": "<i>He came, he saw, he conquered.</i> The sentence style is:",
+      "options": [
+        "periodic",
+        "balanced / parallel",
+        "fragmented",
+        "interrogative"
+      ],
+      "answer": 1,
+      "solution": "Three parallel clauses."
+    },
+    {
+      "q": "A passage on the dangers of drug abuse would likely have the tone of:",
+      "options": [
+        "humour",
+        "warning",
+        "romance",
+        "suspense"
+      ],
+      "answer": 1,
+      "solution": "Its purpose is to warn."
+    },
+    {
+      "q": "Which is a factual sentence?",
+      "options": [
+        "Lagos is a beautiful city.",
+        "Lagos is the largest city in Nigeria.",
+        "Lagos is better than Abuja.",
+        "Lagos should be the capital."
+      ],
+      "answer": 1,
+      "solution": "Fact can be verified."
+    },
+    {
+      "q": "Which is an opinion?",
+      "options": [
+        "Water boils at 100 °C.",
+        "English is the easiest subject.",
+        "Nigeria is in West Africa.",
+        "Ice is cold."
+      ],
+      "answer": 1,
+      "solution": "Cannot be verified — a personal view."
+    },
+    {
+      "q": "Which strategy helps most in answering vocabulary-in-context questions?",
+      "options": [
+        "guessing",
+        "using context clues",
+        "memorising every word",
+        "asking a friend"
+      ],
+      "answer": 1,
+      "solution": "Context clues reveal meaning."
+    },
+    {
+      "q": "<i>Ada studies daily; hence, she excels.</i> <b>Hence</b> means:",
+      "options": [
+        "therefore",
+        "however",
+        "meanwhile",
+        "otherwise"
+      ],
+      "answer": 0,
+      "solution": "Hence = therefore."
+    },
+    {
+      "q": "A well-organised paragraph should have:",
+      "options": [
+        "only one sentence",
+        "many unrelated sentences",
+        "one main idea and support",
+        "only questions"
+      ],
+      "answer": 2,
+      "solution": "Unity + support."
+    },
+    {
+      "q": "Which is <u>not</u> a form of textual evidence?",
+      "options": [
+        "direct quotation",
+        "paraphrase",
+        "opinion",
+        "statistic from the passage"
+      ],
+      "answer": 2,
+      "solution": "Personal opinion is not evidence from the text."
+    },
+    {
+      "q": "<i>She entered quietly so as not to wake the baby.</i> The relationship is:",
+      "options": [
+        "contrast",
+        "purpose",
+        "time",
+        "comparison"
+      ],
+      "answer": 1,
+      "solution": "<i>So as not to</i> signals purpose."
+    },
+    {
+      "q": "Skimming and scanning are both:",
+      "options": [
+        "slow reading strategies",
+        "speed-reading strategies",
+        "summary techniques",
+        "punctuation techniques"
+      ],
+      "answer": 1,
+      "solution": "Both are quick-reading skills."
+    },
+    {
+      "q": "Which is the best synonym for <b>concise</b>?",
+      "options": [
+        "long-winded",
+        "brief",
+        "difficult",
+        "careless"
+      ],
+      "answer": 1,
+      "solution": "Concise = brief."
+    },
+    {
+      "q": "The main idea of the whole passage is called the…",
+      "options": [
+        "topic sentence",
+        "central / main idea",
+        "conclusion",
+        "introduction"
+      ],
+      "answer": 1,
+      "solution": "Central idea = main idea of the whole text."
+    }
+  ]
+}

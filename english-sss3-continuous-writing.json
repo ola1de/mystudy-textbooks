@@ -1,0 +1,597 @@
+{
+  "subject": "English",
+  "level": "SSS 3",
+  "slug": "continuous-writing",
+  "title": "Continuous Writing",
+  "outline": [
+    "Article structure and tone",
+    "Speech structure and delivery",
+    "Formal reports and recommendations",
+    "Minutes of meetings",
+    "Business letters"
+  ],
+  "modules": [
+    {
+      "title": "Article writing",
+      "html": "<p>An <b>article</b> is written for a newspaper or magazine and read by the general public. It must have a catchy <b>title</b>, a clear <b>by-line</b>, and an engaging opening.</p>\n  <h4>Structure</h4>\n  <ol>\n    <li><b>Title</b> — short, striking (e.g. <i>Why Every Youth Must Vote</i>).</li>\n    <li><b>By-line</b> — <i>By Amaka Okoye</i>.</li>\n    <li><b>Introduction</b> — hook the reader and state the issue.</li>\n    <li><b>Body</b> — 3–5 well-developed paragraphs with subheadings if useful.</li>\n    <li><b>Conclusion</b> — restate the point / call to action.</li>\n  </ol>\n  <p>Tone: informative, slightly conversational but not slangy.</p>",
+      "examples": [
+        {
+          "q": "Give a possible title for an article on the dangers of drug abuse among youths.",
+          "a": "e.g. <i>Silent Killer: The Rising Menace of Drug Abuse Among Youths</i>."
+        }
+      ]
+    },
+    {
+      "title": "Speeches and formal reports",
+      "html": "<p>A <b>speech</b> is meant to be spoken. It has:</p>\n  <ol><li><b>Salutation</b> — <i>The Principal, distinguished guests, teachers, fellow students…</i></li>\n    <li><b>Opening</b> — greet, state occasion, state your topic.</li>\n    <li><b>Body</b> — organised points, examples, personal touches.</li>\n    <li><b>Closing</b> — memorable line + <i>Thank you for listening.</i></li></ol>\n  <p>Use short sentences, repetition and rhetorical questions to engage listeners.</p>\n  <h4>Formal report</h4>\n  <ul>\n    <li><b>Title / heading</b> — subject + author + date.</li>\n    <li><b>Introduction</b> — purpose and scope.</li>\n    <li><b>Findings</b> — under sub-headings or numbered points.</li>\n    <li><b>Conclusion</b> — summary of findings.</li>\n    <li><b>Recommendations</b> — what should be done next.</li>\n  </ul>",
+      "examples": [
+        {
+          "q": "Suggest a strong opening line for a speech on the importance of reading.",
+          "a": "e.g. <i>A room without books, said Cicero, is a body without a soul — and my aim today is to argue why every one of us must feed our souls with words.</i>"
+        }
+      ]
+    },
+    {
+      "title": "Minutes of meeting and business letters",
+      "html": "<p><b>Minutes</b> record proceedings of a meeting.</p>\n  <ol>\n    <li><b>Heading</b>: <i>Minutes of the meeting of ... held on ...</i></li>\n    <li>List of members present, absent with / without apology.</li>\n    <li>Adoption of the previous minutes.</li>\n    <li>Matters arising.</li>\n    <li>Agenda items — numbered, each with a heading and a summary of decisions.</li>\n    <li>Any other business (AOB).</li>\n    <li>Date and time of next meeting.</li>\n    <li>Adjournment.</li>\n    <li>Signature of secretary and chairperson.</li>\n  </ol>\n  <p><b>Business letters</b> (a formal letter for commercial purposes) include: writer's address, date, recipient's address, salutation, subject line, body (purpose → details → action), complimentary close, signature and typed name/title.</p>",
+      "examples": [
+        {
+          "q": "Which section of the minutes lists items to be discussed?",
+          "a": "The <b>agenda</b> — usually included in the opening notice; discussed as numbered items in the minutes."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "An article is written for:",
+      "options": [
+        "a friend",
+        "a general public / readership",
+        "one teacher",
+        "only for classmates"
+      ],
+      "answer": 1,
+      "solution": "Publication-style."
+    },
+    {
+      "q": "Which appears just below the title of an article?",
+      "options": [
+        "date",
+        "by-line",
+        "salutation",
+        "conclusion"
+      ],
+      "answer": 1,
+      "solution": "'By Amaka Okoye'."
+    },
+    {
+      "q": "Article tone is best described as:",
+      "options": [
+        "chatty slang",
+        "informative and engaging",
+        "legal",
+        "poetic"
+      ],
+      "answer": 1,
+      "solution": "Informative + engaging."
+    },
+    {
+      "q": "Speech salutation begins with:",
+      "options": [
+        "Dear friends,",
+        "The Principal, distinguished guests…",
+        "Yours faithfully,",
+        "To whom it may concern,"
+      ],
+      "answer": 1,
+      "solution": "Salutation to the audience."
+    },
+    {
+      "q": "A speech usually ends with:",
+      "options": [
+        "a bibliography",
+        "Thank you for listening.",
+        "Yours sincerely,",
+        "stanza break"
+      ],
+      "answer": 1,
+      "solution": "Standard close."
+    },
+    {
+      "q": "A formal report should:",
+      "options": [
+        "be emotional",
+        "present findings objectively",
+        "tell a story",
+        "include jokes"
+      ],
+      "answer": 1,
+      "solution": "Objective and factual."
+    },
+    {
+      "q": "Which is <u>not</u> part of a formal report?",
+      "options": [
+        "Findings",
+        "Recommendations",
+        "Anecdotes and jokes",
+        "Conclusion"
+      ],
+      "answer": 2,
+      "solution": "Jokes are not appropriate."
+    },
+    {
+      "q": "Minutes are:",
+      "options": [
+        "a plan of a meeting",
+        "official record of a meeting",
+        "invitation letter",
+        "agenda only"
+      ],
+      "answer": 1,
+      "solution": "Record of proceedings."
+    },
+    {
+      "q": "Which section of minutes covers unresolved items from a previous meeting?",
+      "options": [
+        "Matters arising",
+        "AOB",
+        "Adjournment",
+        "Present"
+      ],
+      "answer": 0,
+      "solution": "Matters arising."
+    },
+    {
+      "q": "AOB in minutes stands for:",
+      "options": [
+        "Any Other Business",
+        "All Officers Board",
+        "Assembly of Big Boys",
+        "Any Old Book"
+      ],
+      "answer": 0,
+      "solution": "Standard abbreviation."
+    },
+    {
+      "q": "Which is the correct order in minutes?",
+      "options": [
+        "Adjournment → Agenda → Attendance",
+        "Attendance → Previous minutes → Matters arising → Agenda items → AOB → Adjournment",
+        "AOB → Attendance",
+        "Agenda → Adjournment → Attendance"
+      ],
+      "answer": 1,
+      "solution": "Standard order."
+    },
+    {
+      "q": "Business letter: complimentary close for <i>Dear Sir</i>:",
+      "options": [
+        "Yours faithfully,",
+        "Yours sincerely,",
+        "Your loving friend,",
+        "Cheers,"
+      ],
+      "answer": 0,
+      "solution": "BrE convention."
+    },
+    {
+      "q": "Business letter: complimentary close for <i>Dear Mr Adamu</i>:",
+      "options": [
+        "Yours faithfully,",
+        "Yours sincerely,",
+        "Your friend,",
+        "Take care,"
+      ],
+      "answer": 1,
+      "solution": "Named recipient → sincerely."
+    },
+    {
+      "q": "A subject line in a business letter should be:",
+      "options": [
+        "long",
+        "short and direct",
+        "dramatic",
+        "optional and skipped"
+      ],
+      "answer": 1,
+      "solution": "Short + direct."
+    },
+    {
+      "q": "Which is <u>not</u> a good article title?",
+      "options": [
+        "Silent Killer: Drug Abuse Among Youths",
+        "Something About Something",
+        "Why Nigeria Needs Free Wi-Fi",
+        "Girls Rising: Education for All"
+      ],
+      "answer": 1,
+      "solution": "Vague titles fail to hook readers."
+    },
+    {
+      "q": "Speech delivery techniques include:",
+      "options": [
+        "short sentences and rhetorical questions",
+        "monotone reading",
+        "whispering only",
+        "reading verbatim"
+      ],
+      "answer": 0,
+      "solution": "Engagement techniques."
+    },
+    {
+      "q": "Best strategy for speech opening:",
+      "options": [
+        "apologise",
+        "state a striking fact / quotation",
+        "list references",
+        "begin with jokes irrelevant to topic"
+      ],
+      "answer": 1,
+      "solution": "Grab attention."
+    },
+    {
+      "q": "A recommendation in a report should be:",
+      "options": [
+        "vague",
+        "specific and actionable",
+        "optional",
+        "emotional"
+      ],
+      "answer": 1,
+      "solution": "Specific + actionable."
+    },
+    {
+      "q": "Findings in a report may be organised by:",
+      "options": [
+        "sub-headings and numbered points",
+        "story arc",
+        "dialogue",
+        "stanzas"
+      ],
+      "answer": 0,
+      "solution": "Sub-heads / numbered."
+    },
+    {
+      "q": "Minutes should be written in:",
+      "options": [
+        "future tense",
+        "past tense",
+        "present tense",
+        "imperative"
+      ],
+      "answer": 1,
+      "solution": "Past tense — recording what happened."
+    },
+    {
+      "q": "Minutes should be signed by:",
+      "options": [
+        "secretary and chairperson",
+        "only secretary",
+        "only chairperson",
+        "all attendees"
+      ],
+      "answer": 0,
+      "solution": "Both."
+    },
+    {
+      "q": "Which is a formal opening of a business letter?",
+      "options": [
+        "I write to bring to your attention…",
+        "Hey there,",
+        "Hope you're good.",
+        "Yo!"
+      ],
+      "answer": 0,
+      "solution": "Formal opening."
+    },
+    {
+      "q": "Which is a suitable body-paragraph structure in an article?",
+      "options": [
+        "random ideas",
+        "topic sentence → evidence → explanation",
+        "dialogue → monologue",
+        "random questions"
+      ],
+      "answer": 1,
+      "solution": "Standard structure."
+    },
+    {
+      "q": "An article on <i>the value of vocational training</i> is best classified as:",
+      "options": [
+        "narrative",
+        "expository/argumentative",
+        "descriptive",
+        "dialogic"
+      ],
+      "answer": 1,
+      "solution": "Discusses a case."
+    },
+    {
+      "q": "The most persuasive rhetorical device in a speech is often:",
+      "options": [
+        "repetition",
+        "translation",
+        "spelling",
+        "abbreviation"
+      ],
+      "answer": 0,
+      "solution": "Repetition emphasises."
+    },
+    {
+      "q": "Which is <u>not</u> found in a business letter?",
+      "options": [
+        "subject line",
+        "salutation",
+        "greetings to family",
+        "complimentary close"
+      ],
+      "answer": 2,
+      "solution": "Personal greetings are for informal letters."
+    },
+    {
+      "q": "Which is a report's introduction section supposed to state?",
+      "options": [
+        "purpose and scope",
+        "the joke",
+        "the writer's name only",
+        "the location"
+      ],
+      "answer": 0,
+      "solution": "Purpose + scope."
+    },
+    {
+      "q": "An article on drug abuse is best structured by:",
+      "options": [
+        "chronology of the writer's day",
+        "causes / effects / solutions",
+        "poetry",
+        "dialogue"
+      ],
+      "answer": 1,
+      "solution": "Systematic discussion."
+    },
+    {
+      "q": "Speech titled 'Reading Made Me' should aim to:",
+      "options": [
+        "inspire and inform",
+        "confuse",
+        "apologise",
+        "threaten"
+      ],
+      "answer": 0,
+      "solution": "Motivational speech."
+    },
+    {
+      "q": "The reading of the previous minutes is called:",
+      "options": [
+        "confirmation / adoption of minutes",
+        "AOB",
+        "matters arising",
+        "agenda"
+      ],
+      "answer": 0,
+      "solution": "Adoption of minutes."
+    },
+    {
+      "q": "A report's <i>conclusion</i>:",
+      "options": [
+        "adds new findings",
+        "summarises key findings",
+        "tells jokes",
+        "apologises"
+      ],
+      "answer": 1,
+      "solution": "Wraps up findings."
+    },
+    {
+      "q": "Which is <u>not</u> a legitimate report section?",
+      "options": [
+        "Findings",
+        "Recommendations",
+        "Dialogue between characters",
+        "Introduction"
+      ],
+      "answer": 2,
+      "solution": "Dialogue is fiction."
+    },
+    {
+      "q": "Article headings should be:",
+      "options": [
+        "long",
+        "short and eye-catching",
+        "in code",
+        "in another language"
+      ],
+      "answer": 1,
+      "solution": "Short + striking."
+    },
+    {
+      "q": "Which is a rhetorical technique for speeches?",
+      "options": [
+        "parallelism",
+        "onomatopoeia",
+        "stanza",
+        "rhyme scheme"
+      ],
+      "answer": 0,
+      "solution": "Parallelism engages."
+    },
+    {
+      "q": "Which is <u>not</u> proper for a business letter?",
+      "options": [
+        "signature",
+        "company logo (if using letterhead)",
+        "selfie",
+        "typed name and title"
+      ],
+      "answer": 2,
+      "solution": "Selfies are unprofessional."
+    },
+    {
+      "q": "A speech should be timed to:",
+      "options": [
+        "last as long as possible",
+        "fit the allotted time",
+        "one minute only",
+        "five hours"
+      ],
+      "answer": 1,
+      "solution": "Respect the time."
+    },
+    {
+      "q": "Speech: '…before I close, permit me to leave you with the words of …' is a common:",
+      "options": [
+        "opening",
+        "closing",
+        "introduction",
+        "dialogue"
+      ],
+      "answer": 1,
+      "solution": "Closing gambit."
+    },
+    {
+      "q": "An article body paragraph should end with:",
+      "options": [
+        "a link to the next point",
+        "a picture",
+        "a signature",
+        "a footnote only"
+      ],
+      "answer": 0,
+      "solution": "Smooth transition."
+    },
+    {
+      "q": "Which is a strong closing line for an article?",
+      "options": [
+        "The end.",
+        "The choice is ours: act now, or watch this crisis worsen tomorrow.",
+        "This article ends here.",
+        "End."
+      ],
+      "answer": 1,
+      "solution": "Call to action."
+    },
+    {
+      "q": "A business letter uses:",
+      "options": [
+        "contractions freely",
+        "full forms (do not, cannot)",
+        "emojis",
+        "hashtags"
+      ],
+      "answer": 1,
+      "solution": "Formal — no contractions."
+    },
+    {
+      "q": "Minutes usually record decisions in:",
+      "options": [
+        "passive constructions",
+        "active only",
+        "questions",
+        "dialogue"
+      ],
+      "answer": 0,
+      "solution": "Often passive: 'it was resolved that…'."
+    },
+    {
+      "q": "A speech should be written for:",
+      "options": [
+        "reading silently",
+        "speaking aloud",
+        "only for printing",
+        "only for messaging"
+      ],
+      "answer": 1,
+      "solution": "Oral delivery."
+    },
+    {
+      "q": "Which is a rhetorical question suitable for a speech?",
+      "options": [
+        "What is the time?",
+        "Are we, as a nation, ready to secure our children's future?",
+        "Where is the market?",
+        "How much is this?"
+      ],
+      "answer": 1,
+      "solution": "Engages audience."
+    },
+    {
+      "q": "A report's title should be:",
+      "options": [
+        "clear about subject, author, date",
+        "emotional",
+        "funny",
+        "dramatic"
+      ],
+      "answer": 0,
+      "solution": "Clear + informative."
+    },
+    {
+      "q": "A business letter should have:",
+      "options": [
+        "one clear purpose",
+        "many unrelated topics",
+        "only greetings",
+        "only signature"
+      ],
+      "answer": 0,
+      "solution": "Focused purpose."
+    },
+    {
+      "q": "Which is <u>not</u> a component of minutes?",
+      "options": [
+        "agenda / heading",
+        "attendance",
+        "matters arising",
+        "fictional narrative"
+      ],
+      "answer": 3,
+      "solution": "Minutes are factual."
+    },
+    {
+      "q": "Article writers often use ___ to soften their tone.",
+      "options": [
+        "rhetorical questions",
+        "insults",
+        "legal jargon",
+        "codes"
+      ],
+      "answer": 0,
+      "solution": "Rhetorical questions."
+    },
+    {
+      "q": "Which is <u>not</u> good in a business letter?",
+      "options": [
+        "clear subject line",
+        "polite tone",
+        "threats",
+        "factual detail"
+      ],
+      "answer": 2,
+      "solution": "Threats are inappropriate."
+    },
+    {
+      "q": "Speech: use of 'we' and 'our' creates:",
+      "options": [
+        "distance",
+        "inclusiveness",
+        "sarcasm",
+        "boredom"
+      ],
+      "answer": 1,
+      "solution": "Includes the audience."
+    },
+    {
+      "q": "Which section of a report suggests future action?",
+      "options": [
+        "Findings",
+        "Recommendations",
+        "Introduction",
+        "Attendance"
+      ],
+      "answer": 1,
+      "solution": "Recommendations."
+    }
+  ]
+}

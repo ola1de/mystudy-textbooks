@@ -1,0 +1,597 @@
+{
+  "subject": "English",
+  "level": "SSS 3",
+  "slug": "grammar-structure",
+  "title": "Grammar and Structure",
+  "outline": [
+    "Direct / indirect speech conversion",
+    "Complex concord and exceptions",
+    "Question tags",
+    "Relative pronouns and clauses",
+    "Syntactic analysis of sentences"
+  ],
+  "modules": [
+    {
+      "title": "Direct and indirect (reported) speech",
+      "html": "<p><b>Direct speech</b> gives the exact words of a speaker inside quotation marks: <i>She said, \"I am tired.\"</i></p>\n  <p><b>Indirect (reported) speech</b> gives the meaning without quotation marks and usually shifts the tense one step back.</p>\n  <h4>Tense shifts</h4>\n  <table style=\"width:100%;border-collapse:collapse\"><tr><th style=\"text-align:left;padding:4px 8px\">Direct</th><th style=\"padding:4px 8px\">Indirect</th></tr>\n  <tr><td>simple present</td><td>simple past</td></tr>\n  <tr><td>present continuous</td><td>past continuous</td></tr>\n  <tr><td>present perfect / simple past</td><td>past perfect</td></tr>\n  <tr><td>will</td><td>would</td></tr>\n  <tr><td>can</td><td>could</td></tr>\n  <tr><td>may</td><td>might</td></tr>\n  <tr><td>must</td><td>had to</td></tr></table>\n  <h4>Other changes</h4>\n  <ul>\n    <li>Time and place words shift: <i>today→that day, tomorrow→the next day, yesterday→the day before, now→then, here→there, this→that.</i></li>\n    <li>Pronouns adjust to the reporter's perspective.</li>\n    <li>Questions become statements: use <i>if / whether</i> for yes/no questions; keep WH-words for WH-questions; drop <i>do / does / did</i>.</li>\n    <li>Commands use <i>told + object + to-infinitive</i>: <i>He said, \"Sit down.\" → He told them to sit down.</i></li>\n  </ul>",
+      "examples": [
+        {
+          "q": "Report: <i>She said, \"I will help you tomorrow.\"</i>",
+          "a": "<i>She said (that) she would help me the next day.</i>"
+        }
+      ]
+    },
+    {
+      "title": "Complex concord and grammatical exceptions",
+      "html": "<p>Some concord (agreement) situations trip up even careful writers.</p>\n  <ol>\n    <li><i>Neither of / either of / each of / one of + plural noun</i> → singular verb: <i>Neither of the boys <b>is</b> here.</i></li>\n    <li><i>None of + plural noun</i> — plural verb: <i>None of the students <b>have</b> arrived.</i></li>\n    <li><i>The rich / the poor / the sick</i> — plural: <i>The rich <b>are</b> not always happy.</i></li>\n    <li><i>A pair of, a series of, a variety of, a bunch of</i> — singular: <i>A series of tests <b>has</b> been scheduled.</i></li>\n    <li><i>More than one</i> — singular: <i>More than one student <b>was</b> late.</i></li>\n    <li>Countries and titles ending in -s (<i>the United States, the Philippines, Wuthering Heights</i>) — singular.</li>\n    <li>Percentages / fractions agree with the noun after <i>of</i>: <i>Two-thirds of the cake <b>is</b> gone; two-thirds of the students <b>are</b> ready.</i></li>\n  </ol>",
+      "examples": [
+        {
+          "q": "Correct: <i>None of the water (is/are) contaminated.</i>",
+          "a": "<b>is</b> — <i>water</i> is uncountable/singular."
+        }
+      ]
+    },
+    {
+      "title": "Question tags, relatives and syntactic analysis",
+      "html": "<p><b>Question tags</b> confirm or seek agreement.</p>\n  <ul>\n    <li>Positive statement → negative tag: <i>She sings well, doesn't she?</i></li>\n    <li>Negative statement → positive tag: <i>He has not left, has he?</i></li>\n    <li>Special: <i>I am, aren't I?; Let's go, shall we?; Open the door, will you?; Everyone is here, aren't they?; Nobody came, did they?</i></li>\n  </ul>\n  <p><b>Relative pronouns</b>: <i>who</i> (people), <i>which</i> (things), <i>whose</i> (possession), <i>that</i> (defining), <i>whom</i> (object). Non-defining clauses take commas: <i>My father, who lives in Kano, is a lawyer.</i></p>\n  <h4>Syntactic analysis</h4>\n  <p>Break a sentence into <b>subject + predicate</b>, then the predicate into <b>verb + object / complement + adjuncts</b>. Identify each clause: main (independent) or subordinate.</p>\n  <p><i>Although it was raining (subordinate: adverbial), the boys, who had planned the game (relative), continued to play in the field (main).</i></p>",
+      "examples": [
+        {
+          "q": "Add a tag: <i>She has finished the assignment, __?</i>",
+          "a": "<i>hasn't she?</i>"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Report: <i>She said, \"I am tired.\"</i>",
+      "options": [
+        "She said she is tired.",
+        "She said she was tired.",
+        "She said she had been tired.",
+        "She said she will be tired."
+      ],
+      "answer": 1,
+      "solution": "Present → past."
+    },
+    {
+      "q": "Report: <i>He said, \"I have finished the work.\"</i>",
+      "options": [
+        "He said he has finished the work.",
+        "He said he had finished the work.",
+        "He said he had finish the work.",
+        "He said he was finishing the work."
+      ],
+      "answer": 1,
+      "solution": "Present perfect → past perfect."
+    },
+    {
+      "q": "Report: <i>They said, \"We will come tomorrow.\"</i>",
+      "options": [
+        "They said they will come tomorrow.",
+        "They said they would come the next day.",
+        "They said they came the next day.",
+        "They said they had come tomorrow."
+      ],
+      "answer": 1,
+      "solution": "will→would; tomorrow→the next day."
+    },
+    {
+      "q": "Report: <i>Ada asked, \"Where are you going?\"</i>",
+      "options": [
+        "Ada asked where I am going.",
+        "Ada asked where I was going.",
+        "Ada asked where was I going.",
+        "Ada asked I where I was going."
+      ],
+      "answer": 1,
+      "solution": "Statement word-order + past tense."
+    },
+    {
+      "q": "Report: <i>He said, \"Sit down.\"</i>",
+      "options": [
+        "He said to sit down.",
+        "He told us sit down.",
+        "He told us to sit down.",
+        "He asked to sit down."
+      ],
+      "answer": 2,
+      "solution": "Command → told + to-infinitive."
+    },
+    {
+      "q": "Report: <i>She asked, \"Do you speak French?\"</i>",
+      "options": [
+        "She asked do I speak French.",
+        "She asked if I spoke French.",
+        "She asked whether I speak French.",
+        "She asked I speak French."
+      ],
+      "answer": 1,
+      "solution": "Yes/no question → if + past."
+    },
+    {
+      "q": "Report: <i>He said, \"I can swim.\"</i>",
+      "options": [
+        "He said he can swim.",
+        "He said he could swim.",
+        "He said he might swim.",
+        "He said he had to swim."
+      ],
+      "answer": 1,
+      "solution": "can → could."
+    },
+    {
+      "q": "Report: <i>She said, \"I must go now.\"</i>",
+      "options": [
+        "She said she must go now.",
+        "She said she had to go then.",
+        "She said she has to go then.",
+        "She said she should go now."
+      ],
+      "answer": 1,
+      "solution": "must → had to; now → then."
+    },
+    {
+      "q": "Concord: <i>Neither of the answers _____ correct.</i>",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "answer": 1,
+      "solution": "Neither = singular."
+    },
+    {
+      "q": "Concord: <i>None of the water _____ contaminated.</i>",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "answer": 1,
+      "solution": "Uncountable — singular."
+    },
+    {
+      "q": "Concord: <i>The rich _____ not always happy.</i>",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has been"
+      ],
+      "answer": 1,
+      "solution": "'The rich' = plural."
+    },
+    {
+      "q": "Concord: <i>A series of tests _____ been scheduled.</i>",
+      "options": [
+        "have",
+        "has",
+        "are",
+        "were"
+      ],
+      "answer": 1,
+      "solution": "'A series of' — singular."
+    },
+    {
+      "q": "Concord: <i>More than one student _____ absent.</i>",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have been"
+      ],
+      "answer": 2,
+      "solution": "'More than one' — singular."
+    },
+    {
+      "q": "Concord: <i>The Philippines _____ in Asia.</i>",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "answer": 1,
+      "solution": "Country name — singular."
+    },
+    {
+      "q": "Concord: <i>Two-thirds of the cake _____ eaten.</i>",
+      "options": [
+        "have been",
+        "has been",
+        "are",
+        "were"
+      ],
+      "answer": 1,
+      "solution": "Cake is singular — singular verb."
+    },
+    {
+      "q": "Concord: <i>Two-thirds of the students _____ present.</i>",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has been"
+      ],
+      "answer": 1,
+      "solution": "Students = plural."
+    },
+    {
+      "q": "Tag: <i>She sings well, __?</i>",
+      "options": [
+        "doesn't she",
+        "don't she",
+        "isn't she",
+        "won't she"
+      ],
+      "answer": 0,
+      "solution": "Positive present → negative tag with does."
+    },
+    {
+      "q": "Tag: <i>He has not finished, __?</i>",
+      "options": [
+        "hasn't he",
+        "has he",
+        "did he",
+        "doesn't he"
+      ],
+      "answer": 1,
+      "solution": "Negative → positive tag."
+    },
+    {
+      "q": "Tag: <i>I am late, __?</i>",
+      "options": [
+        "am I not",
+        "aren't I",
+        "amn't I",
+        "isn't I"
+      ],
+      "answer": 1,
+      "solution": "Special form 'aren't I'."
+    },
+    {
+      "q": "Tag: <i>Let's go, __?</i>",
+      "options": [
+        "shall we",
+        "will we",
+        "don't we",
+        "aren't we"
+      ],
+      "answer": 0,
+      "solution": "'Let's' takes 'shall we'."
+    },
+    {
+      "q": "Tag: <i>Open the door, __?</i>",
+      "options": [
+        "will you",
+        "don't you",
+        "are you",
+        "shall you"
+      ],
+      "answer": 0,
+      "solution": "Imperative tag = 'will you'."
+    },
+    {
+      "q": "Tag: <i>Everyone was ready, __?</i>",
+      "options": [
+        "wasn't he",
+        "wasn't it",
+        "weren't they",
+        "didn't they"
+      ],
+      "answer": 2,
+      "solution": "'Everyone' tags with 'they'."
+    },
+    {
+      "q": "Tag: <i>Nobody came, __?</i>",
+      "options": [
+        "didn't they",
+        "did they",
+        "didn't he",
+        "didn't nobody"
+      ],
+      "answer": 1,
+      "solution": "Negative (nobody) → positive tag."
+    },
+    {
+      "q": "Relative pronoun for people (subject):",
+      "options": [
+        "which",
+        "who",
+        "whose",
+        "whom"
+      ],
+      "answer": 1,
+      "solution": "'Who' — subject for people."
+    },
+    {
+      "q": "Relative pronoun for possession:",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "whom"
+      ],
+      "answer": 2,
+      "solution": "'Whose' shows possession."
+    },
+    {
+      "q": "Relative pronoun for things:",
+      "options": [
+        "which",
+        "who",
+        "whose",
+        "whom"
+      ],
+      "answer": 0,
+      "solution": "'Which' for things/animals."
+    },
+    {
+      "q": "Non-defining relative clause is set off by:",
+      "options": [
+        "dashes only",
+        "commas",
+        "parentheses",
+        "semicolons"
+      ],
+      "answer": 1,
+      "solution": "Commas mark non-defining clauses."
+    },
+    {
+      "q": "<i>My father, who lives in Kano, is a lawyer.</i> The relative clause is:",
+      "options": [
+        "defining",
+        "non-defining",
+        "reduced",
+        "noun"
+      ],
+      "answer": 1,
+      "solution": "Non-defining — adds extra info."
+    },
+    {
+      "q": "<i>The book that I bought is new.</i> Relative clause is:",
+      "options": [
+        "defining",
+        "non-defining",
+        "noun",
+        "adverbial"
+      ],
+      "answer": 0,
+      "solution": "Defining — no commas."
+    },
+    {
+      "q": "Which sentence has correct concord?",
+      "options": [
+        "Each of the boys are here.",
+        "Each of the boys is here.",
+        "Each of the boys were here.",
+        "Each of the boys have been here."
+      ],
+      "answer": 1,
+      "solution": "'Each of' — singular."
+    },
+    {
+      "q": "Which is the object of the verb in <i>Ada gave Musa a book</i>?",
+      "options": [
+        "Ada",
+        "Musa",
+        "a book",
+        "Musa a book"
+      ],
+      "answer": 2,
+      "solution": "'A book' is the direct object; 'Musa' is indirect."
+    },
+    {
+      "q": "The indirect object in <i>Ada gave Musa a book</i>:",
+      "options": [
+        "Ada",
+        "Musa",
+        "a book",
+        "gave"
+      ],
+      "answer": 1,
+      "solution": "'Musa' — receives the direct object."
+    },
+    {
+      "q": "In <i>The chairman appointed her secretary</i>, <i>secretary</i> is:",
+      "options": [
+        "direct object",
+        "indirect object",
+        "object complement",
+        "subject complement"
+      ],
+      "answer": 2,
+      "solution": "Renames the object 'her'."
+    },
+    {
+      "q": "In <i>Ada is a teacher</i>, <i>a teacher</i> is:",
+      "options": [
+        "direct object",
+        "subject complement",
+        "object complement",
+        "adverbial"
+      ],
+      "answer": 1,
+      "solution": "Follows linking verb 'is'."
+    },
+    {
+      "q": "Which is a compound sentence?",
+      "options": [
+        "Ada came and Musa left.",
+        "When Ada came, Musa left.",
+        "Because Ada came, Musa left.",
+        "Ada came."
+      ],
+      "answer": 0,
+      "solution": "Two independent clauses joined by 'and'."
+    },
+    {
+      "q": "Which is a complex sentence?",
+      "options": [
+        "Ada came and Musa left.",
+        "When Ada came, Musa left.",
+        "Ada came; Musa left.",
+        "Ada left."
+      ],
+      "answer": 1,
+      "solution": "Contains a subordinate clause."
+    },
+    {
+      "q": "Which is a simple sentence?",
+      "options": [
+        "Ada came and Musa left.",
+        "When Ada came, Musa left.",
+        "Ada came.",
+        "Ada came, and after that Musa left."
+      ],
+      "answer": 2,
+      "solution": "One independent clause."
+    },
+    {
+      "q": "Which is a compound-complex sentence?",
+      "options": [
+        "Ada came.",
+        "Ada came and Musa left.",
+        "When Ada came, Musa left and I stayed.",
+        "When Ada came, Musa left."
+      ],
+      "answer": 2,
+      "solution": "Two independent clauses + one subordinate."
+    },
+    {
+      "q": "The subject of <i>Under the tree lay a dog</i> is:",
+      "options": [
+        "Under",
+        "the tree",
+        "a dog",
+        "lay"
+      ],
+      "answer": 2,
+      "solution": "Inverted order — 'a dog' is subject."
+    },
+    {
+      "q": "Adjunct in <i>She sang beautifully in the concert</i>:",
+      "options": [
+        "She",
+        "sang",
+        "beautifully in the concert",
+        "concert"
+      ],
+      "answer": 2,
+      "solution": "Adverbials of manner + place."
+    },
+    {
+      "q": "Report: <i>He said, \"This is my book.\"</i>",
+      "options": [
+        "He said this is his book.",
+        "He said that was his book.",
+        "He said that is his book.",
+        "He said that his book."
+      ],
+      "answer": 1,
+      "solution": "this→that; is→was."
+    },
+    {
+      "q": "Report: <i>She said, \"I saw him yesterday.\"</i>",
+      "options": [
+        "She said she saw him yesterday.",
+        "She said she had seen him the day before.",
+        "She said she has seen him yesterday.",
+        "She said she was seeing him yesterday."
+      ],
+      "answer": 1,
+      "solution": "Past → past perfect; yesterday → the day before."
+    },
+    {
+      "q": "Tag: <i>They will come, __?</i>",
+      "options": [
+        "will they",
+        "won't they",
+        "don't they",
+        "aren't they"
+      ],
+      "answer": 1,
+      "solution": "Positive → negative tag."
+    },
+    {
+      "q": "Tag: <i>You'd like some water, __?</i>",
+      "options": [
+        "wouldn't you",
+        "don't you",
+        "won't you",
+        "aren't you"
+      ],
+      "answer": 0,
+      "solution": "'You'd' = you would → wouldn't you."
+    },
+    {
+      "q": "<i>Whom did you see?</i> — 'whom' is:",
+      "options": [
+        "subject",
+        "object",
+        "possessive",
+        "adverb"
+      ],
+      "answer": 1,
+      "solution": "Object of 'see'."
+    },
+    {
+      "q": "<i>The car whose engine is loud is mine.</i> 'Whose' refers to:",
+      "options": [
+        "the car",
+        "the engine",
+        "the driver",
+        "the road"
+      ],
+      "answer": 0,
+      "solution": "Possession of the car."
+    },
+    {
+      "q": "<i>The man to whom I spoke is my uncle.</i> Formal use of:",
+      "options": [
+        "who",
+        "which",
+        "whom",
+        "whose"
+      ],
+      "answer": 2,
+      "solution": "Object of preposition = whom."
+    },
+    {
+      "q": "Concord: <i>Mumps _____ a childhood disease.</i>",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "answer": 1,
+      "solution": "Diseases ending in -s take singular verb."
+    },
+    {
+      "q": "Concord: <i>Physics _____ a science subject.</i>",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "answer": 1,
+      "solution": "Subject name — singular."
+    },
+    {
+      "q": "In <i>Although it rained, we went out</i>, <i>although it rained</i> is:",
+      "options": [
+        "main clause",
+        "adverbial (concession)",
+        "noun clause",
+        "relative clause"
+      ],
+      "answer": 1,
+      "solution": "Concession clause."
+    }
+  ]
+}
