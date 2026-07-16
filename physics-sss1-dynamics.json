@@ -1,0 +1,638 @@
+{
+  "subject": "Physics",
+  "level": "SSS 1",
+  "slug": "dynamics",
+  "title": "Dynamics",
+  "outline": [
+    "Contact and non-contact forces",
+    "Friction",
+    "Newton's laws of motion",
+    "Momentum and impulse",
+    "Work, energy, power",
+    "Simple machines"
+  ],
+  "modules": [
+    {
+      "title": "Forces",
+      "html": "<p>A <b>force</b> is a push or pull that changes (or tries to change) the state of motion of a body. Unit: newton (N).</p><h4>Types</h4><ul><li><b>Contact forces</b>: friction, tension, normal, applied.</li><li><b>Non-contact (field) forces</b>: gravity, magnetic, electrostatic.</li></ul><h4>Friction</h4><p>Force opposing relative motion. F = μR where μ is coefficient of friction and R the normal reaction.</p><p>Static friction > kinetic friction. Friction is <i>useful</i> (walking, brakes) and <i>harmful</i> (wear, heat).</p>",
+      "examples": [
+        {
+          "q": "Give a non-contact force.",
+          "a": "Gravitational force."
+        },
+        {
+          "q": "Block of 10 kg on floor, μ=0.2. Friction (g=10)?",
+          "a": "F = μmg = 0.2·10·10 = 20 N."
+        }
+      ]
+    },
+    {
+      "title": "Newton's laws of motion",
+      "html": "<p><b>1st law (inertia)</b>: a body continues at rest or in uniform motion unless acted on by a net external force.</p><p><b>2nd law</b>: F = ma (net force = mass × acceleration). Equivalently F = Δp/Δt.</p><p><b>3rd law</b>: to every action there is an equal and opposite reaction.</p>",
+      "examples": [
+        {
+          "q": "5 kg mass, F=20 N. Acceleration?",
+          "a": "a = F/m = 4 m/s²."
+        },
+        {
+          "q": "Why does a gun recoil?",
+          "a": "3rd law — gas pushes bullet forward, bullet pushes gun back."
+        }
+      ]
+    },
+    {
+      "title": "Momentum and impulse",
+      "html": "<p><b>Momentum</b> p = mv, unit kg·m/s.<br><b>Impulse</b> J = FΔt = change in momentum = mΔv.</p><p><b>Conservation of linear momentum</b>: in the absence of external forces, total momentum before = total momentum after collision.</p><p>Elastic collision: momentum AND kinetic energy conserved. Inelastic: only momentum conserved.</p>",
+      "examples": [
+        {
+          "q": "2 kg mass at 3 m/s hits and sticks to 1 kg at rest. Final velocity?",
+          "a": "(2·3+0)/(2+1) = 2 m/s."
+        },
+        {
+          "q": "Impulse of 20 N for 0.5 s = ?",
+          "a": "10 N·s (or kg·m/s)."
+        }
+      ]
+    },
+    {
+      "title": "Work, energy, power",
+      "html": "<p><b>Work</b> W = F·s·cosθ (joule). <b>Kinetic energy</b> KE = ½mv². <b>Potential energy</b> PE = mgh.</p><p><b>Conservation of energy</b>: energy is neither created nor destroyed; it changes from one form to another.</p><p><b>Power</b> P = W/t = F·v (watt).</p>",
+      "examples": [
+        {
+          "q": "Lift 20 kg through 3 m (g=10). Work done?",
+          "a": "W = mgh = 600 J."
+        },
+        {
+          "q": "Engine does 6000 J of work in 10 s. Power?",
+          "a": "600 W."
+        }
+      ]
+    },
+    {
+      "title": "Simple machines",
+      "html": "<p>A <b>machine</b> makes work easier. Key ratios:</p><ul><li>Mechanical Advantage MA = Load / Effort</li><li>Velocity Ratio VR = distance moved by effort / distance moved by load</li><li>Efficiency η = (MA / VR) × 100%</li></ul><h4>Examples</h4><ul><li>Single fixed pulley: VR = 1.</li><li>Single movable pulley: VR = 2.</li><li>Block-and-tackle: VR = number of ropes supporting the load.</li><li>Inclined plane: VR = length / height.</li><li>Screw/jack: VR = 2πR / pitch.</li></ul>",
+      "examples": [
+        {
+          "q": "Load 40 N, effort 25 N, VR=2. MA and efficiency?",
+          "a": "MA = 40/25 = 1.6; η = (1.6/2)·100% = 80%."
+        },
+        {
+          "q": "VR of a block-and-tackle with 4 supporting ropes?",
+          "a": "4."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Newton's first law is also known as the law of",
+      "options": [
+        "momentum",
+        "inertia",
+        "action–reaction",
+        "gravitation"
+      ],
+      "answer": 1,
+      "solution": "1st law = law of inertia."
+    },
+    {
+      "q": "F = ma is a statement of Newton's",
+      "options": [
+        "1st law",
+        "2nd law",
+        "3rd law",
+        "law of gravity"
+      ],
+      "answer": 1,
+      "solution": "Second law."
+    },
+    {
+      "q": "Action and reaction are equal and opposite is Newton's",
+      "options": [
+        "1st law",
+        "2nd law",
+        "3rd law",
+        "zeroth law"
+      ],
+      "answer": 2,
+      "solution": "Third law."
+    },
+    {
+      "q": "A 5 kg mass is pushed with 20 N. Its acceleration is",
+      "options": [
+        "2 m/s²",
+        "3 m/s²",
+        "4 m/s²",
+        "5 m/s²"
+      ],
+      "answer": 2,
+      "solution": "a = F/m = 4."
+    },
+    {
+      "q": "A force of 50 N acts on a 10 kg body. Acceleration:",
+      "options": [
+        "2 m/s²",
+        "4 m/s²",
+        "5 m/s²",
+        "10 m/s²"
+      ],
+      "answer": 2,
+      "solution": "50/10 = 5."
+    },
+    {
+      "q": "Momentum has units of",
+      "options": [
+        "N",
+        "kg·m/s",
+        "J",
+        "W"
+      ],
+      "answer": 1,
+      "solution": "p = mv."
+    },
+    {
+      "q": "The impulse of a force is equal to",
+      "options": [
+        "change in KE",
+        "change in momentum",
+        "work done",
+        "force × distance"
+      ],
+      "answer": 1,
+      "solution": "J = Δp."
+    },
+    {
+      "q": "A 2 kg body moving at 4 m/s has momentum",
+      "options": [
+        "2 kg·m/s",
+        "4 kg·m/s",
+        "6 kg·m/s",
+        "8 kg·m/s"
+      ],
+      "answer": 3,
+      "solution": "2·4 = 8."
+    },
+    {
+      "q": "A 10 N force acting for 4 s gives an impulse of",
+      "options": [
+        "4 N·s",
+        "10 N·s",
+        "40 N·s",
+        "2.5 N·s"
+      ],
+      "answer": 2,
+      "solution": "J = Ft = 40."
+    },
+    {
+      "q": "A 3 kg ball moves at 6 m/s and hits a wall. It rebounds at 4 m/s. Impulse on ball:",
+      "options": [
+        "6 N·s",
+        "18 N·s",
+        "24 N·s",
+        "30 N·s"
+      ],
+      "answer": 3,
+      "solution": "Δp = 3·(−4 − 6) = −30, magnitude 30."
+    },
+    {
+      "q": "KE of a 2 kg body moving at 10 m/s:",
+      "options": [
+        "10 J",
+        "20 J",
+        "100 J",
+        "200 J"
+      ],
+      "answer": 2,
+      "solution": "½·2·100 = 100."
+    },
+    {
+      "q": "PE of a 5 kg book on a 2 m shelf (g=10):",
+      "options": [
+        "10 J",
+        "50 J",
+        "100 J",
+        "200 J"
+      ],
+      "answer": 2,
+      "solution": "mgh = 100."
+    },
+    {
+      "q": "Work done in lifting 4 kg through 3 m (g=10):",
+      "options": [
+        "12 J",
+        "30 J",
+        "40 J",
+        "120 J"
+      ],
+      "answer": 3,
+      "solution": "mgh = 120."
+    },
+    {
+      "q": "The SI unit of work is the",
+      "options": [
+        "watt",
+        "newton",
+        "joule",
+        "pascal"
+      ],
+      "answer": 2,
+      "solution": "Joule = N·m."
+    },
+    {
+      "q": "The SI unit of power is the",
+      "options": [
+        "watt",
+        "joule",
+        "newton",
+        "pascal"
+      ],
+      "answer": 0,
+      "solution": "Watt = J/s."
+    },
+    {
+      "q": "An engine does 2400 J of work in 8 s. Power:",
+      "options": [
+        "30 W",
+        "150 W",
+        "240 W",
+        "300 W"
+      ],
+      "answer": 3,
+      "solution": "2400/8 = 300."
+    },
+    {
+      "q": "Which is a non-contact force?",
+      "options": [
+        "Friction",
+        "Tension",
+        "Gravity",
+        "Normal reaction"
+      ],
+      "answer": 2,
+      "solution": "Gravity acts at a distance."
+    },
+    {
+      "q": "Coefficient of friction is defined as",
+      "options": [
+        "F/R",
+        "R/F",
+        "F·R",
+        "F+R"
+      ],
+      "answer": 0,
+      "solution": "μ = F/R."
+    },
+    {
+      "q": "A 20 kg block on a floor with μ=0.3 (g=10). Frictional force:",
+      "options": [
+        "30 N",
+        "60 N",
+        "90 N",
+        "120 N"
+      ],
+      "answer": 1,
+      "solution": "μmg = 60."
+    },
+    {
+      "q": "Friction between two solid surfaces is due to",
+      "options": [
+        "gravitational attraction",
+        "electrostatic forces",
+        "interlocking of surface irregularities",
+        "magnetic attraction"
+      ],
+      "answer": 2,
+      "solution": "Rough surfaces interlock."
+    },
+    {
+      "q": "A useful role of friction is in",
+      "options": [
+        "walking",
+        "reducing tyre grip",
+        "wearing out shoes",
+        "heating the axle"
+      ],
+      "answer": 0,
+      "solution": "Grip while walking is essential."
+    },
+    {
+      "q": "Rolling friction is generally",
+      "options": [
+        "greater than sliding friction",
+        "less than sliding friction",
+        "equal to sliding friction",
+        "independent of surface"
+      ],
+      "answer": 1,
+      "solution": "Rolling friction is smaller."
+    },
+    {
+      "q": "In a perfectly elastic collision, which are conserved?",
+      "options": [
+        "Only momentum",
+        "Only KE",
+        "Momentum and KE",
+        "Neither"
+      ],
+      "answer": 2,
+      "solution": "Both are conserved."
+    },
+    {
+      "q": "In an inelastic collision, which is conserved?",
+      "options": [
+        "Only KE",
+        "Only momentum",
+        "Both",
+        "Neither"
+      ],
+      "answer": 1,
+      "solution": "Momentum is always conserved; KE is not."
+    },
+    {
+      "q": "A 3 kg body moving at 4 m/s hits and sticks to a 2 kg body at rest. Combined velocity:",
+      "options": [
+        "1.2 m/s",
+        "1.6 m/s",
+        "2.0 m/s",
+        "2.4 m/s"
+      ],
+      "answer": 3,
+      "solution": "(3·4)/5 = 2.4."
+    },
+    {
+      "q": "A gun of 4 kg fires a 20 g bullet at 300 m/s. Recoil velocity of gun:",
+      "options": [
+        "0.5 m/s",
+        "1.0 m/s",
+        "1.5 m/s",
+        "3.0 m/s"
+      ],
+      "answer": 2,
+      "solution": "0.02·300 / 4 = 1.5."
+    },
+    {
+      "q": "The velocity ratio of a single fixed pulley is",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "answer": 1,
+      "solution": "VR = 1."
+    },
+    {
+      "q": "A single movable pulley has velocity ratio",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "solution": "VR = 2."
+    },
+    {
+      "q": "A block-and-tackle with 5 supporting ropes has VR of",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2,
+      "solution": "Equal to number of ropes."
+    },
+    {
+      "q": "Load 60 N, effort 20 N. Mechanical advantage:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2,
+      "solution": "60/20 = 3."
+    },
+    {
+      "q": "MA = 3, VR = 4. Efficiency:",
+      "options": [
+        "50%",
+        "60%",
+        "75%",
+        "80%"
+      ],
+      "answer": 2,
+      "solution": "(3/4)·100 = 75%."
+    },
+    {
+      "q": "Efficiency of a machine is always",
+      "options": [
+        "> 100%",
+        "= 100%",
+        "< 100%",
+        "= VR"
+      ],
+      "answer": 2,
+      "solution": "Because of friction, energy loss."
+    },
+    {
+      "q": "An inclined plane 5 m long, 1 m high has VR of",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "answer": 3,
+      "solution": "length/height = 5."
+    },
+    {
+      "q": "A screw jack with pitch 5 mm and handle 35 cm long (π=22/7). VR:",
+      "options": [
+        "≈ 220",
+        "≈ 440",
+        "≈ 700",
+        "≈ 880"
+      ],
+      "answer": 1,
+      "solution": "VR = 2πR/pitch = 2·22/7·350/5 = 440."
+    },
+    {
+      "q": "Energy stored in a stretched spring is",
+      "options": [
+        "potential",
+        "kinetic",
+        "thermal",
+        "chemical"
+      ],
+      "answer": 0,
+      "solution": "Elastic PE."
+    },
+    {
+      "q": "Which transformation occurs in a falling stone?",
+      "options": [
+        "KE → PE",
+        "PE → KE",
+        "PE → heat",
+        "KE → chemical"
+      ],
+      "answer": 1,
+      "solution": "As it falls, PE decreases and KE increases."
+    },
+    {
+      "q": "A body of mass 2 kg moving at 5 m/s decelerates uniformly and stops in 10 s. Force applied:",
+      "options": [
+        "0.5 N",
+        "1 N",
+        "2 N",
+        "5 N"
+      ],
+      "answer": 1,
+      "solution": "a = 0.5, F = 1 N."
+    },
+    {
+      "q": "The area under a F–t graph gives",
+      "options": [
+        "work",
+        "power",
+        "impulse",
+        "energy"
+      ],
+      "answer": 2,
+      "solution": "∫F dt = impulse."
+    },
+    {
+      "q": "A car of mass 1000 kg moving at 20 m/s has KE of",
+      "options": [
+        "1 kJ",
+        "10 kJ",
+        "100 kJ",
+        "200 kJ"
+      ],
+      "answer": 3,
+      "solution": "½·1000·400 = 200 000 J."
+    },
+    {
+      "q": "The work done in lifting a body vertically is against",
+      "options": [
+        "friction",
+        "gravity",
+        "air pressure",
+        "tension"
+      ],
+      "answer": 1,
+      "solution": "Weight is due to gravity."
+    },
+    {
+      "q": "The work done in moving a body horizontally at constant velocity on a frictionless surface is",
+      "options": [
+        "0",
+        "mgh",
+        "½mv²",
+        "Fh"
+      ],
+      "answer": 0,
+      "solution": "Force perpendicular to motion — no work needed if frictionless."
+    },
+    {
+      "q": "Which statement about weight is TRUE?",
+      "options": [
+        "Weight = mass",
+        "Weight has SI unit kg",
+        "Weight is a force",
+        "Weight is constant everywhere"
+      ],
+      "answer": 2,
+      "solution": "Weight = mg (a force)."
+    },
+    {
+      "q": "An astronaut has less weight on the Moon because",
+      "options": [
+        "mass is less",
+        "g is less on Moon",
+        "air pressure is less",
+        "she is in orbit"
+      ],
+      "answer": 1,
+      "solution": "g_moon ≈ 1.6 m/s²."
+    },
+    {
+      "q": "A 200 W motor lifts 20 kg through 5 m (g=10). Time taken:",
+      "options": [
+        "3 s",
+        "5 s",
+        "10 s",
+        "20 s"
+      ],
+      "answer": 1,
+      "solution": "W = 1000 J, t = W/P = 5 s."
+    },
+    {
+      "q": "A crane raises 500 kg by 8 m in 20 s (g=10). Power output:",
+      "options": [
+        "1 kW",
+        "2 kW",
+        "4 kW",
+        "5 kW"
+      ],
+      "answer": 1,
+      "solution": "40000/20 = 2000 W."
+    },
+    {
+      "q": "A body of mass m moves at v. Doubling v multiplies its KE by",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "√2"
+      ],
+      "answer": 2,
+      "solution": "KE ∝ v²."
+    },
+    {
+      "q": "A pulley system with 4 movable pulleys (block-and-tackle style with 4 supporting strings) has VR:",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "8"
+      ],
+      "answer": 2,
+      "solution": "VR = number of ropes = 4."
+    },
+    {
+      "q": "The unit of momentum in SI is",
+      "options": [
+        "N",
+        "kg·m/s",
+        "J",
+        "kg·m²/s"
+      ],
+      "answer": 1,
+      "solution": "Momentum is kg·m/s."
+    },
+    {
+      "q": "Power is scalar or vector?",
+      "options": [
+        "Vector",
+        "Scalar",
+        "Either",
+        "Depends"
+      ],
+      "answer": 1,
+      "solution": "Power has no direction."
+    },
+    {
+      "q": "The efficiency of a machine can be improved by",
+      "options": [
+        "reducing friction",
+        "increasing load",
+        "increasing VR",
+        "increasing weight"
+      ],
+      "answer": 0,
+      "solution": "Less friction → less energy loss."
+    }
+  ]
+}
