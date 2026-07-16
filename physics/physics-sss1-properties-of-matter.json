@@ -1,0 +1,637 @@
+{
+  "subject": "Physics",
+  "level": "SSS 1",
+  "slug": "properties-of-matter",
+  "title": "Properties of Matter",
+  "outline": [
+    "Kinetic theory of matter",
+    "Pressure in fluids; Pascal's principle",
+    "Archimedes' principle and flotation",
+    "Surface tension, capillarity, viscosity",
+    "Elasticity and Hooke's law"
+  ],
+  "modules": [
+    {
+      "title": "Kinetic theory",
+      "html": "<p>All matter is made of tiny particles in continuous random motion.</p><ul><li><b>Solids</b>: strong intermolecular forces, particles vibrate about fixed positions.</li><li><b>Liquids</b>: weaker forces, particles slide past one another.</li><li><b>Gases</b>: very weak forces, particles move rapidly and randomly.</li></ul><p>Temperature is a measure of the average kinetic energy of the particles.</p>",
+      "examples": [
+        {
+          "q": "Which state has the highest particle KE (at same P)?",
+          "a": "Gas."
+        },
+        {
+          "q": "Why do gases fill their containers?",
+          "a": "Particles move freely in random directions."
+        }
+      ]
+    },
+    {
+      "title": "Pressure in fluids",
+      "html": "<p><b>Pressure</b> = force / area (Pa = N/m²).</p><p>In a fluid at depth h: <b>P = ρgh</b>. Pressure is the same at all points on the same horizontal level in a connected fluid.</p><p><b>Pascal's principle</b>: pressure applied to a confined fluid is transmitted equally in all directions. Basis of the hydraulic press: F₁/A₁ = F₂/A₂.</p>",
+      "examples": [
+        {
+          "q": "Pressure 3 m below water (ρ=1000, g=10)?",
+          "a": "P = 1000·10·3 = 30 000 Pa."
+        },
+        {
+          "q": "In hydraulic press, small area 2 cm², large 100 cm², effort 40 N. Load lifted?",
+          "a": "F₂ = (100/2)·40 = 2000 N."
+        }
+      ]
+    },
+    {
+      "title": "Archimedes' principle &amp; flotation",
+      "html": "<p><b>Archimedes' principle</b>: a body wholly or partly immersed in a fluid experiences an upthrust equal to the weight of fluid displaced.</p><p><b>Law of flotation</b>: a floating body displaces its own weight of the fluid.</p><p>Body sinks if density > fluid; floats if density < fluid; suspended if equal.</p>",
+      "examples": [
+        {
+          "q": "200 g object displaces 250 cm³ of water. Does it float?",
+          "a": "Weight = 2 N; upthrust = 2.5 N > weight → it floats (partly submerged)."
+        },
+        {
+          "q": "Iron sinks in water because…",
+          "a": "Its density (~7800 kg/m³) > water (1000)."
+        }
+      ]
+    },
+    {
+      "title": "Surface tension, capillarity, viscosity",
+      "html": "<p><b>Surface tension</b>: the surface of a liquid behaves like a stretched skin because molecules at the surface are pulled inward. Causes water droplets, allows insects to walk on water. Reduced by soap/detergent.</p><p><b>Capillarity</b>: rise or fall of liquid in a narrow tube due to adhesion vs cohesion. Water rises (adhesion &gt; cohesion), mercury falls.</p><p><b>Viscosity</b>: internal friction in a fluid; opposes relative motion. Liquids more viscous than gases. Viscosity of liquids decreases with temperature; gases increase.</p><p><b>Terminal velocity</b>: constant maximum velocity reached when weight = upthrust + viscous drag.</p>",
+      "examples": [
+        {
+          "q": "Why do water droplets form spherical shapes?",
+          "a": "Surface tension minimises area."
+        },
+        {
+          "q": "Explain terminal velocity of a falling raindrop.",
+          "a": "When drag + upthrust = weight, net force is zero and velocity is constant."
+        }
+      ]
+    },
+    {
+      "title": "Elasticity &amp; Hooke's law",
+      "html": "<p><b>Hooke's law</b>: within the elastic limit, extension is directly proportional to the applied force: F = ke, k is the spring constant (N/m).</p><p><b>Young's modulus</b> E = stress/strain = (F/A)/(e/L) = FL/Ae. Units: Pa.</p><p>Beyond the elastic limit the material undergoes permanent deformation.</p>",
+      "examples": [
+        {
+          "q": "Spring stretches 5 cm with 10 N. Spring constant?",
+          "a": "k = 10/0.05 = 200 N/m."
+        },
+        {
+          "q": "A wire 2 m long, area 1 mm², extends 0.4 mm under 100 N. Young's modulus?",
+          "a": "E = FL/Ae = 100·2/(10⁻⁶·4×10⁻⁴) = 5×10¹¹ Pa."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "The states of matter are",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "answer": 2,
+      "solution": "Solid, liquid, gas."
+    },
+    {
+      "q": "In a solid, particles",
+      "options": [
+        "move randomly",
+        "vibrate about fixed positions",
+        "slide past each other",
+        "are stationary"
+      ],
+      "answer": 1,
+      "solution": "Solids vibrate in place."
+    },
+    {
+      "q": "Temperature is a measure of",
+      "options": [
+        "heat",
+        "pressure",
+        "average kinetic energy of particles",
+        "volume"
+      ],
+      "answer": 2,
+      "solution": "Kinetic theory."
+    },
+    {
+      "q": "The SI unit of pressure is the",
+      "options": [
+        "N",
+        "Pa",
+        "Nm",
+        "kg/m²"
+      ],
+      "answer": 1,
+      "solution": "Pascal = N/m²."
+    },
+    {
+      "q": "Pressure at depth 5 m in water (ρ=1000, g=10):",
+      "options": [
+        "500 Pa",
+        "5000 Pa",
+        "50 000 Pa",
+        "500 000 Pa"
+      ],
+      "answer": 2,
+      "solution": "1000·10·5 = 50 000."
+    },
+    {
+      "q": "A 20 N force on 4 m² area gives pressure:",
+      "options": [
+        "2 Pa",
+        "4 Pa",
+        "5 Pa",
+        "10 Pa"
+      ],
+      "answer": 2,
+      "solution": "20/4 = 5."
+    },
+    {
+      "q": "Pressure in a fluid is transmitted equally in all directions — this is",
+      "options": [
+        "Archimedes' principle",
+        "Pascal's principle",
+        "Bernoulli's principle",
+        "Hooke's law"
+      ],
+      "answer": 1,
+      "solution": "Pascal's principle."
+    },
+    {
+      "q": "Hydraulic press has small piston 2 cm² and large 200 cm². Effort 30 N. Load:",
+      "options": [
+        "300 N",
+        "1500 N",
+        "3000 N",
+        "6000 N"
+      ],
+      "answer": 2,
+      "solution": "F₂ = 100·30 = 3000."
+    },
+    {
+      "q": "Archimedes' principle involves",
+      "options": [
+        "friction",
+        "upthrust",
+        "surface tension",
+        "viscosity"
+      ],
+      "answer": 1,
+      "solution": "Upthrust equals weight of fluid displaced."
+    },
+    {
+      "q": "A body floats if its density is",
+      "options": [
+        "greater than fluid",
+        "less than fluid",
+        "equal to fluid",
+        "zero"
+      ],
+      "answer": 1,
+      "solution": "Less dense floats."
+    },
+    {
+      "q": "Weight of water displaced by a floating body equals",
+      "options": [
+        "its own weight",
+        "its volume",
+        "the upthrust minus weight",
+        "the buoyancy pressure"
+      ],
+      "answer": 0,
+      "solution": "Law of flotation."
+    },
+    {
+      "q": "An object weighs 5 N in air and 3 N in water. Upthrust:",
+      "options": [
+        "1 N",
+        "2 N",
+        "3 N",
+        "5 N"
+      ],
+      "answer": 1,
+      "solution": "5 − 3 = 2 N."
+    },
+    {
+      "q": "A 300 g body displaces 200 cm³ of water. Will it float?",
+      "options": [
+        "Yes",
+        "No",
+        "Only in salt water",
+        "Cannot decide"
+      ],
+      "answer": 1,
+      "solution": "Density 1.5 g/cm³ > water; sinks."
+    },
+    {
+      "q": "Insects walk on water because of",
+      "options": [
+        "upthrust",
+        "surface tension",
+        "capillarity",
+        "viscosity"
+      ],
+      "answer": 1,
+      "solution": "Surface tension supports them."
+    },
+    {
+      "q": "Water rises in a capillary tube because",
+      "options": [
+        "adhesion > cohesion",
+        "cohesion > adhesion",
+        "of gravity",
+        "of surface tension only"
+      ],
+      "answer": 0,
+      "solution": "Adhesion pulls water up."
+    },
+    {
+      "q": "Mercury in a capillary tube shows",
+      "options": [
+        "rise",
+        "depression",
+        "no effect",
+        "evaporation"
+      ],
+      "answer": 1,
+      "solution": "Cohesion > adhesion for mercury."
+    },
+    {
+      "q": "Detergents work by",
+      "options": [
+        "increasing viscosity",
+        "reducing surface tension of water",
+        "increasing pressure",
+        "reducing weight"
+      ],
+      "answer": 1,
+      "solution": "Lower surface tension lets water penetrate cloth."
+    },
+    {
+      "q": "Viscosity of a liquid usually",
+      "options": [
+        "increases with temperature",
+        "decreases with temperature",
+        "is independent of temperature",
+        "depends on colour"
+      ],
+      "answer": 1,
+      "solution": "Heat weakens molecular attractions."
+    },
+    {
+      "q": "The terminal velocity of a body in fluid is reached when",
+      "options": [
+        "weight > upthrust",
+        "weight = upthrust + drag",
+        "weight = 0",
+        "upthrust = 0"
+      ],
+      "answer": 1,
+      "solution": "Net force zero."
+    },
+    {
+      "q": "Which is used to measure atmospheric pressure?",
+      "options": [
+        "Manometer",
+        "Hydrometer",
+        "Barometer",
+        "Hygrometer"
+      ],
+      "answer": 2,
+      "solution": "Barometer."
+    },
+    {
+      "q": "The atmospheric pressure at sea level is approximately",
+      "options": [
+        "10⁵ Pa",
+        "10³ Pa",
+        "10⁷ Pa",
+        "10² Pa"
+      ],
+      "answer": 0,
+      "solution": "≈ 1.01×10⁵ Pa."
+    },
+    {
+      "q": "A hydrometer measures",
+      "options": [
+        "density of liquids",
+        "pressure",
+        "humidity",
+        "temperature"
+      ],
+      "answer": 0,
+      "solution": "Relative density of liquids."
+    },
+    {
+      "q": "Hooke's law states that F is proportional to",
+      "options": [
+        "extension e (within elastic limit)",
+        "area",
+        "time",
+        "velocity"
+      ],
+      "answer": 0,
+      "solution": "F = ke."
+    },
+    {
+      "q": "A spring stretches 4 cm under 8 N. Spring constant:",
+      "options": [
+        "50 N/m",
+        "100 N/m",
+        "200 N/m",
+        "400 N/m"
+      ],
+      "answer": 2,
+      "solution": "8/0.04 = 200."
+    },
+    {
+      "q": "A spring of k = 250 N/m is compressed 0.02 m. Force required:",
+      "options": [
+        "2.5 N",
+        "5 N",
+        "10 N",
+        "25 N"
+      ],
+      "answer": 1,
+      "solution": "F=250·0.02=5."
+    },
+    {
+      "q": "Beyond the elastic limit a material",
+      "options": [
+        "returns to original length",
+        "undergoes permanent deformation",
+        "becomes stiffer",
+        "breaks immediately"
+      ],
+      "answer": 1,
+      "solution": "Permanent (plastic) deformation."
+    },
+    {
+      "q": "Stress is defined as",
+      "options": [
+        "Force/Area",
+        "Extension/Length",
+        "F·A",
+        "F/L"
+      ],
+      "answer": 0,
+      "solution": "Force per area."
+    },
+    {
+      "q": "Strain has units of",
+      "options": [
+        "N",
+        "Pa",
+        "no units",
+        "m"
+      ],
+      "answer": 2,
+      "solution": "Ratio of two lengths."
+    },
+    {
+      "q": "Young's modulus has units of",
+      "options": [
+        "N",
+        "Pa",
+        "J",
+        "N·m"
+      ],
+      "answer": 1,
+      "solution": "Same as stress."
+    },
+    {
+      "q": "A wire 1 m long, area 2 mm², stretches 0.5 mm under 100 N. Young's modulus:",
+      "options": [
+        "10¹⁰ Pa",
+        "10¹¹ Pa",
+        "10¹² Pa",
+        "10⁹ Pa"
+      ],
+      "answer": 1,
+      "solution": "E = 100·1/(2×10⁻⁶·5×10⁻⁴)=10¹¹ Pa."
+    },
+    {
+      "q": "Elastic potential energy in a spring stretched x is",
+      "options": [
+        "kx",
+        "kx²",
+        "½kx",
+        "½kx²"
+      ],
+      "answer": 3,
+      "solution": "U = ½kx²."
+    },
+    {
+      "q": "Which is a property of gases?",
+      "options": [
+        "Definite shape",
+        "Definite volume",
+        "Compressibility",
+        "Rigidity"
+      ],
+      "answer": 2,
+      "solution": "Gases are highly compressible."
+    },
+    {
+      "q": "Which is a property of solids?",
+      "options": [
+        "Definite shape and volume",
+        "No fixed shape",
+        "No fixed volume",
+        "Highly compressible"
+      ],
+      "answer": 0,
+      "solution": "Solids have both."
+    },
+    {
+      "q": "Which statement is TRUE for liquids?",
+      "options": [
+        "Fixed shape",
+        "No definite volume",
+        "Take shape of container, fixed volume",
+        "Highly compressible"
+      ],
+      "answer": 2,
+      "solution": "Definition."
+    },
+    {
+      "q": "A block floats with 3/4 submerged in water. Its density (g/cm³):",
+      "options": [
+        "0.25",
+        "0.50",
+        "0.75",
+        "1.00"
+      ],
+      "answer": 2,
+      "solution": "ρ = fraction × ρ_water = 0.75."
+    },
+    {
+      "q": "A body immersed in mercury (ρ=13600) experiences upthrust largely because",
+      "options": [
+        "mercury is dense",
+        "surface tension",
+        "gravity",
+        "capillarity"
+      ],
+      "answer": 0,
+      "solution": "Larger displaced weight."
+    },
+    {
+      "q": "Which is not affected by gravity?",
+      "options": [
+        "Weight",
+        "Mass",
+        "Pressure of a fluid column",
+        "Free-fall acceleration"
+      ],
+      "answer": 1,
+      "solution": "Mass is intrinsic."
+    },
+    {
+      "q": "Cohesive forces are",
+      "options": [
+        "between same-kind molecules",
+        "between unlike molecules",
+        "between molecules and walls",
+        "only in solids"
+      ],
+      "answer": 0,
+      "solution": "Same substance."
+    },
+    {
+      "q": "Adhesive forces are",
+      "options": [
+        "between same-kind molecules",
+        "between molecules of different substances",
+        "only in liquids",
+        "only in gases"
+      ],
+      "answer": 1,
+      "solution": "Different substances."
+    },
+    {
+      "q": "A submarine controls its depth by",
+      "options": [
+        "changing colour",
+        "varying ballast (upthrust)",
+        "using engines only",
+        "expanding metal"
+      ],
+      "answer": 1,
+      "solution": "Ballast tanks alter its weight."
+    },
+    {
+      "q": "A boat is loaded and rides lower in water because",
+      "options": [
+        "upthrust decreases",
+        "weight increased so more water is displaced",
+        "water pressure changed",
+        "surface tension varied"
+      ],
+      "answer": 1,
+      "solution": "It sinks to displace more water equal to weight."
+    },
+    {
+      "q": "The pressure of a gas is due to",
+      "options": [
+        "its weight",
+        "molecular collisions with the walls",
+        "gravitational force",
+        "surface tension"
+      ],
+      "answer": 1,
+      "solution": "Kinetic theory."
+    },
+    {
+      "q": "A liquid exerts pressure in",
+      "options": [
+        "only downward direction",
+        "only sideways",
+        "only upward",
+        "all directions"
+      ],
+      "answer": 3,
+      "solution": "Fluid pressure acts in all directions."
+    },
+    {
+      "q": "The relative density of a substance is",
+      "options": [
+        "mass/volume",
+        "density/density of water",
+        "weight in air/weight in fluid",
+        "mass × g"
+      ],
+      "answer": 1,
+      "solution": "Ratio of densities."
+    },
+    {
+      "q": "An object has weight 30 N in air and 25 N in water. Its RD:",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 3,
+      "solution": "RD = weight in air / loss in water = 30/5 = 6."
+    },
+    {
+      "q": "Which of these will float on water?",
+      "options": [
+        "Iron nail",
+        "Wooden log",
+        "Copper coin",
+        "Glass marble"
+      ],
+      "answer": 1,
+      "solution": "Wood is less dense."
+    },
+    {
+      "q": "Ice floats on water because",
+      "options": [
+        "it is colder",
+        "its density is less than water",
+        "of surface tension",
+        "of viscosity"
+      ],
+      "answer": 1,
+      "solution": "Ice ~ 917 kg/m³ < 1000."
+    },
+    {
+      "q": "A material returns to its original shape after removal of load if within",
+      "options": [
+        "breaking point",
+        "yield point",
+        "elastic limit",
+        "plastic region"
+      ],
+      "answer": 2,
+      "solution": "Elastic behaviour."
+    },
+    {
+      "q": "Which force keeps a paperclip on the surface of water?",
+      "options": [
+        "gravity",
+        "surface tension",
+        "upthrust",
+        "viscosity"
+      ],
+      "answer": 1,
+      "solution": "Surface tension."
+    },
+    {
+      "q": "A spring of k=100 N/m stretches 5 cm. Energy stored:",
+      "options": [
+        "0.125 J",
+        "0.25 J",
+        "0.5 J",
+        "1.0 J"
+      ],
+      "answer": 0,
+      "solution": "½·100·0.05²=0.125."
+    }
+  ]
+}

@@ -1,0 +1,637 @@
+{
+  "subject": "Physics",
+  "level": "SSS 2",
+  "slug": "optics",
+  "title": "Optics",
+  "outline": [
+    "Electromagnetic spectrum and rectilinear propagation",
+    "Reflection at plane and curved surfaces",
+    "Refraction and total internal reflection",
+    "Lenses and image formation",
+    "Optical instruments and eye defects"
+  ],
+  "modules": [
+    {
+      "title": "Nature and rectilinear propagation of light",
+      "html": "<p>Light is an EM wave; it travels in straight lines in a uniform medium — hence <b>shadows</b>, <b>eclipses</b> and the <b>pinhole camera</b>.</p><p>Umbra: fully dark region. Penumbra: partially shaded region.</p>",
+      "examples": [
+        {
+          "q": "During a solar eclipse, what is between Sun and Earth?",
+          "a": "The Moon."
+        },
+        {
+          "q": "A pinhole camera produces images that are",
+          "a": "inverted and real."
+        }
+      ]
+    },
+    {
+      "title": "Reflection",
+      "html": "<p>Laws: (1) angle of incidence = angle of reflection; (2) incident ray, reflected ray and normal lie in one plane.</p><p><b>Plane mirror</b>: image is virtual, erect, laterally inverted, same size, same distance behind the mirror.</p><p><b>Curved mirrors</b>: concave (converging) forms real or virtual images; convex (diverging) forms virtual, upright, diminished images.</p><p>Mirror formula: 1/f = 1/u + 1/v; magnification m = v/u = image height / object height. Sign convention: distances measured from mirror; real +, virtual −. (Adopt textbook convention.)</p>",
+      "examples": [
+        {
+          "q": "Object 20 cm from concave mirror of f=10 cm. Image distance?",
+          "a": "1/v = 1/10 − 1/20 → v = 20 cm (real, same size)."
+        },
+        {
+          "q": "Convex mirror image is always…",
+          "a": "virtual, upright, diminished."
+        }
+      ]
+    },
+    {
+      "title": "Refraction and total internal reflection",
+      "html": "<p>Snell's law: n₁ sin θ₁ = n₂ sin θ₂. Refractive index n = c/v = sin i / sin r.</p><p><b>Critical angle</b> c: for a ray from denser to less dense medium, at c the refracted ray goes along the surface. sin c = 1/n. If i > c → <b>total internal reflection</b>.</p><p>Applications: optical fibres, prism binoculars, mirages (hot air acts as a less dense medium).</p>",
+      "examples": [
+        {
+          "q": "n = 1.5. Critical angle?",
+          "a": "sin c = 1/1.5 → c ≈ 41.8°."
+        },
+        {
+          "q": "Light passes from air into glass (n=1.5) at 30°. Refraction angle?",
+          "a": "sin r = sin 30/1.5 = 0.333 → r ≈ 19.5°."
+        }
+      ]
+    },
+    {
+      "title": "Lenses",
+      "html": "<p>Converging (convex): parallel rays converge to F. Diverging (concave): parallel rays appear to come from F.</p><p>Lens formula 1/f = 1/v − 1/u (using real-is-positive Cartesian convention: with u negative for real objects). Magnification m = v/u.</p><p>Power P = 1/f (in metres), unit dioptre (D).</p>",
+      "examples": [
+        {
+          "q": "Convex lens f=10 cm, object 15 cm away. Image?",
+          "a": "1/v = 1/10 + 1/(−15)? Using 1/f = 1/v + 1/u (object distance positive) → v = 30 cm, real, inverted, magnified."
+        },
+        {
+          "q": "Power of a lens with f=25 cm?",
+          "a": "P = 1/0.25 = 4 D."
+        }
+      ]
+    },
+    {
+      "title": "Optical instruments and eye defects",
+      "html": "<ul><li><b>Camera</b>: converging lens forms real, inverted, diminished image on film/sensor.</li><li><b>Simple microscope</b> (magnifying glass): converging lens, object inside f, image virtual, magnified.</li><li><b>Compound microscope</b>: two convex lenses (objective + eyepiece).</li><li><b>Astronomical telescope</b>: two convex lenses, objective long f, eyepiece short f.</li></ul><h4>Eye defects</h4><ul><li><b>Short sight (myopia)</b>: can't see far. Corrected with a <b>diverging (concave)</b> lens.</li><li><b>Long sight (hypermetropia)</b>: can't see near. Corrected with a <b>converging (convex)</b> lens.</li><li><b>Presbyopia</b>: age-related loss of accommodation. Bifocals.</li><li><b>Astigmatism</b>: cornea not spherical. Corrected with cylindrical lens.</li></ul>",
+      "examples": [
+        {
+          "q": "Which lens corrects short sight?",
+          "a": "Diverging (concave)."
+        },
+        {
+          "q": "What image does a camera lens form?",
+          "a": "Real, inverted, diminished."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Light travels in a straight line in a uniform medium — this is",
+      "options": [
+        "reflection",
+        "rectilinear propagation",
+        "refraction",
+        "dispersion"
+      ],
+      "answer": 1,
+      "solution": "Straight-line propagation."
+    },
+    {
+      "q": "The completely dark region of a shadow is the",
+      "options": [
+        "penumbra",
+        "umbra",
+        "corona",
+        "aura"
+      ],
+      "answer": 1,
+      "solution": "Umbra."
+    },
+    {
+      "q": "During a lunar eclipse",
+      "options": [
+        "moon is between Earth and Sun",
+        "Earth is between Sun and Moon",
+        "Sun is between Earth and Moon",
+        "no eclipse geometry"
+      ],
+      "answer": 1,
+      "solution": "Earth casts its shadow on the Moon."
+    },
+    {
+      "q": "Pinhole camera image is",
+      "options": [
+        "real, inverted",
+        "real, upright",
+        "virtual, inverted",
+        "virtual, upright"
+      ],
+      "answer": 0,
+      "solution": "Real and inverted."
+    },
+    {
+      "q": "Angle of incidence equals angle of reflection is a law of",
+      "options": [
+        "refraction",
+        "reflection",
+        "polarisation",
+        "diffraction"
+      ],
+      "answer": 1,
+      "solution": "Reflection law."
+    },
+    {
+      "q": "Image in a plane mirror is",
+      "options": [
+        "real, inverted",
+        "real, upright",
+        "virtual, laterally inverted",
+        "virtual, magnified"
+      ],
+      "answer": 2,
+      "solution": "Plane-mirror image."
+    },
+    {
+      "q": "A concave mirror can produce",
+      "options": [
+        "only virtual images",
+        "only real images",
+        "both real and virtual images",
+        "only inverted images"
+      ],
+      "answer": 2,
+      "solution": "Depends on object distance."
+    },
+    {
+      "q": "A convex mirror produces",
+      "options": [
+        "real, inverted",
+        "virtual, upright, diminished",
+        "real, magnified",
+        "virtual, magnified"
+      ],
+      "answer": 1,
+      "solution": "Always virtual, diminished."
+    },
+    {
+      "q": "Convex mirrors are used as",
+      "options": [
+        "shaving mirrors",
+        "car headlamp reflectors",
+        "driving/rearview mirrors",
+        "dental mirrors"
+      ],
+      "answer": 2,
+      "solution": "Wide field of view."
+    },
+    {
+      "q": "Concave mirrors are used as",
+      "options": [
+        "driving mirrors",
+        "shaving mirrors and telescope objectives",
+        "door peepholes",
+        "fisheye lenses"
+      ],
+      "answer": 1,
+      "solution": "Real inverted or virtual magnified."
+    },
+    {
+      "q": "Focal length of a mirror of radius 20 cm:",
+      "options": [
+        "5 cm",
+        "10 cm",
+        "20 cm",
+        "40 cm"
+      ],
+      "answer": 1,
+      "solution": "f = R/2 = 10."
+    },
+    {
+      "q": "Refractive index n = c/v means light in the medium travels",
+      "options": [
+        "faster than in vacuum",
+        "slower than in vacuum",
+        "at the same speed",
+        "backwards"
+      ],
+      "answer": 1,
+      "solution": "Slower in a medium."
+    },
+    {
+      "q": "Snell's law: n₁ sin θ₁ =",
+      "options": [
+        "n₂ sin θ₂",
+        "n₂ cos θ₂",
+        "n₂ tan θ₂",
+        "(1/n₂) sin θ₂"
+      ],
+      "answer": 0,
+      "solution": "Snell's law."
+    },
+    {
+      "q": "If n = 1.5, critical angle is (sin c = 1/n):",
+      "options": [
+        "≈ 30°",
+        "≈ 42°",
+        "≈ 45°",
+        "≈ 60°"
+      ],
+      "answer": 1,
+      "solution": "arcsin(1/1.5)≈41.8°."
+    },
+    {
+      "q": "Total internal reflection requires light going from",
+      "options": [
+        "denser to less dense at i > c",
+        "less dense to denser",
+        "same medium",
+        "denser to less dense at i < c"
+      ],
+      "answer": 0,
+      "solution": "Only in that direction."
+    },
+    {
+      "q": "Optical fibres use",
+      "options": [
+        "diffraction",
+        "polarisation",
+        "total internal reflection",
+        "dispersion"
+      ],
+      "answer": 2,
+      "solution": "TIR keeps light inside."
+    },
+    {
+      "q": "A ray in air at 60° enters glass n=1.5. Refraction angle (sin 60=0.866):",
+      "options": [
+        "≈ 35°",
+        "≈ 30°",
+        "≈ 40°",
+        "≈ 45°"
+      ],
+      "answer": 0,
+      "solution": "sin r = 0.866/1.5=0.577 → r≈35°."
+    },
+    {
+      "q": "A prism splits white light into colours — this is",
+      "options": [
+        "reflection",
+        "refraction only",
+        "dispersion",
+        "diffraction"
+      ],
+      "answer": 2,
+      "solution": "Different colours refract by different amounts."
+    },
+    {
+      "q": "Which colour is refracted least?",
+      "options": [
+        "Red",
+        "Yellow",
+        "Blue",
+        "Violet"
+      ],
+      "answer": 0,
+      "solution": "Red bends the least."
+    },
+    {
+      "q": "Which colour is refracted most?",
+      "options": [
+        "Red",
+        "Yellow",
+        "Blue",
+        "Violet"
+      ],
+      "answer": 3,
+      "solution": "Violet bends the most."
+    },
+    {
+      "q": "A converging lens is used in",
+      "options": [
+        "short sight glasses",
+        "long sight glasses",
+        "car rearview mirror",
+        "door peephole"
+      ],
+      "answer": 1,
+      "solution": "Convex lens corrects long sight."
+    },
+    {
+      "q": "A diverging lens is used in",
+      "options": [
+        "long sight glasses",
+        "short sight glasses",
+        "microscope",
+        "telescope objective"
+      ],
+      "answer": 1,
+      "solution": "Concave for myopia."
+    },
+    {
+      "q": "Power of a lens of f = 50 cm:",
+      "options": [
+        "0.5 D",
+        "1 D",
+        "2 D",
+        "5 D"
+      ],
+      "answer": 2,
+      "solution": "P = 1/f(m) = 1/0.5=2."
+    },
+    {
+      "q": "Power of a lens is measured in",
+      "options": [
+        "watts",
+        "dioptres",
+        "joules",
+        "metres"
+      ],
+      "answer": 1,
+      "solution": "Dioptre = m⁻¹."
+    },
+    {
+      "q": "A camera lens forms an image that is",
+      "options": [
+        "real, inverted, diminished",
+        "virtual, upright, magnified",
+        "real, upright, magnified",
+        "virtual, inverted, diminished"
+      ],
+      "answer": 0,
+      "solution": "Camera images."
+    },
+    {
+      "q": "A simple magnifying glass produces",
+      "options": [
+        "real, inverted, diminished",
+        "virtual, upright, magnified",
+        "virtual, inverted, diminished",
+        "real, upright, magnified"
+      ],
+      "answer": 1,
+      "solution": "Object inside focus."
+    },
+    {
+      "q": "A compound microscope uses",
+      "options": [
+        "two convex lenses",
+        "one concave lens",
+        "one convex and one plane mirror",
+        "one concave one convex"
+      ],
+      "answer": 0,
+      "solution": "Objective + eyepiece both convex."
+    },
+    {
+      "q": "An astronomical telescope in normal adjustment has final image",
+      "options": [
+        "real, erect",
+        "real, inverted",
+        "virtual, erect",
+        "virtual, inverted"
+      ],
+      "answer": 3,
+      "solution": "Virtual, inverted."
+    },
+    {
+      "q": "Which defect is corrected with a converging lens?",
+      "options": [
+        "Myopia",
+        "Hypermetropia",
+        "Astigmatism",
+        "Presbyopia"
+      ],
+      "answer": 1,
+      "solution": "Long sight."
+    },
+    {
+      "q": "Astigmatism is corrected with a",
+      "options": [
+        "diverging lens",
+        "converging lens",
+        "cylindrical lens",
+        "spherical mirror"
+      ],
+      "answer": 2,
+      "solution": "Cylindrical lens."
+    },
+    {
+      "q": "Focal length of a concave lens is",
+      "options": [
+        "always positive",
+        "always negative",
+        "zero",
+        "undefined"
+      ],
+      "answer": 1,
+      "solution": "Convention: negative."
+    },
+    {
+      "q": "Which colour has the longest wavelength in visible spectrum?",
+      "options": [
+        "Violet",
+        "Blue",
+        "Green",
+        "Red"
+      ],
+      "answer": 3,
+      "solution": "Red ~700 nm."
+    },
+    {
+      "q": "Which colour has the shortest wavelength?",
+      "options": [
+        "Red",
+        "Yellow",
+        "Green",
+        "Violet"
+      ],
+      "answer": 3,
+      "solution": "Violet ~400 nm."
+    },
+    {
+      "q": "The electromagnetic spectrum in order of increasing frequency is",
+      "options": [
+        "Radio, IR, visible, UV, X, γ",
+        "γ, X, UV, visible, IR, radio",
+        "Visible, IR, radio, γ, X, UV",
+        "Radio, γ, X, visible, IR, UV"
+      ],
+      "answer": 0,
+      "solution": "Standard order."
+    },
+    {
+      "q": "Speed of all EM waves in vacuum is",
+      "options": [
+        "340 m/s",
+        "3×10⁵ m/s",
+        "3×10⁸ m/s",
+        "3×10¹⁰ m/s"
+      ],
+      "answer": 2,
+      "solution": "c ≈ 3×10⁸ m/s."
+    },
+    {
+      "q": "A concave mirror with f=10 cm and object at 30 cm forms image at",
+      "options": [
+        "7.5 cm",
+        "10 cm",
+        "15 cm",
+        "30 cm"
+      ],
+      "answer": 2,
+      "solution": "1/v=1/10-1/30=1/15→v=15 cm."
+    },
+    {
+      "q": "Magnification of a lens/mirror is defined as",
+      "options": [
+        "image height/object height",
+        "object height/image height",
+        "distance from lens",
+        "focal length"
+      ],
+      "answer": 0,
+      "solution": "Standard definition."
+    },
+    {
+      "q": "Image at f from a convex lens for object at infinity is",
+      "options": [
+        "real, inverted, diminished (point image)",
+        "virtual, magnified",
+        "real, magnified",
+        "virtual, upright, same size"
+      ],
+      "answer": 0,
+      "solution": "Object at ∞ → image at F."
+    },
+    {
+      "q": "A ray passing through the optic centre of a thin lens",
+      "options": [
+        "is deviated by 90°",
+        "goes undeviated",
+        "is totally reflected",
+        "is dispersed"
+      ],
+      "answer": 1,
+      "solution": "Straight through."
+    },
+    {
+      "q": "The refractive index of water is about",
+      "options": [
+        "0.75",
+        "1.33",
+        "1.5",
+        "2.0"
+      ],
+      "answer": 1,
+      "solution": "n_water ≈ 1.33."
+    },
+    {
+      "q": "A mirage is caused by",
+      "options": [
+        "refraction and total internal reflection in hot air",
+        "diffraction",
+        "polarisation",
+        "dispersion"
+      ],
+      "answer": 0,
+      "solution": "Density gradient in air."
+    },
+    {
+      "q": "Real images can be",
+      "options": [
+        "only virtual",
+        "captured on a screen",
+        "only in mirrors",
+        "only in vacuum"
+      ],
+      "answer": 1,
+      "solution": "Real images can be projected."
+    },
+    {
+      "q": "A convex lens of f=20 cm and object at 20 cm gives an image",
+      "options": [
+        "at infinity",
+        "at 40 cm",
+        "at 10 cm",
+        "at 20 cm"
+      ],
+      "answer": 0,
+      "solution": "Object at f → parallel rays → image at ∞."
+    },
+    {
+      "q": "A convex lens of f=10 cm and object at 5 cm gives",
+      "options": [
+        "real, inverted",
+        "virtual, upright, magnified",
+        "real, diminished",
+        "no image"
+      ],
+      "answer": 1,
+      "solution": "Magnifying glass."
+    },
+    {
+      "q": "The image formed by a convex mirror is always",
+      "options": [
+        "virtual, upright, diminished",
+        "real, inverted",
+        "virtual, magnified",
+        "real, upright"
+      ],
+      "answer": 0,
+      "solution": "Convex mirror."
+    },
+    {
+      "q": "A prism periscope uses",
+      "options": [
+        "reflection off silvered mirrors only",
+        "two right-angled prisms and total internal reflection",
+        "refraction only",
+        "diffraction"
+      ],
+      "answer": 1,
+      "solution": "TIR at 45°."
+    },
+    {
+      "q": "Red and blue light travel with the same speed in",
+      "options": [
+        "water",
+        "glass",
+        "vacuum",
+        "diamond"
+      ],
+      "answer": 2,
+      "solution": "No dispersion in vacuum."
+    },
+    {
+      "q": "An eye that can only focus on close objects has",
+      "options": [
+        "hypermetropia",
+        "myopia",
+        "astigmatism",
+        "presbyopia"
+      ],
+      "answer": 1,
+      "solution": "Short sight."
+    },
+    {
+      "q": "The far point of a normal eye is at",
+      "options": [
+        "25 cm",
+        "1 m",
+        "10 m",
+        "infinity"
+      ],
+      "answer": 3,
+      "solution": "Far point at ∞."
+    },
+    {
+      "q": "The least distance of distinct vision for a normal eye is about",
+      "options": [
+        "10 cm",
+        "15 cm",
+        "25 cm",
+        "50 cm"
+      ],
+      "answer": 2,
+      "solution": "≈ 25 cm."
+    }
+  ]
+}

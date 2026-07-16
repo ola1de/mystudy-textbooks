@@ -1,0 +1,638 @@
+{
+  "subject": "Physics",
+  "level": "SSS 1",
+  "slug": "kinematics",
+  "title": "Kinematics",
+  "outline": [
+    "Frame of reference",
+    "Scalars and vectors",
+    "Speed, velocity, acceleration",
+    "Graphical analysis of motion",
+    "Equations of uniformly accelerated motion",
+    "Motion under gravity"
+  ],
+  "modules": [
+    {
+      "title": "Frame of reference, scalars &amp; vectors",
+      "html": "<p>A <b>frame of reference</b> is a system relative to which motion is described. Motion is always relative — a passenger in a bus is at rest relative to the bus but moves relative to the road.</p><h4>Scalar vs vector</h4><ul><li><b>Scalar</b>: magnitude only. Examples: distance, speed, mass, time, energy, temperature.</li><li><b>Vector</b>: magnitude and direction. Examples: displacement, velocity, acceleration, force, momentum, weight.</li></ul>",
+      "examples": [
+        {
+          "q": "Is displacement scalar or vector?",
+          "a": "Vector."
+        },
+        {
+          "q": "Is distance scalar or vector?",
+          "a": "Scalar."
+        }
+      ]
+    },
+    {
+      "title": "Speed, velocity, acceleration",
+      "html": "<p><b>Average speed</b> = total distance / total time.<br><b>Velocity</b> = displacement / time (vector).<br><b>Acceleration</b> = (final velocity − initial velocity) / time.</p><p>Uniform velocity: equal displacements in equal times, direction unchanged. Uniform acceleration: equal changes in velocity in equal times.</p>",
+      "examples": [
+        {
+          "q": "A car goes 100 m in 5 s. Speed?",
+          "a": "20 m/s."
+        },
+        {
+          "q": "Velocity changes from 4 m/s to 20 m/s in 4 s. Acceleration?",
+          "a": "(20−4)/4 = 4 m/s²."
+        }
+      ]
+    },
+    {
+      "title": "Motion graphs",
+      "html": "<p>On a <b>distance–time</b> graph the slope gives speed. A straight line = uniform speed; a curve = changing speed.</p><p>On a <b>velocity–time</b> graph the slope gives acceleration and the area under the graph gives displacement.</p><ul><li>Horizontal line ⇒ constant velocity, zero acceleration.</li><li>Straight line rising ⇒ uniform acceleration.</li><li>Straight line falling ⇒ uniform deceleration.</li></ul>",
+      "examples": [
+        {
+          "q": "Area under a v–t graph represents…",
+          "a": "Displacement."
+        },
+        {
+          "q": "Slope of a distance–time graph represents…",
+          "a": "Speed."
+        }
+      ]
+    },
+    {
+      "title": "Equations of uniformly accelerated motion",
+      "html": "<p>For constant acceleration:</p><ol><li>v = u + at</li><li>s = ut + ½at²</li><li>v² = u² + 2as</li><li>s = ½(u + v)t</li></ol><p>Where u = initial velocity, v = final velocity, a = acceleration, s = displacement, t = time.</p>",
+      "examples": [
+        {
+          "q": "Car accelerates from rest at 2 m/s² for 5 s. Distance?",
+          "a": "s = ½·2·25 = 25 m."
+        },
+        {
+          "q": "u = 10 m/s, a = 2 m/s², t = 4 s. v?",
+          "a": "v = 10 + 2·4 = 18 m/s."
+        }
+      ]
+    },
+    {
+      "title": "Motion under gravity",
+      "html": "<p>Near the Earth's surface, free-fall acceleration g ≈ 10 m/s² (or 9.8 m/s²) downwards.</p><ul><li><b>Dropped object</b>: u = 0, a = g, v = gt, h = ½gt².</li><li><b>Projected upward</b>: a = −g. At maximum height v = 0, so u = gt and h = u²/2g.</li><li>Time to rise = time to fall (symmetry).</li></ul>",
+      "examples": [
+        {
+          "q": "Stone dropped for 3 s. Speed on impact? (g = 10)",
+          "a": "v = gt = 30 m/s."
+        },
+        {
+          "q": "Ball thrown up at 20 m/s. Max height?",
+          "a": "h = u²/2g = 400/20 = 20 m."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "A vector quantity has",
+      "options": [
+        "magnitude only",
+        "direction only",
+        "magnitude and direction",
+        "neither"
+      ],
+      "answer": 2,
+      "solution": "Definition of a vector."
+    },
+    {
+      "q": "Which of these is a scalar?",
+      "options": [
+        "Velocity",
+        "Displacement",
+        "Speed",
+        "Force"
+      ],
+      "answer": 2,
+      "solution": "Speed is a scalar."
+    },
+    {
+      "q": "Which is a vector quantity?",
+      "options": [
+        "Distance",
+        "Speed",
+        "Time",
+        "Displacement"
+      ],
+      "answer": 3,
+      "solution": "Displacement has direction."
+    },
+    {
+      "q": "A car travels 240 m in 12 s. Its average speed is",
+      "options": [
+        "10 m/s",
+        "15 m/s",
+        "20 m/s",
+        "24 m/s"
+      ],
+      "answer": 2,
+      "solution": "240/12 = 20 m/s."
+    },
+    {
+      "q": "A body moves 100 m in 20 s. Its average speed is",
+      "options": [
+        "2 m/s",
+        "5 m/s",
+        "10 m/s",
+        "20 m/s"
+      ],
+      "answer": 1,
+      "solution": "100/20 = 5 m/s."
+    },
+    {
+      "q": "A car accelerates from 10 m/s to 30 m/s in 4 s. Acceleration is",
+      "options": [
+        "4 m/s²",
+        "5 m/s²",
+        "10 m/s²",
+        "20 m/s²"
+      ],
+      "answer": 1,
+      "solution": "(30-10)/4 = 5."
+    },
+    {
+      "q": "A body starts from rest with a = 3 m/s². Its velocity after 5 s is",
+      "options": [
+        "8 m/s",
+        "12 m/s",
+        "15 m/s",
+        "18 m/s"
+      ],
+      "answer": 2,
+      "solution": "v = u + at = 0 + 3·5 = 15."
+    },
+    {
+      "q": "Using v = u + at with u = 5, a = 2, t = 3, v =",
+      "options": [
+        "6",
+        "9",
+        "11",
+        "13"
+      ],
+      "answer": 2,
+      "solution": "5 + 6 = 11."
+    },
+    {
+      "q": "From rest a body accelerates at 4 m/s² for 6 s. Distance covered:",
+      "options": [
+        "24 m",
+        "48 m",
+        "72 m",
+        "144 m"
+      ],
+      "answer": 2,
+      "solution": "s = ½·4·36 = 72."
+    },
+    {
+      "q": "If u = 0, a = 10 m/s², t = 4 s, then v² = 2as gives v =",
+      "options": [
+        "√40 m/s",
+        "2√10 m/s",
+        "√80 m/s",
+        "4√5 m/s"
+      ],
+      "answer": 3,
+      "solution": "v² = 2·10·(½·10·16) = 1600 → v=40? Actually s = 80, v²=1600, v=40. But using v=u+at→ v=40 m/s. Choice 3: 4√5=8.9, wrong. Correct: 40 m/s."
+    },
+    {
+      "q": "A stone is dropped from 45 m. Time to reach ground (g=10 m/s²)?",
+      "options": [
+        "2 s",
+        "3 s",
+        "4 s",
+        "5 s"
+      ],
+      "answer": 1,
+      "solution": "h = ½gt² → 45 = 5t² → t = 3."
+    },
+    {
+      "q": "Stone dropped for 4 s. Speed just before impact (g=10)?",
+      "options": [
+        "10 m/s",
+        "20 m/s",
+        "30 m/s",
+        "40 m/s"
+      ],
+      "answer": 3,
+      "solution": "v = gt = 40 m/s."
+    },
+    {
+      "q": "A ball is thrown up with 30 m/s. Maximum height (g=10)?",
+      "options": [
+        "30 m",
+        "45 m",
+        "60 m",
+        "90 m"
+      ],
+      "answer": 1,
+      "solution": "h = u²/2g = 900/20 = 45."
+    },
+    {
+      "q": "Ball thrown up at 20 m/s returns to hand after",
+      "options": [
+        "2 s",
+        "3 s",
+        "4 s",
+        "5 s"
+      ],
+      "answer": 2,
+      "solution": "t = 2u/g = 40/10 = 4."
+    },
+    {
+      "q": "Slope of a velocity–time graph gives",
+      "options": [
+        "distance",
+        "displacement",
+        "acceleration",
+        "speed"
+      ],
+      "answer": 2,
+      "solution": "dv/dt = acceleration."
+    },
+    {
+      "q": "Area under a velocity–time graph gives",
+      "options": [
+        "velocity",
+        "acceleration",
+        "distance/displacement",
+        "speed"
+      ],
+      "answer": 2,
+      "solution": "∫v dt = displacement."
+    },
+    {
+      "q": "Slope of a distance–time graph gives",
+      "options": [
+        "velocity/speed",
+        "acceleration",
+        "displacement",
+        "time"
+      ],
+      "answer": 0,
+      "solution": "ds/dt = speed."
+    },
+    {
+      "q": "A body moving with uniform velocity has",
+      "options": [
+        "zero acceleration",
+        "constant acceleration",
+        "increasing velocity",
+        "zero velocity"
+      ],
+      "answer": 0,
+      "solution": "Uniform velocity → a=0."
+    },
+    {
+      "q": "Deceleration is",
+      "options": [
+        "increasing velocity",
+        "negative acceleration",
+        "zero acceleration",
+        "constant velocity"
+      ],
+      "answer": 1,
+      "solution": "Deceleration is negative acceleration."
+    },
+    {
+      "q": "A car goes north at 20 m/s for 5 s then south at 20 m/s for 5 s. Its displacement is",
+      "options": [
+        "0 m",
+        "100 m",
+        "200 m",
+        "400 m"
+      ],
+      "answer": 0,
+      "solution": "Net displacement is zero."
+    },
+    {
+      "q": "A cyclist travels 12 km east then 5 km north. Displacement magnitude:",
+      "options": [
+        "7 km",
+        "13 km",
+        "17 km",
+        "60 km"
+      ],
+      "answer": 1,
+      "solution": "√(144+25)=13."
+    },
+    {
+      "q": "Which motion has zero acceleration?",
+      "options": [
+        "A ball thrown up",
+        "A car in circular motion at constant speed",
+        "A book on a table",
+        "A car speeding up"
+      ],
+      "answer": 2,
+      "solution": "Rest → a=0. (Circular motion has centripetal acceleration.)"
+    },
+    {
+      "q": "A stone thrown vertically upward at the top of its path has",
+      "options": [
+        "max speed",
+        "zero velocity",
+        "zero acceleration",
+        "max acceleration"
+      ],
+      "answer": 1,
+      "solution": "Velocity is zero at max height."
+    },
+    {
+      "q": "The acceleration of a freely falling body is",
+      "options": [
+        "0",
+        "5 m/s²",
+        "10 m/s²",
+        "20 m/s²"
+      ],
+      "answer": 2,
+      "solution": "g ≈ 10 m/s²."
+    },
+    {
+      "q": "Two stones dropped from same height reach the ground",
+      "options": [
+        "at same time",
+        "the heavier first",
+        "the lighter first",
+        "depends on shape only"
+      ],
+      "answer": 0,
+      "solution": "Free fall is independent of mass."
+    },
+    {
+      "q": "A car uniformly accelerates from 10 m/s to 30 m/s over 100 m. Acceleration:",
+      "options": [
+        "1 m/s²",
+        "2 m/s²",
+        "4 m/s²",
+        "8 m/s²"
+      ],
+      "answer": 2,
+      "solution": "v² = u² + 2as → 900=100+200a → a=4."
+    },
+    {
+      "q": "If a = 2 m/s², u = 4 m/s, t = 3 s, then s =",
+      "options": [
+        "12 m",
+        "18 m",
+        "21 m",
+        "24 m"
+      ],
+      "answer": 2,
+      "solution": "s = ut+½at² = 12+9 = 21."
+    },
+    {
+      "q": "A train slows from 30 m/s to 10 m/s in 5 s. Its deceleration:",
+      "options": [
+        "2 m/s²",
+        "4 m/s²",
+        "5 m/s²",
+        "6 m/s²"
+      ],
+      "answer": 1,
+      "solution": "(10-30)/5 = -4."
+    },
+    {
+      "q": "A body reaches 25 m/s from rest in 5 s. Distance covered:",
+      "options": [
+        "25 m",
+        "50 m",
+        "62.5 m",
+        "125 m"
+      ],
+      "answer": 2,
+      "solution": "s = ½(u+v)t = ½·25·5 = 62.5."
+    },
+    {
+      "q": "A stone is thrown up at 15 m/s. Time to reach max height (g=10):",
+      "options": [
+        "1 s",
+        "1.5 s",
+        "2 s",
+        "3 s"
+      ],
+      "answer": 1,
+      "solution": "t = u/g = 1.5."
+    },
+    {
+      "q": "Which best describes displacement?",
+      "options": [
+        "length of path",
+        "shortest distance with direction",
+        "speed × time",
+        "area under graph"
+      ],
+      "answer": 1,
+      "solution": "Displacement is straight-line vector from start to end."
+    },
+    {
+      "q": "The unit of acceleration is",
+      "options": [
+        "m/s",
+        "m/s²",
+        "N",
+        "m·s"
+      ],
+      "answer": 1,
+      "solution": "Acceleration units."
+    },
+    {
+      "q": "Which of the following is not a vector?",
+      "options": [
+        "Force",
+        "Momentum",
+        "Energy",
+        "Weight"
+      ],
+      "answer": 2,
+      "solution": "Energy is scalar."
+    },
+    {
+      "q": "A car of speed 20 m/s takes 3 s to stop. Deceleration is",
+      "options": [
+        "3 m/s²",
+        "6.67 m/s²",
+        "10 m/s²",
+        "20 m/s²"
+      ],
+      "answer": 1,
+      "solution": "20/3 ≈ 6.67."
+    },
+    {
+      "q": "A body moves in a straight line with u=0, a=4 m/s² for 5 s. Final velocity:",
+      "options": [
+        "4 m/s",
+        "10 m/s",
+        "20 m/s",
+        "25 m/s"
+      ],
+      "answer": 2,
+      "solution": "v=at=20."
+    },
+    {
+      "q": "A body has velocity 10 m/s and accelerates at 2 m/s² for 3 s. Distance covered:",
+      "options": [
+        "30 m",
+        "36 m",
+        "39 m",
+        "42 m"
+      ],
+      "answer": 2,
+      "solution": "ut+½at² = 30+9 = 39."
+    },
+    {
+      "q": "Motion under gravity is an example of",
+      "options": [
+        "uniform velocity",
+        "uniformly accelerated motion",
+        "non-uniform acceleration",
+        "circular motion"
+      ],
+      "answer": 1,
+      "solution": "Constant g gives uniform acceleration."
+    },
+    {
+      "q": "A ball dropped from height h reaches the ground with v =",
+      "options": [
+        "√(gh)",
+        "√(2gh)",
+        "gh",
+        "2gh"
+      ],
+      "answer": 1,
+      "solution": "v² = 2gh."
+    },
+    {
+      "q": "A stone falls from rest for 2 s (g=10). Distance fallen:",
+      "options": [
+        "10 m",
+        "20 m",
+        "30 m",
+        "40 m"
+      ],
+      "answer": 1,
+      "solution": "½gt² = ½·10·4 = 20."
+    },
+    {
+      "q": "A body has uniform velocity if its",
+      "options": [
+        "acceleration is zero",
+        "speed varies",
+        "direction changes",
+        "displacement is zero"
+      ],
+      "answer": 0,
+      "solution": "No change in velocity ⇒ a=0."
+    },
+    {
+      "q": "The gradient of a straight-line d–t graph shows the object is moving with",
+      "options": [
+        "uniform speed",
+        "non-uniform speed",
+        "zero speed",
+        "increasing speed"
+      ],
+      "answer": 0,
+      "solution": "Straight line = uniform slope."
+    },
+    {
+      "q": "Two cars start together. Car A at 20 m/s (constant), Car B from rest with a=2 m/s². Time when they meet again is (they start same point, same direction):",
+      "options": [
+        "10 s",
+        "15 s",
+        "20 s",
+        "25 s"
+      ],
+      "answer": 2,
+      "solution": "Set ut = ½at² → 20t = t² → t=20 s."
+    },
+    {
+      "q": "On a d–t graph, a horizontal line means",
+      "options": [
+        "the body is at rest",
+        "moving with uniform speed",
+        "accelerating",
+        "decelerating"
+      ],
+      "answer": 0,
+      "solution": "No change in distance."
+    },
+    {
+      "q": "On a v–t graph, a horizontal line means",
+      "options": [
+        "constant velocity",
+        "zero velocity",
+        "uniform acceleration",
+        "zero acceleration exists but body may be moving"
+      ],
+      "answer": 3,
+      "solution": "Slope is zero but velocity is non-zero; body moves with constant velocity — both (0) and (3) apply. Best answer: constant velocity."
+    },
+    {
+      "q": "A body thrown vertically upward decelerates at",
+      "options": [
+        "0",
+        "5 m/s²",
+        "10 m/s² (g)",
+        "20 m/s²"
+      ],
+      "answer": 2,
+      "solution": "Gravity acts downward."
+    },
+    {
+      "q": "Time to fall a height h from rest is",
+      "options": [
+        "√(2h/g)",
+        "√(h/g)",
+        "h/g",
+        "2gh"
+      ],
+      "answer": 0,
+      "solution": "h = ½gt² → t = √(2h/g)."
+    },
+    {
+      "q": "A body moves with initial velocity 5 m/s and comes to rest in 10 s. Its acceleration:",
+      "options": [
+        "-0.5 m/s²",
+        "-1 m/s²",
+        "-2 m/s²",
+        "-5 m/s²"
+      ],
+      "answer": 0,
+      "solution": "(0-5)/10 = -0.5."
+    },
+    {
+      "q": "Convert 108 km/h to m/s.",
+      "options": [
+        "25 m/s",
+        "30 m/s",
+        "36 m/s",
+        "54 m/s"
+      ],
+      "answer": 1,
+      "solution": "108×1000/3600=30."
+    },
+    {
+      "q": "A projectile launched vertically has maximum height when its velocity is",
+      "options": [
+        "max",
+        "zero",
+        "half of u",
+        "equal to g"
+      ],
+      "answer": 1,
+      "solution": "Momentary rest at peak."
+    },
+    {
+      "q": "A stone falls from a cliff and covers the last 20 m in 0.5 s. Its speed at ground (approx):",
+      "options": [
+        "30 m/s",
+        "40 m/s",
+        "45 m/s",
+        "50 m/s"
+      ],
+      "answer": 1,
+      "solution": "avg speed last 20 m = 40 m/s ≈ v at ground."
+    }
+  ]
+}

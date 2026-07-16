@@ -1,0 +1,608 @@
+{
+  "subject": "Physics",
+  "level": "SSS 3",
+  "slug": "ac-circuits",
+  "title": "AC Circuits",
+  "outline": [
+    "Peak, RMS and average values",
+    "Pure resistive, inductive, capacitive AC circuits",
+    "Reactance and impedance",
+    "R-L-C circuits and resonance"
+  ],
+  "modules": [
+    {
+      "title": "AC values",
+      "html": "<p>An alternating voltage V = V₀ sin(ωt) has:</p><ul><li><b>Peak value</b> V₀.</li><li><b>RMS value</b> V_rms = V₀/√2 ≈ 0.707 V₀.</li><li><b>Average over full cycle</b>: 0. Mean over half cycle = 2V₀/π ≈ 0.637 V₀.</li><li><b>Angular frequency</b> ω = 2πf. Period T = 1/f.</li></ul><p>Household meters read RMS; e.g. 240 V mains has V₀ ≈ 340 V.</p>",
+      "examples": [
+        {
+          "q": "RMS of a 100 V peak AC?",
+          "a": "100/√2 ≈ 70.7 V."
+        },
+        {
+          "q": "Peak of a 220 V rms supply?",
+          "a": "220·√2 ≈ 311 V."
+        }
+      ]
+    },
+    {
+      "title": "Pure resistor, inductor, capacitor",
+      "html": "<p><b>Pure resistor</b>: V and I in phase. Power dissipated = V_rms · I_rms.</p><p><b>Pure inductor</b>: V leads I by 90°. Inductive reactance X_L = 2πfL.</p><p><b>Pure capacitor</b>: I leads V by 90°. Capacitive reactance X_C = 1/(2πfC).</p><p>Pure L and C dissipate no real power on average.</p>",
+      "examples": [
+        {
+          "q": "Reactance of a 0.1 H inductor at 50 Hz?",
+          "a": "X_L = 2π·50·0.1 ≈ 31.4 Ω."
+        },
+        {
+          "q": "Reactance of a 10 μF capacitor at 50 Hz?",
+          "a": "X_C = 1/(2π·50·10⁻⁵) ≈ 318 Ω."
+        }
+      ]
+    },
+    {
+      "title": "Impedance and R-L-C circuits",
+      "html": "<p>Series R-L-C impedance Z = √(R² + (X_L − X_C)²).</p><p>Phase angle: tan φ = (X_L − X_C)/R. Current I = V/Z.</p><p><b>Resonance</b> occurs when X_L = X_C → f₀ = 1/(2π√(LC)). At resonance Z = R (minimum), current maximum, and voltage across L and C cancel.</p><p>Power factor = cos φ = R/Z. Real power P = V_rms · I_rms · cos φ.</p>",
+      "examples": [
+        {
+          "q": "R=8 Ω, X_L=10 Ω, X_C=4 Ω. Impedance?",
+          "a": "Z = √(64+36)=10 Ω."
+        },
+        {
+          "q": "Resonant frequency of L=0.1 H, C=10 μF?",
+          "a": "f₀ = 1/(2π√(10⁻⁶)) = 159 Hz."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Peak of a 100 V rms supply:",
+      "options": [
+        "100 V",
+        "141 V",
+        "70.7 V",
+        "200 V"
+      ],
+      "answer": 1,
+      "solution": "100·√2 ≈ 141."
+    },
+    {
+      "q": "RMS of a 200 V peak AC:",
+      "options": [
+        "100 V",
+        "141 V",
+        "200 V",
+        "283 V"
+      ],
+      "answer": 1,
+      "solution": "200/√2 ≈ 141."
+    },
+    {
+      "q": "Mains 240 V rms has peak of about",
+      "options": [
+        "170 V",
+        "240 V",
+        "310 V",
+        "340 V"
+      ],
+      "answer": 3,
+      "solution": "240·√2 ≈ 339."
+    },
+    {
+      "q": "Angular frequency at 50 Hz:",
+      "options": [
+        "50",
+        "100π",
+        "2π",
+        "314 rad/s"
+      ],
+      "answer": 3,
+      "solution": "ω=2π·50 ≈ 314."
+    },
+    {
+      "q": "In a pure resistor, current and voltage are",
+      "options": [
+        "90° out of phase",
+        "in phase",
+        "180° apart",
+        "45° apart"
+      ],
+      "answer": 1,
+      "solution": "R has no phase shift."
+    },
+    {
+      "q": "In a pure inductor, voltage",
+      "options": [
+        "lags current by 90°",
+        "leads current by 90°",
+        "in phase",
+        "180°"
+      ],
+      "answer": 1,
+      "solution": "V leads I by 90°."
+    },
+    {
+      "q": "In a pure capacitor, current",
+      "options": [
+        "leads voltage by 90°",
+        "lags voltage by 90°",
+        "in phase",
+        "180°"
+      ],
+      "answer": 0,
+      "solution": "I leads V by 90°."
+    },
+    {
+      "q": "Inductive reactance X_L =",
+      "options": [
+        "1/(ωL)",
+        "ωL",
+        "ωC",
+        "1/(ωC)"
+      ],
+      "answer": 1,
+      "solution": "2πfL."
+    },
+    {
+      "q": "Capacitive reactance X_C =",
+      "options": [
+        "ωC",
+        "1/(ωC)",
+        "ωL",
+        "1/(ωL)"
+      ],
+      "answer": 1,
+      "solution": "1/(2πfC)."
+    },
+    {
+      "q": "As frequency increases, X_L",
+      "options": [
+        "decreases",
+        "stays constant",
+        "increases",
+        "becomes negative"
+      ],
+      "answer": 2,
+      "solution": "X_L ∝ f."
+    },
+    {
+      "q": "As frequency increases, X_C",
+      "options": [
+        "increases",
+        "decreases",
+        "constant",
+        "zero"
+      ],
+      "answer": 1,
+      "solution": "X_C ∝ 1/f."
+    },
+    {
+      "q": "Reactance of 0.2 H at 50 Hz:",
+      "options": [
+        "≈ 6.3 Ω",
+        "≈ 31.4 Ω",
+        "≈ 62.8 Ω",
+        "≈ 100 Ω"
+      ],
+      "answer": 2,
+      "solution": "2π·50·0.2 ≈ 62.8."
+    },
+    {
+      "q": "Reactance of 100 μF at 50 Hz:",
+      "options": [
+        "≈ 15.9 Ω",
+        "≈ 31.8 Ω",
+        "≈ 100 Ω",
+        "≈ 200 Ω"
+      ],
+      "answer": 1,
+      "solution": "1/(2π·50·1e-4)≈31.8."
+    },
+    {
+      "q": "Impedance of series R-L-C:",
+      "options": [
+        "R+X_L+X_C",
+        "√(R²+(X_L−X_C)²)",
+        "R−X_L+X_C",
+        "R²+X_L²+X_C²"
+      ],
+      "answer": 1,
+      "solution": "Vector sum."
+    },
+    {
+      "q": "R=6, X_L=10, X_C=2. Z equals",
+      "options": [
+        "8 Ω",
+        "10 Ω",
+        "12 Ω",
+        "14 Ω"
+      ],
+      "answer": 1,
+      "solution": "√(36+64)=10."
+    },
+    {
+      "q": "R=3, X_L=4, X_C=0. Z equals",
+      "options": [
+        "3 Ω",
+        "4 Ω",
+        "5 Ω",
+        "7 Ω"
+      ],
+      "answer": 2,
+      "solution": "√(9+16)=5."
+    },
+    {
+      "q": "At resonance in R-L-C:",
+      "options": [
+        "Z is max",
+        "current is min",
+        "X_L=X_C",
+        "V_L is zero"
+      ],
+      "answer": 2,
+      "solution": "Reactances cancel."
+    },
+    {
+      "q": "Resonant frequency of series R-L-C:",
+      "options": [
+        "1/(2π√LC)",
+        "2π√LC",
+        "1/(2πLC)",
+        "LC"
+      ],
+      "answer": 0,
+      "solution": "f₀=1/(2π√LC)."
+    },
+    {
+      "q": "f₀ for L=0.01 H, C=1 μF:",
+      "options": [
+        "≈ 1.59 kHz",
+        "≈ 15.9 kHz",
+        "≈ 159 Hz",
+        "≈ 500 Hz"
+      ],
+      "answer": 0,
+      "solution": "1/(2π√(1e-8))≈1592 Hz."
+    },
+    {
+      "q": "Power factor is defined as",
+      "options": [
+        "V/I",
+        "cos φ",
+        "tan φ",
+        "Z/R"
+      ],
+      "answer": 1,
+      "solution": "cos φ."
+    },
+    {
+      "q": "Real power in AC:",
+      "options": [
+        "VI",
+        "VI cos φ",
+        "VI tan φ",
+        "VI²"
+      ],
+      "answer": 1,
+      "solution": "P = VI cos φ."
+    },
+    {
+      "q": "Apparent power is",
+      "options": [
+        "V·I",
+        "V·I·cos φ",
+        "V·I·sin φ",
+        "I²R"
+      ],
+      "answer": 0,
+      "solution": "VA rating."
+    },
+    {
+      "q": "Which does not dissipate real power on average?",
+      "options": [
+        "Resistor",
+        "Pure inductor",
+        "Pure capacitor",
+        "Both inductor and capacitor"
+      ],
+      "answer": 3,
+      "solution": "Ideal L and C store and return energy."
+    },
+    {
+      "q": "A 10 Ω resistor across 100 V rms carries current",
+      "options": [
+        "5 A",
+        "10 A",
+        "14 A",
+        "20 A"
+      ],
+      "answer": 1,
+      "solution": "I=V/R=10 A."
+    },
+    {
+      "q": "Power dissipated in a resistor R at V_rms:",
+      "options": [
+        "V·I",
+        "V²/R",
+        "V²R",
+        "V·I²"
+      ],
+      "answer": 1,
+      "solution": "P=V²/R."
+    },
+    {
+      "q": "Series R-L-C with R=10, X_L=X_C=10 (resonance). Current from 100 V rms source:",
+      "options": [
+        "1 A",
+        "5 A",
+        "10 A",
+        "∞"
+      ],
+      "answer": 2,
+      "solution": "Z=R=10 → I=10."
+    },
+    {
+      "q": "Phase angle tan φ = ",
+      "options": [
+        "R/(X_L−X_C)",
+        "(X_L−X_C)/R",
+        "X_L·X_C/R",
+        "R·X_L·X_C"
+      ],
+      "answer": 1,
+      "solution": "Standard result."
+    },
+    {
+      "q": "Voltage across an inductor in a series R-L circuit is",
+      "options": [
+        "in phase with current",
+        "leading current by 90°",
+        "lagging current by 90°",
+        "in phase with V_R"
+      ],
+      "answer": 1,
+      "solution": "V_L leads I."
+    },
+    {
+      "q": "Voltage across a capacitor in series R-C circuit",
+      "options": [
+        "leads current by 90°",
+        "lags current by 90°",
+        "in phase",
+        "opposite polarity"
+      ],
+      "answer": 1,
+      "solution": "V_C lags I."
+    },
+    {
+      "q": "Impedance triangle sides are",
+      "options": [
+        "R, X_L, X_C",
+        "R, X_L−X_C, Z",
+        "V, I, P",
+        "V_R, V_L, V_C"
+      ],
+      "answer": 1,
+      "solution": "Impedance triangle."
+    },
+    {
+      "q": "A transformer of turn ratio 1:10 steps up voltage by",
+      "options": [
+        "1",
+        "5",
+        "10",
+        "100"
+      ],
+      "answer": 2,
+      "solution": "V_s/V_p=N_s/N_p."
+    },
+    {
+      "q": "An AC ammeter measures",
+      "options": [
+        "peak current",
+        "average current",
+        "rms current",
+        "instantaneous current"
+      ],
+      "answer": 2,
+      "solution": "RMS is the useful DC-equivalent."
+    },
+    {
+      "q": "Inductance is measured in",
+      "options": [
+        "ohm",
+        "farad",
+        "henry",
+        "volt"
+      ],
+      "answer": 2,
+      "solution": "Henry."
+    },
+    {
+      "q": "Capacitance is measured in",
+      "options": [
+        "ohm",
+        "henry",
+        "farad",
+        "tesla"
+      ],
+      "answer": 2,
+      "solution": "Farad."
+    },
+    {
+      "q": "The reciprocal of impedance is",
+      "options": [
+        "reactance",
+        "admittance",
+        "conductance",
+        "susceptance"
+      ],
+      "answer": 1,
+      "solution": "Admittance Y = 1/Z."
+    },
+    {
+      "q": "If X_L > X_C in a series R-L-C circuit, the circuit is",
+      "options": [
+        "capacitive",
+        "inductive",
+        "resistive only",
+        "at resonance"
+      ],
+      "answer": 1,
+      "solution": "Inductive dominance."
+    },
+    {
+      "q": "At very low frequency, a capacitor behaves like",
+      "options": [
+        "short circuit",
+        "open circuit",
+        "ohmic resistor",
+        "inductor"
+      ],
+      "answer": 1,
+      "solution": "X_C→∞ so open."
+    },
+    {
+      "q": "At very high frequency, an inductor behaves like",
+      "options": [
+        "short circuit",
+        "open circuit",
+        "ohmic resistor",
+        "capacitor"
+      ],
+      "answer": 1,
+      "solution": "X_L→∞ so open."
+    },
+    {
+      "q": "Rms value of I = 4 sin(ωt) A:",
+      "options": [
+        "4 A",
+        "2√2 A",
+        "2 A",
+        "1 A"
+      ],
+      "answer": 1,
+      "solution": "4/√2 ≈ 2.83 A."
+    },
+    {
+      "q": "The frequency of Nigerian mains is",
+      "options": [
+        "50 Hz",
+        "60 Hz",
+        "100 Hz",
+        "240 Hz"
+      ],
+      "answer": 0,
+      "solution": "50 Hz."
+    },
+    {
+      "q": "Average power in a pure inductor over a full cycle is",
+      "options": [
+        "V·I",
+        "V·I/2",
+        "0",
+        "V²/R"
+      ],
+      "answer": 2,
+      "solution": "No dissipation."
+    },
+    {
+      "q": "A tuned radio circuit uses",
+      "options": [
+        "heating effect",
+        "resonance in R-L-C",
+        "chemical effect",
+        "photoelectric effect"
+      ],
+      "answer": 1,
+      "solution": "Selects station frequency."
+    },
+    {
+      "q": "A choke reduces AC current by",
+      "options": [
+        "dissipation only",
+        "large X_L",
+        "being resistive",
+        "being capacitive"
+      ],
+      "answer": 1,
+      "solution": "Inductive reactance limits current."
+    },
+    {
+      "q": "Two capacitors 2 μF and 3 μF in parallel:",
+      "options": [
+        "1.2 μF",
+        "2 μF",
+        "3 μF",
+        "5 μF"
+      ],
+      "answer": 3,
+      "solution": "Add: 5 μF."
+    },
+    {
+      "q": "Two capacitors 6 μF and 3 μF in series:",
+      "options": [
+        "1 μF",
+        "2 μF",
+        "3 μF",
+        "9 μF"
+      ],
+      "answer": 1,
+      "solution": "6·3/9=2."
+    },
+    {
+      "q": "Current in a pure C leads the voltage by",
+      "options": [
+        "0°",
+        "45°",
+        "90°",
+        "180°"
+      ],
+      "answer": 2,
+      "solution": "Standard result."
+    },
+    {
+      "q": "Peak-to-peak of a 100 V rms AC is about",
+      "options": [
+        "100 V",
+        "141 V",
+        "200 V",
+        "283 V"
+      ],
+      "answer": 3,
+      "solution": "2·√2·100 ≈ 283."
+    },
+    {
+      "q": "An RLC circuit resonates at 500 Hz. If L is doubled, new f₀:",
+      "options": [
+        "500 Hz",
+        "354 Hz",
+        "250 Hz",
+        "1000 Hz"
+      ],
+      "answer": 1,
+      "solution": "f₀ ∝ 1/√L → factor 1/√2."
+    },
+    {
+      "q": "An RLC circuit resonates at 500 Hz. If C is quadrupled, new f₀:",
+      "options": [
+        "1000 Hz",
+        "500 Hz",
+        "250 Hz",
+        "125 Hz"
+      ],
+      "answer": 2,
+      "solution": "f₀ ∝ 1/√C → half."
+    },
+    {
+      "q": "Ohm's law is strictly valid in AC for",
+      "options": [
+        "resistor",
+        "inductor",
+        "capacitor",
+        "all"
+      ],
+      "answer": 0,
+      "solution": "V=IR at any instant only for R."
+    }
+  ]
+}

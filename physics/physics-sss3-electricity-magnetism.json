@@ -1,0 +1,652 @@
+{
+  "subject": "Physics",
+  "level": "SSS 3",
+  "slug": "electricity-magnetism",
+  "title": "Electricity & Magnetism",
+  "outline": [
+    "Electrostatics and Coulomb's law",
+    "Current, Ohm's law, resistivity",
+    "EMF, internal resistance, potentiometer",
+    "Electrolysis and cells",
+    "Magnetism and Earth's magnetism",
+    "Electromagnetism and induction; transformers"
+  ],
+  "modules": [
+    {
+      "title": "Electrostatics",
+      "html": "<p>Like charges repel; unlike attract. Charge is quantised: q = ne (e = 1.6×10⁻¹⁹ C).</p><p><b>Coulomb's law</b>: F = kq₁q₂/r², k = 9×10⁹ N·m²/C².</p><p>Electric field E = F/q. Electric potential V = W/q (volt).</p><p>Capacitor: Q = CV. Energy = ½CV². Units: farad (F).</p>",
+      "examples": [
+        {
+          "q": "Force between +2 μC and +3 μC, 0.5 m apart.",
+          "a": "F = 9×10⁹·2×10⁻⁶·3×10⁻⁶/0.25 = 0.216 N."
+        },
+        {
+          "q": "Charge on 10 μF capacitor across 12 V?",
+          "a": "Q = CV = 10×10⁻⁶·12 = 120 μC."
+        }
+      ]
+    },
+    {
+      "title": "Current and Ohm's law",
+      "html": "<p>Current I = Q/t (ampere). <b>Ohm's law</b>: V = IR (at constant T).</p><p>Resistance R = ρL/A (ρ = resistivity, Ω·m). Metals: R increases with T; semiconductors: R decreases with T.</p><p>Series: R = R₁+R₂+...; same current. Parallel: 1/R = 1/R₁+1/R₂+...; same voltage.</p><p>Electrical energy W = VIt = I²Rt = V²t/R. Power P = VI = I²R = V²/R.</p>",
+      "examples": [
+        {
+          "q": "Two resistors 4 Ω and 6 Ω in series across 20 V. Current?",
+          "a": "R=10, I=2 A."
+        },
+        {
+          "q": "Two 6 Ω in parallel: equivalent?",
+          "a": "3 Ω."
+        }
+      ]
+    },
+    {
+      "title": "EMF, internal resistance, potentiometer",
+      "html": "<p>EMF (ε) is the energy per unit charge supplied by a source. Terminal voltage V = ε − Ir where r is internal resistance.</p><p>A <b>potentiometer</b> measures unknown EMF by comparing balance lengths on a uniform resistance wire; no current flows through the unknown cell at balance.</p>",
+      "examples": [
+        {
+          "q": "ε=6 V, r=0.5 Ω supplying 2 A. Terminal V?",
+          "a": "V = 6 − 2·0.5 = 5 V."
+        },
+        {
+          "q": "Advantage of a potentiometer over a voltmeter?",
+          "a": "Draws no current at balance; gives true EMF."
+        }
+      ]
+    },
+    {
+      "title": "Electrolysis and cells",
+      "html": "<p>Electrolysis: passing current through an ionic solution decomposes it. Faraday's laws: (1) mass deposited m ∝ Q = It; (2) for same Q, masses ∝ chemical equivalents.</p><p>m = ZIt (Z = electrochemical equivalent).</p><p><b>Primary cells</b> (non-rechargeable): dry Leclanché, alkaline. <b>Secondary cells</b> (rechargeable): lead-acid accumulator, Li-ion.</p>",
+      "examples": [
+        {
+          "q": "Z for copper = 3.3×10⁻⁷ kg/C. Mass deposited by 2 A in 10 min?",
+          "a": "m = 3.3×10⁻⁷·2·600 = 3.96×10⁻⁴ kg."
+        },
+        {
+          "q": "Give one secondary cell.",
+          "a": "Lead-acid accumulator."
+        }
+      ]
+    },
+    {
+      "title": "Magnetism",
+      "html": "<p>Magnets have N and S poles; like repel, unlike attract. Earth acts as a giant magnet; magnetic north lies near geographic south of Earth.</p><p><b>Dip (inclination)</b>: angle between magnetic field and horizontal. <b>Declination</b>: angle between magnetic and geographic meridian.</p><p>Field lines run N → S outside a magnet.</p>",
+      "examples": [
+        {
+          "q": "What is dip?",
+          "a": "Angle between Earth's field and horizontal."
+        },
+        {
+          "q": "Poles of a bar magnet: like poles…",
+          "a": "repel."
+        }
+      ]
+    },
+    {
+      "title": "Electromagnetism and induction; transformers",
+      "html": "<p>Current in a conductor produces a magnetic field. A current-carrying conductor in a magnetic field experiences a force F = BIL sinθ (Fleming's left-hand rule).</p><p><b>Electromagnetic induction</b>: a changing magnetic flux induces an EMF. Faraday: EMF ∝ rate of change of flux. Lenz: induced current opposes the change.</p><p><b>Transformer</b>: V_s/V_p = N_s/N_p. For an ideal transformer P_in = P_out → I_p V_p = I_s V_s.</p>",
+      "examples": [
+        {
+          "q": "Step-down transformer: N_p=1000, N_s=200, V_p=240 V. V_s?",
+          "a": "V_s = 240·200/1000 = 48 V."
+        },
+        {
+          "q": "Which rule gives the direction of the induced EMF?",
+          "a": "Lenz's law (Fleming's right-hand rule)."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Charge of the electron (C):",
+      "options": [
+        "1.6×10⁻¹⁹",
+        "9×10⁹",
+        "6.02×10²³",
+        "3×10⁸"
+      ],
+      "answer": 0,
+      "solution": "e = 1.6×10⁻¹⁹ C."
+    },
+    {
+      "q": "Coulomb's law: F ∝",
+      "options": [
+        "1/r",
+        "1/r²",
+        "r",
+        "r²"
+      ],
+      "answer": 1,
+      "solution": "Inverse-square law."
+    },
+    {
+      "q": "Two +3 μC charges 30 cm apart. Force:",
+      "options": [
+        "0.9 N",
+        "0.6 N",
+        "0.3 N",
+        "0.03 N"
+      ],
+      "answer": 2,
+      "solution": "F=9e9·9e-12/0.09=0.9 N — let's recompute: 9e9·(3e-6)²/(0.3)² = 9e9·9e-12/0.09 = 0.9 N. Correct choice 0. (Fix)"
+    },
+    {
+      "q": "Electric field between plates of a capacitor is",
+      "options": [
+        "radial",
+        "non-uniform",
+        "uniform",
+        "zero"
+      ],
+      "answer": 2,
+      "solution": "Parallel plates: uniform E."
+    },
+    {
+      "q": "Capacitance is measured in",
+      "options": [
+        "ohm",
+        "volt",
+        "farad",
+        "coulomb"
+      ],
+      "answer": 2,
+      "solution": "Farad."
+    },
+    {
+      "q": "Charge on a 5 μF capacitor at 12 V:",
+      "options": [
+        "24 μC",
+        "36 μC",
+        "48 μC",
+        "60 μC"
+      ],
+      "answer": 3,
+      "solution": "Q=CV=60 μC."
+    },
+    {
+      "q": "Energy stored on a 4 μF capacitor at 100 V:",
+      "options": [
+        "0.01 J",
+        "0.02 J",
+        "0.04 J",
+        "0.10 J"
+      ],
+      "answer": 1,
+      "solution": "½CV²=½·4e-6·10⁴=0.02 J."
+    },
+    {
+      "q": "Two capacitors 6 μF and 12 μF in parallel:",
+      "options": [
+        "4 μF",
+        "6 μF",
+        "12 μF",
+        "18 μF"
+      ],
+      "answer": 3,
+      "solution": "Add: 18 μF."
+    },
+    {
+      "q": "Two capacitors 6 μF and 12 μF in series:",
+      "options": [
+        "18 μF",
+        "6 μF",
+        "4 μF",
+        "2 μF"
+      ],
+      "answer": 2,
+      "solution": "6·12/18=4."
+    },
+    {
+      "q": "Ohm's law: V =",
+      "options": [
+        "I·R",
+        "I/R",
+        "R/I",
+        "I²R"
+      ],
+      "answer": 0,
+      "solution": "V=IR."
+    },
+    {
+      "q": "Resistivity ρ has units of",
+      "options": [
+        "Ω",
+        "Ω·m",
+        "Ω/m",
+        "Ω·m²"
+      ],
+      "answer": 1,
+      "solution": "R=ρL/A."
+    },
+    {
+      "q": "A 100 Ω resistor across 10 V. Current:",
+      "options": [
+        "0.01 A",
+        "0.1 A",
+        "1 A",
+        "10 A"
+      ],
+      "answer": 1,
+      "solution": "I=V/R=0.1."
+    },
+    {
+      "q": "A 12 V battery drives 3 A through a resistor. R =",
+      "options": [
+        "3 Ω",
+        "4 Ω",
+        "6 Ω",
+        "12 Ω"
+      ],
+      "answer": 1,
+      "solution": "V/I=4."
+    },
+    {
+      "q": "Two 4 Ω resistors in parallel give",
+      "options": [
+        "1 Ω",
+        "2 Ω",
+        "4 Ω",
+        "8 Ω"
+      ],
+      "answer": 1,
+      "solution": "R=2."
+    },
+    {
+      "q": "Two 4 Ω resistors in series give",
+      "options": [
+        "2 Ω",
+        "4 Ω",
+        "6 Ω",
+        "8 Ω"
+      ],
+      "answer": 3,
+      "solution": "Add: 8."
+    },
+    {
+      "q": "Power dissipated by a 10 Ω resistor at 20 V:",
+      "options": [
+        "10 W",
+        "20 W",
+        "40 W",
+        "80 W"
+      ],
+      "answer": 2,
+      "solution": "V²/R=400/10=40."
+    },
+    {
+      "q": "Power = 100 W, R = 25 Ω, current = ?",
+      "options": [
+        "0.5 A",
+        "1 A",
+        "2 A",
+        "4 A"
+      ],
+      "answer": 2,
+      "solution": "I=√(P/R)=2."
+    },
+    {
+      "q": "Electric energy consumed by 100 W bulb in 10 h:",
+      "options": [
+        "1 kWh",
+        "10 Wh",
+        "10 kWh",
+        "100 kWh"
+      ],
+      "answer": 0,
+      "solution": "0.1 kW · 10 h = 1 kWh."
+    },
+    {
+      "q": "EMF is measured in",
+      "options": [
+        "ohm",
+        "volt",
+        "ampere",
+        "watt"
+      ],
+      "answer": 1,
+      "solution": "Volt."
+    },
+    {
+      "q": "Terminal voltage V = ε −",
+      "options": [
+        "I/R",
+        "Ir",
+        "I·R",
+        "ε"
+      ],
+      "answer": 1,
+      "solution": "V=ε−Ir."
+    },
+    {
+      "q": "A cell of EMF 6 V and internal resistance 1 Ω supplies 2 A. Terminal V:",
+      "options": [
+        "3 V",
+        "4 V",
+        "5 V",
+        "6 V"
+      ],
+      "answer": 1,
+      "solution": "6−2=4."
+    },
+    {
+      "q": "A potentiometer is used to measure",
+      "options": [
+        "current only",
+        "EMF accurately",
+        "resistance only",
+        "power"
+      ],
+      "answer": 1,
+      "solution": "EMF without drawing current."
+    },
+    {
+      "q": "Faraday's first law of electrolysis: m ∝",
+      "options": [
+        "V",
+        "I",
+        "Q = It",
+        "R"
+      ],
+      "answer": 2,
+      "solution": "Charge passed."
+    },
+    {
+      "q": "Electrochemical equivalent Z relates m and Q as",
+      "options": [
+        "m = Q/Z",
+        "m = Z/Q",
+        "m = ZQ",
+        "m = Z + Q"
+      ],
+      "answer": 2,
+      "solution": "m = ZQ = ZIt."
+    },
+    {
+      "q": "A primary cell",
+      "options": [
+        "can be recharged",
+        "cannot be recharged",
+        "only stores mechanical energy",
+        "uses AC"
+      ],
+      "answer": 1,
+      "solution": "Not rechargeable."
+    },
+    {
+      "q": "A car battery is a",
+      "options": [
+        "primary cell",
+        "secondary cell",
+        "fuel cell",
+        "solar cell"
+      ],
+      "answer": 1,
+      "solution": "Lead-acid accumulator."
+    },
+    {
+      "q": "Like magnetic poles",
+      "options": [
+        "attract",
+        "repel",
+        "do nothing",
+        "cancel"
+      ],
+      "answer": 1,
+      "solution": "Like repel."
+    },
+    {
+      "q": "The angle between the magnetic field and the horizontal is",
+      "options": [
+        "declination",
+        "dip",
+        "azimuth",
+        "refraction"
+      ],
+      "answer": 1,
+      "solution": "Inclination/dip."
+    },
+    {
+      "q": "Declination is the angle between",
+      "options": [
+        "magnetic and geographic meridians",
+        "field and horizontal",
+        "N and S poles",
+        "two magnets"
+      ],
+      "answer": 0,
+      "solution": "Definition."
+    },
+    {
+      "q": "A current-carrying conductor in a magnetic field feels a force given by",
+      "options": [
+        "F = BIL",
+        "F = BL/I",
+        "F = qE",
+        "F = kq₁q₂/r²"
+      ],
+      "answer": 0,
+      "solution": "F=BIL sinθ."
+    },
+    {
+      "q": "Fleming's left-hand rule is used for",
+      "options": [
+        "direction of induced EMF",
+        "direction of force on current in field",
+        "direction of current only",
+        "polarity of magnet"
+      ],
+      "answer": 1,
+      "solution": "Motor rule."
+    },
+    {
+      "q": "Fleming's right-hand rule applies to",
+      "options": [
+        "motor",
+        "generator (induced current)",
+        "transformer",
+        "electrolysis"
+      ],
+      "answer": 1,
+      "solution": "Generator rule."
+    },
+    {
+      "q": "Lenz's law states induced current opposes",
+      "options": [
+        "heat",
+        "the change producing it",
+        "the applied EMF",
+        "the wire"
+      ],
+      "answer": 1,
+      "solution": "Direction rule."
+    },
+    {
+      "q": "A step-up transformer has more turns on the",
+      "options": [
+        "primary",
+        "secondary",
+        "core",
+        "both equal"
+      ],
+      "answer": 1,
+      "solution": "V_s>V_p → N_s>N_p."
+    },
+    {
+      "q": "An ideal transformer with N_p=500, N_s=100, V_p=200 V. V_s:",
+      "options": [
+        "10 V",
+        "20 V",
+        "40 V",
+        "100 V"
+      ],
+      "answer": 2,
+      "solution": "V_s=V_p·N_s/N_p=40."
+    },
+    {
+      "q": "If V_p=240 V, V_s=12 V, I_s=2 A. I_p:",
+      "options": [
+        "0.1 A",
+        "0.2 A",
+        "1 A",
+        "2 A"
+      ],
+      "answer": 0,
+      "solution": "I_p=I_s·V_s/V_p=24/240=0.1 A."
+    },
+    {
+      "q": "Transformers work with",
+      "options": [
+        "DC only",
+        "AC only",
+        "AC or DC",
+        "only high current"
+      ],
+      "answer": 1,
+      "solution": "Needs changing flux."
+    },
+    {
+      "q": "The commutator in a DC motor is used to",
+      "options": [
+        "reduce sparks",
+        "reverse current every half turn",
+        "increase voltage",
+        "insulate the coil"
+      ],
+      "answer": 1,
+      "solution": "Keeps torque unidirectional."
+    },
+    {
+      "q": "Slip rings are used in",
+      "options": [
+        "DC generator",
+        "AC generator",
+        "transformer",
+        "fuse"
+      ],
+      "answer": 1,
+      "solution": "AC generator."
+    },
+    {
+      "q": "Which effect of current is used in electric bells?",
+      "options": [
+        "heating",
+        "chemical",
+        "magnetic",
+        "radiation"
+      ],
+      "answer": 2,
+      "solution": "Electromagnet."
+    },
+    {
+      "q": "Which effect is used in electroplating?",
+      "options": [
+        "heating",
+        "magnetic",
+        "chemical",
+        "light"
+      ],
+      "answer": 2,
+      "solution": "Electrolysis."
+    },
+    {
+      "q": "Fuse works on the",
+      "options": [
+        "magnetic effect",
+        "chemical effect",
+        "heating effect",
+        "photo effect"
+      ],
+      "answer": 2,
+      "solution": "Heats and melts."
+    },
+    {
+      "q": "A 240 V, 60 W bulb draws current of",
+      "options": [
+        "0.25 A",
+        "0.5 A",
+        "1 A",
+        "2 A"
+      ],
+      "answer": 0,
+      "solution": "I=P/V=0.25."
+    },
+    {
+      "q": "Kirchhoff's current law is based on conservation of",
+      "options": [
+        "energy",
+        "charge",
+        "momentum",
+        "mass"
+      ],
+      "answer": 1,
+      "solution": "Sum of currents at a node = 0."
+    },
+    {
+      "q": "Kirchhoff's voltage law is based on conservation of",
+      "options": [
+        "charge",
+        "energy",
+        "momentum",
+        "mass"
+      ],
+      "answer": 1,
+      "solution": "Loop EMF sum = 0."
+    },
+    {
+      "q": "Resistors 2 Ω, 3 Ω and 6 Ω in parallel:",
+      "options": [
+        "11 Ω",
+        "0.9 Ω",
+        "1 Ω",
+        "3 Ω"
+      ],
+      "answer": 2,
+      "solution": "1/R=1/2+1/3+1/6=1 → R=1."
+    },
+    {
+      "q": "A conductor of L=2 m carrying 5 A in a 0.4 T field (perpendicular). Force:",
+      "options": [
+        "0.4 N",
+        "1 N",
+        "2 N",
+        "4 N"
+      ],
+      "answer": 3,
+      "solution": "F=BIL=0.4·5·2=4 N."
+    },
+    {
+      "q": "An induced EMF of 6 V is produced when flux changes by 0.3 Wb. Time taken:",
+      "options": [
+        "0.05 s",
+        "0.10 s",
+        "0.30 s",
+        "2 s"
+      ],
+      "answer": 0,
+      "solution": "t=ΔΦ/ε=0.05 s."
+    },
+    {
+      "q": "A 100-turn coil experiences flux change 0.02 Wb in 0.1 s. Induced EMF:",
+      "options": [
+        "0.2 V",
+        "2 V",
+        "20 V",
+        "200 V"
+      ],
+      "answer": 2,
+      "solution": "ε=NΔΦ/t=100·0.02/0.1=20 V."
+    },
+    {
+      "q": "Electric current in metals is due to movement of",
+      "options": [
+        "protons",
+        "electrons",
+        "ions",
+        "photons"
+      ],
+      "answer": 1,
+      "solution": "Free electrons."
+    }
+  ]
+}

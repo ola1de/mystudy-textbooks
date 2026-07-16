@@ -1,0 +1,637 @@
+{
+  "subject": "Physics",
+  "level": "SSS 3",
+  "slug": "modern-physics",
+  "title": "Modern Physics",
+  "outline": [
+    "Atomic models and atomic spectra",
+    "X-rays",
+    "Radioactivity, decay and half-life",
+    "Nuclear fission and fusion",
+    "Semiconductors and diodes"
+  ],
+  "modules": [
+    {
+      "title": "Atomic models",
+      "html": "<ul><li><b>Dalton</b>: atom indivisible sphere.</li><li><b>Thomson</b> (plum-pudding): positive sphere with embedded electrons.</li><li><b>Rutherford</b> (nuclear): dense positive nucleus, electrons orbit.</li><li><b>Bohr</b>: electrons in fixed circular orbits with quantised energy; photon emitted when electron drops from higher to lower level, E_photon = hf = E_higher − E_lower.</li></ul><p>Atomic spectra are line spectra characteristic of each element.</p>",
+      "examples": [
+        {
+          "q": "Who proposed the nuclear model?",
+          "a": "Ernest Rutherford."
+        },
+        {
+          "q": "Bohr postulate: energy is…",
+          "a": "quantised (discrete)."
+        }
+      ]
+    },
+    {
+      "title": "X-rays",
+      "html": "<p>X-rays are produced when high-energy electrons decelerate in a heavy target (tungsten). They are electromagnetic waves of very short wavelength (~10⁻¹⁰ m).</p><p>Uses: medical imaging, crystallography, industrial inspection, treatment (radiotherapy).</p>",
+      "examples": [
+        {
+          "q": "Give one danger of X-rays.",
+          "a": "Ionising damage to cells; can cause cancer."
+        },
+        {
+          "q": "Give one use of X-rays.",
+          "a": "Diagnostic radiography."
+        }
+      ]
+    },
+    {
+      "title": "Radioactivity",
+      "html": "<p>Spontaneous emission from unstable nuclei of α, β and γ radiation.</p><ul><li><b>Alpha (α)</b>: helium nucleus, +2e, weakly penetrating (paper stops it), strongly ionising.</li><li><b>Beta (β)</b>: fast electron, −e, more penetrating (stopped by aluminium), less ionising.</li><li><b>Gamma (γ)</b>: EM photon, no charge, highly penetrating (thick lead), least ionising.</li></ul><p><b>Decay law</b>: N = N₀ e^(−λt). Half-life T½ = ln 2 / λ ≈ 0.693/λ.</p>",
+      "examples": [
+        {
+          "q": "After 3 half-lives, fraction remaining?",
+          "a": "(1/2)³ = 1/8."
+        },
+        {
+          "q": "An isotope has half-life 5 days. Fraction after 15 days?",
+          "a": "1/8."
+        }
+      ]
+    },
+    {
+      "title": "Fission and fusion",
+      "html": "<p><b>Nuclear fission</b>: heavy nucleus (e.g. U-235) splits into lighter nuclei, releasing neutrons and energy. Powers reactors and atomic bombs.</p><p><b>Nuclear fusion</b>: light nuclei (e.g. hydrogen) combine to form heavier nuclei, releasing enormous energy. Powers the Sun and stars.</p><p>Mass–energy equivalence: E = mc².</p>",
+      "examples": [
+        {
+          "q": "Which process powers the Sun?",
+          "a": "Nuclear fusion."
+        },
+        {
+          "q": "Which reaction is used in current nuclear power stations?",
+          "a": "Fission of U-235."
+        }
+      ]
+    },
+    {
+      "title": "Semiconductors and diodes",
+      "html": "<p><b>Conductors</b> (metals): overlapping bands, low resistivity.<br><b>Insulators</b>: wide energy gap.<br><b>Semiconductors</b>: small energy gap (~1 eV) — silicon, germanium.</p><p><b>Intrinsic</b>: pure semiconductor. <b>Extrinsic</b>: doped.<br>n-type: doped with pentavalent (P, As); majority carriers are electrons.<br>p-type: doped with trivalent (B, Al); majority carriers are holes.</p><p><b>p–n junction diode</b>: conducts when forward-biased, blocks when reverse-biased — used to rectify AC.</p>",
+      "examples": [
+        {
+          "q": "Silicon doped with phosphorus is what type?",
+          "a": "n-type."
+        },
+        {
+          "q": "What is the main use of a diode?",
+          "a": "Rectification (AC → DC)."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "The scientist who proposed the nuclear model of the atom is",
+      "options": [
+        "Dalton",
+        "Thomson",
+        "Rutherford",
+        "Bohr"
+      ],
+      "answer": 2,
+      "solution": "Gold-foil experiment."
+    },
+    {
+      "q": "Bohr introduced the idea that electrons occupy",
+      "options": [
+        "random orbits",
+        "fixed quantised orbits",
+        "the nucleus",
+        "protons only"
+      ],
+      "answer": 1,
+      "solution": "Quantised orbits."
+    },
+    {
+      "q": "A photon energy formula:",
+      "options": [
+        "E = mc²",
+        "E = ½mv²",
+        "E = hf",
+        "E = qV"
+      ],
+      "answer": 2,
+      "solution": "Planck's relation."
+    },
+    {
+      "q": "The Planck constant is about",
+      "options": [
+        "6.6×10⁻³⁴ J·s",
+        "9.1×10⁻³¹ kg",
+        "1.6×10⁻¹⁹ C",
+        "3×10⁸ m/s"
+      ],
+      "answer": 0,
+      "solution": "h≈6.63×10⁻³⁴."
+    },
+    {
+      "q": "X-rays are produced when",
+      "options": [
+        "light strikes a metal",
+        "fast electrons hit a heavy target",
+        "a nucleus decays",
+        "AC flows in a coil"
+      ],
+      "answer": 1,
+      "solution": "Bremsstrahlung and characteristic X-rays."
+    },
+    {
+      "q": "Which is most penetrating?",
+      "options": [
+        "α",
+        "β",
+        "γ",
+        "X-rays only"
+      ],
+      "answer": 2,
+      "solution": "γ is most penetrating."
+    },
+    {
+      "q": "Which is most ionising?",
+      "options": [
+        "α",
+        "β",
+        "γ",
+        "neutron"
+      ],
+      "answer": 0,
+      "solution": "Alpha is strongly ionising."
+    },
+    {
+      "q": "An alpha particle is a",
+      "options": [
+        "helium nucleus",
+        "electron",
+        "positron",
+        "photon"
+      ],
+      "answer": 0,
+      "solution": "⁴₂He nucleus."
+    },
+    {
+      "q": "A beta particle is a",
+      "options": [
+        "proton",
+        "electron (or positron)",
+        "neutron",
+        "photon"
+      ],
+      "answer": 1,
+      "solution": "β⁻ = electron."
+    },
+    {
+      "q": "A gamma ray is a",
+      "options": [
+        "particle with mass",
+        "photon",
+        "electron",
+        "neutron"
+      ],
+      "answer": 1,
+      "solution": "EM photon."
+    },
+    {
+      "q": "Alpha emission from ²³⁸U produces",
+      "options": [
+        "²³⁸Np",
+        "²³⁴Th",
+        "²³⁴Pa",
+        "²³⁶U"
+      ],
+      "answer": 1,
+      "solution": "A−4, Z−2."
+    },
+    {
+      "q": "Beta⁻ emission from ¹⁴C gives",
+      "options": [
+        "¹³C",
+        "¹⁴B",
+        "¹⁴N",
+        "¹⁵N"
+      ],
+      "answer": 2,
+      "solution": "A same, Z+1."
+    },
+    {
+      "q": "After 4 half-lives, fraction of isotope remaining:",
+      "options": [
+        "1/2",
+        "1/4",
+        "1/8",
+        "1/16"
+      ],
+      "answer": 3,
+      "solution": "(1/2)⁴."
+    },
+    {
+      "q": "An isotope has T½=10 days. Fraction left after 30 days:",
+      "options": [
+        "1/2",
+        "1/4",
+        "1/8",
+        "1/16"
+      ],
+      "answer": 2,
+      "solution": "3 half-lives → 1/8."
+    },
+    {
+      "q": "Half-life T½ =",
+      "options": [
+        "λ",
+        "ln 2/λ",
+        "λ/ln 2",
+        "1/λ"
+      ],
+      "answer": 1,
+      "solution": "Standard."
+    },
+    {
+      "q": "If λ = 0.0231 /day, T½ ≈",
+      "options": [
+        "10 days",
+        "20 days",
+        "30 days",
+        "1 day"
+      ],
+      "answer": 2,
+      "solution": "0.693/0.0231 ≈ 30."
+    },
+    {
+      "q": "Number of atoms N(t) = N₀ e^(−λt) — this is",
+      "options": [
+        "fusion law",
+        "fission equation",
+        "radioactive decay law",
+        "gas law"
+      ],
+      "answer": 2,
+      "solution": "Standard decay."
+    },
+    {
+      "q": "The activity of a source is measured in",
+      "options": [
+        "coulomb",
+        "gray",
+        "becquerel",
+        "sievert"
+      ],
+      "answer": 2,
+      "solution": "Bq = decays per second."
+    },
+    {
+      "q": "Which process powers the Sun?",
+      "options": [
+        "Combustion",
+        "Fission",
+        "Fusion",
+        "Radioactive decay only"
+      ],
+      "answer": 2,
+      "solution": "H → He fusion."
+    },
+    {
+      "q": "Nuclear fission of U-235 releases",
+      "options": [
+        "only alpha particles",
+        "neutrons and energy",
+        "only gamma rays",
+        "electrons"
+      ],
+      "answer": 1,
+      "solution": "Neutrons + heat."
+    },
+    {
+      "q": "E = mc² is due to",
+      "options": [
+        "Newton",
+        "Einstein",
+        "Bohr",
+        "Curie"
+      ],
+      "answer": 1,
+      "solution": "Special relativity."
+    },
+    {
+      "q": "Mass 1 g fully converted gives energy about",
+      "options": [
+        "9×10⁶ J",
+        "9×10⁹ J",
+        "9×10¹³ J",
+        "9×10¹⁵ J"
+      ],
+      "answer": 2,
+      "solution": "E=10⁻³·(3×10⁸)²=9×10¹³ J."
+    },
+    {
+      "q": "A conductor is a material with",
+      "options": [
+        "a full valence band and empty conduction band",
+        "overlapping bands",
+        "wide band gap",
+        "no electrons"
+      ],
+      "answer": 1,
+      "solution": "Metals overlap."
+    },
+    {
+      "q": "An insulator has",
+      "options": [
+        "small band gap",
+        "wide band gap",
+        "no electrons",
+        "overlapping bands"
+      ],
+      "answer": 1,
+      "solution": "Wide gap prevents conduction."
+    },
+    {
+      "q": "Semiconductor energy gap is about",
+      "options": [
+        "10 eV",
+        "1 eV",
+        "0",
+        "100 eV"
+      ],
+      "answer": 1,
+      "solution": "~1 eV."
+    },
+    {
+      "q": "Silicon doped with phosphorus is",
+      "options": [
+        "p-type",
+        "n-type",
+        "intrinsic",
+        "insulator"
+      ],
+      "answer": 1,
+      "solution": "Pentavalent dopant → n-type."
+    },
+    {
+      "q": "Silicon doped with boron is",
+      "options": [
+        "p-type",
+        "n-type",
+        "intrinsic",
+        "conductor"
+      ],
+      "answer": 0,
+      "solution": "Trivalent → p-type."
+    },
+    {
+      "q": "Majority carriers in n-type are",
+      "options": [
+        "holes",
+        "electrons",
+        "protons",
+        "photons"
+      ],
+      "answer": 1,
+      "solution": "Electrons."
+    },
+    {
+      "q": "Majority carriers in p-type are",
+      "options": [
+        "holes",
+        "electrons",
+        "ions",
+        "photons"
+      ],
+      "answer": 0,
+      "solution": "Holes."
+    },
+    {
+      "q": "A p-n junction diode conducts easily when",
+      "options": [
+        "reverse-biased",
+        "forward-biased",
+        "zero-biased",
+        "short-circuited"
+      ],
+      "answer": 1,
+      "solution": "Forward bias reduces the barrier."
+    },
+    {
+      "q": "The main use of a diode is",
+      "options": [
+        "storage",
+        "amplification",
+        "rectification",
+        "light emission only"
+      ],
+      "answer": 2,
+      "solution": "AC → DC."
+    },
+    {
+      "q": "An LED emits light when",
+      "options": [
+        "reverse-biased",
+        "forward-biased",
+        "heated",
+        "cooled"
+      ],
+      "answer": 1,
+      "solution": "Electron-hole recombination."
+    },
+    {
+      "q": "Half-wave rectification uses",
+      "options": [
+        "1 diode",
+        "2 diodes",
+        "4 diodes",
+        "6 diodes"
+      ],
+      "answer": 0,
+      "solution": "Single diode."
+    },
+    {
+      "q": "Full-wave bridge rectifier uses",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "answer": 2,
+      "solution": "Four diodes."
+    },
+    {
+      "q": "The resistivity of a semiconductor as T increases",
+      "options": [
+        "increases",
+        "decreases",
+        "unchanged",
+        "becomes zero"
+      ],
+      "answer": 1,
+      "solution": "More carriers thermally excited."
+    },
+    {
+      "q": "The resistivity of a metal as T increases",
+      "options": [
+        "increases",
+        "decreases",
+        "unchanged",
+        "reverses sign"
+      ],
+      "answer": 0,
+      "solution": "More lattice scattering."
+    },
+    {
+      "q": "Which particle has no charge?",
+      "options": [
+        "Proton",
+        "Electron",
+        "Neutron",
+        "Alpha"
+      ],
+      "answer": 2,
+      "solution": "Neutron is neutral."
+    },
+    {
+      "q": "Atomic number Z is the number of",
+      "options": [
+        "neutrons",
+        "protons",
+        "electrons in outer shell",
+        "nucleons"
+      ],
+      "answer": 1,
+      "solution": "Z = number of protons."
+    },
+    {
+      "q": "Mass number A =",
+      "options": [
+        "Z + N",
+        "Z − N",
+        "Z × N",
+        "N/Z"
+      ],
+      "answer": 0,
+      "solution": "Protons + neutrons."
+    },
+    {
+      "q": "Isotopes have the same",
+      "options": [
+        "Z, different A",
+        "A, different Z",
+        "electron count",
+        "charge only"
+      ],
+      "answer": 0,
+      "solution": "Same Z, different neutron count."
+    },
+    {
+      "q": "Isobars have the same",
+      "options": [
+        "Z",
+        "A",
+        "N",
+        "charge/mass ratio"
+      ],
+      "answer": 1,
+      "solution": "Same mass number, different Z."
+    },
+    {
+      "q": "The energy of a photon of frequency 5×10¹⁴ Hz (h=6.6e-34):",
+      "options": [
+        "3.3×10⁻¹⁹ J",
+        "3.3×10⁻²⁰ J",
+        "6.6×10⁻¹⁹ J",
+        "5×10¹⁴ J"
+      ],
+      "answer": 0,
+      "solution": "hf ≈ 3.3×10⁻¹⁹."
+    },
+    {
+      "q": "The visible spectrum wavelength range is roughly",
+      "options": [
+        "100–200 nm",
+        "400–700 nm",
+        "700–1000 nm",
+        "1–10 nm"
+      ],
+      "answer": 1,
+      "solution": "≈ 400–700 nm."
+    },
+    {
+      "q": "Photoelectric emission requires photon energy",
+      "options": [
+        "> work function φ",
+        "< work function",
+        "= 0",
+        "= any value"
+      ],
+      "answer": 0,
+      "solution": "Above threshold."
+    },
+    {
+      "q": "An intrinsic semiconductor at 0 K behaves like",
+      "options": [
+        "insulator",
+        "conductor",
+        "semiconductor",
+        "superconductor"
+      ],
+      "answer": 0,
+      "solution": "No thermal carriers."
+    },
+    {
+      "q": "A depletion layer at a p-n junction is a region of",
+      "options": [
+        "mobile carriers",
+        "fixed ions and no mobile carriers",
+        "electrons only",
+        "holes only"
+      ],
+      "answer": 1,
+      "solution": "Recombination has removed carriers."
+    },
+    {
+      "q": "Which of these is a nuclear fusion reaction?",
+      "options": [
+        "²³⁸U → decay",
+        "H + H → He",
+        "²³⁵U + n → 3 pieces",
+        "Coal + O₂ → CO₂"
+      ],
+      "answer": 1,
+      "solution": "H fusion → He."
+    },
+    {
+      "q": "Which pair are isotopes?",
+      "options": [
+        "¹²C and ¹⁴N",
+        "¹²C and ¹⁴C",
+        "¹⁴C and ¹⁴N",
+        "¹⁶O and ¹⁴C"
+      ],
+      "answer": 1,
+      "solution": "Same Z=6, different A."
+    },
+    {
+      "q": "Radiocarbon dating uses",
+      "options": [
+        "²³⁸U",
+        "¹⁴C",
+        "¹³¹I",
+        "⁴He"
+      ],
+      "answer": 1,
+      "solution": "¹⁴C half-life 5730 y."
+    },
+    {
+      "q": "A p-n junction under reverse bias",
+      "options": [
+        "conducts easily",
+        "conducts a tiny leakage only",
+        "emits light",
+        "short-circuits"
+      ],
+      "answer": 1,
+      "solution": "Leakage current only."
+    }
+  ]
+}
