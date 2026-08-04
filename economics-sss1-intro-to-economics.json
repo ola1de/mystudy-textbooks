@@ -1,0 +1,235 @@
+{
+ "subject": "Economics",
+ "level": "SSS 1",
+ "slug": "intro-to-economics",
+ "title": "Introduction to Economics",
+ "outline": [
+  "Meaning and definitions of Economics (Adam Smith, Alfred Marshall, Lionel Robbins, Paul Samuelson)",
+  "Basic economic problems: scarcity, choice, scale of preference and opportunity cost",
+  "Wants, goods and services; free goods versus economic goods",
+  "The subject matter and methodology of Economics: inductive and deductive reasoning",
+  "Basic tools of economic analysis: tables, graphs, averages and simple equations",
+  "Production possibility curve and the concept of rational choice",
+  "The three fundamental questions: what, how and for whom to produce",
+  "Relevance of Economics to individuals, firms and governments"
+ ],
+ "modules": [
+  {
+   "title": "Meaning, Scope and Methodology of Economics",
+   "html": "\n<h4>1.1 What is Economics?</h4>\n<p><strong>Economics</strong> is the social science that studies how individuals, firms and governments allocate <em>scarce</em> resources among <em>unlimited</em> competing wants in order to maximise satisfaction or welfare. Because resources are limited while wants are endless, every economic agent must choose &mdash; and every choice involves a sacrifice.</p>\n<h4>1.2 Classic definitions</h4>\n<ul>\n<li><strong>Adam Smith</strong> (1776, <em>An Inquiry into the Nature and Causes of the Wealth of Nations</em>) &mdash; Economics is \"an enquiry into the nature and causes of the wealth of nations\". This is the <em>wealth definition</em>; it was criticised for being materialistic and for ignoring human welfare.</li>\n<li><strong>Alfred Marshall</strong> (1890) &mdash; \"Economics is the study of mankind in the ordinary business of life.\" This is the <em>welfare definition</em>; it links wealth to human well-being but it fails to explain <em>why</em> choices must be made.</li>\n<li><strong>Lionel Robbins</strong> (1932) &mdash; \"Economics is the science which studies human behaviour as a relationship between ends and scarce means which have alternative uses.\" This <em>scarcity definition</em> is the most widely accepted because it captures scarcity, choice and alternative uses.</li>\n<li><strong>Paul Samuelson</strong> &mdash; Economics studies how people and society choose to employ scarce productive resources to produce commodities and distribute them for consumption now and in the future. This is the <em>growth definition</em>.</li>\n</ul>\n<h4>1.3 Branches of Economics</h4>\n<ol>\n<li><strong>Microeconomics</strong> &mdash; the study of individual decision units: a consumer, a firm, a single market (price theory).</li>\n<li><strong>Macroeconomics</strong> &mdash; the study of aggregates: national income, general price level, unemployment, balance of payments.</li>\n</ol>\n<h4>1.4 Positive and normative economics</h4>\n<p><strong>Positive economics</strong> deals with statements of fact that can be verified (\"a rise in petrol price reduces the quantity demanded\"). <strong>Normative economics</strong> deals with value judgements about what <em>ought</em> to be (\"government should subsidise petrol\"). Only positive statements can be tested with data.</p>\n<h4>1.5 Methodology</h4>\n<p>Economists use two forms of logical reasoning:</p>\n<ul>\n<li><strong>Inductive method</strong> &mdash; reasoning from particular observations to a general law (observation &rarr; data &rarr; generalisation). It is empirical and realistic but slow.</li>\n<li><strong>Deductive method</strong> &mdash; reasoning from a general assumption to particular conclusions (assumption &rarr; logic &rarr; prediction &rarr; test). It is fast but only as valid as its assumptions.</li>\n</ul>\n<p>Both are complemented by the <em>ceteris paribus</em> assumption (\"all other things being equal\"), which isolates the effect of one variable at a time.</p>\n<h4>1.6 Basic tools of analysis</h4>\n<table class=\"tb-table\">\n<tr><th>Tool</th><th>Use</th><th>Example</th></tr>\n<tr><td>Tables</td><td>Orderly presentation of data</td><td>Demand schedule</td></tr>\n<tr><td>Graphs and curves</td><td>Show relationships and trends</td><td>Demand curve, PPC</td></tr>\n<tr><td>Measures of average</td><td>Summarise a distribution</td><td>Mean income \\( \\bar{x}=\\dfrac{\\sum x}{n} \\)</td></tr>\n<tr><td>Percentages and ratios</td><td>Compare magnitudes</td><td>Growth rate, elasticity</td></tr>\n<tr><td>Equations</td><td>State functional relations</td><td>\\( Q_d = a - bP \\)</td></tr>\n</table>\n",
+   "examples": [
+    {
+     "q": "Why is the Robbins definition preferred to Adam Smith's definition?",
+     "a": "Because Robbins identifies the root of all economic activity &mdash; scarcity of means relative to unlimited ends, and the fact that resources have alternative uses. Smith's definition concentrates only on the creation of material wealth and therefore excludes services, welfare and the problem of choice."
+    },
+    {
+     "q": "Classify: (i) 'Inflation in Nigeria rose to 22% in 2023'; (ii) 'Government should reduce fuel tax'.",
+     "a": "(i) Positive economics &mdash; a factual, verifiable statement. (ii) Normative economics &mdash; a value judgement about what ought to be done, which cannot be proved true or false by data."
+    }
+   ]
+  },
+  {
+   "title": "Scarcity, Choice, Scale of Preference and Opportunity Cost",
+   "html": "\n<h4>2.1 Human wants</h4>\n<p>Wants are desires for goods and services. They are <em>unlimited</em>, <em>recurring</em> (food, transport), <em>competitive</em>, <em>complementary</em> (car and fuel) and they vary with income, age, taste and season. Wants become <strong>effective demand</strong> only when backed by ability and willingness to pay.</p>\n<h4>2.2 Scarcity</h4>\n<p><strong>Scarcity</strong> means the limited availability of resources relative to the demand for them. It is the fundamental economic problem and it is <em>relative</em>, not absolute: sand is abundant in the Sahara yet scarce on a Lagos building site because it must be transported at a cost.</p>\n<h4>2.3 Classification of goods</h4>\n<ul>\n<li><strong>Free goods</strong> &mdash; supplied by nature at zero cost, no price and no opportunity cost (sunshine, air).</li>\n<li><strong>Economic goods</strong> &mdash; scarce, command a price and carry an opportunity cost (rice, cars, land).</li>\n<li><strong>Consumer goods</strong> (final goods) versus <strong>capital/producer goods</strong> (machinery used to produce other goods).</li>\n<li><strong>Durable</strong> versus <strong>perishable</strong>; <strong>private</strong> versus <strong>public goods</strong> (non-rival and non-excludable, e.g. street lighting).</li>\n</ul>\n<h4>2.4 Scale of preference</h4>\n<p>A <strong>scale of preference</strong> is a list of wants arranged in order of their relative importance, most pressing first. Because income cannot satisfy all wants at once, the consumer satisfies wants from the top downward. It is <em>subjective</em> and changes with circumstances.</p>\n<h4>2.5 Choice and opportunity cost</h4>\n<p><strong>Choice</strong> is the act of selecting one want and postponing others. <strong>Opportunity cost (real cost or alternative forgone cost)</strong> is the value of the <em>next best alternative</em> sacrificed when a choice is made.</p>\n<p>$$ \\text{Opportunity cost} = \\text{value of the best alternative forgone} $$</p>\n<p>If a student with &#8358;20,000 buys a textbook instead of a pair of shoes worth &#8358;20,000, the opportunity cost of the textbook is the shoes &mdash; not the money. Money cost measures price; opportunity cost measures sacrifice.</p>\n<h4>2.6 Production possibility curve (PPC)</h4>\n<p>The PPC shows the maximum combinations of two goods an economy can produce with full and efficient use of its resources. Points <em>on</em> the curve are efficient, points <em>inside</em> show unemployment or inefficiency, and points <em>outside</em> are unattainable with present resources and technology. Its concave (bowed-out) shape reflects <strong>increasing opportunity cost</strong>: successive units of good X cost progressively more units of good Y.</p>\n<h4>2.7 The three basic questions</h4>\n<ol>\n<li><strong>What to produce and in what quantity?</strong> &mdash; the problem of allocation of resources.</li>\n<li><strong>How to produce?</strong> &mdash; the choice of technique (labour-intensive versus capital-intensive).</li>\n<li><strong>For whom to produce?</strong> &mdash; the problem of distribution of output among members of society.</li>\n</ol>\n<p>To these are often added the problems of <em>efficiency</em> and of <em>growth</em> (provision for the future).</p>\n",
+   "examples": [
+    {
+     "q": "A farmer with 5 hectares can grow maize worth &#8358;900,000 or cassava worth &#8358;1,200,000. He plants cassava. What is the opportunity cost?",
+     "a": "The opportunity cost is the maize output forgone, valued at &#8358;900,000. Since cassava (&#8358;1,200,000) exceeds the alternative, the decision is rational: net gain = &#8358;1,200,000 &minus; &#8358;900,000 = &#8358;300,000."
+    },
+    {
+     "q": "An economy produces only books and pens. Moving from 10 books/40 pens to 12 books/34 pens, find the opportunity cost of one extra book.",
+     "a": "6 pens are sacrificed for 2 extra books, so the opportunity cost of one book is \\( 6 \\div 2 = 3 \\) pens."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Economics is best described as the study of how society manages its:",
+   "options": [
+    "Unlimited resources",
+    "Scarce resources",
+    "Money supply only",
+    "Government budgets only"
+   ],
+   "answer": "1",
+   "solution": "Economics studies the allocation of scarce resources among unlimited competing wants. Resources are limited, not unlimited."
+  },
+  {
+   "q": "The definition 'Economics is the science which studies human behaviour as a relationship between ends and scarce means which have alternative uses' was given by:",
+   "options": [
+    "Adam Smith",
+    "Alfred Marshall",
+    "Lionel Robbins",
+    "Paul Samuelson"
+   ],
+   "answer": "2",
+   "solution": "This is Lionel Robbins' 1932 scarcity definition, the most widely accepted because it captures scarcity, choice and alternative uses."
+  },
+  {
+   "q": "Opportunity cost is measured in terms of:",
+   "options": [
+    "Money paid for a good",
+    "The next best alternative forgone",
+    "Total cost of production",
+    "The market price of the good"
+   ],
+   "answer": "1",
+   "solution": "Opportunity cost (real cost) is the value of the next best alternative sacrificed, not the money spent."
+  },
+  {
+   "q": "Which of the following is a free good?",
+   "options": [
+    "Pipe-borne water",
+    "Sunshine",
+    "Sachet water",
+    "Firewood"
+   ],
+   "answer": "1",
+   "solution": "Sunshine is supplied by nature in abundance, commands no price and has no opportunity cost. The others require scarce resources to supply."
+  },
+  {
+   "q": "A scale of preference is a list of wants arranged in order of:",
+   "options": [
+    "Money cost",
+    "Relative importance",
+    "Alphabetical order",
+    "Date of purchase"
+   ],
+   "answer": "1",
+   "solution": "A scale of preference ranks wants from the most pressing to the least pressing, guiding the order in which they are satisfied."
+  },
+  {
+   "q": "Points inside a production possibility curve indicate:",
+   "options": [
+    "Efficient production",
+    "Unattainable output",
+    "Under-utilisation of resources",
+    "Maximum growth"
+   ],
+   "answer": "2",
+   "solution": "Points inside the PPC show idle or inefficiently used resources (unemployment); output could be raised without extra resources."
+  },
+  {
+   "q": "The PPC is concave to the origin because of:",
+   "options": [
+    "Constant opportunity cost",
+    "Increasing opportunity cost",
+    "Zero opportunity cost",
+    "Decreasing returns to scale only"
+   ],
+   "answer": "1",
+   "solution": "As more of one good is produced, resources less suited to it must be transferred, so each extra unit costs more of the other good &mdash; increasing opportunity cost."
+  },
+  {
+   "q": "Microeconomics differs from macroeconomics because it studies:",
+   "options": [
+    "National income",
+    "Individual units such as a firm or consumer",
+    "General price level",
+    "Balance of payments"
+   ],
+   "answer": "1",
+   "solution": "Microeconomics deals with individual decision units and single markets; the other options are macroeconomic aggregates."
+  },
+  {
+   "q": "'Government should increase the minimum wage' is an example of:",
+   "options": [
+    "Positive economics",
+    "Normative economics",
+    "Econometrics",
+    "Statistical inference"
+   ],
+   "answer": "1",
+   "solution": "It is a value judgement about what ought to be done and cannot be verified by data, hence normative."
+  },
+  {
+   "q": "Reasoning from particular observations to a general conclusion is the:",
+   "options": [
+    "Deductive method",
+    "Inductive method",
+    "Ceteris paribus assumption",
+    "Normative method"
+   ],
+   "answer": "1",
+   "solution": "The inductive method moves from specific empirical observations to general laws; deduction moves from general assumptions to specific conclusions."
+  },
+  {
+   "q": "Which is NOT one of the three basic economic questions?",
+   "options": [
+    "What to produce",
+    "How to produce",
+    "For whom to produce",
+    "Where to bank the profit"
+   ],
+   "answer": "3",
+   "solution": "The three basic questions concern allocation (what), technique (how) and distribution (for whom). Banking arrangements are not a fundamental economic problem."
+  },
+  {
+   "q": "Wants that must be satisfied again and again are described as:",
+   "options": [
+    "Complementary",
+    "Competitive",
+    "Recurrent",
+    "Derived"
+   ],
+   "answer": "2",
+   "solution": "Recurrent wants, such as food and transport, reappear after being satisfied."
+  },
+  {
+   "q": "Human wants become effective demand only when backed by:",
+   "options": [
+    "Desire alone",
+    "Ability and willingness to pay",
+    "Government approval",
+    "Advertising"
+   ],
+   "answer": "1",
+   "solution": "Effective demand requires desire plus purchasing power and willingness to spend it."
+  },
+  {
+   "q": "The phrase 'ceteris paribus' means:",
+   "options": [
+    "Other things being equal",
+    "Let the buyer beware",
+    "All resources are scarce",
+    "Cost equals benefit"
+   ],
+   "answer": "0",
+   "solution": "Ceteris paribus isolates the effect of one variable by assuming all other influences remain constant."
+  },
+  {
+   "q": "A car and petrol are examples of:",
+   "options": [
+    "Competitive wants",
+    "Complementary wants",
+    "Free goods",
+    "Public goods"
+   ],
+   "answer": "1",
+   "solution": "They are jointly demanded &mdash; one is useless without the other &mdash; hence complementary."
+  },
+  {
+   "q": "Capital goods are goods that are:",
+   "options": [
+    "Consumed directly by households",
+    "Used to produce other goods",
+    "Given free by nature",
+    "Always imported"
+   ],
+   "answer": "1",
+   "solution": "Capital (producer) goods such as machines and tools are used in producing other goods rather than satisfying wants directly."
+  },
+  {
+   "q": "Scarcity in economics is best described as:",
+   "options": [
+    "Absolute shortage everywhere",
+    "Limited resources relative to wants",
+    "Government rationing",
+    "High prices"
+   ],
+   "answer": "1",
+   "solution": "Scarcity is a relative concept: resources are insufficient in relation to the unlimited wants they must satisfy."
+  }
+ ]
+}
