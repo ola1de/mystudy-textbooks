@@ -1,0 +1,249 @@
+{
+ "subject": "Geography",
+ "level": "SSS 1",
+ "slug": "physical-geography",
+ "title": "Physical Geography",
+ "outline": [
+  "The earth in the solar system: planets, sun and moon",
+  "Shape, size and proofs of the earth's sphericity",
+  "Rotation and revolution and their effects",
+  "Latitude, longitude, local time and time zones",
+  "Structure of the earth: crust, mantle and core",
+  "Rocks: igneous, sedimentary and metamorphic and the rock cycle",
+  "Denudation: weathering, erosion, transportation and deposition",
+  "Earth movements: folding, faulting, vulcanicity and earthquakes"
+ ],
+ "modules": [
+  {
+   "title": "The Earth in the Solar System",
+   "html": "\n<h4>The Solar System</h4>\n<p>The solar system consists of the <strong>Sun</strong> (a medium-sized star at the centre), <strong>eight planets</strong>, their natural satellites, asteroids, comets and meteoroids, all held in orbit by the Sun's gravitational pull. In order of increasing distance from the Sun the planets are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. Mercury, Venus, Earth and Mars are the small, rocky <em>terrestrial (inner) planets</em>; Jupiter, Saturn, Uranus and Neptune are the large <em>gaseous (outer) planets</em>, separated from the inner group by the asteroid belt.</p>\n<h4>Why the Earth Supports Life</h4>\n<ul>\n<li>Its distance from the Sun (about \\(1.5\\times10^{8}\\text{ km}\\)) gives moderate temperatures.</li>\n<li>It possesses an atmosphere rich in oxygen and nitrogen, and an ozone layer that filters ultraviolet radiation.</li>\n<li>It has abundant liquid water covering about 71% of its surface.</li>\n<li>Its gravity is strong enough to retain the atmosphere.</li>\n</ul>\n<h4>Shape and Size of the Earth</h4>\n<p>The earth is an <strong>oblate spheroid</strong>: a sphere slightly flattened at the poles and bulging at the equator because of rotation. Equatorial diameter is about 12,756 km while polar diameter is about 12,714 km; equatorial circumference is about 40,075 km. Proofs of sphericity include circumnavigation, the curved shadow cast on the moon during a lunar eclipse, the way a ship's mast appears first over the horizon, the widening circular horizon at greater altitude, sunrise and sunset occurring at different times along a meridian, and satellite photographs.</p>\n<h4>Rotation and Revolution</h4>\n<p><strong>Rotation</strong> is the spin of the earth on its axis from west to east once every 24 hours. Its effects are: day and night, the apparent daily movement of heavenly bodies from east to west, differences in local time between meridians, deflection of winds and currents (the Coriolis force, right in the Northern Hemisphere and left in the Southern), and the daily rise and fall of tides.</p>\n<p><strong>Revolution</strong> is the movement of the earth around the Sun once in \\(365\\tfrac{1}{4}\\) days along an elliptical orbit, with the axis inclined at \\(66\\tfrac{1}{2}^\\circ\\) to the plane of the orbit (i.e. \\(23\\tfrac{1}{2}^\\circ\\) from the vertical). Its effects are: the seasons, varying lengths of day and night, changing altitude of the midday sun, the four cardinal dates (21 March and 23 September equinoxes; 21 June and 22 December solstices), and the leap year.</p>\n<h4>Latitude, Longitude and Time</h4>\n<p>Latitudes are parallels measured \\(0^\\circ\\) to \\(90^\\circ\\) north and south of the equator; longitudes (meridians) are measured \\(0^\\circ\\) to \\(180^\\circ\\) east and west of the Greenwich meridian. Because the earth turns \\(360^\\circ\\) in 24 hours:</p>\n$$\\frac{360^\\circ}{24\\text{ h}} = 15^\\circ \\text{ per hour}, \\qquad 1^\\circ \\equiv 4\\text{ minutes}$$\n<p>Along a meridian, one degree of latitude subtends a ground distance of approximately \\(111\\text{ km}\\), so the distance between two places on the same meridian is \\(d = \\Delta\\phi \\times 111\\text{ km}\\).</p>\n",
+   "examples": [
+    {
+     "q": "Town A is on longitude \\(15^\\circ\\text{W}\\) and town B on \\(45^\\circ\\text{E}\\). If the local time at A is 08:00 a.m., what is the local time at B?",
+     "a": "Longitudinal difference \\(=15^\\circ + 45^\\circ = 60^\\circ\\). Time difference \\(=\\dfrac{60^\\circ}{15^\\circ/\\text{h}} = 4\\text{ hours}\\). B lies east of A, so B is ahead: \\(08{:}00 + 4\\text{ h} = 12{:}00\\) noon at B."
+    },
+    {
+     "q": "Calculate the distance along the meridian between \\(12^\\circ\\text{N}\\) and \\(4^\\circ\\text{S}\\) taking \\(1^\\circ = 111\\text{ km}\\).",
+     "a": "The places are on opposite sides of the equator, so the angular difference is added: \\(12^\\circ + 4^\\circ = 16^\\circ\\). Distance \\(= 16 \\times 111 = 1776\\text{ km}\\)."
+    }
+   ]
+  },
+  {
+   "title": "Structure of the Earth and the Rock Cycle",
+   "html": "\n<h4>Internal Structure</h4>\n<table class=\"tb-table\"><tr><th>Layer</th><th>Composition</th><th>Approximate depth</th></tr>\n<tr><td>Crust (SIAL over SIMA)</td><td>Silica-aluminium continental crust; silica-magnesium oceanic crust</td><td>6-70 km</td></tr>\n<tr><td>Mantle</td><td>Dense ferro-magnesian silicates, partly plastic (asthenosphere)</td><td>to about 2,900 km</td></tr>\n<tr><td>Outer core</td><td>Molten nickel-iron (NIFE)</td><td>2,900-5,150 km</td></tr>\n<tr><td>Inner core</td><td>Solid nickel-iron under enormous pressure</td><td>5,150-6,371 km</td></tr></table>\n<p>The crust is broken into lithospheric plates that move over the asthenosphere, producing constructive, destructive and conservative margins where volcanoes, earthquakes, fold mountains and ocean trenches occur.</p>\n<h4>Rock Types</h4>\n<ol>\n<li><strong>Igneous rocks</strong> form by cooling and solidification of magma or lava. <em>Plutonic/intrusive</em> types cool slowly at depth and are coarse-grained (granite, gabbro, diorite); <em>volcanic/extrusive</em> types cool quickly at the surface and are fine-grained (basalt, rhyolite, obsidian). They are crystalline, non-fossiliferous and unstratified.</li>\n<li><strong>Sedimentary rocks</strong> form by compaction and cementation of sediments. They may be <em>mechanically formed</em> (sandstone, shale, conglomerate), <em>organically formed</em> (coal, limestone, chalk) or <em>chemically formed</em> (rock salt, gypsum). They are stratified and often fossiliferous, and are the source of coal, petroleum, lignite and limestone in Nigeria.</li>\n<li><strong>Metamorphic rocks</strong> form when existing rocks are altered by heat, pressure or chemical action: granite &rarr; gneiss, limestone &rarr; marble, shale &rarr; slate, sandstone &rarr; quartzite, coal &rarr; graphite.</li>\n</ol>\n<h4>The Rock Cycle</h4>\n<p>Magma cools to igneous rock; weathering and erosion break it into sediments which are deposited, compacted and cemented into sedimentary rock; burial with heat and pressure converts either type into metamorphic rock; deeper burial melts rock back into magma. The cycle is continuous and has no beginning or end.</p>\n<h4>Economic Importance of Rocks</h4>\n<ul>\n<li>They weather into soils that support agriculture.</li>\n<li>They yield building materials (granite, marble, limestone for cement).</li>\n<li>They contain mineral fuels and ores (petroleum, coal, tin, columbite, gold).</li>\n<li>Scenic rock landforms (inselbergs, waterfalls) support tourism.</li>\n</ul>\n",
+   "examples": [
+    {
+     "q": "Why are fossils found in sedimentary rocks but hardly ever in igneous rocks?",
+     "a": "Sedimentary rocks form at low temperature by the gradual burial of sediments, so the remains of plants and animals are trapped between layers and preserved. Igneous rocks solidify from magma or lava at temperatures often above 800 &deg;C, which destroys all organic remains; they are also unstratified, so there are no bedding planes in which fossils could be preserved."
+    },
+    {
+     "q": "Distinguish between intrusive and extrusive igneous rocks with two examples each.",
+     "a": "Intrusive (plutonic) rocks solidify slowly within the crust, giving large interlocking crystals, e.g. granite and gabbro. Extrusive (volcanic) rocks solidify rapidly on the surface, giving very small crystals or a glassy texture, e.g. basalt and obsidian."
+    }
+   ]
+  },
+  {
+   "title": "Denudation and Earth Movements",
+   "html": "\n<h4>Denudation</h4>\n<p><strong>Denudation</strong> is the general wearing away and lowering of the earth's surface. It comprises weathering, mass wasting, erosion, transportation and deposition.</p>\n<p><strong>Weathering</strong> is the breakdown of rock <em>in situ</em>:</p>\n<ul>\n<li><em>Physical (mechanical)</em>: exfoliation, block disintegration, granular disintegration, frost action and pressure release. It dominates in hot deserts and cold highlands.</li>\n<li><em>Chemical</em>: oxidation, carbonation, hydrolysis, hydration and solution. It dominates in the hot, wet tropics and produces deep lateritic regoliths.</li>\n<li><em>Biological</em>: root wedging, burrowing animals, and human excavation.</li>\n</ul>\n<p><strong>Erosion</strong> requires a moving agent: running water, wind, waves, ice or man. Water erosion progresses from splash to sheet, rill and gully erosion. The products are transported by traction, saltation, suspension and solution before deposition occurs where energy falls.</p>\n<h4>Earth Movements</h4>\n<p><strong>Folding</strong> results from compressional (tangential) forces, producing anticlines and synclines, and on a large scale fold mountains such as the Atlas, Alps, Andes and Himalayas. Fold types include symmetrical, asymmetrical, overfold, recumbent and nappe.</p>\n<p><strong>Faulting</strong> results from tensional or compressional forces that fracture rocks with displacement. Types include normal, reverse, tear (transcurrent) and thrust faults. Faulting produces <em>block (horst) mountains</em> such as the Ruwenzori, and <em>rift valleys (graben)</em> such as the East African Rift Valley.</p>\n<p><strong>Vulcanicity</strong> is the movement of molten rock. Intrusive forms are batholiths, laccoliths, lopoliths, sills and dykes; extrusive forms are lava plateaux and volcanic cones (ash, shield, composite). Volcanoes are described as active, dormant or extinct. Benefits include fertile volcanic soils, geothermal energy, minerals and tourism; hazards include loss of life, destruction of farmland and disruption of air travel.</p>\n<p><strong>Earthquakes</strong> are vibrations caused by sudden movement along faults, volcanic activity or crustal adjustment. The point of origin is the <em>focus</em> and the point vertically above it on the surface is the <em>epicentre</em>. Magnitude is measured on the Richter scale using a seismograph.</p>\n",
+   "examples": [
+    {
+     "q": "Explain why exfoliation is common in hot desert areas.",
+     "a": "Deserts have very high diurnal temperature ranges. Intense insolation by day heats the outer rock layer, which expands, while the interior stays cool; at night the surface cools and contracts rapidly. Repeated expansion and contraction sets up stress between the outer skin and the rock beneath, so curved shells peel off like onion layers. The absence of moisture and vegetation cover exposes the bare rock fully to these temperature changes."
+    },
+    {
+     "q": "State three differences between a rift valley and a fold mountain.",
+     "a": "(i) A rift valley is formed by faulting (tension or compression with subsidence of a block), while a fold mountain is formed by compressional folding of sediments. (ii) A rift valley is an elongated depression bounded by steep fault scarps; a fold mountain is an upland ridge system of anticlines and synclines. (iii) Examples: East African Rift Valley and Benue Trough versus the Alps, Andes and Himalayas."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which of the following planets is nearest to the sun?",
+   "options": [
+    "Venus",
+    "Mercury",
+    "Mars",
+    "Earth"
+   ],
+   "answer": "1",
+   "solution": "Mercury is the innermost planet, at an average of about 58 million km from the sun."
+  },
+  {
+   "q": "The earth is best described as",
+   "options": [
+    "a perfect sphere",
+    "an oblate spheroid",
+    "a cylinder",
+    "a flat disc"
+   ],
+   "answer": "1",
+   "solution": "Rotation causes an equatorial bulge and polar flattening, giving an oblate spheroid."
+  },
+  {
+   "q": "The earth rotates through 15 degrees in",
+   "options": [
+    "4 minutes",
+    "30 minutes",
+    "1 hour",
+    "4 hours"
+   ],
+   "answer": "2",
+   "solution": "360 degrees in 24 hours gives 15 degrees per hour, so 1 degree equals 4 minutes."
+  },
+  {
+   "q": "If it is 12 noon at Greenwich, the local time at longitude 30 degrees East is",
+   "options": [
+    "10:00 a.m.",
+    "2:00 p.m.",
+    "1:00 p.m.",
+    "4:00 p.m."
+   ],
+   "answer": "1",
+   "solution": "30/15 = 2 hours; east of Greenwich means ahead, so 12 noon + 2 h = 2:00 p.m."
+  },
+  {
+   "q": "The approximate ground distance represented by one degree of latitude is",
+   "options": [
+    "11 km",
+    "69 km",
+    "111 km",
+    "1110 km"
+   ],
+   "answer": "2",
+   "solution": "One degree of latitude subtends about 111 km along a meridian."
+  },
+  {
+   "q": "The inclination of the earth's axis to the plane of its orbit is",
+   "options": [
+    "23.5 degrees",
+    "45 degrees",
+    "66.5 degrees",
+    "90 degrees"
+   ],
+   "answer": "2",
+   "solution": "The axis is tilted 66.5 degrees to the orbital plane, i.e. 23.5 degrees from the vertical."
+  },
+  {
+   "q": "Which of these is NOT an effect of the earth's rotation?",
+   "options": [
+    "Day and night",
+    "Deflection of winds",
+    "Occurrence of seasons",
+    "Difference in local time"
+   ],
+   "answer": "2",
+   "solution": "Seasons result from revolution combined with the axial tilt, not from rotation."
+  },
+  {
+   "q": "The layer of the earth composed mainly of nickel and iron is the",
+   "options": [
+    "crust",
+    "mantle",
+    "core",
+    "asthenosphere"
+   ],
+   "answer": "2",
+   "solution": "The core (NIFE) is nickel-iron; the outer core is molten and the inner core solid."
+  },
+  {
+   "q": "Which rock is formed from the metamorphism of limestone?",
+   "options": [
+    "Slate",
+    "Marble",
+    "Gneiss",
+    "Quartzite"
+   ],
+   "answer": "1",
+   "solution": "Limestone recrystallises to marble under heat and pressure."
+  },
+  {
+   "q": "Coal, petroleum and limestone are associated with",
+   "options": [
+    "igneous rocks",
+    "metamorphic rocks",
+    "sedimentary rocks",
+    "plutonic rocks"
+   ],
+   "answer": "2",
+   "solution": "These are organically formed sedimentary deposits."
+  },
+  {
+   "q": "Granite is best described as a rock that is",
+   "options": [
+    "extrusive and fine-grained",
+    "intrusive and coarse-grained",
+    "sedimentary and stratified",
+    "metamorphic and foliated"
+   ],
+   "answer": "1",
+   "solution": "Granite cools slowly at depth, allowing large crystals to grow."
+  },
+  {
+   "q": "The breakdown of rocks in situ without movement is called",
+   "options": [
+    "erosion",
+    "weathering",
+    "transportation",
+    "deposition"
+   ],
+   "answer": "1",
+   "solution": "Weathering is disintegration or decomposition in place; erosion involves removal by an agent."
+  },
+  {
+   "q": "Exfoliation is most common in",
+   "options": [
+    "equatorial forests",
+    "hot deserts",
+    "temperate grasslands",
+    "tundra swamps"
+   ],
+   "answer": "1",
+   "solution": "Large diurnal temperature ranges and bare rock surfaces in deserts favour onion-peel weathering."
+  },
+  {
+   "q": "The East African Rift Valley was formed mainly by",
+   "options": [
+    "folding",
+    "faulting",
+    "vulcanicity",
+    "glaciation"
+   ],
+   "answer": "1",
+   "solution": "Subsidence of a block between roughly parallel faults produced the graben."
+  },
+  {
+   "q": "The point on the earth's surface directly above the focus of an earthquake is the",
+   "options": [
+    "epicentre",
+    "seismic belt",
+    "fault plane",
+    "hypocentre"
+   ],
+   "answer": "0",
+   "solution": "The focus is underground; the epicentre lies vertically above it and receives the strongest shock."
+  },
+  {
+   "q": "An upfold produced by compressional forces is called",
+   "options": [
+    "a syncline",
+    "an anticline",
+    "a graben",
+    "a horst"
+   ],
+   "answer": "1",
+   "solution": "Anticlines are upfolds; synclines are the downfolds between them."
+  },
+  {
+   "q": "Which of these is an intrusive volcanic feature?",
+   "options": [
+    "Lava plateau",
+    "Composite cone",
+    "Sill",
+    "Caldera"
+   ],
+   "answer": "2",
+   "solution": "A sill is a horizontal intrusion of magma between bedding planes."
+  }
+ ]
+}
