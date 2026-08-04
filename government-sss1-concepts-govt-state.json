@@ -1,0 +1,249 @@
+{
+ "subject": "Government",
+ "level": "SSS 1",
+ "slug": "concepts-govt-state",
+ "title": "Concepts of Government and State",
+ "outline": [
+  "Meaning of government as an institution, a process and an academic field",
+  "The state: definition, features and distinction from nation and society",
+  "Organs of government: legislature, executive and judiciary",
+  "Power, authority, legitimacy and sovereignty",
+  "Types and limitations of sovereignty in the modern world"
+ ],
+ "modules": [
+  {
+   "title": "Module 1: Meaning and Scope of Government",
+   "html": "\n<p>The word <strong>government</strong> is used in three distinct but related senses in political science. Understanding all three prevents the confusion that costs marks in WAEC/NECO essay questions.</p>\n<h4>1. Government as an Institution of the State</h4>\n<p>Here government means the machinery or agency through which the will of the state is formulated, expressed and implemented. It comprises the legislature, the executive and the judiciary, together with the civil service, the police and the armed forces.</p>\n<h4>2. Government as a Process of Governing</h4>\n<p>Government is the art or process of ruling: making laws, executing them, settling disputes, allocating resources and maintaining order. In this sense we speak of \"good government\" or \"bad government\".</p>\n<h4>3. Government as an Academic Field of Study</h4>\n<p>Government is a social-science discipline concerned with the study of political institutions, ideologies, constitutions, public administration and international relations. It is the subject you are studying now.</p>\n<h4>Functions of Government</h4>\n<ol>\n<li><strong>Maintenance of law and order</strong> through the police, courts and prisons.</li>\n<li><strong>Defence of territorial integrity</strong> against external aggression.</li>\n<li><strong>Provision of social amenities</strong> — roads, schools, hospitals, water and electricity.</li>\n<li><strong>Regulation of the economy</strong> — fiscal and monetary policy, licensing, price control.</li>\n<li><strong>Conduct of foreign relations</strong> — treaties, diplomacy, membership of the UN, AU and ECOWAS.</li>\n<li><strong>Protection of the fundamental human rights</strong> of citizens.</li>\n</ol>\n<h4>Why Government is Necessary</h4>\n<p>Thomas Hobbes argued in <em>Leviathan</em> (1651) that without government life in the state of nature would be \"solitary, poor, nasty, brutish and short\". John Locke and Jean-Jacques Rousseau agreed that people surrender part of their natural liberty through a <strong>social contract</strong> in exchange for security and order, though Locke insisted the surrender is conditional and revocable.</p>\n",
+   "examples": [
+    {
+     "q": "A military junta seizes power, suspends the constitution and rules by decree. Has the STATE ceased to exist?",
+     "a": "No. The state is permanent and continues to exist so long as its population, territory and sovereignty remain. What has changed is the government, which is only the temporary agency through which the will of the state is expressed. The junta may hold de facto sovereignty without de jure legitimacy, but the state itself endures."
+    },
+    {
+     "q": "Give two reasons why government is necessary in society.",
+     "a": "First, to maintain law and order: without an authority able to make and enforce rules, disputes would be settled by force, which Hobbes described as a state of war. Second, to provide public goods such as roads, defence, schools and hospitals which individuals acting alone cannot efficiently supply."
+    }
+   ]
+  },
+  {
+   "title": "Module 2: The State and Its Attributes",
+   "html": "\n<p>A <strong>state</strong> is a politically organised body of people occupying a definite geographical territory, with an organised government free from external control and possessing the power to make and enforce laws.</p>\n<h4>Essential Features (Attributes) of a State</h4>\n<ol>\n<li><strong>Population</strong> — a permanent body of people; no minimum number is fixed.</li>\n<li><strong>Territory</strong> — a defined land area, including territorial waters and airspace.</li>\n<li><strong>Government</strong> — the machinery that expresses the will of the people.</li>\n<li><strong>Sovereignty</strong> — supreme internal authority and freedom from external control.</li>\n<li><strong>Permanence</strong> — the state outlives individual governments.</li>\n<li><strong>International recognition</strong> — acceptance by other members of the international community.</li>\n</ol>\n<h4>State Distinguished from Nation, Society and Government</h4>\n<table class=\"tb-table\">\n<tr><th>Concept</th><th>Basis</th><th>Key Point</th></tr>\n<tr><td>State</td><td>Legal and political</td><td>Sovereign, territorial, permanent</td></tr>\n<tr><td>Nation</td><td>Cultural and ethnic</td><td>Common language, history, ancestry; may lack territory (e.g. the Kurds)</td></tr>\n<tr><td>Society</td><td>Social</td><td>Any group of people with shared interests; not sovereign</td></tr>\n<tr><td>Government</td><td>Institutional</td><td>Temporary agent of the state; changes at elections</td></tr>\n</table>\n<p>Nigeria is a <strong>multi-national state</strong>: one state containing over 250 nations (ethnic groups). Japan is close to a <strong>nation-state</strong> because state and nation almost coincide.</p>\n",
+   "examples": [
+    {
+     "q": "Explain why Nigeria is a state but the Yoruba are a nation.",
+     "a": "Nigeria has a defined territory, a permanent population, an organised government, sovereignty and international recognition, so it satisfies all the attributes of a state. The Yoruba share a common language, ancestry, culture and history, which makes them a nation, but they do not exercise separate sovereignty or international personality."
+    },
+    {
+     "q": "Distinguish between the state and government.",
+     "a": "The state is a permanent, sovereign legal entity comprising population, territory, government and sovereignty; government is the temporary machinery through which the state acts. Governments change at elections or coups while the state continues, and allegiance is owed to the state rather than to any particular administration."
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Organs of Government",
+   "html": "\n<p>Every modern government performs three basic functions through three organs. In symbolic form the relationship can be written as \\\\( G = L + E + J \\\\), where each organ checks the others.</p>\n<h4>1. The Legislature</h4>\n<p>The law-making organ. It may be <strong>unicameral</strong> (one chamber, e.g. Ghana's Parliament) or <strong>bicameral</strong> (two chambers, e.g. Nigeria's National Assembly: the Senate and the House of Representatives). Functions: law-making, control of public finance (appropriation), oversight of the executive, amendment of the constitution, ratification of treaties and appointments, and representation of the people.</p>\n<h4>2. The Executive</h4>\n<p>The organ that implements laws and formulates policy. Types:</p>\n<ul>\n<li><strong>Political (Parliamentary) executive</strong> — elected/appointed politicians: President, ministers.</li>\n<li><strong>Permanent (Civil-service) executive</strong> — career officials headed by permanent secretaries.</li>\n<li><strong>Nominal executive</strong> (ceremonial head, e.g. a constitutional monarch) versus <strong>real executive</strong> (wields actual power, e.g. a Prime Minister).</li>\n<li><strong>Single executive</strong> (USA, Nigeria) versus <strong>plural executive</strong> (Swiss Federal Council).</li>\n</ul>\n<h4>3. The Judiciary</h4>\n<p>The organ that interprets the law and settles disputes. In Nigeria the hierarchy is: Supreme Court &rarr; Court of Appeal &rarr; Federal High Court / State High Courts &rarr; Magistrate, Customary and Sharia Courts. Judicial independence is protected by security of tenure, financial autonomy (first-line charge on the Consolidated Revenue Fund) and immunity for judicial statements. Its greatest weapon is <strong>judicial review</strong> — the power to declare an act of the legislature or executive unconstitutional and therefore null and void.</p>\n",
+   "examples": [
+    {
+     "q": "The National Assembly passes a law and the Supreme Court declares it unconstitutional. Which doctrine is at work?",
+     "a": "Judicial review, an aspect of checks and balances under the separation of powers. The judiciary interprets the constitution and, because the constitution is supreme, any law inconsistent with it is void to the extent of the inconsistency. This restrains legislative excess without the judiciary itself making law."
+    },
+    {
+     "q": "Why is a bicameral legislature preferred in federal states?",
+     "a": "The second chamber allows equal representation of the component units alongside representation by population in the lower house, protecting smaller states from domination. It also provides a revising chamber that checks hasty legislation."
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Power, Authority, Legitimacy and Sovereignty",
+   "html": "\n<h4>Power</h4>\n<p><strong>Power</strong> is the ability to influence or compel the behaviour of others, with or without their consent. It may rest on force, wealth, knowledge or charisma.</p>\n<h4>Authority</h4>\n<p><strong>Authority</strong> is the <em>right</em> to exercise power — power clothed in legality and accepted by those over whom it is exercised. Max Weber identified three types:</p>\n<ol>\n<li><strong>Traditional authority</strong> — based on custom and inheritance (an Oba, an Emir).</li>\n<li><strong>Charismatic authority</strong> — based on the exceptional personal qualities of a leader (Nnamdi Azikiwe, Nelson Mandela).</li>\n<li><strong>Legal-rational authority</strong> — based on impersonal rules and offices (a President, a Permanent Secretary).</li>\n</ol>\n<p>Other classifications include <em>coercive</em>, <em>delegated</em>, <em>political</em> and <em>professional</em> authority.</p>\n<h4>Legitimacy</h4>\n<p><strong>Legitimacy</strong> is popular acceptance of the right of rulers to rule. It is acquired mainly through free and fair elections, constitutional succession, effective performance and popular consent. A government may be legal but illegitimate (e.g. a regime installed by a rigged election).</p>\n<h4>Sovereignty</h4>\n<p><strong>Sovereignty</strong> is the supreme, absolute and unlimited power of the state to make and enforce laws within its territory without external interference. Jean Bodin first developed the concept.</p>\n<table class=\"tb-table\">\n<tr><th>Type</th><th>Meaning</th></tr>\n<tr><td>Internal</td><td>Supremacy of the state over all persons and associations within it</td></tr>\n<tr><td>External</td><td>Freedom from the control of any other state</td></tr>\n<tr><td>Legal</td><td>Sovereignty of the body that makes the law (e.g. the National Assembly)</td></tr>\n<tr><td>Political</td><td>Sovereignty of the electorate, whose will ultimately prevails</td></tr>\n<tr><td>Popular</td><td>Sovereignty residing in the people as a whole</td></tr>\n<tr><td>De jure / De facto</td><td>Sovereignty by law / sovereignty in fact (e.g. a successful coup regime)</td></tr>\n</table>\n<h4>Limitations on Sovereignty</h4>\n<p>International law and treaties, membership of organisations such as the UN, AU and ECOWAS, the provisions of a rigid constitution, public opinion, economic dependence and the activities of multinational corporations all limit sovereignty in practice.</p>\n",
+   "examples": [
+    {
+     "q": "A newly installed government wins a credible election and is recognised by other states. Which concepts does this illustrate?",
+     "a": "It illustrates legitimacy, acquired through popular consent in a free and fair election, and external sovereignty, confirmed by recognition from other states. Legal authority follows from constitutional installation, giving the government both de jure and de facto sovereignty."
+    },
+    {
+     "q": "Differentiate between power and authority with an example.",
+     "a": "Power is the ability to make others act as one wishes, with or without their consent, as when an armed robber compels obedience. Authority is the rightful and accepted exercise of power, as when a police officer lawfully arrests a suspect. Both compel behaviour, but only authority carries legitimacy."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Government as an institution of the state refers to",
+   "options": [
+    "The study of political systems in schools",
+    "The machinery through which the will of the state is carried out",
+    "The process of voting during elections",
+    "A group of people sharing a common culture"
+   ],
+   "answer": "1",
+   "solution": "As an institution, government is the machinery (legislature, executive, judiciary and bureaucracy) through which state will is formulated and enforced."
+  },
+  {
+   "q": "Which of the following is NOT an essential attribute of a state?",
+   "options": [
+    "Population",
+    "Sovereignty",
+    "A written constitution",
+    "Defined territory"
+   ],
+   "answer": "2",
+   "solution": "A state may operate without a written constitution (the United Kingdom does), but it cannot exist without population, territory, government and sovereignty."
+  },
+  {
+   "q": "The main difference between a state and a nation is that a nation",
+   "options": [
+    "Has sovereignty",
+    "Is based on common culture and ancestry",
+    "Must possess a defined territory",
+    "Is recognised by the United Nations"
+   ],
+   "answer": "1",
+   "solution": "A nation is a cultural/ethnic entity bound by common language, history and ancestry, and it need not be sovereign or territorial."
+  },
+  {
+   "q": "Sovereignty of the electorate whose will ultimately prevails is described as",
+   "options": [
+    "Legal sovereignty",
+    "Political sovereignty",
+    "External sovereignty",
+    "De facto sovereignty"
+   ],
+   "answer": "1",
+   "solution": "Political sovereignty resides in the electorate, whose votes finally determine who exercises legal power."
+  },
+  {
+   "q": "The organ of government responsible for interpreting the law is the",
+   "options": [
+    "Legislature",
+    "Executive",
+    "Judiciary",
+    "Civil service"
+   ],
+   "answer": "2",
+   "solution": "The judiciary interprets laws, settles disputes and exercises judicial review."
+  },
+  {
+   "q": "Authority based on the exceptional personal qualities of a leader is",
+   "options": [
+    "Traditional",
+    "Charismatic",
+    "Legal-rational",
+    "Coercive"
+   ],
+   "answer": "1",
+   "solution": "Weber described leadership resting on extraordinary personal appeal as charismatic authority."
+  },
+  {
+   "q": "A legislature with two chambers is described as",
+   "options": [
+    "Unicameral",
+    "Bicameral",
+    "Bipartisan",
+    "Plural"
+   ],
+   "answer": "1",
+   "solution": "Bicameral means two chambers, as in Nigeria's Senate and House of Representatives."
+  },
+  {
+   "q": "Which philosopher described life in the state of nature as 'solitary, poor, nasty, brutish and short'?",
+   "options": [
+    "John Locke",
+    "Jean-Jacques Rousseau",
+    "Thomas Hobbes",
+    "Jean Bodin"
+   ],
+   "answer": "2",
+   "solution": "The phrase is from Thomas Hobbes's Leviathan (1651), his justification for absolute government."
+  },
+  {
+   "q": "Power exercised with the consent and acceptance of the people is best described as",
+   "options": [
+    "Force",
+    "Authority",
+    "Influence",
+    "Coercion"
+   ],
+   "answer": "1",
+   "solution": "Authority is legitimate power — power accepted as rightful by those subject to it."
+  },
+  {
+   "q": "The power of the judiciary to declare a law unconstitutional is called",
+   "options": [
+    "Judicial precedent",
+    "Judicial review",
+    "Delegated legislation",
+    "Ultra vires doctrine"
+   ],
+   "answer": "1",
+   "solution": "Judicial review allows courts to nullify acts of the legislature or executive that conflict with the constitution."
+  },
+  {
+   "q": "A government that came to power through a successful coup and effectively controls the state exercises",
+   "options": [
+    "De jure sovereignty",
+    "De facto sovereignty",
+    "Legal sovereignty",
+    "Popular sovereignty"
+   ],
+   "answer": "1",
+   "solution": "De facto sovereignty is sovereignty in fact — actual control — even where legal (de jure) title is absent."
+  },
+  {
+   "q": "Which of the following limits the sovereignty of a modern state?",
+   "options": [
+    "Presence of a large population",
+    "Membership of international organisations",
+    "Existence of a strong army",
+    "Possession of natural resources"
+   ],
+   "answer": "1",
+   "solution": "Treaty obligations under bodies such as the UN, AU and ECOWAS restrict a state's freedom of action."
+  },
+  {
+   "q": "The permanent executive in Nigeria is made up of",
+   "options": [
+    "The President and ministers",
+    "Career civil servants headed by permanent secretaries",
+    "Members of the National Assembly",
+    "Justices of the Supreme Court"
+   ],
+   "answer": "1",
+   "solution": "The permanent executive consists of career officials who remain in office when governments change."
+  },
+  {
+   "q": "Nigeria is best described as",
+   "options": [
+    "A nation-state",
+    "A multi-national state",
+    "A city-state",
+    "A confederal nation"
+   ],
+   "answer": "1",
+   "solution": "Nigeria contains over 250 ethnic nations within one sovereign state, making it multi-national."
+  },
+  {
+   "q": "Legitimacy of a government is most commonly acquired through",
+   "options": [
+    "Military strength",
+    "Free and fair elections",
+    "Foreign recognition alone",
+    "Ownership of state media"
+   ],
+   "answer": "1",
+   "solution": "Popular consent expressed in credible elections is the principal source of legitimacy in modern democracies."
+  },
+  {
+   "q": "Which of these functions is performed primarily by the legislature?",
+   "options": [
+    "Appropriation of public funds",
+    "Prosecution of offenders",
+    "Implementation of policies",
+    "Interpretation of statutes"
+   ],
+   "answer": "0",
+   "solution": "Control of the public purse through appropriation (budget) bills is a core legislative function."
+  }
+ ]
+}
