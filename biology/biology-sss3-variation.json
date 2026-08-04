@@ -1,0 +1,236 @@
+{
+ "subject": "Biology",
+ "level": "SSS 3",
+ "slug": "variation",
+ "title": "Variation",
+ "outline": [
+  "Define variation and distinguish continuous from discontinuous variation",
+  "Describe morphological, physiological and behavioural variations",
+  "Explain the causes of variation, including meiosis, fertilisation, mutation and environment",
+  "Classify mutations and describe their effects",
+  "Explain the application of variation in forensics, blood transfusion and breeding",
+  "Relate variation to natural selection and adaptation"
+ ],
+ "modules": [
+  {
+   "title": "Types and Causes of Variation",
+   "html": "\n<h4>1. Meaning</h4>\n<p>Variation is the differences in characteristics among individuals of the same species. Even identical twins differ slightly because of environmental influences.</p>\n<h4>2. Continuous and Discontinuous Variation</h4>\n<table class=\"tb-table\"><tr><th>Continuous</th><th>Discontinuous</th></tr>\n<tr><td>Shows a complete range with intermediates</td><td>Distinct, separate classes with no intermediates</td></tr>\n<tr><td>Controlled by many genes (polygenic), strongly modified by environment</td><td>Usually controlled by one or few genes; environment has little effect</td></tr>\n<tr><td>Data give a normal (bell-shaped) curve on a histogram</td><td>Data give a bar chart of discrete groups</td></tr>\n<tr><td>Height, weight, skin colour, intelligence, milk yield</td><td>ABO blood group, sex, tongue rolling, sickle-cell trait, fingerprint type</td></tr></table>\n<h4>3. Kinds of Variation</h4>\n<ul><li><b>Morphological</b>: height, weight, body build, colour of skin, eyes and hair, shape of nose, ear lobe attachment, fingerprints.</li>\n<li><b>Physiological</b>: blood group, ability to roll the tongue, ability to taste PTC, resistance to disease, milk yield.</li>\n<li><b>Behavioural</b>: intelligence, temperament, aptitudes, handedness, voice.</li></ul>\n<h4>4. Causes of Variation</h4>\n<ol><li><b>Crossing over</b> during prophase I of meiosis.</li>\n<li><b>Independent assortment</b> of chromosomes at metaphase I, giving \\(2^{23}\\) combinations in humans.</li>\n<li><b>Random fertilisation</b> — any sperm may fuse with any ovum.</li>\n<li><b>Mutation</b>, the ultimate source of new alleles.</li>\n<li><b>Environmental factors</b> — nutrition, climate, disease and training produce acquired characters that are not inherited.</li></ol>\n",
+   "examples": [
+    {
+     "q": "Classify these as continuous or discontinuous: body mass, ABO blood group, tongue rolling, height.",
+     "a": "Body mass and height are continuous — they are polygenic, environmentally influenced and show a full range of intermediates. ABO blood group and tongue rolling are discontinuous — individuals fall into clear-cut categories controlled by one gene."
+    },
+    {
+     "q": "A bodybuilder develops large muscles. Will his children inherit them? Explain.",
+     "a": "No. Muscle development from training is an acquired characteristic caused by the environment; it does not alter the DNA of his gametes, so it cannot be transmitted. Only heritable (genetic) variation is passed on — a point on which Lamarck's theory failed."
+    }
+   ]
+  },
+  {
+   "title": "Mutation",
+   "html": "\n<h4>1. Definition</h4>\n<p>A mutation is a sudden, permanent, heritable change in the genetic material of an organism. Mutations in body cells (somatic) affect only the individual, but mutations in gametes are passed to offspring.</p>\n<h4>2. Types</h4>\n<ul><li><b>Gene (point) mutations</b> – substitution, insertion or deletion of bases. In sickle cell anaemia a single substitution changes GAG to GTG, so valine replaces glutamic acid in the β-haemoglobin chain and the red cell distorts when oxygen tension is low.</li>\n<li><b>Chromosomal mutations</b> – deletion, duplication, inversion, translocation of segments.</li>\n<li><b>Numerical (ploidy) changes</b> – non-disjunction gives trisomy such as Down syndrome (trisomy 21); polyploidy in plants (\\(3n\\), \\(4n\\)) often produces larger, more vigorous crops such as wheat and banana.</li></ul>\n<h4>3. Mutagens</h4>\n<p>Ionising radiation (X-rays, gamma rays, ultra-violet light, radioactive fallout) and chemicals (mustard gas, colchicine, nitrous acid, some pesticides and tobacco tar) increase mutation rates.</p>\n<h4>4. Effects</h4>\n<p>Most mutations are harmful or neutral, causing genetic disorders, cancer or death. A few are beneficial: they give new alleles such as antibiotic resistance in bacteria, pesticide resistance in insects and melanism in moths, providing the raw material on which natural selection acts. Mutation is therefore the ultimate source of all genetic variation and hence of evolution.</p>\n",
+   "examples": [
+    {
+     "q": "Explain why bacteria become resistant to an antibiotic.",
+     "a": "Random mutation produces a few bacteria with an allele conferring resistance. When the antibiotic is applied it kills the susceptible majority, but the resistant mutants survive and reproduce rapidly, so the resistant allele soon dominates the population. Incomplete dosage courses accelerate this selection."
+    },
+    {
+     "q": "State one useful and one harmful effect of mutation.",
+     "a": "Useful: polyploidy in crops such as wheat and banana produces larger fruits and higher yields. Harmful: the point mutation causing sickle cell anaemia leads to painful crises, anaemia and often early death in SS individuals."
+    }
+   ]
+  },
+  {
+   "title": "Applications of Variation",
+   "html": "\n<h4>1. Forensic Science and Identification</h4>\n<p>Fingerprints are unique to each individual and unchanged through life, so they are used in criminal investigation, national identity cards and banking. DNA profiling of blood, semen, hair root or saliva can identify a suspect or victim with very high certainty and is admissible in court.</p>\n<h4>2. Paternity and Blood Transfusion</h4>\n<p>Blood group inheritance can exclude a man from paternity: for example, parents of groups A (\\(I^Ai\\)) and O (\\(ii\\)) cannot have an AB child. DNA profiling gives positive proof. In transfusion, donor and recipient groups (ABO and rhesus) must be matched to avoid agglutination and fatal haemolysis; rhesus incompatibility in pregnancy is prevented by anti-D injection.</p>\n<h4>3. Breeding and Agriculture</h4>\n<p>Farmers exploit variation by selecting parents with desirable traits — high yield, disease resistance, early maturity, drought tolerance — and crossing them. Hybridisation may give <b>hybrid vigour</b> (heterosis). Artificial insemination spreads the genes of a superior bull widely, and induced mutation with colchicine or radiation creates new crop varieties.</p>\n<h4>4. Variation, Adaptation and Survival</h4>\n<p>Within a variable population some individuals are always better fitted to a changing environment; they survive, reproduce and pass on their alleles. Uniform populations, such as clones from vegetative propagation, may be entirely destroyed by a single new disease. Variation is thus essential for survival, adaptation and evolution.</p>\n",
+   "examples": [
+    {
+     "q": "A child of group O is claimed by a man of group AB. Comment.",
+     "a": "A group AB man has genotype \\(I^AI^B\\) and can transmit only \\(I^A\\) or \\(I^B\\); he cannot transmit the \\(i\\) allele needed for a group O child (\\(ii\\)). He is therefore excluded as the biological father."
+    },
+    {
+     "q": "Why do plant breeders prefer to grow several varieties of the same crop?",
+     "a": "Genetic uniformity is risky: a single pest or pathogen adapted to that genotype could destroy the entire crop. Several varieties provide variation, so some will resist the disease and total loss is avoided — the same principle that makes sexual reproduction advantageous."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Variation that shows a complete range of intermediates is described as",
+   "options": [
+    "discontinuous",
+    "continuous",
+    "mutational",
+    "acquired"
+   ],
+   "answer": "1",
+   "solution": "Continuous variation is polygenic and gives a normal distribution curve."
+  },
+  {
+   "q": "Which of the following is a discontinuous variation?",
+   "options": [
+    "Height",
+    "Body weight",
+    "ABO blood group",
+    "Skin colour"
+   ],
+   "answer": "2",
+   "solution": "Blood groups fall into clear, separate classes with no intermediates."
+  },
+  {
+   "q": "A histogram of continuous variation typically shows a",
+   "options": [
+    "straight line",
+    "bell-shaped curve",
+    "series of separate bars",
+    "circle"
+   ],
+   "answer": "1",
+   "solution": "Most individuals cluster around the mean, giving a normal curve."
+  },
+  {
+   "q": "Ability to roll the tongue is an example of",
+   "options": [
+    "morphological variation",
+    "physiological variation",
+    "acquired character",
+    "chromosomal mutation"
+   ],
+   "answer": "1",
+   "solution": "It is a functional ability controlled by a single gene."
+  },
+  {
+   "q": "The ultimate source of new genetic variation is",
+   "options": [
+    "crossing over",
+    "mutation",
+    "independent assortment",
+    "random fertilisation"
+   ],
+   "answer": "1",
+   "solution": "Only mutation creates entirely new alleles; the others recombine existing ones."
+  },
+  {
+   "q": "Crossing over occurs at structures called",
+   "options": [
+    "centromeres",
+    "chiasmata",
+    "centrioles",
+    "spindles"
+   ],
+   "answer": "1",
+   "solution": "Chiasmata are the points where homologous chromatids exchange segments."
+  },
+  {
+   "q": "Acquired characteristics such as trained muscles are",
+   "options": [
+    "always inherited",
+    "not inherited",
+    "carried on the X chromosome",
+    "the basis of evolution"
+   ],
+   "answer": "1",
+   "solution": "They do not change the DNA of gametes, so they cannot be transmitted."
+  },
+  {
+   "q": "Sickle cell anaemia results from",
+   "options": [
+    "a chromosomal deletion",
+    "a base substitution in the haemoglobin gene",
+    "trisomy",
+    "polyploidy"
+   ],
+   "answer": "1",
+   "solution": "GAG becomes GTG, substituting valine for glutamic acid."
+  },
+  {
+   "q": "Down syndrome is caused by",
+   "options": [
+    "a point mutation",
+    "non-disjunction of chromosome 21",
+    "radiation only",
+    "polyploidy"
+   ],
+   "answer": "1",
+   "solution": "Failure of chromosome 21 to separate gives three copies (47 chromosomes)."
+  },
+  {
+   "q": "Which is a chemical mutagen?",
+   "options": [
+    "X-rays",
+    "Gamma rays",
+    "Colchicine",
+    "Ultra-violet light"
+   ],
+   "answer": "2",
+   "solution": "Colchicine interferes with spindle formation, inducing polyploidy."
+  },
+  {
+   "q": "Polyploidy is more common and useful in",
+   "options": [
+    "mammals",
+    "birds",
+    "plants",
+    "insects"
+   ],
+   "answer": "2",
+   "solution": "Polyploid crops such as wheat and banana are larger and higher yielding."
+  },
+  {
+   "q": "Fingerprints are useful for identification because they are",
+   "options": [
+    "inherited from the mother only",
+    "unique and unchanging through life",
+    "the same in relatives",
+    "affected by diet"
+   ],
+   "answer": "1",
+   "solution": "Even identical twins have different fingerprint patterns."
+  },
+  {
+   "q": "Parents of blood groups A and O CANNOT produce a child of group",
+   "options": [
+    "A",
+    "O",
+    "AB",
+    "either A or O"
+   ],
+   "answer": "2",
+   "solution": "Neither parent can supply the \\(I^B\\) allele needed for group AB."
+  },
+  {
+   "q": "Hybrid vigour refers to",
+   "options": [
+    "reduced yield in hybrids",
+    "superior performance of offspring from unrelated parents",
+    "sterility of hybrids",
+    "identical offspring"
+   ],
+   "answer": "1",
+   "solution": "Heterosis makes hybrids more vigorous, resistant and productive than either parent."
+  },
+  {
+   "q": "Antibiotic resistance in bacteria spreads because resistant mutants",
+   "options": [
+    "are killed first",
+    "survive and reproduce under selection",
+    "cannot divide",
+    "lose their plasmids"
+   ],
+   "answer": "1",
+   "solution": "Natural selection favours the resistant variants when the drug is present."
+  },
+  {
+   "q": "A population with little genetic variation is at risk because it",
+   "options": [
+    "mutates too often",
+    "may be wiped out by a single disease or change",
+    "cannot reproduce",
+    "has too many alleles"
+   ],
+   "answer": "1",
+   "solution": "Without variation no individuals are likely to be resistant to a new hazard."
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "subject": "Biology",
+ "level": "SSS 2",
+ "slug": "ecology-part2",
+ "title": "Ecology (Part II)",
+ "outline": [
+  "Describe the carbon, nitrogen and water cycles and the role of micro-organisms",
+  "Explain ecological succession, both primary and secondary, and the climax community",
+  "Analyse population growth, its factors and the concept of carrying capacity",
+  "Discuss adaptation of organisms to aquatic and terrestrial habitats",
+  "Evaluate pollution, its effects and control measures",
+  "Discuss conservation of natural resources and sustainable development"
+ ],
+ "modules": [
+  {
+   "title": "Nutrient Cycles",
+   "html": "\n<h4>1. The Carbon Cycle</h4>\n<p>Carbon dioxide is removed from the atmosphere by photosynthesis and returned by respiration, decay and combustion of fossil fuels:</p>\n$$CO_2 \\;\\xrightarrow{\\text{photosynthesis}}\\; \\text{organic carbon} \\;\\xrightarrow{\\text{respiration, decay, combustion}}\\; CO_2$$\n<p>Burning fossil fuels and deforestation raise atmospheric \\(CO_2\\), strengthening the greenhouse effect and driving global warming, which causes ice-melt, sea-level rise and shifting rainfall patterns.</p>\n<h4>2. The Nitrogen Cycle</h4>\n<ol><li><b>Nitrogen fixation</b> – atmospheric \\(N_2\\) converted to ammonia/nitrate by <i>Rhizobium</i> in legume nodules, free-living <i>Azotobacter</i>, cyanobacteria, lightning and industrial (Haber) fertiliser production.</li>\n<li><b>Ammonification</b> – decomposers convert proteins and urea in dead matter to ammonia.</li>\n<li><b>Nitrification</b> – <i>Nitrosomonas</i>: ammonia → nitrite; <i>Nitrobacter</i>: nitrite → nitrate, the form absorbed by plants.</li>\n<li><b>Assimilation</b> – plants build nitrates into amino acids and proteins; animals obtain nitrogen by feeding.</li>\n<li><b>Denitrification</b> – <i>Pseudomonas</i> and other bacteria in waterlogged soil reduce nitrate to nitrogen gas, returning it to the atmosphere.</li></ol>\n<h4>3. The Water Cycle</h4>\n<p>Evaporation from water bodies and transpiration from plants (together evapotranspiration) form clouds; condensation and precipitation return water to the earth as rain, where it runs off, infiltrates as ground water or is absorbed by plants.</p>\n<h4>4. Importance of Decomposers</h4>\n<p>Without saprophytic bacteria and fungi, nutrients would remain locked in dead bodies. Decomposers release carbon, nitrogen, phosphorus and sulphur back to the soil and atmosphere, sustaining producers and hence all food chains.</p>\n",
+   "examples": [
+    {
+     "q": "Explain why farmers plant legumes in rotation with cereals.",
+     "a": "Legume roots bear nodules containing <i>Rhizobium</i>, which fixes atmospheric nitrogen into compounds the plant can use. When the legume residues decay they enrich the soil with nitrogen, restoring fertility depleted by nitrogen-hungry cereals and reducing the need for fertiliser."
+    },
+    {
+     "q": "Why is waterlogging harmful to soil fertility?",
+     "a": "Waterlogged soil lacks oxygen, so aerobic nitrifying bacteria are inhibited while anaerobic denitrifying bacteria such as <i>Pseudomonas</i> thrive and convert nitrate to nitrogen gas. Nitrogen is thus lost to the atmosphere and root respiration is also impaired."
+    }
+   ]
+  },
+  {
+   "title": "Succession, Populations and Adaptation",
+   "html": "\n<h4>1. Ecological Succession</h4>\n<p>Succession is the orderly, progressive replacement of one community by another until a stable <b>climax community</b> is reached.</p>\n<ul><li><b>Primary succession</b> begins on bare, lifeless surfaces such as new rock or a new pond. Pioneer species (lichens on rock; algae in water) weather the substratum and add humus, allowing mosses, herbs, shrubs and finally trees to establish.</li>\n<li><b>Secondary succession</b> occurs where a community has been destroyed (farmland, burnt bush) but soil remains, so it is faster.</li></ul>\n<p>Through succession, soil depth, humus, species diversity, biomass and stability all increase.</p>\n<h4>2. Population Studies</h4>\n<p>Population size changes according to:</p>\n$$\\Delta N = (\\text{births} + \\text{immigration}) - (\\text{deaths} + \\text{emigration})$$\n<p>Population density \\( = \\dfrac{\\text{number of individuals}}{\\text{area or volume}} \\). A growth curve typically shows a lag phase, an exponential (log) phase, and then a stationary phase set by the <b>carrying capacity</b> of the environment, where limiting factors — food, space, disease, predation, accumulation of waste — balance reproduction. Human population growth in developing countries is high because of high birth rates and falling death rates from improved health care.</p>\n<h4>3. Adaptation to Habitats</h4>\n<table class=\"tb-table\"><tr><th>Habitat</th><th>Adaptations</th></tr>\n<tr><td>Aquatic (fish)</td><td>Streamlined body, gills, scales and mucus, swim bladder, fins, lateral line</td></tr>\n<tr><td>Marsh/mangrove</td><td>Breathing roots (pneumatophores), stilt roots, viviparous germination, salt tolerance</td></tr>\n<tr><td>Desert (xerophytes)</td><td>Thick cuticle, sunken stomata, reduced or spiny leaves, succulent stems, deep roots</td></tr>\n<tr><td>Desert animals</td><td>Nocturnal habit, concentrated urine, dry faeces, water storage, burrowing</td></tr>\n<tr><td>Rainforest plants</td><td>Buttress roots, drip tips, lianas and epiphytes reaching light</td></tr></table>\n",
+   "examples": [
+    {
+     "q": "Describe the stages of succession on a bare rock surface.",
+     "a": "Lichens (pioneers) colonise, secreting acids that weather the rock; their death adds humus. Mosses follow, retaining more water and soil; then grasses and herbs, then shrubs, and finally trees form the climax forest. Each stage (sere) modifies the environment, making it suitable for the next and often unsuitable for itself."
+    },
+    {
+     "q": "A population of 400 rats in 200 m² records 60 births, 20 deaths, 10 immigrants and 30 emigrants in a year. Find the new size and the density.",
+     "a": "\\( \\Delta N = (60 + 10) - (20 + 30) = 20 \\), so the new population is 420. Density \\( = 420/200 = 2.1 \\) rats per m²."
+    }
+   ]
+  },
+  {
+   "title": "Pollution and Conservation",
+   "html": "\n<h4>1. Pollution</h4>\n<table class=\"tb-table\"><tr><th>Type</th><th>Sources</th><th>Effects</th><th>Control</th></tr>\n<tr><td>Air</td><td>Vehicle exhaust, industry, bush burning, gas flaring</td><td>Respiratory disease, acid rain, global warming, ozone depletion</td><td>Catalytic converters, cleaner fuels, tree planting, laws</td></tr>\n<tr><td>Water</td><td>Sewage, oil spills, fertiliser and pesticide run-off, industrial effluent</td><td>Eutrophication, death of aquatic life, water-borne disease</td><td>Treatment of effluent, buffer strips, oil-spill regulation</td></tr>\n<tr><td>Soil</td><td>Refuse dumps, agrochemicals, mining</td><td>Loss of fertility, toxic crops, leaching to ground water</td><td>Composting, controlled agrochemical use, land reclamation</td></tr>\n<tr><td>Noise</td><td>Generators, traffic, loudspeakers</td><td>Deafness, hypertension, stress</td><td>Silencers, zoning, noise limits</td></tr></table>\n<p><b>Eutrophication</b>: fertiliser run-off enriches water with nitrate and phosphate → algal bloom → algae die → aerobic decomposers multiply and consume dissolved oxygen → fish and other aerobic organisms suffocate.</p>\n<h4>2. Conservation of Natural Resources</h4>\n<p>Conservation is the wise, planned use and protection of natural resources so that they remain available for future generations.</p>\n<ul><li><b>Soil</b>: crop rotation, cover cropping, mulching, terracing, contour ploughing, afforestation, organic manure.</li>\n<li><b>Forest</b>: selective logging, reafforestation, forest reserves, use of alternative fuels.</li>\n<li><b>Wildlife</b>: national parks and game reserves (Yankari, Kainji Lake, Cross River), anti-poaching laws, closed seasons, breeding in captivity.</li>\n<li><b>Water and fisheries</b>: control of mesh size, ban on chemical fishing, dam management, recycling.</li>\n<li><b>Energy and minerals</b>: efficient use, recycling of metals, renewable energy (solar, wind, biogas).</li></ul>\n<p>Threats to biodiversity include habitat destruction, over-exploitation, pollution, invasive species and climate change; loss of species reduces ecosystem stability and removes potential medicines and crop genes.</p>\n",
+   "examples": [
+    {
+     "q": "Explain how oxygen levels fall after fertiliser washes into a lake.",
+     "a": "Nitrates and phosphates cause a rapid algal bloom that covers the surface. Light is blocked, submerged plants die, and the huge mass of dead algae is decomposed by aerobic bacteria which multiply and use up the dissolved oxygen. Fish and other aerobic organisms then die of asphyxiation — the process of eutrophication."
+    },
+    {
+     "q": "State three methods of conserving soil on a sloping farmland.",
+     "a": "(i) Terracing or contour ploughing to slow run-off; (ii) cover cropping and mulching to protect the surface from raindrop impact and reduce evaporation; (iii) planting trees or grass strips (afforestation/windbreaks) to bind soil with roots."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Carbon dioxide is removed from the atmosphere mainly by",
+   "options": [
+    "respiration",
+    "photosynthesis",
+    "combustion",
+    "decay"
+   ],
+   "answer": "1",
+   "solution": "Green plants fix CO₂ into carbohydrate during photosynthesis."
+  },
+  {
+   "q": "Nitrogen fixation in leguminous plants is carried out by",
+   "options": [
+    "Nitrobacter",
+    "Rhizobium",
+    "Pseudomonas",
+    "Nitrosomonas"
+   ],
+   "answer": "1",
+   "solution": "<i>Rhizobium</i> in the root nodules converts atmospheric nitrogen into usable compounds."
+  },
+  {
+   "q": "The conversion of nitrite to nitrate is performed by",
+   "options": [
+    "Nitrosomonas",
+    "Nitrobacter",
+    "Rhizobium",
+    "Azotobacter"
+   ],
+   "answer": "1",
+   "solution": "<i>Nitrobacter</i> completes nitrification, producing the nitrate absorbed by roots."
+  },
+  {
+   "q": "Denitrifying bacteria are most active in soil that is",
+   "options": [
+    "well aerated",
+    "waterlogged",
+    "sandy and dry",
+    "limed"
+   ],
+   "answer": "1",
+   "solution": "Anaerobic conditions favour reduction of nitrate to nitrogen gas."
+  },
+  {
+   "q": "The first organisms to colonise a bare rock surface are usually",
+   "options": [
+    "grasses",
+    "lichens",
+    "shrubs",
+    "trees"
+   ],
+   "answer": "1",
+   "solution": "Lichens are pioneers that weather rock and begin soil formation."
+  },
+  {
+   "q": "A stable, self-perpetuating final community in succession is called the",
+   "options": [
+    "pioneer community",
+    "sere",
+    "climax community",
+    "population"
+   ],
+   "answer": "2",
+   "solution": "The climax community is in equilibrium with the prevailing climate."
+  },
+  {
+   "q": "The maximum population an environment can support indefinitely is its",
+   "options": [
+    "density",
+    "biomass",
+    "carrying capacity",
+    "biotic potential"
+   ],
+   "answer": "2",
+   "solution": "Beyond carrying capacity limiting factors halt further growth."
+  },
+  {
+   "q": "Which is a density-dependent factor limiting population growth?",
+   "options": [
+    "Drought",
+    "Bush fire",
+    "Disease and competition",
+    "Flood"
+   ],
+   "answer": "2",
+   "solution": "Disease and competition intensify as population density increases."
+  },
+  {
+   "q": "Pneumatophores are adaptations of plants growing in",
+   "options": [
+    "deserts",
+    "mangrove swamps",
+    "rainforests",
+    "savanna"
+   ],
+   "answer": "1",
+   "solution": "Breathing roots project above the waterlogged mud to obtain oxygen."
+  },
+  {
+   "q": "Sunken stomata and thick cuticles are characteristic of",
+   "options": [
+    "hydrophytes",
+    "xerophytes",
+    "epiphytes",
+    "mesophytes"
+   ],
+   "answer": "1",
+   "solution": "These features minimise water loss in dry habitats."
+  },
+  {
+   "q": "Eutrophication in a lake is caused by",
+   "options": [
+    "excess dissolved oxygen",
+    "enrichment with nitrate and phosphate",
+    "lack of light",
+    "high salinity"
+   ],
+   "answer": "1",
+   "solution": "Nutrient enrichment triggers algal blooms and subsequent oxygen depletion."
+  },
+  {
+   "q": "Acid rain is mainly produced by the release of",
+   "options": [
+    "carbon dioxide only",
+    "sulphur and nitrogen oxides",
+    "methane",
+    "chlorofluorocarbons"
+   ],
+   "answer": "1",
+   "solution": "SO₂ and NOₓ dissolve in rain water forming sulphuric and nitric acids."
+  },
+  {
+   "q": "Chlorofluorocarbons are notorious for",
+   "options": [
+    "causing acid rain",
+    "depleting the ozone layer",
+    "fixing nitrogen",
+    "causing eutrophication"
+   ],
+   "answer": "1",
+   "solution": "CFCs release chlorine radicals that destroy stratospheric ozone."
+  },
+  {
+   "q": "Which practice conserves soil fertility?",
+   "options": [
+    "Continuous cropping",
+    "Bush burning",
+    "Crop rotation with legumes",
+    "Overgrazing"
+   ],
+   "answer": "2",
+   "solution": "Legumes restore nitrogen and rotation prevents nutrient exhaustion."
+  },
+  {
+   "q": "Yankari and Kainji Lake are examples of",
+   "options": [
+    "industrial estates",
+    "game reserves/national parks",
+    "forest plantations",
+    "fish ponds"
+   ],
+   "answer": "1",
+   "solution": "They are protected areas established for wildlife conservation."
+  },
+  {
+   "q": "Global warming is chiefly attributed to increased atmospheric",
+   "options": [
+    "oxygen",
+    "carbon dioxide and other greenhouse gases",
+    "nitrogen",
+    "argon"
+   ],
+   "answer": "1",
+   "solution": "Greenhouse gases trap outgoing infra-red radiation, warming the earth."
+  }
+ ]
+}

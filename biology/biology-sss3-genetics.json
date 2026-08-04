@@ -1,0 +1,236 @@
+{
+ "subject": "Biology",
+ "level": "SSS 3",
+ "slug": "genetics",
+ "title": "Genetics",
+ "outline": [
+  "Define genetics and key terms: gene, allele, genotype, phenotype, dominance",
+  "Describe chromosomes, DNA and RNA structure and replication",
+  "Explain transcription, translation and the genetic code",
+  "State and apply Mendel's laws using monohybrid and dihybrid crosses",
+  "Explain test crosses, incomplete dominance, multiple alleles and blood group inheritance",
+  "Describe sex determination, sex linkage and applications of genetics"
+ ],
+ "modules": [
+  {
+   "title": "Chromosomes, DNA and Protein Synthesis",
+   "html": "\n<h4>1. Basic Terms</h4>\n<ul><li><b>Gene</b> – a segment of DNA coding for a polypeptide or character.</li><li><b>Allele</b> – alternative form of a gene at the same locus.</li><li><b>Genotype</b> – genetic make-up (e.g. Tt); <b>phenotype</b> – observable character (tall).</li><li><b>Homozygous</b> (TT, tt) vs <b>heterozygous</b> (Tt); <b>dominant</b> allele masks the <b>recessive</b>.</li><li><b>Haploid (n)</b> gametes, <b>diploid (2n)</b> body cells; humans have \\(2n = 46\\).</li></ul>\n<h4>2. Nucleic Acids</h4>\n<p>DNA is a double helix of two antiparallel polynucleotide strands. Each nucleotide has deoxyribose sugar, a phosphate group and a nitrogenous base. Complementary base pairing follows Chargaff’s rule: adenine pairs with thymine (2 hydrogen bonds) and guanine with cytosine (3 hydrogen bonds), so \\( A = T \\) and \\( G = C \\).</p>\n<table class=\"tb-table\"><tr><th>Feature</th><th>DNA</th><th>RNA</th></tr>\n<tr><td>Sugar</td><td>Deoxyribose</td><td>Ribose</td></tr>\n<tr><td>Bases</td><td>A, T, G, C</td><td>A, U, G, C</td></tr>\n<tr><td>Strands</td><td>Double helix</td><td>Single</td></tr>\n<tr><td>Location</td><td>Nucleus (also mitochondria, chloroplast)</td><td>Nucleus and cytoplasm</td></tr>\n<tr><td>Role</td><td>Stores hereditary information</td><td>mRNA, tRNA and rRNA in protein synthesis</td></tr></table>\n<p><b>Replication</b> is semi-conservative: the helix unwinds, each strand acts as a template and DNA polymerase builds a complementary strand, so each daughter molecule has one old and one new strand.</p>\n<h4>3. Protein Synthesis</h4>\n<ol><li><b>Transcription</b> (nucleus): RNA polymerase copies one DNA strand into messenger RNA; the mRNA leaves through a nuclear pore.</li>\n<li><b>Translation</b> (ribosome): each mRNA <b>codon</b> of three bases is read; tRNA with the complementary <b>anticodon</b> brings the specific amino acid; peptide bonds join the amino acids until a stop codon is reached.</li></ol>\n<p>The genetic code is a triplet code, universal, degenerate (several codons per amino acid) and non-overlapping. For a polypeptide of \\(n\\) amino acids the coding mRNA requires \\(3n\\) bases.</p>\n",
+   "examples": [
+    {
+     "q": "A DNA strand reads TAC GGA TTC. Give the mRNA and the number of amino acids coded.",
+     "a": "mRNA is complementary with U replacing T: AUG CCU AAG. Three codons code for three amino acids (methionine–proline–lysine); AUG is also the start codon."
+    },
+    {
+     "q": "A DNA sample contains 22 % adenine. Find the percentage of guanine.",
+     "a": "By Chargaff's rule \\(A = T = 22\\%\\), so \\(A + T = 44\\%\\). Therefore \\(G + C = 56\\%\\) and \\(G = C = 28\\%\\)."
+    }
+   ]
+  },
+  {
+   "title": "Mendelian Genetics",
+   "html": "\n<h4>1. Mendel’s Laws</h4>\n<ul><li><b>Law of segregation (first law)</b>: the two alleles of a character separate during gamete formation so that each gamete carries only one.</li>\n<li><b>Law of independent assortment (second law)</b>: alleles of different genes are distributed to gametes independently of one another (for genes on different chromosomes).</li></ul>\n<h4>2. Monohybrid Cross</h4>\n<p>Tall (TT) × short (tt) gives an \\(F_1\\) that is all Tt (tall). Selfing the \\(F_1\\):</p>\n<table class=\"tb-table\"><tr><th></th><th>T</th><th>t</th></tr>\n<tr><td><b>T</b></td><td>TT</td><td>Tt</td></tr>\n<tr><td><b>t</b></td><td>Tt</td><td>tt</td></tr></table>\n<p>Genotypic ratio 1 TT : 2 Tt : 1 tt; phenotypic ratio 3 tall : 1 short.</p>\n<h4>3. Dihybrid Cross</h4>\n<p>RRYY × rryy gives \\(F_1\\) RrYy; the \\(F_2\\) phenotypic ratio is <b>9 : 3 : 3 : 1</b>, confirming independent assortment.</p>\n<h4>4. Test Cross and Back Cross</h4>\n<p>Crossing an organism of dominant phenotype with the homozygous recessive reveals its genotype: all offspring dominant means homozygous, a 1 : 1 ratio means heterozygous.</p>\n<h4>5. Departures from Simple Dominance</h4>\n<ul><li><b>Incomplete dominance</b>: red × white <i>Mirabilis</i> gives pink \\(F_1\\) and a 1 red : 2 pink : 1 white \\(F_2\\).</li>\n<li><b>Codominance</b>: both alleles expressed, as in blood group AB and roan cattle.</li>\n<li><b>Multiple alleles</b>: ABO blood groups controlled by \\(I^A\\), \\(I^B\\) and \\(i\\), where \\(I^A\\) and \\(I^B\\) are codominant and both dominant over \\(i\\).</li>\n<li><b>Lethal genes, epistasis and polygenic inheritance</b> also modify ratios.</li></ul>\n<h4>6. Sex Determination and Sex Linkage</h4>\n<p>In humans the female is XX and the male XY; the sperm determines sex, giving an expected 1 : 1 ratio. Genes on the X chromosome (haemophilia, red–green colour blindness) show <b>sex linkage</b>: they appear more often in males, who need only one recessive allele because they are hemizygous. Carrier mothers (XᴴXʰ) pass the allele to half their sons.</p>\n",
+   "examples": [
+    {
+     "q": "A heterozygous black guinea pig (Bb) is crossed with a white one (bb). State the offspring ratio.",
+     "a": "Gametes B, b × b, b give Bb, Bb, bb, bb — a 1 : 1 ratio of black to white. This is a test cross, and the appearance of white offspring proves the black parent is heterozygous."
+    },
+    {
+     "q": "A man of blood group AB marries a woman of group O. What blood groups are possible in their children?",
+     "a": "Father is \\(I^AI^B\\), mother \\(ii\\). Offspring are \\(I^Ai\\) (group A) or \\(I^Bi\\) (group B) in a 1 : 1 ratio. No child can be group AB or group O."
+    }
+   ]
+  },
+  {
+   "title": "Applications and Human Genetics",
+   "html": "\n<h4>1. Human Genetic Disorders</h4>\n<table class=\"tb-table\"><tr><th>Disorder</th><th>Nature</th><th>Note</th></tr>\n<tr><td>Sickle cell anaemia</td><td>Recessive gene \\(Hb^S\\)</td><td>AA normal, AS carrier (some malaria resistance), SS sickler</td></tr>\n<tr><td>Haemophilia</td><td>X-linked recessive</td><td>Blood fails to clot; mostly males</td></tr>\n<tr><td>Colour blindness</td><td>X-linked recessive</td><td>Cannot distinguish red from green</td></tr>\n<tr><td>Albinism</td><td>Autosomal recessive</td><td>No melanin pigment</td></tr>\n<tr><td>Down syndrome</td><td>Trisomy 21 (non-disjunction)</td><td>47 chromosomes</td></tr></table>\n<p>Genetic counselling before marriage, especially AS × AS couples who risk a 25 % chance of an SS child, helps prevent avoidable suffering.</p>\n<h4>2. Applications of Genetics</h4>\n<ul><li><b>Agriculture</b>: selective breeding, hybridisation and hybrid vigour, disease- and drought-resistant crops, artificial insemination, improved yields.</li>\n<li><b>Medicine</b>: genetic counselling, insulin and vaccines from genetically engineered bacteria, gene therapy.</li>\n<li><b>Forensics and law</b>: DNA fingerprinting for identification, paternity disputes and crime investigation.</li>\n<li><b>Industry</b>: enzymes, antibiotics and biofuels from engineered micro-organisms.</li></ul>\n<h4>3. Variations in Chromosome Behaviour</h4>\n<p>Linkage occurs when genes lie on the same chromosome and tend to be inherited together, reducing the expected independent assortment ratios; crossing over can separate them, and the frequency of recombination is used to map genes.</p>\n",
+   "examples": [
+    {
+     "q": "Two AS parents marry. Show the probability of a sickle-cell child.",
+     "a": "AS × AS gives AA : AS : AS : SS, that is 1 AA : 2 AS : 1 SS. The chance of a child with sickle cell anaemia (SS) is \\(1/4 = 25\\%\\), and 50 % will be healthy carriers."
+    },
+    {
+     "q": "Why is haemophilia commoner in men than in women?",
+     "a": "The gene is carried on the X chromosome. A man (XY) has only one X, so a single recessive allele is expressed. A woman needs two copies (one from each parent) to be affected; with one copy she is only a carrier, which is statistically far less likely."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The alternative forms of a gene are called",
+   "options": [
+    "chromatids",
+    "alleles",
+    "codons",
+    "loci"
+   ],
+   "answer": "1",
+   "solution": "Alleles occupy the same locus on homologous chromosomes."
+  },
+  {
+   "q": "In DNA, adenine always pairs with",
+   "options": [
+    "guanine",
+    "cytosine",
+    "thymine",
+    "uracil"
+   ],
+   "answer": "2",
+   "solution": "A–T pairing involves two hydrogen bonds; uracil replaces thymine only in RNA."
+  },
+  {
+   "q": "DNA replication is described as",
+   "options": [
+    "conservative",
+    "semi-conservative",
+    "dispersive",
+    "random"
+   ],
+   "answer": "1",
+   "solution": "Each new molecule retains one parental strand as a template."
+  },
+  {
+   "q": "Transcription produces",
+   "options": [
+    "DNA",
+    "messenger RNA",
+    "protein",
+    "ATP"
+   ],
+   "answer": "1",
+   "solution": "RNA polymerase copies a DNA template into mRNA in the nucleus."
+  },
+  {
+   "q": "Translation of mRNA occurs on the",
+   "options": [
+    "nucleolus",
+    "ribosome",
+    "Golgi body",
+    "lysosome"
+   ],
+   "answer": "1",
+   "solution": "Ribosomes read codons and assemble the polypeptide chain."
+  },
+  {
+   "q": "A sequence of three bases on mRNA is a",
+   "options": [
+    "gene",
+    "codon",
+    "anticodon",
+    "locus"
+   ],
+   "answer": "1",
+   "solution": "Each codon specifies one amino acid or a stop signal."
+  },
+  {
+   "q": "How many bases are needed to code for a polypeptide of 30 amino acids?",
+   "options": [
+    "30",
+    "60",
+    "90",
+    "120"
+   ],
+   "answer": "2",
+   "solution": "Three bases per amino acid: 3 × 30 = 90."
+  },
+  {
+   "q": "Mendel's first law is the law of",
+   "options": [
+    "independent assortment",
+    "segregation",
+    "dominance only",
+    "linkage"
+   ],
+   "answer": "1",
+   "solution": "Paired alleles separate during gamete formation."
+  },
+  {
+   "q": "The F2 phenotypic ratio of a typical monohybrid cross is",
+   "options": [
+    "1:1",
+    "3:1",
+    "9:3:3:1",
+    "1:2:1 phenotypes"
+   ],
+   "answer": "1",
+   "solution": "Three dominant to one recessive phenotype."
+  },
+  {
+   "q": "A dihybrid cross between two heterozygotes gives an F2 ratio of",
+   "options": [
+    "3:1",
+    "1:1",
+    "9:3:3:1",
+    "1:2:1"
+   ],
+   "answer": "2",
+   "solution": "Independent assortment of two gene pairs gives 9:3:3:1."
+  },
+  {
+   "q": "A cross used to determine an unknown genotype is the",
+   "options": [
+    "back cross with a homozygous dominant",
+    "test cross with the homozygous recessive",
+    "selfing",
+    "reciprocal cross"
+   ],
+   "answer": "1",
+   "solution": "Offspring from a test cross reveal whether the parent was homozygous or heterozygous."
+  },
+  {
+   "q": "Pink flowers from a red × white cross illustrate",
+   "options": [
+    "codominance",
+    "incomplete dominance",
+    "epistasis",
+    "linkage"
+   ],
+   "answer": "1",
+   "solution": "Neither allele is fully dominant, so the heterozygote is intermediate."
+  },
+  {
+   "q": "Blood group AB is an example of",
+   "options": [
+    "incomplete dominance",
+    "codominance",
+    "recessive inheritance",
+    "sex linkage"
+   ],
+   "answer": "1",
+   "solution": "Both \\(I^A\\) and \\(I^B\\) antigens are fully expressed."
+  },
+  {
+   "q": "In humans the sex of the offspring is determined by",
+   "options": [
+    "the mother's ovum",
+    "the father's sperm",
+    "the environment",
+    "the placenta"
+   ],
+   "answer": "1",
+   "solution": "The sperm may carry X or Y whereas all ova carry X."
+  },
+  {
+   "q": "Two AS parents can produce a sickler with a probability of",
+   "options": [
+    "0 %",
+    "25 %",
+    "50 %",
+    "75 %"
+   ],
+   "answer": "1",
+   "solution": "AS × AS gives 1 AA : 2 AS : 1 SS."
+  },
+  {
+   "q": "DNA fingerprinting is most useful in",
+   "options": [
+    "treating malaria",
+    "paternity and crime investigation",
+    "increasing photosynthesis",
+    "preventing mutation"
+   ],
+   "answer": "1",
+   "solution": "Each person's banding pattern is unique except in identical twins."
+  }
+ ]
+}

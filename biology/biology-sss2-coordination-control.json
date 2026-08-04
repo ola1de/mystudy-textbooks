@@ -1,0 +1,236 @@
+{
+ "subject": "Biology",
+ "level": "SSS 2",
+ "slug": "coordination-control",
+ "title": "Coordination and Control",
+ "outline": [
+  "Explain the need for coordination and compare nervous and hormonal control",
+  "Describe the structure of a neurone, nerve impulse transmission and the synapse",
+  "Distinguish reflex action from voluntary action and trace a reflex arc",
+  "Describe the central and peripheral nervous systems and the brain regions",
+  "State the endocrine glands, their hormones, functions and disorders",
+  "Describe the structure and function of the eye, ear, skin, tongue and nose, and plant coordination"
+ ],
+ "modules": [
+  {
+   "title": "The Nervous System",
+   "html": "\n<h4>1. Neurones</h4>\n<p>The functional unit of the nervous system is the neurone: a cell body (with nucleus and Nissl granules), <b>dendrites</b> that receive impulses and an <b>axon</b> that conducts impulses away, often insulated by a fatty myelin sheath interrupted at nodes of Ranvier that speed up conduction by saltatory transmission.</p>\n<ul><li><b>Sensory (afferent) neurone</b> – receptor to CNS.</li><li><b>Relay (intermediate) neurone</b> – within the CNS.</li><li><b>Motor (efferent) neurone</b> – CNS to effector (muscle or gland).</li></ul>\n<h4>2. The Nerve Impulse and Synapse</h4>\n<p>A resting axon is polarised, its inside negative at about \\(-70\\,\\text{mV}\\), maintained by the sodium–potassium pump. A stimulus above threshold opens sodium channels; depolarisation sweeps along the axon as an action potential, followed by repolarisation and a refractory period. Impulses obey the <b>all-or-none law</b>.</p>\n<p>At a <b>synapse</b> the impulse causes vesicles to release a neurotransmitter (e.g. acetylcholine) into the synaptic cleft; it diffuses across, binds to receptors and generates a new impulse, then is destroyed by cholinesterase. Synapses ensure one-way transmission and allow integration of impulses.</p>\n<h4>3. Organisation of the Nervous System</h4>\n<ul><li><b>Central nervous system</b> – brain and spinal cord.</li>\n<li><b>Peripheral nervous system</b> – cranial and spinal nerves.</li>\n<li><b>Autonomic nervous system</b> – sympathetic (prepares for 'fight or flight': raises heart rate, dilates pupil) and parasympathetic (restores calm), acting antagonistically on involuntary organs.</li></ul>\n<table class=\"tb-table\"><tr><th>Brain part</th><th>Function</th></tr>\n<tr><td>Cerebrum</td><td>Intelligence, memory, reasoning, voluntary action, interpretation of sensations</td></tr>\n<tr><td>Cerebellum</td><td>Balance, posture and coordination of muscular movement</td></tr>\n<tr><td>Medulla oblongata</td><td>Involuntary activities: heartbeat, breathing, swallowing, peristalsis</td></tr>\n<tr><td>Hypothalamus</td><td>Temperature, hunger, thirst, osmoregulation, links to pituitary</td></tr>\n<tr><td>Pituitary</td><td>'Master gland' controlling other endocrine glands</td></tr></table>\n<h4>4. Reflex Action</h4>\n<p>A reflex is a rapid, automatic, involuntary response to a stimulus. The <b>reflex arc</b>: receptor → sensory neurone → dorsal root → relay neurone in the spinal cord grey matter → motor neurone → effector. Examples: withdrawal of the hand from a hot object, blinking, knee jerk, sneezing.</p>\n<p><b>Conditioned reflexes</b> (Pavlov’s dogs) are learned responses in which a new, originally neutral stimulus produces a reflex after repeated association; they involve the brain.</p>\n<table class=\"tb-table\"><tr><th>Nervous control</th><th>Hormonal control</th></tr>\n<tr><td>Electrical impulses via neurones</td><td>Chemicals via blood</td></tr>\n<tr><td>Very fast, short-lived</td><td>Slower, longer-lasting</td></tr>\n<tr><td>Localised response</td><td>May be widespread</td></tr></table>\n",
+   "examples": [
+    {
+     "q": "Explain why you withdraw your hand from a hot object before you feel the pain.",
+     "a": "The withdrawal is a spinal reflex: pain receptors in the skin send impulses along a sensory neurone to a relay neurone in the spinal cord, which stimulates a motor neurone to the arm muscle, all without waiting for the brain. Impulses also travel up to the cerebrum, where the sensation of pain is consciously perceived a fraction of a second later."
+    },
+    {
+     "q": "State two reasons why synapses are important.",
+     "a": "(i) They ensure impulses travel in one direction only, because transmitter vesicles occur only on the pre-synaptic side. (ii) They allow integration and filtering — several weak impulses may summate to trigger a response, and drugs or inhibitory transmitters can modify transmission."
+    }
+   ]
+  },
+  {
+   "title": "The Endocrine System",
+   "html": "\n<h4>1. Nature of Hormones</h4>\n<p>Hormones are organic chemical messengers secreted in small amounts by ductless (endocrine) glands directly into the bloodstream, acting on specific target organs and then destroyed by the liver.</p>\n<table class=\"tb-table\"><tr><th>Gland</th><th>Hormone</th><th>Function</th><th>Disorder</th></tr>\n<tr><td>Pituitary (anterior)</td><td>Growth hormone, TSH, ACTH, FSH, LH, prolactin</td><td>Growth; controls other glands and reproduction</td><td>Dwarfism (deficiency), gigantism/acromegaly (excess)</td></tr>\n<tr><td>Pituitary (posterior)</td><td>ADH, oxytocin</td><td>Water reabsorption; uterine contraction and milk let-down</td><td>Diabetes insipidus</td></tr>\n<tr><td>Thyroid</td><td>Thyroxine (needs iodine)</td><td>Controls metabolic rate, growth and development</td><td>Goitre, cretinism, myxoedema; hyperthyroidism</td></tr>\n<tr><td>Parathyroid</td><td>Parathormone</td><td>Calcium and phosphate balance</td><td>Tetany</td></tr>\n<tr><td>Adrenal medulla</td><td>Adrenaline</td><td>Emergency hormone: raises heart rate, blood glucose, breathing</td><td>—</td></tr>\n<tr><td>Adrenal cortex</td><td>Cortisol, aldosterone</td><td>Glucose and salt balance</td><td>Addison’s disease</td></tr>\n<tr><td>Pancreas (islets of Langerhans)</td><td>Insulin (β cells), glucagon (α cells)</td><td>Lowers / raises blood glucose</td><td>Diabetes mellitus</td></tr>\n<tr><td>Testis</td><td>Testosterone</td><td>Male secondary sexual characters, sperm production</td><td>—</td></tr>\n<tr><td>Ovary</td><td>Oestrogen, progesterone</td><td>Female secondary sexual characters, menstrual cycle, pregnancy</td><td>—</td></tr></table>\n<h4>2. Blood Glucose Homeostasis</h4>\n<p>After a meal, high blood glucose stimulates β cells to release <b>insulin</b>, which promotes glucose uptake by cells and its conversion to glycogen in the liver and muscles. During fasting, low glucose stimulates α cells to release <b>glucagon</b>, which converts glycogen back to glucose (glycogenolysis). This negative-feedback loop keeps blood glucose near \\(90\\,\\text{mg}/100\\,\\text{cm}^3\\).</p>\n<h4>3. Plant Hormones</h4>\n<ul><li><b>Auxins (IAA)</b> – cause cell elongation, apical dominance, phototropism and geotropism; synthetic auxins are used as selective weedkillers and rooting powders.</li>\n<li><b>Gibberellins</b> – stem elongation, seed germination, breaking dormancy.</li>\n<li><b>Cytokinins</b> – promote cell division; delay leaf ageing.</li>\n<li><b>Abscisic acid</b> – promotes dormancy and stomatal closure in drought.</li>\n<li><b>Ethylene (ethene)</b> – ripening of fruits.</li></ul>\n<p>Tropisms are directional growth responses: phototropism (light), geotropism (gravity), hydrotropism (water), thigmotropism (touch). Shoots are positively phototropic and negatively geotropic, roots the reverse. Nastic movements (e.g. the folding of <i>Mimosa</i> leaves) are non-directional.</p>\n",
+   "examples": [
+    {
+     "q": "Explain, in terms of auxin, why a shoot bends towards light from one side.",
+     "a": "Auxin produced at the shoot tip migrates away from the illuminated side to the shaded side. The higher auxin concentration on the dark side causes greater cell elongation there, so that side grows faster and the shoot curves towards the light — positive phototropism."
+    },
+    {
+     "q": "A patient passes large volumes of urine containing glucose and is always thirsty. Name the disorder and the hormone involved.",
+     "a": "Diabetes mellitus, caused by insufficient insulin from the β cells of the islets of Langerhans. Blood glucose exceeds the renal threshold, glucose is not fully reabsorbed and it draws water osmotically into the urine, causing polyuria and thirst."
+    }
+   ]
+  },
+  {
+   "title": "Sense Organs",
+   "html": "\n<h4>1. The Eye</h4>\n<table class=\"tb-table\"><tr><th>Part</th><th>Function</th></tr>\n<tr><td>Cornea</td><td>Transparent; refracts most of the entering light</td></tr>\n<tr><td>Iris</td><td>Controls the size of the pupil and light entering</td></tr>\n<tr><td>Lens</td><td>Fine focusing (accommodation) by changing shape</td></tr>\n<tr><td>Ciliary muscle and suspensory ligament</td><td>Alter lens curvature</td></tr>\n<tr><td>Retina (rods and cones)</td><td>Light-sensitive layer; rods for dim light and black-and-white, cones for colour and detail</td></tr>\n<tr><td>Optic nerve</td><td>Carries impulses to the cerebrum</td></tr>\n<tr><td>Aqueous and vitreous humour</td><td>Refraction and maintenance of eyeball shape</td></tr></table>\n<p><b>Accommodation</b>: for near objects the ciliary muscles contract, suspensory ligaments slacken and the lens becomes more convex; for distant objects the reverse occurs.</p>\n<p><b>Defects</b>: short sight (myopia) — image forms in front of the retina, corrected with a concave (diverging) lens; long sight (hypermetropia) — image behind the retina, corrected with a convex lens; astigmatism — uneven cornea curvature, corrected with a cylindrical lens; presbyopia — loss of lens elasticity with age; cataract — opaque lens.</p>\n<h4>2. The Ear</h4>\n<ul><li><b>Outer ear</b>: pinna collects sound; auditory canal conducts it to the eardrum.</li>\n<li><b>Middle ear</b>: malleus, incus and stapes amplify vibrations; the Eustachian tube equalises pressure.</li>\n<li><b>Inner ear</b>: cochlea converts vibrations to nerve impulses for hearing; the semicircular canals and utriculus/sacculus detect movement and position, giving balance.</li></ul>\n<h4>3. Skin, Tongue and Nose</h4>\n<p>The skin contains receptors for touch, pressure, pain and temperature, and also protects, excretes and regulates temperature by sweating, vasodilation and vasoconstriction. The tongue bears taste buds detecting sweet, sour, salt, bitter (and umami). The nose has olfactory cells sensitive to dissolved chemical vapours; taste and smell act together in flavour perception.</p>\n",
+   "examples": [
+    {
+     "q": "State what happens in the eye when a person moves from bright sunlight into a dark room.",
+     "a": "Light intensity falls, so the radial muscles of the iris contract and the circular muscles relax, dilating the pupil to admit more light. The rods, which are sensitive in dim light, gradually regenerate rhodopsin, so vision improves after some minutes (dark adaptation)."
+    },
+    {
+     "q": "Why does a short-sighted person need a concave lens?",
+     "a": "In myopia the eyeball is too long or the lens too powerful, so parallel rays converge in front of the retina. A concave (diverging) lens spreads the rays slightly before they enter the eye so that they focus exactly on the retina."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The functional unit of the nervous system is the",
+   "options": [
+    "nephron",
+    "neurone",
+    "alveolus",
+    "synapse"
+   ],
+   "answer": "1",
+   "solution": "The neurone conducts impulses and is the structural and functional unit."
+  },
+  {
+   "q": "Impulses are carried from receptors to the central nervous system by",
+   "options": [
+    "motor neurones",
+    "sensory neurones",
+    "relay neurones",
+    "effectors"
+   ],
+   "answer": "1",
+   "solution": "Sensory (afferent) neurones convey impulses inward from receptors."
+  },
+  {
+   "q": "The gap between two neurones is called the",
+   "options": [
+    "node of Ranvier",
+    "synapse",
+    "dendrite",
+    "axon hillock"
+   ],
+   "answer": "1",
+   "solution": "Transmission across the synapse is chemical, by neurotransmitters."
+  },
+  {
+   "q": "A common neurotransmitter at synapses is",
+   "options": [
+    "insulin",
+    "acetylcholine",
+    "thyroxine",
+    "haemoglobin"
+   ],
+   "answer": "1",
+   "solution": "Acetylcholine diffuses across the cleft and is later broken down by cholinesterase."
+  },
+  {
+   "q": "Balance and coordination of muscular movement are controlled by the",
+   "options": [
+    "cerebrum",
+    "cerebellum",
+    "medulla oblongata",
+    "hypothalamus"
+   ],
+   "answer": "1",
+   "solution": "The cerebellum fine-tunes posture, balance and smooth movement."
+  },
+  {
+   "q": "The part of the brain controlling heartbeat and breathing is the",
+   "options": [
+    "cerebrum",
+    "cerebellum",
+    "medulla oblongata",
+    "pituitary"
+   ],
+   "answer": "2",
+   "solution": "The medulla oblongata houses the cardiac and respiratory centres."
+  },
+  {
+   "q": "Which of the following is a reflex action?",
+   "options": [
+    "Writing a letter",
+    "Knee jerk",
+    "Riding a bicycle after learning",
+    "Speaking"
+   ],
+   "answer": "1",
+   "solution": "The knee jerk is an inborn, rapid, involuntary spinal reflex."
+  },
+  {
+   "q": "Pavlov's experiment with dogs demonstrated",
+   "options": [
+    "simple reflex",
+    "conditioned reflex",
+    "voluntary action",
+    "tropism"
+   ],
+   "answer": "1",
+   "solution": "Salivation became associated with a bell, a learned or conditioned reflex."
+  },
+  {
+   "q": "The 'master gland' of the endocrine system is the",
+   "options": [
+    "thyroid",
+    "pancreas",
+    "pituitary",
+    "adrenal"
+   ],
+   "answer": "2",
+   "solution": "The pituitary secretes tropic hormones that regulate other endocrine glands."
+  },
+  {
+   "q": "Deficiency of iodine leads to underproduction of",
+   "options": [
+    "insulin",
+    "thyroxine",
+    "adrenaline",
+    "oxytocin"
+   ],
+   "answer": "1",
+   "solution": "Iodine is an essential component of thyroxine; its deficiency causes goitre."
+  },
+  {
+   "q": "Blood glucose level is lowered by",
+   "options": [
+    "glucagon",
+    "adrenaline",
+    "insulin",
+    "cortisol"
+   ],
+   "answer": "2",
+   "solution": "Insulin promotes uptake of glucose and its storage as glycogen."
+  },
+  {
+   "q": "Adrenaline is best described as the",
+   "options": [
+    "growth hormone",
+    "emergency hormone",
+    "sleep hormone",
+    "digestive hormone"
+   ],
+   "answer": "1",
+   "solution": "It prepares the body for 'fight or flight' by raising heart rate, breathing and blood glucose."
+  },
+  {
+   "q": "The plant hormone responsible for phototropic curvature is",
+   "options": [
+    "gibberellin",
+    "auxin",
+    "ethylene",
+    "abscisic acid"
+   ],
+   "answer": "1",
+   "solution": "Auxin accumulates on the shaded side, causing greater elongation there."
+  },
+  {
+   "q": "Fine focusing of light on the retina is done by the",
+   "options": [
+    "cornea",
+    "lens",
+    "iris",
+    "pupil"
+   ],
+   "answer": "1",
+   "solution": "The lens changes shape during accommodation, although the cornea does most of the refraction."
+  },
+  {
+   "q": "Short sight is corrected using a",
+   "options": [
+    "convex lens",
+    "concave lens",
+    "cylindrical lens",
+    "bifocal lens"
+   ],
+   "answer": "1",
+   "solution": "A diverging (concave) lens moves the image back onto the retina."
+  },
+  {
+   "q": "Balance in mammals is detected by the",
+   "options": [
+    "cochlea",
+    "semicircular canals",
+    "eardrum",
+    "Eustachian tube"
+   ],
+   "answer": "1",
+   "solution": "The three semicircular canals detect movement of the head in three planes."
+  }
+ ]
+}

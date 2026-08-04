@@ -1,0 +1,236 @@
+{
+ "subject": "Biology",
+ "level": "SSS 1",
+ "slug": "cell-structure-biophysics",
+ "title": "Cell Structure and Biophysics",
+ "outline": [
+  "State the cell theory and the contributions of Hooke, Schleiden, Schwann and Virchow",
+  "Draw and label generalised plant and animal cells",
+  "Relate the structure of each organelle to its function",
+  "Compare plant and animal cells and prokaryotic and eukaryotic cells",
+  "Explain diffusion, osmosis, plasmolysis, turgidity and active transport",
+  "Calculate and interpret surface area to volume ratios"
+ ],
+ "modules": [
+  {
+   "title": "Cell Theory and Cell Structure",
+   "html": "\n<h4>1. Historical Development</h4>\n<ul><li><b>Robert Hooke (1665)</b> examined cork with a simple microscope and coined the word 'cell'.</li>\n<li><b>Leeuwenhoek (1674)</b> observed living micro-organisms (animalcules).</li>\n<li><b>Schleiden (1838)</b> and <b>Schwann (1839)</b> proposed that all plants and animals are made of cells.</li>\n<li><b>Virchow (1855)</b> added <i>omnis cellula e cellula</i> – every cell arises from a pre-existing cell.</li></ul>\n<h4>2. The Cell Theory</h4>\n<ol><li>All living organisms are composed of one or more cells.</li><li>The cell is the basic structural and functional unit of life.</li><li>All cells arise from pre-existing cells by division.</li><li>Cells contain hereditary material passed to daughter cells.</li></ol>\n<h4>3. Organelles and Their Functions</h4>\n<table class=\"tb-table\">\n<tr><th>Structure</th><th>Function</th></tr>\n<tr><td>Cell (plasma) membrane</td><td>Selectively permeable boundary controlling entry and exit of substances; fluid-mosaic of phospholipid bilayer with proteins</td></tr>\n<tr><td>Cell wall (plants)</td><td>Rigid cellulose layer giving shape, support and protection; fully permeable</td></tr>\n<tr><td>Nucleus</td><td>Contains chromatin (DNA); controls all cell activities and heredity</td></tr>\n<tr><td>Mitochondrion</td><td>Site of aerobic respiration; 'powerhouse' producing ATP; has cristae</td></tr>\n<tr><td>Chloroplast</td><td>Contains chlorophyll on grana; site of photosynthesis</td></tr>\n<tr><td>Ribosome</td><td>Site of protein synthesis</td></tr>\n<tr><td>Endoplasmic reticulum</td><td>Rough ER transports proteins; smooth ER makes lipids</td></tr>\n<tr><td>Golgi body</td><td>Packages, modifies and secretes materials</td></tr>\n<tr><td>Lysosome</td><td>Contains hydrolytic enzymes for digestion of worn-out structures</td></tr>\n<tr><td>Vacuole</td><td>Large and central in plants; stores cell sap and maintains turgor</td></tr>\n<tr><td>Centriole</td><td>Organises spindle fibres during animal cell division</td></tr>\n</table>\n<h4>4. Comparisons</h4>\n<table class=\"tb-table\">\n<tr><th>Plant cell</th><th>Animal cell</th></tr>\n<tr><td>Cellulose cell wall present</td><td>Absent</td></tr>\n<tr><td>Chloroplasts usually present</td><td>Absent</td></tr>\n<tr><td>Large central vacuole</td><td>Small, temporary vacuoles</td></tr>\n<tr><td>Fixed, regular shape</td><td>Irregular, flexible shape</td></tr>\n<tr><td>Stores starch</td><td>Stores glycogen</td></tr>\n<tr><td>Centrioles usually absent</td><td>Centrioles present</td></tr>\n</table>\n<p>Prokaryotic cells (bacteria) have no nuclear membrane, no mitochondria, no ER and possess 70S ribosomes and a peptidoglycan wall; eukaryotic cells have a true nucleus and membrane-bound organelles.</p>\n",
+   "examples": [
+    {
+     "q": "Why do muscle and sperm cells contain very many mitochondria?",
+     "a": "Both require large, continuous supplies of ATP — muscle cells for contraction and sperm cells for flagellar swimming. Since mitochondria are the sites of aerobic respiration and ATP production, their number reflects the energy demand of the cell."
+    },
+    {
+     "q": "A cell is placed in distilled water and does not burst. Suggest the type of cell.",
+     "a": "It is a plant cell. Its rigid cellulose cell wall exerts an inward wall pressure that balances the increasing turgor pressure, so the cell becomes turgid instead of bursting. An animal cell without a wall would undergo haemolysis/cytolysis."
+    }
+   ]
+  },
+  {
+   "title": "Biophysics: Diffusion, Osmosis and Active Transport",
+   "html": "\n<h4>1. Diffusion</h4>\n<p>Diffusion is the net movement of molecules or ions from a region of higher concentration to a region of lower concentration along a concentration gradient, until equilibrium is reached. It is passive (no ATP required). Rate of diffusion increases with temperature, concentration gradient and surface area, and decreases with molecular size and diffusion distance (Fick’s principle):</p>\n$$\\text{Rate of diffusion} \\propto \\frac{\\text{surface area} \\times \\text{concentration difference}}{\\text{thickness of membrane}}$$\n<p>Biological examples: gaseous exchange in alveoli and leaves, absorption of digested food, spread of perfume.</p>\n<h4>2. Osmosis</h4>\n<p>Osmosis is the movement of water molecules from a region of higher water potential (dilute/hypotonic solution) to a region of lower water potential (concentrated/hypertonic solution) through a semi-permeable membrane. Water potential relationships are summarised as:</p>\n$$\\Psi_{cell} = \\Psi_{s} + \\Psi_{p}$$\n<p>where \\( \\Psi_{s} \\) is the solute (osmotic) potential and \\( \\Psi_{p} \\) the pressure (turgor) potential.</p>\n<ul><li><b>Turgidity</b> – a plant cell in a hypotonic solution gains water, the vacuole swells and the cell becomes firm; turgor supports herbaceous stems and opens stomata.</li>\n<li><b>Plasmolysis</b> – in a hypertonic solution water leaves the cell, the protoplasm shrinks away from the wall. The point at which plasmolysis just begins is <i>incipient plasmolysis</i>. Reversal by placing in water is <i>deplasmolysis</i>.</li>\n<li><b>Haemolysis</b> – bursting of a red blood cell in a hypotonic solution; <b>crenation</b> is its shrinking in a hypertonic solution.</li></ul>\n<h4>3. Active Transport</h4>\n<p>Active transport is the movement of substances <i>against</i> a concentration gradient, using energy from ATP and specific carrier proteins in the membrane. Evidence includes reduced uptake when respiration is inhibited by cyanide or low oxygen. Examples: absorption of mineral salts by root hairs, reabsorption of glucose in the kidney tubule, the sodium–potassium pump in nerve cells.</p>\n<table class=\"tb-table\"><tr><th>Feature</th><th>Diffusion/Osmosis</th><th>Active transport</th></tr>\n<tr><td>Gradient</td><td>Down the gradient</td><td>Against the gradient</td></tr>\n<tr><td>Energy</td><td>None</td><td>ATP required</td></tr>\n<tr><td>Carriers</td><td>Not always</td><td>Always specific carriers</td></tr>\n<tr><td>Effect of cyanide</td><td>Unaffected</td><td>Stopped</td></tr></table>\n",
+   "examples": [
+    {
+     "q": "Calculate the surface area to volume ratio of a cube of side 1 cm and of side 2 cm, and state the biological significance.",
+     "a": "For side 1 cm: \\( SA = 6 \\times 1^2 = 6\\,\\text{cm}^2 \\), \\( V = 1^3 = 1\\,\\text{cm}^3 \\), ratio \\( = 6:1 \\). For side 2 cm: \\( SA = 6 \\times 2^2 = 24\\,\\text{cm}^2 \\), \\( V = 8\\,\\text{cm}^3 \\), ratio \\( = 3:1 \\). Small organisms therefore have a larger surface area per unit volume and can rely on simple diffusion, while large organisms need specialised transport and respiratory surfaces."
+    },
+    {
+     "q": "Fresh potato cylinders placed in strong salt solution became flabby. Explain.",
+     "a": "The salt solution is hypertonic to the cell sap, so water moved out of the potato cells by osmosis. The cells lost turgor and became flaccid (plasmolysed), so the tissue as a whole became soft and reduced in length and mass."
+    }
+   ]
+  },
+  {
+   "title": "Cell Specialisation and Practical Microscopy",
+   "html": "\n<h4>1. Specialised Cells and Their Adaptations</h4>\n<table class=\"tb-table\"><tr><th>Cell</th><th>Adaptation</th><th>Function</th></tr>\n<tr><td>Root hair cell</td><td>Long extension, thin wall, many mitochondria</td><td>Absorbs water and mineral salts</td></tr>\n<tr><td>Palisade mesophyll</td><td>Column-shaped, many chloroplasts</td><td>Traps maximum light for photosynthesis</td></tr>\n<tr><td>Red blood cell</td><td>Biconcave, no nucleus, haemoglobin</td><td>Transports oxygen</td></tr>\n<tr><td>Nerve cell</td><td>Long axon, myelin sheath</td><td>Rapid impulse transmission</td></tr>\n<tr><td>Sperm cell</td><td>Flagellum, acrosome, mitochondria</td><td>Swims to and penetrates the ovum</td></tr>\n<tr><td>Xylem vessel</td><td>Dead, lignified, hollow tube</td><td>Conducts water and gives support</td></tr></table>\n<h4>2. Using the Light Microscope</h4>\n<ul><li>Total magnification = magnification of eyepiece × magnification of objective. With a ×10 eyepiece and ×40 objective, \\( M = 10 \\times 40 = 400 \\).</li>\n<li>Actual size is obtained from \\( \\text{actual size} = \\dfrac{\\text{image size}}{\\text{magnification}} \\).</li>\n<li>Thin sections, staining (iodine for starch, methylene blue for nuclei) and correct illumination give clear images.</li></ul>\n<h4>3. Protoplasm</h4>\n<p>Protoplasm is the living content of a cell: cytoplasm plus nucleus. It is about 70–90 % water and contains proteins, lipids, carbohydrates, nucleic acids and mineral salts. It is colloidal, capable of movement (cyclosis), irritable and metabolically active.</p>\n",
+   "examples": [
+    {
+     "q": "A cell measures 50 mm on a drawing whose magnification is ×500. Find its actual size in micrometres.",
+     "a": "\\( \\text{Actual size} = \\dfrac{50\\,\\text{mm}}{500} = 0.1\\,\\text{mm} = 100\\,\\mu\\text{m} \\)."
+    },
+    {
+     "q": "State two ways the root hair cell is adapted for absorption.",
+     "a": "(i) The hair-like projection greatly increases the surface area for water and ion uptake. (ii) It has a thin, permeable wall and numerous mitochondria supplying ATP for the active transport of mineral ions."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The scientist who first used the term 'cell' was",
+   "options": [
+    "Schwann",
+    "Virchow",
+    "Robert Hooke",
+    "Leeuwenhoek"
+   ],
+   "answer": "2",
+   "solution": "Hooke saw empty box-like compartments in cork in 1665 and named them cells."
+  },
+  {
+   "q": "Which statement completes the cell theory?",
+   "options": [
+    "Cells arise spontaneously",
+    "All cells come from pre-existing cells",
+    "Cells cannot divide",
+    "Only plants have cells"
+   ],
+   "answer": "1",
+   "solution": "Virchow's principle <i>omnis cellula e cellula</i> completed the theory."
+  },
+  {
+   "q": "The organelle described as the powerhouse of the cell is the",
+   "options": [
+    "ribosome",
+    "mitochondrion",
+    "Golgi body",
+    "lysosome"
+   ],
+   "answer": "1",
+   "solution": "Mitochondria carry out aerobic respiration and release ATP."
+  },
+  {
+   "q": "Protein synthesis takes place on the",
+   "options": [
+    "lysosome",
+    "ribosome",
+    "centriole",
+    "vacuole"
+   ],
+   "answer": "1",
+   "solution": "Ribosomes translate mRNA into polypeptides."
+  },
+  {
+   "q": "A structure present in plant cells but absent in animal cells is the",
+   "options": [
+    "nucleus",
+    "mitochondrion",
+    "cellulose cell wall",
+    "cell membrane"
+   ],
+   "answer": "2",
+   "solution": "Only plant cells have a rigid cellulose wall outside the plasma membrane."
+  },
+  {
+   "q": "Digestive enzymes within a cell are contained in the",
+   "options": [
+    "Golgi body",
+    "lysosome",
+    "nucleolus",
+    "smooth ER"
+   ],
+   "answer": "1",
+   "solution": "Lysosomes contain hydrolytic enzymes that digest worn-out organelles and engulfed material."
+  },
+  {
+   "q": "The cell membrane is best described as",
+   "options": [
+    "fully permeable",
+    "impermeable",
+    "selectively permeable",
+    "rigid and non-living"
+   ],
+   "answer": "2",
+   "solution": "It allows some substances through while restricting others, hence selectively (differentially) permeable."
+  },
+  {
+   "q": "Osmosis is the movement of",
+   "options": [
+    "solute from high to low concentration",
+    "water from higher to lower water potential through a semi-permeable membrane",
+    "ions against a gradient using ATP",
+    "gases through stomata"
+   ],
+   "answer": "1",
+   "solution": "Osmosis concerns water movement across a semi-permeable membrane down a water-potential gradient."
+  },
+  {
+   "q": "A plant cell placed in a hypertonic solution will",
+   "options": [
+    "become turgid",
+    "burst",
+    "plasmolyse",
+    "remain unchanged"
+   ],
+   "answer": "2",
+   "solution": "Water leaves the cell, the protoplast shrinks from the wall and the cell becomes plasmolysed."
+  },
+  {
+   "q": "A red blood cell placed in distilled water will",
+   "options": [
+    "crenate",
+    "haemolyse",
+    "plasmolyse",
+    "become turgid"
+   ],
+   "answer": "1",
+   "solution": "Water enters by osmosis and, lacking a cell wall, the cell swells and bursts (haemolysis)."
+  },
+  {
+   "q": "Which process requires energy from ATP?",
+   "options": [
+    "Diffusion",
+    "Osmosis",
+    "Active transport",
+    "Plasmolysis"
+   ],
+   "answer": "2",
+   "solution": "Only active transport moves substances against the concentration gradient, using ATP and carrier proteins."
+  },
+  {
+   "q": "The surface area to volume ratio of a cube of side 3 cm is",
+   "options": [
+    "6:1",
+    "3:1",
+    "2:1",
+    "1:2"
+   ],
+   "answer": "2",
+   "solution": "\\( SA = 6 \\times 9 = 54 \\), \\( V = 27 \\); ratio = 54:27 = 2:1."
+  },
+  {
+   "q": "Cyanide stops the uptake of mineral ions by root hairs because it",
+   "options": [
+    "destroys the cell wall",
+    "inhibits respiration and ATP production",
+    "increases osmosis",
+    "dilutes the soil solution"
+   ],
+   "answer": "1",
+   "solution": "Active transport depends on ATP from respiration, which cyanide blocks."
+  },
+  {
+   "q": "Total magnification with a ×5 eyepiece and ×40 objective is",
+   "options": [
+    "45",
+    "200",
+    "8",
+    "400"
+   ],
+   "answer": "1",
+   "solution": "5 × 40 = 200."
+  },
+  {
+   "q": "The chloroplast pigment that traps light energy is",
+   "options": [
+    "haemoglobin",
+    "chlorophyll",
+    "carotene only",
+    "melanin"
+   ],
+   "answer": "1",
+   "solution": "Chlorophyll on the grana absorbs mainly red and blue light for photosynthesis."
+  },
+  {
+   "q": "Turgor pressure in plant cells is important because it",
+   "options": [
+    "kills bacteria",
+    "supports herbaceous stems and opens stomata",
+    "stores genetic material",
+    "synthesises proteins"
+   ],
+   "answer": "1",
+   "solution": "Turgid cells press against one another, keeping soft tissues firm and driving stomatal opening."
+  }
+ ]
+}

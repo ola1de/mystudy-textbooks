@@ -1,0 +1,236 @@
+{
+ "subject": "Biology",
+ "level": "SSS 3",
+ "slug": "evolution-adaptation",
+ "title": "Evolution and Adaptation",
+ "outline": [
+  "Define evolution and outline theories of the origin of life",
+  "Compare Lamarck's and Darwin's theories and describe modern (neo-Darwinian) evolution",
+  "Present the evidences of evolution: fossils, comparative anatomy, embryology, biochemistry",
+  "Explain natural selection, adaptive radiation and speciation",
+  "Describe structural, physiological and behavioural adaptations for survival",
+  "Discuss competition, tolerance and the survival of species"
+ ],
+ "modules": [
+  {
+   "title": "Theories of Evolution",
+   "html": "\n<h4>1. Meaning</h4>\n<p>Organic evolution is the gradual change in the genetic composition of populations over many generations, giving rise to new species from pre-existing ones.</p>\n<h4>2. Origin of Life</h4>\n<ul><li><b>Special creation</b> – life was created by a supreme being.</li>\n<li><b>Spontaneous generation (abiogenesis)</b> – life from non-living matter; disproved by Redi and Pasteur.</li>\n<li><b>Cosmozoic/panspermia</b> – life arrived from space.</li>\n<li><b>Chemical (biochemical) evolution</b> – Oparin and Haldane: simple gases in a reducing primitive atmosphere formed organic monomers, then polymers and coacervates, eventually the first cell. Miller and Urey (1953) supported this experimentally by producing amino acids from methane, ammonia, hydrogen and water vapour sparked with electricity.</li></ul>\n<h4>3. Lamarck (1809)</h4>\n<p>Lamarck proposed the law of use and disuse and the inheritance of acquired characteristics: the giraffe stretched its neck to reach high leaves and passed the longer neck to its offspring. The theory is rejected because acquired characters do not alter the DNA of gametes (Weismann’s mice-tail experiment).</p>\n<h4>4. Darwin and Wallace (1859)</h4>\n<p>Darwin’s theory of natural selection is built on observations and deductions:</p>\n<ol><li>Organisms produce far more offspring than can survive (over-production).</li>\n<li>Yet populations remain fairly constant — so there is a struggle for existence.</li>\n<li>Individuals of a species vary.</li>\n<li>Those with favourable variations are better fitted, survive and reproduce (survival of the fittest).</li>\n<li>Favourable variations are transmitted; over many generations the population changes and new species arise.</li></ol>\n<p><b>Neo-Darwinism</b> adds genetics: mutation and recombination supply variation, natural selection acts on it, and isolation (geographical, ecological, reproductive) leads to speciation.</p>\n",
+   "examples": [
+    {
+     "q": "Explain the long neck of the giraffe using Lamarck's and Darwin's theories.",
+     "a": "Lamarck: ancestral giraffes stretched their necks to reach high leaves; the acquired longer neck was inherited and lengthened over generations. Darwin: giraffes varied naturally in neck length; during scarcity those with longer necks reached more food, survived and reproduced, passing on the genes, so the average neck length increased. Only Darwin's version agrees with modern genetics."
+    },
+    {
+     "q": "How did industrial melanism in the peppered moth demonstrate natural selection?",
+     "a": "Before industrialisation, pale moths were camouflaged on lichen-covered trees and dark mutants were eaten by birds. Soot killed lichens and blackened bark, so dark moths became better camouflaged, survived predation and increased in frequency while pale moths declined — observable natural selection in a few decades."
+    }
+   ]
+  },
+  {
+   "title": "Evidences of Evolution",
+   "html": "\n<h4>1. Fossil Record (Palaeontology)</h4>\n<p>Fossils are the preserved remains or impressions of once-living organisms in sedimentary rock, amber, ice or tar. Deeper strata contain older, simpler forms; dating uses radioactive isotopes such as \\(^{14}C\\) and \\(^{40}K\\). The fossil series of the horse (<i>Eohippus</i> → <i>Mesohippus</i> → <i>Merychippus</i> → <i>Pliohippus</i> → <i>Equus</i>) shows increasing size, lengthening limbs and reduction from four toes to a single hoof. <i>Archaeopteryx</i> is a connecting link between reptiles and birds.</p>\n<h4>2. Comparative Anatomy</h4>\n<ul><li><b>Homologous structures</b> – same basic pentadactyl plan and embryonic origin but different functions (human arm, whale flipper, bat wing, horse foreleg); they indicate <b>divergent evolution</b> from a common ancestor.</li>\n<li><b>Analogous structures</b> – similar function but different origin (insect wing and bird wing); they indicate <b>convergent evolution</b>.</li>\n<li><b>Vestigial structures</b> – reduced and functionless remains such as the human appendix, coccyx, nictitating membrane and body hair, and the wings of the ostrich.</li></ul>\n<h4>3. Embryology, Biochemistry and Geography</h4>\n<p>Early vertebrate embryos are strikingly similar, all possessing gill pouches and a tail. All organisms use the same genetic code, DNA, ATP and similar enzymes; the closer two species are, the more similar their haemoglobin and cytochrome-c sequences and their serological reactions. Geographical distribution — marsupials in Australia, Darwin’s finches on the Galápagos — shows isolation followed by <b>adaptive radiation</b> into different niches.</p>\n",
+   "examples": [
+    {
+     "q": "Distinguish homologous from analogous structures with examples.",
+     "a": "Homologous structures share a common basic structure and ancestry but perform different functions — the forelimbs of man (grasping), bat (flight) and whale (swimming) all follow the pentadactyl plan; they show divergent evolution. Analogous structures perform the same function but differ in origin — an insect's wing (cuticle) and a bird's wing (bone and feather); they show convergent evolution."
+    },
+    {
+     "q": "Give two features of Archaeopteryx that make it a connecting link.",
+     "a": "Reptilian features: teeth in the jaws, a long bony tail and clawed digits on the wings. Avian features: feathers and wings. It therefore links reptiles with birds in the fossil record."
+    }
+   ]
+  },
+  {
+   "title": "Adaptation and Survival",
+   "html": "\n<h4>1. Meaning</h4>\n<p>Adaptation is any inherited structural, physiological or behavioural feature that increases an organism’s chance of survival and reproduction in its habitat.</p>\n<h4>2. Structural Adaptations</h4>\n<table class=\"tb-table\"><tr><th>Adaptation</th><th>Example</th><th>Advantage</th></tr>\n<tr><td>Beak and foot shape</td><td>Hawk, duck, woodpecker, finches</td><td>Suited to particular food and habitat</td></tr>\n<tr><td>Dentition</td><td>Carnassials in dog, ridged molars in cow</td><td>Efficient handling of flesh or grass</td></tr>\n<tr><td>Camouflage (cryptic colouring)</td><td>Chameleon, stick insect, praying mantis</td><td>Escape predators or ambush prey</td></tr>\n<tr><td>Mimicry</td><td>Hoverfly resembling wasp</td><td>Predators avoid the harmless mimic</td></tr>\n<tr><td>Warning colouration</td><td>Wasp, ladybird</td><td>Advertises distastefulness or sting</td></tr>\n<tr><td>Water conservation</td><td>Cactus spines, camel</td><td>Survival in arid habitats</td></tr></table>\n<h4>3. Physiological and Behavioural Adaptations</h4>\n<ul><li>Production of very concentrated urine in the desert rat; tolerance of high salt in mangrove plants.</li>\n<li>Hibernation, aestivation, migration and nocturnal habit to avoid unfavourable conditions.</li>\n<li>Territoriality, courtship, parental care, camouflage behaviour and social organisation in bees and termites.</li></ul>\n<h4>4. Competition, Tolerance and Survival</h4>\n<p>Organisms compete intraspecifically and interspecifically for food, light, water, space and mates. Competition may be reduced by niche differentiation, territorial behaviour, migration or feeding at different times. Each species has a <b>range of tolerance</b> for factors such as temperature, salinity and pH, with an optimum zone; beyond the limits of tolerance the species cannot survive. Species survive by producing many offspring, parental care, protective devices, resistant stages (spores, seeds, cysts), adaptability and genetic variation.</p>\n",
+   "examples": [
+    {
+     "q": "Explain how Darwin's finches illustrate adaptive radiation.",
+     "a": "A single ancestral finch species reached the Galápagos Islands and its descendants spread into different islands and niches. Natural selection favoured different beak shapes for seed-crushing, insect-probing or cactus-feeding, and reproductive isolation eventually produced many distinct species from one ancestor — adaptive radiation."
+    },
+    {
+     "q": "State three ways in which a desert animal conserves water.",
+     "a": "(i) It produces very concentrated urine with a long loop of Henle and dry faeces. (ii) It is nocturnal and burrows by day, avoiding heat and evaporation. (iii) It obtains metabolic water from the oxidation of food and has few or no sweat glands."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The theory of inheritance of acquired characteristics was proposed by",
+   "options": [
+    "Darwin",
+    "Lamarck",
+    "Mendel",
+    "Wallace"
+   ],
+   "answer": "1",
+   "solution": "Lamarck's law of use and disuse is now rejected by genetics."
+  },
+  {
+   "q": "Natural selection was proposed by Charles Darwin in his book",
+   "options": [
+    "Principles of Genetics",
+    "On the Origin of Species",
+    "Systema Naturae",
+    "Philosophie Zoologique"
+   ],
+   "answer": "1",
+   "solution": "Published in 1859, jointly credited with Alfred Russel Wallace."
+  },
+  {
+   "q": "Which observation is central to Darwin's theory?",
+   "options": [
+    "Organisms never vary",
+    "Populations produce more offspring than can survive",
+    "Acquired characters are inherited",
+    "Species are unchangeable"
+   ],
+   "answer": "1",
+   "solution": "Over-production leads to a struggle for existence and hence selection."
+  },
+  {
+   "q": "The Miller and Urey experiment supported the theory of",
+   "options": [
+    "special creation",
+    "chemical evolution",
+    "panspermia",
+    "spontaneous generation of large animals"
+   ],
+   "answer": "1",
+   "solution": "They produced amino acids from a simulated primitive atmosphere."
+  },
+  {
+   "q": "Preserved remains of ancient organisms in rock are called",
+   "options": [
+    "fossils",
+    "vestiges",
+    "homologues",
+    "analogues"
+   ],
+   "answer": "0",
+   "solution": "Fossils provide direct historical evidence of evolution."
+  },
+  {
+   "q": "The forelimbs of man, bat and whale are examples of",
+   "options": [
+    "analogous structures",
+    "homologous structures",
+    "vestigial structures",
+    "identical structures"
+   ],
+   "answer": "1",
+   "solution": "They share the pentadactyl plan but perform different functions."
+  },
+  {
+   "q": "The wing of an insect and the wing of a bird are",
+   "options": [
+    "homologous",
+    "analogous",
+    "vestigial",
+    "fossil"
+   ],
+   "answer": "1",
+   "solution": "Similar function, different origin — evidence of convergent evolution."
+  },
+  {
+   "q": "Which of the following is a vestigial structure in man?",
+   "options": [
+    "Kidney",
+    "Appendix",
+    "Femur",
+    "Lung"
+   ],
+   "answer": "1",
+   "solution": "The appendix is a reduced remnant of the caecum of herbivorous ancestors."
+  },
+  {
+   "q": "Archaeopteryx is regarded as a link between",
+   "options": [
+    "fish and amphibians",
+    "reptiles and birds",
+    "reptiles and mammals",
+    "amphibians and reptiles"
+   ],
+   "answer": "1",
+   "solution": "It had feathers and wings with teeth, claws and a bony tail."
+  },
+  {
+   "q": "The similarity of early vertebrate embryos is evidence from",
+   "options": [
+    "palaeontology",
+    "comparative embryology",
+    "biochemistry",
+    "geographical distribution"
+   ],
+   "answer": "1",
+   "solution": "Shared embryonic features such as gill pouches suggest common ancestry."
+  },
+  {
+   "q": "Formation of many species from one ancestral stock in different niches is",
+   "options": [
+    "convergent evolution",
+    "adaptive radiation",
+    "mimicry",
+    "hybridisation"
+   ],
+   "answer": "1",
+   "solution": "Darwin's finches are the classic example."
+  },
+  {
+   "q": "Industrial melanism in the peppered moth demonstrates",
+   "options": [
+    "Lamarckism",
+    "natural selection",
+    "artificial selection",
+    "mutation pressure only"
+   ],
+   "answer": "1",
+   "solution": "Predation by birds selected the better-camouflaged form as the environment changed."
+  },
+  {
+   "q": "A harmless hoverfly resembling a stinging wasp illustrates",
+   "options": [
+    "camouflage",
+    "mimicry",
+    "warning colouration",
+    "hibernation"
+   ],
+   "answer": "1",
+   "solution": "Predators avoid the mimic because it resembles a dangerous model."
+  },
+  {
+   "q": "Aestivation is a means of surviving",
+   "options": [
+    "cold winters",
+    "hot dry periods",
+    "flooding",
+    "predation"
+   ],
+   "answer": "1",
+   "solution": "Animals become dormant during heat and drought, as lungfish do in dry mud."
+  },
+  {
+   "q": "Speciation is most likely to follow",
+   "options": [
+    "free interbreeding",
+    "isolation of populations",
+    "identical environments",
+    "asexual reproduction only"
+   ],
+   "answer": "1",
+   "solution": "Geographical or reproductive isolation prevents gene flow, allowing divergence."
+  },
+  {
+   "q": "The range of an environmental factor within which a species can survive is its",
+   "options": [
+    "niche",
+    "carrying capacity",
+    "limit of tolerance",
+    "biomass"
+   ],
+   "answer": "2",
+   "solution": "Beyond the upper and lower limits of tolerance the organism dies."
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "subject": "Biology",
+ "level": "SSS 2",
+ "slug": "transport-support",
+ "title": "Transport and Support Systems",
+ "outline": [
+  "Explain the need for transport systems and compare materials transported in plants and animals",
+  "Describe absorption of water, transpiration, root pressure and translocation",
+  "Describe the composition and functions of blood and the mammalian circulatory system",
+  "Explain blood groups, clotting and immunity in outline",
+  "Compare hydrostatic skeletons, exoskeletons and endoskeletons",
+  "Describe the mammalian skeleton, joints, muscles and mechanisms of support in plants"
+ ],
+ "modules": [
+  {
+   "title": "Transport in Plants",
+   "html": "\n<h4>1. Need for Transport</h4>\n<p>Unicellular organisms exchange materials directly by diffusion because of their large surface area to volume ratio. Larger, multicellular organisms have a small ratio and greater distances between cells and the environment, so they require specialised transport systems.</p>\n<h4>2. Absorption and Ascent of Water</h4>\n<p>Water enters root hairs by osmosis and mineral ions largely by active transport. Water then travels across the cortex through the <b>apoplast</b> (cell walls) and <b>symplast</b> (cytoplasm) pathways to the xylem. Its rise up the stem is explained by:</p>\n<ol><li><b>Transpiration pull – cohesion–tension theory</b>: evaporation from the mesophyll creates tension; cohesive water molecules (hydrogen bonding) are pulled up as a continuous column, adhering to the xylem walls.</li>\n<li><b>Root pressure</b>: active pumping of ions into the xylem lowers water potential and pushes water upward; it causes guttation and bleeding of cut stems.</li>\n<li><b>Capillarity</b>: a minor contribution from the narrow xylem vessels.</li></ol>\n<h4>3. Transpiration</h4>\n<p>Transpiration is the loss of water vapour from aerial parts, mainly through stomata (about 90 %), with smaller losses through the cuticle and lenticels. It is increased by high temperature, low humidity, wind and bright light (which opens stomata), and reduced by the opposite conditions. It is measured with a <b>potometer</b>.</p>\n<p>Importance: cools the plant, drives the ascent of water and mineral salts, and maintains turgidity. Excessive transpiration causes wilting; xerophytes reduce it with sunken stomata, thick cuticles, reduced leaves and succulent tissues.</p>\n<h4>4. Vascular Tissues and Translocation</h4>\n<table class=\"tb-table\"><tr><th>Feature</th><th>Xylem</th><th>Phloem</th></tr>\n<tr><td>Cells</td><td>Vessels, tracheids, fibres (dead, lignified)</td><td>Sieve tubes and companion cells (living)</td></tr>\n<tr><td>Transports</td><td>Water and mineral salts</td><td>Manufactured food (sucrose, amino acids)</td></tr>\n<tr><td>Direction</td><td>Upward only</td><td>Both directions (source to sink)</td></tr>\n<tr><td>Energy</td><td>Passive</td><td>Active (mass flow, needs ATP)</td></tr></table>\n<p>Ringing (girdling) experiments — removing a ring of bark — cause swelling above the ring, showing that food is translocated downwards in the phloem while water continues to rise in the xylem.</p>\n",
+   "examples": [
+    {
+     "q": "A potometer bubble moved 60 mm in 5 minutes in a tube of internal radius 0.5 mm. Calculate the rate of water uptake.",
+     "a": "Volume \\( = \\pi r^2 l = 3.142 \\times (0.5)^2 \\times 60 = 47.1\\,\\text{mm}^3 \\) in 5 minutes, giving a rate of \\( 47.1/5 = 9.4\\,\\text{mm}^3\\,\\text{min}^{-1} \\)."
+    },
+    {
+     "q": "Why does a plant wilt on a hot afternoon even when the soil is moist?",
+     "a": "Transpiration exceeds the rate of water absorption by the roots, so cells lose turgor faster than water can be replaced. The leaves and soft stems become flaccid and droop. In the cooler evening absorption catches up and turgor — and shape — are restored."
+    }
+   ]
+  },
+  {
+   "title": "Transport in Animals: Blood and Circulation",
+   "html": "\n<h4>1. Composition of Blood</h4>\n<table class=\"tb-table\"><tr><th>Component</th><th>Description</th><th>Function</th></tr>\n<tr><td>Plasma (55 %)</td><td>Water with proteins, salts, food, hormones, wastes</td><td>Transport medium, distributes heat</td></tr>\n<tr><td>Erythrocytes</td><td>Biconcave, no nucleus, haemoglobin</td><td>Carry oxygen as oxyhaemoglobin</td></tr>\n<tr><td>Leucocytes</td><td>Nucleated; phagocytes and lymphocytes</td><td>Defence: engulf germs, produce antibodies</td></tr>\n<tr><td>Platelets</td><td>Cell fragments</td><td>Initiate blood clotting</td></tr></table>\n<h4>2. Clotting</h4>\n<p>Damaged tissue and platelets release thromboplastin, which (with calcium ions and vitamin K) converts prothrombin to thrombin; thrombin converts soluble fibrinogen into insoluble fibrin threads that trap cells and form a clot. Clotting prevents blood loss and entry of pathogens. Haemophilia is the inherited inability to clot normally.</p>\n<h4>3. Blood Groups and Transfusion</h4>\n<table class=\"tb-table\"><tr><th>Group</th><th>Antigen</th><th>Antibody in plasma</th><th>Can receive from</th></tr>\n<tr><td>A</td><td>A</td><td>anti-B</td><td>A, O</td></tr>\n<tr><td>B</td><td>B</td><td>anti-A</td><td>B, O</td></tr>\n<tr><td>AB</td><td>A and B</td><td>none</td><td>All (universal recipient)</td></tr>\n<tr><td>O</td><td>none</td><td>anti-A and anti-B</td><td>O only (universal donor)</td></tr></table>\n<p>The rhesus factor matters in pregnancy: a rhesus-negative mother carrying a rhesus-positive fetus may form antibodies that attack the red cells of a later rhesus-positive fetus (haemolytic disease of the newborn).</p>\n<h4>4. The Heart and Circulation</h4>\n<p>The mammalian heart is a four-chambered double pump. <b>Pulmonary circulation</b>: right ventricle → pulmonary artery → lungs → pulmonary vein → left atrium. <b>Systemic circulation</b>: left ventricle → aorta → body → vena cava → right atrium. This double circulation keeps oxygenated and deoxygenated blood separate and maintains high pressure to the body.</p>\n<table class=\"tb-table\"><tr><th>Artery</th><th>Vein</th><th>Capillary</th></tr>\n<tr><td>Thick muscular elastic wall</td><td>Thinner wall</td><td>One cell thick</td></tr>\n<tr><td>Narrow lumen, no valves (except at heart)</td><td>Wide lumen, valves present</td><td>Very narrow lumen</td></tr>\n<tr><td>Blood at high pressure, in spurts</td><td>Low pressure, smooth flow</td><td>Exchange of materials</td></tr>\n<tr><td>Carries blood away from heart</td><td>Carries blood to the heart</td><td>Links arterioles and venules</td></tr></table>\n<p>Lymph is tissue fluid that drains into lymph vessels, filters through lymph nodes and returns to the blood; it carries fats from the intestine and plays a role in immunity.</p>\n",
+   "examples": [
+    {
+     "q": "Why is the wall of the left ventricle thicker than that of the right?",
+     "a": "The left ventricle pumps blood through the aorta to the whole body against high resistance, so it needs more cardiac muscle to generate a high pressure. The right ventricle pumps only to the nearby lungs at a much lower pressure."
+    },
+    {
+     "q": "Explain why a person of group O is called a universal donor.",
+     "a": "Group O red cells carry neither A nor B antigen, so they are not agglutinated by anti-A or anti-B antibodies in a recipient's plasma. Their blood can therefore be given, in small volumes, to recipients of any ABO group."
+    }
+   ]
+  },
+  {
+   "title": "Support and Movement",
+   "html": "\n<h4>1. Functions of Skeletons</h4>\n<p>Support, protection of delicate organs, locomotion (levers for muscles), shape and, in vertebrates, manufacture of blood cells and storage of mineral salts.</p>\n<h4>2. Types of Skeleton</h4>\n<ul><li><b>Hydrostatic skeleton</b> – fluid under pressure in a closed cavity, e.g. earthworm coelom; circular and longitudinal muscles act antagonistically for movement.</li>\n<li><b>Exoskeleton</b> – hard chitinous cuticle outside the body of arthropods; protects and prevents water loss but must be moulted (ecdysis) for growth.</li>\n<li><b>Endoskeleton</b> – internal bone and cartilage of vertebrates; grows with the body and allows large size.</li></ul>\n<h4>3. The Mammalian Skeleton</h4>\n<p><b>Axial skeleton</b>: skull, vertebral column, ribs, sternum. <b>Appendicular skeleton</b>: pectoral and pelvic girdles with the limb bones.</p>\n<table class=\"tb-table\"><tr><th>Vertebra</th><th>Distinguishing feature</th></tr>\n<tr><td>Atlas (1st cervical)</td><td>Ring-like, wide neural canal, no centrum; nodding of head</td></tr>\n<tr><td>Axis (2nd cervical)</td><td>Odontoid process; rotation of head</td></tr>\n<tr><td>Cervical</td><td>Vertebrarterial canals, short neural spine</td></tr>\n<tr><td>Thoracic</td><td>Long neural spine, facets for ribs</td></tr>\n<tr><td>Lumbar</td><td>Large centrum, transverse processes for strong muscles</td></tr>\n<tr><td>Sacral</td><td>Fused, joins pelvic girdle</td></tr>\n<tr><td>Caudal</td><td>Small, reduced processes</td></tr></table>\n<h4>4. Joints and Muscles</h4>\n<ul><li><b>Immovable (fused)</b>: sutures of the skull.</li><li><b>Slightly movable</b>: between vertebrae, cushioned by cartilage discs.</li><li><b>Freely movable (synovial)</b>: ball-and-socket (hip, shoulder — movement in all planes) and hinge (elbow, knee — movement in one plane). Synovial fluid lubricates; ligaments join bone to bone; tendons join muscle to bone.</li></ul>\n<p>Skeletal muscles work in <b>antagonistic pairs</b>: contraction of the biceps flexes the arm while the triceps relaxes; the triceps contracts to extend it. Muscles can only pull, never push.</p>\n<h4>5. Support in Plants</h4>\n<p>Herbaceous plants rely on turgor pressure and collenchyma; woody plants depend on lignified xylem, sclerenchyma fibres and secondary thickening. Additional support comes from buttress roots, prop roots (maize), stilt roots (mangrove), tendrils and twining stems in climbers.</p>\n",
+   "examples": [
+    {
+     "q": "Why must an insect moult in order to grow?",
+     "a": "Its exoskeleton of chitin is rigid and cannot expand. At intervals the insect secretes enzymes that digest the inner layer, splits and sheds the old cuticle (ecdysis), swells its body with air or water and then hardens a new, larger cuticle."
+    },
+    {
+     "q": "Describe how the arm is straightened after being bent.",
+     "a": "The triceps (extensor) contracts while the biceps (flexor) relaxes. The triceps tendon pulls the ulna at the elbow hinge joint, and the forearm acts as a lever with the elbow as fulcrum, so the arm extends."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Water is absorbed by root hairs mainly by",
+   "options": [
+    "active transport",
+    "osmosis",
+    "transpiration",
+    "translocation"
+   ],
+   "answer": "1",
+   "solution": "Soil water has a higher water potential than the cell sap, so water enters by osmosis."
+  },
+  {
+   "q": "The theory that best explains the ascent of water in tall trees is",
+   "options": [
+    "root pressure",
+    "capillarity",
+    "cohesion-tension",
+    "mass flow"
+   ],
+   "answer": "2",
+   "solution": "Transpiration pull with cohesive and adhesive water forces can raise water more than 100 m."
+  },
+  {
+   "q": "Transpiration occurs mainly through the",
+   "options": [
+    "lenticels",
+    "cuticle",
+    "stomata",
+    "root hairs"
+   ],
+   "answer": "2",
+   "solution": "About 90 % of water vapour loss is through stomatal pores."
+  },
+  {
+   "q": "A potometer measures",
+   "options": [
+    "rate of photosynthesis",
+    "rate of water uptake",
+    "light intensity",
+    "humidity"
+   ],
+   "answer": "1",
+   "solution": "It follows the movement of an air bubble to estimate water uptake, approximating transpiration."
+  },
+  {
+   "q": "Manufactured food is transported in the",
+   "options": [
+    "xylem vessels",
+    "phloem sieve tubes",
+    "tracheids",
+    "cortex"
+   ],
+   "answer": "1",
+   "solution": "Sucrose and amino acids move in living sieve tubes assisted by companion cells."
+  },
+  {
+   "q": "Xylem vessels are especially suited to conduction because they are",
+   "options": [
+    "living and nucleated",
+    "dead, hollow and lignified",
+    "filled with cytoplasm",
+    "permeable at every point"
+   ],
+   "answer": "1",
+   "solution": "Dead, hollow lignified tubes offer little resistance and give mechanical support."
+  },
+  {
+   "q": "Which blood cell lacks a nucleus in mammals?",
+   "options": [
+    "Lymphocyte",
+    "Erythrocyte",
+    "Phagocyte",
+    "Monocyte"
+   ],
+   "answer": "1",
+   "solution": "The mature red blood cell loses its nucleus, creating more room for haemoglobin."
+  },
+  {
+   "q": "The soluble protein converted to insoluble threads during clotting is",
+   "options": [
+    "thrombin",
+    "fibrinogen",
+    "prothrombin",
+    "albumin"
+   ],
+   "answer": "1",
+   "solution": "Thrombin converts fibrinogen into fibrin threads that form the clot mesh."
+  },
+  {
+   "q": "A person of blood group AB is called a universal recipient because the plasma has",
+   "options": [
+    "both antibodies",
+    "no antibodies",
+    "only anti-A",
+    "only anti-B"
+   ],
+   "answer": "1",
+   "solution": "With no anti-A or anti-B antibodies, donated cells of any ABO group are not agglutinated."
+  },
+  {
+   "q": "Blood is carried from the lungs to the heart by the",
+   "options": [
+    "pulmonary artery",
+    "pulmonary vein",
+    "aorta",
+    "vena cava"
+   ],
+   "answer": "1",
+   "solution": "The pulmonary vein is unusual in carrying oxygenated blood towards the heart."
+  },
+  {
+   "q": "Valves are present in veins in order to",
+   "options": [
+    "increase pressure",
+    "prevent backflow of blood",
+    "carry oxygen",
+    "filter the blood"
+   ],
+   "answer": "1",
+   "solution": "Blood in veins is at low pressure, so pocket valves stop it flowing backwards."
+  },
+  {
+   "q": "Double circulation means blood passes through the heart",
+   "options": [
+    "once per circuit",
+    "twice per complete circuit",
+    "only during exercise",
+    "in one chamber"
+   ],
+   "answer": "1",
+   "solution": "Blood goes heart→lungs→heart→body→heart, keeping oxygenated and deoxygenated blood separate."
+  },
+  {
+   "q": "The earthworm is supported by a",
+   "options": [
+    "exoskeleton",
+    "hydrostatic skeleton",
+    "endoskeleton",
+    "cartilaginous skeleton"
+   ],
+   "answer": "1",
+   "solution": "Coelomic fluid under pressure works with circular and longitudinal muscles."
+  },
+  {
+   "q": "The vertebra with an odontoid process is the",
+   "options": [
+    "atlas",
+    "axis",
+    "lumbar",
+    "thoracic"
+   ],
+   "answer": "1",
+   "solution": "The odontoid peg of the axis fits into the atlas, allowing the head to rotate."
+  },
+  {
+   "q": "The elbow is an example of a",
+   "options": [
+    "ball-and-socket joint",
+    "hinge joint",
+    "gliding joint",
+    "immovable joint"
+   ],
+   "answer": "1",
+   "solution": "A hinge joint permits movement in one plane only, like a door hinge."
+  },
+  {
+   "q": "Muscles that work in opposition to each other are described as",
+   "options": [
+    "synergistic",
+    "antagonistic",
+    "voluntary",
+    "involuntary"
+   ],
+   "answer": "1",
+   "solution": "When one of the pair contracts the other relaxes, e.g. biceps and triceps."
+  }
+ ]
+}

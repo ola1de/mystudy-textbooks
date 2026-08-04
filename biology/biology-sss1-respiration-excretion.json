@@ -1,0 +1,236 @@
+{
+ "subject": "Biology",
+ "level": "SSS 1",
+ "slug": "respiration-excretion",
+ "title": "Respiration and Excretion",
+ "outline": [
+  "Distinguish between breathing (gaseous exchange) and tissue respiration",
+  "Describe glycolysis, the Krebs cycle and the electron transport chain",
+  "Compare aerobic and anaerobic respiration and calculate ATP yields",
+  "State the features of efficient respiratory surfaces and describe respiratory organs",
+  "Define excretion and identify excretory products of plants and animals",
+  "Describe the structure and function of the mammalian kidney, skin, liver and lungs"
+ ],
+ "modules": [
+  {
+   "title": "Cellular Respiration",
+   "html": "\n<h4>1. Definition</h4>\n<p>Respiration is the stepwise enzymatic oxidation of food substances within living cells to release energy stored as ATP. It must be distinguished from <i>breathing</i>, which is the physical movement of air in and out of respiratory organs.</p>\n<h4>2. Aerobic Respiration</h4>\n$$C_6H_{12}O_6 + 6O_2 \\rightarrow 6CO_2 + 6H_2O + \\text{energy}\\;(\\approx 2880\\,\\text{kJ mol}^{-1})$$\n<ol>\n<li><b>Glycolysis</b> (cytoplasm, anaerobic step): one glucose → two molecules of pyruvic acid, with a net gain of 2 ATP and 2 NADH₂.</li>\n<li><b>Link reaction</b> (mitochondrial matrix): pyruvate is decarboxylated and oxidised to acetyl-CoA, releasing \\(CO_2\\).</li>\n<li><b>Krebs (citric acid/TCA) cycle</b> (matrix): acetyl-CoA combines with oxaloacetate to give citrate; successive decarboxylations and dehydrogenations release \\(CO_2\\) and reduced coenzymes.</li>\n<li><b>Electron transport chain / oxidative phosphorylation</b> (cristae): hydrogen electrons pass along cytochromes, pumping protons and generating most of the ATP; oxygen is the final electron acceptor, forming water.</li>\n</ol>\n<p>Total yield per glucose is about 36–38 ATP.</p>\n<h4>3. Anaerobic Respiration</h4>\n<p>In yeast (alcoholic fermentation):</p>\n$$C_6H_{12}O_6 \\rightarrow 2C_2H_5OH + 2CO_2 + \\text{energy}\\;(\\approx 118\\,\\text{kJ})$$\n<p>In muscle (lactic fermentation):</p>\n$$C_6H_{12}O_6 \\rightarrow 2CH_3CH(OH)COOH + \\text{energy}$$\n<p>Only 2 ATP are produced. Accumulated lactic acid causes fatigue and creates an <b>oxygen debt</b>, repaid by deep breathing after exercise. Fermentation is applied in baking, brewing and the production of yoghurt and local drinks such as <i>ogogoro</i> and <i>burukutu</i>.</p>\n<table class=\"tb-table\"><tr><th>Feature</th><th>Aerobic</th><th>Anaerobic</th></tr>\n<tr><td>Oxygen</td><td>Required</td><td>Not required</td></tr>\n<tr><td>Products</td><td>CO₂ + H₂O</td><td>Alcohol + CO₂ or lactic acid</td></tr>\n<tr><td>Energy</td><td>~2880 kJ (36–38 ATP)</td><td>~118 kJ (2 ATP)</td></tr>\n<tr><td>Breakdown</td><td>Complete</td><td>Incomplete</td></tr></table>\n",
+   "examples": [
+    {
+     "q": "Why does an athlete continue to breathe deeply after a race?",
+     "a": "During intense exercise the muscles respire anaerobically, forming lactic acid and incurring an oxygen debt. The extra oxygen taken in afterwards oxidises the accumulated lactic acid to carbon dioxide and water (or converts it back to glycogen in the liver), so deep breathing continues until the debt is repaid."
+    },
+    {
+     "q": "Compare the energy released from one mole of glucose in aerobic and anaerobic respiration and explain the difference.",
+     "a": "Aerobic respiration releases about 2880 kJ (36–38 ATP) while anaerobic respiration in yeast releases only about 118 kJ (2 ATP). In anaerobic conditions glucose is only partially broken down; much energy remains locked in ethanol or lactic acid because there is no oxygen to accept electrons in the transport chain."
+    }
+   ]
+  },
+  {
+   "title": "Gaseous Exchange and Respiratory Surfaces",
+   "html": "\n<h4>1. Features of an Efficient Respiratory Surface</h4>\n<ul><li>Large surface area relative to body volume.</li><li>Thin, usually one cell thick, for rapid diffusion.</li><li>Moist, so gases dissolve before diffusing.</li><li>Well supplied with blood (except in insects) to maintain a steep concentration gradient.</li><li>Permeable and, in large animals, protected and ventilated.</li></ul>\n<h4>2. Respiratory Organs in Different Organisms</h4>\n<table class=\"tb-table\"><tr><th>Organism</th><th>Structure</th></tr>\n<tr><td><i>Amoeba</i>, <i>Paramecium</i></td><td>General body surface (plasma membrane)</td></tr>\n<tr><td>Earthworm</td><td>Moist skin with dense capillaries</td></tr>\n<tr><td>Insect (grasshopper)</td><td>Spiracles, tracheae and tracheoles carrying air directly to tissues</td></tr>\n<tr><td>Fish</td><td>Gills with numerous lamellae and counter-current flow</td></tr>\n<tr><td>Frog</td><td>Skin, buccal cavity and simple lungs</td></tr>\n<tr><td>Mammal</td><td>Lungs with millions of alveoli</td></tr>\n<tr><td>Flowering plant</td><td>Stomata and lenticels</td></tr></table>\n<h4>3. Mechanism of Breathing in Man</h4>\n<p><b>Inspiration:</b> external intercostal muscles contract, raising the ribs upwards and outwards; the diaphragm contracts and flattens; thoracic volume increases and pressure falls below atmospheric, so air rushes in.<br/><b>Expiration:</b> these muscles relax, the ribs fall, the diaphragm domes upward, thoracic volume decreases, pressure rises and air is forced out.</p>\n<table class=\"tb-table\"><tr><th>Gas</th><th>Inspired air</th><th>Expired air</th></tr>\n<tr><td>Oxygen</td><td>21 %</td><td>16 %</td></tr>\n<tr><td>Carbon dioxide</td><td>0.04 %</td><td>4 %</td></tr>\n<tr><td>Nitrogen</td><td>78 %</td><td>78 %</td></tr>\n<tr><td>Water vapour</td><td>Variable</td><td>Saturated</td></tr></table>\n",
+   "examples": [
+    {
+     "q": "Explain why the tracheal system limits the body size of insects.",
+     "a": "Insects have no respiratory pigment; oxygen reaches the tissues only by diffusion along the tracheoles. Diffusion is efficient only over short distances, so a very large insect body could not be supplied with enough oxygen at its core, which limits insect size."
+    },
+    {
+     "q": "Why is the alveolus described as an ideal respiratory surface?",
+     "a": "Each alveolus has a wall one cell thick, a moist inner lining, a dense capillary network maintaining a steep gradient and, collectively, about 70 m² of surface area in an adult; ventilation constantly renews the air."
+    }
+   ]
+  },
+  {
+   "title": "Excretion and Osmoregulation",
+   "html": "\n<h4>1. Definitions</h4>\n<p><b>Excretion</b> is the removal of toxic metabolic waste products from the body. It differs from <b>egestion</b>, which is the removal of undigested food that never entered the body cells, and from <b>secretion</b>, which is the release of useful substances such as enzymes and hormones.</p>\n<h4>2. Excretory Products</h4>\n<table class=\"tb-table\"><tr><th>Organism/Organ</th><th>Products</th></tr>\n<tr><td>Plants</td><td>Oxygen, carbon dioxide, water, tannins, latex, alkaloids, resins, gums</td></tr>\n<tr><td><i>Amoeba</i></td><td>CO₂, ammonia and water via body surface and contractile vacuole</td></tr>\n<tr><td>Earthworm</td><td>Urea and water through nephridia</td></tr>\n<tr><td>Insect</td><td>Uric acid via Malpighian tubules</td></tr>\n<tr><td>Mammalian kidney</td><td>Urea, excess water and salts (urine)</td></tr>\n<tr><td>Skin</td><td>Water, salts, small amounts of urea (sweat)</td></tr>\n<tr><td>Lungs</td><td>Carbon dioxide and water vapour</td></tr>\n<tr><td>Liver</td><td>Bile pigments from broken-down haemoglobin; forms urea by deamination</td></tr></table>\n<h4>3. The Mammalian Kidney</h4>\n<p>Each kidney has a cortex, medulla and pelvis and contains about a million nephrons. A nephron consists of the Bowman’s capsule enclosing a glomerulus, the proximal convoluted tubule, the loop of Henle, the distal convoluted tubule and the collecting duct.</p>\n<ol><li><b>Ultrafiltration</b>: high pressure in the glomerulus (afferent arteriole wider than efferent) forces water, glucose, amino acids, salts and urea into the capsule; blood cells and plasma proteins are retained.</li>\n<li><b>Selective reabsorption</b>: all glucose and amino acids, most water and needed salts are reabsorbed, largely by active transport in the proximal tubule.</li>\n<li><b>Osmoregulation</b>: ADH from the posterior pituitary increases the permeability of the collecting duct, so more water is reabsorbed and concentrated urine is produced when the body is dehydrated.</li></ol>\n<p>Urine typically contains water, urea, uric acid, creatinine and mineral salts. Glucose in urine suggests diabetes mellitus; protein in urine suggests damaged glomeruli.</p>\n<h4>4. Homeostasis</h4>\n<p>Homeostasis is the maintenance of a constant internal environment — temperature, water and salt balance, blood glucose and pH — largely by negative feedback involving the kidney, liver, skin, pancreas and hypothalamus.</p>\n",
+   "examples": [
+    {
+     "q": "Why is glucose present in the glomerular filtrate but absent from normal urine?",
+     "a": "Glucose is a small molecule and passes freely during ultrafiltration, but it is entirely reabsorbed by active transport in the proximal convoluted tubule. It appears in urine only when blood glucose exceeds the renal threshold, as in diabetes mellitus."
+    },
+    {
+     "q": "On a hot day a person produces small amounts of concentrated urine. Explain.",
+     "a": "Sweating causes water loss, raising blood osmotic pressure. Osmoreceptors in the hypothalamus trigger release of ADH, which makes the collecting ducts more permeable so more water is reabsorbed into the blood; the resulting urine is small in volume and concentrated."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Glycolysis takes place in the",
+   "options": [
+    "mitochondrial matrix",
+    "cytoplasm",
+    "nucleus",
+    "chloroplast"
+   ],
+   "answer": "1",
+   "solution": "The conversion of glucose to pyruvate occurs in the cytoplasm and needs no oxygen."
+  },
+  {
+   "q": "The end product of glycolysis is",
+   "options": [
+    "lactic acid",
+    "acetyl-CoA",
+    "pyruvic acid",
+    "citric acid"
+   ],
+   "answer": "2",
+   "solution": "Each glucose gives two molecules of pyruvic acid."
+  },
+  {
+   "q": "The Krebs cycle occurs in the",
+   "options": [
+    "cytoplasm",
+    "mitochondrial matrix",
+    "cristae",
+    "ribosome"
+   ],
+   "answer": "1",
+   "solution": "The citric acid cycle enzymes are located in the matrix of the mitochondrion."
+  },
+  {
+   "q": "The final electron acceptor in aerobic respiration is",
+   "options": [
+    "carbon dioxide",
+    "NAD",
+    "oxygen",
+    "water"
+   ],
+   "answer": "2",
+   "solution": "Oxygen accepts electrons and protons at the end of the chain to form water."
+  },
+  {
+   "q": "Approximately how many ATP molecules are produced per glucose in aerobic respiration?",
+   "options": [
+    "2",
+    "4",
+    "12",
+    "38"
+   ],
+   "answer": "3",
+   "solution": "About 36–38 ATP are formed, most from oxidative phosphorylation."
+  },
+  {
+   "q": "Anaerobic respiration in yeast produces",
+   "options": [
+    "lactic acid and water",
+    "ethanol and carbon dioxide",
+    "urea",
+    "oxygen"
+   ],
+   "answer": "1",
+   "solution": "Alcoholic fermentation yields ethanol and CO₂, used in brewing and baking."
+  },
+  {
+   "q": "Oxygen debt in muscles is caused by accumulation of",
+   "options": [
+    "ethanol",
+    "lactic acid",
+    "urea",
+    "glycogen"
+   ],
+   "answer": "1",
+   "solution": "Anaerobic breakdown of glucose in muscle forms lactic acid which must later be oxidised."
+  },
+  {
+   "q": "Which is NOT a feature of an efficient respiratory surface?",
+   "options": [
+    "Thin",
+    "Moist",
+    "Thick and dry",
+    "Large surface area"
+   ],
+   "answer": "2",
+   "solution": "A thick, dry surface would slow diffusion badly."
+  },
+  {
+   "q": "Gaseous exchange in insects takes place through",
+   "options": [
+    "gills",
+    "lungs",
+    "tracheae and spiracles",
+    "moist skin"
+   ],
+   "answer": "2",
+   "solution": "Air passes through spiracles into tracheae and tracheoles that reach the tissues directly."
+  },
+  {
+   "q": "During inspiration in man, the diaphragm",
+   "options": [
+    "relaxes and domes upward",
+    "contracts and flattens",
+    "remains unchanged",
+    "moves sideways"
+   ],
+   "answer": "1",
+   "solution": "Contraction flattens the diaphragm, increasing thoracic volume and lowering pressure."
+  },
+  {
+   "q": "Expired air contains about",
+   "options": [
+    "21 % oxygen",
+    "16 % oxygen",
+    "0.04 % carbon dioxide",
+    "no nitrogen"
+   ],
+   "answer": "1",
+   "solution": "Oxygen falls from 21 % to about 16 % while CO₂ rises to about 4 %."
+  },
+  {
+   "q": "The removal of undigested food from the gut is called",
+   "options": [
+    "excretion",
+    "secretion",
+    "egestion",
+    "osmoregulation"
+   ],
+   "answer": "2",
+   "solution": "Faeces never entered the body cells, so its removal is egestion, not excretion."
+  },
+  {
+   "q": "Excretion in insects is carried out by",
+   "options": [
+    "nephridia",
+    "Malpighian tubules",
+    "contractile vacuoles",
+    "flame cells"
+   ],
+   "answer": "1",
+   "solution": "Malpighian tubules remove nitrogenous waste as uric acid, conserving water."
+  },
+  {
+   "q": "Ultrafiltration in the nephron occurs at the",
+   "options": [
+    "loop of Henle",
+    "glomerulus and Bowman's capsule",
+    "collecting duct",
+    "ureter"
+   ],
+   "answer": "1",
+   "solution": "High hydrostatic pressure in the glomerular capillaries forces small molecules into the capsule."
+  },
+  {
+   "q": "The hormone that increases water reabsorption in the collecting duct is",
+   "options": [
+    "insulin",
+    "adrenaline",
+    "antidiuretic hormone",
+    "thyroxine"
+   ],
+   "answer": "2",
+   "solution": "ADH from the posterior pituitary raises collecting-duct permeability to water."
+  },
+  {
+   "q": "Which excretory product of plants is commercially tapped from Hevea brasiliensis?",
+   "options": [
+    "Urea",
+    "Latex",
+    "Uric acid",
+    "Ammonia"
+   ],
+   "answer": "1",
+   "solution": "Latex, an excretory product stored in laticifers, is tapped as natural rubber."
+  }
+ ]
+}

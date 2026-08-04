@@ -1,0 +1,236 @@
+{
+ "subject": "Biology",
+ "level": "SSS 1",
+ "slug": "nutrition-digestion",
+ "title": "Cellular Nutrition and Digestion",
+ "outline": [
+  "Define nutrition and distinguish autotrophic from heterotrophic modes",
+  "Describe photosynthesis, its equation, requirements, stages and experiments",
+  "Explain chemosynthesis and the roles of mineral elements in plants",
+  "Classify heterotrophic nutrition: holozoic, saprophytic, parasitic and symbiotic",
+  "Describe the human alimentary canal, digestive enzymes and absorption",
+  "Relate feeding structures and gut length to diet in different animals"
+ ],
+ "modules": [
+  {
+   "title": "Autotrophic Nutrition: Photosynthesis and Mineral Nutrition",
+   "html": "\n<h4>1. Modes of Nutrition</h4>\n<p><b>Autotrophs</b> manufacture organic food from simple inorganic raw materials. They are <i>photoautotrophs</i> (using light, e.g. green plants) or <i>chemoautotrophs</i> (using energy from oxidising chemicals, e.g. <i>Nitrosomonas</i>, <i>Nitrobacter</i>, sulphur bacteria). <b>Heterotrophs</b> depend on ready-made organic food.</p>\n<h4>2. Photosynthesis</h4>\n<p>Photosynthesis is the process by which green plants synthesise carbohydrate from carbon dioxide and water in the presence of light energy trapped by chlorophyll, releasing oxygen.</p>\n$$6CO_2 + 6H_2O \\xrightarrow[\\text{chlorophyll}]{\\text{light energy}} C_6H_{12}O_6 + 6O_2$$\n<p><b>Requirements:</b> carbon dioxide, water, light, chlorophyll and a suitable temperature (enzymes).</p>\n<h4>3. Stages of Photosynthesis</h4>\n<ol>\n<li><b>Light-dependent stage</b> (grana of chloroplast): chlorophyll absorbs light; water is split by photolysis, \\( 2H_2O \\rightarrow 4H^+ + 4e^- + O_2 \\); ATP and NADPH₂ are produced and oxygen is released.</li>\n<li><b>Light-independent stage / Calvin cycle</b> (stroma): \\( CO_2 \\) is fixed and reduced using ATP and NADPH₂ to form triose sugar and eventually glucose and starch.</li>\n</ol>\n<h4>4. Adaptations of the Leaf</h4>\n<ul><li>Broad, flat lamina – large surface area for light absorption.</li><li>Thin – short diffusion distance for gases.</li><li>Numerous stomata – gaseous exchange.</li><li>Palisade cells packed with chloroplasts near the upper surface.</li><li>Network of veins – supplies water, removes products.</li></ul>\n<h4>5. Classic Experiments</h4>\n<p>Destarching (48 h in darkness) precedes each test; the leaf is later tested with iodine after boiling in water and in alcohol.</p>\n<table class=\"tb-table\"><tr><th>Experiment</th><th>Variable removed</th><th>Result</th></tr>\n<tr><td>Leaf partly covered with foil</td><td>Light</td><td>Covered part gives no blue-black colour</td></tr>\n<tr><td>Variegated leaf</td><td>Chlorophyll</td><td>Only green parts store starch</td></tr>\n<tr><td>Flask with KOH in bell jar</td><td>Carbon dioxide</td><td>No starch formed</td></tr></table>\n<h4>6. Mineral Nutrition</h4>\n<table class=\"tb-table\"><tr><th>Element</th><th>Use</th><th>Deficiency symptom</th></tr>\n<tr><td>Nitrogen</td><td>Proteins, chlorophyll, nucleic acids</td><td>Stunted growth, yellowing (chlorosis)</td></tr>\n<tr><td>Phosphorus</td><td>ATP, nucleic acids, root growth</td><td>Poor root development, purple leaves</td></tr>\n<tr><td>Potassium</td><td>Enzyme activation, stomatal control</td><td>Leaf-margin scorching, weak stems</td></tr>\n<tr><td>Magnesium</td><td>Central atom of chlorophyll</td><td>Chlorosis between veins</td></tr>\n<tr><td>Iron</td><td>Chlorophyll synthesis, cytochromes</td><td>Chlorosis of young leaves</td></tr>\n<tr><td>Calcium</td><td>Middle lamella of cell wall</td><td>Death of growing points</td></tr></table>\n",
+   "examples": [
+    {
+     "q": "Why is a leaf boiled in alcohol before the iodine test?",
+     "a": "Boiling in water first kills the cells and makes the leaf permeable; boiling in alcohol removes the chlorophyll so that the green colour does not mask the blue-black colour produced when iodine reacts with any starch present. The brittle leaf is then softened in warm water before adding iodine."
+    },
+    {
+     "q": "State the balanced equation for photosynthesis and identify what is oxidised and what is reduced.",
+     "a": "$$6CO_2 + 6H_2O \\rightarrow C_6H_{12}O_6 + 6O_2$$ Water is oxidised (it loses hydrogen/electrons during photolysis, releasing \\(O_2\\)) while carbon dioxide is reduced to carbohydrate."
+    }
+   ]
+  },
+  {
+   "title": "Heterotrophic Nutrition and the Human Digestive System",
+   "html": "\n<h4>1. Types of Heterotrophic Nutrition</h4>\n<ul><li><b>Holozoic</b> – solid food is ingested, digested, absorbed, assimilated and egested (most animals). Sub-types: herbivore, carnivore, omnivore.</li>\n<li><b>Saprophytic</b> – feeding on dead organic matter by extracellular digestion (<i>Rhizopus</i>, mushrooms, many bacteria).</li>\n<li><b>Parasitic</b> – living in or on a host, causing harm (tapeworm, <i>Plasmodium</i>, mistletoe).</li>\n<li><b>Symbiotic / mutualistic</b> – both partners benefit (<i>Rhizobium</i> in legume root nodules; lichens = alga + fungus; cellulose-digesting bacteria in the rumen).</li></ul>\n<h4>2. Processes of Holozoic Nutrition</h4>\n<p>Ingestion → digestion (mechanical and chemical) → absorption → assimilation → egestion.</p>\n<h4>3. The Human Alimentary Canal</h4>\n<table class=\"tb-table\"><tr><th>Region</th><th>Secretion</th><th>Enzyme</th><th>Substrate → Product</th></tr>\n<tr><td>Mouth</td><td>Saliva (pH 7)</td><td>Salivary amylase (ptyalin)</td><td>Starch → maltose</td></tr>\n<tr><td>Stomach</td><td>Gastric juice + HCl (pH 2)</td><td>Pepsin; rennin in infants</td><td>Protein → peptides; caseinogen → casein</td></tr>\n<tr><td>Duodenum</td><td>Pancreatic juice + bile</td><td>Amylase, trypsin, lipase</td><td>Starch → maltose; protein → peptides; fat → fatty acids + glycerol</td></tr>\n<tr><td>Ileum</td><td>Intestinal juice (succus entericus)</td><td>Maltase, sucrase, lactase, peptidase, lipase</td><td>Disaccharides → monosaccharides; peptides → amino acids</td></tr></table>\n<p>Bile from the liver contains no enzyme; bile salts <b>emulsify</b> fats, increasing surface area for lipase, and bile neutralises the acidic chyme.</p>\n<h4>4. Absorption and Assimilation</h4>\n<p>Absorption occurs mainly in the ileum, whose villi are adapted by: a very large surface area, one-cell-thick epithelium, dense capillary network for amino acids and glucose, a lacteal for fatty acids and glycerol, and many mitochondria for active transport. Absorbed food goes via the hepatic portal vein to the liver, where glucose may be stored as glycogen and excess amino acids are deaminated to urea.</p>\n<h4>5. Dentition and Diet</h4>\n<p>Herbivores have sharp incisors, a diastema and ridged molars for grinding, plus a long gut and caecum harbouring cellulose-digesting bacteria. Carnivores have pointed canines and carnassial teeth for shearing flesh and a comparatively short gut.</p>\n",
+   "examples": [
+    {
+     "q": "Why is the ileum longer and more folded than any other part of the gut?",
+     "a": "It is the main site of absorption. Length, circular folds, villi and microvilli together create an enormous surface area — several hundred square metres in an adult — so digested nutrients can be absorbed rapidly and completely by diffusion and active transport."
+    },
+    {
+     "q": "Explain the role of hydrochloric acid in the stomach.",
+     "a": "HCl (i) provides the acidic pH of about 2 required for pepsin activity, (ii) converts inactive pepsinogen to active pepsin, (iii) kills most bacteria swallowed with food and (iv) stops the action of salivary amylase."
+    }
+   ]
+  },
+  {
+   "title": "Balanced Diet, Food Tests and Deficiency Diseases",
+   "html": "\n<h4>1. Classes of Food</h4>\n<p>Carbohydrates (energy), proteins (growth and repair), fats and oils (energy store, insulation), vitamins and mineral salts (protective), water and roughage.</p>\n<table class=\"tb-table\"><tr><th>Food substance</th><th>Test</th><th>Positive result</th></tr>\n<tr><td>Starch</td><td>Iodine solution</td><td>Blue-black colour</td></tr>\n<tr><td>Reducing sugar</td><td>Benedict’s solution, boil</td><td>Brick-red precipitate</td></tr>\n<tr><td>Protein</td><td>Biuret (NaOH + CuSO₄)</td><td>Purple/violet colour</td></tr>\n<tr><td>Fat/oil</td><td>Filter paper or Sudan III</td><td>Translucent spot / red-stained layer</td></tr></table>\n<h4>2. Vitamins and Deficiency Diseases</h4>\n<table class=\"tb-table\"><tr><th>Vitamin/mineral</th><th>Source</th><th>Deficiency</th></tr>\n<tr><td>A (retinol)</td><td>Carrot, palm oil, liver</td><td>Night blindness, xerophthalmia</td></tr>\n<tr><td>B₁ (thiamine)</td><td>Whole grains, beans</td><td>Beri-beri</td></tr>\n<tr><td>C (ascorbic acid)</td><td>Citrus, guava</td><td>Scurvy</td></tr>\n<tr><td>D (calciferol)</td><td>Sunlight, fish oil</td><td>Rickets, osteomalacia</td></tr>\n<tr><td>Calcium</td><td>Milk, fish bones</td><td>Weak bones, poor clotting</td></tr>\n<tr><td>Iron</td><td>Liver, leafy vegetables</td><td>Anaemia</td></tr>\n<tr><td>Iodine</td><td>Sea food, iodised salt</td><td>Goitre, cretinism</td></tr></table>\n<h4>3. Protein-Energy Malnutrition</h4>\n<p><b>Kwashiorkor</b> results from protein deficiency with adequate carbohydrate: oedema, pot-belly, sparse discoloured hair, retarded growth. <b>Marasmus</b> results from overall energy and protein deficiency: extreme wasting, 'old man' face. Both are treated with a balanced, protein-rich diet.</p>\n<h4>4. Energy Value of Food</h4>\n<p>Energy from food is measured in joules or kilocalories using a bomb calorimeter, where \\( Q = mc\\Delta\\theta \\), with \\(m\\) the mass of water, \\(c = 4.2\\,\\text{J g}^{-1}\\text{K}^{-1}\\) and \\( \\Delta\\theta \\) the temperature rise.</p>\n",
+   "examples": [
+    {
+     "q": "1 g of groundnut raised the temperature of 20 g of water by 25 °C. Calculate the energy released.",
+     "a": "\\( Q = mc\\Delta\\theta = 20 \\times 4.2 \\times 25 = 2100\\,\\text{J} = 2.1\\,\\text{kJ per gram} \\)."
+    },
+    {
+     "q": "A child has oedema, a pot belly and pale hair but eats plenty of yam. Diagnose and prescribe.",
+     "a": "The child suffers from kwashiorkor, a protein deficiency; the diet is rich in carbohydrate but poor in protein. Treatment is a gradual increase of first-class protein — milk, eggs, fish, beans, soya — together with vitamins and minerals."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The raw materials for photosynthesis are",
+   "options": [
+    "oxygen and glucose",
+    "carbon dioxide and water",
+    "nitrogen and water",
+    "starch and oxygen"
+   ],
+   "answer": "1",
+   "solution": "CO₂ and H₂O are converted into carbohydrate with oxygen as by-product."
+  },
+  {
+   "q": "The light-dependent stage of photosynthesis occurs in the",
+   "options": [
+    "stroma",
+    "grana",
+    "mitochondrial matrix",
+    "cytoplasm"
+   ],
+   "answer": "1",
+   "solution": "Chlorophyll is located on the thylakoid membranes of the grana where light is absorbed."
+  },
+  {
+   "q": "Photolysis of water during photosynthesis produces",
+   "options": [
+    "carbon dioxide",
+    "oxygen, hydrogen ions and electrons",
+    "glucose",
+    "starch"
+   ],
+   "answer": "1",
+   "solution": "Water is split into H⁺, electrons and molecular oxygen."
+  },
+  {
+   "q": "The element that forms the central atom of a chlorophyll molecule is",
+   "options": [
+    "iron",
+    "magnesium",
+    "calcium",
+    "potassium"
+   ],
+   "answer": "1",
+   "solution": "Magnesium is at the centre of the porphyrin ring of chlorophyll; its deficiency causes chlorosis."
+  },
+  {
+   "q": "Nitrosomonas and Nitrobacter are examples of",
+   "options": [
+    "photoautotrophs",
+    "chemoautotrophs",
+    "saprophytes",
+    "parasites"
+   ],
+   "answer": "1",
+   "solution": "They obtain energy by oxidising ammonia and nitrite respectively, not from light."
+  },
+  {
+   "q": "A leaf is boiled in alcohol during the starch test in order to",
+   "options": [
+    "kill the cells",
+    "remove chlorophyll",
+    "soften the leaf",
+    "add starch"
+   ],
+   "answer": "1",
+   "solution": "Decolourising the leaf allows the blue-black iodine colour to be seen."
+  },
+  {
+   "q": "Which of the following organisms feeds saprophytically?",
+   "options": [
+    "Tapeworm",
+    "Rhizopus",
+    "Amoeba",
+    "Mistletoe"
+   ],
+   "answer": "1",
+   "solution": "<i>Rhizopus</i> secretes enzymes onto dead organic matter and absorbs the soluble products."
+  },
+  {
+   "q": "The association between Rhizobium and leguminous roots is an example of",
+   "options": [
+    "parasitism",
+    "mutualism",
+    "commensalism",
+    "predation"
+   ],
+   "answer": "1",
+   "solution": "The bacterium fixes nitrogen for the plant and receives carbohydrate and shelter in return."
+  },
+  {
+   "q": "Pepsin works best at a pH of about",
+   "options": [
+    "2",
+    "7",
+    "8.5",
+    "10"
+   ],
+   "answer": "0",
+   "solution": "Gastric HCl provides a strongly acidic medium of about pH 2 for pepsin."
+  },
+  {
+   "q": "Bile aids digestion of fats by",
+   "options": [
+    "hydrolysing them to fatty acids",
+    "emulsifying them into small droplets",
+    "converting them to glucose",
+    "absorbing them"
+   ],
+   "answer": "1",
+   "solution": "Bile salts lower surface tension, breaking fat into tiny droplets and enlarging the surface for lipase."
+  },
+  {
+   "q": "The end products of protein digestion are",
+   "options": [
+    "fatty acids",
+    "amino acids",
+    "glucose",
+    "glycerol"
+   ],
+   "answer": "1",
+   "solution": "Peptidases complete the breakdown of peptides into amino acids in the ileum."
+  },
+  {
+   "q": "Fatty acids and glycerol absorbed in the ileum enter the",
+   "options": [
+    "blood capillary",
+    "lacteal",
+    "hepatic portal vein directly",
+    "bile duct"
+   ],
+   "answer": "1",
+   "solution": "They are absorbed into the lacteal of the villus and enter the lymphatic system."
+  },
+  {
+   "q": "Which food substance gives a brick-red precipitate with Benedict's solution on boiling?",
+   "options": [
+    "Protein",
+    "Starch",
+    "Reducing sugar",
+    "Fat"
+   ],
+   "answer": "2",
+   "solution": "Reducing sugars such as glucose reduce copper(II) to red copper(I) oxide."
+  },
+  {
+   "q": "Deficiency of vitamin C in the diet causes",
+   "options": [
+    "rickets",
+    "scurvy",
+    "beri-beri",
+    "goitre"
+   ],
+   "answer": "1",
+   "solution": "Ascorbic acid deficiency weakens connective tissue, causing bleeding gums and scurvy."
+  },
+  {
+   "q": "A pot-bellied child with oedema and discoloured hair most likely suffers from",
+   "options": [
+    "marasmus",
+    "kwashiorkor",
+    "rickets",
+    "anaemia"
+   ],
+   "answer": "1",
+   "solution": "These are the classical signs of protein deficiency (kwashiorkor)."
+  },
+  {
+   "q": "The main function of roughage in the diet is to",
+   "options": [
+    "supply energy",
+    "provide protein",
+    "stimulate peristalsis and prevent constipation",
+    "build bones"
+   ],
+   "answer": "2",
+   "solution": "Indigestible cellulose adds bulk to the food, encouraging peristaltic movement of the gut."
+  }
+ ]
+}

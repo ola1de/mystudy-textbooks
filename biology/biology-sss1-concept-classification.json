@@ -1,0 +1,236 @@
+{
+ "subject": "Biology",
+ "level": "SSS 1",
+ "slug": "concept-classification",
+ "title": "Concept and Classification of Living Things",
+ "outline": [
+  "Distinguish living things from non-living things using the seven characteristics of life (MR NIGER D)",
+  "Explain the concept of the cell as the basic unit of life and the levels of biological organisation",
+  "Describe the classification hierarchy from kingdom to species",
+  "Apply the rules of binomial nomenclature correctly",
+  "Compare the general features of the five kingdoms: Monera, Protista, Fungi, Plantae and Animalia",
+  "Use simple dichotomous keys to identify organisms"
+ ],
+ "modules": [
+  {
+   "title": "Characteristics of Living Things and Levels of Organisation",
+   "html": "\n<h4>1. What is Biology?</h4>\n<p>Biology is the scientific study of living things (organisms), their structure, function, growth, origin, evolution, distribution and interactions with one another and with their environment. It branches broadly into <b>botany</b> (plants), <b>zoology</b> (animals) and <b>microbiology</b> (micro-organisms).</p>\n<h4>2. The Seven Characteristics of Life</h4>\n<p>The mnemonic <b>MR NIGER D</b> summarises the life processes shown by all living organisms:</p>\n<ol>\n<li><b>M</b>ovement – change in position of the whole body (locomotion in animals) or of a part (tropic and nastic movements in plants).</li>\n<li><b>R</b>espiration – the controlled release of energy from food within cells.</li>\n<li><b>N</b>utrition – taking in and using materials for energy, growth and repair; <i>autotrophic</i> in green plants, <i>heterotrophic</i> in animals and fungi.</li>\n<li><b>I</b>rritability (sensitivity) – detecting and responding to stimuli such as light, heat, gravity, water and chemicals.</li>\n<li><b>G</b>rowth – permanent, irreversible increase in size, mass and complexity by cell division and assimilation.</li>\n<li><b>E</b>xcretion – removal of toxic metabolic wastes (urea, carbon dioxide, excess salts).</li>\n<li><b>R</b>eproduction – production of new individuals, sexually or asexually, to continue the species.</li>\n<li><b>D</b>eath – the irreversible end of all life processes; all living things eventually die, non-living things do not.</li>\n</ol>\n<h4>3. Living, Non-living and Once-living</h4>\n<table class=\"tb-table\">\n<tr><th>Feature</th><th>Living things</th><th>Non-living things</th></tr>\n<tr><td>Cellular structure</td><td>Made of cells with protoplasm</td><td>No cells or protoplasm</td></tr>\n<tr><td>Growth</td><td>Internal (intussusception)</td><td>External accretion only (e.g. crystals)</td></tr>\n<tr><td>Energy</td><td>Respire to release energy</td><td>Do not respire</td></tr>\n<tr><td>Response</td><td>Sensitive to stimuli</td><td>Not sensitive</td></tr>\n<tr><td>Life span</td><td>Definite; ends in death</td><td>Indefinite</td></tr>\n</table>\n<p>Viruses occupy a borderline position: they possess nucleic acid and can reproduce, but only inside a living host cell, and they can be crystallised like chemicals.</p>\n<h4>4. Levels of Biological Organisation</h4>\n<p>Complexity increases in a clear sequence:</p>\n<ul>\n<li><b>Cell</b> – basic structural and functional unit (e.g. <i>Amoeba</i>, red blood cell).</li>\n<li><b>Tissue</b> – similar cells performing one function (xylem, muscle).</li>\n<li><b>Organ</b> – several tissues working together (leaf, heart).</li>\n<li><b>System</b> – organs cooperating (digestive system, shoot system).</li>\n<li><b>Organism</b> – the complete individual.</li>\n<li><b>Population → Community → Ecosystem → Biosphere</b> – ecological levels.</li>\n</ul>\n<p>Organisms may be unicellular (<i>Paramecium</i>), colonial (<i>Volvox</i>), filamentous (<i>Spirogyra</i>) or multicellular with division of labour (mammals, flowering plants).</p>\n",
+   "examples": [
+    {
+     "q": "A car burns petrol, moves and gives out exhaust gases. Why is it not classified as a living thing?",
+     "a": "Although it appears to 'move', 'respire' and 'excrete', a car is not made of cells, cannot grow from within, cannot reproduce itself and is not sensitive to stimuli in a coordinated way. Life is defined by the possession of <i>all</i> the characteristics of MR NIGER D within a cellular, protoplasmic body."
+    },
+    {
+     "q": "Arrange in increasing order of complexity: organ, cell, organism, tissue, system.",
+     "a": "Cell → tissue → organ → system → organism. For example: palisade cell → palisade mesophyll tissue → leaf → shoot system → mango tree."
+    }
+   ]
+  },
+  {
+   "title": "Classification and Binomial Nomenclature",
+   "html": "\n<h4>1. Why Classify?</h4>\n<p>Taxonomy is the science of naming, describing and grouping organisms. Classification (i) makes the study of about two million known species manageable, (ii) shows evolutionary relationships, (iii) allows accurate international communication, and (iv) helps in identification of new organisms.</p>\n<h4>2. The Taxonomic Hierarchy</h4>\n<p>From the largest, most inclusive group to the smallest:</p>\n<ol><li>Kingdom</li><li>Phylum (Division in plants)</li><li>Class</li><li>Order</li><li>Family</li><li>Genus</li><li>Species</li></ol>\n<p>Mnemonic: <b>K</b>ing <b>P</b>hilip <b>C</b>ame <b>O</b>ver <b>F</b>or <b>G</b>ood <b>S</b>oup. As we descend the hierarchy the number of organisms per group decreases while the number of shared characteristics increases.</p>\n<h4>3. The Species Concept</h4>\n<p>A <b>species</b> is a group of organisms with very similar features that can interbreed freely to produce fertile offspring. A horse (<i>Equus caballus</i>) crossed with a donkey (<i>Equus asinus</i>) gives a mule, which is sterile — proof that they are separate species.</p>\n<h4>4. Rules of Binomial Nomenclature (Linnaeus, 1753)</h4>\n<ul>\n<li>Every organism has a two-word Latin name: <i>generic name</i> + <i>specific epithet</i>.</li>\n<li>The generic name begins with a capital letter; the specific epithet is entirely lower case: <i>Homo sapiens</i>, <i>Zea mays</i>.</li>\n<li>The name is printed in <i>italics</i> and <u>underlined</u> separately when handwritten.</li>\n<li>After first mention the genus may be abbreviated: <i>E. coli</i>.</li>\n</ul>\n<h4>5. Dichotomous Keys</h4>\n<p>A dichotomous key presents paired, contrasting statements; at each step the user chooses one and is directed onward until the organism is named. Example:</p>\n<ol><li>a. Body with jointed legs … go to 2<br/>b. Body without jointed legs … earthworm</li>\n<li>a. Three pairs of legs … insect<br/>b. Four pairs of legs … spider</li></ol>\n",
+   "examples": [
+    {
+     "q": "Write the scientific name of maize correctly and identify the parts.",
+     "a": "<i>Zea mays</i> — <b>Zea</b> is the generic name (capital initial) and <b>mays</b> is the specific epithet (small letter). Both are italicised in print and underlined separately in handwriting."
+    },
+    {
+     "q": "Two organisms belong to the same family but different genera. Which taxa do they certainly share?",
+     "a": "They share kingdom, phylum, class, order and family, but differ from genus downwards. Shared characteristics therefore exist at the family level and above."
+    }
+   ]
+  },
+  {
+   "title": "The Five Kingdoms",
+   "html": "\n<h4>Whittaker’s Five-Kingdom Scheme (1969)</h4>\n<table class=\"tb-table\">\n<tr><th>Kingdom</th><th>Cell type</th><th>Body</th><th>Nutrition</th><th>Examples</th></tr>\n<tr><td>Monera</td><td>Prokaryotic (no true nucleus, no membrane-bound organelles)</td><td>Unicellular</td><td>Autotrophic or heterotrophic</td><td>Bacteria, cyanobacteria (<i>Nostoc</i>)</td></tr>\n<tr><td>Protista</td><td>Eukaryotic</td><td>Mostly unicellular</td><td>Photosynthetic or holozoic</td><td><i>Amoeba</i>, <i>Paramecium</i>, <i>Euglena</i>, <i>Plasmodium</i></td></tr>\n<tr><td>Fungi</td><td>Eukaryotic, chitin wall</td><td>Hyphae forming mycelium</td><td>Saprophytic or parasitic (heterotrophic, no chlorophyll)</td><td><i>Rhizopus</i>, mushroom, yeast</td></tr>\n<tr><td>Plantae</td><td>Eukaryotic, cellulose wall</td><td>Multicellular</td><td>Autotrophic (photosynthesis)</td><td>Mosses, ferns, maize, mango</td></tr>\n<tr><td>Animalia</td><td>Eukaryotic, no cell wall</td><td>Multicellular</td><td>Heterotrophic (holozoic)</td><td>Insects, fish, birds, humans</td></tr>\n</table>\n<h4>Major Plant Divisions</h4>\n<ul><li><b>Thallophyta</b> – algae; simple thallus.</li><li><b>Bryophyta</b> – mosses and liverworts; no vascular tissue, need water for fertilisation.</li><li><b>Pteridophyta</b> – ferns; vascular but seedless, reproduce by spores.</li><li><b>Spermatophyta</b> – seed plants: <i>Gymnospermae</i> (naked seeds, e.g. <i>Cycas</i>) and <i>Angiospermae</i> (seeds in fruits; monocots vs dicots).</li></ul>\n<h4>Major Animal Phyla</h4>\n<ul><li>Porifera (sponges), Coelenterata (<i>Hydra</i>, jellyfish), Platyhelminthes (tapeworm), Nematoda (<i>Ascaris</i>), Annelida (earthworm), Mollusca (snail), Arthropoda (insects, crustaceans, arachnids, myriapods), Echinodermata (starfish), Chordata (fish, amphibia, reptiles, birds, mammals).</li></ul>\n<p>Arthropoda is the largest phylum; its members have an exoskeleton of chitin, jointed appendages, a segmented body and open circulation.</p>\n",
+   "examples": [
+    {
+     "q": "<i>Euglena</i> shows both plant and animal features. Explain and state its kingdom.",
+     "a": "It has chloroplasts and photosynthesises (plant-like) but also possesses a flagellum for locomotion, an eyespot and a contractile vacuole, and can feed heterotrophically in darkness (animal-like). Because it is a unicellular eukaryote it is placed in the kingdom <b>Protista</b>."
+    },
+    {
+     "q": "Why are fungi no longer classified as plants?",
+     "a": "Fungi lack chlorophyll and cannot photosynthesise; their cell walls are made of chitin, not cellulose; they store glycogen rather than starch and feed saprophytically or parasitically by extracellular digestion. These differences justify a separate kingdom."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which of the following is NOT a characteristic of living things?",
+   "options": [
+    "Respiration",
+    "Irritability",
+    "Crystallisation",
+    "Excretion"
+   ],
+   "answer": "2",
+   "solution": "Crystallisation is a physical property of non-living substances such as salt; it is not a life process."
+  },
+  {
+   "q": "The mnemonic MR NIGER D is used to remember the",
+   "options": [
+    "stages of mitosis",
+    "characteristics of living things",
+    "levels of organisation",
+    "kingdoms of life"
+   ],
+   "answer": "1",
+   "solution": "MR NIGER D stands for Movement, Respiration, Nutrition, Irritability, Growth, Excretion, Reproduction and Death."
+  },
+  {
+   "q": "Growth in living organisms differs from 'growth' in crystals because living growth is",
+   "options": [
+    "external and reversible",
+    "internal, permanent and irreversible",
+    "caused by heat only",
+    "not accompanied by cell division"
+   ],
+   "answer": "1",
+   "solution": "Living organisms grow by intussusception — new material is added inside the body and the increase is permanent and irreversible."
+  },
+  {
+   "q": "The correct sequence of increasing complexity is",
+   "options": [
+    "cell → organ → tissue → system",
+    "tissue → cell → system → organ",
+    "cell → tissue → organ → system",
+    "organ → system → tissue → cell"
+   ],
+   "answer": "2",
+   "solution": "Similar cells form tissues, tissues form organs, organs cooperate as systems."
+  },
+  {
+   "q": "Which organism is a colonial protist showing early division of labour?",
+   "options": [
+    "Amoeba",
+    "Volvox",
+    "Paramecium",
+    "Rhizopus"
+   ],
+   "answer": "1",
+   "solution": "<i>Volvox</i> forms a hollow spherical colony of flagellated cells with some cells specialised for reproduction."
+  },
+  {
+   "q": "The scientific name of the domestic cat is written correctly as",
+   "options": [
+    "felis Catus",
+    "Felis catus",
+    "FELIS CATUS",
+    "felis catus"
+   ],
+   "answer": "1",
+   "solution": "The generic name takes a capital initial and the specific epithet a small letter; the whole name is italicised."
+  },
+  {
+   "q": "Which taxon contains the largest number of different organisms?",
+   "options": [
+    "Genus",
+    "Family",
+    "Order",
+    "Kingdom"
+   ],
+   "answer": "3",
+   "solution": "Kingdom is the widest taxon; as one moves down the hierarchy the group becomes smaller and more specific."
+  },
+  {
+   "q": "Members of the same species are best defined by their ability to",
+   "options": [
+    "live in the same habitat",
+    "interbreed and produce fertile offspring",
+    "possess the same colour",
+    "feed on the same food"
+   ],
+   "answer": "1",
+   "solution": "Reproductive compatibility yielding fertile offspring is the biological species criterion; a mule is sterile, so horse and donkey are separate species."
+  },
+  {
+   "q": "Organisms in the kingdom Monera are characterised by",
+   "options": [
+    "a true nucleus",
+    "membrane-bound organelles",
+    "the absence of a nuclear membrane",
+    "chitinous walls"
+   ],
+   "answer": "2",
+   "solution": "Monerans are prokaryotes: their genetic material lies free in the cytoplasm without a nuclear membrane."
+  },
+  {
+   "q": "The cell wall of fungi is composed mainly of",
+   "options": [
+    "cellulose",
+    "chitin",
+    "peptidoglycan",
+    "lignin"
+   ],
+   "answer": "1",
+   "solution": "Fungal walls contain chitin, unlike the cellulose walls of plants."
+  },
+  {
+   "q": "Which of the following is a seedless vascular plant?",
+   "options": [
+    "Moss",
+    "Fern",
+    "Cycad",
+    "Maize"
+   ],
+   "answer": "1",
+   "solution": "Ferns (Pteridophyta) possess xylem and phloem but reproduce by spores, not seeds."
+  },
+  {
+   "q": "A distinguishing feature of phylum Arthropoda is the possession of",
+   "options": [
+    "a notochord",
+    "jointed appendages and an exoskeleton",
+    "radial symmetry and tube feet",
+    "a soft body with a mantle"
+   ],
+   "answer": "1",
+   "solution": "Jointed limbs plus a chitinous exoskeleton define arthropods; tube feet belong to echinoderms and the mantle to molluscs."
+  },
+  {
+   "q": "Viruses are difficult to classify mainly because they",
+   "options": [
+    "are very small",
+    "can be crystallised and reproduce only inside host cells",
+    "contain protein",
+    "cause diseases"
+   ],
+   "answer": "1",
+   "solution": "Their ability to be crystallised (non-living trait) and their obligate intracellular reproduction (living trait) place them on the borderline of life."
+  },
+  {
+   "q": "A dichotomous key works by offering the user",
+   "options": [
+    "a list of scientific names",
+    "pairs of contrasting statements",
+    "photographs only",
+    "a random selection"
+   ],
+   "answer": "1",
+   "solution": "At every step the key gives two mutually exclusive alternatives that progressively narrow the identification."
+  },
+  {
+   "q": "Which kingdom contains eukaryotic, multicellular, heterotrophic organisms lacking cell walls?",
+   "options": [
+    "Plantae",
+    "Fungi",
+    "Animalia",
+    "Protista"
+   ],
+   "answer": "2",
+   "solution": "Animals are multicellular eukaryotic heterotrophs whose cells have a flexible plasma membrane and no cell wall."
+  },
+  {
+   "q": "Nutrition in green plants is described as",
+   "options": [
+    "holozoic",
+    "saprophytic",
+    "autotrophic",
+    "parasitic"
+   ],
+   "answer": "2",
+   "solution": "Green plants manufacture their own organic food from carbon dioxide and water using light energy, hence autotrophic."
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "subject": "Biology",
+ "level": "SSS 3",
+ "slug": "public-health",
+ "title": "Public Health",
+ "outline": [
+  "Define public health and state its objectives",
+  "Classify diseases and describe pathogens and their modes of transmission",
+  "Describe important vectors and the control of vector-borne diseases",
+  "Explain personal, food and environmental hygiene",
+  "Describe methods of refuse and sewage disposal and water treatment",
+  "Explain immunity, immunization schedules and control of communicable diseases including HIV/AIDS"
+ ],
+ "modules": [
+  {
+   "title": "Diseases, Pathogens and Vectors",
+   "html": "\n<h4>1. Public Health</h4>\n<p>Public health is the science and practice of preventing disease, prolonging life and promoting health through the organised efforts of the community. Its objectives include disease prevention, environmental sanitation, health education, provision of safe water and food, and maternal and child health services.</p>\n<h4>2. Classification of Diseases</h4>\n<ul><li><b>Communicable (infectious)</b> – caused by pathogens and transmitted from person to person: cholera, tuberculosis, measles, malaria, HIV/AIDS.</li>\n<li><b>Non-communicable</b> – deficiency diseases (kwashiorkor, scurvy), hereditary diseases (sickle cell anaemia, haemophilia), degenerative and organic diseases (hypertension, diabetes, cancer).</li></ul>\n<h4>3. Pathogens and Diseases</h4>\n<table class=\"tb-table\"><tr><th>Pathogen</th><th>Disease</th><th>Transmission</th></tr>\n<tr><td>Bacteria: <i>Vibrio cholerae</i></td><td>Cholera</td><td>Contaminated water and food</td></tr>\n<tr><td>Bacteria: <i>Mycobacterium tuberculosis</i></td><td>Tuberculosis</td><td>Droplet infection</td></tr>\n<tr><td>Bacteria: <i>Salmonella typhi</i></td><td>Typhoid fever</td><td>Faecal contamination of food/water</td></tr>\n<tr><td>Virus</td><td>Measles, poliomyelitis, HIV/AIDS, hepatitis B, COVID-19</td><td>Droplets, body fluids, contaminated needles</td></tr>\n<tr><td>Protozoan: <i>Plasmodium</i></td><td>Malaria</td><td>Bite of female <i>Anopheles</i> mosquito</td></tr>\n<tr><td>Protozoan: <i>Trypanosoma</i></td><td>Sleeping sickness</td><td>Tsetse fly (<i>Glossina</i>)</td></tr>\n<tr><td>Protozoan: <i>Entamoeba histolytica</i></td><td>Amoebic dysentery</td><td>Contaminated food/water</td></tr>\n<tr><td>Worm: <i>Ascaris</i>, hookworm, tapeworm</td><td>Ascariasis, anaemia, taeniasis</td><td>Soil, bare feet, undercooked meat</td></tr>\n<tr><td>Fungus</td><td>Ringworm, athlete’s foot</td><td>Contact, sharing clothing</td></tr></table>\n<h4>4. Vectors and Their Control</h4>\n<table class=\"tb-table\"><tr><th>Vector</th><th>Disease carried</th><th>Control</th></tr>\n<tr><td>Female <i>Anopheles</i> mosquito</td><td>Malaria</td><td>Insecticide-treated nets, drainage of stagnant water, oiling, larvivorous fish, screening, indoor spraying</td></tr>\n<tr><td><i>Aedes</i> mosquito</td><td>Yellow fever, dengue</td><td>Clear tins and containers, vaccination against yellow fever</td></tr>\n<tr><td><i>Culex</i></td><td>Filariasis</td><td>Sanitation, drug treatment</td></tr>\n<tr><td>Housefly</td><td>Cholera, typhoid, dysentery</td><td>Proper refuse disposal, covering food, screening</td></tr>\n<tr><td>Tsetse fly</td><td>Sleeping sickness</td><td>Clearing bushes near rivers, traps, sterile male technique</td></tr>\n<tr><td>Rat/flea</td><td>Plague, Lassa fever</td><td>Rat-proof stores, traps, hygiene</td></tr>\n<tr><td>Blackfly (<i>Simulium</i>)</td><td>River blindness</td><td>Larviciding of fast rivers, ivermectin distribution</td></tr>\n<tr><td>Snail (<i>Bulinus</i>)</td><td>Schistosomiasis</td><td>Molluscicides, avoid urinating in water, safe water supply</td></tr></table>\n",
+   "examples": [
+    {
+     "q": "Describe the life cycle stage of Plasmodium in man and how malaria can be prevented.",
+     "a": "Sporozoites injected by the female <i>Anopheles</i> enter liver cells, multiply, then invade red blood cells where they multiply and burst them in cycles, producing fever. Prevention: sleep under insecticide-treated nets, clear stagnant water and drain swamps, screen houses, use repellents and prophylactic drugs, and treat cases promptly to remove the reservoir of infection."
+    },
+    {
+     "q": "Why is the housefly regarded as a dangerous vector even though it does not bite?",
+     "a": "It breeds in refuse and faeces and carries pathogens on its hairy legs and body and in its vomit and faeces. When it settles on exposed food it mechanically transmits organisms causing cholera, typhoid, dysentery and diarrhoea."
+    }
+   ]
+  },
+  {
+   "title": "Hygiene, Waste Disposal and Water Supply",
+   "html": "\n<h4>1. Personal and Food Hygiene</h4>\n<p>Regular bathing, hand washing with soap before eating and after using the toilet, brushing teeth, trimming nails, wearing clean clothes and using clean footwear prevent many infections. Food should be washed, well cooked, covered against flies, stored cool and handled by healthy, certified food vendors.</p>\n<h4>2. Refuse Disposal</h4>\n<ul><li><b>Sanitary landfill</b> – refuse tipped into a pit and covered daily with soil.</li>\n<li><b>Incineration</b> – burning at high temperature; reduces volume but may pollute air.</li>\n<li><b>Composting</b> – organic refuse decomposed into manure.</li>\n<li><b>Recycling</b> – recovery of metal, plastic, glass and paper.</li></ul>\n<h4>3. Sewage Disposal</h4>\n<p>Methods range from the pit latrine and ventilated improved pit, through septic tanks with soak-away pits, to full sewage treatment: screening, grit removal, sedimentation (primary), biological treatment in trickling filters or activated sludge (secondary), then chlorination before discharge. Sludge may be digested to produce biogas and used as fertiliser. Poor sewage disposal contaminates water, breeds flies and spreads cholera, typhoid and worm infections.</p>\n<h4>4. Water Supply and Treatment</h4>\n<p>Municipal treatment involves sedimentation, coagulation with alum, filtration through sand beds, and chlorination to kill pathogens. At home, water can be boiled, filtered or treated with chlorine tablets. Safe water prevents cholera, typhoid, dysentery and guinea worm.</p>\n",
+   "examples": [
+    {
+     "q": "State three ways a community can prevent an outbreak of cholera.",
+     "a": "(i) Provide and use treated pipe-borne water or boil drinking water. (ii) Dispose of sewage properly through covered latrines and septic tanks so that faeces do not contaminate water sources. (iii) Practise food hygiene and hand washing, control flies, and isolate and treat cases promptly."
+    },
+    {
+     "q": "Why is chlorine added at the last stage of water treatment?",
+     "a": "Chlorination kills remaining bacteria and other pathogens after physical impurities have been removed by sedimentation and filtration. A small residual chlorine level also protects the water against recontamination in the distribution pipes."
+    }
+   ]
+  },
+  {
+   "title": "Immunity, Immunization and Disease Control",
+   "html": "\n<h4>1. Body Defences</h4>\n<p>First line: skin, mucus, cilia, tears (lysozyme), stomach acid and harmless resident flora. Second line: phagocytic white blood cells, inflammation, fever and blood clotting. Third line: specific immune response by lymphocytes producing antibodies against antigens.</p>\n<h4>2. Types of Immunity</h4>\n<table class=\"tb-table\"><tr><th>Type</th><th>How obtained</th><th>Duration</th></tr>\n<tr><td>Natural active</td><td>Recovery from an infection</td><td>Long, often lifelong</td></tr>\n<tr><td>Artificial active</td><td>Vaccination with weakened/killed pathogen or toxoid</td><td>Long; boosters may be needed</td></tr>\n<tr><td>Natural passive</td><td>Antibodies through placenta and breast milk</td><td>Short (months)</td></tr>\n<tr><td>Artificial passive</td><td>Injection of ready-made antiserum (e.g. anti-tetanus, anti-snake venom)</td><td>Very short but immediate</td></tr></table>\n<h4>3. Immunization Schedule (Nigeria, in outline)</h4>\n<ul><li>At birth: BCG (tuberculosis), OPV 0, hepatitis B.</li>\n<li>6, 10 and 14 weeks: OPV/IPV, pentavalent (DPT, hepatitis B, Hib), PCV, rotavirus.</li>\n<li>9 months: measles and yellow fever; 15 months: second measles dose.</li>\n<li>Women of child-bearing age: tetanus toxoid.</li></ul>\n<p>Immunization gives individual protection and, at high coverage, <b>herd immunity</b> that interrupts transmission; smallpox was eradicated and polio nearly so by this means.</p>\n<h4>4. HIV/AIDS and Other Communicable Diseases</h4>\n<p>HIV destroys helper T-lymphocytes, weakening immunity until opportunistic infections such as tuberculosis and pneumonia occur. It is transmitted by unprotected sexual intercourse, infected blood transfusion, contaminated sharp objects and from mother to child during birth or breastfeeding. It is <b>not</b> spread by handshakes, sharing food, mosquito bites or toilet seats. Prevention: abstinence, faithfulness, correct condom use, screening of blood, use of sterile instruments and antiretroviral therapy including prevention of mother-to-child transmission.</p>\n<h4>5. General Control of Communicable Disease</h4>\n<ol><li>Health education and community mobilisation.</li>\n<li>Isolation and treatment of patients; contact tracing and quarantine.</li>\n<li>Vector and reservoir control; environmental sanitation.</li>\n<li>Safe water, food inspection and immunization programmes.</li>\n<li>Notification of diseases and international surveillance by agencies such as WHO, UNICEF and the NCDC.</li></ol>\n",
+   "examples": [
+    {
+     "q": "Differentiate between active and passive immunity.",
+     "a": "In active immunity the body itself makes antibodies after meeting an antigen through infection or vaccination; it develops slowly but lasts long because memory cells are formed. In passive immunity ready-made antibodies are received from another source — the placenta, breast milk or an injected antiserum; protection is immediate but short-lived since no memory cells are made."
+    },
+    {
+     "q": "Explain how immunization of most children protects even the few unvaccinated ones.",
+     "a": "When a large proportion of the population is immune, the pathogen cannot find enough susceptible hosts, so chains of transmission break down. This herd immunity indirectly protects unvaccinated infants and people who cannot be vaccinated for medical reasons."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which of the following is a communicable disease?",
+   "options": [
+    "Kwashiorkor",
+    "Cholera",
+    "Haemophilia",
+    "Diabetes mellitus"
+   ],
+   "answer": "1",
+   "solution": "Cholera is caused by <i>Vibrio cholerae</i> and spreads from person to person through contaminated water."
+  },
+  {
+   "q": "Malaria is caused by",
+   "options": [
+    "a bacterium",
+    "a virus",
+    "Plasmodium",
+    "a fungus"
+   ],
+   "answer": "2",
+   "solution": "<i>Plasmodium</i> is a protozoan transmitted by the female <i>Anopheles</i> mosquito."
+  },
+  {
+   "q": "The vector of sleeping sickness is the",
+   "options": [
+    "housefly",
+    "tsetse fly",
+    "mosquito",
+    "blackfly"
+   ],
+   "answer": "1",
+   "solution": "<i>Glossina</i> transmits <i>Trypanosoma</i>."
+  },
+  {
+   "q": "River blindness is transmitted by",
+   "options": [
+    "Aedes",
+    "Simulium",
+    "Culex",
+    "Bulinus snail"
+   ],
+   "answer": "1",
+   "solution": "The blackfly <i>Simulium</i> breeds in fast-flowing rivers and carries <i>Onchocerca</i>."
+  },
+  {
+   "q": "Which organism transmits schistosomiasis?",
+   "options": [
+    "Rat",
+    "Water snail",
+    "Housefly",
+    "Tick"
+   ],
+   "answer": "1",
+   "solution": "Freshwater snails such as <i>Bulinus</i> act as intermediate hosts."
+  },
+  {
+   "q": "Tuberculosis is caused by",
+   "options": [
+    "a virus",
+    "Mycobacterium tuberculosis",
+    "Plasmodium",
+    "Entamoeba"
+   ],
+   "answer": "1",
+   "solution": "It is a bacterial disease spread mainly by droplet infection."
+  },
+  {
+   "q": "Typhoid fever is best prevented by",
+   "options": [
+    "clearing bushes",
+    "providing safe water and proper sewage disposal",
+    "using mosquito nets",
+    "wearing shoes"
+   ],
+   "answer": "1",
+   "solution": "<i>Salmonella typhi</i> spreads through faecal contamination of food and water."
+  },
+  {
+   "q": "Hookworm infection is commonly acquired by",
+   "options": [
+    "eating undercooked beef",
+    "walking barefoot on contaminated soil",
+    "mosquito bites",
+    "drinking milk"
+   ],
+   "answer": "1",
+   "solution": "Larvae in the soil penetrate the skin of the feet."
+  },
+  {
+   "q": "Which method of refuse disposal produces manure?",
+   "options": [
+    "Incineration",
+    "Composting",
+    "Sanitary landfill",
+    "Dumping in rivers"
+   ],
+   "answer": "1",
+   "solution": "Organic refuse is decomposed by micro-organisms into useful humus."
+  },
+  {
+   "q": "Chlorine is added to public water supply mainly to",
+   "options": [
+    "improve taste",
+    "kill pathogens",
+    "remove colour",
+    "soften the water"
+   ],
+   "answer": "1",
+   "solution": "Chlorination disinfects the water and leaves a protective residual."
+  },
+  {
+   "q": "Alum is used in water treatment to",
+   "options": [
+    "kill bacteria",
+    "coagulate suspended particles",
+    "add minerals",
+    "increase pH"
+   ],
+   "answer": "1",
+   "solution": "Coagulation makes fine particles clump and settle out."
+  },
+  {
+   "q": "Immunity obtained by a baby through breast milk is",
+   "options": [
+    "natural active",
+    "artificial active",
+    "natural passive",
+    "artificial passive"
+   ],
+   "answer": "2",
+   "solution": "Ready-made antibodies are received naturally, giving short-term protection."
+  },
+  {
+   "q": "Vaccination confers",
+   "options": [
+    "natural passive immunity",
+    "artificial active immunity",
+    "no immunity",
+    "permanent passive immunity"
+   ],
+   "answer": "1",
+   "solution": "The body responds to the vaccine antigen by making its own antibodies and memory cells."
+  },
+  {
+   "q": "BCG vaccine protects against",
+   "options": [
+    "measles",
+    "tuberculosis",
+    "polio",
+    "yellow fever"
+   ],
+   "answer": "1",
+   "solution": "BCG is given at birth to protect against tuberculosis."
+  },
+  {
+   "q": "HIV is NOT transmitted through",
+   "options": [
+    "unprotected sexual intercourse",
+    "sharing sharp objects",
+    "shaking hands with an infected person",
+    "mother to child at birth"
+   ],
+   "answer": "2",
+   "solution": "Casual contact such as handshakes, hugging or sharing food does not transmit HIV."
+  },
+  {
+   "q": "Herd immunity is achieved when",
+   "options": [
+    "only adults are vaccinated",
+    "a large proportion of the population is immune",
+    "antibiotics are used widely",
+    "vectors are eliminated"
+   ],
+   "answer": "1",
+   "solution": "With few susceptible hosts, transmission chains break and even unvaccinated individuals are protected."
+  }
+ ]
+}
