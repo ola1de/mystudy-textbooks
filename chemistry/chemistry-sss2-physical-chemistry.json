@@ -1,0 +1,665 @@
+{
+ "subject": "Chemistry",
+ "level": "SSS 2",
+ "slug": "physical-chemistry",
+ "title": "Physical Chemistry",
+ "outline": [
+  "Rate of reaction and how it is measured",
+  "Collision theory, activation energy and effective collisions",
+  "Factors affecting reaction rate",
+  "Catalysis: homogeneous, heterogeneous, promoters, poisons, enzymes",
+  "Reversible reactions and dynamic equilibrium",
+  "The equilibrium constant \\(K_c\\)",
+  "Le Chatelier's principle and industrial applications",
+  "Exothermic and endothermic changes; energy profiles",
+  "Standard enthalpies, calorimetry and Hess's law",
+  "Entropy, Gibbs free energy and feasibility",
+  "Oxidation numbers, redox definitions and balancing half-equations",
+  "Electrolysis, selective discharge and Faraday's laws",
+  "Electrochemical cells, e.m.f., corrosion and its prevention"
+ ],
+ "modules": [
+  {
+   "title": "7.1 Rates of Reaction and Collision Theory",
+   "html": "<p>The <b>rate of a chemical reaction</b> is the change in concentration of a reactant or product per unit time:</p>\n<p>$$\\text{Rate} = \\frac{\\Delta[\\text{product}]}{\\Delta t} = -\\frac{\\Delta[\\text{reactant}]}{\\Delta t}$$</p>\n<p>Units are usually mol dm&#8315;&sup3; s&#8315;&#185;. In the laboratory rate is followed by measuring the volume of gas evolved, the loss in mass, the time for a cross to disappear behind a precipitate, a change in colour (colorimetry), pH, or electrical conductivity.</p>\n\n<h4>Collision theory</h4>\n<p>For a reaction to occur, particles must (i) <b>collide</b>, (ii) collide with energy equal to or greater than the <b>activation energy</b> \\(E_a\\), and (iii) collide with the correct <b>orientation</b>. Only a small fraction of collisions satisfy all three conditions; these are called <b>effective collisions</b>.</p>\n<p>Activation energy is the minimum energy the colliding particles must possess for the old bonds to break and new bonds to form. Reactions with a low \\(E_a\\) (ionic precipitations) are almost instantaneous; those with a high \\(E_a\\) (rusting, the reaction of \\(H_2\\) and \\(O_2\\) at room temperature) are extremely slow.</p>\n\n<h4>Factors affecting reaction rate</h4>\n<table><tr><th>Factor</th><th>Effect</th><th>Explanation</th></tr>\n<tr><td>Concentration (or pressure for gases)</td><td>higher &rarr; faster</td><td>more particles per unit volume, so more collisions per second</td></tr>\n<tr><td>Temperature</td><td>higher &rarr; much faster (roughly doubles per 10&deg;C)</td><td>particles move faster <i>and</i> a much larger fraction exceed \\(E_a\\)</td></tr>\n<tr><td>Surface area</td><td>powder reacts faster than lumps</td><td>more particles exposed at the surface for collision</td></tr>\n<tr><td>Catalyst</td><td>faster (positive catalyst)</td><td>provides an alternative pathway of lower activation energy</td></tr>\n<tr><td>Light</td><td>speeds photochemical reactions</td><td>supplies energy, e.g. \\(H_2+Cl_2\\), photosynthesis, photography</td></tr>\n<tr><td>Nature of reactants</td><td>ionic &gt; covalent</td><td>ionic reactions need no covalent bonds broken</td></tr></table>\n\n<h4>Catalysis</h4>\n<p>A <b>catalyst</b> alters the rate of a reaction but is chemically unchanged in mass and composition at the end. It lowers \\(E_a\\) but does <b>not</b> change the position of equilibrium or the enthalpy change &mdash; it merely lets equilibrium be reached sooner.</p>\n<ul>\n<li><b>Homogeneous</b> catalysis &mdash; catalyst and reactants in the same phase (\\(H^+\\) in ester hydrolysis).</li>\n<li><b>Heterogeneous</b> catalysis &mdash; different phases (Fe in the Haber process, \\(V_2O_5\\) in the Contact process, Ni in hydrogenation of oils).</li>\n<li><b>Promoters</b> increase catalyst efficiency (\\(K_2O\\), \\(Al_2O_3\\) with iron); <b>poisons</b> destroy it (sulphur compounds on platinum, lead on catalytic converters).</li>\n<li><b>Enzymes</b> are biological catalysts &mdash; extremely efficient but sensitive to temperature and pH.</li>\n<li><b>Negative catalysts (inhibitors)</b> slow reactions, e.g. glycerol added to hydrogen peroxide.</li>\n<li>An <b>autocatalyst</b> is a product that catalyses its own reaction, e.g. \\(Mn^{2+}\\) in the \\(KMnO_4\\)/oxalate reaction.</li>\n</ul>",
+   "examples": [
+    {
+     "q": "Explain, using collision theory, why powdered marble reacts faster with dilute HCl than marble chips.",
+     "a": "Powder has a much larger total surface area, so more CaCO₃ particles are exposed to acid particles at any instant. The frequency of effective collisions rises and the rate increases, although the total volume of CO₂ finally produced is the same."
+    },
+    {
+     "q": "Why does a 10°C rise roughly double the rate of many reactions?",
+     "a": "Raising the temperature increases the average kinetic energy slightly, but it greatly increases the fraction of molecules whose energy exceeds the activation energy. Both the collision frequency and (mainly) the proportion of effective collisions rise."
+    },
+    {
+     "q": "Does a catalyst change the yield of an equilibrium reaction? Explain.",
+     "a": "No. A catalyst speeds up the forward and reverse reactions equally by lowering \\(E_a\\) for both, so equilibrium is reached faster but the equilibrium position and yield are unchanged."
+    }
+   ]
+  },
+  {
+   "title": "7.2 Chemical Equilibrium and Le Chatelier's Principle",
+   "html": "<p>Many reactions are <b>reversible</b>: products re-form reactants. When the forward and backward rates become equal, the system is at <b>dynamic equilibrium</b> &mdash; concentrations stay constant although both reactions continue.</p>\n<p>Conditions for equilibrium: a <b>closed system</b>, constant temperature, and macroscopic properties (colour, pressure, concentration) that do not change with time.</p>\n\n<h4>The equilibrium constant</h4>\n<p>For \\(aA + bB \\rightleftharpoons cC + dD\\):</p>\n<p>$$K_c = \\frac{[C]^c[D]^d}{[A]^a[B]^b}$$</p>\n<p>A large \\(K_c\\) means the forward reaction is favoured (products predominate); a small \\(K_c\\) means the reactants predominate. \\(K_c\\) changes only with <b>temperature</b> &mdash; not with concentration, pressure or catalyst. For gases the equivalent constant \\(K_p\\) uses partial pressures. Pure solids and pure liquids are omitted from the expression.</p>\n\n<h4>Le Chatelier's principle</h4>\n<p><i>\"If a constraint is imposed on a system in equilibrium, the system adjusts itself so as to annul or reduce the effect of the constraint.\"</i></p>\n<table><tr><th>Change</th><th>Shift</th></tr>\n<tr><td>Increase concentration of a reactant</td><td>forward, to use it up</td></tr>\n<tr><td>Remove a product as it forms</td><td>forward</td></tr>\n<tr><td>Increase pressure</td><td>towards the side with fewer gas molecules</td></tr>\n<tr><td>Increase temperature</td><td>in the endothermic direction</td></tr>\n<tr><td>Add a catalyst</td><td>no shift</td></tr>\n<tr><td>Add an inert gas at constant volume</td><td>no shift</td></tr></table>\n\n<h4>Worked industrial applications</h4>\n<p><b>Haber process:</b> \\(N_2 + 3H_2 \\rightleftharpoons 2NH_3;\\ \\Delta H = -92\\ kJ\\,mol^{-1}\\). High yield needs high pressure (4 molecules &rarr; 2) and low temperature (exothermic). In practice about 200 atm and 450&deg;C with an iron catalyst are used &mdash; a <b>compromise</b>, because at truly low temperature the rate would be uneconomically slow.</p>\n<p><b>Contact process:</b> \\(2SO_2 + O_2 \\rightleftharpoons 2SO_3;\\ \\Delta H = -196\\ kJ\\,mol^{-1}\\), with \\(V_2O_5\\) at about 450&deg;C and 2 atm; excess air pushes the equilibrium to the right.</p>\n<p><b>Bismuth chloride hydrolysis:</b> \\(BiCl_3 + H_2O \\rightleftharpoons BiOCl\\downarrow + 2HCl\\) &mdash; adding water gives a white precipitate; adding concentrated HCl clears it again, a striking classroom demonstration.</p>",
+   "examples": [
+    {
+     "q": "For \\(N_2O_4 \\rightleftharpoons 2NO_2\\) (\\(\\Delta H\\) positive), predict the effect of (a) raising temperature (b) raising pressure.",
+     "a": "(a) The equilibrium shifts forward in the endothermic direction, so the mixture darkens as more brown NO₂ forms. (b) Higher pressure shifts it backwards towards N₂O₄, the side with fewer gas molecules, so the colour fades."
+    },
+    {
+     "q": "Write the \\(K_c\\) expression for \\(CaCO_3(s) \\rightleftharpoons CaO(s) + CO_2(g)\\).",
+     "a": "\\(K_c=[CO_2]\\). Pure solids do not appear in the expression because their concentrations are constant."
+    },
+    {
+     "q": "At equilibrium, 2 mol \\(H_2\\), 2 mol \\(I_2\\) and 8 mol HI were present in a 1 dm³ vessel. Find \\(K_c\\) for \\(H_2+I_2\\rightleftharpoons 2HI\\).",
+     "a": "\\(K_c=[HI]^2/([H_2][I_2])=8^2/(2\\times2)=64/4=16\\) (no units, since the moles of gas are balanced)."
+    }
+   ]
+  },
+  {
+   "title": "7.3 Energy Changes: Enthalpy, Entropy and Free Energy",
+   "html": "<p>Every reaction involves breaking bonds (<b>endothermic</b>, absorbs energy) and making bonds (<b>exothermic</b>, releases energy). The net effect is the <b>enthalpy change</b> \\(\\Delta H\\), measured in kJ mol&#8315;&#185; at constant pressure.</p>\n<ul>\n<li><b>Exothermic</b>: heat is given out, \\(\\Delta H\\) is <b>negative</b>, the surroundings warm up. Examples: combustion, neutralisation, respiration, rusting, dissolving NaOH or conc. \\(H_2SO_4\\) in water.</li>\n<li><b>Endothermic</b>: heat is absorbed, \\(\\Delta H\\) is <b>positive</b>, the surroundings cool. Examples: photosynthesis, thermal decomposition of \\(CaCO_3\\), dissolving \\(NH_4NO_3\\) or \\(KNO_3\\) in water, electrolysis.</li>\n</ul>\n\n<h4>Energy profile diagrams</h4>\n<p>On an energy-level diagram the difference between reactant and product levels is \\(\\Delta H\\); the hump between them is the activation energy \\(E_a\\). A catalyst lowers the hump but leaves the two levels &mdash; and therefore \\(\\Delta H\\) &mdash; unchanged.</p>\n\n<h4>Standard enthalpy terms</h4>\n<table><tr><th>Term</th><th>Definition</th></tr>\n<tr><td>\\(\\Delta H_f^\\ominus\\) formation</td><td>heat change when 1 mol of a compound forms from its elements in their standard states</td></tr>\n<tr><td>\\(\\Delta H_c^\\ominus\\) combustion</td><td>heat released when 1 mol of a substance burns completely in oxygen (always negative)</td></tr>\n<tr><td>\\(\\Delta H_n^\\ominus\\) neutralisation</td><td>heat released when 1 mol of water forms from \\(H^+\\) and \\(OH^-\\); about &minus;57.3 kJ mol&#8315;&#185; for strong acid + strong alkali</td></tr>\n<tr><td>\\(\\Delta H_s^\\ominus\\) solution</td><td>heat change when 1 mol of solute dissolves to infinite dilution</td></tr>\n</table>\n<p>The heat absorbed or evolved in the laboratory is calculated from</p>\n<p>$$Q = mc\\Delta\\theta \\qquad \\Delta H = \\pm\\frac{Q}{n}$$</p>\n<p><b>Hess's law</b> states that the total enthalpy change for a reaction is the same whatever route is taken, provided the initial and final states are the same. It follows from the law of conservation of energy and lets us calculate values (such as \\(\\Delta H_f\\) of methane) that cannot be measured directly.</p>\n\n<h4>Entropy and free energy</h4>\n<p><b>Entropy</b> \\(S\\) measures disorder or randomness. It increases when a solid melts, a liquid vaporises, a solid dissolves, or the number of gas molecules increases; it decreases on freezing, condensing or when gas molecules combine.</p>\n<p><b>Gibbs free energy</b> decides feasibility:</p>\n<p>$$\\Delta G = \\Delta H - T\\Delta S$$</p>\n<ul>\n<li>\\(\\Delta G &lt; 0\\): the reaction is <b>spontaneous (feasible)</b>.</li>\n<li>\\(\\Delta G = 0\\): the system is at equilibrium.</li>\n<li>\\(\\Delta G &gt; 0\\): non-spontaneous in that direction; energy must be supplied.</li>\n</ul>\n<p>Note that an exothermic reaction with a decrease in entropy may become non-spontaneous at high temperature, and an endothermic reaction with a large entropy increase (such as melting ice above 0&deg;C) becomes spontaneous once \\(T\\Delta S\\) exceeds \\(\\Delta H\\).</p>",
+   "examples": [
+    {
+     "q": "When 50 cm³ of 1.0 M HCl was neutralised by 50 cm³ of 1.0 M NaOH, the temperature rose by 6.8°C. Calculate \\(\\Delta H_n\\). (c = 4.2 J g⁻¹K⁻¹, density = 1 g cm⁻³)",
+     "a": "Q = 100 × 4.2 × 6.8 = 2856 J = 2.856 kJ. Moles of water formed = 0.05. \\(\\Delta H_n = -2.856/0.05 = -57.1\\ kJ\\,mol^{-1}\\); negative because heat was evolved."
+    },
+    {
+     "q": "A reaction has \\(\\Delta H = +30\\ kJ\\,mol^{-1}\\) and \\(\\Delta S = +150\\ J\\,K^{-1}mol^{-1}\\). Is it feasible at 25°C?",
+     "a": "\\(\\Delta G = 30 - (298\\times0.150) = 30 - 44.7 = -14.7\\ kJ\\,mol^{-1}\\). \\(\\Delta G\\) is negative, so the reaction is spontaneous at 298 K."
+    },
+    {
+     "q": "Why is the enthalpy of neutralisation of ethanoic acid with NaOH numerically less than 57.3 kJ mol⁻¹?",
+     "a": "Ethanoic acid is weak; part of the heat evolved is used to complete the ionisation of the undissociated acid molecules, so less heat is available to warm the solution."
+    }
+   ]
+  },
+  {
+   "title": "7.4 Oxidation–Reduction (Redox) Reactions",
+   "html": "<p>Redox has been defined in three progressively more general ways:</p>\n<table><tr><th>Basis</th><th>Oxidation</th><th>Reduction</th></tr>\n<tr><td>Oxygen/hydrogen</td><td>gain of oxygen; loss of hydrogen</td><td>loss of oxygen; gain of hydrogen</td></tr>\n<tr><td>Electrons</td><td>loss of electrons</td><td>gain of electrons</td></tr>\n<tr><td>Oxidation number</td><td>increase in oxidation number</td><td>decrease in oxidation number</td></tr></table>\n<p>The mnemonic <b>OIL RIG</b> &mdash; Oxidation Is Loss, Reduction Is Gain (of electrons) &mdash; is worth memorising. Oxidation and reduction always occur together: the <b>oxidising agent</b> is itself reduced, and the <b>reducing agent</b> is itself oxidised.</p>\n\n<h4>Rules for assigning oxidation numbers</h4>\n<ol>\n<li>Free elements have oxidation number 0 (\\(Na\\), \\(O_2\\), \\(P_4\\)).</li>\n<li>A simple ion has the oxidation number of its charge (\\(Mg^{2+}=+2\\), \\(Cl^-=-1\\)).</li>\n<li>Hydrogen is +1 except in metal hydrides (NaH) where it is &minus;1.</li>\n<li>Oxygen is &minus;2 except in peroxides (\\(H_2O_2\\), &minus;1) and in \\(OF_2\\) (+2).</li>\n<li>Group 1 metals are always +1, Group 2 always +2, fluorine always &minus;1.</li>\n<li>The sum of oxidation numbers in a neutral compound is 0; in a polyatomic ion it equals the charge.</li>\n</ol>\n<p>Example: in \\(KMnO_4\\), \\(+1 + x + 4(-2) = 0\\), so Mn is +7. In \\(Cr_2O_7^{2-}\\), \\(2x + 7(-2) = -2\\), so Cr is +6.</p>\n\n<h4>Common oxidising and reducing agents</h4>\n<ul>\n<li><b>Oxidising agents:</b> \\(KMnO_4\\)/H&#8314; (purple &rarr; colourless), \\(K_2Cr_2O_7\\)/H&#8314; (orange &rarr; green), \\(Cl_2\\), conc. \\(H_2SO_4\\), \\(HNO_3\\), \\(H_2O_2\\), \\(O_2\\), \\(FeCl_3\\).</li>\n<li><b>Reducing agents:</b> \\(H_2\\), C, CO, \\(H_2S\\), \\(SO_2\\), \\(FeSO_4\\), \\(SnCl_2\\), Zn, KI, \\(Na_2S_2O_3\\).</li>\n<li>Some species are <b>both</b> depending on the partner: \\(H_2O_2\\), \\(SO_2\\) and \\(HNO_2\\).</li>\n</ul>\n\n<h4>Balancing redox equations by half-reactions</h4>\n<p>Example: \\(MnO_4^-\\) oxidising \\(Fe^{2+}\\) in acid.</p>\n<p>$$MnO_4^- + 8H^+ + 5e^- \\rightarrow Mn^{2+} + 4H_2O$$</p>\n<p>$$Fe^{2+} \\rightarrow Fe^{3+} + e^- \\quad (\\times 5)$$</p>\n<p>$$MnO_4^- + 8H^+ + 5Fe^{2+} \\rightarrow Mn^{2+} + 4H_2O + 5Fe^{3+}$$</p>\n<p>Steps: write the two half-equations; balance atoms other than O and H; balance O with \\(H_2O\\); balance H with \\(H^+\\); balance charge with electrons; multiply so electrons cancel; add.</p>\n<p><b>Disproportionation</b> is a special case in which the same element is simultaneously oxidised and reduced, e.g. \\(Cl_2 + 2NaOH \\rightarrow NaCl + NaOCl + H_2O\\) (chlorine goes from 0 to &minus;1 and +1).</p>",
+   "examples": [
+    {
+     "q": "Determine the oxidation number of sulphur in \\(H_2SO_4\\) and in \\(Na_2S_2O_3\\).",
+     "a": "In H₂SO₄: 2(+1)+x+4(−2)=0 ⇒ x=+6. In Na₂S₂O₃: 2(+1)+2x+3(−2)=0 ⇒ 2x=+4, so the average oxidation number of S is +2."
+    },
+    {
+     "q": "In \\(Zn + CuSO_4 \\rightarrow ZnSO_4 + Cu\\), identify the oxidising and reducing agents.",
+     "a": "Zn loses electrons (0 to +2): it is oxidised and is the reducing agent. Cu²⁺ gains electrons (+2 to 0): it is reduced and is the oxidising agent."
+    },
+    {
+     "q": "Explain why the reaction \\(Cl_2+2NaOH\\rightarrow NaCl+NaOCl+H_2O\\) is called disproportionation.",
+     "a": "Chlorine begins at oxidation number 0. In NaCl it is −1 (reduced) and in NaOCl it is +1 (oxidised). The same element is both oxidised and reduced in one reaction."
+    }
+   ]
+  },
+  {
+   "title": "7.5 Electrochemistry: Electrolysis and Cells",
+   "html": "<p><b>Electrolytes</b> conduct electricity in the molten or aqueous state and are decomposed by it; they contain mobile ions. Strong electrolytes (NaCl solution, dilute \\(H_2SO_4\\), NaOH) are fully ionised; weak electrolytes (\\(CH_3COOH\\), \\(NH_3\\) solution) only partly. Non-electrolytes (sugar solution, ethanol, benzene, kerosene) contain no ions.</p>\n\n<h4>Electrolysis</h4>\n<p>In an <b>electrolytic cell</b>, electrical energy drives a non-spontaneous reaction. The <b>cathode</b> is the negative electrode where cations gain electrons (reduction); the <b>anode</b> is positive, where anions lose electrons (oxidation).</p>\n<p><b>Discharge is selective.</b> Three factors decide which ion is discharged:</p>\n<ol>\n<li><b>Position in the electrochemical series</b> &mdash; the ion lower in the series (less easily formed) is discharged first. Cations: \\(K^+, Ca^{2+}, Na^+, Mg^{2+}, Al^{3+}, Zn^{2+}, Fe^{2+}, Pb^{2+}, H^+, Cu^{2+}, Ag^+\\) (ease of discharge increases to the right). Anions: \\(SO_4^{2-}, NO_3^-, Cl^-, Br^-, I^-, OH^-\\).</li>\n<li><b>Concentration</b> &mdash; a very concentrated chloride solution gives \\(Cl_2\\) rather than \\(O_2\\) at the anode.</li>\n<li><b>Nature of the electrode</b> &mdash; inert (Pt, graphite) electrodes take no part; an active copper anode dissolves instead of releasing oxygen, which is the basis of electroplating and copper refining.</li>\n</ol>\n\n<h4>Worked examples of electrolysis</h4>\n<ul>\n<li><b>Molten NaCl</b>: cathode \\(Na^+ + e^- \\rightarrow Na\\); anode \\(2Cl^- \\rightarrow Cl_2 + 2e^-\\) &mdash; the Downs process for sodium.</li>\n<li><b>Concentrated brine</b>: cathode \\(2H^+ + 2e^- \\rightarrow H_2\\); anode \\(2Cl^- \\rightarrow Cl_2+2e^-\\); NaOH accumulates in solution &mdash; the chlor-alkali industry.</li>\n<li><b>Dilute \\(H_2SO_4\\)</b> with Pt: hydrogen at the cathode and oxygen at the anode, in the volume ratio 2:1 &mdash; effectively the electrolysis of water.</li>\n<li><b>\\(CuSO_4\\) with copper electrodes</b>: copper dissolves at the anode and plates out at the cathode; the concentration of the solution stays constant.</li>\n</ul>\n\n<h4>Faraday's laws</h4>\n<p><b>First law:</b> the mass of a substance liberated at an electrode is directly proportional to the quantity of electricity passed.</p>\n<p>$$m \\propto Q, \\qquad Q = It$$</p>\n<p><b>Second law:</b> when the same quantity of electricity passes through different electrolytes, the masses liberated are proportional to their <b>chemical equivalents</b> (molar mass / charge).</p>\n<p>$$1\\ \\text{faraday} = 96500\\ C = \\text{charge on } 1\\ \\text{mole of electrons}$$</p>\n<p>$$m = \\frac{ItM}{nF}$$</p>\n\n<h4>Electrochemical (galvanic) cells</h4>\n<p>Here a spontaneous redox reaction produces electricity. In the <b>Daniell cell</b> (Zn in \\(ZnSO_4\\) | \\(CuSO_4\\) with Cu), zinc is the negative electrode (anode) and copper the positive electrode (cathode):</p>\n<p>$$Zn + Cu^{2+} \\rightarrow Zn^{2+} + Cu \\qquad E^\\ominus_{cell} = E^\\ominus_{cathode} - E^\\ominus_{anode} = 0.34 - (-0.76) = +1.10\\ V$$</p>\n<p>A positive cell e.m.f. means the reaction is feasible. <b>Primary cells</b> (dry Leclanch&#233; cell) cannot be recharged; <b>secondary cells</b> (lead&ndash;acid accumulator, lithium-ion) are rechargeable because the electrode reactions are reversible.</p>\n\n<h4>Applications and corrosion</h4>\n<p>Electrolysis is used for extracting reactive metals (Na, Al by the Hall&ndash;H&#233;roult process), refining copper, electroplating, and anodising aluminium. <b>Rusting</b> is an electrochemical process needing both water and oxygen; it is prevented by painting, greasing, galvanising (zinc coating), and <b>cathodic protection</b> using sacrificial blocks of zinc or magnesium on ships and pipelines.</p>",
+   "examples": [
+    {
+     "q": "Calculate the mass of copper deposited when 2 A flows for 30 minutes through \\(CuSO_4\\) solution. (Cu = 64)",
+     "a": "Q = 2 × 1800 = 3600 C. \\(m = ItM/nF = (3600\\times64)/(2\\times96500) = 1.19\\ g\\)."
+    },
+    {
+     "q": "What volume of oxygen at s.t.p. is liberated at the anode when 1 faraday passes through acidified water?",
+     "a": "\\(4OH^-\\rightarrow O_2+2H_2O+4e^-\\): 4 F liberate 1 mol O₂, so 1 F gives 0.25 mol = 0.25 × 22.4 = 5.6 dm³ at s.t.p."
+    },
+    {
+     "q": "Why is a zinc block bolted to the hull of a steel ship?",
+     "a": "Zinc is above iron in the electrochemical series, so it is oxidised in preference to the iron. It acts as a sacrificial anode, supplying electrons to the hull and protecting it from rusting; the block is replaced periodically."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The rate of a reaction is measured as the change in concentration per unit",
+   "options": [
+    "mass",
+    "volume",
+    "time",
+    "pressure"
+   ],
+   "answer": "2",
+   "solution": "Rate = Δconcentration/Δtime."
+  },
+  {
+   "q": "For a collision to be effective, the particles must have energy at least equal to the",
+   "options": [
+    "bond energy",
+    "activation energy",
+    "lattice energy",
+    "ionisation energy"
+   ],
+   "answer": "1",
+   "solution": "Eₐ is the minimum energy for reaction."
+  },
+  {
+   "q": "Increasing the surface area of a solid reactant increases the rate because",
+   "options": [
+    "the activation energy falls",
+    "more particles are exposed for collision",
+    "the temperature rises",
+    "the catalyst is stronger"
+   ],
+   "answer": "1",
+   "solution": "A powder exposes far more particles than a lump."
+  },
+  {
+   "q": "A rise of 10°C in temperature usually",
+   "options": [
+    "halves the rate",
+    "doubles the rate",
+    "has no effect",
+    "stops the reaction"
+   ],
+   "answer": "1",
+   "solution": "A much larger fraction of collisions then exceeds Eₐ."
+  },
+  {
+   "q": "A catalyst increases the rate of a reaction by",
+   "options": [
+    "raising the temperature",
+    "lowering the activation energy",
+    "increasing the concentration",
+    "shifting the equilibrium"
+   ],
+   "answer": "1",
+   "solution": "It provides an alternative pathway with a lower energy barrier."
+  },
+  {
+   "q": "Which is a heterogeneous catalyst?",
+   "options": [
+    "\\(H^+\\) in ester hydrolysis",
+    "iron in the Haber process",
+    "enzyme in solution",
+    "\\(Mn^{2+}\\) in solution"
+   ],
+   "answer": "1",
+   "solution": "Solid iron catalyses a gaseous reaction — different phases."
+  },
+  {
+   "q": "A substance that reduces the effectiveness of a catalyst is a",
+   "options": [
+    "promoter",
+    "poison",
+    "inhibitor of the reaction",
+    "autocatalyst"
+   ],
+   "answer": "1",
+   "solution": "Sulphur compounds poison platinum catalysts."
+  },
+  {
+   "q": "An autocatalyst is",
+   "options": [
+    "a catalyst added at the start",
+    "a product that catalyses its own reaction",
+    "a negative catalyst",
+    "an enzyme"
+   ],
+   "answer": "1",
+   "solution": "Mn²⁺ in the permanganate–oxalate reaction is an example."
+  },
+  {
+   "q": "Which reaction is fastest at room temperature?",
+   "options": [
+    "rusting of iron",
+    "precipitation of AgCl from solution",
+    "fermentation",
+    "hydrolysis of starch"
+   ],
+   "answer": "1",
+   "solution": "Ionic precipitations have very low activation energies."
+  },
+  {
+   "q": "At dynamic equilibrium",
+   "options": [
+    "both reactions stop",
+    "the forward and reverse rates are equal",
+    "concentrations are equal",
+    "the system is open"
+   ],
+   "answer": "1",
+   "solution": "Rates are equal, so concentrations remain constant."
+  },
+  {
+   "q": "Equilibrium can only be attained in a",
+   "options": [
+    "open system",
+    "closed system",
+    "vacuum",
+    "catalysed system"
+   ],
+   "answer": "1",
+   "solution": "Products must not escape."
+  },
+  {
+   "q": "The equilibrium constant \\(K_c\\) is affected by",
+   "options": [
+    "catalyst",
+    "pressure",
+    "temperature",
+    "concentration"
+   ],
+   "answer": "2",
+   "solution": "Only temperature changes the value of Kᴄ."
+  },
+  {
+   "q": "For \\(A+B \\rightleftharpoons C\\), \\(K_c\\) equals",
+   "options": [
+    "\\([A][B]/[C]\\)",
+    "\\([C]/([A][B])\\)",
+    "\\([C][A]/[B]\\)",
+    "\\([A]+[B]-[C]\\)"
+   ],
+   "answer": "1",
+   "solution": "Products over reactants, each raised to its coefficient."
+  },
+  {
+   "q": "Increasing the pressure on \\(N_2+3H_2\\rightleftharpoons 2NH_3\\)",
+   "options": [
+    "shifts it backwards",
+    "shifts it forwards",
+    "has no effect",
+    "stops the reaction"
+   ],
+   "answer": "1",
+   "solution": "The forward direction reduces 4 gas molecules to 2."
+  },
+  {
+   "q": "For an exothermic reaction, raising the temperature",
+   "options": [
+    "increases the yield",
+    "decreases the yield",
+    "has no effect on yield",
+    "changes ΔH"
+   ],
+   "answer": "1",
+   "solution": "The equilibrium shifts endothermically, i.e. backwards."
+  },
+  {
+   "q": "Adding an inert gas at constant volume to an equilibrium mixture",
+   "options": [
+    "shifts it forward",
+    "shifts it backward",
+    "has no effect",
+    "doubles \\(K_c\\)"
+   ],
+   "answer": "2",
+   "solution": "Partial pressures of the reacting gases are unchanged."
+  },
+  {
+   "q": "In the Haber process the catalyst used is",
+   "options": [
+    "\\(V_2O_5\\)",
+    "finely divided iron",
+    "nickel",
+    "platinum"
+   ],
+   "answer": "1",
+   "solution": "Promoted iron is the industrial catalyst."
+  },
+  {
+   "q": "The Contact process uses which catalyst?",
+   "options": [
+    "Fe",
+    "\\(V_2O_5\\)",
+    "Ni",
+    "\\(MnO_2\\)"
+   ],
+   "answer": "1",
+   "solution": "Vanadium(V) oxide converts SO₂ to SO₃."
+  },
+  {
+   "q": "Le Chatelier's principle states that a system at equilibrium responds so as to",
+   "options": [
+    "increase the constraint",
+    "annul the effect of the constraint",
+    "stop reacting",
+    "change the temperature"
+   ],
+   "answer": "1",
+   "solution": "The system opposes the imposed change."
+  },
+  {
+   "q": "A reaction that gives out heat is described as",
+   "options": [
+    "endothermic",
+    "exothermic",
+    "athermic",
+    "isothermal"
+   ],
+   "answer": "1",
+   "solution": "ΔH is negative for exothermic reactions."
+  },
+  {
+   "q": "Photosynthesis is",
+   "options": [
+    "exothermic",
+    "endothermic",
+    "neutral",
+    "spontaneous at 0 K"
+   ],
+   "answer": "1",
+   "solution": "It absorbs light energy, so ΔH is positive."
+  },
+  {
+   "q": "The enthalpy of neutralisation of a strong acid and strong alkali is about",
+   "options": [
+    "−11 kJ/mol",
+    "−57.3 kJ/mol",
+    "−393 kJ/mol",
+    "+57.3 kJ/mol"
+   ],
+   "answer": "1",
+   "solution": "It corresponds to H⁺ + OH⁻ → H₂O."
+  },
+  {
+   "q": "Hess's law is a consequence of the law of conservation of",
+   "options": [
+    "mass",
+    "energy",
+    "momentum",
+    "charge"
+   ],
+   "answer": "1",
+   "solution": "Total enthalpy change is route-independent."
+  },
+  {
+   "q": "Heat evolved is calculated from",
+   "options": [
+    "\\(Q=mc\\Delta\\theta\\)",
+    "\\(Q=It\\)",
+    "\\(Q=mv^2\\)",
+    "\\(Q=nRT\\)"
+   ],
+   "answer": "0",
+   "solution": "Mass × specific heat capacity × temperature change."
+  },
+  {
+   "q": "Entropy increases most in which change?",
+   "options": [
+    "freezing of water",
+    "condensation of steam",
+    "vaporisation of water",
+    "crystallisation of a salt"
+   ],
+   "answer": "2",
+   "solution": "A gas is far more disordered than a liquid."
+  },
+  {
+   "q": "A reaction is spontaneous when",
+   "options": [
+    "\\(\\Delta G>0\\)",
+    "\\(\\Delta G=0\\)",
+    "\\(\\Delta G<0\\)",
+    "\\(\\Delta H<0\\) only"
+   ],
+   "answer": "2",
+   "solution": "Negative Gibbs free energy indicates feasibility."
+  },
+  {
+   "q": "\\(\\Delta G\\) is given by",
+   "options": [
+    "\\(\\Delta H+T\\Delta S\\)",
+    "\\(\\Delta H-T\\Delta S\\)",
+    "\\(T\\Delta S-\\Delta H\\)",
+    "\\(\\Delta H/T\\)"
+   ],
+   "answer": "1",
+   "solution": "The Gibbs–Helmholtz relation."
+  },
+  {
+   "q": "Oxidation is best defined as",
+   "options": [
+    "gain of electrons",
+    "loss of electrons",
+    "gain of hydrogen",
+    "decrease in oxidation number"
+   ],
+   "answer": "1",
+   "solution": "OIL: oxidation is loss of electrons."
+  },
+  {
+   "q": "The oxidation number of Mn in \\(KMnO_4\\) is",
+   "options": [
+    "+2",
+    "+4",
+    "+6",
+    "+7"
+   ],
+   "answer": "3",
+   "solution": "+1 + x − 8 = 0 gives x = +7."
+  },
+  {
+   "q": "The oxidation number of Cr in \\(Cr_2O_7^{2-}\\) is",
+   "options": [
+    "+3",
+    "+6",
+    "+7",
+    "+12"
+   ],
+   "answer": "1",
+   "solution": "2x − 14 = −2 gives x = +6."
+  },
+  {
+   "q": "Hydrogen has an oxidation number of −1 in",
+   "options": [
+    "\\(H_2O\\)",
+    "\\(NaH\\)",
+    "\\(HCl\\)",
+    "\\(H_2SO_4\\)"
+   ],
+   "answer": "1",
+   "solution": "In metal hydrides hydrogen is the more electronegative partner."
+  },
+  {
+   "q": "Oxygen has oxidation number −1 in",
+   "options": [
+    "\\(H_2O\\)",
+    "\\(H_2O_2\\)",
+    "\\(CO_2\\)",
+    "\\(Na_2O\\)"
+   ],
+   "answer": "1",
+   "solution": "Peroxides contain the O–O linkage."
+  },
+  {
+   "q": "An oxidising agent is a substance that",
+   "options": [
+    "loses electrons",
+    "gains electrons",
+    "is oxidised",
+    "increases in oxidation number"
+   ],
+   "answer": "1",
+   "solution": "It accepts electrons and is itself reduced."
+  },
+  {
+   "q": "Which is a strong reducing agent?",
+   "options": [
+    "\\(KMnO_4\\)",
+    "\\(K_2Cr_2O_7\\)",
+    "\\(H_2S\\)",
+    "\\(Cl_2\\)"
+   ],
+   "answer": "2",
+   "solution": "Hydrogen sulphide is readily oxidised to sulphur."
+  },
+  {
+   "q": "Acidified \\(K_2Cr_2O_7\\) changes from orange to",
+   "options": [
+    "purple",
+    "green",
+    "blue",
+    "colourless"
+   ],
+   "answer": "1",
+   "solution": "Cr⁶⁺ is reduced to green Cr³⁺."
+  },
+  {
+   "q": "The reaction \\(Cl_2+2NaOH\\rightarrow NaCl+NaOCl+H_2O\\) is an example of",
+   "options": [
+    "neutralisation",
+    "disproportionation",
+    "hydrolysis",
+    "polymerisation"
+   ],
+   "answer": "1",
+   "solution": "Chlorine is both oxidised and reduced."
+  },
+  {
+   "q": "Which of these is a non-electrolyte?",
+   "options": [
+    "dilute \\(H_2SO_4\\)",
+    "molten NaCl",
+    "sugar solution",
+    "NaOH solution"
+   ],
+   "answer": "2",
+   "solution": "Sugar dissolves as neutral molecules, giving no ions."
+  },
+  {
+   "q": "During electrolysis, oxidation takes place at the",
+   "options": [
+    "cathode",
+    "anode",
+    "electrolyte",
+    "salt bridge"
+   ],
+   "answer": "1",
+   "solution": "Anions lose electrons at the anode."
+  },
+  {
+   "q": "In the electrolysis of concentrated brine, the product at the anode is",
+   "options": [
+    "hydrogen",
+    "chlorine",
+    "oxygen",
+    "sodium"
+   ],
+   "answer": "1",
+   "solution": "High chloride concentration favours discharge of Cl⁻."
+  },
+  {
+   "q": "In the electrolysis of dilute \\(H_2SO_4\\) with platinum electrodes, the ratio of hydrogen to oxygen by volume is",
+   "options": [
+    "1:1",
+    "1:2",
+    "2:1",
+    "3:1"
+   ],
+   "answer": "2",
+   "solution": "It is effectively the electrolysis of water."
+  },
+  {
+   "q": "One faraday is equal to",
+   "options": [
+    "9650 C",
+    "96500 C",
+    "1000 C",
+    "6.02×10²³ C"
+   ],
+   "answer": "1",
+   "solution": "It is the charge on one mole of electrons."
+  },
+  {
+   "q": "Faraday's first law states that the mass liberated is proportional to the",
+   "options": [
+    "time only",
+    "quantity of electricity",
+    "voltage",
+    "resistance"
+   ],
+   "answer": "1",
+   "solution": "m ∝ Q = It."
+  },
+  {
+   "q": "How many faradays are needed to deposit 1 mole of aluminium from \\(Al^{3+}\\)?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": "2",
+   "solution": "Al³⁺ + 3e⁻ → Al requires 3 mol of electrons."
+  },
+  {
+   "q": "In copper refining, the impure copper is used as the",
+   "options": [
+    "cathode",
+    "anode",
+    "electrolyte",
+    "salt bridge"
+   ],
+   "answer": "1",
+   "solution": "It dissolves and pure copper plates on the cathode."
+  },
+  {
+   "q": "In electroplating a spoon with silver, the spoon is the",
+   "options": [
+    "anode",
+    "cathode",
+    "electrolyte",
+    "catalyst"
+   ],
+   "answer": "1",
+   "solution": "The article to be plated is always the cathode."
+  },
+  {
+   "q": "In the Daniell cell, the negative electrode is",
+   "options": [
+    "copper",
+    "zinc",
+    "carbon",
+    "platinum"
+   ],
+   "answer": "1",
+   "solution": "Zinc is oxidised and releases electrons to the circuit."
+  },
+  {
+   "q": "The standard e.m.f. of the Zn/Cu cell (\\(E^\\ominus\\): Zn −0.76 V, Cu +0.34 V) is",
+   "options": [
+    "0.42 V",
+    "1.10 V",
+    "−1.10 V",
+    "0.34 V"
+   ],
+   "answer": "1",
+   "solution": "Eᴄₑₗₗ = 0.34 − (−0.76) = 1.10 V."
+  },
+  {
+   "q": "A rechargeable cell is described as a",
+   "options": [
+    "primary cell",
+    "secondary cell",
+    "fuel cell",
+    "dry cell"
+   ],
+   "answer": "1",
+   "solution": "Its electrode reactions are reversible, e.g. the lead–acid accumulator."
+  },
+  {
+   "q": "Rusting of iron requires",
+   "options": [
+    "oxygen only",
+    "water only",
+    "both oxygen and water",
+    "carbon dioxide only"
+   ],
+   "answer": "2",
+   "solution": "Both are essential to the electrochemical process."
+  },
+  {
+   "q": "Attaching magnesium blocks to an underground steel pipeline is called",
+   "options": [
+    "galvanising",
+    "cathodic protection",
+    "anodising",
+    "electroplating"
+   ],
+   "answer": "1",
+   "solution": "The more reactive metal corrodes sacrificially instead of the iron."
+  }
+ ]
+}

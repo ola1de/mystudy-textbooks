@@ -1,0 +1,656 @@
+{
+ "subject": "Chemistry",
+ "level": "SSS 1",
+ "slug": "introduction-matter",
+ "title": "Introduction and Matter",
+ "outline": [
+  "Branches of chemistry, careers and the scientific method",
+  "Laboratory safety rules and hazard symbols",
+  "States of matter and the kinetic theory",
+  "Physical and chemical changes",
+  "Elements, compounds and mixtures",
+  "Laws of chemical combination",
+  "Separation techniques: distillation, chromatography, crystallisation",
+  "Symbols, valency, formulae, balancing and ionic equations"
+ ],
+ "modules": [
+  {
+   "title": "1.1 What Chemistry Is and How Chemists Work",
+   "html": "\n<p><b>Chemistry</b> is the branch of science that studies the composition, structure, properties and changes of matter. Every material object you can touch — air, water, rock, fuel, food, your own body — is matter, and chemistry explains what it is made of and how it behaves when it meets other matter.</p>\n<p>Chemistry is usually divided into five broad branches:</p>\n<ul>\n<li><b>Inorganic chemistry</b> — elements and their compounds other than the hydrocarbons (metals, acids, salts, minerals).</li>\n<li><b>Organic chemistry</b> — compounds of carbon such as alkanes, alkanols, fats, proteins and plastics.</li>\n<li><b>Physical chemistry</b> — the energy, rates and equilibria that govern reactions.</li>\n<li><b>Analytical chemistry</b> — finding out <i>what</i> is present (qualitative) and <i>how much</i> is present (quantitative).</li>\n<li><b>Biochemistry</b> — the chemistry of living cells.</li>\n</ul>\n<h4>The scientific method</h4>\n<p>Chemists do not guess; they follow a disciplined sequence:</p>\n<ol>\n<li><b>Observation</b> — noticing a fact, e.g. \"iron nails rust faster near the sea\".</li>\n<li><b>Problem statement / question</b> — \"does salt speed up rusting?\"</li>\n<li><b>Hypothesis</b> — a testable, tentative explanation: \"dissolved salt increases the rate of rusting\".</li>\n<li><b>Experiment</b> — a fair test with one variable changed at a time and a <b>control</b> kept unchanged.</li>\n<li><b>Data collection and analysis</b> — tables, graphs, averages.</li>\n<li><b>Conclusion</b> — the hypothesis is supported or rejected.</li>\n<li><b>Theory / law</b> — a hypothesis that survives repeated testing becomes a theory; a consistently observed pattern expressed mathematically becomes a law.</li>\n</ol>\n<h4>Laboratory safety</h4>\n<p>Safety rules are not decoration — they are chemistry's first lesson:</p>\n<ul>\n<li>Never eat, drink or taste anything in the laboratory; identify gases by <b>wafting</b>, never by direct sniffing.</li>\n<li>Always add <b>acid to water</b>, slowly and with stirring, when diluting concentrated acids. The reverse (water to acid) releases heat so violently that the liquid spits.</li>\n<li>Wear goggles, a laboratory coat and closed shoes; tie back long hair near a Bunsen burner.</li>\n<li>Heat test tubes with the mouth pointing away from everyone, moving the tube gently in the flame.</li>\n<li>Know your hazard symbols: <b>corrosive</b>, <b>toxic</b>, <b>flammable</b>, <b>oxidising</b>, <b>irritant/harmful</b>, <b>explosive</b>, <b>radioactive</b>.</li>\n<li>Work with chlorine, bromine, hydrogen sulphide, sulphur dioxide, nitrogen dioxide and concentrated ammonia inside a <b>fume cupboard</b>.</li>\n</ul>\n<h4>Chemistry and the Nigerian economy</h4>\n<p>Chemical industries convert raw materials into useful products: petroleum refining (Port Harcourt, Warri, Kaduna, Dangote Refinery), petrochemicals and plastics, fertilizers (NPK, urea from Indorama and Dangote), cement (limestone → clinker), pharmaceuticals, breweries, soap and detergents, paints, textiles and dyes, and metallurgy (Ajaokuta steel). Careers include chemical engineering, pharmacy, medicine, industrial chemistry, forensic science, food technology, quality control and teaching.</p>\n",
+   "examples": [
+    {
+     "q": "State three branches of chemistry and one thing each studies.",
+     "a": "Inorganic – metals, acids and salts; Organic – carbon compounds such as alkanes and plastics; Physical – energy, rate and equilibrium of reactions."
+    },
+    {
+     "q": "Why must concentrated H2SO4 be added to water and never water to acid?",
+     "a": "Dilution is strongly exothermic. Adding acid slowly to a large volume of water lets the water absorb and spread the heat; adding water to acid concentrates the heat at the surface and the mixture spits corrosive acid out of the container."
+    },
+    {
+     "q": "Distinguish between a hypothesis and a theory.",
+     "a": "A hypothesis is a tentative, testable explanation proposed before experimentation; a theory is an explanation that has already survived many independent experimental tests and can predict new results."
+    }
+   ]
+  },
+  {
+   "title": "1.2 Matter and the Three States",
+   "html": "\n<p><b>Matter</b> is anything that has mass and occupies space. Every sample of matter is made of extremely small particles — atoms, molecules or ions — that are always in motion. This idea is the <b>kinetic theory of matter</b>, and it explains the three common states.</p>\n<table class=\"tb-table\"><thead><tr><th>Property</th><th>Solid</th><th>Liquid</th><th>Gas</th></tr></thead><tbody>\n<tr><td>Arrangement</td><td>Close-packed, orderly lattice</td><td>Close but disorderly</td><td>Far apart, random</td></tr>\n<tr><td>Motion</td><td>Vibration about fixed points</td><td>Slide over one another</td><td>Rapid, random, straight-line</td></tr>\n<tr><td>Forces between particles</td><td>Very strong</td><td>Moderate</td><td>Negligible</td></tr>\n<tr><td>Shape / volume</td><td>Fixed shape, fixed volume</td><td>No fixed shape, fixed volume</td><td>Neither fixed</td></tr>\n<tr><td>Compressibility</td><td>Almost none</td><td>Very slight</td><td>Very high</td></tr>\n</tbody></table>\n<h4>Changes of state</h4>\n<p>Melting (solid → liquid), freezing (liquid → solid), vaporisation/boiling (liquid → gas), condensation (gas → liquid), <b>sublimation</b> (solid → gas directly, e.g. iodine, ammonium chloride, solid CO<sub>2</sub>, camphor) and deposition (gas → solid). All are <b>physical changes</b>: no new substance is formed and the change is easily reversed.</p>\n<p>During a change of state the temperature stays constant even though heat is still supplied. That heat, the <b>latent heat</b>, is used to overcome the forces between particles rather than to raise their kinetic energy.</p>\n<h4>Evidence for the particle theory</h4>\n<ul>\n<li><b>Diffusion</b> — the smell of perfume spreads across a room; NH<sub>3</sub> and HCl gases meet in a tube to form a white ring of NH<sub>4</sub>Cl nearer the HCl end, because the lighter NH<sub>3</sub> diffuses faster.</li>\n<li><b>Brownian motion</b> — smoke particles viewed under a microscope jerk about because invisible air molecules bombard them randomly.</li>\n<li><b>Osmosis and dissolution</b> — sugar disappears into water because its particles slot into spaces between water molecules; the volume of the mixture is slightly less than the sum of the two volumes.</li>\n</ul>\n<h4>Physical and chemical change</h4>\n<table class=\"tb-table\"><thead><tr><th>Physical change</th><th>Chemical change</th></tr></thead><tbody>\n<tr><td>No new substance</td><td>New substance(s) formed</td></tr>\n<tr><td>Easily reversible</td><td>Usually not easily reversible</td></tr>\n<tr><td>Little heat change</td><td>Marked heat/light change</td></tr>\n<tr><td>Mass of substance unchanged</td><td>Mass of each substance changes (total mass conserved)</td></tr>\n<tr><td>Melting ice, dissolving salt, magnetising iron</td><td>Rusting, burning, respiration, souring of milk</td></tr>\n</tbody></table>\n",
+   "examples": [
+    {
+     "q": "Why does a gas fill its container completely while a liquid does not?",
+     "a": "Gas particles have negligible forces of attraction and very high kinetic energy, so they move randomly in straight lines until they hit the walls, spreading throughout the container. Liquid particles still attract one another strongly enough to keep a fixed volume."
+    },
+    {
+     "q": "Give two substances that sublime.",
+     "a": "Iodine and ammonium chloride (also solid carbon dioxide and camphor)."
+    },
+    {
+     "q": "Classify: (i) burning of candle wax (ii) melting of candle wax.",
+     "a": "(i) Chemical change — CO2 and water vapour are new substances and heat and light are given out. (ii) Physical change — only the state changes and the wax can be re-solidified."
+    }
+   ]
+  },
+  {
+   "title": "1.3 Elements, Compounds and Mixtures",
+   "html": "\n<p>Matter is first classified as a <b>pure substance</b> (fixed composition, sharp melting/boiling point) or a <b>mixture</b> (variable composition, melts/boils over a range). Pure substances are either <b>elements</b> or <b>compounds</b>.</p>\n<ul>\n<li><b>Element</b> — a substance that cannot be split into simpler substances by ordinary chemical means, e.g. iron, oxygen, sulphur. There are over 118 known elements, classified as metals, non-metals and metalloids (Si, Ge, As, Sb).</li>\n<li><b>Compound</b> — two or more elements chemically combined in a fixed ratio by mass, e.g. water H<sub>2</sub>O, common salt NaCl, carbon(IV) oxide CO<sub>2</sub>. Energy is absorbed or evolved when a compound forms and its properties differ completely from those of its elements.</li>\n<li><b>Mixture</b> — two or more substances physically together in any proportion, each keeping its own properties, e.g. air, sea water, soil, brass, crude oil.</li>\n</ul>\n<h4>Compound versus mixture — the iron and sulphur test</h4>\n<p>Grind iron filings with sulphur powder: the mixture is attracted by a magnet and the sulphur can be dissolved out with carbon disulphide. Heat the same masses strongly and a black solid, iron(II) sulphide FeS, forms; it is not magnetic, does not dissolve in CS<sub>2</sub>, and gives the rotten-egg gas H<sub>2</sub>S with dilute HCl. The reaction \\(\\mathrm{Fe + S \\rightarrow FeS}\\) requires a fixed 56 : 32 mass ratio.</p>\n<h4>Types of mixture</h4>\n<p>A <b>homogeneous</b> mixture has one visible phase throughout (salt solution, air, alloys); a <b>heterogeneous</b> mixture shows separate phases (sand and water, oil and water, granite).</p>\n<h4>Laws of chemical combination</h4>\n<ul>\n<li><b>Law of conservation of mass</b> — matter is neither created nor destroyed in a chemical reaction.</li>\n<li><b>Law of constant (definite) proportions</b> — a given pure compound always contains the same elements in the same proportion by mass. Water from any source is 1 part hydrogen to 8 parts oxygen by mass.</li>\n<li><b>Law of multiple proportions</b> — when two elements form more than one compound, the masses of one element combining with a fixed mass of the other are in a simple whole-number ratio (CO and CO<sub>2</sub>: 16 g and 32 g of oxygen per 12 g carbon, ratio 1 : 2).</li>\n</ul>\n",
+   "examples": [
+    {
+     "q": "Air is a mixture, not a compound. Give two reasons.",
+     "a": "Its composition varies from place to place, and its components (N2, O2, CO2, noble gases) keep their individual properties and can be separated by physical means — fractional distillation of liquid air."
+    },
+    {
+     "q": "8.0 g of copper forms 10.0 g of copper(II) oxide in one experiment and 4.0 g forms 5.0 g in another. Which law does this illustrate?",
+     "a": "The law of constant proportions: in both cases the Cu : O mass ratio is 8 : 2 = 4 : 1."
+    }
+   ]
+  },
+  {
+   "title": "1.4 Separation Techniques",
+   "html": "\n<p>Because a mixture is only physically combined, its components can be separated by exploiting a <b>difference in physical properties</b>. Choose the method that matches the difference.</p>\n<table class=\"tb-table\"><thead><tr><th>Method</th><th>Property used</th><th>Typical use</th></tr></thead><tbody>\n<tr><td>Handpicking / sieving</td><td>Particle size</td><td>Stones from beans; sand from gravel</td></tr>\n<tr><td>Magnetic separation</td><td>Magnetism</td><td>Iron filings from sulphur</td></tr>\n<tr><td>Filtration</td><td>Solubility / particle size</td><td>Sand from salt solution; chalk from water</td></tr>\n<tr><td>Decantation &amp; centrifuging</td><td>Density</td><td>Muddy water; blood cells from plasma</td></tr>\n<tr><td>Evaporation</td><td>Volatility (solvent lost)</td><td>Recovering salt from brine</td></tr>\n<tr><td>Crystallisation</td><td>Solubility changes with temperature</td><td>Purifying copper(II) sulphate, sugar, KNO<sub>3</sub></td></tr>\n<tr><td>Simple distillation</td><td>Boiling point (solvent recovered)</td><td>Pure water from sea water</td></tr>\n<tr><td>Fractional distillation</td><td>Different boiling points of miscible liquids</td><td>Ethanol/water; crude oil; liquid air</td></tr>\n<tr><td>Separating funnel</td><td>Immiscibility and density</td><td>Kerosene and water; oil and water</td></tr>\n<tr><td>Sublimation</td><td>One solid sublimes</td><td>Ammonium chloride from sodium chloride; iodine from sand</td></tr>\n<tr><td>Chromatography</td><td>Different rates of movement on a medium</td><td>Dyes in ink, plant pigments, drug testing</td></tr>\n<tr><td>Precipitation</td><td>Formation of insoluble solid</td><td>Removing Ca<sup>2+</sup> from hard water</td></tr>\n</tbody></table>\n<h4>Fractional distillation in detail</h4>\n<p>A fractionating column packed with glass beads or fitted with plates provides a large surface for repeated vaporisation and condensation. The vapour richest in the more volatile liquid rises highest; the less volatile liquid condenses and drips back. Ethanol (b.p. 78&nbsp;°C) distils before water (100&nbsp;°C). In crude-oil refining, the column is hottest at the base: bitumen &gt; lubricating oil &gt; diesel &gt; kerosene &gt; petrol &gt; refinery gas as you rise.</p>\n<h4>Paper chromatography</h4>\n<p>A spot of mixture is placed on the base line of chromatography paper (the <b>stationary phase</b>) above the level of a solvent (the <b>mobile phase</b>). As solvent rises, components travel different distances according to their solubility in the solvent and their adsorption on the paper. The retardation factor is</p>\n<p style=\"text-align:center\">\\( R_f = \\dfrac{\\text{distance moved by solute}}{\\text{distance moved by solvent front}} \\)</p>\n<p>\\(R_f\\) is always less than 1 and is characteristic of a substance in a given solvent, so it can be used to identify components.</p>\n",
+   "examples": [
+    {
+     "q": "How would you obtain pure water from ink?",
+     "a": "Simple distillation: heat the ink, condense the steam in a Liebig condenser and collect the distillate — pure water; the dye remains in the flask."
+    },
+    {
+     "q": "A solute moves 4.5 cm while the solvent front moves 9.0 cm. Find Rf.",
+     "a": "Rf = 4.5/9.0 = 0.5."
+    },
+    {
+     "q": "Which method separates a mixture of sodium chloride and ammonium chloride?",
+     "a": "Sublimation — on heating, ammonium chloride sublimes and re-solidifies on a cool surface, leaving sodium chloride behind."
+    }
+   ]
+  },
+  {
+   "title": "1.5 Symbols, Formulae and Chemical Equations",
+   "html": "\n<p>Each element has an international <b>symbol</b> — one capital letter, or a capital plus a small letter: H, O, C, N, Na (natrium), K (kalium), Fe (ferrum), Cu (cuprum), Ag (argentum), Au (aurum), Pb (plumbum), Sn (stannum), Hg (hydrargyrum), Sb (stibium).</p>\n<h4>Valency and formula writing</h4>\n<p><b>Valency</b> is the combining power of an atom or radical. Write the symbols side by side, then exchange (criss-cross) the valencies as subscripts and simplify.</p>\n<table class=\"tb-table\"><thead><tr><th>Valency 1</th><th>Valency 2</th><th>Valency 3</th></tr></thead><tbody>\n<tr><td>Na<sup>+</sup>, K<sup>+</sup>, H<sup>+</sup>, NH<sub>4</sub><sup>+</sup>, Cl<sup>−</sup>, NO<sub>3</sub><sup>−</sup>, OH<sup>−</sup>, HCO<sub>3</sub><sup>−</sup></td><td>Mg<sup>2+</sup>, Ca<sup>2+</sup>, Zn<sup>2+</sup>, Fe<sup>2+</sup>, Cu<sup>2+</sup>, O<sup>2−</sup>, SO<sub>4</sub><sup>2−</sup>, CO<sub>3</sub><sup>2−</sup></td><td>Al<sup>3+</sup>, Fe<sup>3+</sup>, PO<sub>4</sub><sup>3−</sup></td></tr>\n</tbody></table>\n<p>Example: aluminium sulphate — Al<sup>3+</sup> and SO<sub>4</sub><sup>2−</sup> → Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>. Calcium carbonate — Ca<sup>2+</sup> and CO<sub>3</sub><sup>2−</sup> → CaCO<sub>3</sub> (subscripts cancel).</p>\n<h4>Balancing equations</h4>\n<p>A chemical equation must obey the law of conservation of mass: the number of atoms of each element must be the same on both sides. Never change a formula to balance — change only the <b>coefficients</b>.</p>\n<ul>\n<li>\\( \\mathrm{2H_2 + O_2 \\rightarrow 2H_2O} \\)</li>\n<li>\\( \\mathrm{CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O} \\)</li>\n<li>\\( \\mathrm{Fe_2O_3 + 3CO \\rightarrow 2Fe + 3CO_2} \\)</li>\n<li>\\( \\mathrm{2KClO_3 \\xrightarrow{\\ \\Delta\\ } 2KCl + 3O_2} \\)</li>\n<li>\\( \\mathrm{Zn + H_2SO_4 \\rightarrow ZnSO_4 + H_2} \\)</li>\n</ul>\n<p>State symbols are added in brackets: (s) solid, (l) liquid, (g) gas, (aq) aqueous solution, e.g. \\( \\mathrm{AgNO_3(aq) + NaCl(aq) \\rightarrow AgCl(s) + NaNO_3(aq)} \\).</p>\n<h4>Ionic equations</h4>\n<p>Spectator ions — those unchanged on both sides — are cancelled. The reaction above becomes simply \\( \\mathrm{Ag^+(aq) + Cl^-(aq) \\rightarrow AgCl(s)} \\). Neutralisation of any strong acid by any strong alkali reduces to \\( \\mathrm{H^+(aq) + OH^-(aq) \\rightarrow H_2O(l)} \\).</p>\n",
+   "examples": [
+    {
+     "q": "Write the formula of iron(III) sulphate.",
+     "a": "Fe3+ with SO4^2- → Fe2(SO4)3."
+    },
+    {
+     "q": "Balance: Al + O2 → Al2O3.",
+     "a": "4Al + 3O2 → 2Al2O3."
+    },
+    {
+     "q": "Write the ionic equation for the reaction of dilute HCl with sodium hydroxide.",
+     "a": "H+(aq) + OH−(aq) → H2O(l); Na+ and Cl− are spectator ions."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Chemistry is best defined as the study of",
+   "options": [
+    "the motion of bodies under forces",
+    "the composition, properties and changes of matter",
+    "the classification of living organisms",
+    "the structure of the earth's crust"
+   ],
+   "answer": "1",
+   "solution": "Chemistry deals with matter: what it is made of, how it behaves and how it changes."
+  },
+  {
+   "q": "Which branch of chemistry deals mainly with carbon compounds?",
+   "options": [
+    "Inorganic",
+    "Physical",
+    "Organic",
+    "Analytical"
+   ],
+   "answer": "2",
+   "solution": "Organic chemistry is the chemistry of carbon compounds such as hydrocarbons, alkanols and polymers."
+  },
+  {
+   "q": "A tentative, testable explanation proposed before experimenting is a",
+   "options": [
+    "law",
+    "theory",
+    "conclusion",
+    "hypothesis"
+   ],
+   "answer": "3",
+   "solution": "A hypothesis is the tentative explanation that the experiment is designed to test."
+  },
+  {
+   "q": "In a fair experiment, the set-up kept unchanged for comparison is the",
+   "options": [
+    "variable",
+    "control",
+    "constant error",
+    "standard solution"
+   ],
+   "answer": "1",
+   "solution": "The control provides a baseline against which the changed set-up is compared."
+  },
+  {
+   "q": "When diluting concentrated sulphuric acid you should",
+   "options": [
+    "add water to the acid quickly",
+    "add acid to water slowly with stirring",
+    "mix equal volumes in a stoppered bottle",
+    "heat the acid before adding water"
+   ],
+   "answer": "1",
+   "solution": "Dilution is highly exothermic; adding acid to a large volume of water disperses the heat and prevents spitting."
+  },
+  {
+   "q": "Gases such as chlorine should be prepared in a",
+   "options": [
+    "beaker on the open bench",
+    "fume cupboard",
+    "water bath",
+    "desiccator"
+   ],
+   "answer": "1",
+   "solution": "A fume cupboard removes toxic vapours safely."
+  },
+  {
+   "q": "The correct way to detect the smell of a gas in the laboratory is to",
+   "options": [
+    "inhale deeply over the mouth of the tube",
+    "waft a little of the gas towards the nose",
+    "taste a drop of the condensate",
+    "boil the gas first"
+   ],
+   "answer": "1",
+   "solution": "Wafting brings only a trace of gas to the nose and avoids poisoning."
+  },
+  {
+   "q": "Matter is anything that",
+   "options": [
+    "can be seen with the eye",
+    "has mass and occupies space",
+    "can be burnt",
+    "conducts electricity"
+   ],
+   "answer": "1",
+   "solution": "That is the standard definition of matter."
+  },
+  {
+   "q": "The particles of a solid",
+   "options": [
+    "move randomly at high speed",
+    "vibrate about fixed positions",
+    "slide over one another freely",
+    "are very far apart"
+   ],
+   "answer": "1",
+   "solution": "In a solid, strong forces hold particles in a lattice where they only vibrate."
+  },
+  {
+   "q": "Which state of matter has a fixed volume but no fixed shape?",
+   "options": [
+    "Solid",
+    "Liquid",
+    "Gas",
+    "Plasma"
+   ],
+   "answer": "1",
+   "solution": "A liquid keeps its volume but takes the shape of its container."
+  },
+  {
+   "q": "The random movement of smoke particles seen under a microscope is called",
+   "options": [
+    "diffusion",
+    "osmosis",
+    "Brownian motion",
+    "effusion"
+   ],
+   "answer": "2",
+   "solution": "Brownian motion results from bombardment by invisible air molecules."
+  },
+  {
+   "q": "Which of these substances sublimes on heating?",
+   "options": [
+    "Sodium chloride",
+    "Ammonium chloride",
+    "Copper(II) sulphate",
+    "Calcium carbonate"
+   ],
+   "answer": "1",
+   "solution": "Ammonium chloride passes directly from solid to vapour and re-forms as a solid on a cool surface."
+  },
+  {
+   "q": "During melting, the temperature of a pure solid",
+   "options": [
+    "rises steadily",
+    "falls",
+    "remains constant",
+    "fluctuates"
+   ],
+   "answer": "2",
+   "solution": "The heat supplied (latent heat of fusion) breaks the forces between particles instead of raising temperature."
+  },
+  {
+   "q": "Which is a chemical change?",
+   "options": [
+    "Dissolving sugar in water",
+    "Melting of ice",
+    "Rusting of iron",
+    "Magnetising a steel bar"
+   ],
+   "answer": "2",
+   "solution": "Rusting forms hydrated iron(III) oxide, a new substance, and is not easily reversed."
+  },
+  {
+   "q": "A substance that cannot be split into simpler substances by chemical means is a(n)",
+   "options": [
+    "mixture",
+    "compound",
+    "element",
+    "alloy"
+   ],
+   "answer": "2",
+   "solution": "That is the definition of an element."
+  },
+  {
+   "q": "Which of the following is a compound?",
+   "options": [
+    "Air",
+    "Brass",
+    "Sea water",
+    "Sodium chloride"
+   ],
+   "answer": "3",
+   "solution": "Sodium chloride has elements chemically combined in a fixed ratio; the others are mixtures."
+  },
+  {
+   "q": "A mixture of iron filings and sulphur can be separated with a magnet because",
+   "options": [
+    "they react on mixing",
+    "each keeps its own properties in a mixture",
+    "sulphur is magnetic",
+    "iron dissolves in sulphur"
+   ],
+   "answer": "1",
+   "solution": "Components of a mixture retain their individual physical properties."
+  },
+  {
+   "q": "When iron and sulphur are heated together the product FeS is",
+   "options": [
+    "attracted by a magnet",
+    "soluble in carbon disulphide",
+    "a new compound with different properties",
+    "still a mixture"
+   ],
+   "answer": "2",
+   "solution": "A chemical reaction has occurred, giving a compound with entirely new properties."
+  },
+  {
+   "q": "Air is regarded as a mixture because",
+   "options": [
+    "its components are chemically combined",
+    "its composition is fixed everywhere",
+    "its composition varies and components keep their properties",
+    "it cannot be liquefied"
+   ],
+   "answer": "2",
+   "solution": "Variable composition and retained properties are the hallmarks of a mixture."
+  },
+  {
+   "q": "Water from a river and water from a well both contain hydrogen and oxygen in the mass ratio 1 : 8. This illustrates the law of",
+   "options": [
+    "conservation of mass",
+    "constant proportions",
+    "multiple proportions",
+    "reciprocal proportions"
+   ],
+   "answer": "1",
+   "solution": "A pure compound always has the same composition by mass."
+  },
+  {
+   "q": "Carbon forms CO and CO2. The masses of oxygen combining with 12 g of carbon are 16 g and 32 g, a ratio of 1 : 2. This illustrates the law of",
+   "options": [
+    "definite proportions",
+    "multiple proportions",
+    "conservation of mass",
+    "Gay-Lussac"
+   ],
+   "answer": "1",
+   "solution": "Simple whole-number ratios of one element with a fixed mass of another define the law of multiple proportions."
+  },
+  {
+   "q": "Which technique separates sand from a salt solution?",
+   "options": [
+    "Distillation",
+    "Filtration",
+    "Sublimation",
+    "Chromatography"
+   ],
+   "answer": "1",
+   "solution": "Sand is insoluble and is retained as residue on the filter paper."
+  },
+  {
+   "q": "Pure water is best obtained from sea water by",
+   "options": [
+    "filtration",
+    "evaporation",
+    "simple distillation",
+    "decantation"
+   ],
+   "answer": "2",
+   "solution": "Distillation vaporises the water and condenses it, leaving dissolved solids behind."
+  },
+  {
+   "q": "Two miscible liquids with different boiling points are best separated by",
+   "options": [
+    "fractional distillation",
+    "a separating funnel",
+    "filtration",
+    "crystallisation"
+   ],
+   "answer": "0",
+   "solution": "A fractionating column allows repeated vaporisation and condensation, separating by boiling point."
+  },
+  {
+   "q": "Kerosene and water are separated using a",
+   "options": [
+    "fractionating column",
+    "separating funnel",
+    "Liebig condenser",
+    "desiccator"
+   ],
+   "answer": "1",
+   "solution": "They are immiscible and of different densities, so they form two layers that can be run off separately."
+  },
+  {
+   "q": "In paper chromatography the paper is the",
+   "options": [
+    "mobile phase",
+    "stationary phase",
+    "solvent front",
+    "eluent"
+   ],
+   "answer": "1",
+   "solution": "The paper holds the components; the solvent that moves is the mobile phase."
+  },
+  {
+   "q": "A component travels 3 cm while the solvent front travels 12 cm. Its Rf value is",
+   "options": [
+    "0.25",
+    "0.40",
+    "2.50",
+    "4.00"
+   ],
+   "answer": "0",
+   "solution": "Rf = 3/12 = 0.25."
+  },
+  {
+   "q": "The Rf value of a substance is always",
+   "options": [
+    "greater than 1",
+    "equal to 1",
+    "less than 1",
+    "negative"
+   ],
+   "answer": "2",
+   "solution": "The solute cannot travel farther than the solvent front, so Rf < 1."
+  },
+  {
+   "q": "Which method is used to purify copper(II) sulphate crystals?",
+   "options": [
+    "Sublimation",
+    "Crystallisation",
+    "Filtration only",
+    "Decantation"
+   ],
+   "answer": "1",
+   "solution": "A saturated hot solution is cooled so that pure crystals separate, leaving impurities in the mother liquor."
+  },
+  {
+   "q": "In the fractional distillation of crude oil the fraction collected at the highest point of the column is",
+   "options": [
+    "bitumen",
+    "diesel",
+    "kerosene",
+    "refinery gas"
+   ],
+   "answer": "3",
+   "solution": "The most volatile fraction rises highest before condensing."
+  },
+  {
+   "q": "The symbol for potassium is",
+   "options": [
+    "P",
+    "Po",
+    "K",
+    "Pt"
+   ],
+   "answer": "2",
+   "solution": "K comes from the Latin kalium; P is phosphorus."
+  },
+  {
+   "q": "The symbol Pb represents",
+   "options": [
+    "phosphorus",
+    "lead",
+    "platinum",
+    "palladium"
+   ],
+   "answer": "1",
+   "solution": "Pb is from the Latin plumbum, meaning lead."
+  },
+  {
+   "q": "The valency of the sulphate radical is",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": "1",
+   "solution": "SO4^2− carries two negative charges."
+  },
+  {
+   "q": "The formula of aluminium sulphate is",
+   "options": [
+    "AlSO4",
+    "Al2SO4",
+    "Al2(SO4)3",
+    "Al3(SO4)2"
+   ],
+   "answer": "2",
+   "solution": "Criss-crossing Al3+ and SO4^2− gives Al2(SO4)3."
+  },
+  {
+   "q": "The formula of ammonium carbonate is",
+   "options": [
+    "NH4CO3",
+    "(NH4)2CO3",
+    "NH3CO3",
+    "(NH4)3CO3"
+   ],
+   "answer": "1",
+   "solution": "NH4+ has valency 1 and CO3^2− has valency 2, so two ammonium ions are needed."
+  },
+  {
+   "q": "Balancing: Al + O2 → Al2O3. The coefficients are",
+   "options": [
+    "2, 3, 2",
+    "4, 3, 2",
+    "4, 6, 2",
+    "2, 2, 1"
+   ],
+   "answer": "1",
+   "solution": "4Al + 3O2 → 2Al2O3 balances 4 Al and 6 O on each side."
+  },
+  {
+   "q": "In the equation 2KClO3 → 2KCl + 3O2, the number of moles of oxygen gas from 2 moles of KClO3 is",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "6"
+   ],
+   "answer": "2",
+   "solution": "The coefficient of O2 is 3."
+  },
+  {
+   "q": "The state symbol (aq) means the substance is",
+   "options": [
+    "a pure liquid",
+    "dissolved in water",
+    "a gas",
+    "a solid"
+   ],
+   "answer": "1",
+   "solution": "(aq) stands for aqueous, i.e. dissolved in water."
+  },
+  {
+   "q": "Ions that appear unchanged on both sides of an ionic equation are called",
+   "options": [
+    "complex ions",
+    "spectator ions",
+    "radicals",
+    "electrolytes"
+   ],
+   "answer": "1",
+   "solution": "Spectator ions are cancelled out when writing the net ionic equation."
+  },
+  {
+   "q": "The ionic equation for the neutralisation of a strong acid by a strong alkali is",
+   "options": [
+    "H+ + OH− → H2O",
+    "Na+ + Cl− → NaCl",
+    "H2 + O → H2O",
+    "OH− → H+ + O2−"
+   ],
+   "answer": "0",
+   "solution": "Only the hydrogen and hydroxide ions actually react."
+  },
+  {
+   "q": "Which of these is NOT a physical change?",
+   "options": [
+    "Dissolving common salt",
+    "Boiling water",
+    "Burning magnesium ribbon",
+    "Crushing chalk"
+   ],
+   "answer": "2",
+   "solution": "Burning magnesium forms magnesium oxide, a new substance."
+  },
+  {
+   "q": "A homogeneous mixture is one that",
+   "options": [
+    "has visibly separate phases",
+    "has a uniform composition throughout",
+    "cannot be separated",
+    "is always a solid"
+   ],
+   "answer": "1",
+   "solution": "Homogeneous mixtures such as salt solution or brass look the same throughout."
+  },
+  {
+   "q": "Which apparatus is used to condense vapour during distillation?",
+   "options": [
+    "Desiccator",
+    "Liebig condenser",
+    "Separating funnel",
+    "Buchner funnel"
+   ],
+   "answer": "1",
+   "solution": "The Liebig condenser carries cold water in its outer jacket to condense the vapour."
+  },
+  {
+   "q": "A metalloid among the following is",
+   "options": [
+    "sodium",
+    "silicon",
+    "sulphur",
+    "chlorine"
+   ],
+   "answer": "1",
+   "solution": "Silicon shows both metallic and non-metallic properties."
+  },
+  {
+   "q": "A pure substance is characterised by",
+   "options": [
+    "a range of melting points",
+    "a sharp, fixed melting point",
+    "variable composition",
+    "always being coloured"
+   ],
+   "answer": "1",
+   "solution": "Impurities lower and broaden the melting point; a pure solid melts sharply."
+  },
+  {
+   "q": "Which industry converts limestone into clinker?",
+   "options": [
+    "Petrochemical",
+    "Cement",
+    "Brewing",
+    "Textile"
+   ],
+   "answer": "1",
+   "solution": "Cement manufacture roasts limestone with clay to form clinker."
+  },
+  {
+   "q": "The hazard symbol showing a skull and crossbones means the substance is",
+   "options": [
+    "flammable",
+    "toxic",
+    "oxidising",
+    "radioactive"
+   ],
+   "answer": "1",
+   "solution": "The skull and crossbones warns of a toxic (poisonous) substance."
+  },
+  {
+   "q": "Centrifuging separates a mixture on the basis of difference in",
+   "options": [
+    "boiling point",
+    "solubility",
+    "density",
+    "colour"
+   ],
+   "answer": "2",
+   "solution": "Rapid spinning forces the denser particles to the bottom of the tube."
+  },
+  {
+   "q": "Ammonia gas diffuses faster than hydrogen chloride gas because it",
+   "options": [
+    "is more soluble",
+    "has a lower molar mass",
+    "is a base",
+    "is colourless"
+   ],
+   "answer": "1",
+   "solution": "Lighter molecules diffuse faster, so the white NH4Cl ring forms nearer the HCl end."
+  },
+  {
+   "q": "The law of conservation of mass states that in a chemical reaction, mass is",
+   "options": [
+    "always increased",
+    "always reduced",
+    "neither created nor destroyed",
+    "converted to volume"
+   ],
+   "answer": "2",
+   "solution": "Total mass of reactants equals total mass of products."
+  }
+ ]
+}

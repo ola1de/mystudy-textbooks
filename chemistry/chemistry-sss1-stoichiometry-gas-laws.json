@@ -1,0 +1,624 @@
+{
+ "subject": "Chemistry",
+ "level": "SSS 1",
+ "slug": "stoichiometry-gas-laws",
+ "title": "Stoichiometry & Gas Laws",
+ "outline": [
+  "The mole, Avogadro's constant and molar mass",
+  "Mass, particle and gas-volume conversions",
+  "Percentage composition by mass",
+  "Empirical and molecular formulae",
+  "Stoichiometry, limiting reagent and percentage yield",
+  "Volumetric analysis and titration calculations",
+  "Boyle's, Charles's and the pressure law",
+  "General gas equation and the ideal gas equation PV = nRT",
+  "Dalton's law of partial pressures",
+  "Graham's law of diffusion",
+  "Gay-Lussac's and Avogadro's laws",
+  "Ideal and real gases"
+ ],
+ "modules": [
+  {
+   "title": "4.1 The Mole Concept",
+   "html": "\n<p>The <b>mole</b> is the amount of substance that contains as many elementary entities as there are atoms in 12 g of carbon-12. That number is the <b>Avogadro constant</b>, \\( N_A = 6.02\\times10^{23}\\ \\mathrm{mol^{-1}} \\).</p>\n<p>One mole of any substance contains \\(6.02\\times10^{23}\\) particles and has a mass in grams equal to its relative atomic or molecular mass (the <b>molar mass</b>, g mol⁻¹).</p>\n<p style=\"text-align:center\">\\( n = \\dfrac{m}{M} = \\dfrac{N}{N_A} = \\dfrac{V_{\\text{gas at s.t.p.}}}{22.4\\ \\mathrm{dm^3}} = C \\times \\dfrac{V_{\\text{soln}}}{1000} \\)</p>\n<ul>\n<li><b>Mass ↔ mole:</b> 40 g of NaOH (M = 40) is 1 mol.</li>\n<li><b>Particles:</b> 0.5 mol of CO<sub>2</sub> contains \\(0.5\\times6.02\\times10^{23}=3.01\\times10^{23}\\) molecules, but three times that many atoms.</li>\n<li><b>Gas volume:</b> at s.t.p. (0&nbsp;°C, 760 mmHg) one mole of any gas occupies <b>22.4 dm³</b>; at r.t.p. (25&nbsp;°C, 1 atm) about 24 dm³. This is the <b>molar volume</b>.</li>\n<li><b>Solutions:</b> a 0.1 mol dm⁻³ solution contains 0.1 mol in every 1000 cm³.</li>\n</ul>\n<h4>Molar mass calculations</h4>\n<p>M(CaCO<sub>3</sub>) = 40 + 12 + (3×16) = 100 g mol⁻¹. M(CuSO<sub>4</sub>·5H<sub>2</sub>O) = 64 + 32 + 64 + 5(18) = 250 g mol⁻¹.</p>\n<h4>Percentage composition</h4>\n<p style=\"text-align:center\">\\( \\%\\text{element} = \\dfrac{\\text{total mass of the element in 1 mole}}{\\text{molar mass}} \\times 100 \\)</p>\n<p>In CaCO<sub>3</sub>: %Ca = 40/100 × 100 = 40%; %C = 12%; %O = 48%.</p>\n",
+   "examples": [
+    {
+     "q": "Calculate the number of moles in 9.8 g of H2SO4 (M = 98).",
+     "a": "n = m/M = 9.8/98 = 0.1 mol."
+    },
+    {
+     "q": "What volume does 3.2 g of oxygen occupy at s.t.p.? (O = 16)",
+     "a": "n = 3.2/32 = 0.1 mol; V = 0.1 × 22.4 = 2.24 dm³."
+    },
+    {
+     "q": "How many atoms are present in 0.25 mol of water?",
+     "a": "Molecules = 0.25 × 6.02×10^23 = 1.505×10^23. Each has 3 atoms, so 4.515×10^23 atoms."
+    }
+   ]
+  },
+  {
+   "title": "4.2 Empirical and Molecular Formulae",
+   "html": "\n<p>The <b>empirical formula</b> gives the simplest whole-number ratio of atoms in a compound; the <b>molecular formula</b> gives the actual number of atoms in one molecule and is always a whole-number multiple of the empirical formula.</p>\n<p style=\"text-align:center\">\\( \\text{Molecular formula} = (\\text{empirical formula})_n,\\qquad n=\\dfrac{\\text{molar mass}}{\\text{empirical formula mass}} \\)</p>\n<h4>Standard working method</h4>\n<ol>\n<li>Write the mass (or percentage) of each element.</li>\n<li>Divide each by the relative atomic mass to get moles.</li>\n<li>Divide all the answers by the smallest of them.</li>\n<li>Multiply if necessary to clear fractions (×2 for .5, ×3 for .33).</li>\n</ol>\n<p><b>Worked example.</b> A compound contains 40% C, 6.7% H and 53.3% O; its molar mass is 180.</p>\n<table class=\"tb-table\"><thead><tr><th>Element</th><th>%</th><th>÷ A<sub>r</sub></th><th>÷ smallest</th></tr></thead><tbody>\n<tr><td>C</td><td>40</td><td>40/12 = 3.33</td><td>1</td></tr>\n<tr><td>H</td><td>6.7</td><td>6.7/1 = 6.7</td><td>2</td></tr>\n<tr><td>O</td><td>53.3</td><td>53.3/16 = 3.33</td><td>1</td></tr>\n</tbody></table>\n<p>Empirical formula CH<sub>2</sub>O (mass 30); n = 180/30 = 6; molecular formula <b>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></b> — glucose.</p>\n<h4>Stoichiometry from equations</h4>\n<p>Coefficients in a balanced equation give the mole ratio. For \\( \\mathrm{2H_2 + O_2 \\rightarrow 2H_2O} \\), 2 mol of hydrogen need 1 mol of oxygen and yield 2 mol of water. The reactant that finishes first is the <b>limiting reagent</b>; it fixes the yield.</p>\n<p style=\"text-align:center\">\\( \\%\\text{yield} = \\dfrac{\\text{actual yield}}{\\text{theoretical yield}}\\times100 \\)</p>\n<h4>Volumetric analysis</h4>\n<p>For a titration \\( \\dfrac{C_AV_A}{C_BV_B} = \\dfrac{n_A}{n_B} \\), where n<sub>A</sub> and n<sub>B</sub> are the stoichiometric coefficients of acid and base.</p>\n",
+   "examples": [
+    {
+     "q": "25.0 cm³ of 0.1 M NaOH is exactly neutralised by 20.0 cm³ of HCl. Find the concentration of the acid.",
+     "a": "Moles NaOH = 0.1 × 25/1000 = 0.0025. Ratio 1:1 so moles HCl = 0.0025. C = 0.0025 × 1000/20 = 0.125 mol dm−3."
+    },
+    {
+     "q": "A hydrocarbon contains 85.7% C and 14.3% H, molar mass 56. Find its molecular formula.",
+     "a": "C: 85.7/12 = 7.14; H: 14.3/1 = 14.3; ratio 1:2 so empirical CH2 (14). n = 56/14 = 4, molecular formula C4H8."
+    }
+   ]
+  },
+  {
+   "title": "4.3 The Gas Laws",
+   "html": "\n<h4>Boyle's law</h4>\n<p>At constant temperature, the volume of a fixed mass of gas is inversely proportional to its pressure: \\( V \\propto \\frac{1}{P} \\), so \\( P_1V_1 = P_2V_2 \\). A graph of V against 1/P is a straight line through the origin.</p>\n<h4>Charles's law</h4>\n<p>At constant pressure, volume is directly proportional to absolute temperature: \\( \\frac{V_1}{T_1}=\\frac{V_2}{T_2} \\), where T is in kelvin (K = °C + 273).</p>\n<h4>Pressure (Gay-Lussac's) law</h4>\n<p>At constant volume, \\( \\frac{P_1}{T_1}=\\frac{P_2}{T_2} \\).</p>\n<h4>General gas equation</h4>\n<p style=\"text-align:center\">\\( \\dfrac{P_1V_1}{T_1}=\\dfrac{P_2V_2}{T_2} \\qquad\\text{and}\\qquad PV = nRT \\)</p>\n<p>where R = 8.314 J K⁻¹ mol⁻¹ (or 0.0821 atm dm³ K⁻¹ mol⁻¹). This ideal gas equation combines all the gas laws.</p>\n<h4>Dalton's law of partial pressures</h4>\n<p>The total pressure of a mixture of non-reacting gases is the sum of the partial pressures: \\( P_T = P_1+P_2+\\dots \\). When a gas is collected over water, \\( P_{\\text{dry gas}} = P_{\\text{total}} - P_{\\text{water vapour}} \\).</p>\n<h4>Graham's law of diffusion</h4>\n<p style=\"text-align:center\">\\( \\dfrac{R_1}{R_2}=\\sqrt{\\dfrac{M_2}{M_1}} = \\sqrt{\\dfrac{\\rho_2}{\\rho_1}} \\)</p>\n<p>The rate of diffusion of a gas is inversely proportional to the square root of its density (or molar mass) at constant temperature and pressure. Hydrogen diffuses four times faster than oxygen because \\(\\sqrt{32/2}=4\\).</p>\n<h4>Gay-Lussac's law of combining volumes and Avogadro's law</h4>\n<p>When gases react, the volumes of reactants and products, measured at the same temperature and pressure, are in simple whole-number ratios. Avogadro's law adds that equal volumes of all gases under the same conditions contain equal numbers of molecules. Hence for \\( \\mathrm{N_2 + 3H_2 \\rightarrow 2NH_3} \\), 1 volume of nitrogen and 3 volumes of hydrogen give 2 volumes of ammonia.</p>\n<h4>Ideal versus real gases</h4>\n<p>An ideal gas obeys the gas laws exactly; its molecules have negligible volume and no intermolecular attractions. Real gases deviate at <b>high pressure and low temperature</b>, where molecules are close enough for attractions and their own volume to matter — that is why gases can be liquefied.</p>\n",
+   "examples": [
+    {
+     "q": "A gas occupies 250 cm³ at 27 °C and 760 mmHg. What is its volume at s.t.p.?",
+     "a": "P1V1/T1 = P2V2/T2 → (760 × 250)/300 = (760 × V2)/273, so V2 = 250 × 273/300 = 227.5 cm³."
+    },
+    {
+     "q": "Compare the rates of diffusion of SO2 (M = 64) and CH4 (M = 16).",
+     "a": "R(CH4)/R(SO2) = √(64/16) = 2, so methane diffuses twice as fast."
+    },
+    {
+     "q": "Why do real gases deviate from ideal behaviour at low temperature?",
+     "a": "At low temperature molecules move slowly, so intermolecular attractive forces (neglected in the ideal model) become significant and the actual volume is smaller than predicted."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The value of the Avogadro constant is",
+   "options": [
+    "6.02 × 10^23",
+    "3.01 × 10^23",
+    "9.11 × 10^-31",
+    "1.6 × 10^-19"
+   ],
+   "answer": "0",
+   "solution": "NA = 6.02 × 10^23 particles per mole."
+  },
+  {
+   "q": "One mole of a substance is the amount containing",
+   "options": [
+    "1 g of the substance",
+    "22.4 g of the substance",
+    "6.02 × 10^23 particles",
+    "100 particles"
+   ],
+   "answer": "2",
+   "solution": "The mole is defined by the Avogadro number of entities."
+  },
+  {
+   "q": "The molar volume of any gas at s.t.p. is",
+   "options": [
+    "22.4 cm³",
+    "22.4 dm³",
+    "24.0 cm³",
+    "1 dm³"
+   ],
+   "answer": "1",
+   "solution": "22.4 dm³ (22 400 cm³) per mole at 0 °C and 760 mmHg."
+  },
+  {
+   "q": "How many moles are in 20 g of NaOH? (Na=23, O=16, H=1)",
+   "options": [
+    "0.2",
+    "0.5",
+    "1.0",
+    "2.0"
+   ],
+   "answer": "1",
+   "solution": "M = 40; n = 20/40 = 0.5 mol."
+  },
+  {
+   "q": "The mass of 0.25 mol of CaCO3 (M = 100) is",
+   "options": [
+    "2.5 g",
+    "25 g",
+    "40 g",
+    "100 g"
+   ],
+   "answer": "1",
+   "solution": "m = nM = 0.25 × 100 = 25 g."
+  },
+  {
+   "q": "The number of molecules in 2 moles of CO2 is",
+   "options": [
+    "6.02 × 10^23",
+    "1.204 × 10^24",
+    "3.01 × 10^23",
+    "12.04 × 10^24"
+   ],
+   "answer": "1",
+   "solution": "2 × 6.02 × 10^23 = 1.204 × 10^24."
+  },
+  {
+   "q": "The volume of 0.5 mol of nitrogen at s.t.p. is",
+   "options": [
+    "5.6 dm³",
+    "11.2 dm³",
+    "22.4 dm³",
+    "44.8 dm³"
+   ],
+   "answer": "1",
+   "solution": "0.5 × 22.4 = 11.2 dm³."
+  },
+  {
+   "q": "The molar mass of CuSO4·5H2O (Cu=64, S=32, O=16, H=1) is",
+   "options": [
+    "160",
+    "180",
+    "250",
+    "286"
+   ],
+   "answer": "2",
+   "solution": "64 + 32 + 64 + 90 = 250 g/mol."
+  },
+  {
+   "q": "The percentage of nitrogen in NH4NO3 (M = 80) is",
+   "options": [
+    "17.5%",
+    "28%",
+    "35%",
+    "46%"
+   ],
+   "answer": "2",
+   "solution": "2 N = 28; 28/80 × 100 = 35%."
+  },
+  {
+   "q": "The empirical formula of a compound shows",
+   "options": [
+    "the actual number of atoms",
+    "the simplest whole-number ratio of atoms",
+    "the mass of the molecule",
+    "the number of moles"
+   ],
+   "answer": "1",
+   "solution": "That is the definition of empirical formula."
+  },
+  {
+   "q": "A compound has empirical formula CH2 and molar mass 42. Its molecular formula is",
+   "options": [
+    "CH2",
+    "C2H4",
+    "C3H6",
+    "C4H8"
+   ],
+   "answer": "2",
+   "solution": "n = 42/14 = 3, so C3H6."
+  },
+  {
+   "q": "A compound contains 40% C, 6.7% H, 53.3% O. Its empirical formula is",
+   "options": [
+    "CHO",
+    "CH2O",
+    "C2H4O",
+    "CH4O"
+   ],
+   "answer": "1",
+   "solution": "Mole ratio 3.33 : 6.7 : 3.33 = 1 : 2 : 1."
+  },
+  {
+   "q": "In the reaction 2H2 + O2 → 2H2O, 4 moles of hydrogen require how many moles of oxygen?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": "1",
+   "solution": "Ratio 2 : 1, so 4 mol H2 needs 2 mol O2."
+  },
+  {
+   "q": "The reactant that is completely used up first in a reaction is called the",
+   "options": [
+    "excess reagent",
+    "limiting reagent",
+    "catalyst",
+    "product"
+   ],
+   "answer": "1",
+   "solution": "It limits the amount of product formed."
+  },
+  {
+   "q": "Percentage yield is",
+   "options": [
+    "theoretical/actual × 100",
+    "actual/theoretical × 100",
+    "actual − theoretical",
+    "mass/volume × 100"
+   ],
+   "answer": "1",
+   "solution": "Actual divided by theoretical yield times 100."
+  },
+  {
+   "q": "Number of moles of solute in 250 cm³ of 0.2 mol dm−3 solution is",
+   "options": [
+    "0.05",
+    "0.2",
+    "0.5",
+    "5.0"
+   ],
+   "answer": "0",
+   "solution": "n = 0.2 × 250/1000 = 0.05 mol."
+  },
+  {
+   "q": "25 cm³ of 0.1 M HCl neutralises 25 cm³ of NaOH. The concentration of NaOH is",
+   "options": [
+    "0.05 M",
+    "0.1 M",
+    "0.2 M",
+    "0.4 M"
+   ],
+   "answer": "1",
+   "solution": "Equal volumes and 1:1 ratio give equal concentration."
+  },
+  {
+   "q": "Boyle's law states that at constant temperature volume is",
+   "options": [
+    "directly proportional to pressure",
+    "inversely proportional to pressure",
+    "proportional to temperature",
+    "independent of pressure"
+   ],
+   "answer": "1",
+   "solution": "V ∝ 1/P, so PV is constant."
+  },
+  {
+   "q": "Charles's law relates volume to",
+   "options": [
+    "pressure",
+    "absolute temperature",
+    "density",
+    "mass"
+   ],
+   "answer": "1",
+   "solution": "V/T is constant at constant pressure."
+  },
+  {
+   "q": "A temperature of 27 °C equals",
+   "options": [
+    "300 K",
+    "273 K",
+    "327 K",
+    "246 K"
+   ],
+   "answer": "0",
+   "solution": "K = 27 + 273 = 300."
+  },
+  {
+   "q": "A gas at 2 atm occupies 300 cm³. At 3 atm and the same temperature its volume is",
+   "options": [
+    "200 cm³",
+    "300 cm³",
+    "450 cm³",
+    "600 cm³"
+   ],
+   "answer": "0",
+   "solution": "P1V1 = P2V2 → V2 = (2×300)/3 = 200 cm³."
+  },
+  {
+   "q": "A gas occupies 200 cm³ at 300 K. At 600 K and constant pressure it occupies",
+   "options": [
+    "100 cm³",
+    "200 cm³",
+    "400 cm³",
+    "600 cm³"
+   ],
+   "answer": "2",
+   "solution": "V ∝ T, so doubling T doubles V."
+  },
+  {
+   "q": "The general gas equation is",
+   "options": [
+    "PV = constant",
+    "P1V1/T1 = P2V2/T2",
+    "V/T = P",
+    "PT = V"
+   ],
+   "answer": "1",
+   "solution": "It combines Boyle's and Charles's laws."
+  },
+  {
+   "q": "In the ideal gas equation PV = nRT, R is the",
+   "options": [
+    "rate constant",
+    "molar gas constant",
+    "relative mass",
+    "Rydberg constant"
+   ],
+   "answer": "1",
+   "solution": "R = 8.314 J K−1 mol−1."
+  },
+  {
+   "q": "Dalton's law of partial pressures applies to",
+   "options": [
+    "reacting gases",
+    "non-reacting gas mixtures",
+    "liquids",
+    "solids"
+   ],
+   "answer": "1",
+   "solution": "Total pressure = sum of partial pressures of unreacting gases."
+  },
+  {
+   "q": "When a gas is collected over water, the pressure of the dry gas equals",
+   "options": [
+    "total pressure + vapour pressure",
+    "total pressure − water vapour pressure",
+    "water vapour pressure only",
+    "atmospheric pressure × 2"
+   ],
+   "answer": "1",
+   "solution": "Subtract the saturated vapour pressure of water."
+  },
+  {
+   "q": "Graham's law states that the rate of diffusion of a gas is inversely proportional to the",
+   "options": [
+    "molar mass",
+    "square of the molar mass",
+    "square root of its density",
+    "temperature"
+   ],
+   "answer": "2",
+   "solution": "R ∝ 1/√ρ (or 1/√M)."
+  },
+  {
+   "q": "Hydrogen (M = 2) diffuses how many times faster than oxygen (M = 32)?",
+   "options": [
+    "2",
+    "4",
+    "8",
+    "16"
+   ],
+   "answer": "1",
+   "solution": "√(32/2) = 4."
+  },
+  {
+   "q": "Gas X diffuses twice as fast as SO2 (M = 64). The molar mass of X is",
+   "options": [
+    "16",
+    "32",
+    "128",
+    "256"
+   ],
+   "answer": "0",
+   "solution": "√(64/M) = 2 → 64/M = 4 → M = 16."
+  },
+  {
+   "q": "Avogadro's law states that equal volumes of gases under the same conditions contain equal numbers of",
+   "options": [
+    "atoms",
+    "molecules",
+    "electrons",
+    "protons"
+   ],
+   "answer": "1",
+   "solution": "That is Avogadro's hypothesis."
+  },
+  {
+   "q": "For N2 + 3H2 → 2NH3, 30 cm³ of hydrogen gives what volume of ammonia?",
+   "options": [
+    "10 cm³",
+    "20 cm³",
+    "30 cm³",
+    "60 cm³"
+   ],
+   "answer": "1",
+   "solution": "3 volumes H2 give 2 volumes NH3, so 30 → 20 cm³."
+  },
+  {
+   "q": "Gay-Lussac's law of combining volumes applies only to",
+   "options": [
+    "solids",
+    "liquids",
+    "gases",
+    "solutions"
+   ],
+   "answer": "2",
+   "solution": "It concerns the volumes of reacting gases."
+  },
+  {
+   "q": "Real gases deviate most from ideal behaviour at",
+   "options": [
+    "high temperature and low pressure",
+    "low temperature and high pressure",
+    "standard temperature and pressure",
+    "zero pressure"
+   ],
+   "answer": "1",
+   "solution": "Molecules are close enough for attractions and their own volume to matter."
+  },
+  {
+   "q": "An ideal gas is assumed to have",
+   "options": [
+    "strong intermolecular forces",
+    "molecules of negligible volume",
+    "a fixed shape",
+    "variable mass"
+   ],
+   "answer": "1",
+   "solution": "Point molecules with no attractions."
+  },
+  {
+   "q": "The mass of 11.2 dm³ of CO2 at s.t.p. (M = 44) is",
+   "options": [
+    "11 g",
+    "22 g",
+    "44 g",
+    "88 g"
+   ],
+   "answer": "1",
+   "solution": "n = 11.2/22.4 = 0.5; m = 0.5 × 44 = 22 g."
+  },
+  {
+   "q": "The number of atoms in 1 mole of oxygen gas O2 is",
+   "options": [
+    "6.02 × 10^23",
+    "1.204 × 10^24",
+    "3.01 × 10^23",
+    "2.4 × 10^24"
+   ],
+   "answer": "1",
+   "solution": "One mole contains 6.02×10^23 molecules, each with 2 atoms."
+  },
+  {
+   "q": "The concentration in mol dm−3 of a solution containing 4 g NaOH in 500 cm³ is",
+   "options": [
+    "0.1",
+    "0.2",
+    "0.4",
+    "1.0"
+   ],
+   "answer": "1",
+   "solution": "n = 4/40 = 0.1 mol in 0.5 dm³ → 0.2 mol dm−3."
+  },
+  {
+   "q": "Which is NOT a unit of pressure?",
+   "options": [
+    "atm",
+    "mmHg",
+    "pascal",
+    "dm³"
+   ],
+   "answer": "3",
+   "solution": "dm³ is a unit of volume."
+  },
+  {
+   "q": "Standard temperature and pressure means",
+   "options": [
+    "25 °C and 1 atm",
+    "0 °C and 760 mmHg",
+    "100 °C and 1 atm",
+    "0 K and 0 atm"
+   ],
+   "answer": "1",
+   "solution": "s.t.p. is 273 K and 760 mmHg."
+  },
+  {
+   "q": "The relative molecular mass of a gas whose 1 dm³ weighs 1.96 g at s.t.p. is about",
+   "options": [
+    "22",
+    "44",
+    "64",
+    "88"
+   ],
+   "answer": "1",
+   "solution": "22.4 × 1.96 ≈ 44."
+  },
+  {
+   "q": "If 0.1 mol of a gas occupies 2.24 dm³, the conditions are",
+   "options": [
+    "s.t.p.",
+    "r.t.p.",
+    "high pressure",
+    "vacuum"
+   ],
+   "answer": "0",
+   "solution": "0.1 × 22.4 = 2.24 dm³ at s.t.p."
+  },
+  {
+   "q": "The mole ratio in a balanced equation is given by the",
+   "options": [
+    "subscripts",
+    "coefficients",
+    "state symbols",
+    "molar masses"
+   ],
+   "answer": "1",
+   "solution": "Stoichiometric coefficients give the mole ratio."
+  },
+  {
+   "q": "Which contains the greatest number of molecules?",
+   "options": [
+    "1 g H2",
+    "1 g O2",
+    "1 g CO2",
+    "1 g N2"
+   ],
+   "answer": "0",
+   "solution": "Hydrogen has the smallest molar mass, so 1 g contains the most moles."
+  },
+  {
+   "q": "A solution of concentration 1 mol dm−3 is also called",
+   "options": [
+    "normal",
+    "molar",
+    "saturated",
+    "standard buffer"
+   ],
+   "answer": "1",
+   "solution": "A 1 M solution is a molar solution."
+  },
+  {
+   "q": "50 cm³ of 0.2 M H2SO4 neutralises 0.02 mol of NaOH. The mole ratio acid : base is",
+   "options": [
+    "1:1",
+    "1:2",
+    "2:1",
+    "1:3"
+   ],
+   "answer": "1",
+   "solution": "Moles acid = 0.01, base = 0.02 → 1 : 2, as in H2SO4 + 2NaOH."
+  },
+  {
+   "q": "Which quantity is unchanged when a gas is compressed at constant temperature?",
+   "options": [
+    "Volume",
+    "Pressure",
+    "Number of moles",
+    "Density"
+   ],
+   "answer": "2",
+   "solution": "Compression changes P, V and density but not the amount of gas."
+  },
+  {
+   "q": "The molar mass of a gas can be found from its vapour density D by",
+   "options": [
+    "M = D",
+    "M = 2D",
+    "M = D/2",
+    "M = 22.4D"
+   ],
+   "answer": "1",
+   "solution": "Relative molecular mass = 2 × vapour density."
+  },
+  {
+   "q": "A hydrocarbon of formula CxHy burns to give 4 mol CO2 and 5 mol H2O per mole. Its formula is",
+   "options": [
+    "C4H8",
+    "C4H10",
+    "C5H10",
+    "C4H5"
+   ],
+   "answer": "1",
+   "solution": "4 carbons and 10 hydrogens (5 H2O) → C4H10."
+  },
+  {
+   "q": "The volume of CO2 produced at s.t.p. by decomposing 10 g of CaCO3 (M = 100) is",
+   "options": [
+    "1.12 dm³",
+    "2.24 dm³",
+    "11.2 dm³",
+    "22.4 dm³"
+   ],
+   "answer": "1",
+   "solution": "n = 0.1 mol → 0.1 × 22.4 = 2.24 dm³."
+  },
+  {
+   "q": "Which law explains why an inflated balloon expands when warmed?",
+   "options": [
+    "Boyle's",
+    "Charles's",
+    "Graham's",
+    "Dalton's"
+   ],
+   "answer": "1",
+   "solution": "At constant pressure volume increases with absolute temperature."
+  }
+ ]
+}

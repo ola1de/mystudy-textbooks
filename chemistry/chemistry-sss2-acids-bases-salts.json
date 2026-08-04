@@ -1,0 +1,646 @@
+{
+ "subject": "Chemistry",
+ "level": "SSS 2",
+ "slug": "acids-bases-salts",
+ "title": "Acids, Bases and Salts",
+ "outline": [
+  "Arrhenius, Brønsted–Lowry and Lewis definitions",
+  "Conjugate acid–base pairs and amphiprotic species",
+  "Strong and weak acids and bases; basicity and acidity",
+  "Typical reactions of acids, bases and oxides",
+  "The pH scale, \\(K_w\\) and pH calculations",
+  "Indicators and their working ranges",
+  "Acid–base titration, standard solutions and calculations",
+  "Types of salt: normal, acid, basic, double and complex",
+  "Methods of salt preparation and solubility rules",
+  "Water of crystallisation, efflorescence, deliquescence and hygroscopy",
+  "Salt hydrolysis and the pH of salt solutions",
+  "Buffers, acid rain and everyday applications"
+ ],
+ "modules": [
+  {
+   "title": "5.1 Theories of Acids and Bases",
+   "html": "<p>An <b>acid</b> was originally defined as a substance that turns blue litmus red, tastes sour, and neutralises bases. As chemistry matured, three progressively wider theories replaced that simple description.</p>\n\n<h4>1. Arrhenius theory (1887)</h4>\n<p>An acid is a substance that <b>ionises in water to produce hydrogen ions</b>, \\(H^+\\); a base produces <b>hydroxide ions</b>, \\(OH^-\\).</p>\n<p>$$HCl_{(aq)} \\rightarrow H^+_{(aq)} + Cl^-_{(aq)} \\qquad NaOH_{(aq)} \\rightarrow Na^+_{(aq)} + OH^-_{(aq)}$$</p>\n<p>The bare proton does not exist alone in water; it attaches to a water molecule to give the <b>hydroxonium ion</b>, \\(H_3O^+\\). Limitation: the theory only works for aqueous solutions and cannot explain why ammonia (which has no \\(OH\\) group) is basic.</p>\n\n<h4>2. Br&#248;nsted&ndash;Lowry theory (1923)</h4>\n<p>An acid is a <b>proton donor</b>; a base is a <b>proton acceptor</b>. Every acid has a <b>conjugate base</b> formed after it loses its proton, and every base has a <b>conjugate acid</b>.</p>\n<p>$$\\underset{acid}{NH_4^+} + \\underset{base}{H_2O} \\rightleftharpoons \\underset{conj.\\ base}{NH_3} + \\underset{conj.\\ acid}{H_3O^+}$$</p>\n<p>Substances such as water, \\(HCO_3^-\\) and \\(HSO_4^-\\) can donate <i>or</i> accept a proton; they are described as <b>amphiprotic</b> (or amphoteric).</p>\n\n<h4>3. Lewis theory (1923)</h4>\n<p>A Lewis acid is an <b>electron-pair acceptor</b>; a Lewis base is an <b>electron-pair donor</b>. This is the widest definition and explains reactions with no proton at all:</p>\n<p>$$BF_3 + :NH_3 \\rightarrow F_3B \\leftarrow NH_3$$</p>\n<p>Here \\(BF_3\\) has an incomplete octet and accepts the lone pair on nitrogen, forming a <b>dative (coordinate)</b> bond. Metal ions such as \\(Cu^{2+}\\) and \\(Al^{3+}\\) are Lewis acids when they form complex ions with water or ammonia ligands.</p>\n\n<h4>Strong versus weak</h4>\n<p><b>Strength</b> is about the <i>degree of ionisation</i>, not the concentration. A strong acid (HCl, \\(HNO_3\\), \\(H_2SO_4\\)) is completely ionised in water; a weak acid (ethanoic acid, carbonic acid, \\(H_2S\\)) is only partially ionised and sets up an equilibrium:</p>\n<p>$$CH_3COOH \\rightleftharpoons CH_3COO^- + H^+$$</p>\n<p>Strong bases: NaOH, KOH, \\(Ba(OH)_2\\). Weak bases: \\(NH_3\\), amines, \\(Ca(OH)_2\\) (also sparingly soluble). <b>Basicity</b> of an acid is the number of replaceable hydrogen atoms per molecule: HCl is monobasic, \\(H_2SO_4\\) dibasic, \\(H_3PO_4\\) tribasic. <b>Acidity</b> of a base is the number of hydroxide ions it can furnish.</p>\n\n<h4>Typical reactions of acids</h4>\n<ul>\n<li>Acid + reactive metal &rarr; salt + hydrogen: \\(Zn + H_2SO_4 \\rightarrow ZnSO_4 + H_2\\)</li>\n<li>Acid + base/oxide &rarr; salt + water: \\(CuO + 2HCl \\rightarrow CuCl_2 + H_2O\\)</li>\n<li>Acid + trioxocarbonate(IV) &rarr; salt + water + \\(CO_2\\): \\(CaCO_3 + 2HCl \\rightarrow CaCl_2 + H_2O + CO_2\\)</li>\n</ul>\n<p>Concentrated tetraoxosulphate(VI) acid is additionally a powerful <b>dehydrating agent</b> (it chars sugar) and an oxidising agent, while dilute trioxonitrate(V) acid oxidises copper without releasing hydrogen.</p>",
+   "examples": [
+    {
+     "q": "Write the conjugate base of \\(H_2PO_4^-\\) and its conjugate acid.",
+     "a": "Conjugate base (lose H⁺): \\(HPO_4^{2-}\\). Conjugate acid (gain H⁺): \\(H_3PO_4\\). The ion is therefore amphiprotic."
+    },
+    {
+     "q": "Why is ammonia a base under Brønsted–Lowry but not under Arrhenius?",
+     "a": "Ammonia contains no \\(OH\\) group so it cannot release hydroxide directly (Arrhenius fails). It does accept a proton from water, \\(NH_3+H_2O\\rightleftharpoons NH_4^++OH^-\\), so it is a Brønsted base."
+    },
+    {
+     "q": "Distinguish between a dilute strong acid and a concentrated weak acid.",
+     "a": "Dilute strong acid: few moles per dm³ but fully ionised, so a relatively high [H⁺]. Concentrated weak acid: many moles per dm³ but only slightly ionised. Strength = extent of ionisation; concentration = amount per unit volume."
+    }
+   ]
+  },
+  {
+   "title": "5.2 The pH Scale, Indicators and Titration",
+   "html": "<p>Water self-ionises very slightly:</p>\n<p>$$2H_2O \\rightleftharpoons H_3O^+ + OH^- \\qquad K_w = [H^+][OH^-] = 1\\times10^{-14}\\ mol^2dm^{-6}\\ (25^\\circ C)$$</p>\n<p>The concentration of \\(H^+\\) in a solution spans many powers of ten, so S&#248;rensen defined</p>\n<p>$$pH = -\\log_{10}[H^+] \\qquad pOH = -\\log_{10}[OH^-] \\qquad pH + pOH = 14$$</p>\n<table><tr><th>pH</th><th>Nature</th><th>Example</th></tr>\n<tr><td>0&ndash;3</td><td>strongly acidic</td><td>gastric juice, 0.1 M HCl</td></tr>\n<tr><td>4&ndash;6</td><td>weakly acidic</td><td>rain water, vinegar, milk</td></tr>\n<tr><td>7</td><td>neutral</td><td>pure water at 25&deg;C</td></tr>\n<tr><td>8&ndash;10</td><td>weakly alkaline</td><td>sea water, baking-soda solution</td></tr>\n<tr><td>11&ndash;14</td><td>strongly alkaline</td><td>0.1 M NaOH, oven cleaner</td></tr></table>\n\n<h4>Indicators</h4>\n<p>An acid&ndash;base indicator is a weak organic acid (or base) whose ionised and unionised forms have different colours:</p>\n<p>$$HIn \\rightleftharpoons H^+ + In^- \\quad (\\text{colour A} \\rightleftharpoons \\text{colour B})$$</p>\n<table><tr><th>Indicator</th><th>Acid colour</th><th>Alkaline colour</th><th>pH range</th></tr>\n<tr><td>Methyl orange</td><td>red/pink</td><td>yellow</td><td>3.1&ndash;4.4</td></tr>\n<tr><td>Litmus</td><td>red</td><td>blue</td><td>5.0&ndash;8.0</td></tr>\n<tr><td>Phenolphthalein</td><td>colourless</td><td>pink</td><td>8.3&ndash;10.0</td></tr>\n<tr><td>Bromothymol blue</td><td>yellow</td><td>blue</td><td>6.0&ndash;7.6</td></tr></table>\n\n<h4>Choosing an indicator</h4>\n<ul>\n<li>Strong acid + strong base (equivalence pH 7): any indicator &mdash; methyl orange or phenolphthalein.</li>\n<li>Strong acid + weak base (equivalence pH &lt; 7, e.g. HCl vs \\(NH_3\\)): <b>methyl orange</b>.</li>\n<li>Weak acid + strong base (equivalence pH &gt; 7, e.g. \\(CH_3COOH\\) vs NaOH): <b>phenolphthalein</b>.</li>\n<li>Weak acid + weak base: no sharp change &mdash; titration is not practicable; use a conductivity or pH meter.</li>\n</ul>\n\n<h4>Volumetric analysis</h4>\n<p>A <b>standard solution</b> has accurately known concentration and is prepared from a primary standard (anhydrous \\(Na_2CO_3\\), \\(KHC_8H_4O_4\\), oxalic acid) which is pure, stable, non-hygroscopic and of high molar mass. NaOH and HCl are <i>not</i> primary standards.</p>\n<p>The titration formula:</p>\n<p>$$\\frac{C_AV_A}{C_BV_B}=\\frac{n_A}{n_B}$$</p>\n<p>where \\(n_A\\) and \\(n_B\\) are the stoichiometric coefficients of acid and base in the balanced equation.</p>\n<p><b>Apparatus:</b> pipette (delivers a fixed volume of the solution in the conical flask), burette (delivers variable volume, read to 0.05 cm&sup3;), conical flask (swirled without loss), white tile (to see the end-point). Concordant titres are readings within 0.10&ndash;0.20 cm&sup3; of one another; only these are averaged.</p>",
+   "examples": [
+    {
+     "q": "Calculate the pH of 0.005 mol dm⁻³ \\(H_2SO_4\\), assuming full ionisation.",
+     "a": "\\([H^+]=2\\times0.005=0.01\\ mol\\,dm^{-3}\\). pH \\(=-\\log(10^{-2})=2\\)."
+    },
+    {
+     "q": "25.0 cm³ of NaOH needed 22.5 cm³ of 0.100 M \\(H_2SO_4\\). Find the concentration of the alkali.",
+     "a": "Moles acid \\(=0.100\\times0.0225=2.25\\times10^{-3}\\). Ratio acid:base = 1:2, so moles NaOH \\(=4.50\\times10^{-3}\\). \\(C=4.50\\times10^{-3}/0.0250=0.18\\ mol\\,dm^{-3}\\)."
+    },
+    {
+     "q": "Why is phenolphthalein unsuitable for titrating ammonia solution with hydrochloric acid?",
+     "a": "The salt formed, \\(NH_4Cl\\), hydrolyses to give an acidic end-point (pH about 5). Phenolphthalein changes over pH 8.3–10.0, well above that, so it would change colour long before the true equivalence point. Methyl orange (3.1–4.4) is used."
+    }
+   ]
+  },
+  {
+   "title": "5.3 Salts: Types, Preparation and Properties",
+   "html": "<p>A <b>salt</b> is the compound formed when the replaceable hydrogen of an acid is wholly or partly replaced by a metal or by the ammonium ion.</p>\n\n<h4>Types of salt</h4>\n<ul>\n<li><b>Normal salt</b> &mdash; all replaceable H replaced: NaCl, \\(Na_2SO_4\\), \\((NH_4)_2SO_4\\).</li>\n<li><b>Acid salt</b> &mdash; only part of the H replaced; only dibasic/tribasic acids form them: \\(NaHSO_4\\), \\(NaHCO_3\\), \\(Na_2HPO_4\\).</li>\n<li><b>Basic salt</b> &mdash; contains \\(OH\\) or \\(O\\) in addition to the anion: \\(Pb(OH)Cl\\), \\(Mg(OH)Cl\\), \\(Cu(OH)_2\\!\\cdot\\!CuCO_3\\) (malachite).</li>\n<li><b>Double salt</b> &mdash; two simple salts crystallised together, ionising into all the constituent ions: \\(KAl(SO_4)_2\\!\\cdot\\!12H_2O\\) (alum), \\((NH_4)_2SO_4\\!\\cdot\\!FeSO_4\\!\\cdot\\!6H_2O\\) (Mohr's salt).</li>\n<li><b>Complex salt</b> &mdash; contains a complex ion that does not break down: \\(K_4[Fe(CN)_6]\\), \\([Cu(NH_3)_4]SO_4\\).</li>\n</ul>\n\n<h4>Methods of preparation</h4>\n<table><tr><th>Method</th><th>Suitable for</th><th>Example</th></tr>\n<tr><td>Acid + metal</td><td>soluble salts of moderately reactive metals (Zn, Fe, Mg)</td><td>\\(Mg+H_2SO_4\\rightarrow MgSO_4+H_2\\)</td></tr>\n<tr><td>Acid + insoluble base/carbonate</td><td>soluble salts of unreactive metals (Cu, Pb)</td><td>\\(CuO+H_2SO_4\\rightarrow CuSO_4+H_2O\\)</td></tr>\n<tr><td>Titration (acid + alkali)</td><td>soluble salts of Na, K, \\(NH_4^+\\)</td><td>\\(NaOH+HCl\\rightarrow NaCl+H_2O\\)</td></tr>\n<tr><td>Precipitation (double decomposition)</td><td>insoluble salts</td><td>\\(AgNO_3+NaCl\\rightarrow AgCl\\!\\downarrow+NaNO_3\\)</td></tr>\n<tr><td>Direct combination</td><td>anhydrous salts of variable-valency metals</td><td>\\(2Fe+3Cl_2\\rightarrow 2FeCl_3\\)</td></tr></table>\n\n<h4>Solubility rules (learn these)</h4>\n<ul>\n<li>All trioxonitrates(V), and all sodium, potassium and ammonium salts, are <b>soluble</b>.</li>\n<li>All chlorides are soluble <i>except</i> \\(AgCl\\), \\(PbCl_2\\) (soluble in hot water) and \\(Hg_2Cl_2\\).</li>\n<li>All tetraoxosulphates(VI) are soluble <i>except</i> \\(BaSO_4\\), \\(PbSO_4\\) and \\(CaSO_4\\) (slightly soluble).</li>\n<li>All trioxocarbonates(IV) are insoluble <i>except</i> those of Na, K and \\(NH_4^+\\).</li>\n</ul>\n\n<h4>Water of crystallisation and related behaviour</h4>\n<ul>\n<li><b>Hydrated salt</b>: contains water of crystallisation, e.g. \\(CuSO_4\\!\\cdot\\!5H_2O\\) (blue), \\(Na_2CO_3\\!\\cdot\\!10H_2O\\). Heating drives the water off, leaving the anhydrous salt (white \\(CuSO_4\\)) &mdash; a reversible physical test for water.</li>\n<li><b>Efflorescence</b>: a hydrated salt loses water to the atmosphere and crumbles to powder, e.g. \\(Na_2CO_3\\!\\cdot\\!10H_2O\\), \\(FeSO_4\\!\\cdot\\!7H_2O\\).</li>\n<li><b>Deliquescence</b>: a solid absorbs so much moisture that it dissolves in it, e.g. NaOH, \\(CaCl_2\\), \\(MgCl_2\\).</li>\n<li><b>Hygroscopy</b>: absorbs moisture but does not dissolve, e.g. conc. \\(H_2SO_4\\), CuO, \\(P_4O_{10}\\); used as drying agents.</li>\n</ul>\n\n<h4>Salt hydrolysis</h4>\n<p>Not every salt solution is neutral. A salt of a strong acid and weak base (\\(NH_4Cl\\), \\(AlCl_3\\)) hydrolyses to give an <b>acidic</b> solution; a salt of a weak acid and strong base (\\(CH_3COONa\\), \\(Na_2CO_3\\)) gives an <b>alkaline</b> solution; a salt of a strong acid and strong base (NaCl, \\(KNO_3\\)) is <b>neutral</b>.</p>",
+   "examples": [
+    {
+     "q": "Which method would you use to prepare lead(II) chloride and why?",
+     "a": "Precipitation: \\(Pb(NO_3)_2+2NaCl\\rightarrow PbCl_2\\downarrow+2NaNO_3\\). \\(PbCl_2\\) is insoluble in cold water, so it cannot be crystallised from a titration or metal–acid route (lead also becomes coated and the reaction stops)."
+    },
+    {
+     "q": "Explain why a solution of \\(Na_2CO_3\\) turns red litmus blue.",
+     "a": "It is the salt of a strong base (NaOH) and a weak acid (\\(H_2CO_3\\)). The carbonate ion hydrolyses: \\(CO_3^{2-}+H_2O\\rightleftharpoons HCO_3^-+OH^-\\), giving excess hydroxide and an alkaline solution."
+    },
+    {
+     "q": "2.86 g of \\(Na_2CO_3\\cdot10H_2O\\) was heated to constant mass, leaving 1.06 g. Show that the formula is consistent.",
+     "a": "Mass of water lost = 1.80 g = 0.10 mol. Moles \\(Na_2CO_3\\)=1.06/106=0.01 mol. Ratio salt:water = 0.01:0.10 = 1:10, confirming the decahydrate."
+    }
+   ]
+  },
+  {
+   "title": "5.4 Acid Rain, Buffers and Everyday Applications",
+   "html": "<p><b>Buffer solutions</b> resist change in pH when small amounts of acid or alkali are added. An acidic buffer is a mixture of a weak acid and its salt (ethanoic acid + sodium ethanoate); a basic buffer is a weak base and its salt (ammonia + ammonium chloride).</p>\n<p>When acid is added: \\(CH_3COO^- + H^+ \\rightarrow CH_3COOH\\) &mdash; the added protons are mopped up. When alkali is added: \\(CH_3COOH + OH^- \\rightarrow CH_3COO^- + H_2O\\). Blood is buffered near pH 7.4 by the \\(H_2CO_3/HCO_3^-\\) system; a deviation of even 0.4 pH units is life-threatening.</p>\n\n<h4>Acid rain</h4>\n<p>Unpolluted rain is already slightly acidic (pH ~5.6) because dissolved \\(CO_2\\) forms carbonic acid. <b>Acid rain</b> (pH below 5) comes from oxides of sulphur and nitrogen released by burning fossil fuels and by vehicle engines:</p>\n<p>$$SO_2 + H_2O \\rightarrow H_2SO_3 \\qquad 2SO_2+O_2 \\rightarrow 2SO_3 \\qquad SO_3+H_2O \\rightarrow H_2SO_4$$</p>\n<p>$$4NO_2 + O_2 + 2H_2O \\rightarrow 4HNO_3$$</p>\n<p>Effects: corrosion of limestone and marble buildings, leaching of nutrients from soil, killing of fish in lakes (aluminium ions mobilised), damage to leaves and to metal roofing sheets. Control: flue-gas desulphurisation with \\(CaO\\), catalytic converters, low-sulphur fuels, liming of affected lakes.</p>\n\n<h4>Industrial and domestic uses</h4>\n<ul>\n<li><b>\\(H_2SO_4\\)</b> &mdash; fertilisers, car batteries, detergents, dyes, drying agent.</li>\n<li><b>\\(HNO_3\\)</b> &mdash; fertilisers (\\(NH_4NO_3\\)), explosives, dyes.</li>\n<li><b>NaOH</b> &mdash; soap and paper making, refining bauxite.</li>\n<li><b>\\(NaHCO_3\\)</b> &mdash; baking powder, antacid, fire extinguishers.</li>\n<li><b>\\(Ca(OH)_2\\)</b> &mdash; neutralising acidic soil, mortar, water treatment.</li>\n<li><b>NaCl</b> &mdash; food, and raw material for the chlor-alkali industry.</li>\n</ul>\n\n<h4>Testing for ions in the laboratory</h4>\n<table><tr><th>Ion</th><th>Test</th><th>Observation</th></tr>\n<tr><td>\\(CO_3^{2-}\\)</td><td>add dilute HCl</td><td>effervescence; gas turns lime water milky</td></tr>\n<tr><td>\\(SO_4^{2-}\\)</td><td>\\(BaCl_2\\) + dilute HCl</td><td>white precipitate insoluble in acid</td></tr>\n<tr><td>\\(Cl^-\\)</td><td>\\(AgNO_3\\) + dilute \\(HNO_3\\)</td><td>white precipitate, soluble in \\(NH_3\\)</td></tr>\n<tr><td>\\(NH_4^+\\)</td><td>warm with NaOH</td><td>pungent gas turning damp red litmus blue</td></tr>\n<tr><td>\\(Fe^{2+}\\)</td><td>NaOH</td><td>dirty-green precipitate</td></tr>\n<tr><td>\\(Fe^{3+}\\)</td><td>NaOH</td><td>reddish-brown precipitate</td></tr>\n<tr><td>\\(Pb^{2+}\\)</td><td>NaOH, then excess</td><td>white precipitate, dissolves in excess (amphoteric)</td></tr></table>",
+   "examples": [
+    {
+     "q": "Why does rain in an industrial city have a lower pH than rain in a rural area?",
+     "a": "Industrial air contains \\(SO_2\\) and \\(NO_2\\) from burning fossil fuels. These dissolve and are oxidised to \\(H_2SO_4\\) and \\(HNO_3\\), strong acids that lower the pH well below the natural 5.6 caused by dissolved \\(CO_2\\)."
+    },
+    {
+     "q": "Explain, with equations, how a \\(CH_3COOH/CH_3COONa\\) buffer resists added NaOH.",
+     "a": "The weak acid neutralises the added hydroxide: \\(CH_3COOH+OH^-\\rightarrow CH_3COO^-+H_2O\\). Because a large reservoir of undissociated acid remains, \\([H^+]\\) and hence pH barely change."
+    },
+    {
+     "q": "Two white solids A and B: A effervesces with dilute HCl; B gives a white precipitate with \\(BaCl_2\\)/HCl. Identify the anions.",
+     "a": "A contains \\(CO_3^{2-}\\) (the gas turns lime water milky). B contains \\(SO_4^{2-}\\) (white \\(BaSO_4\\) insoluble in acid)."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "According to Arrhenius, an acid produces which ion in aqueous solution?",
+   "options": [
+    "OH⁻",
+    "H⁺",
+    "H⁻",
+    "O²⁻"
+   ],
+   "answer": "1",
+   "solution": "Arrhenius acids ionise in water to give hydrogen ions."
+  },
+  {
+   "q": "A Brønsted–Lowry base is defined as a",
+   "options": [
+    "proton donor",
+    "proton acceptor",
+    "electron-pair donor",
+    "electron-pair acceptor"
+   ],
+   "answer": "1",
+   "solution": "Brønsted bases accept protons; Lewis bases donate electron pairs."
+  },
+  {
+   "q": "A Lewis acid is best described as",
+   "options": [
+    "a proton donor",
+    "an electron-pair acceptor",
+    "a hydroxide donor",
+    "a substance that turns litmus blue"
+   ],
+   "answer": "1",
+   "solution": "Lewis acids accept a lone pair, e.g. BF₃."
+  },
+  {
+   "q": "The conjugate base of \\(H_2SO_4\\) is",
+   "options": [
+    "\\(SO_4^{2-}\\)",
+    "\\(HSO_4^-\\)",
+    "\\(H_3SO_4^+\\)",
+    "\\(SO_3^{2-}\\)"
+   ],
+   "answer": "1",
+   "solution": "Removing one proton from H₂SO₄ gives HSO₄⁻."
+  },
+  {
+   "q": "The conjugate acid of \\(NH_3\\) is",
+   "options": [
+    "\\(NH_2^-\\)",
+    "\\(NH_4^+\\)",
+    "\\(N_2H_4\\)",
+    "\\(NH_4OH\\)"
+   ],
+   "answer": "1",
+   "solution": "Adding a proton to ammonia gives the ammonium ion."
+  },
+  {
+   "q": "Which of these is amphiprotic?",
+   "options": [
+    "\\(Cl^-\\)",
+    "\\(HCO_3^-\\)",
+    "\\(Na^+\\)",
+    "\\(NO_3^-\\)"
+   ],
+   "answer": "1",
+   "solution": "HCO₃⁻ can donate a proton (to CO₃²⁻) or accept one (to H₂CO₃)."
+  },
+  {
+   "q": "The basicity of \\(H_3PO_4\\) is",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": "2",
+   "solution": "It has three replaceable hydrogen atoms."
+  },
+  {
+   "q": "Which acid is monobasic?",
+   "options": [
+    "\\(H_2SO_4\\)",
+    "\\(HNO_3\\)",
+    "\\(H_2CO_3\\)",
+    "\\(H_3PO_4\\)"
+   ],
+   "answer": "1",
+   "solution": "HNO₃ has only one replaceable hydrogen."
+  },
+  {
+   "q": "Strength of an acid refers to its",
+   "options": [
+    "concentration",
+    "degree of ionisation",
+    "molar mass",
+    "volume"
+   ],
+   "answer": "1",
+   "solution": "Strong acids ionise completely; weak acids partially."
+  },
+  {
+   "q": "Which is a weak acid?",
+   "options": [
+    "HCl",
+    "\\(HNO_3\\)",
+    "\\(CH_3COOH\\)",
+    "\\(H_2SO_4\\)"
+   ],
+   "answer": "2",
+   "solution": "Ethanoic acid is only partially ionised in water."
+  },
+  {
+   "q": "\\(K_w\\) at 25°C is",
+   "options": [
+    "\\(1\\times10^{-7}\\)",
+    "\\(1\\times10^{-14}\\)",
+    "\\(1\\times10^{7}\\)",
+    "14"
+   ],
+   "answer": "1",
+   "solution": "The ionic product of water is 1×10⁻¹⁴ mol²dm⁻⁶."
+  },
+  {
+   "q": "The pH of 0.001 mol dm⁻³ HCl is",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": "2",
+   "solution": "pH = −log(10⁻³) = 3."
+  },
+  {
+   "q": "A solution has pOH = 4. Its pH is",
+   "options": [
+    "4",
+    "7",
+    "10",
+    "14"
+   ],
+   "answer": "2",
+   "solution": "pH = 14 − 4 = 10."
+  },
+  {
+   "q": "The pH of 0.05 mol dm⁻³ \\(H_2SO_4\\) (fully ionised) is",
+   "options": [
+    "1",
+    "1.5",
+    "2",
+    "2.5"
+   ],
+   "answer": "0",
+   "solution": "[H⁺] = 0.10 mol dm⁻³, so pH = 1."
+  },
+  {
+   "q": "Phenolphthalein in an alkaline solution is",
+   "options": [
+    "colourless",
+    "pink",
+    "yellow",
+    "blue"
+   ],
+   "answer": "1",
+   "solution": "It is colourless in acid and pink in alkali."
+  },
+  {
+   "q": "Methyl orange changes colour over the pH range",
+   "options": [
+    "3.1–4.4",
+    "5.0–8.0",
+    "6.0–7.6",
+    "8.3–10.0"
+   ],
+   "answer": "0",
+   "solution": "Methyl orange: red at 3.1 to yellow at 4.4."
+  },
+  {
+   "q": "The best indicator for titrating ethanoic acid with sodium hydroxide is",
+   "options": [
+    "methyl orange",
+    "phenolphthalein",
+    "litmus",
+    "methyl red"
+   ],
+   "answer": "1",
+   "solution": "The equivalence pH is above 7, matching phenolphthalein's range."
+  },
+  {
+   "q": "The best indicator for titrating ammonia with hydrochloric acid is",
+   "options": [
+    "phenolphthalein",
+    "methyl orange",
+    "thymol blue",
+    "starch"
+   ],
+   "answer": "1",
+   "solution": "The equivalence point is acidic (about pH 5)."
+  },
+  {
+   "q": "A weak acid–weak base titration is not usually performed because",
+   "options": [
+    "no salt is formed",
+    "there is no sharp pH change at the end-point",
+    "the reaction is too fast",
+    "indicators are too costly"
+   ],
+   "answer": "1",
+   "solution": "The pH curve has no steep portion, so no indicator gives a sharp end-point."
+  },
+  {
+   "q": "Which is a suitable primary standard?",
+   "options": [
+    "NaOH",
+    "HCl",
+    "anhydrous \\(Na_2CO_3\\)",
+    "\\(NH_3\\) solution"
+   ],
+   "answer": "2",
+   "solution": "It is pure, stable and non-hygroscopic; NaOH is deliquescent and HCl volatile."
+  },
+  {
+   "q": "A pipette is used to",
+   "options": [
+    "deliver variable volumes",
+    "deliver one fixed volume accurately",
+    "store standard solution",
+    "measure mass"
+   ],
+   "answer": "1",
+   "solution": "The pipette delivers a fixed volume, usually 20 or 25 cm³."
+  },
+  {
+   "q": "Concordant titres are readings that agree within about",
+   "options": [
+    "0.02 cm³",
+    "0.20 cm³",
+    "1.00 cm³",
+    "2.00 cm³"
+   ],
+   "answer": "1",
+   "solution": "Titres within 0.1–0.2 cm³ are averaged."
+  },
+  {
+   "q": "25.0 cm³ of 0.1 M NaOH exactly neutralised 25.0 cm³ of an acid HX. HX is",
+   "options": [
+    "monobasic",
+    "dibasic",
+    "tribasic",
+    "a base"
+   ],
+   "answer": "0",
+   "solution": "Equal volumes and equal concentrations react 1:1, so HX is monobasic."
+  },
+  {
+   "q": "20.0 cm³ of 0.1 M \\(H_2SO_4\\) neutralises how many moles of NaOH?",
+   "options": [
+    "0.002",
+    "0.004",
+    "0.001",
+    "0.02"
+   ],
+   "answer": "1",
+   "solution": "Moles acid = 0.002; ratio 1:2 gives 0.004 mol NaOH."
+  },
+  {
+   "q": "A salt formed when only part of the replaceable hydrogen is replaced is a",
+   "options": [
+    "normal salt",
+    "acid salt",
+    "basic salt",
+    "double salt"
+   ],
+   "answer": "1",
+   "solution": "Examples: NaHSO₄, NaHCO₃."
+  },
+  {
+   "q": "\\(KAl(SO_4)_2\\cdot12H_2O\\) is an example of a",
+   "options": [
+    "complex salt",
+    "double salt",
+    "basic salt",
+    "acid salt"
+   ],
+   "answer": "1",
+   "solution": "Alum ionises to give all constituent ions, so it is a double salt."
+  },
+  {
+   "q": "Which salt is insoluble in water?",
+   "options": [
+    "\\(NaNO_3\\)",
+    "\\(BaSO_4\\)",
+    "\\(KCl\\)",
+    "\\((NH_4)_2SO_4\\)"
+   ],
+   "answer": "1",
+   "solution": "Barium tetraoxosulphate(VI) is insoluble."
+  },
+  {
+   "q": "All trioxonitrate(V) salts are",
+   "options": [
+    "insoluble",
+    "soluble",
+    "basic",
+    "gaseous"
+   ],
+   "answer": "1",
+   "solution": "Nitrates are without exception soluble in water."
+  },
+  {
+   "q": "The best method for preparing copper(II) tetraoxosulphate(VI) is",
+   "options": [
+    "Cu + dilute \\(H_2SO_4\\)",
+    "CuO + dilute \\(H_2SO_4\\)",
+    "precipitation",
+    "titration"
+   ],
+   "answer": "1",
+   "solution": "Copper is below hydrogen in the series, so the insoluble-oxide route is used."
+  },
+  {
+   "q": "Silver chloride is best prepared by",
+   "options": [
+    "titration",
+    "precipitation",
+    "direct combination",
+    "neutralisation"
+   ],
+   "answer": "1",
+   "solution": "AgNO₃ + NaCl gives an immediate white precipitate."
+  },
+  {
+   "q": "A hydrated salt that loses water to the air and crumbles is said to be",
+   "options": [
+    "deliquescent",
+    "efflorescent",
+    "hygroscopic",
+    "anhydrous"
+   ],
+   "answer": "1",
+   "solution": "Efflorescence, e.g. Na₂CO₃·10H₂O."
+  },
+  {
+   "q": "Which substance is deliquescent?",
+   "options": [
+    "\\(CuSO_4\\cdot5H_2O\\)",
+    "NaOH",
+    "\\(BaSO_4\\)",
+    "NaCl"
+   ],
+   "answer": "1",
+   "solution": "Solid NaOH absorbs enough water to dissolve in it."
+  },
+  {
+   "q": "Concentrated \\(H_2SO_4\\) is used in a desiccator because it is",
+   "options": [
+    "efflorescent",
+    "hygroscopic",
+    "volatile",
+    "deliquescent only"
+   ],
+   "answer": "1",
+   "solution": "It absorbs moisture without dissolving, i.e. it is hygroscopic (a drying agent)."
+  },
+  {
+   "q": "The blue colour of \\(CuSO_4\\cdot5H_2O\\) is due to",
+   "options": [
+    "the sulphate ion",
+    "water of crystallisation",
+    "impurities",
+    "hydrogen bonding"
+   ],
+   "answer": "1",
+   "solution": "Anhydrous CuSO₄ is white and turns blue on hydration."
+  },
+  {
+   "q": "An aqueous solution of \\(NH_4Cl\\) is",
+   "options": [
+    "neutral",
+    "acidic",
+    "alkaline",
+    "amphoteric"
+   ],
+   "answer": "1",
+   "solution": "It is the salt of a strong acid and a weak base, so it hydrolyses to give H⁺."
+  },
+  {
+   "q": "An aqueous solution of \\(CH_3COONa\\) is",
+   "options": [
+    "acidic",
+    "neutral",
+    "alkaline",
+    "non-electrolytic"
+   ],
+   "answer": "2",
+   "solution": "Salt of a weak acid and strong base; the anion hydrolyses to give OH⁻."
+  },
+  {
+   "q": "Which pair forms an acidic buffer?",
+   "options": [
+    "NaCl and HCl",
+    "\\(CH_3COOH\\) and \\(CH_3COONa\\)",
+    "NaOH and NaCl",
+    "\\(NH_3\\) and NaOH"
+   ],
+   "answer": "1",
+   "solution": "A weak acid with its salt buffers on the acid side."
+  },
+  {
+   "q": "The main buffer in human blood is the",
+   "options": [
+    "phosphate system",
+    "carbonic acid–hydrogencarbonate system",
+    "ammonia system",
+    "ethanoate system"
+   ],
+   "answer": "1",
+   "solution": "H₂CO₃/HCO₃⁻ holds blood near pH 7.4."
+  },
+  {
+   "q": "Unpolluted rain water is slightly acidic because of dissolved",
+   "options": [
+    "\\(SO_2\\)",
+    "\\(CO_2\\)",
+    "\\(NO_2\\)",
+    "\\(NH_3\\)"
+   ],
+   "answer": "1",
+   "solution": "CO₂ forms carbonic acid, giving pH about 5.6."
+  },
+  {
+   "q": "The principal gases responsible for acid rain are",
+   "options": [
+    "\\(CO\\) and \\(CH_4\\)",
+    "\\(SO_2\\) and \\(NO_2\\)",
+    "\\(O_3\\) and \\(H_2\\)",
+    "\\(N_2\\) and \\(O_2\\)"
+   ],
+   "answer": "1",
+   "solution": "They form sulphuric and nitric acids in the atmosphere."
+  },
+  {
+   "q": "Adding dilute HCl to a solid gives a gas that turns lime water milky. The anion is",
+   "options": [
+    "\\(SO_4^{2-}\\)",
+    "\\(CO_3^{2-}\\)",
+    "\\(Cl^-\\)",
+    "\\(NO_3^-\\)"
+   ],
+   "answer": "1",
+   "solution": "CO₂ is released from a trioxocarbonate(IV)."
+  },
+  {
+   "q": "A white precipitate with \\(AgNO_3\\)/dilute \\(HNO_3\\) that dissolves in ammonia indicates",
+   "options": [
+    "\\(SO_4^{2-}\\)",
+    "\\(Cl^-\\)",
+    "\\(I^-\\)",
+    "\\(CO_3^{2-}\\)"
+   ],
+   "answer": "1",
+   "solution": "AgCl is white and dissolves in ammonia solution."
+  },
+  {
+   "q": "A dirty-green precipitate with NaOH indicates",
+   "options": [
+    "\\(Fe^{3+}\\)",
+    "\\(Fe^{2+}\\)",
+    "\\(Cu^{2+}\\)",
+    "\\(Zn^{2+}\\)"
+   ],
+   "answer": "1",
+   "solution": "Fe(OH)₂ is dirty green; Fe(OH)₃ is reddish-brown."
+  },
+  {
+   "q": "A white precipitate that dissolves in excess NaOH suggests",
+   "options": [
+    "\\(Ca^{2+}\\)",
+    "\\(Pb^{2+}\\)",
+    "\\(Fe^{2+}\\)",
+    "\\(NH_4^+\\)"
+   ],
+   "answer": "1",
+   "solution": "Lead(II) hydroxide is amphoteric and dissolves in excess alkali."
+  },
+  {
+   "q": "Warming a salt with NaOH gives a gas that turns damp red litmus blue. The cation is",
+   "options": [
+    "\\(NH_4^+\\)",
+    "\\(Na^+\\)",
+    "\\(K^+\\)",
+    "\\(Mg^{2+}\\)"
+   ],
+   "answer": "0",
+   "solution": "Ammonia gas is released from ammonium salts."
+  },
+  {
+   "q": "Which acid is both a dehydrating and an oxidising agent when concentrated?",
+   "options": [
+    "HCl",
+    "\\(H_2SO_4\\)",
+    "\\(CH_3COOH\\)",
+    "\\(H_2CO_3\\)"
+   ],
+   "answer": "1",
+   "solution": "Concentrated H₂SO₄ chars sugar and oxidises copper on heating."
+  },
+  {
+   "q": "Neutralisation is best described as the reaction between",
+   "options": [
+    "\\(H^+\\) and \\(OH^-\\)",
+    "\\(Na^+\\) and \\(Cl^-\\)",
+    "metal and acid",
+    "acid and carbonate only"
+   ],
+   "answer": "0",
+   "solution": "The essential ionic equation is H⁺ + OH⁻ → H₂O."
+  },
+  {
+   "q": "Which oxide is amphoteric?",
+   "options": [
+    "\\(Na_2O\\)",
+    "\\(Al_2O_3\\)",
+    "\\(SO_2\\)",
+    "\\(CaO\\)"
+   ],
+   "answer": "1",
+   "solution": "Al₂O₃ reacts with both acids and alkalis."
+  },
+  {
+   "q": "Baking soda used as an antacid is",
+   "options": [
+    "\\(Na_2CO_3\\)",
+    "\\(NaHCO_3\\)",
+    "NaOH",
+    "NaCl"
+   ],
+   "answer": "1",
+   "solution": "Sodium hydrogentrioxocarbonate(IV) neutralises excess stomach acid."
+  },
+  {
+   "q": "Calcium hydroxide is added to farmland mainly to",
+   "options": [
+    "kill weeds",
+    "raise the pH of acidic soil",
+    "supply nitrogen",
+    "increase soil water"
+   ],
+   "answer": "1",
+   "solution": "Slaked lime neutralises soil acidity."
+  }
+ ]
+}
