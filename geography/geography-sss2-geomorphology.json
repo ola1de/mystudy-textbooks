@@ -1,0 +1,249 @@
+{
+ "subject": "Geography",
+ "level": "SSS 2",
+ "slug": "geomorphology",
+ "title": "Geomorphology",
+ "outline": [
+  "Denudational processes: weathering, mass wasting and erosion",
+  "Action of running water: erosion, transport and deposition",
+  "Fluvial landforms of the upper, middle and lower courses",
+  "Landforms of underground water and limestone (karst) regions",
+  "Wind action and desert landforms",
+  "Wave action and coastal landforms",
+  "Ice action and glacial landforms",
+  "Drainage systems, patterns and their significance"
+ ],
+ "modules": [
+  {
+   "title": "Running Water and Fluvial Landforms",
+   "html": "\n<h4>The Work of a River</h4>\n<p>A river erodes by <strong>hydraulic action</strong>, <strong>corrasion (abrasion)</strong>, <strong>attrition</strong> and <strong>corrosion (solution)</strong>, and it erodes vertically in its upper course and laterally in its lower course. Load is carried by traction, saltation, suspension and solution. Deposition takes place when velocity falls because of reduced gradient, reduced volume, increased load or entry into a standing body of water.</p>\n<h4>Landforms by Course</h4>\n<table class=\"tb-table\"><tr><th>Course</th><th>Dominant process</th><th>Landforms</th></tr>\n<tr><td>Upper (torrent)</td><td>Vertical erosion</td><td>V-shaped valley, gorge, waterfall, rapids, pot-holes, interlocking spurs</td></tr>\n<tr><td>Middle (valley)</td><td>Lateral erosion and transport</td><td>Wide valley, meanders, river cliffs and slip-off slopes, river terraces</td></tr>\n<tr><td>Lower (plain)</td><td>Deposition</td><td>Flood plain, levees, ox-bow lakes, braided channels, deltas, estuaries</td></tr></table>\n<p>A <strong>waterfall</strong> forms where a resistant band of rock overlies a weaker band; plunge-pool undercutting causes the fall to retreat upstream, leaving a gorge of recession. Examples in Nigeria are Assop, Farin Ruwa, Gurara and Owu falls.</p>\n<p>A <strong>delta</strong> forms at a river mouth where deposition exceeds removal by waves and currents; requirements include a heavy sediment load, a shallow sea, a weak tidal range and a sheltered coast. Types are arcuate (Niger, Nile), bird's foot (Mississippi), estuarine (Ob) and cuspate (Tiber).</p>\n<h4>River Capture and Rejuvenation</h4>\n<p><strong>River capture</strong> occurs when an aggressive stream erodes headward and diverts the headwaters of a weaker neighbour, producing an elbow of capture, a wind gap and a misfit stream. <strong>Rejuvenation</strong> follows a fall in base level or uplift of land, producing knick points, incised meanders and river terraces.</p>\n<h4>Drainage Patterns</h4>\n<ul>\n<li><em>Dendritic</em> - tree-like, on uniform rock.</li>\n<li><em>Trellis</em> - rectangular tributary junctions on alternating hard and soft rock.</li>\n<li><em>Radial</em> - outward from a dome or volcanic cone (e.g. Jos Plateau).</li>\n<li><em>Centripetal</em> - inward to a basin (e.g. Lake Chad basin).</li>\n<li><em>Deranged</em> - disordered, over recently glaciated or swampy ground.</li>\n</ul>\n",
+   "examples": [
+    {
+     "q": "Explain how an ox-bow lake is formed.",
+     "a": "In the lower course a river swings in meanders. Erosion is concentrated on the outer concave bank, forming a river cliff, while deposition builds a slip-off slope on the inner bank. Continued erosion narrows the neck of the meander loop until, usually during a flood, the river cuts straight across the neck. The abandoned loop is then sealed off by deposition at both ends, leaving a crescent-shaped body of standing water known as an ox-bow or cut-off lake."
+    },
+    {
+     "q": "State three conditions necessary for delta formation.",
+     "a": "(i) The river must carry a large load of sediment; (ii) the sea at the mouth must be shallow with weak tides and currents so that sediment is not swept away; (iii) the coast should be sheltered and the river should have a low gradient with an even discharge. The absence of strong longshore drift and of deep offshore trenches also favours delta growth."
+    }
+   ]
+  },
+  {
+   "title": "Wind, Wave, Ice and Underground Water Action",
+   "html": "\n<h4>Wind Action (Aeolian Processes)</h4>\n<p>Wind erodes by <strong>deflation</strong> (lifting of loose particles), <strong>abrasion</strong> (sand-blasting) and <strong>attrition</strong>. Erosional landforms include deflation hollows (oases), zeugen, yardangs, rock pedestals (mushroom rocks), ventifacts and inselbergs. Depositional landforms include barchans (crescent dunes formed by a constant wind direction), seifs (longitudinal dunes), sand sheets and loess deposits.</p>\n<h4>Wave Action</h4>\n<p>Waves erode by hydraulic action, corrasion, attrition and solution, assisted by longshore drift, which moves material along the coast in a zig-zag manner. Erosional coastal features are cliffs, wave-cut platforms, caves, arches, stacks, stumps, blow-holes and geos. Depositional features are beaches, spits, bars, tombolos, lagoons and salt marshes; the Nigerian coast displays long sand bars and lagoons such as the Lagos and Lekki lagoons.</p>\n<h4>Ice Action</h4>\n<p>Glaciers erode by <strong>plucking</strong> and <strong>abrasion</strong>. Highland glacial landforms include cirques (corries), aretes, pyramidal peaks, hanging valleys, U-shaped (glacial trough) valleys, roches moutonnees and fiords. Lowland depositional landforms include moraines (terminal, lateral, medial and ground), drumlins, erratics, eskers and outwash plains.</p>\n<h4>Underground Water and Karst Landforms</h4>\n<p>Rainwater absorbs carbon dioxide to form weak carbonic acid, which dissolves limestone through carbonation:</p>\n$$\\mathrm{CaCO_3 + H_2O + CO_2 \\rightarrow Ca(HCO_3)_2}$$\n<p>Surface karst features include swallow holes (sinks), grikes and clints, dry valleys, limestone gorges and poljes. Underground features include caverns, stalactites (hanging), stalagmites (rising from the floor) and pillars where the two meet. Karst regions are dry at the surface, have thin soils and support poor agriculture, but they attract tourists and quarrying for cement.</p>\n<h4>Water Table and Wells</h4>\n<p>Infiltrating water is held in permeable rock called an <strong>aquifer</strong> above an impermeable layer; the upper surface of saturation is the <strong>water table</strong>. Where an aquifer is confined between impermeable beds in a syncline, water may rise to the surface without pumping as an <strong>artesian well</strong>, as in the Chad Basin.</p>\n",
+   "examples": [
+    {
+     "q": "Distinguish between a stalactite and a stalagmite.",
+     "a": "Both are dripstone features formed by the precipitation of calcium carbonate from percolating water in limestone caverns. A stalactite hangs downward from the cave roof and is generally slender and pointed, while a stalagmite grows upward from the cave floor beneath the drip point and is thicker and more rounded. When the two grow together they form a pillar or column."
+    },
+    {
+     "q": "Why do barchans move across a desert surface?",
+     "a": "A barchan is a crescent-shaped dune formed where wind blows constantly from one direction. Sand grains are rolled and bounced up the gentle windward slope and, on reaching the crest, slide down the steep leeward slip-face at the angle of repose. The continual transfer of sand from the windward to the leeward side causes the whole dune to migrate downwind, sometimes several metres a year, burying farmland and roads."
+    }
+   ]
+  },
+  {
+   "title": "Denudation, Mass Wasting and Human Response",
+   "html": "\n<h4>Mass Wasting</h4>\n<p>Mass wasting is the downslope movement of weathered material under gravity, aided by water. Slow forms include soil creep, talus creep and solifluction; rapid forms include earthflows, mudflows, landslides, rockfalls and avalanches. Causes are steep slopes, heavy rainfall, deforestation, earthquakes, undercutting of slopes and unplanned excavation.</p>\n<h4>Soil Erosion in Nigeria</h4>\n<p>Gully erosion is severe in the sandy, deeply weathered soils of the south-east (Agulu-Nanka, Nnewi, Auchi, Ankpa), sheet erosion is widespread in the Middle Belt, and wind erosion and desertification affect the Sudan and Sahel zones of the far north. The main human causes are bush burning, overgrazing, continuous cropping, deforestation, road construction without drains, and sand mining.</p>\n<h4>Effects and Control</h4>\n<ul>\n<li><em>Effects</em>: loss of topsoil and reduced yields, destruction of buildings and roads, silting of rivers and dams, displacement of communities, loss of biodiversity.</li>\n<li><em>Control</em>: contour ploughing, terracing, strip cropping, crop rotation, mulching, afforestation and shelter belts, construction of check dams and drainage channels, controlled grazing, and public enlightenment supported by agencies such as NEWMAP and the Great Green Wall project.</li>\n</ul>\n<h4>Significance of Denudational Landforms</h4>\n<p>Flood plains and deltas provide fertile alluvial soils for farming and fisheries; waterfalls and gorges are sites for hydro-electric power (Kainji, Jebba, Shiroro); coastal beaches, karst caverns and glacial valleys attract tourism; alluvial deposits yield tin, gold and diamonds; while badlands, gullies and shifting dunes hinder settlement, farming and transport.</p>\n",
+   "examples": [
+    {
+     "q": "Outline four measures for controlling gully erosion in south-eastern Nigeria.",
+     "a": "(i) Construct check dams and gabions across the gully floor to trap sediment and reduce water velocity; (ii) plant fast-growing grasses, bamboo and trees along the gully sides to bind the soil; (iii) build proper storm drains and channel run-off away from gully heads; (iv) practise terracing and contour bunding on the surrounding farmland, and prohibit sand mining, bush burning and building on gully margins."
+    },
+    {
+     "q": "Give two reasons why waterfalls are valuable to a country's economy.",
+     "a": "Waterfalls provide a natural head of water for the generation of hydro-electric power, which supplies industry and homes cheaply, as at Kainji and Jebba on the Niger. They are also scenic attractions that draw domestic and foreign tourists, generating income, employment and foreign exchange, for example Farin Ruwa and Owu falls."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A V-shaped valley is typical of the",
+   "options": [
+    "upper course",
+    "middle course",
+    "lower course",
+    "estuary"
+   ],
+   "answer": "0",
+   "solution": "Vertical erosion dominates the torrent stage, cutting a narrow V-shaped valley."
+  },
+  {
+   "q": "An ox-bow lake results from the cutting off of",
+   "options": [
+    "a delta",
+    "a meander loop",
+    "a levee",
+    "a waterfall"
+   ],
+   "answer": "1",
+   "solution": "Erosion of the neck of a meander isolates the loop, which is then sealed by deposition."
+  },
+  {
+   "q": "Which of the following is a depositional feature of a river?",
+   "options": [
+    "Gorge",
+    "Pot-hole",
+    "Levee",
+    "Rapid"
+   ],
+   "answer": "2",
+   "solution": "Levees are ridges of coarse sediment deposited along the banks during floods."
+  },
+  {
+   "q": "The Niger delta is an example of which delta type?",
+   "options": [
+    "Bird's foot",
+    "Arcuate",
+    "Estuarine",
+    "Cuspate"
+   ],
+   "answer": "1",
+   "solution": "Its fan or arc shape with many distributaries makes it arcuate."
+  },
+  {
+   "q": "The process by which limestone is dissolved by weak carbonic acid is",
+   "options": [
+    "oxidation",
+    "hydrolysis",
+    "carbonation",
+    "exfoliation"
+   ],
+   "answer": "2",
+   "solution": "Carbonation converts calcium carbonate into soluble calcium bicarbonate."
+  },
+  {
+   "q": "A crescent-shaped sand dune formed by a constant wind direction is a",
+   "options": [
+    "seif",
+    "barchan",
+    "yardang",
+    "zeugen"
+   ],
+   "answer": "1",
+   "solution": "Barchans have horns pointing downwind and a steep leeward slip-face."
+  },
+  {
+   "q": "Mushroom rocks in deserts are produced mainly by",
+   "options": [
+    "deflation",
+    "wind abrasion near the ground",
+    "attrition",
+    "solution"
+   ],
+   "answer": "1",
+   "solution": "Sand is carried mostly within about a metre of the ground, so undercutting is greatest at the base."
+  },
+  {
+   "q": "A stack along a coastline develops from the collapse of",
+   "options": [
+    "a spit",
+    "an arch",
+    "a tombolo",
+    "a bar"
+   ],
+   "answer": "1",
+   "solution": "Continued erosion of a cave forms an arch whose roof later collapses, leaving a stack."
+  },
+  {
+   "q": "The zig-zag movement of material along a coast is called",
+   "options": [
+    "traction",
+    "longshore drift",
+    "saltation",
+    "attrition"
+   ],
+   "answer": "1",
+   "solution": "Waves approach obliquely and backwash returns at right angles, moving material along the shore."
+  },
+  {
+   "q": "A U-shaped valley is produced by the action of",
+   "options": [
+    "a river",
+    "wind",
+    "waves",
+    "ice"
+   ],
+   "answer": "3",
+   "solution": "Glacial plucking and abrasion widen and deepen a former V-shaped valley into a trough."
+  },
+  {
+   "q": "Which of these is a glacial depositional feature?",
+   "options": [
+    "Cirque",
+    "Arete",
+    "Drumlin",
+    "Hanging valley"
+   ],
+   "answer": "2",
+   "solution": "Drumlins are egg-shaped hills of boulder clay laid down beneath a moving ice sheet."
+  },
+  {
+   "q": "The upper level of saturation in permeable rock is called the",
+   "options": [
+    "aquifer",
+    "water table",
+    "artesian basin",
+    "spring line"
+   ],
+   "answer": "1",
+   "solution": "Below the water table all pore spaces are filled with water."
+  },
+  {
+   "q": "A drainage pattern that develops on a volcanic cone is",
+   "options": [
+    "dendritic",
+    "trellis",
+    "radial",
+    "centripetal"
+   ],
+   "answer": "2",
+   "solution": "Streams flow outward in all directions from the summit."
+  },
+  {
+   "q": "Streams flowing inward towards a basin such as Lake Chad show a pattern that is",
+   "options": [
+    "radial",
+    "centripetal",
+    "deranged",
+    "rectangular"
+   ],
+   "answer": "1",
+   "solution": "Centripetal drainage converges on a central depression."
+  },
+  {
+   "q": "The diversion of the headwaters of one river by another is known as",
+   "options": [
+    "rejuvenation",
+    "river capture",
+    "braiding",
+    "meandering"
+   ],
+   "answer": "1",
+   "solution": "Headward erosion by the more aggressive stream causes capture, leaving a wind gap and misfit stream."
+  },
+  {
+   "q": "Which of the following best controls sheet erosion on gentle farmland slopes?",
+   "options": [
+    "Continuous cropping",
+    "Contour ploughing and mulching",
+    "Bush burning",
+    "Overgrazing"
+   ],
+   "answer": "1",
+   "solution": "Contour ridges and a mulch cover reduce run-off velocity and protect the soil surface."
+  },
+  {
+   "q": "Deposits of very fine wind-blown silt are known as",
+   "options": [
+    "moraine",
+    "loess",
+    "alluvium",
+    "till"
+   ],
+   "answer": "1",
+   "solution": "Loess is fine material transported in suspension and deposited far from its source."
+  }
+ ]
+}

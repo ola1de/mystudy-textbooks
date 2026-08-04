@@ -1,0 +1,249 @@
+{
+ "subject": "Geography",
+ "level": "SSS 1",
+ "slug": "practical-geography-basics",
+ "title": "Practical Geography Basics",
+ "outline": [
+  "Meaning, types and uses of maps",
+  "Scale: statement, representative fraction and linear scale",
+  "Conversion between scale types",
+  "Measurement of straight and curved distances",
+  "Measurement of regular and irregular areas",
+  "Direction, bearing and the compass",
+  "Grid references: four-figure and six-figure",
+  "Map reading conventions and symbols"
+ ],
+ "modules": [
+  {
+   "title": "Maps and Map Scales",
+   "html": "\n<h4>What is a Map?</h4>\n<p>A map is a representation of the whole or part of the earth's surface drawn to scale on a flat surface. Maps are classified as <strong>topographical</strong>, <strong>atlas</strong>, <strong>statistical (distribution)</strong>, <strong>political</strong>, <strong>relief</strong> and <strong>sketch</strong> maps. Every good map should carry a title, a scale, a key or legend, a north arrow and the date or source of information (mnemonic: <em>TSKND</em>).</p>\n<h4>Scale</h4>\n<p>Scale is the ratio of a distance on the map to the corresponding distance on the ground. It is expressed in three ways:</p>\n<ol>\n<li><strong>Statement scale</strong>: e.g. \"1 cm represents 5 km\".</li>\n<li><strong>Representative fraction (R.F.)</strong>: a dimensionless ratio such as \\(1:500{,}000\\), meaning one unit on the map equals 500,000 identical units on the ground.</li>\n<li><strong>Linear (graphic) scale</strong>: a divided line marked in ground units, with primaries to the right of zero and secondaries to the left.</li>\n</ol>\n<h4>Converting Between Scales</h4>\n<p>To change a statement scale to an R.F., convert the ground distance to centimetres:</p>\n$$1\\text{ cm to }5\\text{ km} \\;\\Rightarrow\\; 5\\times100{,}000 = 500{,}000\\text{ cm} \\;\\Rightarrow\\; \\text{R.F.} = 1{:}500{,}000$$\n<p>To change an R.F. to a statement scale, divide the denominator by 100,000 to obtain kilometres:</p>\n$$1{:}50{,}000 \\;\\Rightarrow\\; \\frac{50{,}000}{100{,}000}=0.5\\text{ km} \\;\\Rightarrow\\; 1\\text{ cm represents }0.5\\text{ km}$$\n<p>Useful conversions: \\(1\\text{ km}=100{,}000\\text{ cm}\\), \\(1\\text{ m}=100\\text{ cm}\\), \\(1\\text{ mile}=63{,}360\\text{ inches}\\).</p>\n<h4>Large and Small Scales</h4>\n<table class=\"tb-table\"><tr><th>Feature</th><th>Large scale</th><th>Small scale</th></tr>\n<tr><td>R.F.</td><td>Larger fraction, e.g. 1:10,000</td><td>Smaller fraction, e.g. 1:1,000,000</td></tr>\n<tr><td>Area covered</td><td>Small area</td><td>Large area</td></tr>\n<tr><td>Detail</td><td>Much detail</td><td>Generalised</td></tr>\n<tr><td>Use</td><td>Town plans, cadastral maps</td><td>Atlas and wall maps</td></tr></table>\n",
+   "examples": [
+    {
+     "q": "A map has a scale of 1:250,000. Express it as a statement scale and find the ground distance represented by 6.4 cm.",
+     "a": "Statement: \\(\\dfrac{250{,}000}{100{,}000}=2.5\\), so 1 cm represents 2.5 km. Ground distance \\(=6.4\\times2.5 = 16\\text{ km}\\)."
+    },
+    {
+     "q": "Two towns 24 km apart appear 8 cm apart on a map. Determine the R.F. of the map.",
+     "a": "8 cm represents 24 km, so 1 cm represents 3 km. In centimetres, \\(3\\times100{,}000 = 300{,}000\\). Therefore R.F. \\(=1:300{,}000\\)."
+    }
+   ]
+  },
+  {
+   "title": "Distance, Area, Direction and Grid References",
+   "html": "\n<h4>Measuring Distance</h4>\n<p><em>Straight (as the crow flies)</em>: place a straight edge of paper between the two points, mark them, transfer the marked length to the linear scale and read the ground value. <em>Curved distances</em> (roads, rivers, railways) are measured by the <strong>thread method</strong> or by the <strong>paper-edge pivoting method</strong>, in which the paper is turned at each bend so that its edge follows the curve, before the total length is read off the scale.</p>\n<p>Where a map distance \\(m\\) is measured on a map of denominator \\(D\\), the ground distance is</p>\n$$\\text{Ground distance} = \\frac{m \\times D}{100{,}000}\\text{ km}$$\n<h4>Measuring Area</h4>\n<ul>\n<li><strong>Regular shapes</strong>: apply the appropriate formula (rectangle \\(l\\times b\\), triangle \\(\\tfrac{1}{2}bh\\), trapezium \\(\\tfrac{1}{2}(a+b)h\\)) using ground values.</li>\n<li><strong>Irregular shapes</strong>: use the grid-square method. Count whole squares, then count squares that are half or more as whole and ignore those less than half; or add the fractions and multiply by the ground area of one square. On a 1:50,000 map each grid square measures 2 cm by 2 cm, representing \\(1\\text{ km}\\times1\\text{ km}=1\\text{ km}^2\\).</li>\n<li><strong>Strip method</strong>: divide the shape into narrow strips of equal width and treat each as a trapezium.</li>\n</ul>\n<h4>Direction and Bearing</h4>\n<p>Direction is given by the sixteen points of the compass; bearing is the clockwise angle from true north measured in three digits, e.g. \\(045^\\circ\\) for north-east and \\(225^\\circ\\) for south-west. A <strong>back bearing</strong> is found by adding \\(180^\\circ\\) if the forward bearing is less than \\(180^\\circ\\), or subtracting \\(180^\\circ\\) if it is greater. True north, magnetic north and grid north differ; the angle between true and magnetic north is the <em>magnetic declination</em>.</p>\n<h4>Grid References</h4>\n<p>Topographical maps carry <strong>eastings</strong> (vertical lines numbered west to east) and <strong>northings</strong> (horizontal lines numbered south to north). Always read <em>eastings before northings</em>.</p>\n<ol>\n<li><strong>Four-figure reference</strong> locates a whole grid square, e.g. 4573.</li>\n<li><strong>Six-figure reference</strong> subdivides each square into tenths, giving a point to within 100 m on a 1:50,000 map, e.g. 456739.</li>\n</ol>\n<p>Positions may also be fixed by latitude and longitude, stated in degrees, minutes and seconds with the hemisphere, e.g. \\(6^\\circ27'\\text{N}, 3^\\circ24'\\text{E}\\).</p>\n",
+   "examples": [
+    {
+     "q": "On a 1:50,000 map a winding road measures 17.6 cm with a thread. Calculate its length on the ground.",
+     "a": "1 cm represents 0.5 km. Ground length \\(=17.6\\times0.5 = 8.8\\text{ km}\\). Using the formula, \\(\\dfrac{17.6\\times50{,}000}{100{,}000}=8.8\\text{ km}\\)."
+    },
+    {
+     "q": "A forest on a 1:50,000 map covers 12 complete grid squares and 9 part squares that are half or more. Estimate its area.",
+     "a": "Each grid square on a 1:50,000 map represents \\(1\\text{ km}^2\\). Counting part squares of half or more as whole gives \\(12+9=21\\) squares, so the area is approximately \\(21\\text{ km}^2\\)."
+    }
+   ]
+  },
+  {
+   "title": "Map Symbols, Conventions and Field Sketching",
+   "html": "\n<h4>Conventional Signs</h4>\n<p>Maps use standard symbols so that they can be read internationally. Common conventions on Nigerian topographical sheets include: blue for water bodies (rivers, lakes, swamps), brown contour lines and spot heights for relief, black for cultural features (settlements, buildings, boundaries), red for main roads, and green for vegetation and plantations. A <strong>key or legend</strong> explains every symbol used.</p>\n<h4>Reading a Topographical Map</h4>\n<ol>\n<li>Read the title, scale, contour interval and date first.</li>\n<li>Study relief through contours, spot heights and trigonometrical stations.</li>\n<li>Trace drainage, noting the pattern (dendritic, trellis, radial, rectangular) and direction of flow, shown by V-shaped contours pointing upstream and by the confluence angle.</li>\n<li>Note settlement types (nucleated, dispersed, linear) and their relationship with water supply, relief and routeways.</li>\n<li>Note landuse: farmland, forest reserve, quarry, plantation.</li>\n</ol>\n<h4>Sketch Maps and Field Study</h4>\n<p>A sketch map is a rough map, not necessarily drawn to scale, showing only the essential features required. In fieldwork, students prepare a route sketch, take bearings with a prismatic compass, measure distances by pacing or with a tape, and record observations for later mapping. Instruments used include the compass, ranging poles, measuring tape, clinometer, and increasingly the GPS receiver.</p>\n<h4>Advantages and Limitations of Maps</h4>\n<ul>\n<li>Maps present a large amount of spatial information in a compact form and permit measurement of distance, direction and area.</li>\n<li>However, all flat maps distort shape, area, distance or direction to some degree; small-scale maps omit much detail, and maps become out of date as landscapes change.</li>\n</ul>\n",
+   "examples": [
+    {
+     "q": "How can you determine the direction of flow of a river on a topographical map?",
+     "a": "Three clues are used: (i) contour lines crossing a river bend upstream, forming a V that points to the higher ground, so the river flows away from the apex of the V; (ii) tributaries join the main stream at an acute angle pointing downstream; (iii) values of spot heights and contours decrease downstream, and features such as swamps, deltas or braiding indicate the lower course."
+    },
+    {
+     "q": "The forward bearing of a hill from a school is 062 degrees. Calculate the back bearing.",
+     "a": "Since \\(062^\\circ < 180^\\circ\\), add \\(180^\\circ\\): \\(062^\\circ + 180^\\circ = 242^\\circ\\). The back bearing of the school from the hill is \\(242^\\circ\\)."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A scale of 1:100,000 means that 1 cm on the map represents",
+   "options": [
+    "100 m",
+    "1 km",
+    "10 km",
+    "100 km"
+   ],
+   "answer": "1",
+   "solution": "100,000 cm = 1 km, so 1 cm represents 1 km."
+  },
+  {
+   "q": "Which of these is the largest scale?",
+   "options": [
+    "1:10,000",
+    "1:50,000",
+    "1:250,000",
+    "1:1,000,000"
+   ],
+   "answer": "0",
+   "solution": "The smaller the denominator, the larger the scale and the greater the detail."
+  },
+  {
+   "q": "A statement scale of 1 cm to 2 km is written as an R.F. of",
+   "options": [
+    "1:2,000",
+    "1:20,000",
+    "1:200,000",
+    "1:2,000,000"
+   ],
+   "answer": "2",
+   "solution": "2 km = 200,000 cm, so the R.F. is 1:200,000."
+  },
+  {
+   "q": "On a 1:50,000 map, 7 cm represents a ground distance of",
+   "options": [
+    "1.75 km",
+    "3.5 km",
+    "7 km",
+    "35 km"
+   ],
+   "answer": "1",
+   "solution": "1 cm represents 0.5 km, so 7 x 0.5 = 3.5 km."
+  },
+  {
+   "q": "The best instrument for measuring a winding river on a map is",
+   "options": [
+    "a ruler",
+    "a thread",
+    "a protractor",
+    "a clinometer"
+   ],
+   "answer": "1",
+   "solution": "A thread follows the curves and is then straightened against the linear scale."
+  },
+  {
+   "q": "Each grid square on a 1:50,000 topographical map represents an area of",
+   "options": [
+    "0.25 sq km",
+    "1 sq km",
+    "4 sq km",
+    "25 sq km"
+   ],
+   "answer": "1",
+   "solution": "Grid squares are 2 cm by 2 cm, i.e. 1 km by 1 km on the ground."
+  },
+  {
+   "q": "In giving a grid reference, the correct order is",
+   "options": [
+    "northings before eastings",
+    "eastings before northings",
+    "latitude before scale",
+    "any order"
+   ],
+   "answer": "1",
+   "solution": "The rule is 'along the corridor and up the stairs': eastings first."
+  },
+  {
+   "q": "A six-figure grid reference on a 1:50,000 map locates a point to within about",
+   "options": [
+    "10 m",
+    "100 m",
+    "1 km",
+    "10 km"
+   ],
+   "answer": "1",
+   "solution": "Each grid square is divided into tenths, so 1 km/10 = 100 m."
+  },
+  {
+   "q": "The bearing of a point due south-west of an observer is",
+   "options": [
+    "135 degrees",
+    "180 degrees",
+    "225 degrees",
+    "315 degrees"
+   ],
+   "answer": "2",
+   "solution": "Bearings are measured clockwise from north; south-west is 225 degrees."
+  },
+  {
+   "q": "If the forward bearing of Y from X is 200 degrees, the back bearing of X from Y is",
+   "options": [
+    "020 degrees",
+    "110 degrees",
+    "160 degrees",
+    "380 degrees"
+   ],
+   "answer": "0",
+   "solution": "200 is greater than 180, so subtract 180 to get 020 degrees."
+  },
+  {
+   "q": "Blue colour on a topographical map normally represents",
+   "options": [
+    "relief",
+    "vegetation",
+    "water bodies",
+    "roads"
+   ],
+   "answer": "2",
+   "solution": "Rivers, lakes and swamps are conventionally shown in blue."
+  },
+  {
+   "q": "The essential items on every good map include all of the following EXCEPT",
+   "options": [
+    "title",
+    "scale",
+    "key",
+    "author's photograph"
+   ],
+   "answer": "3",
+   "solution": "Title, scale, key, north arrow and date are required; a photograph is not."
+  },
+  {
+   "q": "Two towns 15 cm apart on a map are 45 km apart on the ground. The scale of the map is",
+   "options": [
+    "1:30,000",
+    "1:300,000",
+    "1:3,000,000",
+    "1:45,000"
+   ],
+   "answer": "1",
+   "solution": "1 cm represents 3 km = 300,000 cm, so R.F. is 1:300,000."
+  },
+  {
+   "q": "A map that shows the distribution of population by dots is a",
+   "options": [
+    "topographical map",
+    "statistical map",
+    "relief map",
+    "political map"
+   ],
+   "answer": "1",
+   "solution": "Dot maps are a form of statistical or distribution map."
+  },
+  {
+   "q": "Contours are conventionally drawn in",
+   "options": [
+    "blue",
+    "brown",
+    "green",
+    "red"
+   ],
+   "answer": "1",
+   "solution": "Brown is used for contour lines and other relief information."
+  },
+  {
+   "q": "The angle between true north and magnetic north is called",
+   "options": [
+    "bearing",
+    "grid north",
+    "magnetic declination",
+    "azimuth"
+   ],
+   "answer": "2",
+   "solution": "It is the magnetic declination or magnetic variation."
+  },
+  {
+   "q": "The area of a rectangular farm measuring 4 cm by 3 cm on a 1:50,000 map is",
+   "options": [
+    "3 sq km",
+    "6 sq km",
+    "12 sq km",
+    "24 sq km"
+   ],
+   "answer": "0",
+   "solution": "4 cm = 2 km and 3 cm = 1.5 km, so the area is 2 x 1.5 = 3 sq km."
+  }
+ ]
+}

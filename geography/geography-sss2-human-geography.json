@@ -1,0 +1,249 @@
+{
+ "subject": "Geography",
+ "level": "SSS 2",
+ "slug": "human-geography",
+ "title": "Human Geography",
+ "outline": [
+  "Population: size, density, distribution and structure",
+  "Birth rate, death rate and natural increase",
+  "Population census and its problems in Nigeria",
+  "Migration: types, causes and effects",
+  "Settlement: rural and urban patterns, functions and problems",
+  "Urbanisation and rural-urban interaction",
+  "World economic activities: primary, secondary, tertiary",
+  "Transport, trade and industrial location"
+ ],
+ "modules": [
+  {
+   "title": "Population Dynamics",
+   "html": "\n<h4>Measures of Population</h4>\n<p><strong>Population density</strong> is the average number of persons per unit area:</p>\n$$\\text{Density} = \\frac{\\text{Total population}}{\\text{Land area}}\\;\\left(\\text{persons per km}^2\\right)$$\n<p>Vital rates are usually expressed per 1,000 persons:</p>\n$$\\text{Birth rate} = \\frac{\\text{Live births}}{\\text{Total population}}\\times1000, \\qquad \\text{Death rate} = \\frac{\\text{Deaths}}{\\text{Total population}}\\times1000$$\n$$\\text{Natural increase (\\%)} = \\frac{\\text{Birth rate}-\\text{Death rate}}{10}$$\n<h4>Factors Affecting Distribution</h4>\n<ul>\n<li><em>Physical</em>: relief, climate, soil fertility, water supply, vegetation, mineral deposits and disease (tsetse, onchocerciasis).</li>\n<li><em>Human</em>: industrial development, transport, government policy, historical settlement, security and social amenities.</li>\n</ul>\n<p>Densely populated areas of Nigeria include the Lagos-Ibadan axis, the Kano close-settled zone, and the Anambra-Imo-Abia belt, while low densities occur in the middle Niger-Benue trough, the Chad basin margins and the Obudu highlands.</p>\n<h4>Population Structure</h4>\n<p>The age-sex pyramid of a developing country such as Nigeria has a broad base (high proportion under 15), a narrow apex (few over 65) and a high dependency ratio:</p>\n$$\\text{Dependency ratio} = \\frac{\\text{Population aged }0\\text{-}14 + \\text{aged }65+}{\\text{Population aged }15\\text{-}64}\\times100$$\n<h4>Census and Migration</h4>\n<p>A <strong>census</strong> is the official enumeration of a country's population at a given time. Uses include planning of schools, hospitals and roads, revenue allocation, delimitation of constituencies and manpower planning. Problems in Nigeria include illiteracy, poor transport in rural areas, religious and cultural objections, political manipulation, inadequate funding and mobile populations.</p>\n<p><strong>Migration</strong> may be internal (rural-urban, urban-rural, rural-rural) or international (emigration, immigration), permanent, seasonal or daily (commuting). Push factors include unemployment, poor amenities, insecurity, drought and land shortage; pull factors include jobs, education, medical care and social attractions. Effects are labour shortage and abandoned farms in source areas, and congestion, slums, unemployment and pressure on services in destination areas, offset by remittances and skill transfer.</p>\n",
+   "examples": [
+    {
+     "q": "A state with an area of 25,000 sq km has a population of 5,500,000. Calculate its population density.",
+     "a": "Density \\(= \\dfrac{5{,}500{,}000}{25{,}000} = 220\\) persons per square kilometre."
+    },
+    {
+     "q": "In a town of 400,000 people there were 14,000 births and 6,000 deaths in one year. Find the birth rate, death rate and rate of natural increase.",
+     "a": "Birth rate \\(= \\dfrac{14{,}000}{400{,}000}\\times1000 = 35\\) per 1,000. Death rate \\(= \\dfrac{6{,}000}{400{,}000}\\times1000 = 15\\) per 1,000. Natural increase \\(= 35-15 = 20\\) per 1,000, i.e. 2.0% per annum."
+    }
+   ]
+  },
+  {
+   "title": "Settlement Patterns and Urbanisation",
+   "html": "\n<h4>Types and Patterns</h4>\n<p>Settlement is any place where people live and carry out their activities. Rural settlements may be <strong>nucleated (clustered)</strong>, <strong>dispersed (scattered)</strong>, <strong>linear</strong> or <strong>radial</strong>. Nucleation is encouraged by limited water points, defence and communal farming; dispersion by even water supply, individual land holdings and peaceful conditions.</p>\n<h4>Site and Situation</h4>\n<p><em>Site</em> is the actual ground a settlement occupies (wet point, dry point, defensive, bridge point, gap town, nodal), while <em>situation</em> is its position in relation to the surrounding region. Examples: Lokoja is a confluence town, Kano a route centre on old trans-Saharan trade routes, and Lagos a port and bridge-point settlement.</p>\n<h4>Urban Functions and the Urban Hierarchy</h4>\n<p>Towns perform administrative, commercial, industrial, educational, religious, mining, port and tourist functions; most are multifunctional. In a hierarchy, hamlets and villages provide low-order goods and services with small spheres of influence, while cities and metropolises provide high-order services to a large hinterland.</p>\n<h4>Urbanisation</h4>\n<p>Urbanisation is the increase in the proportion of a population living in towns. It is driven by rural-urban migration, natural increase, industrialisation and administrative decisions such as the creation of new states.</p>\n<ul>\n<li><em>Advantages</em>: employment, better education and health services, markets, exchange of ideas and modernisation.</li>\n<li><em>Problems</em>: slums and squatter settlements, traffic congestion, unemployment and underemployment, high crime rate, pollution, water and power shortage, and pressure on housing.</li>\n<li><em>Solutions</em>: mass housing schemes, urban renewal, mass transit, decentralisation of industries, rural development to slow migration, and enforcement of physical planning laws.</li>\n</ul>\n<h4>Rural-Urban Interaction</h4>\n<p>The town supplies the countryside with manufactured goods, credit, health care and higher education, while the countryside supplies food, raw materials and labour. Improved transport and telecommunications strengthen this two-way flow.</p>\n",
+   "examples": [
+    {
+     "q": "Give three reasons for the nucleated settlement pattern common in the Sudan savanna of Nigeria.",
+     "a": "(i) Water is scarce and confined to a few wells, boreholes or rivers, so houses cluster around these points; (ii) the need for defence in the past against raids led people to live together, often within walls; (iii) communal social and religious life, shared markets and cooperative farming encourage clustering, while the flat land and communal land tenure allow compact building."
+    },
+    {
+     "q": "State four problems arising from rapid urbanisation in Lagos.",
+     "a": "(i) Acute housing shortage leading to slums such as Ajegunle and Makoko; (ii) severe traffic congestion and long commuting times; (iii) high rates of unemployment, underemployment and crime; (iv) inadequate water supply, waste disposal and drainage, causing pollution and frequent flooding."
+    }
+   ]
+  },
+  {
+   "title": "World Economic Activities",
+   "html": "\n<h4>Classification</h4>\n<ol>\n<li><strong>Primary</strong>: extraction of natural products - farming, fishing, forestry, mining.</li>\n<li><strong>Secondary</strong>: processing and manufacturing - textiles, cement, food processing, steel.</li>\n<li><strong>Tertiary</strong>: services - transport, trade, banking, education, tourism.</li>\n<li><strong>Quaternary</strong>: research, information and communication technology.</li>\n</ol>\n<h4>Types of Agriculture</h4>\n<p><em>Subsistence</em> systems include shifting cultivation, bush fallowing and nomadic herding; <em>commercial</em> systems include plantation agriculture (rubber, cocoa, oil palm), extensive mechanised grain farming (Prairies, Steppes), livestock ranching (Argentina, Australia) and market gardening near cities.</p>\n<h4>Manufacturing and Industrial Location</h4>\n<p>Factors affecting the location of industry are raw materials, power supply, labour, market, transport, water, capital, land and government policy. Industries may be raw-material oriented (cement, sawmilling), market oriented (bakery, brewing, furniture) or footloose (electronics).</p>\n<h4>Transport and Trade</h4>\n<table class=\"tb-table\"><tr><th>Mode</th><th>Advantages</th><th>Limitations</th></tr>\n<tr><td>Road</td><td>Flexible, door to door, cheap over short distances</td><td>Congestion, accidents, poor maintenance</td></tr>\n<tr><td>Rail</td><td>Carries bulky goods cheaply over long distances</td><td>Fixed routes, high capital cost, slow in Nigeria</td></tr>\n<tr><td>Water</td><td>Cheapest for bulky international cargo</td><td>Slow; needs ports and dredging</td></tr>\n<tr><td>Air</td><td>Fastest; good for perishables and passengers</td><td>Very costly; small capacity; weather dependent</td></tr>\n<tr><td>Pipeline</td><td>Continuous flow of oil and gas</td><td>Only liquids/gases; vandalism</td></tr></table>\n<p>Trade may be internal or international; a country's <strong>balance of trade</strong> is the difference between the value of visible exports and imports. Nigeria's exports are dominated by crude oil, giving a mono-product economy that is vulnerable to price fluctuation, which is why diversification into agriculture, solid minerals and services is emphasised.</p>\n",
+   "examples": [
+    {
+     "q": "Why are cement factories usually located near limestone deposits?",
+     "a": "Cement manufacture is a weight-losing process: several tonnes of limestone, clay and gypsum are needed to make one tonne of cement, so transporting the bulky raw material is far more expensive than transporting the finished product. Locating the plant at the quarry, as at Ewekoro, Sokoto, Nkalagu and Obajana, minimises transport cost and guarantees a steady supply of raw material."
+    },
+    {
+     "q": "A country exported goods worth 8.4 trillion naira and imported goods worth 6.1 trillion naira in a year. Comment on its balance of trade.",
+     "a": "Balance of trade \\(= 8.4 - 6.1 = 2.3\\) trillion naira. Since exports exceed imports, the country has a favourable (surplus) balance of trade, which strengthens its foreign reserves and currency."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Population density is expressed as",
+   "options": [
+    "total births per year",
+    "persons per unit area",
+    "the ratio of males to females",
+    "the number of towns per state"
+   ],
+   "answer": "1",
+   "solution": "It is total population divided by land area."
+  },
+  {
+   "q": "A country with a population of 3,000,000 and an area of 60,000 sq km has a density of",
+   "options": [
+    "20 persons per sq km",
+    "50 persons per sq km",
+    "180 persons per sq km",
+    "500 persons per sq km"
+   ],
+   "answer": "1",
+   "solution": "3,000,000/60,000 = 50 persons per sq km."
+  },
+  {
+   "q": "If the birth rate is 40 per 1,000 and the death rate is 12 per 1,000, the rate of natural increase is",
+   "options": [
+    "0.28 per cent",
+    "2.8 per cent",
+    "28 per cent",
+    "52 per cent"
+   ],
+   "answer": "1",
+   "solution": "28 per 1,000 equals 2.8 per cent per annum."
+  },
+  {
+   "q": "A broad-based population pyramid indicates",
+   "options": [
+    "an ageing population",
+    "a high proportion of children",
+    "equal numbers in all age groups",
+    "a declining birth rate"
+   ],
+   "answer": "1",
+   "solution": "Wide lower bars show many young dependants and a high birth rate."
+  },
+  {
+   "q": "Which of the following is NOT a use of population census data?",
+   "options": [
+    "Revenue allocation",
+    "Manpower planning",
+    "Delimitation of constituencies",
+    "Forecasting rainfall"
+   ],
+   "answer": "3",
+   "solution": "Rainfall forecasting depends on meteorological, not census, data."
+  },
+  {
+   "q": "The movement of people from villages to towns is called",
+   "options": [
+    "emigration",
+    "rural-urban migration",
+    "commuting",
+    "transhumance"
+   ],
+   "answer": "1",
+   "solution": "It is the dominant form of internal migration in Nigeria."
+  },
+  {
+   "q": "Unemployment in a village that pushes youths to the city is an example of a",
+   "options": [
+    "pull factor",
+    "push factor",
+    "physical barrier",
+    "demographic transition"
+   ],
+   "answer": "1",
+   "solution": "Push factors drive people away from the source region."
+  },
+  {
+   "q": "A settlement pattern in which houses are strung along a road is described as",
+   "options": [
+    "nucleated",
+    "dispersed",
+    "linear",
+    "radial"
+   ],
+   "answer": "2",
+   "solution": "Linear settlements follow a route, river or ridge."
+  },
+  {
+   "q": "Lokoja developed mainly as a",
+   "options": [
+    "mining town",
+    "confluence and route town",
+    "port on the Atlantic",
+    "tourist resort"
+   ],
+   "answer": "1",
+   "solution": "It stands at the confluence of the Niger and Benue rivers."
+  },
+  {
+   "q": "Which of the following is a high-order service?",
+   "options": [
+    "Village market stall",
+    "Primary school",
+    "Specialist teaching hospital",
+    "Roadside kiosk"
+   ],
+   "answer": "2",
+   "solution": "High-order services are few, costly and serve a large sphere of influence."
+  },
+  {
+   "q": "Fishing, mining and lumbering are examples of",
+   "options": [
+    "primary activities",
+    "secondary activities",
+    "tertiary activities",
+    "quaternary activities"
+   ],
+   "answer": "0",
+   "solution": "They involve direct extraction of natural resources."
+  },
+  {
+   "q": "Which industry is best described as market oriented?",
+   "options": [
+    "Cement manufacture",
+    "Sawmilling",
+    "Bakery",
+    "Iron smelting"
+   ],
+   "answer": "2",
+   "solution": "Bread is bulky, perishable and gains weight, so bakeries locate near consumers."
+  },
+  {
+   "q": "Shifting cultivation is mainly practised because",
+   "options": [
+    "farmers own large machines",
+    "soil fertility is restored by fallowing",
+    "the crops are exported",
+    "land is scarce"
+   ],
+   "answer": "1",
+   "solution": "After a few years of cropping the plot is abandoned to regain fertility naturally."
+  },
+  {
+   "q": "The cheapest mode of transport for bulky international cargo is",
+   "options": [
+    "air",
+    "road",
+    "water",
+    "pipeline"
+   ],
+   "answer": "2",
+   "solution": "Ocean shipping carries very large tonnages at low cost per tonne-kilometre."
+  },
+  {
+   "q": "A country whose exports exceed its imports has",
+   "options": [
+    "an unfavourable balance of trade",
+    "a favourable balance of trade",
+    "a trade deficit",
+    "no balance of payment"
+   ],
+   "answer": "1",
+   "solution": "Export value greater than import value gives a trade surplus."
+  },
+  {
+   "q": "A major problem of Nigeria's dependence on crude oil exports is",
+   "options": [
+    "low world demand for oil",
+    "vulnerability to price fluctuations",
+    "lack of pipelines",
+    "absence of refineries in Africa"
+   ],
+   "answer": "1",
+   "solution": "A mono-product economy suffers revenue shocks when world oil prices fall."
+  },
+  {
+   "q": "The dependency ratio compares",
+   "options": [
+    "males to females",
+    "urban to rural dwellers",
+    "the non-working ages to the working age group",
+    "births to deaths"
+   ],
+   "answer": "2",
+   "solution": "It relates those aged 0-14 and 65+ to those aged 15-64."
+  }
+ ]
+}

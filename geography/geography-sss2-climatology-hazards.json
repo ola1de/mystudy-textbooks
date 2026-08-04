@@ -1,0 +1,249 @@
+{
+ "subject": "Geography",
+ "level": "SSS 2",
+ "slug": "climatology-hazards",
+ "title": "Climatology and Environmental Hazards",
+ "outline": [
+  "The atmosphere: composition and structure",
+  "Elements of weather and their measurement",
+  "Insolation, temperature, pressure, winds and humidity",
+  "Types of rainfall and clouds",
+  "Climate versus weather; factors controlling climate",
+  "Koppen's classification of climate",
+  "Major climatic and vegetation belts of the world and of Nigeria",
+  "Environmental hazards, resources and conservation"
+ ],
+ "modules": [
+  {
+   "title": "The Atmosphere and Elements of Weather",
+   "html": "\n<h4>Composition and Structure</h4>\n<p>Dry air is about 78% nitrogen, 21% oxygen, 0.93% argon and 0.04% carbon dioxide, plus water vapour, dust and other gases. The atmosphere is layered into the <strong>troposphere</strong> (weather layer, temperature falls with height at about \\(6.5^\\circ\\mathrm{C}\\) per km), <strong>stratosphere</strong> (contains the ozone layer, temperature rises), <strong>mesosphere</strong> (temperature falls) and <strong>thermosphere/ionosphere</strong> (temperature rises; reflects radio waves).</p>\n<h4>Elements of Weather and their Instruments</h4>\n<table class=\"tb-table\"><tr><th>Element</th><th>Instrument</th><th>Unit</th></tr>\n<tr><td>Temperature</td><td>Maximum and minimum (Six's) thermometer in a Stevenson screen</td><td>&deg;C</td></tr>\n<tr><td>Rainfall</td><td>Rain gauge</td><td>mm</td></tr>\n<tr><td>Pressure</td><td>Mercury or aneroid barometer, barograph</td><td>millibars</td></tr>\n<tr><td>Wind speed / direction</td><td>Anemometer / wind vane</td><td>km/h / compass points</td></tr>\n<tr><td>Humidity</td><td>Hygrometer (wet and dry bulb)</td><td>%</td></tr>\n<tr><td>Sunshine</td><td>Campbell-Stokes sunshine recorder</td><td>hours</td></tr></table>\n<h4>Temperature Calculations</h4>\n<p>Mean daily temperature and daily range are found from the maximum and minimum readings:</p>\n$$\\text{Mean} = \\frac{T_{max}+T_{min}}{2}, \\qquad \\text{Range} = T_{max}-T_{min}$$\n<p>Temperature falls with altitude at the normal lapse rate of about \\(0.6^\\circ\\mathrm{C}\\) per 100 m, so the temperature at a station of height \\(h\\) metres above a sea-level station is \\(T_h = T_0 - 0.006h\\).</p>\n<h4>Rainfall Types</h4>\n<ol>\n<li><strong>Convectional</strong>: intense surface heating causes rising air, cooling and heavy afternoon thunderstorms; typical of equatorial regions.</li>\n<li><strong>Relief (orographic)</strong>: moist air is forced to rise over highlands, giving heavy rain on the windward slope and a dry rain-shadow on the leeward side, as on the Jos and Obudu highlands.</li>\n<li><strong>Cyclonic (frontal)</strong>: warm air rises over cold air along a front, giving prolonged moderate rainfall in temperate latitudes.</li>\n</ol>\n<h4>Winds and Pressure</h4>\n<p>Wind blows from high to low pressure and is deflected by the Coriolis force. Planetary winds are the trades, westerlies and polar easterlies; local winds include land and sea breezes, and the dust-laden <strong>North-East Trade (Harmattan)</strong> that affects Nigeria between November and February. The Inter-Tropical Discontinuity (ITD) separates the moist south-westerlies from the dry north-easterlies, and its seasonal migration controls the rainy and dry seasons in West Africa.</p>\n",
+   "examples": [
+    {
+     "q": "A station at sea level records 30 degrees Celsius. Calculate the temperature at a hill station 1,500 m high, using a lapse rate of 0.6 degrees Celsius per 100 m.",
+     "a": "Fall in temperature \\(= \\dfrac{1500}{100}\\times0.6 = 9^\\circ\\mathrm{C}\\). Therefore \\(T = 30 - 9 = 21^\\circ\\mathrm{C}\\) at the hill station."
+    },
+    {
+     "q": "The maximum and minimum temperatures at a station were 33 degrees Celsius and 21 degrees Celsius. Find the mean daily temperature and the diurnal range.",
+     "a": "Mean \\(= \\dfrac{33+21}{2} = 27^\\circ\\mathrm{C}\\). Diurnal range \\(= 33-21 = 12^\\circ\\mathrm{C}\\)."
+    }
+   ]
+  },
+  {
+   "title": "Koppen's Classification and World Climatic Types",
+   "html": "\n<h4>Basis of the Classification</h4>\n<p>Wladimir Koppen classified world climates using mean monthly temperature, mean monthly precipitation and the natural vegetation associated with them. Five major groups are denoted by capital letters, with second and third letters describing rainfall seasonality and temperature.</p>\n<table class=\"tb-table\"><tr><th>Group</th><th>Name</th><th>Criterion</th><th>Example</th></tr>\n<tr><td>A</td><td>Tropical rainy</td><td>Coldest month above \\(18^\\circ\\mathrm{C}\\)</td><td>Af Calabar, Aw Kano region savanna</td></tr>\n<tr><td>B</td><td>Dry</td><td>Evaporation exceeds precipitation</td><td>BWh Sahara, BSh Sahel</td></tr>\n<tr><td>C</td><td>Warm temperate</td><td>Coldest month between \\(-3^\\circ\\mathrm{C}\\) and \\(18^\\circ\\mathrm{C}\\)</td><td>Cs Mediterranean, Cf China type</td></tr>\n<tr><td>D</td><td>Cold temperate</td><td>Coldest month below \\(-3^\\circ\\mathrm{C}\\), warmest above \\(10^\\circ\\mathrm{C}\\)</td><td>Df Siberian</td></tr>\n<tr><td>E</td><td>Polar</td><td>Warmest month below \\(10^\\circ\\mathrm{C}\\)</td><td>ET tundra, EF ice cap</td></tr></table>\n<p>Sub-letters: <em>f</em> = no dry season, <em>m</em> = monsoon, <em>w</em> = dry winter, <em>s</em> = dry summer, <em>W</em> = desert, <em>S</em> = steppe, <em>h</em> = hot, <em>k</em> = cold, <em>T</em> = tundra, <em>F</em> = frost/ice cap.</p>\n<h4>Advantages and Limitations</h4>\n<ul>\n<li>It is quantitative, easy to apply and links climate with vegetation.</li>\n<li>However it ignores winds, cloudiness and air masses, uses arbitrary boundaries, and does not adequately handle highland climates.</li>\n</ul>\n<h4>Climate and Vegetation Belts of Nigeria</h4>\n<p>From south to north: mangrove and freshwater swamp forest, tropical rainforest (Af/Am, over 2,000 mm), derived and Guinea savanna (Aw, 1,000-1,500 mm), Sudan savanna (BSh, 500-1,000 mm) and Sahel savanna (about 500 mm with a long dry season), with montane vegetation on the Jos and Obudu highlands. Rainfall decreases and the dry season lengthens northwards because the moist south-west monsoon penetrates less far inland.</p>\n",
+   "examples": [
+    {
+     "q": "A station records a coldest month of 24 degrees Celsius, annual rainfall of 2,400 mm and no month with less than 60 mm. Classify it under Koppen and name a Nigerian example.",
+     "a": "The coldest month exceeds \\(18^\\circ\\mathrm{C}\\), so the station belongs to group A (tropical rainy). Since no month is dry, the second letter is f, giving <strong>Af</strong>, the tropical rainforest or equatorial climate. Calabar and Warri in the Niger Delta approximate this type."
+    },
+    {
+     "q": "Explain why rainfall totals decrease from the coast towards northern Nigeria.",
+     "a": "Rain-bearing south-west monsoon winds from the Atlantic lose most of their moisture as they travel inland, so their moisture content and depth decrease northwards. The Inter-Tropical Discontinuity reaches the far north for only two or three months in the year, so the rainy season is short there, while the dry, dust-laden north-east trades dominate for the rest of the year, giving Sudan and Sahel totals below 1,000 mm compared with over 2,000 mm on the coast."
+    }
+   ]
+  },
+  {
+   "title": "Environmental Hazards, Resources and Conservation",
+   "html": "\n<h4>Environmental Hazards</h4>\n<p>A hazard is a natural or human-induced event that threatens life and property.</p>\n<ul>\n<li><strong>Flooding</strong> - caused by heavy rainfall, dam releases, blocked drains and building on flood plains; controlled by dredging, drainage, embankments and enforcement of building regulations.</li>\n<li><strong>Drought and desertification</strong> - low, unreliable rainfall combined with overgrazing, deforestation and continuous cropping; controlled by afforestation, shelter belts, irrigation and controlled grazing.</li>\n<li><strong>Soil erosion, earthquakes, volcanic eruptions, tropical cyclones, landslides and coastal erosion.</strong></li>\n<li><strong>Pollution</strong> - oil spillage and gas flaring in the Niger Delta, industrial effluents, vehicle emissions, refuse dumping and noise.</li>\n<li><strong>Global warming</strong> - the enhanced greenhouse effect from carbon dioxide, methane and CFCs, causing rising sea level, changed rainfall patterns and coastal flooding in Lagos and the delta.</li>\n</ul>\n<h4>Environmental Resources</h4>\n<p>Resources are <strong>renewable</strong> (solar energy, wind, water, forests, fisheries, soil) or <strong>non-renewable</strong> (petroleum, coal, tin, limestone). Nigeria's endowment includes crude oil and natural gas, coal at Enugu, tin and columbite on the Jos Plateau, limestone at Sokoto, Ewekoro and Nkalagu, iron ore at Itakpe, and extensive arable land and water resources.</p>\n<h4>Conservation</h4>\n<p>Conservation is the wise and sustainable use of resources so that they remain available to future generations. Methods include afforestation and reforestation, establishment of forest reserves, national parks and game reserves (Yankari, Kainji Lake, Cross River, Gashaka-Gumti), controlled fishing and hunting seasons, recycling of waste, use of renewable energy, environmental impact assessment, and legislation enforced by agencies such as NESREA and state environmental protection boards.</p>\n",
+   "examples": [
+    {
+     "q": "Explain three effects of gas flaring in the Niger Delta.",
+     "a": "(i) It releases carbon dioxide, methane and soot, contributing to global warming and acid rain that damages crops and roofing sheets; (ii) the intense heat and light destroy nearby vegetation and disrupt the breeding of birds and insects, lowering biodiversity and farm yields; (iii) it wastes an economic resource, since the associated gas could be processed for domestic cooking, power generation and export, and it endangers the health of nearby communities through respiratory illness."
+    },
+    {
+     "q": "State four ways of reducing the risk of urban flooding in a Nigerian city.",
+     "a": "(i) Construct and regularly desilt storm drains and canals; (ii) stop the dumping of refuse in drainage channels and rivers; (iii) prevent building on flood plains and wetlands through strict development control; (iv) plant vegetation and use permeable surfaces to increase infiltration, while providing early warning systems from NIMET and NIHSA."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The layer of the atmosphere in which weather phenomena occur is the",
+   "options": [
+    "stratosphere",
+    "troposphere",
+    "mesosphere",
+    "ionosphere"
+   ],
+   "answer": "1",
+   "solution": "Nearly all water vapour and cloud formation is confined to the troposphere."
+  },
+  {
+   "q": "The instrument used for measuring atmospheric pressure is the",
+   "options": [
+    "hygrometer",
+    "anemometer",
+    "barometer",
+    "thermometer"
+   ],
+   "answer": "2",
+   "solution": "Mercury and aneroid barometers measure pressure in millibars."
+  },
+  {
+   "q": "Rainfall caused by intense surface heating and rising air is described as",
+   "options": [
+    "relief",
+    "cyclonic",
+    "convectional",
+    "frontal"
+   ],
+   "answer": "2",
+   "solution": "Convectional rain gives heavy afternoon thunderstorms in equatorial areas."
+  },
+  {
+   "q": "The dry, dust-laden wind that affects Nigeria between November and February is the",
+   "options": [
+    "monsoon",
+    "harmattan",
+    "chinook",
+    "sirocco"
+   ],
+   "answer": "1",
+   "solution": "The harmattan is the north-east trade wind from the Sahara."
+  },
+  {
+   "q": "Mean daily temperature is obtained by",
+   "options": [
+    "adding maximum and minimum",
+    "subtracting minimum from maximum",
+    "averaging maximum and minimum",
+    "dividing maximum by two"
+   ],
+   "answer": "2",
+   "solution": "Mean = (max + min)/2, while the range is max - min."
+  },
+  {
+   "q": "With a lapse rate of 0.6 degrees Celsius per 100 m, a place 1,000 m above a station recording 28 degrees Celsius will record",
+   "options": [
+    "16 degrees Celsius",
+    "22 degrees Celsius",
+    "24 degrees Celsius",
+    "34 degrees Celsius"
+   ],
+   "answer": "1",
+   "solution": "Fall = 10 x 0.6 = 6 degrees; 28 - 6 = 22 degrees Celsius."
+  },
+  {
+   "q": "In Koppen's classification, group A refers to",
+   "options": [
+    "dry climates",
+    "tropical rainy climates",
+    "cold temperate climates",
+    "polar climates"
+   ],
+   "answer": "1",
+   "solution": "Group A has the coldest month above 18 degrees Celsius."
+  },
+  {
+   "q": "Koppen's symbol for a hot desert climate is",
+   "options": [
+    "BWh",
+    "BSh",
+    "Aw",
+    "Cs"
+   ],
+   "answer": "0",
+   "solution": "B is dry, W is desert and h means hot."
+  },
+  {
+   "q": "The letter 's' in Koppen's Csa indicates",
+   "options": [
+    "a dry summer",
+    "a dry winter",
+    "no dry season",
+    "a monsoon season"
+   ],
+   "answer": "0",
+   "solution": "Cs is the Mediterranean type, with dry summers and wet winters."
+  },
+  {
+   "q": "Which climate type is characterised by a coldest month above 18 degrees Celsius and a marked dry season?",
+   "options": [
+    "Af",
+    "Am",
+    "Aw",
+    "BSh"
+   ],
+   "answer": "2",
+   "solution": "Aw is the tropical savanna climate with a distinct dry season."
+  },
+  {
+   "q": "A major limitation of Koppen's classification is that it",
+   "options": [
+    "uses temperature only",
+    "ignores winds and air masses",
+    "cannot be applied to the tropics",
+    "requires no rainfall data"
+   ],
+   "answer": "1",
+   "solution": "It relies on temperature and precipitation, neglecting winds, cloudiness and air masses."
+  },
+  {
+   "q": "The Inter-Tropical Discontinuity controls Nigerian rainfall mainly through its",
+   "options": [
+    "thickness of ozone",
+    "seasonal north-south migration",
+    "relief",
+    "longitude"
+   ],
+   "answer": "1",
+   "solution": "Its northward migration brings the rainy season and its retreat brings the dry season."
+  },
+  {
+   "q": "The vegetation belt found in the extreme north of Nigeria is",
+   "options": [
+    "mangrove forest",
+    "rainforest",
+    "Guinea savanna",
+    "Sahel savanna"
+   ],
+   "answer": "3",
+   "solution": "Sahel savanna has short grasses and thorn scrub with about 500 mm of rain."
+  },
+  {
+   "q": "Which of these is a renewable resource?",
+   "options": [
+    "Crude oil",
+    "Coal",
+    "Solar energy",
+    "Tin ore"
+   ],
+   "answer": "2",
+   "solution": "Solar energy is continuously replenished, unlike mineral fuels and ores."
+  },
+  {
+   "q": "The main cause of desertification in northern Nigeria is",
+   "options": [
+    "excessive rainfall",
+    "overgrazing and deforestation",
+    "volcanic eruption",
+    "coastal erosion"
+   ],
+   "answer": "1",
+   "solution": "Removal of vegetation exposes fragile soils to wind erosion under low rainfall."
+  },
+  {
+   "q": "Global warming is caused mainly by an increase in",
+   "options": [
+    "ozone in the stratosphere",
+    "greenhouse gases such as carbon dioxide",
+    "atmospheric nitrogen",
+    "solar eclipses"
+   ],
+   "answer": "1",
+   "solution": "Greenhouse gases trap outgoing long-wave radiation and raise mean temperatures."
+  },
+  {
+   "q": "The wise use of resources to ensure their availability to future generations is called",
+   "options": [
+    "exploitation",
+    "conservation",
+    "reclamation",
+    "urbanisation"
+   ],
+   "answer": "1",
+   "solution": "Conservation stresses sustainable management rather than non-use."
+  }
+ ]
+}
