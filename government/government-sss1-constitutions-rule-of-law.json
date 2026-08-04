@@ -1,0 +1,249 @@
+{
+ "subject": "Government",
+ "level": "SSS 1",
+ "slug": "constitutions-rule-of-law",
+ "title": "Constitutions and Rule of Law",
+ "outline": [
+  "Meaning, sources and functions of a constitution",
+  "Types of constitution: written, unwritten, rigid, flexible",
+  "Constitutionalism and supremacy of the constitution",
+  "The rule of law: Dicey's principles and limitations",
+  "Separation of powers, checks and balances, and fundamental human rights"
+ ],
+ "modules": [
+  {
+   "title": "Module 1: Meaning, Sources and Types of Constitution",
+   "html": "\n<p>A <strong>constitution</strong> is the body of fundamental rules, written or unwritten, by which a state is governed. It defines the structure of government, allocates powers among the organs, and states the rights and duties of citizens.</p>\n<h4>Sources of a Constitution</h4>\n<ol><li>Statutes and Acts of parliament</li><li>Judicial precedents and case law</li><li>Conventions and customs</li><li>Works of eminent authors and jurists</li><li>Historical documents (e.g. Magna Carta 1215)</li><li>Constitutional conferences and international agreements</li></ol>\n<h4>Types of Constitution</h4>\n<table class=\"tb-table\">\n<tr><th>Type</th><th>Meaning</th><th>Example</th></tr>\n<tr><td>Written</td><td>Fundamental rules assembled in one formal document</td><td>Nigeria 1999, USA 1787</td></tr>\n<tr><td>Unwritten</td><td>Rules scattered across statutes, conventions and case law</td><td>United Kingdom, Israel</td></tr>\n<tr><td>Rigid</td><td>Amendment requires a special, difficult procedure</td><td>Nigeria, USA</td></tr>\n<tr><td>Flexible</td><td>Amended by ordinary law-making procedure</td><td>United Kingdom</td></tr>\n<tr><td>Federal</td><td>Divides powers between centre and units</td><td>Nigeria, India</td></tr>\n<tr><td>Unitary</td><td>Concentrates powers at the centre</td><td>Ghana, France</td></tr>\n</table>\n<p>Amending the Nigerian Constitution under section 9 requires a two-thirds majority of each chamber of the National Assembly plus approval by at least two-thirds of the 36 State Houses of Assembly: \\\\( \\\\frac{2}{3} \\\\times 36 = 24 \\\\) states. Entrenched provisions (such as sections 8 and 9 and Chapter IV) require a four-fifths majority of the National Assembly.</p>\n<h4>Functions of a Constitution</h4>\n<ul><li>Establishes the organs of government and their powers</li><li>Limits governmental power and prevents tyranny</li><li>Guarantees fundamental human rights</li><li>Provides for citizenship, elections and succession</li><li>Defines the relationship between the levels of government</li><li>Serves as the yardstick for judicial review</li></ul>\n",
+   "examples": [
+    {
+     "q": "Britain has no single constitutional document. Does it have a constitution?",
+     "a": "Yes. Britain has an unwritten constitution whose rules are scattered across statutes such as the Bill of Rights 1689, judicial precedents, conventions and the works of authorities like Dicey and Bagehot. It is unwritten in the sense of being uncodified, not in the sense of being non-existent, and it is flexible because it can be altered by ordinary Act of Parliament."
+    },
+    {
+     "q": "State two merits of a rigid constitution.",
+     "a": "It safeguards fundamental provisions and minority rights from hasty amendment by a temporary majority, and it promotes stability and certainty, especially in a federation where the division of powers must not be altered unilaterally by the central government."
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Constitutionalism and Supremacy of the Constitution",
+   "html": "\n<p><strong>Constitutionalism</strong> means limited government: rulers govern strictly according to established constitutional rules rather than personal whim. Its essential ingredients are a supreme constitution, the rule of law, separation of powers, an independent judiciary, periodic elections, fundamental rights and a free press.</p>\n<h4>Supremacy of the Constitution</h4>\n<p>Section 1(1) and 1(3) of the 1999 Constitution provide that the constitution is supreme and binding on all authorities and persons, and that any other law inconsistent with it is void <em>to the extent of the inconsistency</em>. Symbolically, for any law \\\\( L \\\\) and the constitution \\\\( C \\\\): \\\\( L \\\\cap \\\\neg C \\\\Rightarrow L = 0 \\\\).</p>\n<h4>Obstacles to Constitutionalism in Nigeria</h4>\n<ol><li>Frequent military intervention and the suspension of constitutions by decree</li><li>Electoral malpractice and weak political parties</li><li>Corruption and abuse of office</li><li>Ethnic and religious sentiment overriding constitutional norms</li><li>Executive interference with the judiciary and legislature</li><li>Widespread illiteracy and political apathy</li></ol>\n",
+   "examples": [
+    {
+     "q": "A state passes a law that conflicts with the 1999 Constitution. What is the legal position?",
+     "a": "Section 1(3) provides that where any other law is inconsistent with the constitution, the constitution prevails and the other law is void to the extent of the inconsistency. The affected party may approach the courts, which will exercise judicial review and strike down the offending provision, leaving the rest of the statute intact."
+    },
+    {
+     "q": "List three obstacles to constitutionalism in Nigeria.",
+     "a": "Military intervention that suspends or amends constitutions by decree; electoral malpractice and corruption that erode legitimacy; and executive interference with the independence of the judiciary and legislature, which weakens the checks that limit government."
+    }
+   ]
+  },
+  {
+   "title": "Module 3: The Rule of Law",
+   "html": "\n<p>The <strong>rule of law</strong>, popularised by Professor A.V. Dicey in <em>Introduction to the Study of the Law of the Constitution</em> (1885), means the absolute supremacy of the law over arbitrary power.</p>\n<h4>Dicey's Three Principles</h4>\n<ol>\n<li><strong>Supremacy of the law</strong> — no one may be punished except for a definite breach of law established in an ordinary court; there is no punishment without law (<em>nulla poena sine lege</em>).</li>\n<li><strong>Equality before the law</strong> — all persons, high or low, are subject to the same law administered by the same courts.</li>\n<li><strong>Fundamental rights as the product of judicial decisions</strong> — in England, liberties derive from ordinary court judgments rather than an abstract bill of rights.</li>\n</ol>\n<h4>Other Requirements</h4>\n<ul><li>Fair hearing (<em>audi alteram partem</em>) and impartiality (<em>nemo judex in causa sua</em>)</li><li>Presumption of innocence until proved guilty</li><li>Access to legal representation and speedy trial</li><li>Independence of the judiciary</li><li>No retroactive criminal legislation</li></ul>\n<h4>Limitations of the Rule of Law</h4>\n<p>Immunity of the President, Vice-President, Governors and Deputy Governors (section 308); diplomatic immunity; legislative privileges; states of emergency; delegated legislation and administrative tribunals; poverty and ignorance that deny access to justice; military rule and ouster clauses.</p>\n",
+   "examples": [
+    {
+     "q": "A suspect is detained for six months without charge. Which principles of the rule of law are breached?",
+     "a": "The right to personal liberty under section 35 and the right to fair hearing within a reasonable time under section 36 are breached, along with Dicey's principle that no one may be punished except for a definite breach of law established in an ordinary court. The presumption of innocence is also violated, and the detainee may apply for an order of habeas corpus and damages."
+    },
+    {
+     "q": "Why is the immunity clause regarded as a limitation on the rule of law?",
+     "a": "Because section 308 exempts the President, Vice-President, Governors and their deputies from civil and criminal proceedings while in office, they are not equal before the law with ordinary citizens during their tenure. This conflicts with Dicey's second principle and can shield abuse of office until the officer leaves government."
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Separation of Powers, Checks and Balances, and Human Rights",
+   "html": "\n<h4>Separation of Powers</h4>\n<p>Propounded by <strong>Baron de Montesquieu</strong> in <em>The Spirit of the Laws</em> (1748), the doctrine holds that the legislative, executive and judicial powers should be exercised by different persons and bodies so that \"power checks power\". Total separation is impossible in practice, which is why checks and balances exist.</p>\n<h4>Checks and Balances in Nigeria</h4>\n<table class=\"tb-table\">\n<tr><th>Organ</th><th>Checks it exercises</th></tr>\n<tr><td>Legislature</td><td>Passes the budget, confirms appointments, ratifies treaties, impeaches the President, conducts investigations</td></tr>\n<tr><td>Executive</td><td>Signs or vetoes bills, appoints judges on NJC recommendation, grants pardon, initiates policy</td></tr>\n<tr><td>Judiciary</td><td>Declares laws or executive acts unconstitutional, interprets the constitution, settles election petitions</td></tr>\n</table>\n<p>A presidential veto in Nigeria can be overridden by a two-thirds majority of both chambers.</p>\n<h4>Fundamental Human Rights (Chapter IV, 1999 Constitution)</h4>\n<ol><li>Right to life (s.33)</li><li>Right to dignity of the human person (s.34)</li><li>Right to personal liberty (s.35)</li><li>Right to fair hearing (s.36)</li><li>Right to private and family life (s.37)</li><li>Freedom of thought, conscience and religion (s.38)</li><li>Freedom of expression and the press (s.39)</li><li>Right to peaceful assembly and association (s.40)</li><li>Right to freedom of movement (s.41)</li><li>Freedom from discrimination (s.42)</li><li>Right to acquire and own immovable property (s.43&ndash;44)</li></ol>\n<p>Chapter II contains the <strong>Fundamental Objectives and Directive Principles of State Policy</strong>, which are largely non-justiciable — they guide policy but cannot ordinarily be enforced in court.</p>\n",
+   "examples": [
+    {
+     "q": "The National Assembly refuses to confirm a ministerial nominee. Which doctrine is illustrated?",
+     "a": "Checks and balances within the doctrine of separation of powers. The executive proposes appointments but the Senate screens and confirms them, ensuring that the President cannot staff government unilaterally. This mutual restraint prevents the concentration of power in any single organ."
+    },
+    {
+     "q": "Why are the Fundamental Objectives in Chapter II described as non-justiciable?",
+     "a": "Because section 6(6)(c) bars the courts from inquiring into whether any organ of government has complied with them. They are statements of policy goals such as free education and adequate health care, dependent on available resources, so they guide governmental action but do not ordinarily create enforceable individual rights."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A constitution that can be amended by the ordinary law-making process is described as",
+   "options": [
+    "Rigid",
+    "Flexible",
+    "Written",
+    "Federal"
+   ],
+   "answer": "1",
+   "solution": "A flexible constitution requires no special amendment procedure beyond ordinary legislation."
+  },
+  {
+   "q": "The doctrine of separation of powers was popularised by",
+   "options": [
+    "A.V. Dicey",
+    "Baron de Montesquieu",
+    "John Locke",
+    "Jean Bodin"
+   ],
+   "answer": "1",
+   "solution": "Montesquieu set out the doctrine in The Spirit of the Laws (1748)."
+  },
+  {
+   "q": "Which of the following is NOT one of Dicey's principles of the rule of law?",
+   "options": [
+    "Supremacy of the law",
+    "Equality before the law",
+    "Rights arising from judicial decisions",
+    "Supremacy of parliament over the courts"
+   ],
+   "answer": "3",
+   "solution": "Dicey's three tenets are supremacy of law, equality before the law and judicially derived rights."
+  },
+  {
+   "q": "Under the 1999 Constitution, amending an ordinary provision requires the support of at least",
+   "options": [
+    "Two-thirds of the National Assembly and 24 State Houses of Assembly",
+    "A simple majority of the Senate only",
+    "All 36 states",
+    "The President alone"
+   ],
+   "answer": "0",
+   "solution": "Section 9 requires a two-thirds majority in each chamber plus approval by two-thirds (24) of the State Houses of Assembly."
+  },
+  {
+   "q": "Section 308 of the 1999 Constitution grants immunity from prosecution to",
+   "options": [
+    "Senators and Representatives",
+    "The President, Vice-President, Governors and Deputies",
+    "Judges of the Supreme Court",
+    "Service chiefs"
+   ],
+   "answer": "1",
+   "solution": "Section 308 shields the President, Vice-President, Governors and Deputy Governors from civil and criminal proceedings while in office."
+  },
+  {
+   "q": "The Latin maxim 'audi alteram partem' means",
+   "options": [
+    "No one may judge his own case",
+    "Hear the other side",
+    "No punishment without law",
+    "Let justice be done"
+   ],
+   "answer": "1",
+   "solution": "Audi alteram partem requires that both sides be heard — the essence of fair hearing."
+  },
+  {
+   "q": "Which country operates an unwritten constitution?",
+   "options": [
+    "Nigeria",
+    "United States",
+    "United Kingdom",
+    "India"
+   ],
+   "answer": "2",
+   "solution": "Britain's constitution is unwritten, drawn from statutes, conventions, case law and authoritative texts."
+  },
+  {
+   "q": "Any law inconsistent with the Nigerian Constitution is",
+   "options": [
+    "Valid until repealed by the President",
+    "Void to the extent of the inconsistency",
+    "Referred to the National Assembly",
+    "Suspended for one year"
+   ],
+   "answer": "1",
+   "solution": "Section 1(3) renders inconsistent laws void to the extent of their inconsistency."
+  },
+  {
+   "q": "Fundamental human rights in Nigeria are contained in",
+   "options": [
+    "Chapter I",
+    "Chapter II",
+    "Chapter IV",
+    "The Second Schedule"
+   ],
+   "answer": "2",
+   "solution": "Chapter IV, sections 33 to 46, guarantees fundamental rights."
+  },
+  {
+   "q": "The Fundamental Objectives and Directive Principles of State Policy are",
+   "options": [
+    "Fully enforceable in court",
+    "Largely non-justiciable",
+    "Only applicable to states",
+    "Part of the exclusive legislative list"
+   ],
+   "answer": "1",
+   "solution": "Chapter II provisions guide governmental policy but are generally not enforceable in court."
+  },
+  {
+   "q": "Constitutionalism essentially means",
+   "options": [
+    "Having a written constitution",
+    "Government limited by constitutional rules",
+    "Rule by the military under decrees",
+    "Frequent constitutional amendment"
+   ],
+   "answer": "1",
+   "solution": "Constitutionalism is limited government — power exercised strictly within constitutional bounds."
+  },
+  {
+   "q": "A presidential veto in Nigeria may be overridden by",
+   "options": [
+    "A simple majority of the Senate",
+    "A two-thirds majority of both chambers",
+    "The Supreme Court",
+    "The Council of State"
+   ],
+   "answer": "1",
+   "solution": "The National Assembly can override the President's refusal of assent by a two-thirds majority of both chambers."
+  },
+  {
+   "q": "Which document is regarded as a historic source of the British constitution?",
+   "options": [
+    "Magna Carta 1215",
+    "Richards Constitution 1946",
+    "Treaty of Versailles",
+    "Lagos Charter"
+   ],
+   "answer": "0",
+   "solution": "Magna Carta (1215) is a foundational historical document of British constitutional liberty."
+  },
+  {
+   "q": "Judicial review is best described as the power to",
+   "options": [
+    "Amend the constitution",
+    "Determine the constitutionality of laws and executive acts",
+    "Appoint judges",
+    "Prepare the national budget"
+   ],
+   "answer": "1",
+   "solution": "Judicial review lets the courts nullify laws or acts that conflict with the constitution."
+  },
+  {
+   "q": "An advantage of a written constitution is that it",
+   "options": [
+    "Is easy to amend",
+    "Provides clarity and a definite reference point",
+    "Adapts automatically to social change",
+    "Cannot be interpreted by courts"
+   ],
+   "answer": "1",
+   "solution": "A written constitution offers certainty because its provisions can be consulted in one document."
+  },
+  {
+   "q": "Which of the following most undermines the rule of law in Nigeria?",
+   "options": [
+    "Judicial precedent",
+    "Executive interference with the judiciary",
+    "Fair hearing provisions",
+    "Presumption of innocence"
+   ],
+   "answer": "1",
+   "solution": "Executive interference erodes judicial independence, the pillar upon which the rule of law rests."
+  }
+ ]
+}

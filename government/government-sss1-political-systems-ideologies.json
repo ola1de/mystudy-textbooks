@@ -1,0 +1,249 @@
+{
+ "subject": "Government",
+ "level": "SSS 1",
+ "slug": "political-systems-ideologies",
+ "title": "Political Systems and Ideologies",
+ "outline": [
+  "Forms of government: monarchy, aristocracy, oligarchy, democracy, dictatorship",
+  "Structural systems: unitary, federal and confederal",
+  "Presidential and parliamentary systems compared",
+  "Political ideologies: capitalism, socialism, communism, fascism, welfarism",
+  "Merits and demerits of each system with Nigerian and world examples"
+ ],
+ "modules": [
+  {
+   "title": "Module 1: Forms of Government",
+   "html": "\n<p>Forms of government are classified by <strong>who rules</strong> and <strong>in whose interest</strong>. Aristotle's classic classification distinguished true forms (rule in the common interest) from perverted forms (rule in the ruler's interest).</p>\n<table class=\"tb-table\">\n<tr><th>Number of rulers</th><th>True form</th><th>Perverted form</th></tr>\n<tr><td>One</td><td>Monarchy</td><td>Tyranny</td></tr>\n<tr><td>Few</td><td>Aristocracy</td><td>Oligarchy</td></tr>\n<tr><td>Many</td><td>Polity</td><td>Democracy (mob rule)</td></tr>\n</table>\n<h4>Modern Forms</h4>\n<ol>\n<li><strong>Monarchy</strong> — rule by a king or queen. <em>Absolute</em> (Saudi Arabia) or <em>constitutional</em> (United Kingdom, where the monarch reigns but does not rule).</li>\n<li><strong>Aristocracy</strong> — rule by the nobility or the \"best\" citizens.</li>\n<li><strong>Oligarchy</strong> — rule by a small, self-interested group.</li>\n<li><strong>Plutocracy</strong> — rule by the wealthy.</li>\n<li><strong>Theocracy</strong> — rule by religious leaders in the name of God (Iran, the Vatican).</li>\n<li><strong>Democracy</strong> — Abraham Lincoln's \"government of the people, by the people, and for the people\". It may be <em>direct</em> (ancient Athens, Swiss cantons) or <em>indirect/representative</em> (Nigeria, USA).</li>\n<li><strong>Dictatorship / Totalitarianism</strong> — rule by an individual or party without constitutional restraint (Nazi Germany, military regimes).</li>\n</ol>\n<h4>Features of Democracy</h4>\n<ul><li>Periodic free and fair elections and universal adult suffrage</li><li>Multi-party competition and an organised opposition</li><li>Rule of law and an independent judiciary</li><li>Fundamental human rights, including freedom of the press</li><li>Majority rule with protection of minority rights</li><li>Constitutionalism and separation of powers</li></ul>\n",
+   "examples": [
+    {
+     "q": "A country's head of state inherits the throne but real power lies with an elected Prime Minister. Classify the system.",
+     "a": "It is a constitutional monarchy operating a parliamentary system. The monarch is the nominal or ceremonial executive and head of state, while the Prime Minister, who commands a majority in parliament, is the real executive and head of government."
+    },
+    {
+     "q": "State three features of a democratic government.",
+     "a": "Periodic free and fair elections based on universal adult suffrage; respect for the rule of law and the fundamental rights of citizens, including a free press; and the existence of an organised opposition with protection for minority rights under majority rule."
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Structural Systems — Unitary, Federal and Confederal",
+   "html": "\n<h4>Unitary System</h4>\n<p>A system in which all governmental powers are concentrated in one central government, which may create or abolish subordinate units. Examples: Ghana, France, United Kingdom, Nigeria between 1966 and 1967 under Decree No. 34.</p>\n<p><strong>Merits:</strong> cheaper to run, uniform policy, quick decision-making, strong national unity, no duplication of offices. <strong>Demerits:</strong> risk of dictatorship, congestion of work at the centre, neglect of remote areas, unsuitable for large heterogeneous societies.</p>\n<h4>Federal System</h4>\n<p>Powers are constitutionally divided between a central government and component units, each supreme within its own sphere. Nigeria (36 states + FCT), USA, Canada, India.</p>\n<p><strong>Features:</strong> written and rigid constitution, supremacy of the constitution, division of powers into <em>Exclusive</em>, <em>Concurrent</em> and <em>Residual</em> lists, bicameral legislature, an independent judiciary/supreme court as arbiter, and revenue allocation formula.</p>\n<p><strong>Reasons for federalism in Nigeria:</strong> large size, ethnic and cultural diversity, fear of domination by majority groups, colonial regionalisation (Richards and Lyttleton constitutions), and desire for unity in diversity.</p>\n<h4>Confederal System</h4>\n<p>A loose union of sovereign states that delegates limited powers to a weak central authority; component units retain sovereignty and may secede. Examples: Senegambia (1982&ndash;1989), the United States under the Articles of Confederation, Switzerland historically.</p>\n<table class=\"tb-table\">\n<tr><th>Basis</th><th>Unitary</th><th>Federal</th><th>Confederal</th></tr>\n<tr><td>Location of power</td><td>Centre only</td><td>Shared</td><td>Units</td></tr>\n<tr><td>Constitution</td><td>Often unwritten/flexible</td><td>Written and rigid</td><td>Treaty-based agreement</td></tr>\n<tr><td>Right of secession</td><td>None</td><td>None</td><td>Yes</td></tr>\n<tr><td>Cost</td><td>Low</td><td>High</td><td>Moderate</td></tr>\n</table>\n",
+   "examples": [
+    {
+     "q": "Why did Nigeria adopt federalism rather than a unitary system at independence?",
+     "a": "Nigeria's vast size, ethnic and religious diversity and the fear of domination among the three regions made concentration of power at the centre unacceptable. The Richards and Lyttleton constitutions had already created regional structures, so federalism offered unity in diversity by allowing each region autonomy over local matters while sharing common services at the centre."
+    },
+    {
+     "q": "Distinguish between a federation and a confederation.",
+     "a": "In a federation, powers are divided by a supreme written constitution between centre and units, neither of which may secede, and the central government acts directly on citizens. In a confederation, sovereign units delegate limited powers to a weak centre, retain the right to secede, and the centre generally acts through the units rather than on individuals."
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Presidential and Parliamentary Systems",
+   "html": "\n<p>These systems are distinguished by the relationship between the executive and the legislature.</p>\n<h4>Presidential System (Nigeria since 1979, USA)</h4>\n<ul>\n<li>The President is both Head of State and Head of Government.</li>\n<li>Separate election of executive and legislature; fixed tenure.</li>\n<li>Strict separation of powers with checks and balances.</li>\n<li>Ministers are not members of the legislature; appointments require Senate confirmation.</li>\n<li>Removal is only by <strong>impeachment</strong> for gross misconduct.</li>\n</ul>\n<h4>Parliamentary System (Nigeria 1960&ndash;1966, United Kingdom)</h4>\n<ul>\n<li>Separate Head of State (Governor-General/President) and Head of Government (Prime Minister).</li>\n<li>The executive is drawn from and responsible to the legislature.</li>\n<li>Fusion of powers; collective and individual ministerial responsibility.</li>\n<li>No fixed tenure — the government falls on a vote of no confidence; parliament may be dissolved.</li>\n<li>The official opposition forms a shadow cabinet.</li>\n</ul>\n<p><strong>Merits of the presidential system:</strong> stability of tenure, clear leadership, quick decisions, and separation of powers checks tyranny. <strong>Demerits:</strong> expensive, risk of dictatorship, deadlock between the arms of government, and difficulty in removing a bad president.</p>\n<p><strong>Merits of the parliamentary system:</strong> cheaper, accountable through question time, easy removal of a failed government, and avoidance of executive-legislative deadlock. <strong>Demerits:</strong> instability, weak separation of powers, and the Head of Government may lack a direct popular mandate.</p>\n",
+   "examples": [
+    {
+     "q": "In country X the Prime Minister loses a vote of no confidence and resigns. Which system operates there?",
+     "a": "The parliamentary system. The executive is drawn from and responsible to the legislature, so it stays in office only as long as it enjoys the confidence of parliament. In a presidential system the President holds a fixed tenure and can be removed only by impeachment for gross misconduct."
+    },
+    {
+     "q": "State two demerits of the presidential system.",
+     "a": "It is expensive, requiring separate elections and a large body of political appointees. It also risks deadlock, because a President and a legislature controlled by rival parties may frustrate each other over budgets and appointments, and a bad President cannot easily be removed before the end of the term."
+    }
+   ]
+  },
+  {
+   "title": "Module 4: Political Ideologies",
+   "html": "\n<p>An <strong>ideology</strong> is a coherent set of beliefs and values about how society and the economy should be organised.</p>\n<h4>Capitalism</h4>\n<p>Private ownership of the means of production, profit motive, free market pricing, competition and minimal state interference (<em>laissez-faire</em>). Merits: efficiency, innovation, consumer choice. Demerits: inequality, unemployment, exploitation, boom-and-bust cycles.</p>\n<h4>Socialism</h4>\n<p>Public/collective ownership of the major means of production, central planning, equitable distribution of wealth and welfare provision. Merits: reduced inequality, planned development, social security. Demerits: bureaucracy, low incentive, limited consumer choice.</p>\n<h4>Communism</h4>\n<p>The revolutionary form of socialism associated with Karl Marx and Friedrich Engels. It envisages a classless, stateless society in which the state \"withers away\" and distribution follows the maxim: <em>from each according to his ability, to each according to his needs</em>. Practised in the USSR, China (Mao), Cuba and North Korea.</p>\n<h4>Fascism / Nazism</h4>\n<p>Extreme nationalism, one-party totalitarian rule, glorification of the leader and the state, militarism and suppression of opposition. Associated with Mussolini's Italy and Hitler's Germany.</p>\n<h4>Welfarism and Mixed Economy</h4>\n<p>The state guarantees a minimum standard of living (education, health, pensions, unemployment benefit) while private enterprise continues. Most modern states, including Nigeria, operate a <strong>mixed economy</strong> combining private and public ownership.</p>\n<h4>Totalitarianism versus Democracy</h4>\n<p>Totalitarian regimes monopolise power, suppress opposition and control the media; democracies disperse power, tolerate opposition and protect civil liberties.</p>\n",
+   "examples": [
+    {
+     "q": "A government nationalises key industries, provides free education and health care, but allows private businesses to operate. Which ideology best describes it?",
+     "a": "It is democratic socialism operating within a mixed economy. Ownership of strategic sectors is public and welfare provision is extensive, yet private enterprise and the market continue to function alongside the state, distinguishing it from full communism where private ownership of the means of production is abolished."
+    },
+    {
+     "q": "State two criticisms of capitalism.",
+     "a": "It produces wide inequality of income and wealth because reward follows ownership and market power rather than need. It is also prone to instability, with cycles of boom and slump that cause unemployment, and it may under-provide public goods such as rural health care that are unprofitable."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Rule by a small privileged group in its own interest is known as",
+   "options": [
+    "Aristocracy",
+    "Oligarchy",
+    "Theocracy",
+    "Plutocracy"
+   ],
+   "answer": "1",
+   "solution": "Oligarchy is the perverted form of aristocracy — a few ruling in their own selfish interest."
+  },
+  {
+   "q": "In a federal system, powers not listed in either the exclusive or concurrent lists belong to the",
+   "options": [
+    "Federal government",
+    "State governments (residual powers)",
+    "Local governments only",
+    "Supreme Court"
+   ],
+   "answer": "1",
+   "solution": "Residual powers are matters not listed in the exclusive or concurrent lists and are reserved for the states."
+  },
+  {
+   "q": "A major feature of a confederal system is that component units",
+   "options": [
+    "Cannot make laws",
+    "Retain sovereignty and may secede",
+    "Are created by the centre",
+    "Share a rigid constitution"
+   ],
+   "answer": "1",
+   "solution": "In a confederation the units remain sovereign and can lawfully withdraw from the union."
+  },
+  {
+   "q": "Which system of government operated in Nigeria between 1960 and 1966?",
+   "options": [
+    "Presidential",
+    "Parliamentary",
+    "Confederal",
+    "Military"
+   ],
+   "answer": "1",
+   "solution": "The First Republic ran a Westminster-style parliamentary system with a Prime Minister and Governor-General/President."
+  },
+  {
+   "q": "In the presidential system, a President can be removed for gross misconduct through",
+   "options": [
+    "A vote of no confidence",
+    "Impeachment",
+    "Dissolution of the legislature",
+    "A recall election by ministers"
+   ],
+   "answer": "1",
+   "solution": "Impeachment is the constitutional process for removing a president in a presidential system."
+  },
+  {
+   "q": "Universal adult suffrage means that",
+   "options": [
+    "Only taxpayers can vote",
+    "All adults who qualify may vote regardless of sex or wealth",
+    "Only men may vote",
+    "Voting is limited to party members"
+   ],
+   "answer": "1",
+   "solution": "Universal adult suffrage extends the franchise to all adults meeting the age requirement, without discrimination."
+  },
+  {
+   "q": "The economic system based on private ownership and the profit motive is",
+   "options": [
+    "Socialism",
+    "Capitalism",
+    "Communism",
+    "Feudalism"
+   ],
+   "answer": "1",
+   "solution": "Capitalism rests on private ownership of the means of production and profit-driven competition."
+  },
+  {
+   "q": "'From each according to his ability, to each according to his needs' is a maxim of",
+   "options": [
+    "Capitalism",
+    "Communism",
+    "Fascism",
+    "Liberalism"
+   ],
+   "answer": "1",
+   "solution": "The maxim is Marx's description of distribution in a fully communist society."
+  },
+  {
+   "q": "Which of these is a demerit of the unitary system?",
+   "options": [
+    "Duplication of offices",
+    "Congestion of work at the centre",
+    "High cost of administration",
+    "Frequent inter-governmental conflict"
+   ],
+   "answer": "1",
+   "solution": "Concentrating all functions in one government overloads the centre and slows attention to remote areas."
+  },
+  {
+   "q": "A constitutional monarch is best described as a",
+   "options": [
+    "Real executive",
+    "Nominal executive",
+    "Plural executive",
+    "Permanent executive"
+   ],
+   "answer": "1",
+   "solution": "A constitutional monarch reigns ceremonially while real power lies with the Prime Minister and Cabinet."
+  },
+  {
+   "q": "Which factor most strongly justified the adoption of federalism in Nigeria?",
+   "options": [
+    "Small land area",
+    "Ethnic and cultural diversity",
+    "A homogeneous population",
+    "Absence of natural resources"
+   ],
+   "answer": "1",
+   "solution": "Nigeria's size and its wide ethnic, religious and cultural diversity made federalism the practical choice."
+  },
+  {
+   "q": "Collective responsibility of ministers is a feature of the",
+   "options": [
+    "Presidential system",
+    "Parliamentary system",
+    "Confederal system",
+    "Military system"
+   ],
+   "answer": "1",
+   "solution": "In parliamentary systems the cabinet stands or falls together and answers collectively to parliament."
+  },
+  {
+   "q": "Direct democracy was practised in",
+   "options": [
+    "Ancient Athens",
+    "Colonial Nigeria",
+    "Tudor England",
+    "Modern USA"
+   ],
+   "answer": "0",
+   "solution": "Citizens of ancient Athens assembled personally to make laws — the classic case of direct democracy."
+  },
+  {
+   "q": "An ideology characterised by extreme nationalism, one-party rule and glorification of the leader is",
+   "options": [
+    "Welfarism",
+    "Fascism",
+    "Liberalism",
+    "Socialism"
+   ],
+   "answer": "1",
+   "solution": "Fascism combines ultra-nationalism, totalitarian one-party rule and leader worship."
+  },
+  {
+   "q": "Nigeria's economy, combining private enterprise with public corporations, is best described as",
+   "options": [
+    "Purely capitalist",
+    "Purely socialist",
+    "A mixed economy",
+    "A command economy"
+   ],
+   "answer": "2",
+   "solution": "A mixed economy features both private ownership and significant state participation, as in Nigeria."
+  },
+  {
+   "q": "Which of the following is NOT a feature of federalism?",
+   "options": [
+    "Written constitution",
+    "Supremacy of the central government over the constitution",
+    "Division of powers",
+    "An arbiter court"
+   ],
+   "answer": "1",
+   "solution": "In a federation the constitution — not the central government — is supreme."
+  }
+ ]
+}

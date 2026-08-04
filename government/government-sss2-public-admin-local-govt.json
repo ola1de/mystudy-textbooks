@@ -1,0 +1,235 @@
+{
+ "subject": "Government",
+ "level": "SSS 2",
+ "slug": "public-admin-local-govt",
+ "title": "Public Administration and Local Government",
+ "outline": [
+  "Meaning and scope of public administration",
+  "The civil service: features, functions, problems and reforms",
+  "Public corporations and parastatals: reasons, control and privatisation",
+  "Local government: structure, functions and sources of revenue",
+  "Local government reforms in Nigeria, especially the 1976 reform"
+ ],
+ "modules": [
+  {
+   "title": "Module 1: The Civil Service",
+   "html": "\n<p><strong>Public administration</strong> is the organisation and management of men and materials to achieve the purposes of government. Its core institutions are the civil service, public corporations and local governments.</p>\n<p>The <strong>civil service</strong> is the body of permanent, professional officials employed in the ministries and departments of government to implement policy.</p>\n<h4>Features of the Civil Service</h4>\n<ol><li><strong>Permanence</strong> — officials remain in office irrespective of changes of government.</li><li><strong>Neutrality</strong> — they serve any government of the day without partisan bias.</li><li><strong>Anonymity</strong> — they act in the minister's name and avoid public credit or blame.</li><li><strong>Impartiality</strong> — decisions rest on rules, not personal preference.</li><li><strong>Hierarchy</strong> — a clear chain of command from the Permanent Secretary downwards.</li><li><strong>Expertise and specialisation</strong>, plus recruitment by merit through the Civil Service Commission.</li></ol>\n<h4>Structure</h4>\n<p>Minister (political head) &rarr; Permanent Secretary (administrative head) &rarr; Directors &rarr; Deputy Directors &rarr; Assistant Directors &rarr; Chief/Principal/Senior Officers &rarr; junior staff. Ministries are grouped into departments and divisions.</p>\n<h4>Functions</h4>\n<ul><li>Implementation of government policies and programmes</li><li>Advising ministers and providing continuity of administration</li><li>Drafting of bills and delegated legislation</li><li>Collection of revenue and management of public funds</li><li>Keeping records and providing public services</li></ul>\n<h4>Problems and Reforms</h4>\n<p>Problems: red tape and excessive bureaucracy, corruption, political interference, poor remuneration, nepotism and the federal character principle applied at the expense of merit, and inadequate training. Major reforms include the Morgan (1963), Adebo (1971), Udoji (1974), Dotun Phillips (1988) and Ayida (1994) commissions, and the 1988 Civil Service Reorganisation Decree which made ministers chief executives and professionalised the service.</p>\n",
+   "examples": [
+    {
+     "q": "A new government assumes office and dismisses all permanent secretaries because they served the previous administration. Which civil-service principles are violated?",
+     "a": "The principles of permanence, neutrality and security of tenure are violated. Civil servants are career officials expected to serve any government impartially; mass dismissal on political grounds destroys continuity of administration, discourages professional advice, and politicises recruitment, which in turn undermines efficiency and institutional memory."
+    },
+    {
+     "q": "Distinguish between a minister and a permanent secretary.",
+     "a": "A minister is a political appointee who heads a ministry, formulates policy and is accountable to the President and the legislature; the office changes with government. A permanent secretary is a career civil servant who is the administrative and accounting head of the ministry, advises the minister, and remains in office irrespective of political change."
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Public Corporations and Parastatals",
+   "html": "\n<p>A <strong>public corporation</strong> is a statutory body established by an Act of parliament or a decree to provide essential services or engage in commercial activity on behalf of the government. Examples: NNPC, NPA, NRC, CBN, NTA, FRCN, and formerly NEPA and NITEL.</p>\n<h4>Reasons for Establishment</h4>\n<ol><li>Provision of essential services that private capital cannot afford</li><li>Prevention of exploitation by private monopolies</li><li>Employment generation and revenue for government</li><li>National security and control of strategic industries</li><li>Even development across regions</li></ol>\n<h4>Features</h4>\n<ul><li>Created by law with a separate legal personality — it can sue and be sued</li><li>Managed by a board appointed by government</li><li>Financed by government subvention, loans and internally generated revenue</li><li>Operates with some autonomy but under ministerial supervision</li></ul>\n<h4>Control of Public Corporations</h4>\n<table class=\"tb-table\">\n<tr><th>Control</th><th>Mechanism</th></tr>\n<tr><td>Legislative</td><td>Approval of budgets, committee investigations, questions, amendment of enabling law</td></tr>\n<tr><td>Executive</td><td>Appointment and removal of board members, ministerial directives, subventions</td></tr>\n<tr><td>Judicial</td><td>Courts hear suits against the corporation and check ultra vires acts</td></tr>\n<tr><td>Public</td><td>Consumer complaints, media scrutiny, public inquiries</td></tr>\n</table>\n<h4>Problems and Privatisation</h4>\n<p>Problems: political interference, corruption and mismanagement, over-staffing, obsolete equipment, poor funding and chronic losses. Government's response has been <strong>commercialisation</strong> (making corporations run on business lines while remaining publicly owned) and <strong>privatisation</strong> (transferring ownership to private hands), pursued through the Privatisation and Commercialisation Decree of 1988 and the Bureau of Public Enterprises. Arguments for privatisation include efficiency and reduced fiscal burden; arguments against include job losses, higher tariffs and foreign domination.</p>\n",
+   "examples": [
+    {
+     "q": "Why did the Federal Government privatise NITEL and unbundle the power sector?",
+     "a": "Both corporations suffered chronic losses, obsolete equipment, over-staffing, political interference and dependence on government subventions, while service delivery remained poor. Privatisation aimed to inject private capital and management expertise, improve efficiency and coverage, reduce the fiscal burden on government, and open the sectors to competition. The trade-offs were job losses and higher consumer tariffs."
+    },
+    {
+     "q": "Distinguish between commercialisation and privatisation.",
+     "a": "Commercialisation means a public enterprise remains government-owned but is required to operate on profit-making commercial principles without subventions. Privatisation means the transfer of ownership, wholly or partly, from government to private individuals or firms through the sale of shares or assets."
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Local Government and the 1976 Reform",
+   "html": "\n<p><strong>Local government</strong> is government at the grassroots, established by law to exercise specific powers within a defined area, with its own personnel, funds and substantial autonomy. Nigeria has 774 constitutionally recognised local government areas.</p>\n<h4>Structure</h4>\n<p>Each council has a <strong>legislative arm</strong> (councillors elected from wards, headed by a Leader of the Council) and an <strong>executive arm</strong> (an elected Chairman, Vice-Chairman and supervisory councillors), supported by career staff headed by a Director of Personnel Management and organised into departments: Administration, Finance, Works, Health, Education, and Agriculture.</p>\n<h4>Functions (Fourth Schedule, 1999 Constitution)</h4>\n<ol><li>Collection of rates, radio and television licences</li><li>Establishment and maintenance of markets, motor parks and public conveniences</li><li>Construction and maintenance of roads, streets, drains and street lighting</li><li>Naming of roads and numbering of houses</li><li>Registration of births, deaths and marriages</li><li>Provision and maintenance of primary education, health services and adult literacy in participation with the state</li><li>Refuse disposal and sewage management; control of hoardings and advertisements</li></ol>\n<h4>Sources of Revenue</h4>\n<ul><li>Statutory allocation from the Federation Account (currently about 20.60%)</li><li>10% of state internally generated revenue</li><li>Rates, tenement rates, licences and fees</li><li>Fines, rents from council property, market and motor-park tolls</li><li>Grants-in-aid and loans</li></ul>\n<h4>The 1976 Local Government Reform</h4>\n<p>This landmark reform, introduced under General Olusegun Obasanjo, standardised local government throughout Nigeria for the first time. Its main provisions were:</p>\n<ol><li>Recognition of local government as a <strong>third tier</strong> of government.</li><li>A uniform single-tier structure nationwide with population guidelines of roughly 150,000 to 800,000 people per council.</li><li>Direct statutory allocation from the Federation Account.</li><li>Election of councillors, with traditional rulers confined to advisory councils.</li><li>Creation of a unified local government service with career prospects.</li><li>Clear definition of functions, and removal of excessive state control.</li></ol>\n<h4>Problems of Local Government</h4>\n<p>Inadequate finance and diversion of funds through State Joint Local Government Accounts, undue state interference and the appointment of caretaker committees, shortage of qualified personnel, corruption, political instability and poor record-keeping.</p>\n",
+   "examples": [
+    {
+     "q": "State three ways in which the 1976 reform strengthened local government in Nigeria.",
+     "a": "First, it recognised local government as a third tier of government with defined constitutional functions rather than a mere agent of the states. Second, it granted direct statutory allocation from the Federation Account, giving councils an assured revenue base. Third, it created a unified local government service with structured career progression, which improved the quality of personnel and reduced arbitrary state control."
+    },
+    {
+     "q": "A state government dissolves elected councils and appoints caretaker committees. Discuss the implication for grassroots democracy.",
+     "a": "It denies residents the right to choose their leaders, breaks the link between the council and the electorate, and converts the council into an extension of the state executive. Accountability weakens because caretaker chairmen answer to the governor rather than the people, and development priorities may reflect state politics rather than local needs. It also conflicts with the constitutional guarantee of a democratically elected local government system."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The administrative head of a federal ministry in Nigeria is the",
+   "options": [
+    "Minister",
+    "Permanent Secretary",
+    "Director-General of Services",
+    "Head of Service"
+   ],
+   "answer": "1",
+   "solution": "The permanent secretary is the career administrative and accounting head, while the minister is the political head."
+  },
+  {
+   "q": "The principle that civil servants should serve any government of the day without partisanship is",
+   "options": [
+    "Anonymity",
+    "Neutrality",
+    "Permanence",
+    "Hierarchy"
+   ],
+   "answer": "1",
+   "solution": "Neutrality requires civil servants to be non-partisan in the discharge of their duties."
+  },
+  {
+   "q": "Which of these is a public corporation?",
+   "options": [
+    "Nigerian Ports Authority",
+    "Ministry of Finance",
+    "Federal Character Commission",
+    "Ikeja Local Government"
+   ],
+   "answer": "0",
+   "solution": "The NPA is a statutory corporation with separate legal personality created by law."
+  },
+  {
+   "q": "The transfer of ownership of a public enterprise to private individuals is called",
+   "options": [
+    "Commercialisation",
+    "Privatisation",
+    "Nationalisation",
+    "Indigenisation"
+   ],
+   "answer": "1",
+   "solution": "Privatisation transfers ownership from the state to private hands, unlike commercialisation which retains public ownership."
+  },
+  {
+   "q": "How many local government areas are recognised in the 1999 Constitution?",
+   "options": [
+    "589",
+    "774",
+    "36",
+    "468"
+   ],
+   "answer": "1",
+   "solution": "The constitution lists 774 local government areas."
+  },
+  {
+   "q": "The 1976 local government reform is significant mainly because it",
+   "options": [
+    "Abolished traditional rulers",
+    "Recognised local government as a third tier of government",
+    "Created 36 states",
+    "Introduced the presidential system"
+   ],
+   "answer": "1",
+   "solution": "The reform gave local government third-tier status with uniform structure and direct federal funding."
+  },
+  {
+   "q": "Which of the following is a source of local government revenue?",
+   "options": [
+    "Company income tax",
+    "Tenement rates",
+    "Import duties",
+    "Petroleum profit tax"
+   ],
+   "answer": "1",
+   "solution": "Tenement rates on property are collected by local councils; the others are federal taxes."
+  },
+  {
+   "q": "The civil service principle that officials should not be publicly identified with policy decisions is",
+   "options": [
+    "Anonymity",
+    "Impartiality",
+    "Permanence",
+    "Expertise"
+   ],
+   "answer": "0",
+   "solution": "Anonymity means civil servants act in the minister's name and remain out of public view."
+  },
+  {
+   "q": "Which commission is responsible for recruitment and discipline in the federal civil service?",
+   "options": [
+    "Federal Character Commission",
+    "Federal Civil Service Commission",
+    "Revenue Mobilisation Commission",
+    "Public Complaints Commission"
+   ],
+   "answer": "1",
+   "solution": "The Federal Civil Service Commission handles appointment, promotion and discipline of civil servants."
+  },
+  {
+   "q": "A major problem of public corporations in Nigeria is",
+   "options": [
+    "Excessive profit",
+    "Political interference and mismanagement",
+    "Shortage of legal powers",
+    "Absence of a governing board"
+   ],
+   "answer": "1",
+   "solution": "Political interference, corruption and over-staffing have crippled the efficiency of many parastatals."
+  },
+  {
+   "q": "Under the Fourth Schedule, local governments are responsible for",
+   "options": [
+    "Defence",
+    "Registration of births, deaths and marriages",
+    "Currency issuance",
+    "Foreign affairs"
+   ],
+   "answer": "1",
+   "solution": "Registration of births, deaths and marriages is a listed local government function."
+  },
+  {
+   "q": "The Udoji Commission of 1974 was concerned mainly with",
+   "options": [
+    "Local government creation",
+    "Public service review and wage increases",
+    "Electoral reform",
+    "Constitutional drafting"
+   ],
+   "answer": "1",
+   "solution": "The Udoji Commission reviewed the public service and recommended a unified grading structure and salary increases."
+  },
+  {
+   "q": "Legislative control over a public corporation is exercised mainly through",
+   "options": [
+    "Appointment of the board",
+    "Budget approval and committee investigation",
+    "Judicial review",
+    "Ministerial directives"
+   ],
+   "answer": "1",
+   "solution": "Parliament approves corporation budgets and investigates operations through its committees."
+  },
+  {
+   "q": "Which of these best explains why councils remain financially weak?",
+   "options": [
+    "Excessive internally generated revenue",
+    "State control of the joint local government account",
+    "Too many career staff",
+    "Absence of statutory functions"
+   ],
+   "answer": "1",
+   "solution": "State governments often withhold or divert funds through the State Joint Local Government Account."
+  },
+  {
+   "q": "An advantage of local government is that it",
+   "options": [
+    "Reduces citizen participation",
+    "Brings government closer to the grassroots",
+    "Concentrates power at the centre",
+    "Eliminates the need for state governments"
+   ],
+   "answer": "1",
+   "solution": "Local government promotes participation and provides services tailored to local needs."
+  },
+  {
+   "q": "Recruitment into the civil service is expected to be based on",
+   "options": [
+    "Merit through competitive examination",
+    "Political loyalty",
+    "Traditional title",
+    "Religious affiliation"
+   ],
+   "answer": "0",
+   "solution": "The merit principle requires appointment through open and competitive selection by the service commission."
+  }
+ ]
+}

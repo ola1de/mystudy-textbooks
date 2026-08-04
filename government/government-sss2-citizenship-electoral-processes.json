@@ -1,0 +1,235 @@
+{
+ "subject": "Government",
+ "level": "SSS 2",
+ "slug": "citizenship-electoral-processes",
+ "title": "Citizenship and Electoral Processes",
+ "outline": [
+  "Citizenship: meaning, methods of acquisition and loss",
+  "Rights and duties of citizens; aliens and dual citizenship",
+  "Franchise and suffrage: types and qualifications",
+  "Electoral systems, electoral commissions and malpractices",
+  "Political parties, party systems, pressure groups and public opinion"
+ ],
+ "modules": [
+  {
+   "title": "Module 1: Citizenship, Rights and Duties",
+   "html": "\n<p><strong>Citizenship</strong> is the legal status of full membership of a state, carrying rights and obligations. Under Chapter III of the 1999 Constitution, Nigerian citizenship is acquired in three ways.</p>\n<h4>Methods of Acquiring Nigerian Citizenship</h4>\n<ol>\n<li><strong>By birth (s.25)</strong> — a person born in Nigeria before independence whose parents or grandparents belong to an indigenous community, or born in or outside Nigeria after independence with a Nigerian parent or grandparent.</li>\n<li><strong>By registration (s.26)</strong> — a woman married to a Nigerian citizen, or a person of full age and capacity whose grandparent is a Nigerian citizen, on taking the oath of allegiance and showing good character.</li>\n<li><strong>By naturalisation (s.27)</strong> — an adult foreigner of good character who has resided in Nigeria for at least 15 years (including the 12 months immediately preceding the application), is acceptable to the community, capable of contributing to national progress and renounces former citizenship.</li>\n</ol>\n<h4>Loss of Citizenship</h4>\n<p>By renunciation, by deprivation (for disloyalty, fraud in registration or a prison term of at least three years within seven years of naturalisation), or by voluntary acquisition of another nationality where the law forbids it. Citizenship <em>by birth</em> cannot be taken away.</p>\n<h4>Rights and Duties</h4>\n<table class=\"tb-table\">\n<tr><th>Rights</th><th>Duties</th></tr>\n<tr><td>Life, liberty, fair hearing, expression, association, movement, property</td><td>Obey the law, pay taxes, defend the nation, vote in elections</td></tr>\n<tr><td>Vote and be voted for; hold public office; own a passport</td><td>Respect the flag, anthem and national institutions</td></tr>\n<tr><td>Access to public services and diplomatic protection abroad</td><td>Render national service; report crime; protect public property</td></tr>\n</table>\n<p>An <strong>alien</strong> is a person residing in a state of which he is not a citizen. Aliens enjoy protection of life and property and access to the courts, but they cannot vote, be voted for, hold sensitive public office or carry the national passport.</p>\n",
+   "examples": [
+    {
+     "q": "Musa, a Nigerien national, has lived in Kano for 16 years, speaks Hausa fluently and runs a successful transport company. Which route to Nigerian citizenship is open to him and what must he satisfy?",
+     "a": "Naturalisation under section 27. He must be of full age and capacity, of good character, have resided in Nigeria for at least 15 years including the 12 months immediately preceding his application, be acceptable to the local community, show capacity to contribute to Nigeria's progress, take the oath of allegiance and renounce his former citizenship. The final grant is at the discretion of the President."
+    },
+    {
+     "q": "Why is citizenship by birth regarded as the most secure form of citizenship?",
+     "a": "Because the constitution does not permit deprivation of citizenship acquired by birth. Registration and naturalisation may be revoked for disloyalty, fraud or serious criminal conviction, but a citizen by birth cannot be rendered stateless by the state."
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Franchise, Elections and Electoral Systems",
+   "html": "\n<p><strong>Franchise (suffrage)</strong> is the right to vote in public elections. Types include: <em>universal adult suffrage</em>, <em>restricted/limited franchise</em> (based on property, tax, sex, literacy or race), and historical devices such as the <em>plural vote</em>.</p>\n<h4>Types of Election</h4>\n<ul><li><strong>Direct election</strong> — voters choose candidates themselves (Nigeria's presidential and legislative elections).</li><li><strong>Indirect election</strong> — voters elect delegates who then choose the office holder (the US electoral college).</li><li><strong>By-election</strong> — held to fill a vacancy caused by death, resignation or nullification.</li><li><strong>Primary election</strong> — internal party contest to select candidates.</li><li><strong>Referendum/plebiscite</strong> — direct vote on a specific issue.</li></ul>\n<h4>Electoral Systems</h4>\n<table class=\"tb-table\">\n<tr><th>System</th><th>Operation</th><th>Merit / Demerit</th></tr>\n<tr><td>Simple majority (First-Past-The-Post)</td><td>Candidate with the highest votes wins</td><td>Simple and decisive; but a winner may poll less than 50%</td></tr>\n<tr><td>Absolute majority / second ballot</td><td>Winner must poll over 50%; run-off if not achieved</td><td>Ensures majority mandate; costly and slow</td></tr>\n<tr><td>Proportional representation</td><td>Seats allocated in proportion to votes cast</td><td>Fair to minorities; produces coalition instability</td></tr>\n</table>\n<p>A candidate's share of the vote is calculated as \\\\( \\\\text{Percentage} = \\\\frac{V_c}{V_t} \\\\times 100 \\\\), where \\\\( V_c \\\\) is votes for the candidate and \\\\( V_t \\\\) the total valid votes. To be declared President of Nigeria a candidate needs the highest number of votes <em>and</em> at least one-quarter of the votes in at least two-thirds of the 36 states and the FCT.</p>\n<h4>Electoral Commission (INEC)</h4>\n<p>Functions: registration of voters and political parties, delimitation of constituencies, conduct and supervision of elections, monitoring party finances and campaigns, and announcement of results. Problems: inadequate funding, executive interference, logistic failure, insecurity, and inaccurate voter registers.</p>\n<h4>Electoral Malpractices</h4>\n<p>Ballot stuffing and snatching, multiple voting, impersonation, under-age voting, falsification of results, vote buying, intimidation and thuggery, and manipulation of the voters' register. Remedies include the use of biometric accreditation and electronic transmission of results, an independent and well-funded commission, election tribunals, voter education and stiff penalties.</p>\n",
+   "examples": [
+    {
+     "q": "In a governorship election, Candidate A polls 480,000 of 1,200,000 valid votes while Candidate B polls 420,000. Under the simple majority system, who wins and what criticism does the result attract?",
+     "a": "Candidate A wins with 480,000 votes, that is (480,000/1,200,000) x 100 = 40% of the valid votes. The criticism is that the winner lacks an absolute majority: 60% of voters preferred someone else. This is the classic weakness of first-past-the-post, and it is why some systems require a run-off between the top two candidates."
+    },
+    {
+     "q": "Explain two constitutional requirements a candidate must meet to be declared winner of a Nigerian presidential election.",
+     "a": "First, the candidate must score the highest number of votes cast in the election. Second, the candidate must secure not less than one-quarter of the votes cast in at least two-thirds of the states of the federation and the Federal Capital Territory. The second requirement enforces national spread and prevents a purely regional mandate."
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Political Parties, Pressure Groups and Public Opinion",
+   "html": "\n<p>A <strong>political party</strong> is an organised group of people with similar political ideas that seeks to capture and control governmental power through constitutional means.</p>\n<h4>Functions of Political Parties</h4>\n<ol><li>Selection of candidates and contesting of elections</li><li>Formation of government and provision of organised opposition</li><li>Political education and mobilisation of voters</li><li>Aggregation and articulation of interests</li><li>Formulation of programmes and policies through manifestoes</li><li>Serving as a link between government and the governed</li></ol>\n<h4>Party Systems</h4>\n<table class=\"tb-table\">\n<tr><th>System</th><th>Example</th><th>Merit</th><th>Demerit</th></tr>\n<tr><td>One-party</td><td>Former Tanzania, China</td><td>National unity, fast decisions</td><td>Dictatorship, no choice</td></tr>\n<tr><td>Two-party</td><td>USA, UK</td><td>Stability, clear alternative government</td><td>Limits choice; minorities excluded</td></tr>\n<tr><td>Multi-party</td><td>Nigeria, India</td><td>Wide choice, minority representation</td><td>Unstable coalitions, expensive</td></tr>\n</table>\n<p>Nigeria's First Republic parties were NPC, NCNC and AG; the Second Republic had NPN, UPN, NPP, GNPP and PRP; the Fourth Republic is dominated by the APC and PDP.</p>\n<h4>Pressure (Interest) Groups</h4>\n<p>Organisations that seek to influence government policy <em>without</em> contesting elections. Types: occupational/economic (NLC, NMA, MAN), promotional/attitudinal (CLO, Amnesty International), institutional (the armed forces, the civil service) and anomic (spontaneous, unstructured protest groups). Methods: lobbying, petitions, strikes, litigation, media campaigns, demonstrations and electoral funding.</p>\n<h4>Political Party versus Pressure Group</h4>\n<ul><li>Parties seek to <em>win</em> power; pressure groups seek to <em>influence</em> it.</li><li>Parties field candidates; pressure groups do not.</li><li>Parties have broad national programmes; pressure groups pursue sectional interests.</li></ul>\n<h4>Public Opinion</h4>\n<p>The collective view of a significant proportion of the community on a public issue. It is shaped and measured through the mass media, opinion polls, town-hall meetings, elections and pressure-group activity, and it restrains arbitrary government.</p>\n",
+   "examples": [
+    {
+     "q": "The Nigeria Labour Congress calls a nationwide strike over a fuel price increase and the government reverses the policy. Is the NLC a political party? Justify your answer.",
+     "a": "No. The NLC is an occupational pressure group. Although it influenced government policy decisively, it did not sponsor candidates for election and does not seek to capture governmental power. Its aim was to protect the sectional economic interest of workers, using the strike as a pressure technique."
+    },
+    {
+     "q": "State two reasons why a multi-party system suits a society like Nigeria.",
+     "a": "First, Nigeria's ethnic, religious and regional diversity means many distinct interests require representation, and a multi-party system provides platforms for minority voices. Second, competition among several parties widens voter choice and strengthens accountability by making it easier to remove an unpopular government."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Citizenship acquired by a foreigner after long residence in Nigeria is citizenship by",
+   "options": [
+    "Birth",
+    "Registration",
+    "Naturalisation",
+    "Descent"
+   ],
+   "answer": "2",
+   "solution": "Naturalisation under section 27 covers foreigners who satisfy the 15-year residence and other conditions."
+  },
+  {
+   "q": "Which form of Nigerian citizenship cannot be revoked?",
+   "options": [
+    "Registration",
+    "Naturalisation",
+    "Birth",
+    "Honorary"
+   ],
+   "answer": "2",
+   "solution": "The constitution permits deprivation only of registered or naturalised citizenship, never citizenship by birth."
+  },
+  {
+   "q": "The right to vote in public elections is known as",
+   "options": [
+    "Franchise",
+    "Referendum",
+    "Mandate",
+    "Plebiscite"
+   ],
+   "answer": "0",
+   "solution": "Franchise (or suffrage) is the legal right to vote."
+  },
+  {
+   "q": "An election held to fill a vacancy caused by the death of a legislator is a",
+   "options": [
+    "Primary election",
+    "By-election",
+    "General election",
+    "Run-off election"
+   ],
+   "answer": "1",
+   "solution": "A by-election fills a seat that has become vacant between general elections."
+  },
+  {
+   "q": "Under the first-past-the-post system, the winner is the candidate who",
+   "options": [
+    "Polls over 50% of the votes",
+    "Polls the highest number of votes",
+    "Wins in most states",
+    "Is endorsed by the electoral commission"
+   ],
+   "answer": "1",
+   "solution": "Simple majority means the candidate with the most votes wins, even without an absolute majority."
+  },
+  {
+   "q": "Which electoral system best guarantees representation for minority parties?",
+   "options": [
+    "Simple majority",
+    "Proportional representation",
+    "Second ballot",
+    "Open ballot"
+   ],
+   "answer": "1",
+   "solution": "Proportional representation allocates seats in proportion to votes, so smaller parties gain seats."
+  },
+  {
+   "q": "A major function of INEC is",
+   "options": [
+    "Trying election offenders",
+    "Delimitation of constituencies",
+    "Appointing state governors",
+    "Amending the electoral act"
+   ],
+   "answer": "1",
+   "solution": "INEC divides the federation into constituencies, registers voters and parties, and conducts elections; trials are for the courts."
+  },
+  {
+   "q": "Which of the following is an electoral malpractice?",
+   "options": [
+    "Voter education",
+    "Multiple voting",
+    "Accreditation of voters",
+    "Announcement of results"
+   ],
+   "answer": "1",
+   "solution": "Multiple voting — one person voting more than once — is a classic electoral offence."
+  },
+  {
+   "q": "An organisation that seeks to influence government policy without contesting elections is a",
+   "options": [
+    "Political party",
+    "Pressure group",
+    "Electoral commission",
+    "Constituency"
+   ],
+   "answer": "1",
+   "solution": "Pressure groups influence policy but never field candidates for office."
+  },
+  {
+   "q": "The Nigerian Medical Association is best classified as",
+   "options": [
+    "An anomic group",
+    "An occupational pressure group",
+    "A promotional group",
+    "A political party"
+   ],
+   "answer": "1",
+   "solution": "The NMA defends the professional and economic interests of doctors, making it occupational."
+  },
+  {
+   "q": "Which party system existed in Nigeria's Second Republic?",
+   "options": [
+    "One-party",
+    "Two-party",
+    "Multi-party",
+    "No-party"
+   ],
+   "answer": "2",
+   "solution": "The Second Republic featured NPN, UPN, NPP, GNPP and PRP — a multi-party arrangement."
+  },
+  {
+   "q": "An alien in Nigeria is entitled to",
+   "options": [
+    "Vote in general elections",
+    "Protection of life and property",
+    "Hold the office of President",
+    "Carry a Nigerian passport"
+   ],
+   "answer": "1",
+   "solution": "Aliens enjoy legal protection and access to courts but not political rights."
+  },
+  {
+   "q": "A direct vote by the electorate on a single public issue is called a",
+   "options": [
+    "By-election",
+    "Referendum",
+    "Primary",
+    "Recall"
+   ],
+   "answer": "1",
+   "solution": "A referendum or plebiscite puts one specific question directly to the voters."
+  },
+  {
+   "q": "Which of these is a duty rather than a right of a citizen?",
+   "options": [
+    "Freedom of movement",
+    "Payment of taxes",
+    "Fair hearing",
+    "Ownership of property"
+   ],
+   "answer": "1",
+   "solution": "Paying taxes is an obligation owed to the state; the others are constitutional rights."
+  },
+  {
+   "q": "To be declared President of Nigeria, a candidate must obtain the highest votes and at least",
+   "options": [
+    "25% of votes in two-thirds of the states and the FCT",
+    "50% of the national vote",
+    "One-third of votes in all states",
+    "25% of votes in all 36 states"
+   ],
+   "answer": "0",
+   "solution": "The constitution requires the highest votes plus one-quarter of votes in at least two-thirds of the states and the FCT."
+  },
+  {
+   "q": "The introduction of biometric accreditation was mainly designed to curb",
+   "options": [
+    "Low voter turnout",
+    "Impersonation and multiple voting",
+    "Late arrival of materials",
+    "Party defection"
+   ],
+   "answer": "1",
+   "solution": "Biometric verification confirms a voter's identity, preventing impersonation and repeat voting."
+  }
+ ]
+}
