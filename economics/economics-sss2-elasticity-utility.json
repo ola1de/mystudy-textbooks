@@ -1,0 +1,246 @@
+{
+ "subject": "Economics",
+ "level": "SSS 2",
+ "slug": "elasticity-utility",
+ "title": "Elasticity and Utility",
+ "outline": [
+  "Meaning of elasticity of demand and its measurement",
+  "Price, income and cross elasticity of demand",
+  "Degrees of elasticity and total outlay method",
+  "Determinants of elasticity and its applications (taxation, price policy, devaluation)",
+  "Elasticity of supply and its determinants",
+  "Concepts of utility: total, average and marginal utility",
+  "Law of diminishing marginal utility and consumer surplus",
+  "Consumer equilibrium: equi-marginal principle and indifference curve analysis"
+ ],
+ "modules": [
+  {
+   "title": "Elasticity of Demand and Supply",
+   "html": "\n<h4>1.1 Meaning</h4>\n<p><strong>Elasticity of demand</strong> measures the degree of responsiveness of quantity demanded to a change in one of its determinants.</p>\n<h4>1.2 Price elasticity of demand (PED)</h4>\n<p>$$ E_d = \\frac{\\%\\,\\Delta Q_d}{\\%\\,\\Delta P} = \\frac{\\Delta Q}{\\Delta P}\\times\\frac{P}{Q} $$</p>\n<p>Because of the inverse price&ndash;quantity relation the coefficient is negative, but the sign is conventionally ignored. The <em>arc</em> (midpoint) formula uses averages:</p>\n<p>$$ E_d = \\frac{\\Delta Q}{(Q_1+Q_2)/2} \\div \\frac{\\Delta P}{(P_1+P_2)/2} $$</p>\n<h4>1.3 Degrees of price elasticity</h4>\n<table class=\"tb-table\">\n<tr><th>Coefficient</th><th>Name</th><th>Interpretation</th><th>Curve</th></tr>\n<tr><td>\\(E_d = 0\\)</td><td>Perfectly inelastic</td><td>Quantity unchanged</td><td>Vertical</td></tr>\n<tr><td>\\(0 < E_d < 1\\)</td><td>Inelastic</td><td>Quantity changes less than price</td><td>Steep</td></tr>\n<tr><td>\\(E_d = 1\\)</td><td>Unitary</td><td>Proportional change</td><td>Rectangular hyperbola</td></tr>\n<tr><td>\\(E_d > 1\\)</td><td>Elastic</td><td>Quantity changes more than price</td><td>Flat</td></tr>\n<tr><td>\\(E_d = \\infty\\)</td><td>Perfectly elastic</td><td>Infinite response</td><td>Horizontal</td></tr>\n</table>\n<p><strong>Total outlay method:</strong> if a price cut raises total revenue, demand is elastic; if revenue falls, demand is inelastic; if revenue is unchanged, elasticity is unitary.</p>\n<h4>1.4 Income and cross elasticity</h4>\n<p>$$ E_y = \\frac{\\%\\,\\Delta Q_d}{\\%\\,\\Delta Y}, \\qquad E_c = \\frac{\\%\\,\\Delta Q_{dX}}{\\%\\,\\Delta P_Y} $$</p>\n<p>\\(E_y > 0\\) for normal goods (and \\(>1\\) for luxuries), \\(E_y < 0\\) for inferior goods. \\(E_c > 0\\) means the goods are substitutes; \\(E_c < 0\\) means they are complements; \\(E_c = 0\\) means they are unrelated.</p>\n<h4>1.5 Determinants and applications</h4>\n<p><em>Determinants:</em> availability of close substitutes, nature of the commodity (necessity or luxury), proportion of income spent on it, number of uses, habit and addiction, time period, durability, possibility of postponement.</p>\n<p><em>Applications:</em> a government seeking revenue taxes goods with inelastic demand (petrol, tobacco, salt); a firm raises price only where demand is inelastic; devaluation improves the balance of payments only if demand for exports and imports is elastic (Marshall&ndash;Lerner condition); agricultural price instability arises because both demand and supply of farm produce are inelastic.</p>\n<h4>1.6 Elasticity of supply</h4>\n<p>$$ E_s = \\frac{\\%\\,\\Delta Q_s}{\\%\\,\\Delta P} $$</p>\n<p>Determinants: time period (supply is more elastic in the long run), availability of spare capacity and stocks, mobility of factors, gestation period of production, and ease of entry into the industry. Perishables and mineral extraction tend to be inelastic in supply.</p>\n",
+   "examples": [
+    {
+     "q": "When the price of rice falls from &#8358;500 to &#8358;450, quantity demanded rises from 200 to 260 bags. Calculate PED and state its nature.",
+     "a": "%&Delta;Q = (60/200) &times; 100 = 30%; %&Delta;P = (&minus;50/500) &times; 100 = &minus;10%. \\( E_d = 30/10 = 3 \\) (ignoring sign). Since \\(E_d > 1\\) demand is elastic, so the price cut raises total revenue."
+    },
+    {
+     "q": "Income rises from &#8358;40,000 to &#8358;50,000 and demand for garri falls from 20 to 18 kg. What type of good is garri?",
+     "a": "%&Delta;Q = (&minus;2/20) &times; 100 = &minus;10%; %&Delta;Y = (10,000/40,000) &times; 100 = 25%. \\(E_y = -10/25 = -0.4\\). A negative income elasticity means garri is an inferior good for this consumer."
+    }
+   ]
+  },
+  {
+   "title": "Utility and Consumer Equilibrium",
+   "html": "\n<h4>2.1 Concepts of utility</h4>\n<p><strong>Utility</strong> is the satisfaction derived from consuming a commodity. It is subjective and, in the cardinal approach, measured in imaginary units called <em>utils</em>.</p>\n<ul>\n<li><strong>Total utility (TU)</strong> &mdash; the aggregate satisfaction from all units consumed.</li>\n<li><strong>Average utility</strong> &mdash; \\( AU = TU/Q \\).</li>\n<li><strong>Marginal utility (MU)</strong> &mdash; the addition to total utility from consuming one more unit: \\( MU = \\Delta TU/\\Delta Q \\).</li>\n</ul>\n<h4>2.2 Law of diminishing marginal utility</h4>\n<p>As more units of a commodity are consumed within a given period, the satisfaction from each additional unit falls. TU rises but at a decreasing rate; when MU = 0, TU is at a maximum; if consumption continues, MU becomes negative and TU falls.</p>\n<table class=\"tb-table\">\n<tr><th>Units of bread</th><th>Total utility</th><th>Marginal utility</th></tr>\n<tr><td>1</td><td>20</td><td>20</td></tr>\n<tr><td>2</td><td>36</td><td>16</td></tr>\n<tr><td>3</td><td>48</td><td>12</td></tr>\n<tr><td>4</td><td>56</td><td>8</td></tr>\n<tr><td>5</td><td>60</td><td>4</td></tr>\n<tr><td>6</td><td>60</td><td>0</td></tr>\n<tr><td>7</td><td>56</td><td>&minus;4</td></tr>\n</table>\n<p>The law explains the downward-sloping demand curve: since extra units give less satisfaction, the consumer will buy more only at a lower price.</p>\n<h4>2.3 Consumer equilibrium: the equi-marginal principle</h4>\n<p>A consumer maximises satisfaction by distributing income so that the marginal utility of the last naira spent is equal in every use:</p>\n<p>$$ \\frac{MU_X}{P_X} = \\frac{MU_Y}{P_Y} = \\cdots = MU_m $$</p>\n<p>For a single good the condition is \\( MU_X = P_X \\). If \\(MU_X/P_X > MU_Y/P_Y\\) the consumer should buy more X and less Y until equality is restored.</p>\n<h4>2.4 Consumer surplus</h4>\n<p><strong>Consumer surplus</strong> is the difference between what a consumer is willing to pay and what is actually paid:</p>\n<p>$$ \\text{Consumer surplus} = \\sum(\\text{maximum willingness to pay}) - (\\text{price} \\times \\text{quantity}) $$</p>\n<p>Graphically it is the area below the demand curve and above the market price. It measures welfare gain and justifies price discrimination by monopolists.</p>\n<h4>2.5 Indifference curve analysis (ordinal approach)</h4>\n<p>An <strong>indifference curve</strong> joins all combinations of two goods giving the consumer equal satisfaction. Properties: downward sloping, convex to the origin (diminishing marginal rate of substitution), never intersecting, and higher curves mean higher satisfaction. The <strong>budget line</strong> shows affordable combinations: \\( M = P_X X + P_Y Y \\). Equilibrium occurs where the budget line is tangent to the highest attainable indifference curve, that is where</p>\n<p>$$ MRS_{XY} = \\frac{P_X}{P_Y} $$</p>\n",
+   "examples": [
+    {
+     "q": "Given the schedule TU: 20, 36, 48, 56, 60, 60 for 1&ndash;6 units, at what level of consumption is total utility maximised?",
+     "a": "Marginal utility falls 20, 16, 12, 8, 4, 0. TU is maximised at the 6th unit where MU = 0 (TU = 60). Consuming a 7th unit would give negative MU and reduce total utility."
+    },
+    {
+     "q": "A consumer spends on X (P = &#8358;4, MU = 40) and Y (P = &#8358;2, MU = 10). Is she in equilibrium?",
+     "a": "MUx/Px = 40/4 = 10; MUy/Py = 10/2 = 5. They are unequal, so she is not in equilibrium. She should buy more X and less Y; as she does, MUx falls and MUy rises until the two ratios are equal."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Price elasticity of demand is the ratio of the percentage change in quantity demanded to the percentage change in:",
+   "options": [
+    "Income",
+    "Price",
+    "Supply",
+    "Population"
+   ],
+   "answer": "1",
+   "solution": "PED relates the responsiveness of quantity demanded to a change in the good's own price."
+  },
+  {
+   "q": "If a 10% fall in price causes a 25% rise in quantity demanded, demand is:",
+   "options": [
+    "Inelastic",
+    "Unitary",
+    "Elastic",
+    "Perfectly inelastic"
+   ],
+   "answer": "2",
+   "solution": "Ed = 25/10 = 2.5, which is greater than 1, so demand is elastic."
+  },
+  {
+   "q": "A vertical demand curve indicates demand that is:",
+   "options": [
+    "Perfectly elastic",
+    "Perfectly inelastic",
+    "Unitary",
+    "Elastic"
+   ],
+   "answer": "1",
+   "solution": "Quantity demanded does not change at all when price changes, so Ed = 0."
+  },
+  {
+   "q": "A price reduction that leaves total revenue unchanged means elasticity is:",
+   "options": [
+    "Zero",
+    "Less than one",
+    "Equal to one",
+    "Infinite"
+   ],
+   "answer": "2",
+   "solution": "Unitary elasticity means the percentage rise in quantity exactly offsets the percentage fall in price, keeping revenue constant."
+  },
+  {
+   "q": "A negative income elasticity of demand indicates a(n):",
+   "options": [
+    "Luxury good",
+    "Normal good",
+    "Inferior good",
+    "Public good"
+   ],
+   "answer": "2",
+   "solution": "Demand falls as income rises, which is the defining feature of an inferior good."
+  },
+  {
+   "q": "A positive cross elasticity between two goods shows they are:",
+   "options": [
+    "Complements",
+    "Substitutes",
+    "Unrelated",
+    "Inferior"
+   ],
+   "answer": "1",
+   "solution": "A rise in the price of one raises demand for the other, the typical behaviour of substitutes such as tea and coffee."
+  },
+  {
+   "q": "Government seeking maximum revenue should place heavy indirect taxes on goods with:",
+   "options": [
+    "Elastic demand",
+    "Inelastic demand",
+    "Zero demand",
+    "Negative demand"
+   ],
+   "answer": "1",
+   "solution": "Where demand is inelastic, quantity falls little when the tax raises price, so revenue is large and stable."
+  },
+  {
+   "q": "Demand for a commodity tends to be more elastic when:",
+   "options": [
+    "It is a necessity",
+    "Close substitutes are available",
+    "It takes a tiny share of income",
+    "It is habit forming"
+   ],
+   "answer": "1",
+   "solution": "Consumers can easily switch to substitutes, making quantity demanded highly responsive to price."
+  },
+  {
+   "q": "Supply is generally more elastic in the:",
+   "options": [
+    "Very short run",
+    "Long run",
+    "Market period",
+    "Harvest period"
+   ],
+   "answer": "1",
+   "solution": "Given time, firms can adjust capacity, enter or leave the industry, so quantity supplied responds more fully to price."
+  },
+  {
+   "q": "Marginal utility is defined as the:",
+   "options": [
+    "Total satisfaction from all units",
+    "Addition to total utility from one more unit",
+    "Average satisfaction per unit",
+    "Utility of the first unit"
+   ],
+   "answer": "1",
+   "solution": "MU = &Delta;TU/&Delta;Q, the extra satisfaction from consuming one additional unit."
+  },
+  {
+   "q": "When marginal utility is zero, total utility is:",
+   "options": [
+    "Zero",
+    "Falling",
+    "At a maximum",
+    "Negative"
+   ],
+   "answer": "2",
+   "solution": "TU stops rising exactly where MU = 0, which is the point of satiation."
+  },
+  {
+   "q": "The law of diminishing marginal utility helps to explain the:",
+   "options": [
+    "Upward sloping supply curve",
+    "Downward sloping demand curve",
+    "Vertical demand curve",
+    "Law of supply"
+   ],
+   "answer": "1",
+   "solution": "Since extra units yield less satisfaction, consumers will only buy more at lower prices."
+  },
+  {
+   "q": "A consumer is in equilibrium when:",
+   "options": [
+    "MUx = MUy",
+    "MUx/Px = MUy/Py",
+    "Px = Py",
+    "TU is zero"
+   ],
+   "answer": "1",
+   "solution": "The equi-marginal principle requires the marginal utility per naira spent to be equal across all goods."
+  },
+  {
+   "q": "Consumer surplus is the difference between:",
+   "options": [
+    "Cost and revenue",
+    "What a consumer is willing to pay and what is paid",
+    "Demand and supply",
+    "Price and marginal cost"
+   ],
+   "answer": "1",
+   "solution": "It is the unpaid-for satisfaction, shown as the area below the demand curve and above price."
+  },
+  {
+   "q": "Indifference curves are convex to the origin because of:",
+   "options": [
+    "Increasing marginal rate of substitution",
+    "Diminishing marginal rate of substitution",
+    "Constant utility per naira",
+    "Rising prices"
+   ],
+   "answer": "1",
+   "solution": "As a consumer holds more of one good, she gives up fewer units of it for an extra unit of the other, so MRS diminishes."
+  },
+  {
+   "q": "Two indifference curves can never intersect because:",
+   "options": [
+    "They are straight lines",
+    "Each represents a different level of satisfaction",
+    "Prices differ",
+    "Income is fixed"
+   ],
+   "answer": "1",
+   "solution": "An intersection would imply the same combination yields two different satisfaction levels, which is contradictory."
+  },
+  {
+   "q": "The budget line shifts outward parallel to itself when:",
+   "options": [
+    "The price of X falls only",
+    "Money income rises with prices constant",
+    "Taste changes",
+    "MRS falls"
+   ],
+   "answer": "1",
+   "solution": "A rise in income raises purchasing power for both goods equally, shifting the line outward without changing its slope."
+  },
+  {
+   "q": "Devaluation improves the balance of payments mainly when demand for exports and imports is:",
+   "options": [
+    "Perfectly inelastic",
+    "Elastic",
+    "Zero",
+    "Unitary"
+   ],
+   "answer": "1",
+   "solution": "Elastic demand ensures export volumes rise substantially and import volumes fall substantially after the price change."
+  }
+ ]
+}

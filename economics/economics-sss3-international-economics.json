@@ -1,0 +1,246 @@
+{
+ "subject": "Economics",
+ "level": "SSS 3",
+ "slug": "international-economics",
+ "title": "International Economics",
+ "outline": [
+  "Basis of international trade: absolute and comparative advantage",
+  "Terms of trade and gains from trade",
+  "Barriers to trade: tariffs, quotas, embargo; arguments for and against protection",
+  "Balance of payments: current, capital and financial accounts; disequilibrium and correction",
+  "Foreign exchange, exchange rate systems and devaluation",
+  "Economic integration and ECOWAS",
+  "International institutions: IMF, World Bank, WTO, OPEC, AfDB, UNCTAD",
+  "Globalisation and its effects on developing economies"
+ ],
+ "modules": [
+  {
+   "title": "Trade Theory, Protection and Terms of Trade",
+   "html": "\n<h4>1.1 Basis of international trade</h4>\n<p>Countries trade because resources, climate, technology and skills are unevenly distributed, so costs of production differ. <strong>Absolute advantage</strong> (Adam Smith) exists when a country can produce a good with fewer resources than another. <strong>Comparative advantage</strong> (David Ricardo) exists when it can produce a good at a lower <em>opportunity cost</em>; trade is beneficial even if one country is absolutely more efficient in everything, provided opportunity cost ratios differ.</p>\n<table class=\"tb-table\">\n<tr><th>Country</th><th>Cloth (units)</th><th>Rice (tonnes)</th><th>Opportunity cost of 1 cloth</th></tr>\n<tr><td>A</td><td>20</td><td>10</td><td>0.5 rice</td></tr>\n<tr><td>B</td><td>15</td><td>30</td><td>2 rice</td></tr>\n</table>\n<p>Country A should specialise in cloth and B in rice. Gains from trade: wider consumption possibilities, lower prices, economies of scale, transfer of technology, competition and variety.</p>\n<h4>1.2 Terms of trade</h4>\n<p>$$ \\text{Terms of trade} = \\frac{\\text{Index of export prices}}{\\text{Index of import prices}} \\times 100 $$</p>\n<p>The terms of trade improve when export prices rise relative to import prices; primary-producing countries often suffer deteriorating terms of trade because demand for primary products is inelastic and prices unstable.</p>\n<h4>1.3 Barriers and protection</h4>\n<p><em>Instruments:</em> tariffs (import duties), quotas, embargo, exchange control, import licensing, subsidies to local firms, administrative and health standards, devaluation.</p>\n<p><em>Arguments for protection:</em> protect infant industries, correct balance of payments deficits, prevent dumping, safeguard employment, raise revenue, defend strategic industries, diversify the economy.<br/>\n<em>Arguments against:</em> loss of comparative advantage and efficiency, higher prices and less choice for consumers, retaliation and trade wars, encouragement of inefficient monopoly, smuggling and corruption.</p>\n",
+   "examples": [
+    {
+     "q": "Export price index rises from 100 to 120 while import price index rises from 100 to 150. Find the terms of trade and interpret.",
+     "a": "Terms of trade = (120/150) &times; 100 = 80. The index has fallen below 100, so the terms of trade have deteriorated: more exports must now be given up for the same volume of imports."
+    },
+    {
+     "q": "Using the table above, show that trade benefits both countries.",
+     "a": "In A, 1 cloth costs 0.5 rice; in B it costs 2 rice. A specialises in cloth, B in rice. If they exchange 1 cloth for 1 rice, A gains 0.5 rice above its domestic cost and B obtains cloth for 1 rice instead of 2. Both consume beyond their production possibility frontiers."
+    }
+   ]
+  },
+  {
+   "title": "Balance of Payments, Exchange Rates and Institutions",
+   "html": "\n<h4>2.1 Balance of payments</h4>\n<p>The <strong>balance of payments</strong> is a systematic record of all economic transactions between residents of a country and the rest of the world in a year. It comprises:</p>\n<ol>\n<li><strong>Current account</strong> &mdash; visible trade (goods), invisible trade (services), primary income (interest, profit, dividends) and secondary income (transfers, remittances).</li>\n<li><strong>Capital and financial accounts</strong> &mdash; direct and portfolio investment, loans, and changes in official reserves.</li>\n</ol>\n<p>Accounting-wise the BOP always balances; a \"deficit\" refers to the current account or the overall autonomous balance. <em>Causes of deficit:</em> import dependence, fall in export prices, heavy debt service, capital flight, inflation making exports uncompetitive. <em>Corrective measures:</em> export promotion and diversification, import substitution, tariffs and quotas, exchange control, devaluation, deflationary policies, borrowing and use of reserves.</p>\n<h4>2.2 Exchange rates</h4>\n<p>The <strong>exchange rate</strong> is the price of one currency in terms of another, determined in the foreign exchange market by demand and supply under a <em>floating</em> system, or fixed by the authorities under a <em>fixed</em> system; intermediate systems include managed float and crawling peg.</p>\n<p><strong>Devaluation</strong> is a deliberate reduction of the official value of a currency; it makes exports cheaper abroad and imports dearer at home, improving the trade balance if demand elasticities are sufficiently high (the Marshall&ndash;Lerner condition, \\( |E_x| + |E_m| > 1 \\)). Costs include imported inflation, higher input costs and heavier foreign debt service.</p>\n<h4>2.3 Economic integration</h4>\n<p>Stages: free trade area, customs union (common external tariff), common market (free factor movement), economic union (common policies and currency). <strong>ECOWAS</strong> (1975) promotes free movement of goods and people, a common tariff and monetary cooperation in West Africa; problems include political instability, currency differences, poor transport links, smuggling and rival colonial trade ties.</p>\n<h4>2.4 International institutions</h4>\n<table class=\"tb-table\">\n<tr><th>Institution</th><th>Main role</th></tr>\n<tr><td>IMF</td><td>Short-term balance of payments support, exchange stability, surveillance and advice</td></tr>\n<tr><td>World Bank (IBRD/IDA)</td><td>Long-term development project finance and poverty reduction</td></tr>\n<tr><td>WTO</td><td>Rules-based liberalisation of trade and settlement of trade disputes</td></tr>\n<tr><td>OPEC</td><td>Coordinates petroleum output and prices among member states</td></tr>\n<tr><td>AfDB</td><td>Development finance for African countries</td></tr>\n<tr><td>UNCTAD</td><td>Promotes trade and development interests of developing countries</td></tr>\n</table>\n<h4>2.5 Globalisation</h4>\n<p>Globalisation is the increasing integration of national economies through trade, capital flows, technology and information. Benefits: access to markets, capital and technology, cheaper goods, competition. Costs: vulnerability to external shocks, dominance of multinationals, loss of infant industries, brain drain and cultural erosion.</p>\n",
+   "examples": [
+    {
+     "q": "State two invisible items in the current account of the balance of payments.",
+     "a": "(i) Payment for shipping, banking, insurance and tourism services. (ii) Interest, profit, dividends and workers' remittances. These are services and income flows rather than physical goods."
+    },
+    {
+     "q": "Why may devaluation fail to improve the balance of payments?",
+     "a": "If demand for exports and imports is inelastic, volumes change little while import bills rise in local currency, worsening the deficit. Devaluation also raises the cost of imported inputs, fuelling inflation that erodes the initial price advantage."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Comparative advantage is based on differences in:",
+   "options": [
+    "Absolute cost only",
+    "Opportunity cost",
+    "Population size",
+    "Currency names"
+   ],
+   "answer": "1",
+   "solution": "Ricardo showed that gains from trade arise from differing opportunity cost ratios, not absolute efficiency."
+  },
+  {
+   "q": "The terms of trade is the ratio of:",
+   "options": [
+    "Imports to exports in volume",
+    "Export price index to import price index",
+    "Tariffs to quotas",
+    "Exports to GDP"
+   ],
+   "answer": "1",
+   "solution": "It measures the purchasing power of exports over imports and is expressed as an index."
+  },
+  {
+   "q": "A fall in the terms of trade index below 100 means the terms of trade have:",
+   "options": [
+    "Improved",
+    "Deteriorated",
+    "Remained constant",
+    "Become elastic"
+   ],
+   "answer": "1",
+   "solution": "Export prices have risen less than import prices, so more exports are needed per unit of imports."
+  },
+  {
+   "q": "A quota is a restriction on the:",
+   "options": [
+    "Price of imports",
+    "Quantity of imports",
+    "Currency in circulation",
+    "Number of banks"
+   ],
+   "answer": "1",
+   "solution": "Quotas limit the physical quantity of a commodity that may be imported."
+  },
+  {
+   "q": "A total ban on trade with a country is called a(n):",
+   "options": [
+    "Tariff",
+    "Quota",
+    "Embargo",
+    "Subsidy"
+   ],
+   "answer": "2",
+   "solution": "An embargo prohibits trade entirely, often for political reasons."
+  },
+  {
+   "q": "The infant industry argument supports:",
+   "options": [
+    "Free trade",
+    "Temporary protection",
+    "Devaluation",
+    "Higher exports of raw materials"
+   ],
+   "answer": "1",
+   "solution": "New industries are shielded from established foreign competitors until they achieve economies of scale."
+  },
+  {
+   "q": "Which item appears in the current account of the balance of payments?",
+   "options": [
+    "Direct foreign investment",
+    "Visible trade in goods",
+    "Purchase of foreign bonds",
+    "Change in reserves"
+   ],
+   "answer": "1",
+   "solution": "Goods (visible trade) are a current account item; the others belong to the capital and financial accounts."
+  },
+  {
+   "q": "Workers' remittances from abroad are recorded as:",
+   "options": [
+    "Visible exports",
+    "Invisible receipts in the current account",
+    "Capital account outflow",
+    "Reserve movement"
+   ],
+   "answer": "1",
+   "solution": "Remittances are secondary income transfers, part of the invisible current account."
+  },
+  {
+   "q": "Devaluation makes exports:",
+   "options": [
+    "Dearer abroad",
+    "Cheaper abroad",
+    "Unchanged",
+    "Illegal"
+   ],
+   "answer": "1",
+   "solution": "A lower currency value reduces the foreign-currency price of exports, encouraging foreign buyers."
+  },
+  {
+   "q": "Devaluation improves the trade balance only if demand elasticities are:",
+   "options": [
+    "Zero",
+    "Sufficiently high",
+    "Negative",
+    "Constant"
+   ],
+   "answer": "1",
+   "solution": "The Marshall&ndash;Lerner condition requires the sum of export and import demand elasticities to exceed one."
+  },
+  {
+   "q": "Under a floating exchange rate system, the rate is determined by:",
+   "options": [
+    "Government decree",
+    "Demand and supply of the currency",
+    "The IMF alone",
+    "Tariff levels"
+   ],
+   "answer": "1",
+   "solution": "A free float lets market forces in the foreign exchange market set the rate."
+  },
+  {
+   "q": "A customs union differs from a free trade area because it has a:",
+   "options": [
+    "Common currency",
+    "Common external tariff",
+    "Common parliament",
+    "Single central bank"
+   ],
+   "answer": "1",
+   "solution": "Members abolish internal tariffs and adopt a uniform tariff against non-members."
+  },
+  {
+   "q": "ECOWAS was established mainly to promote:",
+   "options": [
+    "Military alliance",
+    "Economic cooperation and free movement in West Africa",
+    "Oil price fixing",
+    "Currency printing"
+   ],
+   "answer": "1",
+   "solution": "Its objectives are trade liberalisation, free movement of persons and economic integration in the sub-region."
+  },
+  {
+   "q": "Which institution provides short-term balance of payments support?",
+   "options": [
+    "World Bank",
+    "IMF",
+    "WTO",
+    "UNCTAD"
+   ],
+   "answer": "1",
+   "solution": "The IMF lends to correct temporary payments imbalances and oversees exchange stability."
+  },
+  {
+   "q": "Long-term finance for development projects is provided mainly by the:",
+   "options": [
+    "IMF",
+    "World Bank",
+    "OPEC",
+    "WTO"
+   ],
+   "answer": "1",
+   "solution": "The World Bank group finances infrastructure and poverty-reduction projects over the long term."
+  },
+  {
+   "q": "OPEC influences the world economy chiefly by regulating:",
+   "options": [
+    "Interest rates",
+    "Crude oil output and prices",
+    "Tariff schedules",
+    "Exchange rates"
+   ],
+   "answer": "1",
+   "solution": "As a producers' cartel it coordinates production quotas that affect world oil prices."
+  },
+  {
+   "q": "A major danger of globalisation for developing economies is:",
+   "options": [
+    "Access to technology",
+    "Vulnerability to external shocks and collapse of infant industries",
+    "Cheaper imports",
+    "Larger markets"
+   ],
+   "answer": "1",
+   "solution": "Open economies transmit foreign recessions and expose weak local industries to intense competition."
+  },
+  {
+   "q": "Exchange control is used mainly to:",
+   "options": [
+    "Increase imports",
+    "Conserve foreign exchange and curb outflows",
+    "Raise export prices",
+    "Reduce taxes"
+   ],
+   "answer": "1",
+   "solution": "By rationing foreign currency, government limits imports and capital flight to protect reserves."
+  }
+ ]
+}

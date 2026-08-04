@@ -1,0 +1,257 @@
+{
+ "subject": "Economics",
+ "level": "SSS 3",
+ "slug": "public-finance-inflation",
+ "title": "Public Finance and Inflation",
+ "outline": [
+  "Meaning and objectives of public finance",
+  "Sources of government revenue and heads of expenditure",
+  "Taxation: principles, types, incidence and effects",
+  "Progressive, proportional and regressive taxes; direct versus indirect",
+  "Government budgets: balanced, surplus and deficit; fiscal policy",
+  "Public debt: internal and external, causes and burden",
+  "Inflation: types, causes, effects and control",
+  "Deflation, disinflation and the measurement of price changes"
+ ],
+ "modules": [
+  {
+   "title": "Public Finance, Taxation and the Budget",
+   "html": "\n<h4>1.1 Meaning and objectives</h4>\n<p><strong>Public finance</strong> studies government revenue, expenditure and debt, and their effects on the economy. Objectives: provision of public and merit goods, redistribution of income, stabilisation of prices and employment, promotion of growth, protection of infant industries, and correction of externalities.</p>\n<h4>1.2 Sources of revenue</h4>\n<ul>\n<li><strong>Tax revenue</strong> &mdash; personal income tax (PAYE), companies income tax, petroleum profit tax, value added tax, customs and excise duties, capital gains tax, stamp duties.</li>\n<li><strong>Non-tax revenue</strong> &mdash; royalties and mining rents, licence fees, fines, earnings of public enterprises, rent on government property, grants and aid, internal and external borrowing.</li>\n</ul>\n<p>Expenditure is classified as <strong>recurrent</strong> (salaries, debt service, maintenance) or <strong>capital</strong> (roads, schools, hospitals, power projects), and as administration, economic services, social services and transfers.</p>\n<h4>1.3 Principles of taxation</h4>\n<p>Adam Smith's canons: <strong>equity</strong>, <strong>certainty</strong>, <strong>convenience</strong>, <strong>economy</strong>; to which are added <strong>flexibility</strong>, <strong>simplicity</strong>, <strong>neutrality</strong> and <strong>productivity</strong>.</p>\n<h4>1.4 Types and systems of taxation</h4>\n<table class=\"tb-table\">\n<tr><th>System</th><th>Rate as income rises</th><th>Example</th></tr>\n<tr><td>Progressive</td><td>Rises</td><td>Graduated personal income tax</td></tr>\n<tr><td>Proportional</td><td>Constant</td><td>Flat company tax of 30%</td></tr>\n<tr><td>Regressive</td><td>Falls as a share of income</td><td>Poll tax, VAT on necessities</td></tr>\n</table>\n<p><strong>Direct taxes</strong> are levied on income and wealth and are paid directly by the bearer; they are equitable and can redistribute income but may discourage effort and invite evasion. <strong>Indirect taxes</strong> are levied on goods and services and are collected through sellers; they are convenient and wide-reaching but often regressive and inflationary.</p>\n<h4>1.5 Incidence of taxation</h4>\n<p>The <strong>incidence</strong> of a tax is the final resting place of its burden, which depends on elasticity: the more inelastic the demand relative to supply, the greater the share borne by the consumer. Tax <em>impact</em> is on whoever pays it initially; the burden may be <em>shifted</em>.</p>\n<h4>1.6 The budget and fiscal policy</h4>\n<p>A <strong>budget</strong> is a statement of expected government revenue and expenditure for a fiscal year.</p>\n<ul>\n<li><strong>Balanced budget</strong> &mdash; revenue equals expenditure.</li>\n<li><strong>Surplus budget</strong> &mdash; revenue exceeds expenditure; used to check inflation.</li>\n<li><strong>Deficit budget</strong> &mdash; expenditure exceeds revenue; used to fight deflation and unemployment, financed by borrowing or ways and means.</li>\n</ul>\n<p><strong>Fiscal policy</strong> is the use of taxation and public spending to influence the economy. Expansionary fiscal policy (lower taxes, higher spending) raises aggregate demand; contractionary policy does the reverse.</p>\n<h4>1.7 Public debt</h4>\n<p><strong>Internal debt</strong> is owed to residents (treasury bills, bonds, development stocks); <strong>external debt</strong> is owed to foreign governments, banks and multilateral bodies. Causes: budget deficits, war and disaster, project financing, adverse terms of trade, mismanagement. Burden: debt service diverts revenue from development, external debt drains foreign exchange, and heavy borrowing may crowd out private investment. Remedies: debt rescheduling, refinancing, buy-back, conversion, debt-for-equity swaps, forgiveness and improved revenue mobilisation.</p>\n",
+   "examples": [
+    {
+     "q": "A worker earning &#8358;3,000,000 pays &#8358;450,000 tax while one earning &#8358;800,000 pays &#8358;40,000. Identify the tax system.",
+     "a": "Effective rates: 450,000/3,000,000 = 15%; 40,000/800,000 = 5%. The rate rises with income, so the tax is progressive."
+    },
+    {
+     "q": "Why is VAT often described as regressive?",
+     "a": "VAT is charged at the same rate on goods regardless of the buyer's income. Since low-income earners spend a much larger proportion of their income on taxed consumption, the tax takes a bigger share of their income than of a rich person's income."
+    }
+   ]
+  },
+  {
+   "title": "Inflation and Deflation",
+   "html": "\n<h4>2.1 Meaning and measurement</h4>\n<p><strong>Inflation</strong> is a persistent and appreciable rise in the general price level, accompanied by a fall in the value of money. It is measured with a price index, usually the consumer price index:</p>\n<p>$$ \\text{Inflation rate} = \\frac{CPI_{t} - CPI_{t-1}}{CPI_{t-1}} \\times 100 $$</p>\n<p>Degrees: <em>creeping</em> (mild, single digit), <em>walking/trotting</em>, <em>galloping</em> (double or triple digit) and <em>hyper-inflation</em> where money loses its function.</p>\n<h4>2.2 Types and causes</h4>\n<ol>\n<li><strong>Demand-pull inflation</strong> &mdash; aggregate demand exceeds the supply of goods at full employment: rising money supply, deficit financing, credit expansion, higher wages and government spending, export boom.</li>\n<li><strong>Cost-push inflation</strong> &mdash; rising costs of production: wage awards above productivity, higher import and energy prices, indirect taxes, devaluation, profit mark-ups.</li>\n<li><strong>Structural inflation</strong> &mdash; bottlenecks in transport, power and food supply in developing economies.</li>\n<li><strong>Imported inflation</strong> &mdash; rising prices of imported inputs and finished goods.</li>\n</ol>\n<h4>2.3 Effects</h4>\n<p><em>Losers:</em> fixed-income earners, pensioners, savers and creditors, importers of inputs; <em>Gainers:</em> debtors, traders holding stock, owners of real assets, exporters when the currency depreciates. Other effects: distortion of the price signal, flight from money into land and goods, balance of payments deficit, wage&ndash;price spirals, industrial unrest and worsened income inequality. Mild inflation may, however, stimulate output and employment by raising profit expectations.</p>\n<h4>2.4 Control of inflation</h4>\n<table class=\"tb-table\">\n<tr><th>Policy</th><th>Measures</th></tr>\n<tr><td>Monetary</td><td>Raise policy rate, sell securities, raise reserve ratios, restrict credit</td></tr>\n<tr><td>Fiscal</td><td>Surplus budget, higher taxes, cut public spending, reduce deficit financing</td></tr>\n<tr><td>Income</td><td>Wage and price guidelines, productivity-based wage awards</td></tr>\n<tr><td>Supply-side</td><td>Raise output through better power, roads, agriculture; ease imports of essentials</td></tr>\n<tr><td>Direct</td><td>Price control, anti-hoarding laws, subsidies on essentials</td></tr>\n</table>\n<h4>2.5 Deflation and related concepts</h4>\n<p><strong>Deflation</strong> is a persistent fall in the general price level, usually accompanied by falling output and rising unemployment; it is cured by expansionary fiscal and monetary policy. <strong>Disinflation</strong> is a slowdown in the rate of inflation, while <strong>reflation</strong> is a deliberate expansion of demand from a depressed level. <strong>Stagflation</strong> is the coexistence of high inflation with high unemployment and stagnant output, which makes conventional demand management difficult.</p>\n",
+   "examples": [
+    {
+     "q": "The CPI rises from 180 to 207 in one year. Compute the inflation rate.",
+     "a": "Inflation = (207 &minus; 180)/180 &times; 100 = 27/180 &times; 100 = 15%."
+    },
+    {
+     "q": "Explain why a debtor gains from unanticipated inflation.",
+     "a": "Debt is fixed in money terms. When prices rise, the real value of the sum repaid is lower than the real value of the sum borrowed, so the debtor repays with money of reduced purchasing power while the creditor loses real value."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Public finance is concerned with government:",
+   "options": [
+    "Revenue, expenditure and debt",
+    "Advertising",
+    "Population census",
+    "Exchange rate only"
+   ],
+   "answer": "0",
+   "solution": "It studies how government raises revenue, spends it and manages debt, and the economic effects of these actions."
+  },
+  {
+   "q": "Which is a direct tax?",
+   "options": [
+    "Value added tax",
+    "Excise duty",
+    "Companies income tax",
+    "Import duty"
+   ],
+   "answer": "2",
+   "solution": "Companies income tax is levied on profit and borne by the taxpayer directly."
+  },
+  {
+   "q": "A tax whose rate rises as income rises is:",
+   "options": [
+    "Proportional",
+    "Progressive",
+    "Regressive",
+    "Indirect"
+   ],
+   "answer": "1",
+   "solution": "Progressive taxation takes a larger percentage of higher incomes, promoting equity."
+  },
+  {
+   "q": "A poll tax of a fixed amount per person is:",
+   "options": [
+    "Progressive",
+    "Proportional",
+    "Regressive",
+    "Ad valorem"
+   ],
+   "answer": "2",
+   "solution": "The same amount takes a larger proportion of a poor person's income, so the burden is regressive."
+  },
+  {
+   "q": "The final resting place of the burden of a tax is called the:",
+   "options": [
+    "Impact",
+    "Incidence",
+    "Base",
+    "Yield"
+   ],
+   "answer": "1",
+   "solution": "Incidence identifies who ultimately bears the tax after any shifting."
+  },
+  {
+   "q": "The burden of an indirect tax falls mainly on consumers when demand is:",
+   "options": [
+    "Elastic",
+    "Inelastic",
+    "Zero",
+    "Infinite"
+   ],
+   "answer": "1",
+   "solution": "With inelastic demand consumers keep buying despite the higher price, so producers can pass on most of the tax."
+  },
+  {
+   "q": "Adam Smith's canons of taxation include:",
+   "options": [
+    "Equity, certainty, convenience, economy",
+    "Profit, loss, revenue, cost",
+    "Import, export, tariff, quota",
+    "Land, labour, capital, enterprise"
+   ],
+   "answer": "0",
+   "solution": "These four canons remain the classical principles of a good tax system."
+  },
+  {
+   "q": "A budget in which expenditure exceeds revenue is:",
+   "options": [
+    "Balanced",
+    "Surplus",
+    "Deficit",
+    "Neutral"
+   ],
+   "answer": "2",
+   "solution": "A deficit budget is typically used to expand demand during recession, financed by borrowing."
+  },
+  {
+   "q": "A surplus budget is most appropriate for controlling:",
+   "options": [
+    "Deflation",
+    "Inflation",
+    "Unemployment",
+    "Depression"
+   ],
+   "answer": "1",
+   "solution": "Taking more out of the economy in taxes than is put back reduces aggregate demand and price pressure."
+  },
+  {
+   "q": "Fiscal policy involves the use of:",
+   "options": [
+    "Interest rates and reserve ratios",
+    "Taxation and government expenditure",
+    "Exchange controls only",
+    "Wage freezes only"
+   ],
+   "answer": "1",
+   "solution": "Fiscal policy operates through the budget; monetary policy uses interest rates and credit controls."
+  },
+  {
+   "q": "Internal public debt is owed to:",
+   "options": [
+    "Foreign governments",
+    "Residents of the country",
+    "The IMF",
+    "Foreign banks"
+   ],
+   "answer": "1",
+   "solution": "Internal debt is held by domestic residents and institutions through instruments such as treasury bills and bonds."
+  },
+  {
+   "q": "A major burden of external debt is that it:",
+   "options": [
+    "Increases foreign exchange reserves",
+    "Requires debt service in foreign currency",
+    "Reduces imports automatically",
+    "Eliminates budget deficits"
+   ],
+   "answer": "1",
+   "solution": "Interest and principal must be paid in foreign exchange, diverting resources from development."
+  },
+  {
+   "q": "Inflation is best defined as a:",
+   "options": [
+    "Once-and-for-all rise in one price",
+    "Persistent rise in the general price level",
+    "Fall in output",
+    "Rise in the value of money"
+   ],
+   "answer": "1",
+   "solution": "Inflation is a sustained, general increase in prices and hence a fall in the value of money."
+  },
+  {
+   "q": "If the CPI rises from 150 to 165, the inflation rate is:",
+   "options": [
+    "5%",
+    "10%",
+    "15%",
+    "20%"
+   ],
+   "answer": "1",
+   "solution": "(165 &minus; 150)/150 &times; 100 = 10%."
+  },
+  {
+   "q": "Inflation caused by excessive aggregate demand is:",
+   "options": [
+    "Cost-push",
+    "Demand-pull",
+    "Structural",
+    "Imported"
+   ],
+   "answer": "1",
+   "solution": "Demand-pull inflation occurs when spending exceeds the economy's capacity to supply goods."
+  },
+  {
+   "q": "A wage award far above productivity growth is likely to cause:",
+   "options": [
+    "Demand-pull inflation only",
+    "Cost-push inflation",
+    "Deflation",
+    "Disinflation"
+   ],
+   "answer": "1",
+   "solution": "Higher labour costs per unit are passed on in prices, producing cost-push inflation."
+  },
+  {
+   "q": "Which group gains most from unanticipated inflation?",
+   "options": [
+    "Pensioners",
+    "Debtors",
+    "Savers",
+    "Fixed-salary earners"
+   ],
+   "answer": "1",
+   "solution": "Debtors repay fixed money sums with money of reduced purchasing power."
+  },
+  {
+   "q": "The coexistence of high inflation and high unemployment is called:",
+   "options": [
+    "Deflation",
+    "Stagflation",
+    "Reflation",
+    "Disinflation"
+   ],
+   "answer": "1",
+   "solution": "Stagflation combines stagnant output and unemployment with rising prices, defeating simple demand management."
+  },
+  {
+   "q": "A monetary measure to control inflation is to:",
+   "options": [
+    "Reduce the policy rate",
+    "Sell government securities to mop up cash",
+    "Increase deficit financing",
+    "Lower the reserve ratio"
+   ],
+   "answer": "1",
+   "solution": "Open market sales withdraw liquidity, contract credit and reduce aggregate demand."
+  }
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "subject": "Economics",
+ "level": "SSS 2",
+ "slug": "national-income",
+ "title": "National Income",
+ "outline": [
+  "Meaning and concepts of national income: GDP, GNP, NNP, NI, per capita income",
+  "Methods of measurement: output, income and expenditure approaches",
+  "The problem of double counting and value added",
+  "Nominal versus real national income and the GDP deflator",
+  "Uses and limitations of national income statistics",
+  "The circular flow of income; injections and withdrawals",
+  "Consumption, saving, investment and the multiplier",
+  "Standard of living and international comparisons"
+ ],
+ "modules": [
+  {
+   "title": "Concepts and Measurement of National Income",
+   "html": "\n<h4>1.1 Basic concepts</h4>\n<ul>\n<li><strong>Gross Domestic Product (GDP)</strong> &mdash; the total money value of all final goods and services produced <em>within</em> a country in a year, regardless of the nationality of producers.</li>\n<li><strong>Gross National Product (GNP)</strong> = GDP + net income from abroad (NIFA), that is income earned by nationals abroad minus income earned by foreigners locally.</li>\n<li><strong>Net National Product (NNP)</strong> = GNP &minus; depreciation (capital consumption allowance). NNP at factor cost is <strong>national income</strong> proper.</li>\n<li><strong>Per capita income</strong> = national income &divide; population.</li>\n<li><strong>Disposable income</strong> = personal income &minus; direct taxes.</li>\n</ul>\n<p>$$ \\text{GNP} = \\text{GDP} + \\text{NIFA}, \\qquad \\text{NNP} = \\text{GNP} - \\text{Depreciation} $$</p>\n<p>$$ \\text{Per capita income} = \\frac{\\text{National income}}{\\text{Population}} $$</p>\n<h4>1.2 Methods of measurement</h4>\n<ol>\n<li><strong>Output (product) method</strong> &mdash; sum the value added of all sectors. Only <em>value added</em> is counted to avoid double counting: \\( \\text{Value added} = \\text{value of output} - \\text{cost of intermediate inputs} \\).</li>\n<li><strong>Income method</strong> &mdash; sum factor incomes: wages and salaries, rent, interest, profit, plus mixed income of the self-employed. Transfer payments (pensions, scholarships, unemployment benefit) are excluded because no output corresponds to them.</li>\n<li><strong>Expenditure method</strong> &mdash; sum spending on final output:</li>\n</ol>\n<p>$$ Y = C + I + G + (X - M) $$</p>\n<p>where \\(C\\) is household consumption, \\(I\\) gross investment, \\(G\\) government spending on goods and services, \\(X\\) exports and \\(M\\) imports. In principle all three methods give the same total because output = income = expenditure.</p>\n<h4>1.3 Double counting and other pitfalls</h4>\n<p><strong>Double counting</strong> is counting the value of a commodity more than once by adding both intermediate and final values. It is avoided by using the value-added approach or by counting only final goods. Other problems in developing economies: large subsistence and informal sector, inadequate statistics, illiteracy and poor record-keeping, boundary problems between sectors, and the treatment of stock appreciation.</p>\n<h4>1.4 Nominal and real income</h4>\n<p>Nominal (money) income is valued at current prices; real income is valued at constant prices, removing the effect of inflation.</p>\n<p>$$ \\text{Real GDP} = \\frac{\\text{Nominal GDP}}{\\text{Price index}} \\times 100, \\qquad \\text{GDP deflator} = \\frac{\\text{Nominal GDP}}{\\text{Real GDP}} \\times 100 $$</p>\n",
+   "examples": [
+    {
+     "q": "Given GDP = &#8358;60 trillion, income earned by nationals abroad = &#8358;4 trillion, income of foreigners at home = &#8358;7 trillion, depreciation = &#8358;3 trillion. Find GNP and NNP.",
+     "a": "NIFA = 4 &minus; 7 = &minus;&#8358;3 trillion. GNP = 60 + (&minus;3) = &#8358;57 trillion. NNP = 57 &minus; 3 = &#8358;54 trillion."
+    },
+    {
+     "q": "Nominal GDP is &#8358;80 trillion and the price index is 160 (base 100). Find real GDP.",
+     "a": "Real GDP = (80/160) &times; 100 = &#8358;50 trillion. Half of the measured money value is due to price increases rather than extra output."
+    }
+   ]
+  },
+  {
+   "title": "Circular Flow, the Multiplier, Uses and Limitations",
+   "html": "\n<h4>2.1 The circular flow of income</h4>\n<p>In a simple two-sector model households supply factor services to firms and receive incomes, which they spend on the firms' output. Adding the government, financial and foreign sectors introduces <strong>withdrawals (leakages)</strong> &mdash; saving \\(S\\), taxation \\(T\\), imports \\(M\\) &mdash; and <strong>injections</strong> &mdash; investment \\(I\\), government expenditure \\(G\\), exports \\(X\\). Equilibrium national income occurs where</p>\n<p>$$ S + T + M = I + G + X $$</p>\n<p>If injections exceed withdrawals, income expands; if withdrawals exceed injections, income contracts.</p>\n<h4>2.2 Consumption, saving and investment</h4>\n<p>$$ Y = C + S, \\qquad APC = \\frac{C}{Y}, \\qquad MPC = \\frac{\\Delta C}{\\Delta Y}, \\qquad MPC + MPS = 1 $$</p>\n<p>A simple consumption function is \\( C = a + bY \\), where \\(a\\) is autonomous consumption and \\(b\\) is the marginal propensity to consume.</p>\n<h4>2.3 The multiplier</h4>\n<p>An injection raises income by more than itself, because the recipients re-spend part of it.</p>\n<p>$$ k = \\frac{1}{1 - MPC} = \\frac{1}{MPS}, \\qquad \\Delta Y = k \\times \\Delta I $$</p>\n<p>With MPC = 0.8, \\(k = 1/0.2 = 5\\); an extra &#8358;10 billion of investment raises income by &#8358;50 billion. In an open economy leakages into taxes and imports reduce the multiplier.</p>\n<h4>2.4 Uses of national income statistics</h4>\n<ol>\n<li>Measuring economic performance and growth over time.</li>\n<li>Comparing living standards between countries.</li>\n<li>Guiding development planning and budgeting.</li>\n<li>Showing sectoral contributions and structural change.</li>\n<li>Assisting international bodies in assessing contributions and aid.</li>\n<li>Providing data for investors and researchers.</li>\n</ol>\n<h4>2.5 Limitations</h4>\n<ul>\n<li>Ignores the distribution of income; a high average may hide great inequality.</li>\n<li>Excludes non-marketed output: subsistence production, housework, voluntary work.</li>\n<li>Ignores externalities such as pollution and resource depletion, and counts \"regrettables\" like defence spending as output.</li>\n<li>Says nothing about leisure, quality of goods or composition of output.</li>\n<li>Statistical weaknesses: double counting, guesswork, informal sector, differing definitions.</li>\n<li>International comparisons distorted by exchange rates, price levels and population differences (hence purchasing power parity adjustments and the Human Development Index).</li>\n</ul>\n",
+   "examples": [
+    {
+     "q": "If MPC = 0.75 and investment rises by &#8358;20 billion, find the multiplier and the change in national income.",
+     "a": "k = 1/(1 &minus; 0.75) = 4. &Delta;Y = 4 &times; &#8358;20bn = &#8358;80 billion."
+    },
+    {
+     "q": "Given C = 100 + 0.6Y, I = 200, G = 150 (closed economy, no tax). Find equilibrium income.",
+     "a": "Y = C + I + G = 100 + 0.6Y + 200 + 150 &rarr; Y &minus; 0.6Y = 450 &rarr; 0.4Y = 450 &rarr; Y = &#8358;1,125. The multiplier is 1/0.4 = 2.5 applied to autonomous spending of 450."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "GDP measures the value of final goods and services produced:",
+   "options": [
+    "By nationals anywhere in the world",
+    "Within a country's borders in a year",
+    "Only by government",
+    "Only in the manufacturing sector"
+   ],
+   "answer": "1",
+   "solution": "GDP is territorial: output produced inside the country regardless of the producer's nationality."
+  },
+  {
+   "q": "GNP equals GDP plus:",
+   "options": [
+    "Depreciation",
+    "Net income from abroad",
+    "Subsidies",
+    "Transfer payments"
+   ],
+   "answer": "1",
+   "solution": "GNP adds income earned by nationals abroad and deducts income earned by foreigners at home."
+  },
+  {
+   "q": "National income proper is best represented by:",
+   "options": [
+    "GDP at market prices",
+    "GNP at market prices",
+    "NNP at factor cost",
+    "Gross investment"
+   ],
+   "answer": "2",
+   "solution": "Deducting depreciation from GNP and valuing at factor cost gives national income."
+  },
+  {
+   "q": "The expenditure approach to national income is expressed as:",
+   "options": [
+    "Y = C + S",
+    "Y = C + I + G + (X &minus; M)",
+    "Y = W + R + I + P",
+    "Y = MPC + MPS"
+   ],
+   "answer": "1",
+   "solution": "Total expenditure on final output equals consumption, investment, government spending and net exports."
+  },
+  {
+   "q": "Double counting is avoided by:",
+   "options": [
+    "Adding all sales values",
+    "Counting only value added or final goods",
+    "Ignoring the service sector",
+    "Adding transfer payments"
+   ],
+   "answer": "1",
+   "solution": "Value added excludes the cost of intermediate inputs, so no output is counted twice."
+  },
+  {
+   "q": "Transfer payments are excluded from national income because:",
+   "options": [
+    "They are illegal",
+    "No corresponding output is produced",
+    "They are too small",
+    "They are taxed"
+   ],
+   "answer": "1",
+   "solution": "Pensions and scholarships merely transfer purchasing power without adding to production."
+  },
+  {
+   "q": "Per capita income is calculated as national income divided by:",
+   "options": [
+    "Number of workers",
+    "Population",
+    "Number of firms",
+    "Price index"
+   ],
+   "answer": "1",
+   "solution": "Per capita income is average income per person, so total income is divided by total population."
+  },
+  {
+   "q": "If nominal GDP is &#8358;120bn and the price index is 150, real GDP is:",
+   "options": [
+    "&#8358;60bn",
+    "&#8358;80bn",
+    "&#8358;180bn",
+    "&#8358;100bn"
+   ],
+   "answer": "1",
+   "solution": "Real GDP = (120/150) &times; 100 = &#8358;80bn."
+  },
+  {
+   "q": "Withdrawals from the circular flow of income include:",
+   "options": [
+    "Investment and exports",
+    "Saving, taxation and imports",
+    "Government spending",
+    "Wages"
+   ],
+   "answer": "1",
+   "solution": "Saving, taxes and import spending leave the domestic income stream."
+  },
+  {
+   "q": "Equilibrium national income occurs where:",
+   "options": [
+    "S + T + M = I + G + X",
+    "C = S",
+    "MPC = 1",
+    "GDP = GNP"
+   ],
+   "answer": "0",
+   "solution": "Total withdrawals equal total injections, so income neither expands nor contracts."
+  },
+  {
+   "q": "If MPC = 0.8, the multiplier is:",
+   "options": [
+    "1.25",
+    "2",
+    "4",
+    "5"
+   ],
+   "answer": "3",
+   "solution": "k = 1/(1 &minus; 0.8) = 1/0.2 = 5."
+  },
+  {
+   "q": "MPC + MPS is always equal to:",
+   "options": [
+    "0",
+    "0.5",
+    "1",
+    "The multiplier"
+   ],
+   "answer": "2",
+   "solution": "Any increment of income is either consumed or saved, so the two propensities sum to unity."
+  },
+  {
+   "q": "Given C = 50 + 0.5Y, I = 100, equilibrium income in a closed economy without government is:",
+   "options": [
+    "&#8358;150",
+    "&#8358;200",
+    "&#8358;300",
+    "&#8358;400"
+   ],
+   "answer": "2",
+   "solution": "Y = 50 + 0.5Y + 100 &rarr; 0.5Y = 150 &rarr; Y = 300."
+  },
+  {
+   "q": "A major limitation of national income figures is that they:",
+   "options": [
+    "Show income distribution clearly",
+    "Ignore subsistence output and externalities",
+    "Are always accurate",
+    "Measure happiness"
+   ],
+   "answer": "1",
+   "solution": "Non-marketed production and environmental damage are omitted, and averages hide inequality."
+  },
+  {
+   "q": "Which sector causes the greatest measurement difficulty in developing economies?",
+   "options": [
+    "Banking",
+    "The subsistence and informal sector",
+    "Public administration",
+    "Petroleum"
+   ],
+   "answer": "1",
+   "solution": "Output that is not exchanged for money and is unrecorded must be estimated, reducing accuracy."
+  },
+  {
+   "q": "Real national income differs from nominal income because real income is:",
+   "options": [
+    "Measured at current prices",
+    "Adjusted for price changes",
+    "Measured before tax",
+    "Larger always"
+   ],
+   "answer": "1",
+   "solution": "Real income is valued at constant prices so it reflects only changes in output."
+  },
+  {
+   "q": "The GDP deflator is calculated as:",
+   "options": [
+    "Real GDP / Nominal GDP &times; 100",
+    "Nominal GDP / Real GDP &times; 100",
+    "GNP &minus; GDP",
+    "GDP / Population"
+   ],
+   "answer": "1",
+   "solution": "The deflator is the ratio of nominal to real GDP expressed as an index of the general price level."
+  },
+  {
+   "q": "A rise in per capita income may not raise welfare if:",
+   "options": [
+    "Population falls",
+    "Income is very unequally distributed",
+    "Prices are stable",
+    "Output rises faster than population"
+   ],
+   "answer": "1",
+   "solution": "Averages can rise while most people are no better off, if the gains accrue to a few."
+  }
+ ]
+}

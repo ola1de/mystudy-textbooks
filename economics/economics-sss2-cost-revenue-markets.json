@@ -1,0 +1,246 @@
+{
+ "subject": "Economics",
+ "level": "SSS 2",
+ "slug": "cost-revenue-markets",
+ "title": "Cost, Revenue, and Markets",
+ "outline": [
+  "Concepts of cost: fixed, variable, total, average and marginal cost",
+  "Short-run and long-run cost curves and the envelope curve",
+  "Revenue concepts: total, average and marginal revenue",
+  "Profit maximisation rule MC = MR and the break-even point",
+  "Perfect competition: assumptions, equilibrium, shut-down point",
+  "Monopoly: sources, price and output determination, price discrimination, control",
+  "Monopolistic competition and oligopoly: features and behaviour",
+  "Comparison of market structures and efficiency"
+ ],
+ "modules": [
+  {
+   "title": "Costs and Revenue of the Firm",
+   "html": "\n<h4>1.1 Cost concepts</h4>\n<ul>\n<li><strong>Fixed cost (FC)</strong> &mdash; does not vary with output: rent, insurance, salaries of permanent staff.</li>\n<li><strong>Variable cost (VC)</strong> &mdash; varies directly with output: raw materials, fuel, casual wages.</li>\n<li><strong>Total cost</strong>: \\( TC = FC + VC \\).</li>\n<li><strong>Average cost</strong>: \\( AC = TC/Q = AFC + AVC \\).</li>\n<li><strong>Marginal cost</strong>: \\( MC = \\dfrac{\\Delta TC}{\\Delta Q} \\), the cost of producing one extra unit.</li>\n</ul>\n<p>Other distinctions: <em>explicit</em> (money paid out) versus <em>implicit</em> (imputed cost of owner's own resources); <em>opportunity</em> cost; <em>social</em> cost = private cost + external cost.</p>\n<h4>1.2 Shape of the cost curves</h4>\n<p>AFC falls continuously because a fixed sum is spread over more units. AVC and AC are U-shaped because of increasing then diminishing returns. MC cuts both AVC and AC at their minimum points; when MC &lt; AC, AC falls, and when MC &gt; AC, AC rises. In the long run all factors are variable, so the long-run average cost curve is the <strong>envelope</strong> of short-run curves, falling with economies of scale and rising with diseconomies.</p>\n<table class=\"tb-table\">\n<tr><th>Q</th><th>FC</th><th>VC</th><th>TC</th><th>AC</th><th>MC</th></tr>\n<tr><td>0</td><td>100</td><td>0</td><td>100</td><td>&mdash;</td><td>&mdash;</td></tr>\n<tr><td>1</td><td>100</td><td>60</td><td>160</td><td>160</td><td>60</td></tr>\n<tr><td>2</td><td>100</td><td>100</td><td>200</td><td>100</td><td>40</td></tr>\n<tr><td>3</td><td>100</td><td>132</td><td>232</td><td>77.3</td><td>32</td></tr>\n<tr><td>4</td><td>100</td><td>180</td><td>280</td><td>70</td><td>48</td></tr>\n<tr><td>5</td><td>100</td><td>260</td><td>360</td><td>72</td><td>80</td></tr>\n</table>\n<h4>1.3 Revenue concepts</h4>\n<p>\\( TR = P \\times Q \\); \\( AR = TR/Q = P \\); \\( MR = \\Delta TR/\\Delta Q \\). Under perfect competition price is constant so \\( AR = MR \\) and both are horizontal. Under imperfect competition the firm faces a downward-sloping AR curve and MR lies below AR.</p>\n<h4>1.4 Profit maximisation and break-even</h4>\n<p>$$ \\pi = TR - TC, \\qquad \\text{maximised where } MC = MR \\text{ and MC is rising} $$</p>\n<p>The <strong>break-even point</strong> is where \\( TR = TC \\) (normal profit only):</p>\n<p>$$ Q_{BE} = \\frac{FC}{P - AVC} $$</p>\n<p>A firm shuts down in the short run if price falls below AVC, and leaves the industry in the long run if price is below AC.</p>\n",
+   "examples": [
+    {
+     "q": "A firm has FC = &#8358;120,000, AVC = &#8358;400 and sells at &#8358;700 per unit. Find the break-even output and the profit at 600 units.",
+     "a": "Contribution per unit = 700 &minus; 400 = &#8358;300. Break-even output = 120,000/300 = 400 units. At 600 units: TR = 600 &times; 700 = &#8358;420,000; TC = 120,000 + (600 &times; 400) = &#8358;360,000; profit = &#8358;60,000."
+    },
+    {
+     "q": "Why does the marginal cost curve cut the average cost curve at its minimum?",
+     "a": "When MC is below AC it pulls the average down; when MC is above AC it pulls the average up. AC therefore stops falling and starts rising precisely where MC = AC, which is the minimum point of AC."
+    }
+   ]
+  },
+  {
+   "title": "Market Structures",
+   "html": "\n<h4>2.1 Perfect competition</h4>\n<p><em>Assumptions:</em> very many small buyers and sellers, homogeneous product, free entry and exit, perfect knowledge, perfect factor mobility, no transport cost, no government interference. The firm is a <strong>price taker</strong> with a horizontal demand curve.</p>\n<p>Equilibrium: \\( MC = MR = P = AR \\). In the long run free entry drives profit to <strong>normal profit</strong>, where \\( P = AC = MC \\) at the minimum of AC &mdash; the most efficient outcome.</p>\n<h4>2.2 Monopoly</h4>\n<p>A single seller with no close substitute and barriers to entry. Sources: patents and copyright, control of raw material, legal franchise, huge capital requirement, natural monopoly (falling long-run costs), amalgamation.</p>\n<p>The monopolist equates MC with MR, then charges the price on the demand (AR) curve above that output, so \\( P > MC \\) and supernormal profit can persist in the long run. Output is lower and price higher than under perfect competition.</p>\n<p><strong>Price discrimination</strong> &mdash; charging different prices in separate markets for the same product &mdash; requires market separation and different elasticities (e.g. student fares, export dumping, electricity tariffs). Monopoly is controlled by anti-trust legislation, price regulation, taxation, subsidised competition, nationalisation and removal of import barriers.</p>\n<h4>2.3 Monopolistic competition</h4>\n<p>Many sellers of <em>differentiated</em> products (branding, packaging, advertising), fairly free entry. The firm has a downward-sloping but elastic demand curve, earns supernormal profit in the short run and only normal profit in the long run, but produces with <strong>excess capacity</strong> because \\( P > MC \\) at equilibrium.</p>\n<h4>2.4 Oligopoly</h4>\n<p>A few large firms dominate; each is interdependent, so price changes provoke rival reactions. Features: price rigidity (kinked demand curve), heavy non-price competition, mutual interdependence, possible collusion in cartels (e.g. OPEC) or price leadership. Duopoly is a special case of two firms.</p>\n<h4>2.5 Comparison</h4>\n<table class=\"tb-table\">\n<tr><th>Feature</th><th>Perfect competition</th><th>Monopolistic competition</th><th>Oligopoly</th><th>Monopoly</th></tr>\n<tr><td>Number of firms</td><td>Very many</td><td>Many</td><td>Few</td><td>One</td></tr>\n<tr><td>Product</td><td>Homogeneous</td><td>Differentiated</td><td>Either</td><td>Unique</td></tr>\n<tr><td>Entry</td><td>Free</td><td>Fairly free</td><td>Restricted</td><td>Blocked</td></tr>\n<tr><td>Price control by firm</td><td>None</td><td>Some</td><td>Considerable</td><td>Great</td></tr>\n<tr><td>Long-run profit</td><td>Normal</td><td>Normal</td><td>Often supernormal</td><td>Supernormal</td></tr>\n</table>\n",
+   "examples": [
+    {
+     "q": "A monopolist faces \\( P = 100 - 2Q \\) and \\( TC = 20Q \\). Find the profit-maximising output and price.",
+     "a": "TR = PQ = 100Q &minus; 2Q&sup2;, so MR = 100 &minus; 4Q; MC = 20. Setting MR = MC: 100 &minus; 4Q = 20 &rarr; Q = 20. Price = 100 &minus; 2(20) = &#8358;60. Profit = TR &minus; TC = (60 &times; 20) &minus; (20 &times; 20) = &#8358;800."
+    },
+    {
+     "q": "Why does a perfectly competitive firm earn only normal profit in the long run?",
+     "a": "Supernormal profit attracts new entrants because entry is free. Industry supply rises, market price falls, and entry continues until price equals average cost at its minimum, leaving only normal profit."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which of the following is a fixed cost?",
+   "options": [
+    "Raw materials",
+    "Factory rent",
+    "Fuel",
+    "Casual wages"
+   ],
+   "answer": "1",
+   "solution": "Rent must be paid whether output is high, low or zero, so it does not vary with output."
+  },
+  {
+   "q": "Marginal cost is the:",
+   "options": [
+    "Cost of the first unit",
+    "Change in total cost from producing one more unit",
+    "Total cost divided by output",
+    "Fixed cost per unit"
+   ],
+   "answer": "1",
+   "solution": "MC = &Delta;TC/&Delta;Q."
+  },
+  {
+   "q": "Average fixed cost falls continuously as output rises because:",
+   "options": [
+    "Fixed cost rises",
+    "A constant fixed cost is spread over more units",
+    "Variable cost falls",
+    "Price falls"
+   ],
+   "answer": "1",
+   "solution": "Dividing an unchanged fixed sum by a larger output gives a smaller figure each time."
+  },
+  {
+   "q": "A firm maximises profit where:",
+   "options": [
+    "AC is minimum",
+    "MC = MR",
+    "TR is maximum",
+    "AVC = AFC"
+   ],
+   "answer": "1",
+   "solution": "Profit is greatest at the output where marginal cost equals marginal revenue with MC rising."
+  },
+  {
+   "q": "If FC = &#8358;60,000, price = &#8358;500 and AVC = &#8358;300, break-even output is:",
+   "options": [
+    "120 units",
+    "200 units",
+    "300 units",
+    "600 units"
+   ],
+   "answer": "2",
+   "solution": "Contribution = 500 &minus; 300 = &#8358;200; break-even = 60,000/200 = 300 units."
+  },
+  {
+   "q": "Under perfect competition, the individual firm's demand curve is:",
+   "options": [
+    "Downward sloping",
+    "Horizontal",
+    "Vertical",
+    "Upward sloping"
+   ],
+   "answer": "1",
+   "solution": "The firm is a price taker: it can sell any quantity at the ruling market price, so AR = MR is horizontal."
+  },
+  {
+   "q": "In the long run a perfectly competitive firm earns:",
+   "options": [
+    "Supernormal profit",
+    "Normal profit",
+    "Losses always",
+    "Zero revenue"
+   ],
+   "answer": "1",
+   "solution": "Free entry and exit eliminate abnormal profit, leaving normal profit where P = AC = MC."
+  },
+  {
+   "q": "A firm should shut down in the short run when price falls below:",
+   "options": [
+    "Average total cost",
+    "Average variable cost",
+    "Marginal cost",
+    "Average fixed cost"
+   ],
+   "answer": "1",
+   "solution": "If price cannot cover AVC, producing adds to losses beyond the unavoidable fixed cost, so shutting down is better."
+  },
+  {
+   "q": "A monopolist's marginal revenue curve lies:",
+   "options": [
+    "Above the AR curve",
+    "Below the AR curve",
+    "On the AR curve",
+    "Horizontal"
+   ],
+   "answer": "1",
+   "solution": "Because price must be lowered to sell extra units, MR falls faster than AR and lies below it."
+  },
+  {
+   "q": "Which is a source of monopoly power?",
+   "options": [
+    "Free entry",
+    "Ownership of a patent",
+    "Homogeneous products",
+    "Perfect knowledge"
+   ],
+   "answer": "1",
+   "solution": "A patent gives the holder the exclusive legal right to produce, blocking competitors."
+  },
+  {
+   "q": "Price discrimination is possible only when:",
+   "options": [
+    "Products are identical everywhere",
+    "Markets can be separated with different elasticities",
+    "Entry is free",
+    "Price equals marginal cost"
+   ],
+   "answer": "1",
+   "solution": "The seller must prevent resale between markets and face different demand elasticities to profit from charging different prices."
+  },
+  {
+   "q": "Product differentiation is the key feature of:",
+   "options": [
+    "Perfect competition",
+    "Monopoly",
+    "Monopolistic competition",
+    "Bilateral monopoly"
+   ],
+   "answer": "2",
+   "solution": "Monopolistic competition has many firms selling similar but differentiated products through branding and packaging."
+  },
+  {
+   "q": "The kinked demand curve is used to explain price rigidity under:",
+   "options": [
+    "Monopoly",
+    "Oligopoly",
+    "Perfect competition",
+    "Monopsony"
+   ],
+   "answer": "1",
+   "solution": "Under oligopoly rivals match price cuts but not price rises, producing a kink and hence stable prices."
+  },
+  {
+   "q": "An agreement among firms to fix output and price is a:",
+   "options": [
+    "Merger",
+    "Cartel",
+    "Trust fund",
+    "Cooperative"
+   ],
+   "answer": "1",
+   "solution": "A cartel is a formal collusive agreement, OPEC being the best-known example."
+  },
+  {
+   "q": "Excess capacity in monopolistic competition arises because at equilibrium:",
+   "options": [
+    "P = MC",
+    "P > MC",
+    "MC > AC",
+    "AR = MR"
+   ],
+   "answer": "1",
+   "solution": "Output stops short of the minimum-cost level since price exceeds marginal cost, leaving unused capacity."
+  },
+  {
+   "q": "Social cost is equal to:",
+   "options": [
+    "Private cost only",
+    "Private cost plus external cost",
+    "Fixed cost plus variable cost",
+    "Explicit cost minus implicit cost"
+   ],
+   "answer": "1",
+   "solution": "Social cost adds the external costs imposed on third parties, such as pollution, to the firm's private cost."
+  },
+  {
+   "q": "When MC is greater than AC, average cost is:",
+   "options": [
+    "Falling",
+    "Rising",
+    "At its minimum",
+    "Constant"
+   ],
+   "answer": "1",
+   "solution": "A marginal value above the average pulls the average upward."
+  },
+  {
+   "q": "Total revenue is calculated as:",
+   "options": [
+    "Price plus quantity",
+    "Price times quantity",
+    "Price divided by quantity",
+    "Quantity divided by price"
+   ],
+   "answer": "1",
+   "solution": "TR = P &times; Q."
+  }
+ ]
+}

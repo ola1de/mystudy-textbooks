@@ -1,0 +1,246 @@
+{
+ "subject": "Economics",
+ "level": "SSS 3",
+ "slug": "economic-planning",
+ "title": "Economic Planning",
+ "outline": [
+  "Economic growth versus economic development and their measurement",
+  "Characteristics and problems of developing economies",
+  "Meaning, types and objectives of economic planning",
+  "Planning experience in Nigeria and reasons for plan failure",
+  "Unemployment: types, causes, effects and remedies",
+  "Wages, labour markets and trade unions",
+  "Human capital development and manpower planning",
+  "Economic reforms, poverty reduction and sustainable development"
+ ],
+ "modules": [
+  {
+   "title": "Growth, Development and Planning",
+   "html": "\n<h4>1.1 Growth versus development</h4>\n<p><strong>Economic growth</strong> is a sustained increase in real national output or real income per head; it is quantitative and measured by the rate of growth of real GDP. <strong>Economic development</strong> is growth plus structural and institutional change that improves welfare: rising per-capita income, reduced poverty and inequality, better health and education, industrialisation and modern institutions. Growth without development is possible, as when oil revenue raises GDP while poverty, unemployment and inequality persist. Development is measured with the <strong>Human Development Index</strong> (income, life expectancy, education), poverty headcounts and the Gini coefficient.</p>\n<h4>1.2 Characteristics and problems of developing economies</h4>\n<ul>\n<li>Low per-capita income and widespread poverty; high dependence on primary production.</li>\n<li>Rapid population growth and a high dependency ratio.</li>\n<li>Low savings and investment; capital deficiency and a vicious circle of poverty.</li>\n<li>High unemployment and under-employment; low productivity and human capital.</li>\n<li>Dualistic economies: modern urban sector alongside traditional subsistence sector.</li>\n<li>Weak infrastructure, technological dependence, unfavourable terms of trade, heavy debt, and institutional weaknesses including corruption.</li>\n</ul>\n<h4>1.3 Meaning and types of planning</h4>\n<p><strong>Economic planning</strong> is the deliberate government effort to coordinate economic decisions over a period in order to achieve stated targets. Types: <em>comprehensive</em> versus <em>partial</em> planning; <em>indicative</em> (persuasive, as in a mixed economy) versus <em>imperative</em> (compulsory, as in a command economy); short-term (annual budget), medium-term (rolling plan, 3&ndash;5 years) and long-term (perspective plan of 15&ndash;20 years).</p>\n<p><em>Objectives:</em> raising national income and per-capita income, full employment, balanced regional and sectoral development, price stability, reduced inequality, diversification, self-reliance and efficient use of scarce resources.</p>\n<h4>1.4 Planning in Nigeria and reasons for failure</h4>\n<p>Nigeria has used the 1962&ndash;68, 1970&ndash;74, 1975&ndash;80 and 1981&ndash;85 development plans, rolling plans, Vision 2010/2020, NEEDS, the Transformation Agenda, ERGP and successive medium-term national development plans. Plans often failed because of unreliable data, over-ambitious targets, dependence on volatile oil revenue, political instability and policy discontinuity, corruption and leakages, shortage of skilled manpower, weak implementation and monitoring, and excessive dependence on foreign aid and imported inputs.</p>\n",
+   "examples": [
+    {
+     "q": "Distinguish between economic growth and economic development with a Nigerian example.",
+     "a": "Growth is a rise in real output, for example real GDP expanding by 3% because of higher crude oil production. Development requires that this be accompanied by falling poverty and unemployment, better schools, health care and infrastructure and a more diversified economy. Nigeria has often recorded oil-driven growth while human development indicators improved only slightly &mdash; growth without development."
+    },
+    {
+     "q": "State three reasons why development plans fail in developing countries.",
+     "a": "(i) Inadequate and unreliable statistical data leading to unrealistic targets. (ii) Insufficient and unstable finance, especially where revenue depends on volatile commodity prices. (iii) Weak implementation capacity, political instability and corruption, which divert plan resources."
+    }
+   ]
+  },
+  {
+   "title": "Unemployment, Wages and Human Capital",
+   "html": "\n<h4>2.1 Unemployment</h4>\n<p><strong>Unemployment</strong> exists when people who are willing and able to work at the prevailing wage cannot find jobs.</p>\n<p>$$ \\text{Unemployment rate} = \\frac{\\text{Number unemployed}}{\\text{Labour force}} \\times 100 $$</p>\n<table class=\"tb-table\">\n<tr><th>Type</th><th>Cause</th></tr>\n<tr><td>Frictional</td><td>Time spent moving between jobs</td></tr>\n<tr><td>Structural</td><td>Change in the structure of demand or technology; skills mismatch</td></tr>\n<tr><td>Cyclical (demand-deficient)</td><td>Recession and fall in aggregate demand</td></tr>\n<tr><td>Seasonal</td><td>Seasonal nature of farming, tourism, construction</td></tr>\n<tr><td>Technological</td><td>Replacement of labour by machines</td></tr>\n<tr><td>Residual</td><td>Disability, age or personal factors</td></tr>\n<tr><td>Disguised / under-employment</td><td>Working below capacity or in low-productivity jobs</td></tr>\n</table>\n<p><em>Effects:</em> loss of output, poverty, crime and insecurity, waste of human capital, emigration and social unrest, loss of tax revenue.<br/>\n<em>Remedies:</em> expansionary fiscal and monetary policy, promotion of small and medium enterprises, vocational and entrepreneurial education, agricultural modernisation, labour-intensive public works, employment information services, population control and improved security for investment.</p>\n<h4>2.2 Wages and the labour market</h4>\n<p><strong>Nominal wage</strong> is money earnings; <strong>real wage</strong> is its purchasing power:</p>\n<p>$$ \\text{Real wage} = \\frac{\\text{Nominal wage}}{\\text{Price index}} \\times 100 $$</p>\n<p>Wages differ because of skill and training, productivity, risk, elasticity of labour supply, trade union power, government legislation, immobility of labour and non-monetary advantages. Wage determination methods include collective bargaining, wage commissions, statutory minimum wages, productivity bargaining and arbitration.</p>\n<p><strong>Trade unions</strong> (craft, industrial, general, white-collar) seek higher wages, better conditions, job security and worker welfare. Weapons: negotiation, strike, work-to-rule, picketing, boycott; employers may use lock-out. Union strength depends on membership size, funds, leadership, level of employment and the elasticity of demand for the product.</p>\n<h4>2.3 Human capital and manpower planning</h4>\n<p><strong>Human capital</strong> is the stock of skills, knowledge and health embodied in people. Investment in education, training, health and nutrition raises productivity, incomes and adaptability. <strong>Manpower planning</strong> forecasts the numbers and skills required in each sector and matches training programmes to them, reducing both graduate unemployment and skill shortages. Constraints include the brain drain, poor funding of education, mismatch between curricula and industry needs, and weak labour market data.</p>\n<h4>2.4 Reforms, poverty reduction and sustainability</h4>\n<p>Reform measures used in Nigeria include the Structural Adjustment Programme, deregulation, privatisation, banking consolidation, pension and tax reforms, subsidy reform and social investment programmes. <strong>Sustainable development</strong> meets present needs without compromising the ability of future generations to meet theirs, requiring environmental protection, diversification away from depletable oil, and investment in renewable resources and human capital.</p>\n",
+   "examples": [
+    {
+     "q": "A country has a labour force of 60 million with 9 million unemployed. Compute the unemployment rate.",
+     "a": "Unemployment rate = (9/60) &times; 100 = 15%."
+    },
+    {
+     "q": "Nominal wage rises from &#8358;60,000 to &#8358;75,000 while the price index rises from 100 to 150. What happens to the real wage?",
+     "a": "Real wage before = 60,000; after = (75,000/150) &times; 100 = &#8358;50,000. Although money wages rose by 25%, prices rose by 50%, so the real wage fell from &#8358;60,000 to &#8358;50,000 &mdash; the worker is worse off."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Economic growth is best measured by the rate of increase in:",
+   "options": [
+    "Nominal money supply",
+    "Real gross domestic product",
+    "Government spending",
+    "Population"
+   ],
+   "answer": "1",
+   "solution": "Growth refers to a sustained rise in real output, usually real GDP or real GDP per head."
+  },
+  {
+   "q": "Economic development differs from economic growth because development includes:",
+   "options": [
+    "Only higher output",
+    "Structural change and improved welfare",
+    "Only higher prices",
+    "Only larger population"
+   ],
+   "answer": "1",
+   "solution": "Development combines rising output with poverty reduction, better health, education and institutional change."
+  },
+  {
+   "q": "The Human Development Index combines income with:",
+   "options": [
+    "Exports and imports",
+    "Life expectancy and education",
+    "Tax rates and subsidies",
+    "Interest and inflation"
+   ],
+   "answer": "1",
+   "solution": "HDI averages indicators of income, longevity and schooling to measure development."
+  },
+  {
+   "q": "A common characteristic of developing economies is:",
+   "options": [
+    "High per-capita income",
+    "Dependence on primary production",
+    "Very low population growth",
+    "Surplus capital"
+   ],
+   "answer": "1",
+   "solution": "Their economies rely heavily on agriculture and mineral exports with low value added."
+  },
+  {
+   "q": "The vicious circle of poverty refers to:",
+   "options": [
+    "High savings causing inflation",
+    "Low income leading to low saving, low investment and low income",
+    "High investment lowering output",
+    "Rapid industrial growth"
+   ],
+   "answer": "1",
+   "solution": "Poverty limits saving and therefore investment, which keeps productivity and income low."
+  },
+  {
+   "q": "Indicative planning is typical of a:",
+   "options": [
+    "Command economy",
+    "Mixed economy",
+    "Barter economy",
+    "Subsistence economy"
+   ],
+   "answer": "1",
+   "solution": "In mixed economies plans set targets and incentives without compelling private firms to comply."
+  },
+  {
+   "q": "A rolling plan is a form of:",
+   "options": [
+    "Long-term perspective plan",
+    "Medium-term plan revised annually",
+    "Annual budget only",
+    "Imperative plan"
+   ],
+   "answer": "1",
+   "solution": "A rolling plan is a medium-term plan whose targets are updated each year in the light of performance."
+  },
+  {
+   "q": "Which is a major reason for the failure of development plans in Nigeria?",
+   "options": [
+    "Excess of reliable data",
+    "Unreliable data and unstable revenue",
+    "Too few objectives",
+    "Excessive foreign reserves"
+   ],
+   "answer": "1",
+   "solution": "Poor statistics, oil-dependent finance, policy discontinuity and corruption have repeatedly undermined plans."
+  },
+  {
+   "q": "Unemployment caused by a fall in aggregate demand during a recession is:",
+   "options": [
+    "Frictional",
+    "Cyclical",
+    "Seasonal",
+    "Residual"
+   ],
+   "answer": "1",
+   "solution": "Cyclical or demand-deficient unemployment moves with the trade cycle."
+  },
+  {
+   "q": "Unemployment resulting from a mismatch between workers' skills and available jobs is:",
+   "options": [
+    "Frictional",
+    "Structural",
+    "Seasonal",
+    "Cyclical"
+   ],
+   "answer": "1",
+   "solution": "Structural unemployment follows changes in technology or the pattern of demand."
+  },
+  {
+   "q": "If 6 million out of a labour force of 40 million are unemployed, the unemployment rate is:",
+   "options": [
+    "10%",
+    "12%",
+    "15%",
+    "20%"
+   ],
+   "answer": "2",
+   "solution": "(6/40) &times; 100 = 15%."
+  },
+  {
+   "q": "Unemployment among farm workers during the dry season is:",
+   "options": [
+    "Structural",
+    "Seasonal",
+    "Cyclical",
+    "Technological"
+   ],
+   "answer": "1",
+   "solution": "It arises from the seasonal pattern of agricultural activity."
+  },
+  {
+   "q": "Real wage is nominal wage adjusted for:",
+   "options": [
+    "Taxes only",
+    "Changes in the price level",
+    "Union dues",
+    "Overtime"
+   ],
+   "answer": "1",
+   "solution": "Real wage measures purchasing power, so money wages are deflated by a price index."
+  },
+  {
+   "q": "If nominal wage rises by 20% while prices rise by 30%, the real wage:",
+   "options": [
+    "Rises",
+    "Falls",
+    "Stays the same",
+    "Doubles"
+   ],
+   "answer": "1",
+   "solution": "Prices rise faster than money wages, so purchasing power declines."
+  },
+  {
+   "q": "A trade union is strongest in wage bargaining when:",
+   "options": [
+    "Unemployment is high",
+    "Demand for the firm's product is inelastic and membership is large",
+    "Its funds are small",
+    "Members are unskilled and easily replaced"
+   ],
+   "answer": "1",
+   "solution": "Employers can pass higher wage costs on in prices, and a large, united membership makes strike threats credible."
+  },
+  {
+   "q": "An employers' response of closing the workplace during a dispute is a:",
+   "options": [
+    "Strike",
+    "Lock-out",
+    "Picketing",
+    "Boycott"
+   ],
+   "answer": "1",
+   "solution": "A lock-out is the employer's counterpart of the strike."
+  },
+  {
+   "q": "Investment in education and health is described as investment in:",
+   "options": [
+    "Fixed capital",
+    "Human capital",
+    "Social overhead only",
+    "Working capital"
+   ],
+   "answer": "1",
+   "solution": "It raises the productive capacity embodied in people, that is human capital."
+  },
+  {
+   "q": "Sustainable development means meeting present needs:",
+   "options": [
+    "At any environmental cost",
+    "Without compromising the ability of future generations to meet theirs",
+    "By exhausting oil reserves quickly",
+    "Through import dependence"
+   ],
+   "answer": "1",
+   "solution": "It requires balancing economic, social and environmental objectives over the long term."
+  }
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "subject": "Economics",
+ "level": "SSS 2",
+ "slug": "sectoral-studies",
+ "title": "Sectoral Studies",
+ "outline": [
+  "Distributive trade: channels of distribution, wholesaling and retailing",
+  "Problems of distribution in Nigeria and possible solutions",
+  "Agriculture: systems, importance, problems and marketing boards",
+  "Agricultural policies and programmes in Nigeria",
+  "Industrialisation: types of industry, importance and strategies",
+  "Location and localisation of industry; small-scale enterprises",
+  "Petroleum and solid mineral industries in Nigeria",
+  "Public enterprises, privatisation and commercialisation"
+ ],
+ "modules": [
+  {
+   "title": "Distributive Trade and Agriculture",
+   "html": "\n<h4>1.1 Channels of distribution</h4>\n<p>Distribution moves goods from producers to consumers. The usual chain is</p>\n<p><em>Producer &rarr; Wholesaler &rarr; Retailer &rarr; Consumer</em></p>\n<p>Alternatives include producer &rarr; consumer (direct selling, e-commerce), producer &rarr; retailer &rarr; consumer (supermarket chains), and producer &rarr; agent/broker &rarr; wholesaler for exports.</p>\n<p><strong>Functions of the wholesaler:</strong> buys in bulk and breaks bulk, warehousing, transport, grants credit to retailers, bears risk, advises producers on consumer taste, provides variety.<br/>\n<strong>Functions of the retailer:</strong> sells in small quantities, holds convenient stock near consumers, offers credit and after-sales service, advises consumers, delivers, informs the wholesaler of taste changes.</p>\n<h4>1.2 Elimination of the middleman</h4>\n<p>Middlemen may be bypassed through cooperatives, mail order, producer-owned outlets and online platforms. Where this is impossible, their functions of storage, finance and risk-bearing must still be performed by someone.</p>\n<h4>1.3 Problems of distribution in Nigeria and solutions</h4>\n<table class=\"tb-table\">\n<tr><th>Problem</th><th>Solution</th></tr>\n<tr><td>Poor roads and transport</td><td>Investment in roads, rail and inland waterways</td></tr>\n<tr><td>Inadequate storage, high spoilage</td><td>Silos, cold chains, rural warehouses</td></tr>\n<tr><td>Hoarding and profiteering</td><td>Price monitoring, consumer protection councils</td></tr>\n<tr><td>Insufficient capital of traders</td><td>Micro-credit, cooperative societies</td></tr>\n<tr><td>Insecurity and multiple levies</td><td>Security along routes, harmonised taxes</td></tr>\n</table>\n<h4>1.4 Agriculture</h4>\n<p><em>Systems:</em> subsistence farming, shifting cultivation, bush fallowing, mixed farming, mixed cropping, crop rotation, plantation agriculture, pastoral farming, taungya system.</p>\n<p><em>Importance:</em> food supply, employment (still the largest employer in Nigeria), raw materials for industry, foreign exchange from cash crops, market for industrial goods, source of savings and government revenue, rural development.</p>\n<p><em>Problems:</em> land tenure fragmentation, use of crude implements, low capital and poor credit, illiteracy of farmers, pests and diseases, unreliable rainfall, poor storage and transport, price instability, rural&ndash;urban migration, inadequate extension services.</p>\n<p><em>Marketing boards</em> once bought, graded and exported cash crops, stabilised producer prices and provided extension services, but were criticised for low producer prices, heavy surpluses used as hidden taxation and bureaucratic inefficiency. Later policies include the River Basin Development Authorities, Operation Feed the Nation, the Green Revolution, ADPs, the Agricultural Credit Guarantee Scheme Fund, the Anchor Borrowers' Programme and NIRSAL.</p>\n",
+   "examples": [
+    {
+     "q": "Give three functions of a wholesaler that a large supermarket may perform for itself.",
+     "a": "(i) Bulk buying directly from manufacturers, obtaining discounts. (ii) Warehousing and stock control in its own distribution centre. (iii) Bearing the risk of price change and spoilage. Because it performs these functions, the supermarket can bypass the wholesaler and sell at lower prices."
+    },
+    {
+     "q": "State two reasons why agricultural prices in Nigeria are unstable.",
+     "a": "(i) Supply depends on weather and is price-inelastic, so a good or bad harvest causes large price swings. (ii) Demand for foodstuffs is inelastic, so small changes in quantity produce large changes in price. Poor storage worsens both effects."
+    }
+   ]
+  },
+  {
+   "title": "Industrialisation, Mining and Public Enterprises",
+   "html": "\n<h4>2.1 Types of industry</h4>\n<ol>\n<li><strong>Extractive</strong> &mdash; mining, quarrying, fishing, lumbering.</li>\n<li><strong>Manufacturing</strong> &mdash; converting raw materials into semi-finished or finished goods.</li>\n<li><strong>Construction</strong> &mdash; roads, buildings, bridges.</li>\n<li><strong>Service</strong> &mdash; commercial and direct services.</li>\n</ol>\n<p><strong>Industrialisation</strong> is the process of building up manufacturing capacity so that it takes a growing share of national output and employment.</p>\n<h4>2.2 Importance and strategies</h4>\n<p><em>Importance:</em> employment creation, higher national income, diversification away from primary exports, technological progress, foreign exchange saving and earning, growth of infrastructure and towns, greater value added.</p>\n<p><em>Strategies:</em> <strong>import substitution</strong> (produce locally what was imported, protected by tariffs), <strong>export promotion</strong> (produce for the world market to earn foreign exchange), <strong>local resource-based</strong> industrialisation, <strong>heavy (basic) industry</strong> strategy such as the Ajaokuta steel project, and small-scale/cottage industry promotion.</p>\n<h4>2.3 Location and small-scale industry</h4>\n<p>Location depends on raw materials, market, power, water, transport, labour, land and government incentives. <strong>Small and medium enterprises</strong> matter because they are labour-intensive, need little capital, use local materials, are widely dispersed and feed larger firms; their problems are finance, management skill, infrastructure and competition from imports. Support institutions include the Bank of Industry, SMEDAN and NIRSAL.</p>\n<h4>2.4 Petroleum and solid minerals</h4>\n<p><em>Stages of the oil industry:</em> exploration, drilling, extraction, refining, distribution and marketing. Petroleum contributes the bulk of Nigeria's foreign exchange and government revenue but only a small share of employment. <em>Problems:</em> over-dependence and price volatility, gas flaring and oil spillage, pipeline vandalism, refinery under-capacity, revenue-sharing conflicts, Dutch disease. Solid minerals include tin (Jos), columbite, limestone, coal (Enugu), gold, iron ore (Itakpe), lead and zinc; their exploitation is constrained by capital, technology, transport and illegal mining.</p>\n<h4>2.5 Public enterprises, privatisation and commercialisation</h4>\n<p><strong>Public enterprises</strong> are owned by government to supply essential services, control natural monopolies, promote balanced development and generate revenue. They often suffer political interference, over-staffing, corruption, poor maintenance and losses.</p>\n<p><strong>Privatisation</strong> transfers ownership to private hands (full or partial); <strong>commercialisation</strong> keeps state ownership but requires the enterprise to run on profitable business lines. Arguments for: efficiency, revenue, wider share ownership, reduced government burden. Against: job losses, higher tariffs, foreign domination, sale of strategic assets, concentration of ownership.</p>\n",
+   "examples": [
+    {
+     "q": "Distinguish between import substitution and export promotion industrialisation.",
+     "a": "Import substitution builds industries to produce, behind tariff protection, goods previously imported, saving foreign exchange but risking inefficiency and continued dependence on imported inputs. Export promotion orients industries towards world markets, earning foreign exchange and forcing efficiency through international competition, but it requires competitive costs and access to foreign markets."
+    },
+    {
+     "q": "Explain two reasons why petroleum contributes little to employment in Nigeria.",
+     "a": "(i) The industry is highly capital-intensive: production depends on expensive rigs and automated processes rather than on large numbers of workers. (ii) Much of the value chain, especially refining and equipment manufacture, takes place abroad, so the associated jobs are not created locally."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The usual channel of distribution is producer to:",
+   "options": [
+    "Consumer to retailer to wholesaler",
+    "Wholesaler to retailer to consumer",
+    "Retailer to wholesaler to consumer",
+    "Agent to producer to consumer"
+   ],
+   "answer": "1",
+   "solution": "Goods normally pass from producer through wholesaler and retailer to the final consumer."
+  },
+  {
+   "q": "Breaking bulk is chiefly the function of the:",
+   "options": [
+    "Producer",
+    "Wholesaler",
+    "Consumer",
+    "Insurance broker"
+   ],
+   "answer": "1",
+   "solution": "The wholesaler buys in large quantities and resells in smaller lots that retailers can afford."
+  },
+  {
+   "q": "Which is NOT a function of a retailer?",
+   "options": [
+    "Selling in small quantities",
+    "Granting credit to consumers",
+    "Producing the goods",
+    "Advising consumers"
+   ],
+   "answer": "2",
+   "solution": "Production is the manufacturer's role; the retailer only distributes."
+  },
+  {
+   "q": "A major cause of high food prices in Nigerian cities is:",
+   "options": [
+    "Excess storage capacity",
+    "Poor transport and storage facilities",
+    "Too many farmers",
+    "Falling population"
+   ],
+   "answer": "1",
+   "solution": "Bad roads and lack of storage cause spoilage and high transport costs, which are passed on in prices."
+  },
+  {
+   "q": "Bush fallowing involves:",
+   "options": [
+    "Continuous cropping of the same land",
+    "Leaving land uncultivated for a period to regain fertility",
+    "Keeping animals only",
+    "Growing one crop forever"
+   ],
+   "answer": "1",
+   "solution": "Land is rested so that natural vegetation restores soil nutrients before it is cropped again."
+  },
+  {
+   "q": "Growing two or more crops on the same piece of land at the same time is:",
+   "options": [
+    "Mixed farming",
+    "Mixed cropping",
+    "Crop rotation",
+    "Plantation farming"
+   ],
+   "answer": "1",
+   "solution": "Mixed cropping is simultaneous cultivation of several crops; mixed farming combines crops with livestock."
+  },
+  {
+   "q": "Marketing boards in Nigeria were mainly established to:",
+   "options": [
+    "Import machinery",
+    "Buy, grade and export cash crops and stabilise producer prices",
+    "Fix retail food prices",
+    "Build refineries"
+   ],
+   "answer": "1",
+   "solution": "They handled export produce, graded it and paid farmers stable prices, while also funding research and extension."
+  },
+  {
+   "q": "Which was a major criticism of the marketing boards?",
+   "options": [
+    "They paid farmers above world prices",
+    "They used trading surpluses as hidden taxation of farmers",
+    "They eliminated bureaucracy",
+    "They increased crop prices for farmers"
+   ],
+   "answer": "1",
+   "solution": "Producer prices were kept well below world prices and the surplus was appropriated by government."
+  },
+  {
+   "q": "A land tenure problem that hinders Nigerian agriculture is:",
+   "options": [
+    "Excessive mechanisation",
+    "Fragmentation of holdings",
+    "Abundant credit",
+    "Large-scale irrigation"
+   ],
+   "answer": "1",
+   "solution": "Small, scattered plots inherited under customary tenure make mechanisation and large-scale investment difficult."
+  },
+  {
+   "q": "Import substitution industrialisation aims to:",
+   "options": [
+    "Increase imports",
+    "Produce locally goods formerly imported",
+    "Export raw materials",
+    "Reduce local production"
+   ],
+   "answer": "1",
+   "solution": "It builds domestic industry behind protection to replace imported manufactures and save foreign exchange."
+  },
+  {
+   "q": "Extractive industries include:",
+   "options": [
+    "Banking",
+    "Mining and quarrying",
+    "Insurance",
+    "Teaching"
+   ],
+   "answer": "1",
+   "solution": "Extractive industries take resources directly from nature."
+  },
+  {
+   "q": "The Ajaokuta project is an example of a(n):",
+   "options": [
+    "Export promotion scheme",
+    "Heavy or basic industry strategy",
+    "Cottage industry",
+    "Marketing board"
+   ],
+   "answer": "1",
+   "solution": "Iron and steel is a basic industry expected to supply inputs to many other industries."
+  },
+  {
+   "q": "Small-scale industries are important in Nigeria mainly because they:",
+   "options": [
+    "Require heavy capital",
+    "Are labour-intensive and use local raw materials",
+    "Are all foreign-owned",
+    "Employ only graduates"
+   ],
+   "answer": "1",
+   "solution": "They create many jobs per naira invested, are widely dispersed and rely largely on local inputs."
+  },
+  {
+   "q": "Which is NOT a stage of the petroleum industry?",
+   "options": [
+    "Exploration",
+    "Drilling",
+    "Refining",
+    "Grading of cocoa"
+   ],
+   "answer": "3",
+   "solution": "Grading cocoa belongs to agricultural produce marketing, not the oil value chain."
+  },
+  {
+   "q": "Over-dependence on petroleum exposes Nigeria mainly to:",
+   "options": [
+    "Stable revenue",
+    "Volatility of world oil prices",
+    "Excess employment",
+    "Low inflation always"
+   ],
+   "answer": "1",
+   "solution": "Government revenue and foreign exchange swing sharply with the international price of crude oil."
+  },
+  {
+   "q": "Commercialisation of a public enterprise means:",
+   "options": [
+    "Selling it entirely to private investors",
+    "Requiring it to operate profitably while still state-owned",
+    "Closing it down",
+    "Handing it to a cooperative"
+   ],
+   "answer": "1",
+   "solution": "Ownership stays with government but the enterprise must run on commercial, self-financing principles."
+  },
+  {
+   "q": "A common argument against privatisation is that it may lead to:",
+   "options": [
+    "Greater efficiency",
+    "Retrenchment of workers and higher tariffs",
+    "Increased government revenue",
+    "Wider share ownership"
+   ],
+   "answer": "1",
+   "solution": "New private owners often cut staff and raise prices to profitable levels, which imposes social costs."
+  },
+  {
+   "q": "Solid minerals mined around Jos include:",
+   "options": [
+    "Crude oil",
+    "Tin and columbite",
+    "Cocoa",
+    "Rubber"
+   ],
+   "answer": "1",
+   "solution": "The Jos Plateau is historically associated with tin and columbite mining."
+  }
+ ]
+}

@@ -1,0 +1,234 @@
+{
+ "subject": "Economics",
+ "level": "SSS 1",
+ "slug": "production-business",
+ "title": "Production and Business",
+ "outline": [
+  "Meaning, types and importance of production",
+  "The four factors of production and their rewards",
+  "Characteristics of land, labour, capital and entrepreneurship",
+  "Division of labour and specialisation: advantages and limitations",
+  "Scale of production, economies and diseconomies of scale",
+  "Business units: sole proprietorship, partnership, companies, cooperatives, public corporations",
+  "Sources of business finance and location of industry"
+ ],
+ "modules": [
+  {
+   "title": "Production and the Factors of Production",
+   "html": "\n<h4>1.1 Meaning of production</h4>\n<p><strong>Production</strong> is any human activity that creates or adds utility (value) to goods and services in order to satisfy human wants. It is not complete until the commodity reaches the final consumer, so transport, storage, advertising and retailing are all productive.</p>\n<h4>1.2 Types of production</h4>\n<ol>\n<li><strong>Primary (extractive)</strong> &mdash; farming, mining, fishing, lumbering.</li>\n<li><strong>Secondary (manufacturing and construction)</strong> &mdash; converting raw materials into finished goods.</li>\n<li><strong>Tertiary (services)</strong> &mdash; direct services (teaching, medicine) and commercial services (trade, banking, insurance, transport).</li>\n</ol>\n<h4>1.3 The factors of production</h4>\n<table class=\"tb-table\">\n<tr><th>Factor</th><th>Meaning</th><th>Reward</th><th>Key features</th></tr>\n<tr><td>Land</td><td>All free gifts of nature: soil, minerals, water, forests</td><td>Rent</td><td>Fixed in supply, immobile geographically, subject to diminishing returns, no cost of production</td></tr>\n<tr><td>Labour</td><td>Human effort, mental or physical, directed at production</td><td>Wages/salaries</td><td>Cannot be separated from the worker, perishable, mobile but with resistance</td></tr>\n<tr><td>Capital</td><td>Man-made wealth used to produce further wealth</td><td>Interest</td><td>Derived from saving; depreciates; can be fixed, working or social capital</td></tr>\n<tr><td>Entrepreneur</td><td>Organiser who hires and combines other factors and bears risk</td><td>Profit</td><td>Residual, uncertain reward; may be negative (loss)</td></tr>\n</table>\n<h4>1.4 Efficiency and productivity</h4>\n<p><strong>Productivity</strong> is output per unit of input:</p>\n<p>$$ \\text{Labour productivity} = \\frac{\\text{Total output}}{\\text{Number of workers}} $$</p>\n<p>It is raised by education and training, better capital equipment, improved management, incentives and good health.</p>\n<h4>1.5 Law of variable proportions</h4>\n<p>When one factor is varied while others are fixed, total product first rises at an increasing rate (increasing returns), then at a decreasing rate (diminishing returns), and may eventually fall (negative returns). This is the basis of the short-run cost curves studied in SSS 2.</p>\n",
+   "examples": [
+    {
+     "q": "A farm employing 8 workers harvests 240 bags of maize; with 10 workers it harvests 280 bags. Compute average and marginal productivity.",
+     "a": "Average product with 8 workers = 240/8 = 30 bags; with 10 workers = 280/10 = 28 bags. Marginal product of the 2 extra workers = (280 &minus; 240)/2 = 20 bags each. Average product has fallen, so the farm has entered the stage of diminishing returns."
+    },
+    {
+     "q": "Why is land said to have no cost of production?",
+     "a": "Land is a free gift of nature; society did not incur any cost to create it. Costs such as clearing, draining or fencing are improvements to land, not the cost of producing land itself."
+    }
+   ]
+  },
+  {
+   "title": "Division of Labour, Scale of Production and Business Organisation",
+   "html": "\n<h4>2.1 Division of labour and specialisation</h4>\n<p><strong>Division of labour</strong> is the splitting of a production process into separate tasks, each performed by a different worker. <strong>Specialisation</strong> is the concentration of a worker, firm, region or country on the activity in which it is most efficient. Adam Smith illustrated it with the pin factory.</p>\n<p><strong>Advantages:</strong> higher output and productivity, saving of time, development of skill, use of machinery, lower unit cost, easier training.<br/>\n<strong>Disadvantages:</strong> monotony and boredom, loss of craftsmanship, risk of unemployment when one process is mechanised, interdependence (a strike in one section halts all), decline of pride in work.</p>\n<p><strong>Limitations:</strong> size of the market, nature of the product, level of technology, availability of capital and of skilled labour.</p>\n<h4>2.2 Scale of production</h4>\n<p>The scale of production is the size of a firm's productive capacity. Expanding it may bring <strong>economies of scale</strong> (falling average cost) or, beyond the optimum, <strong>diseconomies of scale</strong> (rising average cost).</p>\n<ul>\n<li><strong>Internal economies</strong> &mdash; technical, managerial, marketing, financial, risk-bearing and research economies enjoyed by the individual firm as it grows.</li>\n<li><strong>External economies</strong> &mdash; benefits from the growth of the whole industry: skilled labour pool, specialist suppliers, shared infrastructure, trade journals.</li>\n<li><strong>Internal diseconomies</strong> &mdash; managerial overload, poor communication, bureaucracy, low morale.</li>\n<li><strong>External diseconomies</strong> &mdash; congestion, rising rents and wages, pollution as an area becomes overcrowded.</li>\n</ul>\n<h4>2.3 Business units</h4>\n<table class=\"tb-table\">\n<tr><th>Type</th><th>Ownership</th><th>Liability</th><th>Capital sources</th></tr>\n<tr><td>Sole proprietorship</td><td>One owner</td><td>Unlimited</td><td>Personal savings, loans, trade credit</td></tr>\n<tr><td>Partnership</td><td>2&ndash;20 partners (deed of partnership)</td><td>Unlimited except limited partners</td><td>Partners' contributions, loans</td></tr>\n<tr><td>Private limited company (Ltd)</td><td>2&ndash;50 shareholders</td><td>Limited</td><td>Private share issue, loans, debentures</td></tr>\n<tr><td>Public limited company (PLC)</td><td>7 to no maximum</td><td>Limited</td><td>Public share issue, debentures, retained profit</td></tr>\n<tr><td>Cooperative society</td><td>Members, one member one vote</td><td>Limited</td><td>Members' shares, dues, loans</td></tr>\n<tr><td>Public corporation</td><td>Government</td><td>State-backed</td><td>Government subvention, loans, revenue</td></tr>\n</table>\n<p>Companies are separate legal persons with perpetual succession, formed by filing a memorandum and articles of association; a PLC must issue a prospectus before selling shares to the public.</p>\n<h4>2.4 Location and localisation of industry</h4>\n<p>Factors determining location: nearness to raw materials, to markets, to power and water, transport, labour supply, land availability, government policy and historical accident. <strong>Localisation</strong> is the concentration of an industry in one area; <strong>delocalisation</strong> is the deliberate dispersal of industries to reduce congestion and spread development.</p>\n",
+   "examples": [
+    {
+     "q": "State two reasons why a sole proprietorship may fail to grow large.",
+     "a": "(i) Limited capital &mdash; finance is restricted to the owner's savings and small loans, since shares cannot be sold to the public. (ii) Unlimited liability and limited managerial capacity &mdash; the owner bears all risk personally and cannot supervise a very large organisation, which discourages expansion."
+    },
+    {
+     "q": "Distinguish between internal and external economies of scale.",
+     "a": "Internal economies arise from the growth of the individual firm itself (e.g. bulk buying, specialist managers, cheaper loans) and are within its control. External economies arise from the growth of the entire industry or locality (e.g. availability of trained labour, specialist ancillary firms, better roads) and benefit all firms in the industry regardless of their own size."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Production is said to be complete when:",
+   "options": [
+    "Raw materials are extracted",
+    "Goods are manufactured",
+    "Goods and services reach the final consumer",
+    "Goods are stored in a warehouse"
+   ],
+   "answer": "2",
+   "solution": "Utility is only fully created when the commodity is in the hands of the final consumer, so distribution and retailing are part of production."
+  },
+  {
+   "q": "The reward for entrepreneurship is:",
+   "options": [
+    "Rent",
+    "Interest",
+    "Profit",
+    "Wages"
+   ],
+   "answer": "2",
+   "solution": "The entrepreneur organises production and bears risk; the residual reward is profit, which may also be a loss."
+  },
+  {
+   "q": "Which factor of production is fixed in supply and geographically immobile?",
+   "options": [
+    "Labour",
+    "Land",
+    "Capital",
+    "Enterprise"
+   ],
+   "answer": "1",
+   "solution": "Land is a gift of nature, its total quantity cannot be increased and it cannot be moved from one place to another."
+  },
+  {
+   "q": "Mining and fishing belong to which type of production?",
+   "options": [
+    "Primary",
+    "Secondary",
+    "Tertiary",
+    "Quaternary"
+   ],
+   "answer": "0",
+   "solution": "Primary or extractive production takes resources directly from nature."
+  },
+  {
+   "q": "A major disadvantage of division of labour is:",
+   "options": [
+    "Higher productivity",
+    "Monotony and boredom",
+    "Increased use of machinery",
+    "Time saving"
+   ],
+   "answer": "1",
+   "solution": "Repeating one narrow task makes work monotonous and can reduce job satisfaction and craftsmanship."
+  },
+  {
+   "q": "Division of labour is chiefly limited by:",
+   "options": [
+    "The number of banks",
+    "The size of the market",
+    "The colour of the product",
+    "The age of the entrepreneur"
+   ],
+   "answer": "1",
+   "solution": "Splitting work into many tasks is only profitable if output can be sold in large quantities, so market size is the main limit."
+  },
+  {
+   "q": "Labour productivity is measured as:",
+   "options": [
+    "Total cost divided by output",
+    "Output divided by number of workers",
+    "Wages divided by profit",
+    "Capital divided by labour"
+   ],
+   "answer": "1",
+   "solution": "Labour productivity is output per worker, that is total output divided by the number of workers employed."
+  },
+  {
+   "q": "Capital differs from land because capital is:",
+   "options": [
+    "A free gift of nature",
+    "Man-made",
+    "Immobile",
+    "Rewarded with rent"
+   ],
+   "answer": "1",
+   "solution": "Capital is man-made wealth used to produce further wealth and is created out of saving."
+  },
+  {
+   "q": "In a private limited company, the maximum number of shareholders is:",
+   "options": [
+    "20",
+    "50",
+    "7",
+    "Unlimited"
+   ],
+   "answer": "1",
+   "solution": "A private limited company may have between 2 and 50 members and cannot invite the general public to buy its shares."
+  },
+  {
+   "q": "Which business unit has unlimited liability?",
+   "options": [
+    "Public limited company",
+    "Sole proprietorship",
+    "Cooperative society",
+    "Private limited company"
+   ],
+   "answer": "1",
+   "solution": "A sole proprietor is not a separate legal person, so personal assets can be seized to settle business debts."
+  },
+  {
+   "q": "A document inviting the public to buy shares in a company is a:",
+   "options": [
+    "Memorandum of association",
+    "Prospectus",
+    "Debenture",
+    "Deed of partnership"
+   ],
+   "answer": "1",
+   "solution": "A prospectus is the statutory invitation to the public to subscribe for shares or debentures."
+  },
+  {
+   "q": "Perpetual succession means that a company:",
+   "options": [
+    "Pays dividends forever",
+    "Continues to exist despite the death of members",
+    "Never makes losses",
+    "Has unlimited liability"
+   ],
+   "answer": "1",
+   "solution": "As a separate legal person, the company's life is independent of the lives of its shareholders."
+  },
+  {
+   "q": "Diseconomies of scale cause average cost to:",
+   "options": [
+    "Fall",
+    "Rise",
+    "Remain constant",
+    "Become zero"
+   ],
+   "answer": "1",
+   "solution": "Beyond the optimum size, managerial and communication problems push average cost upward."
+  },
+  {
+   "q": "The concentration of an industry in a particular area is called:",
+   "options": [
+    "Delocalisation",
+    "Localisation",
+    "Nationalisation",
+    "Integration"
+   ],
+   "answer": "1",
+   "solution": "Localisation is the geographical concentration of an industry, often because of raw materials, power or historic advantage."
+  },
+  {
+   "q": "Which of these is an internal economy of scale?",
+   "options": [
+    "Availability of skilled labour in the area",
+    "Bulk buying discounts to a large firm",
+    "Improved roads built by government",
+    "Growth of specialist suppliers in the industry"
+   ],
+   "answer": "1",
+   "solution": "Bulk buying discounts arise from the firm's own expansion, hence internal; the others come from growth of the industry or locality."
+  },
+  {
+   "q": "In a cooperative society, voting is based on:",
+   "options": [
+    "Number of shares held",
+    "One member one vote",
+    "Amount of capital contributed",
+    "Length of membership"
+   ],
+   "answer": "1",
+   "solution": "Cooperatives are democratic bodies: each member has a single vote irrespective of shareholding."
+  },
+  {
+   "q": "The law of variable proportions applies when:",
+   "options": [
+    "All factors are varied equally",
+    "One factor is varied while others are fixed",
+    "No factor is varied",
+    "Only capital is fixed forever"
+   ],
+   "answer": "1",
+   "solution": "It describes short-run behaviour of output when a variable factor is added to fixed factors, producing increasing then diminishing returns."
+  }
+ ]
+}

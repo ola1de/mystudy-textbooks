@@ -1,0 +1,235 @@
+{
+ "subject": "Economics",
+ "level": "SSS 1",
+ "slug": "systems-population",
+ "title": "Economic Systems and Population",
+ "outline": [
+  "Meaning of an economic system and the problem of resource allocation",
+  "Capitalism, socialism and the mixed economy: features, merits and demerits",
+  "The price mechanism and the role of government in a mixed economy",
+  "Meaning of population, census and its uses",
+  "Population theories: Malthus and the optimum population theory",
+  "Population structure: age, sex, occupational and geographical distribution",
+  "Demographic transition, population growth rates and the dependency ratio",
+  "Effects of over-population and under-population; migration and urbanisation"
+ ],
+ "modules": [
+  {
+   "title": "Economic Systems",
+   "html": "\n<h4>1.1 Meaning</h4>\n<p>An <strong>economic system</strong> is the organised way in which a society answers the basic economic questions of what, how and for whom to produce, and how to provide for growth.</p>\n<h4>1.2 Capitalism (free enterprise / market economy)</h4>\n<p><em>Features:</em> private ownership of the means of production, freedom of enterprise and choice, profit motive, price mechanism as the allocator, competition, limited government role, consumer sovereignty.</p>\n<p><em>Merits:</em> efficiency and innovation, wide consumer choice, incentive to work and invest, automatic allocation without bureaucracy.<br/>\n<em>Demerits:</em> wide inequality of income, unemployment and trade cycles, neglect of public and merit goods, monopoly abuse, negative externalities such as pollution, wasteful advertising.</p>\n<h4>1.3 Socialism (planned / command economy)</h4>\n<p><em>Features:</em> public (state) ownership of major resources, central planning, production for social welfare rather than profit, prices largely fixed by the state, limited private enterprise.</p>\n<p><em>Merits:</em> reduced inequality, stability and full employment, provision of essential social services, no wasteful duplication.<br/>\n<em>Demerits:</em> loss of individual freedom and choice, weak incentives, bureaucratic delay, planning errors and shortages, inefficiency of state monopolies.</p>\n<h4>1.4 Mixed economy</h4>\n<p>A mixed economy, such as Nigeria's, combines private enterprise with substantial state participation. The public sector supplies public goods, regulates monopolies and corrects externalities; the private sector drives production and innovation. Instruments include taxation, subsidies, regulation, public corporations, privatisation and commercialisation.</p>\n<h4>1.5 The price mechanism</h4>\n<p>Prices perform three functions: <strong>signalling</strong> changes in scarcity, <strong>rationing</strong> scarce supplies among competing buyers, and providing an <strong>incentive</strong> for producers to reallocate resources. Market failure occurs when the mechanism fails &mdash; externalities, public goods, monopoly, imperfect information &mdash; justifying government intervention.</p>\n",
+   "examples": [
+    {
+     "q": "Give two reasons why a purely capitalist system may fail to supply street lighting.",
+     "a": "(i) Street lighting is non-excludable: once provided, non-payers (free riders) also benefit, so no private firm can collect enough revenue. (ii) It is non-rival: one person's use does not reduce another's, so charging a market price is impractical. Such public goods must therefore be financed from taxation."
+    },
+    {
+     "q": "Why is Nigeria described as a mixed economy?",
+     "a": "Because both private and public sectors are important: individuals and companies own farms, factories, banks and shops, while government owns or regulates key utilities, refineries, education, health and infrastructure, and uses taxes, subsidies and regulation to influence resource allocation."
+    }
+   ]
+  },
+  {
+   "title": "Population and Demographic Analysis",
+   "html": "\n<h4>2.1 Population and census</h4>\n<p><strong>Population</strong> is the total number of people living in a defined area at a particular time. A <strong>census</strong> is the official enumeration of a population and its characteristics. Uses: planning of schools, hospitals and infrastructure; revenue allocation; manpower planning; delineation of constituencies; research. Problems in developing economies: illiteracy, poor transport, inadequate funding, political manipulation, fear of taxation, cultural and religious objections.</p>\n<h4>2.2 Measures of population change</h4>\n<p>$$ \\text{Natural increase} = \\text{Birth rate} - \\text{Death rate} $$</p>\n<p>$$ \\text{Population growth rate} = \\frac{(B - D) + (I - E)}{\\text{Total population}} \\times 100 $$</p>\n<p>where \\(B\\) = births, \\(D\\) = deaths, \\(I\\) = immigration, \\(E\\) = emigration.</p>\n<p>$$ \\text{Dependency ratio} = \\frac{\\text{Population aged } 0\\text{--}14 + \\text{aged } 65+}{\\text{Population aged } 15\\text{--}64} \\times 100 $$</p>\n<h4>2.3 Malthusian theory</h4>\n<p>Thomas Malthus (1798) argued that population grows in a <em>geometric</em> progression (1, 2, 4, 8, 16&hellip;) while food supply grows only in an <em>arithmetic</em> progression (1, 2, 3, 4&hellip;). Population would therefore outstrip food, and be checked by <em>positive checks</em> (famine, disease, war) or <em>preventive checks</em> (late marriage, moral restraint).</p>\n<p><em>Criticisms:</em> he ignored technological progress and the green revolution, international trade, family planning and contraception, the fall in birth rates as incomes rise, and the possibility of expanding cultivated land.</p>\n<h4>2.4 Optimum, over- and under-population</h4>\n<p><strong>Optimum population</strong> is the size of population which, combined with available resources and technology, yields the highest output per head. <strong>Over-population</strong> exists when population exceeds this level, so output per head falls; <strong>under-population</strong> when population is too small to exploit resources fully. These are relative to resources, not absolute numbers.</p>\n<p><em>Effects of over-population:</em> unemployment and under-employment, pressure on social amenities, low savings, food shortage, congestion, slums, environmental degradation, high dependency ratio.<br/>\n<em>Effects of under-population:</em> under-utilised resources, small market limiting division of labour, high per-capita cost of infrastructure, weak defence.</p>\n<h4>2.5 Population structure and the demographic transition</h4>\n<p>Structure refers to composition by <strong>age</strong> (population pyramid), <strong>sex</strong> (sex ratio), <strong>occupation</strong> (primary, secondary, tertiary), and <strong>geography</strong> (urban/rural). Developing countries typically have a broad-based pyramid: high birth rates, a young population and a high dependency ratio.</p>\n<table class=\"tb-table\">\n<tr><th>Stage</th><th>Birth rate</th><th>Death rate</th><th>Population</th></tr>\n<tr><td>1. High stationary</td><td>High</td><td>High</td><td>Almost stable</td></tr>\n<tr><td>2. Early expanding</td><td>High</td><td>Falling</td><td>Rapid growth</td></tr>\n<tr><td>3. Late expanding</td><td>Falling</td><td>Low</td><td>Growth slowing</td></tr>\n<tr><td>4. Low stationary</td><td>Low</td><td>Low</td><td>Stable, ageing</td></tr>\n</table>\n<h4>2.6 Migration and urbanisation</h4>\n<p>Migration may be internal (rural&ndash;urban) or international. Push factors: unemployment, poor amenities, insecurity, land shortage. Pull factors: jobs, higher wages, education, urban attractions. Consequences: urban congestion, pressure on housing, rural labour shortage, brain drain, but also remittances and skill transfer.</p>\n",
+   "examples": [
+    {
+     "q": "A country has 8 million people aged 0&ndash;14, 2 million aged 65 and above, and 20 million aged 15&ndash;64. Compute the dependency ratio.",
+     "a": "Dependants = 8m + 2m = 10m; working population = 20m. Dependency ratio = (10/20) &times; 100 = 50%. Every 100 workers support 50 dependants."
+    },
+    {
+     "q": "A population of 40 million records 1,200,000 births, 600,000 deaths, 100,000 immigrants and 300,000 emigrants in a year. Find the growth rate.",
+     "a": "Natural increase = 1,200,000 &minus; 600,000 = 600,000. Net migration = 100,000 &minus; 300,000 = &minus;200,000. Net change = 400,000. Growth rate = (400,000 / 40,000,000) &times; 100 = 1%."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "In a capitalist economy, resources are allocated mainly by:",
+   "options": [
+    "Central planners",
+    "The price mechanism",
+    "Traditional custom",
+    "Military decree"
+   ],
+   "answer": "1",
+   "solution": "Under capitalism the interaction of demand and supply, through prices, signals and rations resources."
+  },
+  {
+   "q": "A major criticism of capitalism is that it:",
+   "options": [
+    "Prevents innovation",
+    "Creates wide income inequality",
+    "Eliminates consumer choice",
+    "Guarantees full employment"
+   ],
+   "answer": "1",
+   "solution": "Rewards flow to owners of capital and scarce skills, producing wide disparities of income and wealth."
+  },
+  {
+   "q": "Which is a feature of a socialist economy?",
+   "options": [
+    "Profit motive",
+    "Public ownership of the means of production",
+    "Consumer sovereignty",
+    "Free entry of firms"
+   ],
+   "answer": "1",
+   "solution": "Socialism rests on state ownership and central planning aimed at social welfare rather than private profit."
+  },
+  {
+   "q": "Nigeria is best described as a:",
+   "options": [
+    "Pure capitalist economy",
+    "Pure socialist economy",
+    "Mixed economy",
+    "Subsistence economy"
+   ],
+   "answer": "2",
+   "solution": "Both private enterprise and substantial government participation and regulation exist side by side."
+  },
+  {
+   "q": "Goods that are non-rival and non-excludable are called:",
+   "options": [
+    "Inferior goods",
+    "Public goods",
+    "Giffen goods",
+    "Free goods"
+   ],
+   "answer": "1",
+   "solution": "Public goods such as defence and street lighting cannot be withheld from non-payers and are usually state-provided."
+  },
+  {
+   "q": "A census is best defined as the:",
+   "options": [
+    "Estimate of national income",
+    "Official counting of a population and its characteristics",
+    "Register of voters only",
+    "Survey of firms"
+   ],
+   "answer": "1",
+   "solution": "A census is the complete official enumeration of people together with data on age, sex, occupation and other traits."
+  },
+  {
+   "q": "Malthus argued that population grows in a:",
+   "options": [
+    "Arithmetic progression",
+    "Geometric progression",
+    "Constant series",
+    "Declining series"
+   ],
+   "answer": "1",
+   "solution": "He held that population doubles geometrically while food supply grows only arithmetically."
+  },
+  {
+   "q": "Which development most seriously weakened the Malthusian theory?",
+   "options": [
+    "Increase in wars",
+    "Technological progress in agriculture",
+    "Higher birth rates",
+    "Growth of cities"
+   ],
+   "answer": "1",
+   "solution": "Mechanisation, fertilisers and improved varieties expanded food output far beyond Malthus's arithmetic assumption."
+  },
+  {
+   "q": "Optimum population is the population that yields the:",
+   "options": [
+    "Largest total output",
+    "Highest output per head",
+    "Lowest birth rate",
+    "Highest birth rate"
+   ],
+   "answer": "1",
+   "solution": "Optimum population maximises output per head given the available resources and technology."
+  },
+  {
+   "q": "Over-population exists when population:",
+   "options": [
+    "Exceeds available resources so output per head falls",
+    "Is above one hundred million",
+    "Grows at 2% yearly",
+    "Is concentrated in cities"
+   ],
+   "answer": "0",
+   "solution": "Over-population is a relative concept: numbers exceed the level that maximises per-capita output."
+  },
+  {
+   "q": "If dependants number 12 million and the working population is 24 million, the dependency ratio is:",
+   "options": [
+    "25%",
+    "50%",
+    "100%",
+    "200%"
+   ],
+   "answer": "1",
+   "solution": "(12/24) &times; 100 = 50%."
+  },
+  {
+   "q": "Natural increase in population is:",
+   "options": [
+    "Births plus deaths",
+    "Births minus deaths",
+    "Immigration minus emigration",
+    "Births plus immigration"
+   ],
+   "answer": "1",
+   "solution": "Natural increase excludes migration and equals birth rate minus death rate."
+  },
+  {
+   "q": "In stage 2 of the demographic transition (early expanding), there is:",
+   "options": [
+    "High birth rate and falling death rate",
+    "Low birth and low death rate",
+    "High death and low birth rate",
+    "Zero growth"
+   ],
+   "answer": "0",
+   "solution": "Improved health cuts the death rate while births remain high, so population grows rapidly."
+  },
+  {
+   "q": "A broad-based population pyramid indicates:",
+   "options": [
+    "An ageing population",
+    "A large proportion of young people",
+    "Equal age groups",
+    "Net emigration"
+   ],
+   "answer": "1",
+   "solution": "A wide base reflects high birth rates and a youthful population typical of developing countries."
+  },
+  {
+   "q": "Rural&ndash;urban migration in Nigeria is mainly caused by:",
+   "options": [
+    "Better rural amenities",
+    "Search for jobs and higher incomes in towns",
+    "Fall in urban wages",
+    "Government ban on farming"
+   ],
+   "answer": "1",
+   "solution": "Employment prospects, higher wages, schools and urban services pull migrants to the cities."
+  },
+  {
+   "q": "Which is a consequence of under-population?",
+   "options": [
+    "Congestion in cities",
+    "Under-utilisation of natural resources",
+    "High dependency ratio",
+    "Slum development"
+   ],
+   "answer": "1",
+   "solution": "Too few people mean resources and infrastructure remain under-used and the market is too small for large-scale production."
+  },
+  {
+   "q": "Market failure justifies government intervention because the price mechanism may:",
+   "options": [
+    "Always allocate resources perfectly",
+    "Ignore externalities and public goods",
+    "Eliminate monopoly automatically",
+    "Guarantee equal incomes"
+   ],
+   "answer": "1",
+   "solution": "Externalities, public goods, monopoly and imperfect information prevent markets from achieving efficient and equitable outcomes."
+  }
+ ]
+}

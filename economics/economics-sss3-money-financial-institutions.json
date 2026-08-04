@@ -1,0 +1,246 @@
+{
+ "subject": "Economics",
+ "level": "SSS 3",
+ "slug": "money-financial-institutions",
+ "title": "Money and Financial Institutions",
+ "outline": [
+  "Barter system and its problems; evolution of money",
+  "Qualities and functions of money; types of money",
+  "The value of money, demand for money and the quantity theory",
+  "Commercial banks: functions and credit creation",
+  "The central bank: functions and instruments of monetary policy",
+  "Other financial institutions: development banks, mortgage banks, insurance, microfinance",
+  "The capital market: stock exchange, shares, debentures and SEC",
+  "Financial market problems in developing economies"
+ ],
+ "modules": [
+  {
+   "title": "Money: Evolution, Functions and Value",
+   "html": "\n<h4>1.1 Barter and its problems</h4>\n<p><strong>Barter</strong> is the direct exchange of goods for goods without money. Its difficulties are: absence of a double coincidence of wants, indivisibility of some commodities, lack of a common measure of value, difficulty of storing wealth, difficulty of deferred payment, and problems of transporting bulky goods.</p>\n<h4>1.2 Evolution and qualities of money</h4>\n<p>Money evolved from commodity money (cowries, salt, manilla) to metallic coins, paper notes, bank deposits and now electronic money. Desirable qualities: <strong>general acceptability, portability, durability, divisibility, homogeneity, relative scarcity, stability of value, difficulty of counterfeiting and recognisability</strong>.</p>\n<h4>1.3 Functions of money</h4>\n<ol>\n<li><strong>Medium of exchange</strong> &mdash; eliminates the need for a double coincidence of wants.</li>\n<li><strong>Unit of account / measure of value</strong> &mdash; prices are quoted in one standard.</li>\n<li><strong>Store of value</strong> &mdash; wealth can be held in liquid form.</li>\n<li><strong>Standard of deferred payment</strong> &mdash; makes credit and contracts possible.</li>\n<li><strong>Transfer of value</strong> &mdash; wealth can be moved from place to place.</li>\n</ol>\n<h4>1.4 Money supply and the demand for money</h4>\n<p>Narrow money \\(M_1\\) = currency in circulation + demand deposits; broad money \\(M_2\\) adds savings and time deposits. Keynes identified three motives for holding money (liquidity preference): the <strong>transactions</strong>, <strong>precautionary</strong> and <strong>speculative</strong> motives; the last is inversely related to the rate of interest.</p>\n<h4>1.5 Value of money and the quantity theory</h4>\n<p>The value of money is its purchasing power, which varies inversely with the general price level:</p>\n<p>$$ \\text{Value of money} = \\frac{1}{\\text{Price level}} $$</p>\n<p>Fisher's equation of exchange:</p>\n<p>$$ MV = PT \\;\\Rightarrow\\; P = \\frac{MV}{T} $$</p>\n<p>where \\(M\\) is money supply, \\(V\\) velocity of circulation, \\(P\\) the price level and \\(T\\) the volume of transactions. If \\(V\\) and \\(T\\) are constant, the price level varies directly with the money supply &mdash; the quantity theory of money.</p>\n",
+   "examples": [
+    {
+     "q": "Explain the 'double coincidence of wants' and how money solves it.",
+     "a": "Under barter, exchange occurs only if each party has exactly what the other wants and wants exactly what the other has &mdash; a double coincidence. Money breaks the exchange into two separate transactions: the seller accepts money as generally acceptable purchasing power and later spends it on whatever he wants, from anyone."
+    },
+    {
+     "q": "If the money supply doubles while V and T remain constant, what happens to the price level according to MV = PT?",
+     "a": "P = MV/T, so with V and T constant, doubling M doubles P. The general price level doubles and the value of money is halved."
+    }
+   ]
+  },
+  {
+   "title": "Banking and the Financial System",
+   "html": "\n<h4>2.1 Commercial banks</h4>\n<p><em>Functions:</em> accepting deposits (current, savings, fixed), lending through loans, overdrafts and discounting bills, agency services (standing orders, purchase of securities, executor), safe custody of valuables, foreign exchange and transfers, financial advice, and creation of credit.</p>\n<h4>2.2 Credit creation</h4>\n<p>Banks keep only a fraction of deposits as cash reserves and lend the rest; the loans return as new deposits, and the process repeats. The maximum expansion is given by</p>\n<p>$$ \\text{Total deposits} = \\frac{\\text{Initial deposit}}{r}, \\qquad \\text{Credit multiplier} = \\frac{1}{r} $$</p>\n<p>where \\(r\\) is the cash reserve ratio. Credit creation is limited by the reserve ratio, the amount of cash available, demand for loans, availability of collateral, central bank policy and the need for liquidity. Banks must balance the conflicting aims of <strong>liquidity</strong>, <strong>profitability</strong> and <strong>safety</strong>.</p>\n<h4>2.3 The central bank</h4>\n<p>Functions of the Central Bank of Nigeria: sole issue of currency, banker and adviser to government, banker to commercial banks, lender of last resort, custodian of foreign reserves, management of the national debt, supervision of banks and the financial system, promotion of monetary stability and control of the money supply.</p>\n<p><em>Instruments of monetary policy:</em></p>\n<table class=\"tb-table\">\n<tr><th>Instrument</th><th>How it works</th></tr>\n<tr><td>Open market operations</td><td>Selling securities mops up cash; buying injects cash</td></tr>\n<tr><td>Bank (policy) rate</td><td>Raising it raises all lending rates and discourages borrowing</td></tr>\n<tr><td>Cash reserve ratio / liquidity ratio</td><td>Raising the ratio reduces lendable funds</td></tr>\n<tr><td>Special deposits</td><td>Compulsory deposits with the central bank shrink reserves</td></tr>\n<tr><td>Selective credit control</td><td>Directs credit to priority sectors</td></tr>\n<tr><td>Moral suasion</td><td>Persuasion and appeal to banks to follow policy</td></tr>\n</table>\n<h4>2.4 Other financial institutions</h4>\n<p>Development banks (Bank of Industry, Bank of Agriculture) supply long-term project finance; mortgage banks finance housing; insurance companies pool risk and mobilise long-term funds; microfinance banks serve small savers and traders; pension funds and unit trusts channel savings into securities; the discount houses and the money market deal in short-term instruments such as treasury bills, certificates of deposit and commercial paper.</p>\n<h4>2.5 The capital market</h4>\n<p>The <strong>capital market</strong> trades long-term funds. Its primary market issues new securities; its secondary market, the <strong>Nigerian Exchange</strong>, trades existing ones. Instruments: ordinary shares (equity, variable dividend, voting rights), preference shares (fixed dividend, prior claim), debentures and bonds (loan capital with fixed interest). The <strong>Securities and Exchange Commission</strong> regulates the market and protects investors. Problems: shallow markets, few quoted companies, low savings, ignorance of investors, political and macroeconomic instability.</p>\n",
+   "examples": [
+    {
+     "q": "A bank receives a fresh deposit of &#8358;500,000 and the reserve ratio is 20%. Find the total deposits and total credit created.",
+     "a": "Credit multiplier = 1/0.2 = 5. Total deposits = &#8358;500,000 &times; 5 = &#8358;2,500,000. New credit created = &#8358;2,500,000 &minus; &#8358;500,000 = &#8358;2,000,000."
+    },
+    {
+     "q": "How does the sale of treasury bills by the central bank reduce inflation?",
+     "a": "Selling bills to banks and the public withdraws cash from the system in exchange for securities. Bank reserves fall, lending and credit creation shrink, aggregate demand falls, and the pressure on prices eases."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A major problem of the barter system is:",
+   "options": [
+    "Excess money supply",
+    "Absence of double coincidence of wants",
+    "Inflation",
+    "Too many banks"
+   ],
+   "answer": "1",
+   "solution": "Direct exchange requires each party to want exactly what the other offers, which rarely happens."
+  },
+  {
+   "q": "Which quality of money makes it possible to buy goods of small value?",
+   "options": [
+    "Portability",
+    "Durability",
+    "Divisibility",
+    "Homogeneity"
+   ],
+   "answer": "2",
+   "solution": "Money must be divisible into smaller units so that transactions of any size can be settled."
+  },
+  {
+   "q": "Money as a standard of deferred payment makes possible:",
+   "options": [
+    "Barter",
+    "Credit transactions",
+    "Hoarding of goods",
+    "Price control"
+   ],
+   "answer": "1",
+   "solution": "Debts can be expressed and settled in money at a future date, which underpins credit."
+  },
+  {
+   "q": "The value of money varies:",
+   "options": [
+    "Directly with the price level",
+    "Inversely with the price level",
+    "With population only",
+    "With the number of banks"
+   ],
+   "answer": "1",
+   "solution": "Purchasing power is the reciprocal of the price level, so rising prices reduce the value of money."
+  },
+  {
+   "q": "In Fisher's equation MV = PT, V represents:",
+   "options": [
+    "Volume of trade",
+    "Velocity of circulation of money",
+    "Value of money",
+    "Variable cost"
+   ],
+   "answer": "1",
+   "solution": "V is the average number of times a unit of money changes hands in a period."
+  },
+  {
+   "q": "Narrow money (M1) consists of currency in circulation plus:",
+   "options": [
+    "Time deposits",
+    "Demand deposits",
+    "Treasury bills",
+    "Foreign reserves"
+   ],
+   "answer": "1",
+   "solution": "M1 covers the most liquid assets: cash and current account (demand) deposits."
+  },
+  {
+   "q": "The speculative demand for money is:",
+   "options": [
+    "Directly related to interest rates",
+    "Inversely related to interest rates",
+    "Independent of interest rates",
+    "Equal to income"
+   ],
+   "answer": "1",
+   "solution": "When interest rates are high the opportunity cost of holding idle money is high, so speculative balances fall."
+  },
+  {
+   "q": "If the cash reserve ratio is 25%, the credit multiplier is:",
+   "options": [
+    "2",
+    "4",
+    "5",
+    "25"
+   ],
+   "answer": "1",
+   "solution": "1/0.25 = 4, so an initial deposit can support four times its value in total deposits."
+  },
+  {
+   "q": "Which is NOT a function of a commercial bank?",
+   "options": [
+    "Accepting deposits",
+    "Granting overdrafts",
+    "Issuing legal tender currency",
+    "Safe custody of valuables"
+   ],
+   "answer": "2",
+   "solution": "Only the central bank has the sole right to issue currency."
+  },
+  {
+   "q": "The central bank acts as lender of last resort by:",
+   "options": [
+    "Buying shares on the exchange",
+    "Lending to banks in temporary difficulty",
+    "Printing shares",
+    "Fixing wages"
+   ],
+   "answer": "1",
+   "solution": "It supplies emergency liquidity to solvent banks facing a short-term cash shortage, maintaining confidence."
+  },
+  {
+   "q": "Open market operations to reduce the money supply involve the central bank:",
+   "options": [
+    "Buying securities",
+    "Selling securities",
+    "Lowering the reserve ratio",
+    "Reducing the bank rate"
+   ],
+   "answer": "1",
+   "solution": "Selling securities withdraws cash from banks and the public, contracting credit."
+  },
+  {
+   "q": "A rise in the cash reserve ratio will:",
+   "options": [
+    "Increase bank lending",
+    "Reduce bank lending",
+    "Have no effect",
+    "Increase inflation"
+   ],
+   "answer": "1",
+   "solution": "Banks must hold more of their deposits idle, so fewer funds are available for loans."
+  },
+  {
+   "q": "Which institution regulates the Nigerian capital market?",
+   "options": [
+    "Central Bank of Nigeria",
+    "Securities and Exchange Commission",
+    "Nigeria Customs Service",
+    "NDIC"
+   ],
+   "answer": "1",
+   "solution": "SEC is the apex regulator of the capital market and protects investors."
+  },
+  {
+   "q": "Holders of ordinary shares receive:",
+   "options": [
+    "Fixed interest",
+    "Dividends that vary with profit",
+    "Guaranteed repayment before creditors",
+    "Rent"
+   ],
+   "answer": "1",
+   "solution": "Equity holders are residual claimants: their dividend depends on profits available after other claims."
+  },
+  {
+   "q": "Debenture holders are:",
+   "options": [
+    "Owners of the company",
+    "Creditors of the company",
+    "Employees",
+    "Government agents"
+   ],
+   "answer": "1",
+   "solution": "A debenture is a loan instrument carrying fixed interest, so the holder is a creditor, not an owner."
+  },
+  {
+   "q": "Treasury bills are instruments of the:",
+   "options": [
+    "Capital market",
+    "Money market",
+    "Foreign exchange market",
+    "Insurance market"
+   ],
+   "answer": "1",
+   "solution": "They are short-term government securities traded in the money market."
+  },
+  {
+   "q": "Development banks specialise in providing:",
+   "options": [
+    "Short-term overdrafts",
+    "Long-term project finance",
+    "Currency issue",
+    "Insurance cover"
+   ],
+   "answer": "1",
+   "solution": "Institutions such as the Bank of Industry supply medium and long-term finance for industry and agriculture."
+  },
+  {
+   "q": "Commercial banks must balance profitability with:",
+   "options": [
+    "Advertising",
+    "Liquidity and safety",
+    "Politics",
+    "Currency issue"
+   ],
+   "answer": "1",
+   "solution": "Lending long earns profit but banks must keep enough liquid assets to meet depositors' demands safely."
+  }
+ ]
+}

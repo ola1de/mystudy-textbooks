@@ -1,0 +1,235 @@
+{
+ "subject": "Economics",
+ "level": "SSS 1",
+ "slug": "market-forces",
+ "title": "Market Forces",
+ "outline": [
+  "Meaning of a market and types of markets",
+  "The law of demand, demand schedule, demand curve and demand function",
+  "Factors affecting demand and the difference between change in quantity demanded and change in demand",
+  "Exceptional (abnormal) demand curves",
+  "The law of supply, supply schedule, curve and function",
+  "Factors affecting supply and exceptional supply curves",
+  "Market equilibrium: determination of price and quantity, shortages and surpluses",
+  "Price control: maximum and minimum prices, and their effects"
+ ],
+ "modules": [
+  {
+   "title": "Demand and the Law of Demand",
+   "html": "\n<h4>1.1 The market</h4>\n<p>A <strong>market</strong> is any arrangement in which buyers and sellers of a commodity are in contact for the purpose of exchange. Physical proximity is unnecessary &mdash; telephone, internet and mobile money create markets. Markets may be local, national or international; commodity, factor or money markets.</p>\n<h4>1.2 Meaning of demand</h4>\n<p><strong>Demand</strong> is the quantity of a commodity that consumers are willing and able to buy at a given price within a given period. Mere desire is not demand; demand must be <em>effective</em>, i.e. backed by purchasing power.</p>\n<h4>1.3 The law of demand</h4>\n<p><em>Ceteris paribus, the higher the price of a commodity the lower the quantity demanded, and the lower the price the higher the quantity demanded.</em> The demand curve therefore slopes downward from left to right. The inverse relation is explained by the <strong>income effect</strong>, the <strong>substitution effect</strong> and the <strong>law of diminishing marginal utility</strong>.</p>\n<h4>1.4 Demand schedule and curve</h4>\n<table class=\"tb-table\">\n<tr><th>Price (&#8358;)</th><th>Quantity demanded (units)</th></tr>\n<tr><td>50</td><td>10</td></tr>\n<tr><td>40</td><td>20</td></tr>\n<tr><td>30</td><td>30</td></tr>\n<tr><td>20</td><td>40</td></tr>\n<tr><td>10</td><td>50</td></tr>\n</table>\n<p>The schedule above corresponds to the linear demand function</p>\n<p>$$ Q_d = 60 - P \\qquad\\text{or inversely}\\qquad P = 60 - Q_d $$</p>\n<p>A general demand function is written \\( Q_d = f(P, P_s, Y, T, N, E) \\) where \\(P\\) is own price, \\(P_s\\) prices of related goods, \\(Y\\) income, \\(T\\) taste, \\(N\\) population and \\(E\\) expectations.</p>\n<h4>1.5 Change in quantity demanded versus change in demand</h4>\n<ul>\n<li>A <strong>change in quantity demanded</strong> is caused by a change in the commodity's own price and is shown by a <em>movement along</em> the same demand curve (extension or contraction).</li>\n<li>A <strong>change in demand</strong> is caused by any other determinant (income, taste, population, price of substitutes) and is shown by a <em>shift</em> of the whole curve: rightward = increase, leftward = decrease.</li>\n</ul>\n<h4>1.6 Types of demand</h4>\n<p><strong>Joint (complementary) demand</strong> &mdash; car and petrol; <strong>competitive demand</strong> &mdash; tea and coffee; <strong>derived demand</strong> &mdash; demand for bricklayers derived from demand for houses; <strong>composite demand</strong> &mdash; a good with several uses, e.g. maize for food and for animal feed.</p>\n<h4>1.7 Exceptional demand curves</h4>\n<p>The demand curve may slope upward (higher price, higher quantity) in the case of:</p>\n<ol>\n<li><strong>Ostentatious or Veblen goods</strong> (gold, designer items) bought for prestige.</li>\n<li><strong>Expectation of further price rises</strong> &mdash; panic buying.</li>\n<li><strong>Necessities</strong> under extreme conditions.</li>\n<li><strong>Giffen goods</strong> &mdash; inferior staples whose fall in price releases income that is switched to superior goods.</li>\n<li><strong>Quality judged by price</strong> &mdash; consumers assume expensive means good.</li>\n</ol>\n",
+   "examples": [
+    {
+     "q": "Given \\( Q_d = 100 - 2P \\), find quantity demanded at P = 10 and P = 25.",
+     "a": "At P = 10: \\( Q_d = 100 - 20 = 80 \\) units. At P = 25: \\( Q_d = 100 - 50 = 50 \\) units. Quantity falls as price rises, confirming the law of demand."
+    },
+    {
+     "q": "Distinguish between an extension of demand and an increase in demand.",
+     "a": "An extension of demand is a rise in quantity demanded caused by a fall in the good's own price; it is a downward movement along the existing demand curve. An increase in demand is a rise in quantity demanded at every price caused by a non-price factor such as higher income; it shifts the entire demand curve to the right."
+    }
+   ]
+  },
+  {
+   "title": "Supply, Market Equilibrium and Price Control",
+   "html": "\n<h4>2.1 Meaning and law of supply</h4>\n<p><strong>Supply</strong> is the quantity of a commodity producers are willing and able to offer for sale at a given price in a given period. The <strong>law of supply</strong> states that, <em>ceteris paribus</em>, the higher the price the greater the quantity supplied; hence the supply curve slopes upward.</p>\n<p>$$ Q_s = c + dP, \\quad d > 0 $$</p>\n<p>Determinants of supply: own price, cost of production, technology, prices of other commodities, taxes and subsidies, weather (for farm produce), number of sellers, expectations and government policy.</p>\n<h4>2.2 Types and exceptional supply curves</h4>\n<p><strong>Joint supply</strong> (beef and hides), <strong>competitive supply</strong> (land used for maize or yam), <strong>composite supply</strong> (energy from gas, coal or solar). Supply may be perfectly inelastic (fixed stock, vertical curve) as with a fresh fish catch, or backward sloping as with labour supply at very high wages.</p>\n<h4>2.3 Market equilibrium</h4>\n<p>Equilibrium occurs where quantity demanded equals quantity supplied; the resulting price is the <strong>equilibrium (market-clearing) price</strong>.</p>\n<p>$$ Q_d = Q_s $$</p>\n<p><em>Worked illustration.</em> Let \\( Q_d = 60 - 2P \\) and \\( Q_s = 10 + 3P \\). Then</p>\n<p>$$ 60 - 2P = 10 + 3P \\;\\Rightarrow\\; 50 = 5P \\;\\Rightarrow\\; P^{*} = 10, \\quad Q^{*} = 60 - 20 = 40 $$</p>\n<p>Above \\(P^{*}\\) there is <strong>excess supply (surplus)</strong> which pushes price down; below \\(P^{*}\\) there is <strong>excess demand (shortage)</strong> which pushes price up. Shifts in either curve change the equilibrium: an increase in demand raises both price and quantity; an increase in supply lowers price but raises quantity.</p>\n<h4>2.4 Price control</h4>\n<table class=\"tb-table\">\n<tr><th>Policy</th><th>Set relative to equilibrium</th><th>Aim</th><th>Consequences</th></tr>\n<tr><td>Maximum (ceiling) price</td><td>Below equilibrium</td><td>Protect consumers from high prices</td><td>Shortage, queues, rationing, black market, hoarding, fall in quality</td></tr>\n<tr><td>Minimum (floor) price</td><td>Above equilibrium</td><td>Protect producers' or workers' incomes</td><td>Surplus, unsold stocks, buffer stock schemes, unemployment (minimum wage)</td></tr>\n</table>\n<p>To make a maximum price effective, government may use rationing, price inspectors and subsidies; to sustain a minimum price it may buy up the surplus (buffer stock), restrict output through quotas or destroy the excess.</p>\n<h4>2.5 Other market interventions</h4>\n<p><strong>Indirect taxes</strong> shift supply upward, raising price and lowering quantity; <strong>subsidies</strong> shift supply downward, lowering price and raising quantity. Their burden (incidence) is shared between producers and consumers depending on elasticity.</p>\n",
+   "examples": [
+    {
+     "q": "Given \\( Q_d = 200 - 5P \\) and \\( Q_s = 50 + 10P \\), find the equilibrium price and quantity, and the position at P = &#8358;5.",
+     "a": "Set \\(200 - 5P = 50 + 10P\\): \\(150 = 15P\\), so \\(P^{*} = 10\\) and \\(Q^{*} = 200 - 50 = 150\\) units. At P = 5, \\(Q_d = 175\\) and \\(Q_s = 100\\); there is excess demand (shortage) of 75 units, so price will be bid up towards &#8358;10."
+    },
+    {
+     "q": "Why does a maximum price often create a black market?",
+     "a": "A ceiling below equilibrium makes quantity demanded exceed quantity supplied. Since some consumers are willing to pay more than the legal price, sellers divert goods to unofficial channels and sell above the ceiling, creating a black (parallel) market."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The law of demand states that, other things being equal, quantity demanded:",
+   "options": [
+    "Rises as price rises",
+    "Falls as price rises",
+    "Is independent of price",
+    "Equals supply always"
+   ],
+   "answer": "1",
+   "solution": "Demand and price are inversely related, giving a downward-sloping demand curve."
+  },
+  {
+   "q": "A rightward shift of the demand curve is caused by:",
+   "options": [
+    "A fall in the good's own price",
+    "A rise in consumers' income for a normal good",
+    "A rise in the good's own price",
+    "An improvement in technology"
+   ],
+   "answer": "1",
+   "solution": "Higher income raises demand for a normal good at every price, shifting the curve right. Own-price changes only move along the curve."
+  },
+  {
+   "q": "A movement along a demand curve is caused by a change in:",
+   "options": [
+    "Taste",
+    "Population",
+    "The good's own price",
+    "Income"
+   ],
+   "answer": "2",
+   "solution": "Only a change in the commodity's own price causes extension or contraction along the same curve."
+  },
+  {
+   "q": "Demand for cement by builders is an example of:",
+   "options": [
+    "Composite demand",
+    "Derived demand",
+    "Competitive demand",
+    "Abnormal demand"
+   ],
+   "answer": "1",
+   "solution": "It is derived from the demand for buildings, hence derived demand."
+  },
+  {
+   "q": "Tea and coffee are in:",
+   "options": [
+    "Joint demand",
+    "Competitive demand",
+    "Derived demand",
+    "Composite supply"
+   ],
+   "answer": "1",
+   "solution": "They are substitutes; a rise in the price of one raises demand for the other, hence competitive demand."
+  },
+  {
+   "q": "Given Qd = 80 &minus; 4P, quantity demanded at P = 15 is:",
+   "options": [
+    "20",
+    "30",
+    "40",
+    "60"
+   ],
+   "answer": "0",
+   "solution": "Qd = 80 &minus; 4(15) = 80 &minus; 60 = 20 units."
+  },
+  {
+   "q": "If Qd = 60 &minus; 2P and Qs = 10 + 3P, the equilibrium price is:",
+   "options": [
+    "&#8358;5",
+    "&#8358;10",
+    "&#8358;12",
+    "&#8358;15"
+   ],
+   "answer": "1",
+   "solution": "Setting 60 &minus; 2P = 10 + 3P gives 50 = 5P, so P = 10 and Q = 40 units."
+  },
+  {
+   "q": "Goods bought mainly for prestige, whose demand rises with price, are called:",
+   "options": [
+    "Giffen goods",
+    "Ostentatious (Veblen) goods",
+    "Inferior goods",
+    "Public goods"
+   ],
+   "answer": "1",
+   "solution": "Ostentatious or Veblen goods are demanded for status, so a higher price can increase their appeal."
+  },
+  {
+   "q": "A maximum price fixed below equilibrium leads to:",
+   "options": [
+    "Surplus",
+    "Shortage",
+    "Equilibrium",
+    "Falling demand"
+   ],
+   "answer": "1",
+   "solution": "At a ceiling price, quantity demanded exceeds quantity supplied, producing a shortage, queues and possibly a black market."
+  },
+  {
+   "q": "A minimum wage set above the equilibrium wage tends to cause:",
+   "options": [
+    "Labour shortage",
+    "Unemployment",
+    "Lower prices",
+    "Higher demand for labour"
+   ],
+   "answer": "1",
+   "solution": "A floor above equilibrium creates excess supply of labour, that is unemployment."
+  },
+  {
+   "q": "The supply curve normally slopes upward because:",
+   "options": [
+    "Costs fall with output",
+    "Higher prices make production more profitable",
+    "Consumers buy more at high prices",
+    "Government fixes prices"
+   ],
+   "answer": "1",
+   "solution": "Higher prices raise expected profit and cover higher marginal costs, encouraging producers to supply more."
+  },
+  {
+   "q": "Beef and hides are examples of:",
+   "options": [
+    "Joint supply",
+    "Competitive supply",
+    "Composite demand",
+    "Derived supply"
+   ],
+   "answer": "0",
+   "solution": "They are produced together from the same animal, so supplying one automatically supplies the other."
+  },
+  {
+   "q": "Excess supply in a free market causes price to:",
+   "options": [
+    "Rise",
+    "Fall",
+    "Stay constant",
+    "Become zero"
+   ],
+   "answer": "1",
+   "solution": "Unsold stocks force sellers to cut price until the surplus is eliminated at equilibrium."
+  },
+  {
+   "q": "A government buffer stock scheme is used mainly to support:",
+   "options": [
+    "Maximum prices",
+    "Minimum prices",
+    "Free market prices",
+    "Import duties"
+   ],
+   "answer": "1",
+   "solution": "Government buys the surplus generated by a price floor to keep the guaranteed minimum price effective."
+  },
+  {
+   "q": "An indirect tax on a commodity will normally:",
+   "options": [
+    "Shift supply to the right and lower price",
+    "Shift supply to the left and raise price",
+    "Shift demand right",
+    "Leave price unchanged"
+   ],
+   "answer": "1",
+   "solution": "A tax raises production costs, shifting supply leftward or upward, so equilibrium price rises and quantity falls."
+  },
+  {
+   "q": "Perfectly inelastic supply is represented by a curve that is:",
+   "options": [
+    "Horizontal",
+    "Vertical",
+    "Downward sloping",
+    "Backward bending"
+   ],
+   "answer": "1",
+   "solution": "A vertical supply curve means quantity supplied is fixed regardless of price, as with a fresh fish catch."
+  },
+  {
+   "q": "Demand is described as effective when it is backed by:",
+   "options": [
+    "Desire only",
+    "Ability and willingness to pay",
+    "Government approval",
+    "Advertising"
+   ],
+   "answer": "1",
+   "solution": "Effective demand requires purchasing power and willingness to spend, not mere desire."
+  }
+ ]
+}
