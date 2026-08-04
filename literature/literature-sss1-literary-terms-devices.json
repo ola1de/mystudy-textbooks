@@ -1,0 +1,244 @@
+{
+ "subject": "Literature",
+ "level": "SSS 1",
+ "slug": "literary-terms-devices",
+ "title": "Literary Terms and Devices",
+ "outline": [
+  "Figures of comparison: simile, metaphor, personification, apostrophe",
+  "Figures of sound: alliteration, assonance, consonance, onomatopoeia, rhyme",
+  "Figures of contrast and exaggeration: irony, paradox, oxymoron, hyperbole, litotes",
+  "Structural and narrative devices: flashback, foreshadowing, suspense, point of view",
+  "Dramatic devices: soliloquy, aside, chorus, dramatic irony, comic relief",
+  "Applying devices in analysis: naming, illustrating and stating effect"
+ ],
+ "modules": [
+  {
+   "title": "Module 1: Figures of Speech",
+   "html": "\n<h4>1.1 Figures of Comparison</h4>\n<table class=\"tb-table\">\n<tr><th>Device</th><th>Definition</th><th>Example</th></tr>\n<tr><td>Simile</td><td>Comparison using <em>like</em>, <em>as</em>, <em>than</em>, <em>resembles</em></td><td>\"He fought <em>like</em> a wounded lion.\"</td></tr>\n<tr><td>Metaphor</td><td>Direct comparison without a comparing word</td><td>\"The chief is the iroko of our village.\"</td></tr>\n<tr><td>Personification</td><td>Giving human qualities to non-human things</td><td>\"The angry sea swallowed the canoe.\"</td></tr>\n<tr><td>Apostrophe</td><td>Direct address to an absent person, dead person or abstraction</td><td>\"O Death, where is thy sting?\"</td></tr>\n<tr><td>Synecdoche</td><td>Part stands for the whole</td><td>\"Fifty <em>hands</em> worked the farm.\"</td></tr>\n<tr><td>Metonymy</td><td>Associated object stands for the thing itself</td><td>\"The <em>crown</em> has spoken.\"</td></tr>\n<tr><td>Symbolism</td><td>An object represents a larger idea</td><td>The mockingbird as innocence.</td></tr>\n</table>\n\n<h4>1.2 Figures of Sound (Sound Devices)</h4>\n<ul>\n<li><strong>Alliteration</strong> &ndash; repetition of the same initial consonant sound: \"<em>b</em>lack <em>b</em>irds <em>b</em>rooding.\"</li>\n<li><strong>Assonance</strong> &ndash; repetition of vowel sounds within words: \"the l<em>o</em>ne r<em>oa</em>d h<em>o</em>me.\"</li>\n<li><strong>Consonance</strong> &ndash; repetition of consonant sounds, especially at the end: \"blan<em>k</em> and thin<em>k</em>.\"</li>\n<li><strong>Onomatopoeia</strong> &ndash; words that imitate sounds: <em>hiss, rumble, clang, splash</em>.</li>\n<li><strong>Rhyme</strong> &ndash; correspondence of end sounds; <strong>end rhyme</strong>, <strong>internal rhyme</strong>, <strong>half/slant rhyme</strong>, <strong>eye rhyme</strong>.</li>\n<li><strong>Refrain</strong> &ndash; a line or group of lines repeated at intervals, common in ballads and dirges.</li>\n</ul>\n<p>Rhyme scheme is labelled with letters: a stanza rhyming <em>day / night / play / light</em> is \\( abab \\); a Shakespearean sonnet is \\( abab\\ cdcd\\ efef\\ gg \\).</p>\n\n<h4>1.3 Figures of Contrast, Exaggeration and Understatement</h4>\n<ul>\n<li><strong>Irony</strong> &ndash; a gap between what is said/expected and what is meant/happens. Types: <em>verbal</em> (saying the opposite), <em>situational</em> (outcome contrary to expectation), <em>dramatic</em> (audience knows what a character does not).</li>\n<li><strong>Sarcasm</strong> &ndash; bitter, mocking verbal irony aimed at a person.</li>\n<li><strong>Satire</strong> &ndash; sustained ridicule of vice or folly for corrective purposes.</li>\n<li><strong>Paradox</strong> &ndash; a statement that seems self-contradictory yet contains truth: \"The child is father of the man.\"</li>\n<li><strong>Oxymoron</strong> &ndash; two contradictory words joined: \"bitter sweetness\", \"living death\".</li>\n<li><strong>Hyperbole</strong> &ndash; deliberate exaggeration: \"I have told you a million times.\"</li>\n<li><strong>Litotes / Understatement</strong> &ndash; deliberate weakening: \"He is no fool\" (meaning he is very clever).</li>\n<li><strong>Euphemism</strong> &ndash; mild expression for something harsh: \"He joined his ancestors.\"</li>\n<li><strong>Antithesis</strong> &ndash; balanced opposition of ideas: \"Not that I loved Caesar less, but that I loved Rome more.\"</li>\n</ul>\n",
+   "examples": [
+    {
+     "q": "Identify the figure of speech in each and state its effect: (i) \"The gun coughed twice.\" (ii) \"He is a walking dictionary.\" (iii) \"She is no ordinary teacher.\"",
+     "a": "(i) Personification combined with onomatopoeia: 'coughed' gives the gun a human, sickly action and imitates the muffled sound, making the killing seem casual and therefore more chilling. (ii) Metaphor: the man is directly identified with a dictionary, compressing the idea of vast vocabulary and knowledge into three words. (iii) Litotes (understatement through negation): by denying ordinariness rather than asserting excellence, the speaker praises the teacher more emphatically and with an air of restraint."
+    },
+    {
+     "q": "Distinguish clearly between verbal irony, situational irony and dramatic irony, giving one example each.",
+     "a": "Verbal irony occurs when a speaker means the opposite of the words used &mdash; standing in a downpour and saying, 'What lovely weather!' Situational irony occurs when the outcome contradicts reasonable expectation &mdash; a fire station burning down, or Mr Birling in <em>An Inspector Calls</em> declaring the Titanic 'absolutely unsinkable' shortly before its famous sinking. Dramatic irony occurs when the audience possesses knowledge that a character lacks &mdash; the audience knows the Inspector's inquiry has exposed each Birling before the family realises the news is real. Verbal irony lies in words, situational irony in events and dramatic irony in the gap between audience and character knowledge."
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Structural, Narrative and Dramatic Devices",
+   "html": "\n<h4>2.1 Point of View (Narrative Perspective)</h4>\n<table class=\"tb-table\">\n<tr><th>Point of View</th><th>Signal</th><th>Effect</th></tr>\n<tr><td>First person</td><td>\"I\", \"we\"</td><td>Intimacy and immediacy, but limited and possibly unreliable knowledge (Scout in <em>To Kill a Mockingbird</em>).</td></tr>\n<tr><td>Second person</td><td>\"You\"</td><td>Rare; draws the reader directly into the action.</td></tr>\n<tr><td>Third person limited</td><td>\"He/She\", one mind only</td><td>Closeness to one character with narrative distance.</td></tr>\n<tr><td>Third person omniscient</td><td>\"He/She\", all minds</td><td>Godlike knowledge; allows comment on many characters at once.</td></tr>\n<tr><td>Objective/dramatic</td><td>External actions only</td><td>Reader must infer motive, as in a film script.</td></tr>\n</table>\n\n<h4>2.2 Devices of Time and Tension</h4>\n<ul>\n<li><strong>Flashback (analepsis)</strong> &ndash; the narrative moves back to an earlier event to supply background.</li>\n<li><strong>Flashforward (prolepsis)</strong> &ndash; a leap to a future event.</li>\n<li><strong>Foreshadowing</strong> &ndash; hints planted early which prepare for later events.</li>\n<li><strong>Suspense</strong> &ndash; uncertainty deliberately sustained to keep the reader anxious.</li>\n<li><strong>In medias res</strong> &ndash; beginning in the middle of the action.</li>\n<li><strong>Anticlimax / bathos</strong> &ndash; a sudden drop from the elevated to the trivial.</li>\n<li><strong>Climax</strong> &ndash; the point of greatest tension and the turning point of the plot.</li>\n</ul>\n\n<h4>2.3 Dramatic Devices</h4>\n<ul>\n<li><strong>Soliloquy</strong> &ndash; extended speech of a lone character revealing thought.</li>\n<li><strong>Aside</strong> &ndash; brief remark to the audience.</li>\n<li><strong>Chorus / Narrator figure</strong> &ndash; comments on the action and guides response (Ananse's Storyteller in <em>The Marriage of Anansewa</em>).</li>\n<li><strong>Mime and stage business</strong> &ndash; wordless action carrying meaning.</li>\n<li><strong>Comic relief</strong> &ndash; a humorous episode inserted into a serious action to release tension.</li>\n<li><strong>Deus ex machina</strong> &ndash; an improbable outside force that resolves the plot.</li>\n<li><strong>Props, lighting and costume</strong> &ndash; the pink-then-harder lighting in <em>An Inspector Calls</em> signals the shift from cosy self-deception to hard truth.</li>\n</ul>\n\n<h4>2.4 Diction, Tone, Mood and Style</h4>\n<p><strong>Diction</strong> is word choice (formal, colloquial, archaic, technical, pidgin). <strong>Tone</strong> is the speaker's attitude to the subject (bitter, nostalgic, mocking, reverent). <strong>Mood</strong> is the feeling created in the reader (gloomy, joyful, tense). <strong>Style</strong> is the sum of a writer's habitual choices in diction, sentence structure, imagery and rhythm. In analysis always move from <em>naming</em> the device to <em>quoting</em> it and then to <em>explaining its effect</em>; marks are awarded chiefly for the third step.</p>\n",
+   "examples": [
+    {
+     "q": "A story opens: \"Even before the rains came, Mama had begun to count the days.\" Identify two devices at work and explain their function.",
+     "a": "First, foreshadowing: 'even before the rains came' hints that something significant is expected to happen with, or after, the rains, so the reader is placed in expectation. Second, the third-person limited point of view anchored in Mama's consciousness ('had begun to count the days') gives psychological closeness while retaining narrative distance. The past perfect tense also implies a flashback structure &mdash; the narrator is looking back from a later point, which increases suspense because the outcome is already known to the teller but withheld from us."
+    },
+    {
+     "q": "State the effect of the sound devices in: \"The rumbling, roaring river ripped the reeds.\"",
+     "a": "Alliteration of /r/ in 'rumbling, roaring, river, ripped, reeds' binds the line into one sustained rush, imitating the continuous force of the current. 'Rumbling' and 'roaring' are onomatopoeic, reproducing the deep noise of the flood, while the harsh plosive in 'ripped' enacts the sudden violence of destruction. The combined effect is auditory: the reader hears the river before visualising it, and the water is felt as an aggressive, almost animate destroyer."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "\"The moon smiled down on the sleeping village.\" This is an example of",
+   "options": [
+    "simile",
+    "personification",
+    "metonymy",
+    "litotes"
+   ],
+   "answer": "1",
+   "solution": "Smiling is a human action attributed to the moon, which is personification."
+  },
+  {
+   "q": "Which device involves comparison using 'like' or 'as'?",
+   "options": [
+    "Metaphor",
+    "Simile",
+    "Symbol",
+    "Allusion"
+   ],
+   "answer": "1",
+   "solution": "A simile makes an explicit comparison with 'like', 'as' or 'than'; a metaphor makes the comparison directly without such words."
+  },
+  {
+   "q": "The repetition of initial consonant sounds in nearby words is",
+   "options": [
+    "assonance",
+    "consonance",
+    "alliteration",
+    "cacophony"
+   ],
+   "answer": "2",
+   "solution": "Alliteration repeats initial consonant sounds; assonance repeats vowel sounds and consonance repeats consonants elsewhere in the word."
+  },
+  {
+   "q": "\"He is dying of laughter\" is an example of",
+   "options": [
+    "hyperbole",
+    "euphemism",
+    "paradox",
+    "antithesis"
+   ],
+   "answer": "0",
+   "solution": "Hyperbole is deliberate exaggeration for effect; no one literally dies of laughter."
+  },
+  {
+   "q": "When the audience knows something a character on stage does not, the device is",
+   "options": [
+    "verbal irony",
+    "situational irony",
+    "dramatic irony",
+    "satire"
+   ],
+   "answer": "2",
+   "solution": "Dramatic irony depends on the gap between the audience's superior knowledge and the character's ignorance."
+  },
+  {
+   "q": "A statement that appears self-contradictory yet expresses a truth is a",
+   "options": [
+    "paradox",
+    "pun",
+    "simile",
+    "hyperbole"
+   ],
+   "answer": "0",
+   "solution": "A paradox seems contradictory on the surface but yields sense on reflection, e.g. 'the more he gave away, the richer he became'."
+  },
+  {
+   "q": "\"Cruel kindness\" is best described as",
+   "options": [
+    "oxymoron",
+    "metonymy",
+    "apostrophe",
+    "assonance"
+   ],
+   "answer": "0",
+   "solution": "An oxymoron places two contradictory terms side by side in a single expression."
+  },
+  {
+   "q": "The narrative technique of returning to an earlier event is",
+   "options": [
+    "foreshadowing",
+    "flashback",
+    "suspense",
+    "digression"
+   ],
+   "answer": "1",
+   "solution": "Flashback (analepsis) interrupts chronological order to present an earlier incident."
+  },
+  {
+   "q": "\"O Freedom, how long must we wait for you?\" employs",
+   "options": [
+    "apostrophe",
+    "synecdoche",
+    "onomatopoeia",
+    "litotes"
+   ],
+   "answer": "0",
+   "solution": "Apostrophe directly addresses an absent person or an abstraction, here 'Freedom'."
+  },
+  {
+   "q": "In \"the White House denied the report\", the figure of speech is",
+   "options": [
+    "synecdoche",
+    "metonymy",
+    "metaphor",
+    "symbol"
+   ],
+   "answer": "1",
+   "solution": "Metonymy substitutes a closely associated thing (the building) for the institution and its officials."
+  },
+  {
+   "q": "Words such as 'buzz', 'clang' and 'sizzle' illustrate",
+   "options": [
+    "assonance",
+    "onomatopoeia",
+    "alliteration",
+    "euphony"
+   ],
+   "answer": "1",
+   "solution": "Onomatopoeic words imitate the natural sounds they denote."
+  },
+  {
+   "q": "A humorous scene introduced into a serious play to reduce tension is called",
+   "options": [
+    "comic relief",
+    "farce",
+    "interlude",
+    "burlesque"
+   ],
+   "answer": "0",
+   "solution": "Comic relief momentarily relieves emotional strain in an otherwise serious action."
+  },
+  {
+   "q": "'He passed away peacefully' instead of 'he died' is an example of",
+   "options": [
+    "hyperbole",
+    "euphemism",
+    "irony",
+    "innuendo"
+   ],
+   "answer": "1",
+   "solution": "Euphemism substitutes a mild or indirect expression for one considered harsh or blunt."
+  },
+  {
+   "q": "Which point of view uses the pronoun 'I' and limits knowledge to one character?",
+   "options": [
+    "Third person omniscient",
+    "First person",
+    "Objective",
+    "Second person"
+   ],
+   "answer": "1",
+   "solution": "First-person narration is told by a character using 'I' and is limited to what that character can know."
+  },
+  {
+   "q": "The attitude of a writer or speaker towards the subject is called",
+   "options": [
+    "mood",
+    "tone",
+    "theme",
+    "motif"
+   ],
+   "answer": "1",
+   "solution": "Tone is the writer's attitude; mood is the emotional atmosphere created in the reader."
+  },
+  {
+   "q": "A recurring image, idea or situation in a literary work is a",
+   "options": [
+    "motif",
+    "moral",
+    "plot",
+    "climax"
+   ],
+   "answer": "0",
+   "solution": "A motif is a recurrent element that supports and develops the theme."
+  },
+  {
+   "q": "The rhyme scheme of a stanza rhyming 'night / sea / light / free' is",
+   "options": [
+    "aabb",
+    "abab",
+    "abba",
+    "abcb"
+   ],
+   "answer": "1",
+   "solution": "Lines 1 and 3 rhyme (night/light = a) and lines 2 and 4 rhyme (sea/free = b), giving abab."
+  },
+  {
+   "q": "Sustained ridicule of social vice with the aim of correcting it is",
+   "options": [
+    "sarcasm",
+    "satire",
+    "parody",
+    "invective"
+   ],
+   "answer": "1",
+   "solution": "Satire uses humour, irony and exaggeration over a whole work to expose and correct folly or vice."
+  }
+ ]
+}

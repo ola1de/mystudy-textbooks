@@ -1,0 +1,254 @@
+{
+ "subject": "Literature",
+ "level": "SSS 1",
+ "slug": "intro-to-genres",
+ "title": "Introduction to Genres",
+ "outline": [
+  "Meaning, origin and scope of literature (oral and written)",
+  "Functions and value of literature in society",
+  "The three major genres: prose, drama and poetry",
+  "Sub-genres and their distinguishing features",
+  "Comparative writing: how the genres treat the same subject differently",
+  "Basic terminology needed for WAEC/NECO Paper 1 objective questions"
+ ],
+ "modules": [
+  {
+   "title": "Module 1: What Literature Is and What It Does",
+   "html": "\n<h4>1.1 Meaning of Literature</h4>\n<p>The word <em>literature</em> comes from the Latin <em>littera</em>, meaning \"letter\". In its widest sense literature is the imaginative and artistic use of language to represent human experience. Literature is not merely writing that is true; it is writing that is <strong>invented, shaped and arranged</strong> so that it gives pleasure, provokes thought and reveals something about life.</p>\n<p>Three working definitions you should be able to reproduce in an examination:</p>\n<ol>\n<li><strong>Literature as imaginative writing</strong> &ndash; a creative record of human experience in prose, drama or verse.</li>\n<li><strong>Literature as a mirror of society</strong> &ndash; it reflects the customs, conflicts, politics and values of the people who produce it.</li>\n<li><strong>Literature as an art of language</strong> &ndash; it exploits rhythm, imagery, figurative language and structure for aesthetic effect.</li>\n</ol>\n\n<h4>1.2 Oral and Written Literature</h4>\n<p>African literature begins with <strong>orature</strong> (oral literature): folktales, myths, legends, praise songs (<em>oriki</em>), dirges, panegyrics, riddles, proverbs and epics performed before a live audience. Written literature is fixed in print and read privately.</p>\n<table class=\"tb-table\">\n<tr><th>Feature</th><th>Oral Literature</th><th>Written Literature</th></tr>\n<tr><td>Medium</td><td>Spoken/performed voice</td><td>Print or digital text</td></tr>\n<tr><td>Author</td><td>Communal, often anonymous</td><td>Individual, named</td></tr>\n<tr><td>Text stability</td><td>Variable; changes with each performance</td><td>Fixed and permanent</td></tr>\n<tr><td>Audience</td><td>Present, participatory (call and response)</td><td>Absent, solitary reader</td></tr>\n<tr><td>Aids</td><td>Gesture, music, dance, costume</td><td>Punctuation, typography, layout</td></tr>\n</table>\n\n<h4>1.3 Functions of Literature</h4>\n<ul>\n<li><strong>Didactic function</strong> &ndash; it teaches morals and warns against vice (folktales usually end with a lesson).</li>\n<li><strong>Entertainment</strong> &ndash; it delights through suspense, humour, music and spectacle.</li>\n<li><strong>Preservation of culture</strong> &ndash; festivals, marriage rites and belief systems are stored in texts.</li>\n<li><strong>Social criticism</strong> &ndash; writers such as Wole Soyinka, Efua Sutherland and J. B. Priestley expose corruption, exploitation and hypocrisy.</li>\n<li><strong>Emotional catharsis</strong> &ndash; Aristotle argued that tragedy purges the emotions of pity and fear.</li>\n<li><strong>Language development</strong> &ndash; it widens vocabulary and models effective expression.</li>\n<li><strong>Historical record</strong> &ndash; literature documents slavery, colonialism, civil war and independence struggles.</li>\n</ul>\n",
+   "examples": [
+    {
+     "q": "Explain, with one Nigerian example each, the difference between oral literature and written literature.",
+     "a": "Oral literature is composed and transmitted by word of mouth in performance; for example the Yoruba <em>oriki</em> (praise poetry) chanted by a bard at a chief's installation, which changes slightly with every performance and belongs to the community rather than to an individual. Written literature is composed in print and fixed; for example Chinua Achebe's <em>Things Fall Apart</em>, whose words remain identical in every copy and are credited to a named author. Oral literature depends on voice, gesture, music and immediate audience response, while written literature depends on typography, punctuation and a solitary reader."
+    },
+    {
+     "q": "\"Literature is a mirror of society.\" Justify this statement.",
+     "a": "A mirror reflects what stands before it; in the same way literature reproduces the social, political and moral realities of its age. J. B. Priestley's <em>An Inspector Calls</em> mirrors the class arrogance and social irresponsibility of Edwardian England. Efua Sutherland's <em>The Marriage of Anansewa</em> mirrors Ghanaian marriage negotiation, the abuse of bride-wealth and Akan story-telling tradition. Harper Lee's <em>To Kill a Mockingbird</em> mirrors institutional racism in the American South. In each case the writer selects, arranges and heightens real social experience, so the reflection is artistic rather than photographic."
+    }
+   ]
+  },
+  {
+   "title": "Module 2: The Three Major Genres and Their Sub-Genres",
+   "html": "\n<h4>2.1 Prose</h4>\n<p>Prose is writing in ordinary sentence and paragraph form, without regular metre. Literary prose is chiefly <strong>narrative</strong>: it tells a story through a narrator.</p>\n<ul>\n<li><strong>Novel</strong> &ndash; long fictional narrative with several characters, sub-plots and a developed setting (e.g. <em>To Kill a Mockingbird</em>).</li>\n<li><strong>Novella</strong> &ndash; shorter than a novel, longer than a short story.</li>\n<li><strong>Short story</strong> &ndash; single incident, few characters, one dominant effect.</li>\n<li><strong>Autobiography / Biography / Memoir</strong> &ndash; life-writing, factual but shaped artistically.</li>\n<li><strong>Essay</strong> &ndash; short reflective or argumentative composition.</li>\n<li><strong>Folktale, myth, legend</strong> &ndash; oral prose narratives.</li>\n</ul>\n<p>Prose is classified as <strong>fiction</strong> (invented) or <strong>non-fiction</strong> (factual), and as <strong>picaresque</strong>, <strong>epistolary</strong>, <strong>historical</strong>, <strong>science fiction</strong>, <strong>detective</strong> or <strong>Bildungsroman</strong> (novel of growing up) by content.</p>\n\n<h4>2.2 Drama</h4>\n<p>Drama is literature written to be <strong>acted</strong> on a stage before an audience. It is presented mainly through dialogue and action, supported by stage directions.</p>\n<ul>\n<li><strong>Tragedy</strong> &ndash; a serious play ending in the downfall or death of the protagonist, usually through a tragic flaw (<em>hamartia</em>).</li>\n<li><strong>Comedy</strong> &ndash; a light play with a happy ending, often ending in marriage or reconciliation (<em>The Marriage of Anansewa</em>).</li>\n<li><strong>Tragicomedy</strong> &ndash; combines serious matter with a happy or mixed resolution.</li>\n<li><strong>Farce</strong> &ndash; exaggerated, improbable comedy for laughter.</li>\n<li><strong>Melodrama</strong> &ndash; sensational plot, exaggerated emotion, clear villains and heroes.</li>\n<li><strong>Historical / Problem (thesis) play</strong> &ndash; dramatises history or a social question (<em>An Inspector Calls</em>).</li>\n</ul>\n<p>Structural units of drama: <strong>act</strong>, <strong>scene</strong>, <strong>dialogue</strong>, <strong>monologue</strong>, <strong>soliloquy</strong>, <strong>aside</strong>, <strong>chorus</strong>, <strong>prologue</strong>, <strong>epilogue</strong>, <strong>stage direction</strong> and <strong>mime</strong>. Freytag's pyramid gives the movement: exposition &rarr; rising action &rarr; climax &rarr; falling action &rarr; denouement/catastrophe.</p>\n\n<h4>2.3 Poetry</h4>\n<p>Poetry is the most compressed genre: it uses lines, rhythm, sound patterning and dense imagery to convey emotion and thought.</p>\n<ul>\n<li><strong>Narrative poetry</strong> &ndash; tells a story: epic, ballad, mock-epic.</li>\n<li><strong>Lyric poetry</strong> &ndash; expresses personal feeling: ode, sonnet, elegy, dirge, hymn.</li>\n<li><strong>Dramatic poetry</strong> &ndash; a speaker addresses a silent listener: dramatic monologue.</li>\n<li><strong>Descriptive and satirical poetry</strong> &ndash; paints a picture or ridicules a vice.</li>\n</ul>\n<p>Units: <strong>line</strong>, <strong>stanza</strong>, <strong>couplet (2)</strong>, <strong>tercet (3)</strong>, <strong>quatrain (4)</strong>, <strong>quintain (5)</strong>, <strong>sestet (6)</strong>, <strong>septet (7)</strong>, <strong>octave (8)</strong>.</p>\n\n<h4>2.4 Comparative Summary</h4>\n<table class=\"tb-table\">\n<tr><th>Point of Comparison</th><th>Prose</th><th>Drama</th><th>Poetry</th></tr>\n<tr><td>Form</td><td>Paragraphs</td><td>Dialogue in acts/scenes</td><td>Lines and stanzas</td></tr>\n<tr><td>Medium of delivery</td><td>Narrator tells</td><td>Actors show</td><td>Persona speaks/sings</td></tr>\n<tr><td>Language</td><td>Expansive, explanatory</td><td>Conversational, immediate</td><td>Compressed, figurative</td></tr>\n<tr><td>Divisions</td><td>Chapters, parts</td><td>Acts, scenes</td><td>Stanzas, cantos</td></tr>\n<tr><td>Speaker term</td><td>Narrator / point of view</td><td>Character / dramatis personae</td><td>Persona / voice</td></tr>\n<tr><td>Time of reception</td><td>Reader's own pace</td><td>Fixed performance time</td><td>Short, repeated readings</td></tr>\n</table>\n<p>A comparative essay should therefore be organised by <em>points of similarity and difference</em>, not by summarising one genre and then the other.</p>\n",
+   "examples": [
+    {
+     "q": "Compare how a novelist, a dramatist and a poet would each present the theme of a father's death.",
+     "a": "The novelist would use a narrator, interior thought and several chapters: we would learn the father's history, watch the illness develop and follow the family's mourning over months, with description and flashback creating depth. The dramatist would compress the event into a scene: we would <em>see</em> characters receive the news, hear their broken dialogue, and read stage directions describing silence, weeping and a darkened stage; conflict between survivors over inheritance could supply the plot. The poet would concentrate on a single emotional moment in an elegy or dirge, using imagery (a fallen iroko, a spent candle), rhythm and repetition to render grief in perhaps sixteen lines. Prose explains, drama enacts, poetry distils."
+    },
+    {
+     "q": "Identify the genre and sub-genre of a fourteen-line poem in iambic pentameter mourning a dead friend, and justify your answer.",
+     "a": "The genre is poetry; the sub-genre is lyric &mdash; specifically an elegiac sonnet. Fourteen lines is the fixed length of the sonnet, and iambic pentameter (\\( \\times / \\times / \\times / \\times / \\times / \\)) is its standard metre. Because the subject is mourning for a dead person and the voice expresses private emotion rather than telling a story, it belongs to the lyric class and to the elegy tradition."
+    }
+   ]
+  },
+  {
+   "title": "Module 3: Reading, Note-Making and Answering Genre Questions",
+   "html": "\n<h4>3.1 How to Read a Set Text</h4>\n<ol>\n<li><strong>First reading</strong> &ndash; read straight through for the story; do not stop at every hard word.</li>\n<li><strong>Second reading</strong> &ndash; annotate: mark turning points, key speeches and unfamiliar diction.</li>\n<li><strong>Third reading</strong> &ndash; make structured notes: plot outline, character chart, theme list, style notes, memorable quotations with act/scene or chapter references.</li>\n</ol>\n\n<h4>3.2 The Four Questions to Ask of Any Text</h4>\n<ul>\n<li><strong>What happens?</strong> (plot and structure)</li>\n<li><strong>To whom?</strong> (characterisation and relationships)</li>\n<li><strong>Where and when?</strong> (setting: physical, temporal, social)</li>\n<li><strong>How is it told, and why does it matter?</strong> (style, point of view, theme)</li>\n</ul>\n\n<h4>3.3 Examination Technique</h4>\n<p>WAEC/NECO Literature-in-English is examined in three papers: <strong>Paper 1</strong> (objective questions on unseen passages and general literary principles), <strong>Paper 2</strong> (African and non-African prose and drama essays) and <strong>Paper 3</strong> (poetry and unseen appreciation, depending on the year's format). In essays:</p>\n<ol>\n<li>Answer the question actually set &mdash; never pour out a rehearsed summary.</li>\n<li>Open with a short contextual sentence naming author, text and genre.</li>\n<li>Devote one paragraph to one point: assertion &rarr; evidence (quotation or incident) &rarr; comment.</li>\n<li>Quote briefly and accurately; long quotations waste time.</li>\n<li>Close with a judgement that returns to the wording of the question.</li>\n</ol>\n<p>Common pitfalls: retelling the story, discussing a character not asked about, writing about the film version, and mixing up genre terms (calling a stanza a paragraph, or a chapter a scene).</p>\n",
+   "examples": [
+    {
+     "q": "Rewrite this weak answer opening so that it is examination-worthy: \"In this play many things happened and the people suffered a lot.\"",
+     "a": "\"In Efua Sutherland's comedy <em>The Marriage of Anansewa</em>, Ananse's manipulation of four rival suitors drives a plot in which greed, poverty and parental authority are exposed to laughter rather than to tragedy.\" The improved version names the author, the text, the genre, the central action and the thematic focus, and it commits to an argument the essay can then prove."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The word 'literature' is derived from which Latin word?",
+   "options": [
+    "Litera",
+    "Littera",
+    "Literatus",
+    "Literae"
+   ],
+   "answer": "1",
+   "solution": "Literature comes from the Latin 'littera', meaning a letter of the alphabet, extended to mean writings in general."
+  },
+  {
+   "q": "Which of the following is NOT one of the three major literary genres?",
+   "options": [
+    "Prose",
+    "Drama",
+    "Poetry",
+    "Rhetoric"
+   ],
+   "answer": "3",
+   "solution": "Prose, drama and poetry are the three major genres. Rhetoric is the art of persuasive speaking and writing, not a literary genre."
+  },
+  {
+   "q": "A literary work meant primarily to be performed on stage before an audience is called",
+   "options": [
+    "a novel",
+    "a play",
+    "an ode",
+    "an essay"
+   ],
+   "answer": "1",
+   "solution": "A play (drama) is written for performance; its meaning is completed by actors, stage, costume and audience."
+  },
+  {
+   "q": "Oral literature is best distinguished from written literature by its",
+   "options": [
+    "use of figurative language",
+    "performance before a live audience",
+    "moral lessons",
+    "use of characters"
+   ],
+   "answer": "1",
+   "solution": "Both forms use imagery, morals and characters. Only oral literature depends on live performance, communal authorship and audience participation."
+  },
+  {
+   "q": "A prose narrative that is shorter than a novel but longer than a short story is a",
+   "options": [
+    "novella",
+    "sonnet",
+    "sketch",
+    "monograph"
+   ],
+   "answer": "0",
+   "solution": "The novella occupies the middle length between the short story and the novel."
+  },
+  {
+   "q": "A four-line stanza is known as a",
+   "options": [
+    "couplet",
+    "tercet",
+    "quatrain",
+    "sestet"
+   ],
+   "answer": "2",
+   "solution": "Couplet = 2 lines, tercet = 3, quatrain = 4, sestet = 6."
+  },
+  {
+   "q": "A speech in which a character alone on stage reveals his innermost thoughts is a",
+   "options": [
+    "dialogue",
+    "aside",
+    "soliloquy",
+    "prologue"
+   ],
+   "answer": "2",
+   "solution": "A soliloquy is delivered by a character who is alone (or believes he is alone), giving the audience direct access to his mind. An aside is short and spoken while others are present."
+  },
+  {
+   "q": "The novel of a young person's growth from childhood to maturity is called",
+   "options": [
+    "picaresque novel",
+    "Bildungsroman",
+    "epistolary novel",
+    "roman a clef"
+   ],
+   "answer": "1",
+   "solution": "Bildungsroman is German for 'novel of formation', tracing the moral and psychological growth of a protagonist."
+  },
+  {
+   "q": "Which sub-genre of drama ends with the downfall or death of the protagonist?",
+   "options": [
+    "Farce",
+    "Comedy",
+    "Tragedy",
+    "Masque"
+   ],
+   "answer": "2",
+   "solution": "Tragedy traces a serious action to an unhappy end, usually caused by a tragic flaw or hamartia in the protagonist."
+  },
+  {
+   "q": "A poem written to mourn the dead is an",
+   "options": [
+    "ode",
+    "elegy",
+    "epic",
+    "idyll"
+   ],
+   "answer": "1",
+   "solution": "An elegy is a lyric of lamentation for the dead; an ode praises, and an epic narrates heroic exploits at length."
+  },
+  {
+   "q": "The arrangement of events in a literary work is known as the",
+   "options": [
+    "theme",
+    "plot",
+    "setting",
+    "diction"
+   ],
+   "answer": "1",
+   "solution": "Plot is the ordered arrangement of incidents; theme is the central idea and setting is time and place."
+  },
+  {
+   "q": "Aristotle's term for the purging of pity and fear in the audience of a tragedy is",
+   "options": [
+    "catharsis",
+    "hubris",
+    "anagnorisis",
+    "peripeteia"
+   ],
+   "answer": "0",
+   "solution": "Catharsis is the emotional cleansing the spectator experiences; hubris is excessive pride, anagnorisis is recognition and peripeteia is reversal of fortune."
+  },
+  {
+   "q": "An epistolary novel is one written in the form of",
+   "options": [
+    "diary entries only",
+    "letters",
+    "songs",
+    "court records"
+   ],
+   "answer": "1",
+   "solution": "The epistolary novel presents its story through letters exchanged between characters."
+  },
+  {
+   "q": "In poetry, the imagined speaker of the poem is called the",
+   "options": [
+    "poet",
+    "persona",
+    "protagonist",
+    "narrator"
+   ],
+   "answer": "1",
+   "solution": "The persona is the voice created by the poet; it must not be confused with the poet as a biographical person."
+  },
+  {
+   "q": "Which of these functions of literature is described as 'didactic'?",
+   "options": [
+    "Giving pleasure",
+    "Teaching moral lessons",
+    "Preserving language",
+    "Creating suspense"
+   ],
+   "answer": "1",
+   "solution": "Didactic means instructional: literature that teaches morals or corrects behaviour performs a didactic function."
+  },
+  {
+   "q": "A long narrative poem celebrating the deeds of a national hero is an",
+   "options": [
+    "elegy",
+    "epic",
+    "ode",
+    "eclogue"
+   ],
+   "answer": "1",
+   "solution": "Epics such as the Sundiata epic narrate heroic exploits in elevated style over great length."
+  },
+  {
+   "q": "The dramatic technique in which a character speaks briefly to the audience without other characters hearing is an",
+   "options": [
+    "aside",
+    "epilogue",
+    "interlude",
+    "apostrophe"
+   ],
+   "answer": "0",
+   "solution": "An aside is a short remark heard by the audience but conventionally unheard by other characters on stage."
+  },
+  {
+   "q": "Which statement best distinguishes drama from prose fiction?",
+   "options": [
+    "Drama has themes while prose does not",
+    "Drama shows action through actors while prose tells it through a narrator",
+    "Drama uses figurative language while prose does not",
+    "Drama is always shorter"
+   ],
+   "answer": "1",
+   "solution": "The essential difference is mode of presentation: drama enacts, prose narrates. Both may be long or short and both use figurative language and themes."
+  }
+ ]
+}

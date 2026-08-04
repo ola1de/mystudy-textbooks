@@ -1,0 +1,262 @@
+{
+ "subject": "Literature",
+ "level": "SSS 3",
+ "slug": "test-literary-appreciation",
+ "title": "Test of Literary Appreciation",
+ "outline": [
+  "The nature and demands of the unseen appreciation paper",
+  "Critical analysis techniques for unseen prose",
+  "Critical analysis techniques for unseen poetry",
+  "Structural analysis: plot shape, stanza design, argument movement",
+  "Model answers with full commentary",
+  "Timing, marking criteria and revision checklist"
+ ],
+ "modules": [
+  {
+   "title": "Module 1: Techniques of Critical Analysis",
+   "html": "\n<h4>1.1 What the Examiner Wants</h4>\n<p>The test of literary appreciation presents material you have never seen and asks you to interpret it. Marks are distributed roughly across four abilities: <strong>comprehension</strong> (what the passage says), <strong>analysis</strong> (how it is made), <strong>evaluation</strong> (how well it works) and <strong>expression</strong> (the quality of your own writing). Every claim must be tied to the words in front of you.</p>\n\n<h4>1.2 The Three-Part Analytical Move</h4>\n<table class=\"tb-table\">\n<tr><th>Step</th><th>Question</th><th>Sample wording</th></tr>\n<tr><td>Identify</td><td>What device is used?</td><td>'The writer uses a violent metaphor...'</td></tr>\n<tr><td>Illustrate</td><td>Where exactly?</td><td>'...in \"the city chewed its children\"...'</td></tr>\n<tr><td>Interpret</td><td>What effect on meaning?</td><td>'...which turns the city into a predator and makes urban poverty an act of consumption rather than neglect.'</td></tr>\n</table>\n\n<h4>1.3 Unseen Prose Checklist</h4>\n<ol>\n<li>Narrative situation: who narrates, in what person and tense?</li>\n<li>Characterisation: direct comment, speech, action or others' reactions?</li>\n<li>Setting and atmosphere: which details are selected, and why those?</li>\n<li>Dialogue: register, dialect, interruption, silence.</li>\n<li>Sentence rhythm: long cumulative sentences for reflection, short ones for shock.</li>\n<li>Tone and irony: is the narrator sympathetic, detached, hostile, amused?</li>\n<li>Theme: the general idea the incident exemplifies.</li>\n</ol>\n\n<h4>1.4 Unseen Poetry Checklist</h4>\n<ol>\n<li>Paraphrase stanza by stanza.</li>\n<li>Persona, addressee and occasion.</li>\n<li>Form: stanza length, rhyme scheme, metre, enjambment, caesura.</li>\n<li>Diction and register; repeated or unusual words.</li>\n<li>Imagery clusters and symbols.</li>\n<li>Sound: alliteration, assonance, sibilance, plosives, refrain.</li>\n<li>Shift (volta) and closure: how does the last line resolve or unsettle?</li>\n<li>Tone, mood, theme, and your evaluation.</li>\n</ol>\n\n<h4>1.5 Structural Analysis</h4>\n<p>Structure is the shape of the whole. In prose, look for the classical movement of exposition, complication, climax, denouement, and for framing, flashback and cyclical returns. In poetry, look for the argument's architecture: statement and answer; question and refusal; catalogue and summary; expansion and contraction. Where a passage begins and ends with the same image, the structure is <strong>cyclical</strong>, implying that nothing has changed or that the experience will repeat. Where the final line is markedly shorter, the effect is usually one of finality, resignation or shock.</p>\n",
+   "examples": [
+    {
+     "q": "Unseen prose: \"The magistrate did not look up. He wrote, and the pen scratched, and the room waited. Outside, a hawker cried the price of oranges as though nothing in the world were being decided.\" Give a full critical comment.",
+     "a": "The narration is third-person and severely objective: no mind is entered, so the reader is placed in the position of a spectator in the courtroom, sharing its powerlessness. Characterisation of the magistrate is achieved entirely through withheld action &mdash; 'did not look up' &mdash; which conveys indifference and institutional coldness far more economically than any description of his features could. The syntax enacts the tension: the triple clause 'He wrote, and the pen scratched, and the room waited' uses polysyndeton to stretch time, and the personification of the room as something that 'waited' transfers the accused's anxiety to the building itself. The auditory detail of the scratching pen is the only sound inside, so bureaucracy is heard rather than seen. The final sentence supplies irony through juxtaposition: the hawker's cry of orange prices continues 'as though nothing in the world were being decided', setting ordinary commerce against a life-altering judgement and suggesting both the isolation of the accused and the indifference of society. The tone is restrained and coldly ironic; the theme is the impersonality of institutional justice and the ordinary world's indifference to individual fate."
+    },
+    {
+     "q": "Explain how to comment on structure when a poem opens and closes with the same line.",
+     "a": "Begin by naming the pattern: the poem is cyclical, or framed by a repeated line. Then ask what has changed in between, because the meaning lies in the difference. If the intervening stanzas have revealed suffering, the returning line now carries irony, and the repetition implies that nothing has been learnt or that the cycle of suffering will continue. If the intervening stanzas have brought insight, the same words are re-read with new understanding, and the repetition implies transformation of perception rather than of circumstance. Finally connect the pattern to theme: cyclical structures typically serve themes of entrapment, ritual, memory or inevitability, and the reader's experience of returning to the beginning enacts precisely the entrapment the poem describes."
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Model Answers, Timing and Revision",
+   "html": "\n<h4>2.1 Model Answer Frame (10&ndash;15 mark unseen question)</h4>\n<ol>\n<li><strong>Sentence 1:</strong> genre, situation and dominant impression.</li>\n<li><strong>Paragraph 2:</strong> content and speaker/narrator, with one quotation.</li>\n<li><strong>Paragraph 3:</strong> structure and form, with reference to line or paragraph arrangement.</li>\n<li><strong>Paragraph 4:</strong> two or three devices, each with quotation and effect.</li>\n<li><strong>Paragraph 5:</strong> tone, theme and a brief evaluation.</li>\n</ol>\n\n<h4>2.2 Timing Discipline</h4>\n<table class=\"tb-table\">\n<tr><th>Activity</th><th>Suggested time (for a 45-minute question)</th></tr>\n<tr><td>Reading the passage twice</td><td>6 minutes</td></tr>\n<tr><td>Annotating and planning</td><td>6 minutes</td></tr>\n<tr><td>Writing</td><td>28 minutes</td></tr>\n<tr><td>Checking</td><td>5 minutes</td></tr>\n</table>\n\n<h4>2.3 Marking Criteria in Plain Terms</h4>\n<ul>\n<li><strong>Band A</strong> &ndash; accurate understanding, close and varied textual reference, confident analysis of effect, personal evaluation, fluent expression.</li>\n<li><strong>Band B</strong> &ndash; sound understanding, some analysis, devices named and mostly explained, competent expression.</li>\n<li><strong>Band C</strong> &ndash; largely paraphrase, devices listed without effect, thin quotation.</li>\n<li><strong>Band D/E</strong> &ndash; misreading, retelling, or general comment unattached to the text.</li>\n</ul>\n\n<h4>2.4 Final Revision Checklist</h4>\n<ol>\n<li>Know every prescribed text's plot, characters, themes, style and ten short quotations.</li>\n<li>Practise one unseen prose and one unseen poem each week under timed conditions.</li>\n<li>Keep a personal glossary of literary terms and test yourself on it.</li>\n<li>Rewrite one past essay a week after reading the marking comments.</li>\n<li>In the hall: read the whole paper first, budget time per question, answer the required number, and never leave an essay unfinished.</li>\n</ol>\n",
+   "examples": [
+    {
+     "q": "Convert this Band C sentence into a Band A sentence: \"The poet uses imagery and repetition which makes the poem effective.\"",
+     "a": "\"The repeated image of the closed door &mdash; 'the door that would not open', 'the door still shut' &mdash; grows heavier with each appearance, so that by the final stanza a domestic object has become the poem's symbol of exclusion, and the reader feels the persona's exhaustion as a rhythm rather than merely understanding it as a statement.\" The revision quotes precisely, tracks development across the poem, names the effect on the reader, and evaluates the technique instead of asserting vague effectiveness."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The unseen appreciation paper primarily tests a candidate's ability to",
+   "options": [
+    "recall prescribed texts",
+    "interpret and analyse unfamiliar material",
+    "write creatively",
+    "quote from memory"
+   ],
+   "answer": "1",
+   "solution": "The material is unseen, so the paper measures interpretation, analysis and evaluation rather than memorised knowledge."
+  },
+  {
+   "q": "The three-part analytical move consists of",
+   "options": [
+    "read, summarise, conclude",
+    "identify, illustrate, interpret",
+    "describe, list, repeat",
+    "quote, paraphrase, translate"
+   ],
+   "answer": "1",
+   "solution": "Name the device, quote it, and then explain its effect on meaning; the third step carries most of the marks."
+  },
+  {
+   "q": "A passage that begins and ends with the same image is described as",
+   "options": [
+    "episodic",
+    "cyclical",
+    "linear",
+    "digressive"
+   ],
+   "answer": "1",
+   "solution": "Cyclical structure returns to its starting point, often implying entrapment, ritual or inevitability."
+  },
+  {
+   "q": "Very short sentences in a prose passage most often create",
+   "options": [
+    "a leisurely, reflective pace",
+    "shock, tension or urgency",
+    "a comic tone",
+    "confusion of meaning"
+   ],
+   "answer": "1",
+   "solution": "Clipped syntax accelerates the reading and is typically used at moments of crisis or shock."
+  },
+  {
+   "q": "The repeated use of 'and' to link clauses is called",
+   "options": [
+    "asyndeton",
+    "polysyndeton",
+    "anaphora",
+    "chiasmus"
+   ],
+   "answer": "1",
+   "solution": "Polysyndeton multiplies conjunctions to slow the rhythm and stretch out time or accumulation."
+  },
+  {
+   "q": "In an unseen poem, a markedly shorter final line usually produces an effect of",
+   "options": [
+    "expansion",
+    "finality, resignation or shock",
+    "confusion",
+    "humour"
+   ],
+   "answer": "1",
+   "solution": "The sudden contraction of the line stops the rhythm abruptly, giving weight and closure to the last words."
+  },
+  {
+   "q": "The FIRST thing to establish when analysing unseen prose is",
+   "options": [
+    "the author's name",
+    "the narrative situation: who narrates, in what person",
+    "the number of paragraphs",
+    "the historical date"
+   ],
+   "answer": "1",
+   "solution": "Point of view controls what the reader knows and how the material is coloured, so it governs all further analysis."
+  },
+  {
+   "q": "Which is the clearest evidence of a Band A answer?",
+   "options": [
+    "Long quotations",
+    "Close, varied textual reference with explanation of effect",
+    "A list of every device present",
+    "A detailed plot summary"
+   ],
+   "answer": "1",
+   "solution": "Top-band answers select brief evidence and explain its effect, and they evaluate rather than merely describe."
+  },
+  {
+   "q": "Personification of a room that 'waited' in a courtroom passage functions to",
+   "options": [
+    "indicate the time of day",
+    "transfer the human tension to the setting",
+    "identify the narrator",
+    "introduce comic relief"
+   ],
+   "answer": "1",
+   "solution": "Attributing anticipation to the room externalises the characters' anxiety and thickens the atmosphere."
+  },
+  {
+   "q": "The deliberate omission of conjunctions between clauses is",
+   "options": [
+    "asyndeton",
+    "polysyndeton",
+    "ellipsis",
+    "parenthesis"
+   ],
+   "answer": "0",
+   "solution": "Asyndeton removes conjunctions to speed the rhythm and suggest breathlessness or accumulation."
+  },
+  {
+   "q": "'Register' in analysis refers to",
+   "options": [
+    "the loudness of a poem",
+    "the level of formality of the language used",
+    "the poem's rhyme scheme",
+    "the narrator's age"
+   ],
+   "answer": "1",
+   "solution": "Register describes whether language is formal, colloquial, technical, archaic or slang, and to what effect."
+  },
+  {
+   "q": "Irony created by placing two contrasting details side by side is best called",
+   "options": [
+    "juxtaposition",
+    "alliteration",
+    "hyperbole",
+    "apostrophe"
+   ],
+   "answer": "0",
+   "solution": "Juxtaposition sets contrasting elements together so that each comments on the other, often generating irony."
+  },
+  {
+   "q": "The recommended first activity when the unseen paper is opened is to",
+   "options": [
+    "start writing immediately",
+    "read the whole paper and budget time",
+    "count the marks only",
+    "learn the passage by heart"
+   ],
+   "answer": "1",
+   "solution": "Surveying the paper and allocating time per question prevents unfinished answers, the commonest cause of lost marks."
+  },
+  {
+   "q": "An answer that merely retells the passage will normally fall into",
+   "options": [
+    "the top band",
+    "the lower bands",
+    "the middle band automatically",
+    "no band"
+   ],
+   "answer": "1",
+   "solution": "Paraphrase without analysis of technique or effect is characteristic of Band C and below."
+  },
+  {
+   "q": "Grouping the images of an unseen poem into fields such as 'disease' or 'harvest' helps a candidate to",
+   "options": [
+    "count syllables",
+    "identify the dominant symbolic pattern and hence the theme",
+    "find the rhyme scheme",
+    "identify the poet"
+   ],
+   "answer": "1",
+   "solution": "Image clusters reveal the imaginative logic of the poem and lead directly to a defensible statement of theme."
+  },
+  {
+   "q": "Repetition of a word or phrase at the beginning of successive lines is",
+   "options": [
+    "anaphora",
+    "epistrophe",
+    "assonance",
+    "caesura"
+   ],
+   "answer": "0",
+   "solution": "Anaphora repeats an opening word or phrase across lines for emphasis and rhythmic insistence."
+  },
+  {
+   "q": "In evaluating an unseen passage, a candidate should",
+   "options": [
+    "avoid all personal judgement",
+    "offer a reasoned judgement supported by the text",
+    "criticise the writer's grammar",
+    "compare it with a prescribed text at length"
+   ],
+   "answer": "1",
+   "solution": "Evaluation is required, but it must be reasoned and anchored in textual evidence rather than mere preference."
+  },
+  {
+   "q": "Plosive consonants such as /p/, /b/ and /k/ in a battle description mainly convey",
+   "options": [
+    "gentleness",
+    "abruptness and violence",
+    "sleepiness",
+    "humour"
+   ],
+   "answer": "1",
+   "solution": "Plosives explode from the mouth, so they suit impact, blows and violent action."
+  },
+  {
+   "q": "A framing narrative is one in which",
+   "options": [
+    "a story is told within another story",
+    "the plot moves backwards",
+    "all events happen in one day",
+    "the narrator is unreliable"
+   ],
+   "answer": "0",
+   "solution": "In a frame narrative an outer story encloses an inner one, often adding perspective or distance."
+  },
+  {
+   "q": "The safest way to spend the last five minutes of a literature examination is to",
+   "options": [
+    "begin a new question",
+    "check and correct the answers already written",
+    "recopy an answer neatly",
+    "add a long conclusion to every essay"
+   ],
+   "answer": "1",
+   "solution": "Checking corrects misquotations, incomplete sentences and omitted points, which recovers marks cheaply."
+  }
+ ]
+}

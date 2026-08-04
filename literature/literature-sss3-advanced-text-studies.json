@@ -1,0 +1,262 @@
+{
+ "subject": "Literature",
+ "level": "SSS 3",
+ "slug": "advanced-text-studies",
+ "title": "Advanced Prescribed Text Studies",
+ "outline": [
+  "Shakespearean drama: Antony and Cleopatra - plot, structure and tragedy",
+  "Characterisation, subplots and the Rome/Egypt opposition",
+  "Revision of prescribed African and non-African drama and prose",
+  "Thematic connections across the prescribed texts",
+  "Handling context (passage-based) questions",
+  "Essay planning and revision strategy for Papers 2 and 3"
+ ],
+ "modules": [
+  {
+   "title": "Module 1: Antony and Cleopatra (William Shakespeare)",
+   "html": "\n<h4>1.1 Sources and Background</h4>\n<p>Written about 1606&ndash;1607, <em>Antony and Cleopatra</em> dramatises events of 40&ndash;30 BC, drawing on Sir Thomas North's translation of Plutarch's <em>Lives</em>. After the assassination of Julius Caesar, the Roman world is governed by the Second Triumvirate: <strong>Mark Antony</strong>, <strong>Octavius Caesar</strong> and <strong>Lepidus</strong>. Antony is entangled in Egypt with <strong>Cleopatra</strong>, the last Ptolemaic queen. The play is a tragedy of divided loyalty in which private passion and public duty destroy each other.</p>\n\n<h4>1.2 Structure: Act by Act</h4>\n<table class=\"tb-table\">\n<tr><th>Act</th><th>Action</th></tr>\n<tr><td>Act I</td><td>Philo's opening speech complains that Antony's 'captain's heart... is become the bellows and the fan to cool a gipsy's lust'. News from Rome (Fulvia's rebellion and death; Pompey's rising) forces Antony to leave Egypt. Cleopatra's moods dominate the Egyptian scenes; the Soothsayer foretells Charmian's and Iras's fates.</td></tr>\n<tr><td>Act II</td><td>In Rome, Antony and Caesar are reconciled and the alliance is sealed by Antony's political marriage to <strong>Octavia</strong>, Caesar's sister. Enobarbus delivers the famous barge speech describing Cleopatra ('Age cannot wither her, nor custom stale / Her infinite variety'). The triumvirs make peace with Pompey aboard his galley; Menas offers to murder the triumvirs and Pompey refuses only because it was not done without his knowledge.</td></tr>\n<tr><td>Act III</td><td>Antony returns to Egypt, deserting Octavia; Caesar deposes Lepidus and destroys Pompey, then declares war. Against advice, Antony fights at sea at <strong>Actium</strong>; Cleopatra's ships flee and Antony follows her, losing the battle and his honour. Enobarbus begins to doubt his master. Thidias's courting of Cleopatra provokes Antony's fury.</td></tr>\n<tr><td>Act IV</td><td>A brief land victory raises hopes, but the second sea fight is lost when the Egyptian fleet yields. Antony accuses Cleopatra of betrayal. Enobarbus deserts to Caesar, is shamed by Antony's generosity in sending his treasure after him, and dies of a broken heart. Cleopatra sends false news of her death; Antony, in despair, has Eros kill himself rather than kill his master, and then falls on his own sword, dying in Cleopatra's arms in the monument.</td></tr>\n<tr><td>Act V</td><td>Cleopatra negotiates with Caesar but learns from Dolabella that she is to be led in triumph through Rome. Refusing humiliation, she dresses in her royal robes ('Give me my robe, put on my crown; I have / Immortal longings in me'), receives the asps from the Clown in a basket of figs, and dies with Iras and Charmian. Caesar orders that they be buried together, granting the lovers in death the union denied them in life.</td></tr>\n</table>\n\n<h4>1.3 Rome and Egypt: The Structural Opposition</h4>\n<table class=\"tb-table\">\n<tr><th>Rome</th><th>Egypt</th></tr>\n<tr><td>Duty, reason, measure</td><td>Passion, imagination, excess</td></tr>\n<tr><td>Politics, war, empire</td><td>Feasting, love, theatre</td></tr>\n<tr><td>Cold verse, plain report</td><td>Hyperbolic, sensuous imagery</td></tr>\n<tr><td>Octavius Caesar</td><td>Cleopatra</td></tr>\n<tr><td>Masculine self-control</td><td>Fertility, the Nile, the feminine</td></tr>\n</table>\n<p>Antony is the battlefield on which these worlds contend, and the rapid switching of short scenes between the two settings is itself the play's chief structural device.</p>\n\n<h4>1.4 Characterisation</h4>\n<ul>\n<li><strong>Antony</strong> &ndash; 'triple pillar of the world', generous, charismatic, courageous, but self-indulgent and self-deceiving; his tragic flaw is the surrender of judgement to passion.</li>\n<li><strong>Cleopatra</strong> &ndash; infinitely variable: seductive, theatrical, jealous, cowardly at Actium, yet magnificent in death; she converts defeat into a final performance of sovereignty.</li>\n<li><strong>Octavius Caesar</strong> &ndash; efficient, cold, politically flawless; he wins the world but forfeits sympathy.</li>\n<li><strong>Enobarbus</strong> &ndash; the play's realist and semi-chorus; his desertion and remorseful death provide the moral commentary on loyalty.</li>\n<li><strong>Octavia</strong> &ndash; virtuous, patient and used as political currency; the pathos of her position condemns both triumvirs.</li>\n<li><strong>Charmian and Iras</strong> &ndash; loyal attendants whose deaths complete Cleopatra's tableau.</li>\n<li><strong>Lepidus, Pompey, Eros, Dolabella</strong> &ndash; supporting figures marking degrees of honour and expediency.</li>\n</ul>\n\n<h4>1.5 Themes and Style</h4>\n<ol>\n<li>Love versus duty; private passion against public office.</li>\n<li>The corrupting seduction of power and pleasure.</li>\n<li>Loyalty and betrayal (Enobarbus, the Egyptian fleet, Cleopatra's ambiguity).</li>\n<li>Honour, reputation and the Roman idea of the self.</li>\n<li>Mutability: 'the swan's down feather / That stands upon the swell at full of tide'.</li>\n<li>Transcendence in death: the lovers claim in eternity what politics denied them.</li>\n</ol>\n<p>Style: blank verse of great flexibility, hyperbole ('Let Rome in Tiber melt'), cosmic imagery (world, moon, sea, serpent, Nile), rapid short scenes, and a mingling of the comic (the Clown) with the sublime.</p>\n",
+   "examples": [
+    {
+     "q": "Is Antony a tragic hero? Justify your answer.",
+     "a": "Antony satisfies the essential conditions of tragic heroism while modifying them. He is of the highest rank &mdash; one of the three rulers of the known world &mdash; so his fall carries public consequence, and Shakespeare gives him the greatness of spirit that tragedy requires: generosity to the deserting Enobarbus, courage in the land battle, and a magnetism that survives every folly. His hamartia is the subordination of judgement to passion: he fights at sea against all advice because Cleopatra wishes it, and he flees after her ships, an act of self-destruction he himself names as shame. The reversal (peripeteia) is Actium; the recognition (anagnorisis) comes when he admits he has lost command of himself: 'I have fled myself'. His death, botched and slow, denies him Roman dignity and is thus doubly pitiable. What complicates the pattern is that his fall is also presented as a kind of gain: the play's final act insists that love outlasts empire, so Antony loses a world and, in the imaginative economy of the play, wins Cleopatra. He is therefore a genuine tragic hero of a distinctly ambivalent kind."
+    },
+    {
+     "q": "Discuss the dramatic function of Enobarbus.",
+     "a": "Enobarbus is Antony's blunt lieutenant and the play's chorus figure. First, he supplies commentary: his cynical asides puncture Roman ceremony and Egyptian excess alike, and his prose realism balances Antony's hyperbole. Second, he supplies the play's greatest set-piece, the barge speech, which gives the audience the mythic Cleopatra that the stage cannot show, and his conclusion &mdash; 'Age cannot wither her' &mdash; is decisive because it comes from a sceptic. Third, he is a moral barometer: his growing doubts chart Antony's decline more reliably than the battles do, and his desertion tells us the cause is objectively lost. Fourth, his death is the play's clearest moral judgement: when Antony sends his treasure after him, Enobarbus recognises his own baseness and dies of grief in a ditch, proving that loyalty betrayed destroys the betrayer. He thus dramatises the cost of the prudence that Antony lacks."
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Cross-Text Revision and Thematic Connections",
+   "html": "\n<h4>2.1 Consolidated Revision Grid</h4>\n<table class=\"tb-table\">\n<tr><th>Text</th><th>Genre / Type</th><th>Setting</th><th>Central Conflict</th><th>Key Themes</th></tr>\n<tr><td>The Marriage of Anansewa</td><td>African comedy (Anansegoro)</td><td>Post-independence Ghana</td><td>Ananse's fourfold deception</td><td>Materialism, marriage as commerce, wit and survival</td></tr>\n<tr><td>An Inspector Calls</td><td>Non-African social-problem play</td><td>Brumley, England, 1912</td><td>Inquiry into shared guilt</td><td>Social responsibility, class, generational change</td></tr>\n<tr><td>Antony and Cleopatra</td><td>Shakespearean tragedy</td><td>Rome and Egypt, 40&ndash;30 BC</td><td>Love against political duty</td><td>Passion, honour, loyalty, mutability</td></tr>\n<tr><td>So the Path Does Not Die</td><td>African novel</td><td>Aludo, Nigerian city, abroad</td><td>Tradition versus a girl's bodily right</td><td>Harmful practices, education, female solidarity</td></tr>\n<tr><td>To Kill a Mockingbird</td><td>Non-African novel</td><td>Maycomb, Alabama, 1930s</td><td>Tom Robinson's trial</td><td>Racial injustice, empathy, courage, innocence</td></tr>\n</table>\n\n<h4>2.2 Thematic Bridges (useful for comparative essays)</h4>\n<ul>\n<li><strong>The powerless woman</strong>: Anansewa, Eva Smith, Octavia, Ejiaka, Mayella Ewell &mdash; each is defined or damaged by decisions men make about her.</li>\n<li><strong>Justice and its failure</strong>: the Maycomb jury, the Birlings' evasions, Caesar's political calculation.</li>\n<li><strong>Tradition under pressure</strong>: bride-wealth in Ghana, circumcision in Aludo, Roman honour, Edwardian class etiquette, Southern segregation.</li>\n<li><strong>Moral education</strong>: Sheila Birling, Jem and Scout, Ejiaka, Anansewa &mdash; the young learn what the old refuse to.</li>\n<li><strong>Deception and revelation</strong>: Ananse's staged death, Goole's staged inquiry, Cleopatra's false death report.</li>\n</ul>\n\n<h4>2.3 Answering Context (Passage-Based) Questions</h4>\n<ol>\n<li><strong>Locate</strong> the extract precisely: which act/scene or chapter, and what has just happened.</li>\n<li><strong>Identify</strong> the speaker(s) and the person addressed.</li>\n<li><strong>Paraphrase</strong> the substance briefly &mdash; only as much as the question requires.</li>\n<li><strong>Analyse</strong> the language of the extract itself: imagery, tone, diction.</li>\n<li><strong>Connect</strong> the extract to plot, character development and theme.</li>\n<li><strong>State significance</strong>: why this passage matters to the whole work.</li>\n</ol>\n<p>Never write about the whole text in a context question, and never ignore the extract's own words.</p>\n",
+   "examples": [
+    {
+     "q": "Context question: 'I have fled myself.' Who says this, when, and what is its significance?",
+     "a": "The words are Antony's in Act III, immediately after the battle of Actium, spoken to his attendants and later reflected on before Cleopatra. Having agreed to fight at sea against Enobarbus's and Canidius's advice, he turned his ship and followed Cleopatra's fleeing sails, abandoning his own navy in the middle of the engagement. The line's significance is threefold. Grammatically it makes Antony both subject and object of flight, so the desertion is defined not as cowardice before Caesar but as a betrayal of his own identity as a Roman soldier. Dramatically it is the moment of recognition (anagnorisis) that follows the reversal at Actium: from here his decline is irreversible and Enobarbus begins to plan his desertion. Thematically it crystallises the play's opposition of Rome and Egypt: the 'self' Antony has fled is the Roman self of duty and reputation, surrendered to passion."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Antony and Cleopatra is based chiefly on which source?",
+   "options": [
+    "Holinshed's Chronicles",
+    "Plutarch's Lives translated by Sir Thomas North",
+    "Ovid's Metamorphoses",
+    "Virgil's Aeneid"
+   ],
+   "answer": "1",
+   "solution": "Shakespeare followed North's English translation of Plutarch's Lives closely, sometimes almost verbatim, notably in the barge speech."
+  },
+  {
+   "q": "The Second Triumvirate in the play consists of",
+   "options": [
+    "Antony, Caesar and Pompey",
+    "Antony, Caesar and Lepidus",
+    "Antony, Enobarbus and Lepidus",
+    "Caesar, Pompey and Lepidus"
+   ],
+   "answer": "1",
+   "solution": "Mark Antony, Octavius Caesar and Lepidus rule jointly; Lepidus is later deposed by Caesar."
+  },
+  {
+   "q": "Antony marries Octavia in order to",
+   "options": [
+    "gain wealth",
+    "cement his political alliance with Caesar",
+    "spite Cleopatra",
+    "obey Fulvia's will"
+   ],
+   "answer": "1",
+   "solution": "The marriage is a political device to repair relations between the triumvirs; Antony soon abandons her and returns to Egypt."
+  },
+  {
+   "q": "The decisive naval battle lost by Antony is fought at",
+   "options": [
+    "Actium",
+    "Philippi",
+    "Alexandria",
+    "Pharsalus"
+   ],
+   "answer": "0",
+   "solution": "At Actium Cleopatra's ships flee and Antony follows, losing the battle and his reputation."
+  },
+  {
+   "q": "Who delivers the famous description of Cleopatra on her barge?",
+   "options": [
+    "Antony",
+    "Enobarbus",
+    "Agrippa",
+    "Dolabella"
+   ],
+   "answer": "1",
+   "solution": "Enobarbus's speech in Act II includes 'Age cannot wither her, nor custom stale her infinite variety'."
+  },
+  {
+   "q": "Enobarbus dies",
+   "options": [
+    "in battle against Caesar",
+    "of grief and shame after deserting Antony",
+    "executed by Caesar",
+    "by Cleopatra's order"
+   ],
+   "answer": "1",
+   "solution": "Overwhelmed when Antony generously sends his treasure after him, he dies of a broken heart in a ditch."
+  },
+  {
+   "q": "Antony kills himself because he believes",
+   "options": [
+    "Caesar has captured Rome",
+    "Cleopatra is dead",
+    "Enobarbus has betrayed him",
+    "Octavia has left him"
+   ],
+   "answer": "1",
+   "solution": "Cleopatra sends false news of her death; in despair Antony falls on his sword."
+  },
+  {
+   "q": "Cleopatra chooses death by",
+   "options": [
+    "poison in wine",
+    "the bite of asps brought in a basket of figs",
+    "a dagger",
+    "drowning"
+   ],
+   "answer": "1",
+   "solution": "A Clown delivers the asps hidden among figs, and she dies royally robed and crowned."
+  },
+  {
+   "q": "Cleopatra's final motive for suicide is to",
+   "options": [
+    "escape debt",
+    "avoid being led in triumph through Rome",
+    "punish Caesar's soldiers",
+    "obey a prophecy"
+   ],
+   "answer": "1",
+   "solution": "Dolabella reveals Caesar's plan to display her in his Roman triumph; she chooses death over public humiliation."
+  },
+  {
+   "q": "The opposition of Rome and Egypt in the play chiefly represents",
+   "options": [
+    "north versus south",
+    "duty and reason versus passion and imagination",
+    "wealth versus poverty",
+    "old versus new religion"
+   ],
+   "answer": "1",
+   "solution": "Rome embodies political duty, measure and masculine self-control; Egypt embodies love, excess and imaginative abundance."
+  },
+  {
+   "q": "Antony's tragic flaw is best described as",
+   "options": [
+    "ambition",
+    "the surrender of judgement to passion",
+    "cowardice",
+    "avarice"
+   ],
+   "answer": "1",
+   "solution": "His generosity and courage are undermined by an indulgence that leads him to fight at sea and to flee after Cleopatra."
+  },
+  {
+   "q": "Octavius Caesar is presented as",
+   "options": [
+    "warm and impulsive",
+    "cold, calculating and politically efficient",
+    "weak and indecisive",
+    "corrupt and lazy"
+   ],
+   "answer": "1",
+   "solution": "Caesar wins the world through discipline and calculation, but Shakespeare withholds warmth from him."
+  },
+  {
+   "q": "Octavia's role in the play mainly demonstrates",
+   "options": [
+    "the strength of Roman women in war",
+    "how women are used as political currency",
+    "the corruption of the Egyptian court",
+    "the power of prophecy"
+   ],
+   "answer": "1",
+   "solution": "Virtuous and patient, she is married off to seal an alliance and discarded when the alliance fails."
+  },
+  {
+   "q": "Which character offers to murder the triumvirs aboard Pompey's galley?",
+   "options": [
+    "Menas",
+    "Eros",
+    "Thidias",
+    "Canidius"
+   ],
+   "answer": "0",
+   "solution": "Menas proposes cutting the cable and killing the three rulers; Pompey regrets only that it was not done without his knowledge."
+  },
+  {
+   "q": "Eros is significant because he",
+   "options": [
+    "betrays Antony to Caesar",
+    "kills himself rather than kill his master",
+    "brings the asps",
+    "commands the Egyptian fleet"
+   ],
+   "answer": "1",
+   "solution": "Ordered to kill Antony, Eros turns the sword on himself, shaming Antony into his own botched suicide."
+  },
+  {
+   "q": "The recurring imagery of the play draws most heavily on",
+   "options": [
+    "law courts",
+    "the cosmos, the sea, the Nile and the serpent",
+    "farming and harvest",
+    "music and dance"
+   ],
+   "answer": "1",
+   "solution": "World, moon, tide, Nile and serpent imagery inflate the lovers to cosmic scale and link Egypt with fertility and danger."
+  },
+  {
+   "q": "In a context question, the FIRST thing a candidate should establish is",
+   "options": [
+    "the theme of the whole play",
+    "the location of the extract and who is speaking",
+    "the author's biography",
+    "the number of acts"
+   ],
+   "answer": "1",
+   "solution": "Placing the extract and identifying speaker and addressee grounds every subsequent comment."
+  },
+  {
+   "q": "A thematic link between An Inspector Calls and To Kill a Mockingbird is",
+   "options": [
+    "the failure of a society's institutions to protect the vulnerable",
+    "the use of a narrator-storyteller",
+    "the tragic death of a monarch",
+    "the celebration of marriage"
+   ],
+   "answer": "0",
+   "solution": "A charity committee and a court of law both fail those they exist to serve, exposing class and racial prejudice respectively."
+  },
+  {
+   "q": "The mingling of the Clown's comedy with Cleopatra's suicide is an example of",
+   "options": [
+    "comic relief heightening the tragic climax",
+    "anticlimax destroying the mood",
+    "farce",
+    "satire"
+   ],
+   "answer": "0",
+   "solution": "The Clown's rustic joking immediately before the asps sharpens rather than dissipates the solemnity of the queen's death."
+  },
+  {
+   "q": "Caesar's order that Antony and Cleopatra be buried together suggests",
+   "options": [
+    "his personal affection for them",
+    "public acknowledgement that their love transcends his political victory",
+    "a religious requirement",
+    "an apology to Egypt"
+   ],
+   "answer": "1",
+   "solution": "Even the victor must concede the grandeur of the pair, granting in death the union that politics denied them in life."
+  }
+ ]
+}

@@ -1,0 +1,262 @@
+{
+ "subject": "Literature",
+ "level": "SSS 3",
+ "slug": "advanced-poetry-studies",
+ "title": "Advanced Prescribed Poetry Studies",
+ "outline": [
+  "Socio-political contexts of African and non-African poetry",
+  "Advanced analysis of the remaining prescribed poems",
+  "Sonnet forms, blank verse and free verse revisited",
+  "Style, diction, tone and structural patterning",
+  "Comparative poetry essays",
+  "Poetry examination strategy"
+ ],
+ "modules": [
+  {
+   "title": "Module 1: Contexts of the Prescribed Poetry",
+   "html": "\n<h4>1.1 Why Context Matters</h4>\n<p>A poem is written from within a historical situation. Knowing that Gabriel Okara wrote in a rapidly urbanising, newly independent Nigeria, or that African poets of the 1950s and 1960s wrote under colonialism and its aftermath, converts vague comment into precise analysis. Context should be used as evidence, never as substitute biography: mention it only when it explains something in the words on the page.</p>\n\n<h4>1.2 Broad Contexts You Should Command</h4>\n<table class=\"tb-table\">\n<tr><th>Context</th><th>Typical Concerns</th><th>Typical Techniques</th></tr>\n<tr><td>Colonial and anti-colonial Africa</td><td>Dispossession, cultural pride, protest, negritude</td><td>Oral forms, praise-song rhythm, symbols of land and drum</td></tr>\n<tr><td>Post-independence disillusion</td><td>Corruption, coups, poverty, betrayal of the dream</td><td>Irony, satire, animal allegory, urban imagery</td></tr>\n<tr><td>Modern urban Africa</td><td>Hypocrisy, alienation, materialism, generational change</td><td>Free verse, contrast, catalogues, colloquial diction</td></tr>\n<tr><td>Non-African romantic and modern verse</td><td>Nature, mortality, war, love, industrial life</td><td>Sonnet, ode, blank verse, dramatic monologue</td></tr>\n</table>\n\n<h4>1.3 Applying Context: 'Once Upon a Time' and 'Once Upon an Elephant' Revisited</h4>\n<p>Both prescribed poems use the folktale formula, but for different historical purposes. Okara's father-persona measures the loss of communal sincerity against the arrival of a westernised, transactional urban culture: the handshakes, cocktails and office roles are the furniture of the new city, and the poem's grief is cultural as well as personal. Boadi's elephant is the language of the fable applied to the fate of the powerful: in a post-independence context, an animal that all once feared and that is finally approached without dread reads unmistakably as a comment on rulers who mistake force for legitimacy. In both, oral tradition is not decoration but argument: the poets meet modern disorder with the authority of inherited storytelling.</p>\n\n<h4>1.4 A Framework for Any Remaining Prescribed Poem</h4>\n<ol>\n<li><strong>Situation</strong> &ndash; the literal event or scene.</li>\n<li><strong>Persona and addressee</strong> &ndash; who speaks, to whom, in what relationship.</li>\n<li><strong>Structure</strong> &ndash; stanza pattern, rhyme scheme, metre, volta.</li>\n<li><strong>Diction</strong> &ndash; register, key repeated words, coinages, dialect.</li>\n<li><strong>Imagery clusters</strong> &ndash; group images by field (nature, war, body, money).</li>\n<li><strong>Sound</strong> &ndash; alliteration, assonance, refrain, harshness or smoothness.</li>\n<li><strong>Tone and shift</strong> &ndash; where and how the attitude changes.</li>\n<li><strong>Theme and evaluation</strong> &ndash; the poem's claim and its success.</li>\n</ol>\n",
+   "examples": [
+    {
+     "q": "How can historical context be used in a poetry answer without turning it into a history essay?",
+     "a": "Context should be introduced only at the point where it explains a specific word, image or structure, and it should occupy a clause rather than a paragraph. Instead of writing three sentences about Nigerian urbanisation, a strong answer writes: 'The coined compound &quot;cocktailface&quot; belongs to the new social world of the independence-era city, and the very need to invent a word for it measures how recently, and how completely, sincerity has been displaced.' Here the historical fact earns its place by illuminating diction. The test is simple: if the sentence would still make sense with the poem removed, it belongs in a history essay, not in a literary appreciation."
+    },
+    {
+     "q": "Analyse the structural function of a volta in a sonnet about political disappointment.",
+     "a": "In a Petrarchan sonnet the octave (eight lines, rhyming \\( abbaabba \\)) typically states a situation and the sestet (six lines, \\( cdecde \\)) responds to it, the pivot between them being the volta. In a poem about political disappointment, the octave might build the promise of independence in expansive imagery of dawn, drums and flags, while the volta &mdash; often signalled by 'but', 'yet' or 'now' &mdash; introduces the sestet's contraction into images of hunger, barracks and silence. The form therefore performs the argument: eight lines of expectation are answered and outweighed by six lines of reality, and the reader experiences the disappointment as a structural drop rather than merely reading about it."
+    }
+   ]
+  },
+  {
+   "title": "Module 2: Advanced Stylistics and Comparative Poetry Essays",
+   "html": "\n<h4>2.1 Fixed Forms at a Glance</h4>\n<table class=\"tb-table\">\n<tr><th>Form</th><th>Length</th><th>Scheme</th><th>Typical Use</th></tr>\n<tr><td>Shakespearean sonnet</td><td>14 lines</td><td>\\( abab\\ cdcd\\ efef\\ gg \\)</td><td>Argument in three quatrains, resolved in a couplet</td></tr>\n<tr><td>Petrarchan sonnet</td><td>14 lines</td><td>\\( abbaabba\\ cdecde \\)</td><td>Problem in the octave, answer in the sestet</td></tr>\n<tr><td>Ballad</td><td>Quatrains</td><td>\\( abcb \\)</td><td>Narrative, refrain, communal song</td></tr>\n<tr><td>Ode</td><td>Variable stanzas</td><td>Irregular</td><td>Elevated praise or meditation</td></tr>\n<tr><td>Elegy / Dirge</td><td>Variable</td><td>Often regular</td><td>Mourning the dead</td></tr>\n<tr><td>Blank verse</td><td>Continuous</td><td>Unrhymed \\( \\times / \\times / \\times / \\times / \\times / \\)</td><td>Drama and long reflective verse</td></tr>\n<tr><td>Free verse</td><td>Variable</td><td>None fixed</td><td>Speech-based modern poetry</td></tr>\n</table>\n\n<h4>2.2 Beyond Naming: Advanced Comment</h4>\n<ul>\n<li><strong>Syntax</strong> &ndash; inversion, ellipsis, long accumulating sentences versus clipped fragments.</li>\n<li><strong>Line integrity</strong> &ndash; end-stopped lines suggest control; enjambment suggests overflow, urgency or breakdown.</li>\n<li><strong>Sound texture</strong> &ndash; euphony (smooth) against cacophony (harsh); plosives for violence, sibilants for whispering or menace.</li>\n<li><strong>Deixis</strong> &ndash; the placing of 'here', 'now', 'you', which positions the reader.</li>\n<li><strong>Symbol networks</strong> &ndash; a single image (mask, path, elephant, mirror) recurring with altered meaning.</li>\n</ul>\n\n<h4>2.3 Planning a Comparative Poetry Essay</h4>\n<ol>\n<li>Read the question and extract the exact comparative term (theme? technique? tone?).</li>\n<li>Draw a two-column grid of similarities and differences before writing.</li>\n<li>Organise by <strong>point</strong>, discussing both poems in each paragraph; never write half the essay on one poem.</li>\n<li>Quote briefly from both poems in every body paragraph.</li>\n<li>Conclude with a judgement of which poem treats the shared concern more effectively, and why.</li>\n</ol>\n",
+   "examples": [
+    {
+     "q": "Compare the treatment of loss in 'Once Upon a Time' and 'Once Upon an Elephant'.",
+     "a": "Both poems announce loss in their titles by borrowing the folktale formula, which fixes value irrecoverably in the past, but they lose different things and adopt different postures towards the loss. Okara's speaker mourns the loss of sincerity: the heart-laughter and warm handshakes of an earlier society have shrunk to teeth, masks and searching hands, and the loss is presented as internal and reversible &mdash; he asks his son to 'show me... how to laugh' again, so the poem ends in appeal. Boadi's fable mourns the loss of power: the elephant that once commanded the forest is finally approached without fear, and this loss is external and irreversible, the working of time upon all greatness. Consequently the tones diverge. Okara is confessional and self-accusing, indicting himself as much as his society, so the reader is drawn into shared guilt. Boadi is detached and ironic, the voice of a communal storyteller delivering a moral, so the reader is placed at the distance of an audience receiving instruction. Both, however, use repetition rather than rhyme to organise feeling, and both imply that a community which forgets what it has lost cannot recover it. Okara's poem is arguably the more moving because it offers a way back; Boadi's is the more severe because it does not."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The volta in a sonnet is",
+   "options": [
+    "the closing couplet",
+    "the turn in thought or feeling",
+    "the rhyme scheme",
+    "the opening line"
+   ],
+   "answer": "1",
+   "solution": "The volta is the pivot where the poem's argument or attitude shifts, in a Petrarchan sonnet usually between octave and sestet."
+  },
+  {
+   "q": "The rhyme scheme of a Shakespearean sonnet is",
+   "options": [
+    "abbaabba cdecde",
+    "abab cdcd efef gg",
+    "aabb ccdd eeff gg",
+    "abcb abcb abcb aa"
+   ],
+   "answer": "1",
+   "solution": "Three quatrains in alternate rhyme are followed by a concluding couplet."
+  },
+  {
+   "q": "A Petrarchan sonnet divides into",
+   "options": [
+    "three quatrains and a couplet",
+    "an octave and a sestet",
+    "two septets",
+    "four tercets and a couplet"
+   ],
+   "answer": "1",
+   "solution": "The Italian or Petrarchan sonnet states a problem in eight lines and answers it in six."
+  },
+  {
+   "q": "Unrhymed iambic pentameter used in drama and long reflective poems is",
+   "options": [
+    "free verse",
+    "blank verse",
+    "terza rima",
+    "sprung rhythm"
+   ],
+   "answer": "1",
+   "solution": "Blank verse keeps the metre but discards rhyme; Shakespeare's plays are largely written in it."
+  },
+  {
+   "q": "Harsh, discordant sound patterning is described as",
+   "options": [
+    "euphony",
+    "cacophony",
+    "assonance",
+    "cadence"
+   ],
+   "answer": "1",
+   "solution": "Cacophony uses harsh consonants for unpleasant or violent effect; euphony is its smooth opposite."
+  },
+  {
+   "q": "In post-independence African poetry, the commonest tone towards new rulers is",
+   "options": [
+    "reverent",
+    "ironic and satirical",
+    "indifferent",
+    "nostalgic only"
+   ],
+   "answer": "1",
+   "solution": "Disillusion with corruption and broken promises typically produces irony, satire and allegory."
+  },
+  {
+   "q": "Historical context should be used in a poetry essay",
+   "options": [
+    "as a long introductory paragraph",
+    "only where it explains a specific word, image or structure",
+    "instead of quotation",
+    "at the end as a summary"
+   ],
+   "answer": "1",
+   "solution": "Context must serve the analysis of the text; detached history earns no literary marks."
+  },
+  {
+   "q": "End-stopped lines most often suggest",
+   "options": [
+    "breathless urgency",
+    "control and completeness",
+    "confusion",
+    "loss of memory"
+   ],
+   "answer": "1",
+   "solution": "A pause at each line end conveys measured control; enjambment conveys overflow or urgency."
+  },
+  {
+   "q": "A ballad stanza normally rhymes",
+   "options": [
+    "abab",
+    "abcb",
+    "aabb",
+    "abba"
+   ],
+   "answer": "1",
+   "solution": "The traditional ballad quatrain rhymes only the second and fourth lines, alternating tetrameter and trimeter."
+  },
+  {
+   "q": "The best structure for a comparative poetry essay is to organise",
+   "options": [
+    "poem by poem",
+    "point by point, treating both poems in each paragraph",
+    "device by poet's biography",
+    "chronologically by publication"
+   ],
+   "answer": "1",
+   "solution": "Point-by-point organisation keeps the comparison active; poem-by-poem writing usually becomes two summaries."
+  },
+  {
+   "q": "Repetition of a whole line at intervals in a poem is a",
+   "options": [
+    "refrain",
+    "volta",
+    "conceit",
+    "caesura"
+   ],
+   "answer": "0",
+   "solution": "A refrain is a repeated line, typical of songs, ballads and dirges, giving structure and emphasis."
+  },
+  {
+   "q": "An extended metaphor sustained through a whole poem is called",
+   "options": [
+    "a conceit",
+    "an allusion",
+    "a paradox",
+    "a synecdoche"
+   ],
+   "answer": "0",
+   "solution": "A conceit is an elaborate, extended comparison developed at length."
+  },
+  {
+   "q": "Which of these best describes 'diction' in an advanced answer?",
+   "options": [
+    "The poet's handwriting",
+    "The poet's choice and register of words",
+    "The poem's rhyme scheme",
+    "The number of stanzas"
+   ],
+   "answer": "1",
+   "solution": "Diction concerns word choice: formal or colloquial, archaic or modern, native or borrowed."
+  },
+  {
+   "q": "A poem of mourning for a public figure, elevated in style, is best classed as",
+   "options": [
+    "an ode",
+    "an elegy",
+    "a ballad",
+    "an epigram"
+   ],
+   "answer": "1",
+   "solution": "Elegy is the poetry of lamentation for the dead; an ode is primarily celebratory or meditative."
+  },
+  {
+   "q": "Sibilance in a line about a lurking enemy chiefly creates",
+   "options": [
+    "a whispering, menacing effect",
+    "a joyful mood",
+    "a marching rhythm",
+    "comic bathos"
+   ],
+   "answer": "0",
+   "solution": "Repeated /s/ sounds imitate hissing and whispering, suiting concealment and threat."
+  },
+  {
+   "q": "Free verse achieves rhythm mainly through",
+   "options": [
+    "fixed metre",
+    "repetition, parallelism and line arrangement",
+    "rhyming couplets",
+    "regular stanza length"
+   ],
+   "answer": "1",
+   "solution": "Lacking metre and rhyme, free verse organises sound through repetition, parallel syntax and deliberate line breaks."
+  },
+  {
+   "q": "Two poems using the folktale formula 'once upon a...' most obviously share",
+   "options": [
+    "the same rhyme scheme",
+    "a placing of value in an irrecoverable past",
+    "the same number of stanzas",
+    "identical personas"
+   ],
+   "answer": "1",
+   "solution": "The formula signals pastness and moral instruction, which both prescribed poems exploit despite differing subjects."
+  },
+  {
+   "q": "A poem's persona confessing his own faults produces a tone that is",
+   "options": [
+    "self-accusing and confessional",
+    "triumphant",
+    "detached and objective",
+    "sarcastic"
+   ],
+   "answer": "0",
+   "solution": "Self-indictment, as in Okara's speaker, creates a confessional tone that implicates the reader in shared guilt."
+  },
+  {
+   "q": "The strongest concluding paragraph in a comparative essay should",
+   "options": [
+    "summarise both poems' stories",
+    "give an evaluative judgement answering the question",
+    "introduce a third poem",
+    "list the devices used"
+   ],
+   "answer": "1",
+   "solution": "A conclusion must judge, not repeat; it returns to the question's wording and states which poem succeeds and why."
+  },
+  {
+   "q": "Grouping images by field, such as war, body or money, is useful because it",
+   "options": [
+    "increases the word count",
+    "reveals the poem's dominant symbolic pattern",
+    "identifies the metre",
+    "establishes the rhyme scheme"
+   ],
+   "answer": "1",
+   "solution": "Image clusters expose the imaginative logic of a poem and lead directly to a statement of theme."
+  }
+ ]
+}
