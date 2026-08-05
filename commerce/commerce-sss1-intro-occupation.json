@@ -1,0 +1,237 @@
+{
+  "subject": "Commerce",
+  "level": "SSS 1",
+  "slug": "intro-occupation",
+  "title": "Introduction and Occupation",
+  "outline": [
+    "Meaning, scope and importance of commerce",
+    "Commercial and industrial activities distinguished",
+    "Occupation: industrial, commercial and service occupations",
+    "Production: types, factors and their rewards",
+    "Division of labour and specialisation",
+    "Utility, wants and the creation of value",
+    "Careers and self-employment opportunities in commerce"
+  ],
+  "modules": [
+    {
+      "title": "Meaning and Scope of Commerce",
+      "html": "\n<h4>What is Commerce?</h4>\n<p><strong>Commerce</strong> is the aggregate of all activities concerned with the <em>distribution</em> and <em>exchange</em> of goods and services from producers to final consumers, together with the aids that make such exchange possible. It removes the barriers of place, time, knowledge, finance and risk that stand between production and consumption.</p>\n<h4>Scope of Commerce</h4>\n<ol><li><strong>Trade</strong> – the actual buying and selling of goods; sub-divided into <em>home trade</em> (retail and wholesale) and <em>foreign trade</em> (import, export and entrepot).</li><li><strong>Aids to trade (ancillaries)</strong> – transportation, warehousing, banking, insurance, advertising, communication and tourism.</li></ol>\n<h4>Commerce, Trade and Industry</h4>\n<table class=\"tb-table\"><tr><th>Term</th><th>Meaning</th><th>Example</th></tr><tr><td>Industry</td><td>Extraction, processing and construction – creation of form utility</td><td>Cement manufacture</td></tr><tr><td>Trade</td><td>Buying and selling only</td><td>A supermarket</td></tr><tr><td>Commerce</td><td>Trade + all aids to trade</td><td>Trade, banking, insurance, haulage</td></tr></table>\n<h4>Importance of Commerce</h4>\n<ul><li>Bridges the gap between producers and consumers.</li><li>Creates employment and raises the standard of living.</li><li>Encourages large-scale production and specialisation.</li><li>Generates government revenue through duties and taxes.</li><li>Promotes international understanding and the transfer of technology.</li></ul>\n<h4>Barriers to Trade and Their Removers</h4>\n<table class=\"tb-table\"><tr><th>Barrier</th><th>Remover</th></tr><tr><td>Place (distance)</td><td>Transportation</td></tr><tr><td>Time (seasonality)</td><td>Warehousing</td></tr><tr><td>Finance</td><td>Banking</td></tr><tr><td>Risk</td><td>Insurance</td></tr><tr><td>Ignorance</td><td>Advertising &amp; communication</td></tr><tr><td>Exchange</td><td>Money and trade</td></tr></table>\n",
+      "examples": [
+        {
+          "q": "A farmer in Benue harvests yams that are sold in Lagos six months later. Identify the commercial services that made this possible and the utility each created.",
+          "a": "Transportation moved the yams from Benue to Lagos, creating <em>place utility</em>. Warehousing stored them for six months, creating <em>time utility</em>. Banking financed the purchase and payment, insurance carried the risk of spoilage/theft, while advertising informed Lagos buyers (knowledge). The trader who finally sold them created <em>possession utility</em>."
+        },
+        {
+          "q": "Distinguish between commerce and industry using a bakery as illustration.",
+          "a": "Industry is the baking of flour, sugar and yeast into bread – form utility. Commerce covers the purchase of flour, haulage of bread to shops, storage, the insurance of the delivery van, the bank overdraft financing raw materials and the radio advert. Industry produces; commerce distributes and supports."
+        }
+      ]
+    },
+    {
+      "title": "Occupation and Its Divisions",
+      "html": "\n<h4>Meaning</h4>\n<p>An <strong>occupation</strong> is the economic activity a person engages in regularly to earn a living. Occupations are broadly divided into three.</p>\n<h4>1. Industrial Occupation</h4>\n<ul><li><strong>Extractive</strong> – taking materials from nature: farming, fishing, mining, lumbering, quarrying.</li><li><strong>Manufacturing</strong> – converting raw materials into finished goods: textiles, cement, food processing.</li><li><strong>Constructive</strong> – assembling finished materials into structures: roads, bridges, buildings, ships.</li></ul>\n<h4>2. Commercial Occupation</h4>\n<p>Trade and aids to trade: retailers, wholesalers, bankers, insurers, shipping agents, advertisers, warehouse keepers.</p>\n<h4>3. Service (Direct/Personal) Occupation</h4>\n<ul><li><strong>Direct services</strong> – rendered to individuals: doctors, teachers, lawyers, barbers, musicians.</li><li><strong>Indirect services</strong> – rendered to the community: police, soldiers, civil servants, firefighters.</li></ul>\n<h4>Factors Determining Choice of Occupation</h4>\n<ol><li>Level of education, skill and aptitude</li><li>Remuneration and fringe benefits</li><li>Availability of capital</li><li>Prestige and job security</li><li>Family background, environment and government policy</li></ol>\n",
+      "examples": [
+        {
+          "q": "Classify the following: (i) a Warri crude oil driller (ii) a Kano wholesaler of textiles (iii) an Ibadan nurse (iv) a Julius Berger bridge builder.",
+          "a": "(i) Industrial – extractive. (ii) Commercial – trade. (iii) Service – direct service. (iv) Industrial – constructive."
+        },
+        {
+          "q": "Why are commercial and service occupations described as 'non-productive' by some writers, and why is this wrong?",
+          "a": "They create no tangible goods, so critics call them unproductive. But production is complete only when goods reach the consumer; a doctor, banker or retailer creates utility and satisfies wants, so both are genuinely productive."
+        }
+      ]
+    },
+    {
+      "title": "Production, Factors of Production and Utility",
+      "html": "\n<h4>Meaning of Production</h4>\n<p><strong>Production</strong> is the creation of goods and services to satisfy human wants. It is complete only when the goods reach the final consumer.</p>\n<h4>Types of Production</h4>\n<ol><li><strong>Primary</strong> – extractive activities.</li><li><strong>Secondary</strong> – manufacturing and construction.</li><li><strong>Tertiary</strong> – commercial and service activities.</li></ol>\n<h4>Factors of Production and Their Rewards</h4>\n<table class=\"tb-table\"><tr><th>Factor</th><th>Meaning</th><th>Reward</th></tr><tr><td>Land</td><td>All free gifts of nature</td><td>Rent</td></tr><tr><td>Labour</td><td>Human physical and mental effort</td><td>Wages/Salaries</td></tr><tr><td>Capital</td><td>Man-made assets used to produce further wealth</td><td>Interest</td></tr><tr><td>Entrepreneur</td><td>Organiser and risk-bearer</td><td>Profit</td></tr></table>\n<h4>Division of Labour and Specialisation</h4>\n<p>Splitting production into separate tasks performed by different people. Advantages: greater output, higher skill, saving of time, use of machinery, lower unit cost. Disadvantages: monotony, over-dependence, risk of unemployment, loss of craftsmanship.</p>\n<h4>Utility</h4>\n<p><strong>Utility</strong> is the ability of a good or service to satisfy a want. Forms: <em>form</em> utility (manufacturing), <em>place</em> utility (transport), <em>time</em> utility (storage), <em>possession</em> utility (trade).</p>\n<h4>Basic Business Measures</h4>\n<p>Two measures used throughout the course:</p>\n$$\\text{Working Capital} = \\text{Current Assets} - \\text{Current Liabilities}$$\n$$\\text{Capital Employed} = \\text{Total Assets} - \\text{Current Liabilities}$$\n<p>Profit as a percentage of turnover is \\( \\dfrac{\\text{Net Profit}}{\\text{Turnover}} \\times 100 \\).</p>\n",
+      "examples": [
+        {
+          "q": "A trader has current assets of ₦850,000 and current liabilities of ₦320,000. Total assets are ₦1,500,000. Find the working capital and capital employed.",
+          "a": "Working Capital \\( = 850{,}000 - 320{,}000 = ₦530{,}000 \\). Capital Employed \\( = 1{,}500{,}000 - 320{,}000 = ₦1{,}180{,}000 \\). The positive working capital shows the business can settle short-term debts and still finance daily operations."
+        },
+        {
+          "q": "A tailoring workshop of 5 workers sews 40 shirts a day. After introducing division of labour output rises to 75 shirts. Calculate the percentage increase and state two dangers of the change.",
+          "a": "Increase \\( = \\dfrac{75-40}{40} \\times 100 = 87.5\\% \\). Dangers: monotony leading to low morale, and over-dependence – the absence of one specialist can halt the whole line."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Commerce may best be defined as",
+      "options": [
+        "Production of goods only",
+        "Trade and all aids to trade",
+        "Manufacturing and construction",
+        "Buying of raw materials"
+      ],
+      "answer": "1",
+      "solution": "Commerce = trade (buying and selling) PLUS the ancillaries such as banking, insurance, transport, warehousing, advertising and communication."
+    },
+    {
+      "q": "Which of the following is NOT an aid to trade?",
+      "options": [
+        "Insurance",
+        "Warehousing",
+        "Mining",
+        "Advertising"
+      ],
+      "answer": "2",
+      "solution": "Mining is an extractive (industrial) activity, not an aid to trade."
+    },
+    {
+      "q": "The barrier of distance in trade is removed by",
+      "options": [
+        "Banking",
+        "Transportation",
+        "Insurance",
+        "Warehousing"
+      ],
+      "answer": "1",
+      "solution": "Transport moves goods from where they are produced to where they are needed, creating place utility."
+    },
+    {
+      "q": "Warehousing creates",
+      "options": [
+        "Form utility",
+        "Time utility",
+        "Place utility",
+        "Possession utility"
+      ],
+      "answer": "1",
+      "solution": "Storing goods until they are needed creates time utility."
+    },
+    {
+      "q": "Fishing, mining and lumbering are examples of",
+      "options": [
+        "Constructive occupations",
+        "Extractive occupations",
+        "Commercial occupations",
+        "Direct services"
+      ],
+      "answer": "1",
+      "solution": "They take materials directly from nature."
+    },
+    {
+      "q": "The reward for the entrepreneur is",
+      "options": [
+        "Rent",
+        "Interest",
+        "Profit",
+        "Salary"
+      ],
+      "answer": "2",
+      "solution": "The entrepreneur organises the other factors and bears risk; the residual reward is profit."
+    },
+    {
+      "q": "A soldier renders",
+      "options": [
+        "Direct service",
+        "Indirect service",
+        "Commercial service",
+        "Extractive service"
+      ],
+      "answer": "1",
+      "solution": "Services rendered to the community as a whole are indirect services."
+    },
+    {
+      "q": "Tertiary production involves",
+      "options": [
+        "Extraction of raw materials",
+        "Manufacturing of goods",
+        "Commercial and personal services",
+        "Construction of bridges"
+      ],
+      "answer": "2",
+      "solution": "Tertiary production covers commerce and services."
+    },
+    {
+      "q": "Working capital is calculated as",
+      "options": [
+        "Total assets minus total liabilities",
+        "Current assets minus current liabilities",
+        "Fixed assets plus current assets",
+        "Capital plus profit"
+      ],
+      "answer": "1",
+      "solution": "Working capital measures short-term liquidity: current assets less current liabilities."
+    },
+    {
+      "q": "Capital employed equals",
+      "options": [
+        "Total assets minus current liabilities",
+        "Current assets minus stock",
+        "Fixed assets only",
+        "Turnover minus cost of sales"
+      ],
+      "answer": "0",
+      "solution": "Capital employed = total assets − current liabilities, i.e. long-term funds tied down in the business."
+    },
+    {
+      "q": "A major disadvantage of division of labour is",
+      "options": [
+        "Increased output",
+        "Monotony and boredom",
+        "Use of machinery",
+        "Saving of time"
+      ],
+      "answer": "1",
+      "solution": "Repeating one task all day makes work monotonous and reduces job satisfaction."
+    },
+    {
+      "q": "Which factor of production earns rent?",
+      "options": [
+        "Labour",
+        "Land",
+        "Capital",
+        "Entrepreneur"
+      ],
+      "answer": "1",
+      "solution": "Rent is the reward for land, the free gift of nature."
+    },
+    {
+      "q": "Converting cocoa beans into chocolate creates",
+      "options": [
+        "Place utility",
+        "Time utility",
+        "Form utility",
+        "Possession utility"
+      ],
+      "answer": "2",
+      "solution": "Changing the physical form of a good creates form utility."
+    },
+    {
+      "q": "Production is said to be complete when",
+      "options": [
+        "Goods leave the factory",
+        "Goods are stored in a warehouse",
+        "Goods reach the final consumer",
+        "Raw materials are extracted"
+      ],
+      "answer": "2",
+      "solution": "Until the consumer's want is satisfied, production is incomplete."
+    },
+    {
+      "q": "Entrepot trade is a branch of",
+      "options": [
+        "Home trade",
+        "Foreign trade",
+        "Retail trade",
+        "Service occupation"
+      ],
+      "answer": "1",
+      "solution": "Entrepot (re-export) trade is the importation of goods for onward export, a branch of foreign trade."
+    },
+    {
+      "q": "Which of these best determines a person's choice of occupation?",
+      "options": [
+        "Colour of the office",
+        "Skill, capital and remuneration",
+        "Number of workers in the town",
+        "Weather of the day"
+      ],
+      "answer": "1",
+      "solution": "Aptitude/skill, available capital, pay and security are the recognised determinants."
+    }
+  ]
+}

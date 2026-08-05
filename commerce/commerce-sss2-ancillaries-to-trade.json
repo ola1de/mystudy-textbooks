@@ -1,0 +1,236 @@
+{
+  "subject": "Commerce",
+  "level": "SSS 2",
+  "slug": "ancillaries-to-trade",
+  "title": "Ancillaries to Trade",
+  "outline": [
+    "Transportation: modes, merits, demerits and factors of choice",
+    "Communication: types, modern ICT and importance",
+    "Warehousing: types, functions and location",
+    "Advertising: types, media, merits and criticisms",
+    "Tourism and other aids to trade",
+    "Costing simple transport and storage decisions"
+  ],
+  "modules": [
+    {
+      "title": "Transportation and Communication",
+      "html": "\n<h4>Transportation</h4>\n<p>Transport creates <strong>place utility</strong> by moving goods and people from where they are less needed to where they are more needed.</p>\n<table class=\"tb-table\"><tr><th>Mode</th><th>Advantages</th><th>Disadvantages</th></tr><tr><td>Road</td><td>Flexible, door-to-door, cheap for short distance</td><td>Accidents, congestion, small loads</td></tr><tr><td>Rail</td><td>Cheap for heavy bulky goods over long distance, safe</td><td>Inflexible, fixed routes, high capital cost</td></tr><tr><td>Water</td><td>Cheapest for very bulky international cargo</td><td>Very slow; ports required</td></tr><tr><td>Air</td><td>Fastest; ideal for perishables and valuables</td><td>Most expensive; limited capacity; weather-dependent</td></tr><tr><td>Pipeline</td><td>Continuous, low running cost for liquids and gas</td><td>Only for fluids; vandalism; high initial cost</td></tr></table>\n<h5>Factors Determining Choice of Transport</h5>\n<ol><li>Nature and value of the goods</li><li>Urgency and perishability</li><li>Distance and route availability</li><li>Cost of carriage relative to value</li><li>Safety and level of risk</li></ol>\n<h4>Communication</h4>\n<p>Communication removes the barrier of <em>ignorance</em>. Types: oral, written, visual and electronic. Modern services include mobile telephony, e-mail, video conferencing, internet banking, courier services and the postal system (registered mail, PO Box, money order).</p>\n<h5>Importance</h5>\n<ul><li>Speeds up orders, quotations and payment.</li><li>Links branches and enables management control.</li><li>Provides market information and price data.</li><li>Supports e-commerce and remote work.</li></ul>\n",
+      "examples": [
+        {
+          "q": "A trader must move 20 tonnes of tomatoes from Jos to Lagos. Road haulage costs ₦320,000 with 12% spoilage; air freight costs ₦900,000 with 1% spoilage. Tomatoes sell for ₦120,000 per tonne. Which is better?",
+          "a": "Road: revenue \\(=20\\times0.88\\times120{,}000=₦2{,}112{,}000\\); less ₦320,000 → ₦1,792,000. Air: revenue \\(=20\\times0.99\\times120{,}000=₦2{,}376{,}000\\); less ₦900,000 → ₦1,476,000. Road transport yields ₦316,000 more, so it is preferable despite higher spoilage."
+        },
+        {
+          "q": "State three ways ICT has changed Nigerian commerce.",
+          "a": "Mobile money and internet banking have replaced much cash handling; online marketplaces let small traders reach nationwide customers without a shop; instant messaging and e-mail reduce the cost and delay of placing orders and confirming shipments."
+        }
+      ]
+    },
+    {
+      "title": "Warehousing",
+      "html": "\n<h4>Meaning</h4>\n<p><strong>Warehousing</strong> is the holding and storing of goods from the time of production until they are needed, creating <strong>time utility</strong> and steadying prices.</p>\n<h4>Types of Warehouse</h4>\n<ol><li><strong>Wholesaler's warehouse</strong> – stores bulk goods for breaking down.</li><li><strong>Retailer's warehouse</strong> – small stockroom attached to a shop.</li><li><strong>Manufacturer's warehouse</strong> – raw materials and finished goods.</li><li><strong>Bonded warehouse</strong> – dutiable imports held under customs control.</li><li><strong>Public/dock warehouse</strong> – rented space, often at ports.</li><li><strong>Cold store</strong> – refrigerated storage for perishables.</li></ol>\n<h4>Functions</h4>\n<ul><li>Protects goods from theft, weather and deterioration.</li><li>Ensures steady supply and stable prices throughout the year.</li><li>Allows grading, blending, packaging and branding.</li><li>Enables bulk purchase and quantity discounts.</li><li>Facilitates deferment of import duty (bonded).</li></ul>\n<h4>Factors in Siting a Warehouse</h4>\n<p>Nearness to market and to transport routes, security, cost of land, availability of power and labour, nature of goods, and expansion possibilities.</p>\n<h4>Storage Cost Illustration</h4>\n<p>Total storage cost \\( = \\text{Fixed rent} + (\\text{Rate per unit per month} \\times \\text{units} \\times \\text{months}) \\).</p>\n",
+      "examples": [
+        {
+          "q": "A warehouse charges ₦80,000 fixed monthly rent plus ₦150 per bag per month. A trader stores 900 bags for 3 months. Find the total cost and cost per bag.",
+          "a": "Variable \\(=150\\times900\\times3=₦405{,}000\\); fixed \\(=80{,}000\\times3=₦240{,}000\\). Total \\(=₦645{,}000\\). Cost per bag \\(=\\dfrac{645{,}000}{900}=₦716.67\\) for the three months."
+        },
+        {
+          "q": "Explain how warehousing stabilises prices of seasonal produce.",
+          "a": "At harvest, supply is abundant and prices would crash; storing part of the crop reduces the quantity on the market. In the off-season, the stored goods are released, preventing extreme scarcity and price spikes. Prices are thus evened out over the year."
+        }
+      ]
+    },
+    {
+      "title": "Advertising and Other Aids",
+      "html": "\n<h4>Meaning and Types</h4>\n<p><strong>Advertising</strong> is any paid, non-personal presentation of goods, services or ideas by an identified sponsor.</p>\n<ul><li><strong>Informative advertising</strong> – gives facts about a new product.</li><li><strong>Persuasive/competitive advertising</strong> – urges the buyer to prefer one brand.</li><li><strong>Collective/generic advertising</strong> – sponsored by an industry to promote a whole product class.</li></ul>\n<h4>Media</h4>\n<table class=\"tb-table\"><tr><th>Medium</th><th>Strength</th><th>Weakness</th></tr><tr><td>Television</td><td>Sight, sound and motion; wide reach</td><td>Very expensive</td></tr><tr><td>Radio</td><td>Cheap; reaches rural and local-language audiences</td><td>No visual impact</td></tr><tr><td>Newspaper/magazine</td><td>Detailed, can be kept for reference</td><td>Only literate audience</td></tr><tr><td>Outdoor (billboards)</td><td>Repeated exposure; low cost per view</td><td>Brief message only</td></tr><tr><td>Social media/internet</td><td>Targeted, measurable, interactive</td><td>Requires data access; ad fatigue</td></tr></table>\n<h4>Advantages and Criticisms</h4>\n<p><em>Advantages:</em> creates awareness and demand, supports mass production and lower unit cost, finances the media, aids new product launches, informs about prices and quality.<br/><em>Criticisms:</em> raises the price of goods, may mislead, encourages wasteful/impulse buying, promotes materialism, and can create harmful brand monopoly.</p>\n<h4>Other Aids to Trade</h4>\n<ul><li><strong>Banking</strong> – finance, payment and safekeeping.</li><li><strong>Insurance</strong> – transfer of risk.</li><li><strong>Tourism</strong> – earns foreign exchange, creates employment and markets local products.</li></ul>\n",
+      "examples": [
+        {
+          "q": "A firm spends ₦3,000,000 on adverts and sales rise from ₦40,000,000 to ₦52,000,000 with a gross margin of 30%. Was the campaign worthwhile?",
+          "a": "Additional sales \\(=₦12{,}000{,}000\\); additional gross profit \\(=30\\%\\times12{,}000{,}000=₦3{,}600{,}000\\). Since ₦3,600,000 > ₦3,000,000 advertising cost, the campaign added ₦600,000 net – it was worthwhile, though other causes of the sales rise should be checked."
+        },
+        {
+          "q": "Distinguish informative from persuasive advertising with examples.",
+          "a": "Informative advertising states facts – e.g. a bank announcing new USSD codes and branch addresses. Persuasive advertising appeals to emotion and comparison – e.g. a soft-drink advert claiming its taste is superior and showing happy young celebrities."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Transport creates",
+      "options": [
+        "Form utility",
+        "Place utility",
+        "Time utility",
+        "Possession utility"
+      ],
+      "answer": "1",
+      "solution": "Moving goods to where they are needed creates place utility."
+    },
+    {
+      "q": "The cheapest means of carrying very bulky goods over long international distances is",
+      "options": [
+        "Air",
+        "Water",
+        "Road",
+        "Pipeline"
+      ],
+      "answer": "1",
+      "solution": "Sea transport has the lowest cost per tonne-kilometre for bulk cargo."
+    },
+    {
+      "q": "Pipeline transport is most suitable for",
+      "options": [
+        "Cement bags",
+        "Crude oil and gas",
+        "Live animals",
+        "Textiles"
+      ],
+      "answer": "1",
+      "solution": "Only fluids and gases can flow through pipelines."
+    },
+    {
+      "q": "Warehousing mainly creates",
+      "options": [
+        "Place utility",
+        "Time utility",
+        "Form utility",
+        "Legal utility"
+      ],
+      "answer": "1",
+      "solution": "Holding goods until they are needed creates time utility."
+    },
+    {
+      "q": "A warehouse under customs control is called",
+      "options": [
+        "Cold store",
+        "Bonded warehouse",
+        "Retailer's warehouse",
+        "Dock office"
+      ],
+      "answer": "1",
+      "solution": "Dutiable goods stay there until duty is paid or they are re-exported."
+    },
+    {
+      "q": "Which factor is LEAST important in siting a warehouse?",
+      "options": [
+        "Nearness to market",
+        "Security",
+        "Colour of the roof",
+        "Transport links"
+      ],
+      "answer": "2",
+      "solution": "Aesthetics of the roof have no economic bearing on warehouse location."
+    },
+    {
+      "q": "Advertising removes the barrier of",
+      "options": [
+        "Distance",
+        "Ignorance",
+        "Risk",
+        "Finance"
+      ],
+      "answer": "1",
+      "solution": "It informs buyers about goods, prices and where to find them."
+    },
+    {
+      "q": "An advert sponsored by an entire industry is",
+      "options": [
+        "Persuasive",
+        "Collective/generic",
+        "Informative only",
+        "Classified"
+      ],
+      "answer": "1",
+      "solution": "Generic adverts promote a product class, e.g. 'Drink more milk'."
+    },
+    {
+      "q": "A major criticism of advertising is that it",
+      "options": [
+        "Creates awareness",
+        "Increases the price of goods",
+        "Finances the media",
+        "Supports mass production"
+      ],
+      "answer": "1",
+      "solution": "Advertising costs are recovered in the selling price."
+    },
+    {
+      "q": "Which medium reaches rural, non-literate audiences best?",
+      "options": [
+        "Newspaper",
+        "Radio in local languages",
+        "Magazine",
+        "Trade journal"
+      ],
+      "answer": "1",
+      "solution": "Radio needs no literacy and is inexpensive and widespread."
+    },
+    {
+      "q": "Air transport is preferred for",
+      "options": [
+        "Cement",
+        "Fresh flowers and medicines",
+        "Crude oil",
+        "Gravel"
+      ],
+      "answer": "1",
+      "solution": "Speed suits perishables and high-value light goods."
+    },
+    {
+      "q": "Communication in business is important because it",
+      "options": [
+        "Increases spoilage",
+        "Speeds up orders and payments",
+        "Raises transport cost",
+        "Reduces market information"
+      ],
+      "answer": "1",
+      "solution": "Fast information flow shortens the order-to-payment cycle."
+    },
+    {
+      "q": "Storing goods at harvest and releasing them later helps to",
+      "options": [
+        "Cause scarcity",
+        "Stabilise prices",
+        "Destroy quality",
+        "Reduce demand"
+      ],
+      "answer": "1",
+      "solution": "Even distribution across the year prevents extreme price swings."
+    },
+    {
+      "q": "Tourism aids trade by",
+      "options": [
+        "Reducing exports",
+        "Earning foreign exchange",
+        "Increasing import duty",
+        "Discouraging travel"
+      ],
+      "answer": "1",
+      "solution": "Visitors spend foreign currency and create local employment."
+    },
+    {
+      "q": "Which mode is most flexible for door-to-door delivery?",
+      "options": [
+        "Rail",
+        "Road",
+        "Water",
+        "Pipeline"
+      ],
+      "answer": "1",
+      "solution": "Road vehicles can reach almost any address."
+    },
+    {
+      "q": "Total storage cost of 500 units for 2 months at ₦100 per unit per month plus ₦50,000 fixed monthly rent is",
+      "options": [
+        "₦150,000",
+        "₦200,000",
+        "₦250,000",
+        "₦100,000"
+      ],
+      "answer": "1",
+      "solution": "Variable = 100×500×2 = ₦100,000; fixed = 50,000×2 = ₦100,000; total = ₦200,000."
+    }
+  ]
+}

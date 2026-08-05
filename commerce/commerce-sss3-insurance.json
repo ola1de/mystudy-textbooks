@@ -1,0 +1,236 @@
+{
+  "subject": "Commerce",
+  "level": "SSS 3",
+  "slug": "insurance",
+  "title": "Insurance",
+  "outline": [
+    "Meaning, terms and importance of insurance",
+    "Principles of insurance",
+    "Insurable and non-insurable risks",
+    "Classes of insurance: life, marine, fire, motor, accident",
+    "Reinsurance, co-insurance and double insurance",
+    "Premium, average clause and claim computations"
+  ],
+  "modules": [
+    {
+      "title": "Meaning, Terms and Principles",
+      "html": "\n<h4>Meaning</h4>\n<p><strong>Insurance</strong> is a contract in which the insurer, for a consideration called the <em>premium</em>, undertakes to indemnify the insured against loss arising from a specified risk. It works by <strong>pooling risks</strong>: the contributions of many meet the misfortunes of a few.</p>\n<h4>Basic Terms</h4>\n<table class=\"tb-table\"><tr><th>Term</th><th>Meaning</th></tr><tr><td>Insurer</td><td>The company that accepts the risk</td></tr><tr><td>Insured/assured</td><td>The person whose risk is covered</td></tr><tr><td>Premium</td><td>Periodic payment for cover</td></tr><tr><td>Policy</td><td>Written contract of insurance</td></tr><tr><td>Proposal form</td><td>Application giving material facts</td></tr><tr><td>Cover note</td><td>Temporary evidence of insurance</td></tr><tr><td>Surrender value</td><td>Amount paid if a life policy is discontinued early</td></tr><tr><td>Actuary</td><td>Expert who calculates risk and premium</td></tr></table>\n<h4>Principles of Insurance</h4>\n<ol><li><strong>Utmost good faith (uberrimae fidei)</strong> – both parties must disclose all material facts.</li><li><strong>Insurable interest</strong> – the insured must stand to lose financially if the event occurs.</li><li><strong>Indemnity</strong> – the insured is restored to his former position, no more; does not apply to life and personal accident.</li><li><strong>Subrogation</strong> – after full settlement the insurer takes over the remains/rights of the insured.</li><li><strong>Contribution</strong> – where several insurers cover the same risk, each pays a proportionate share.</li><li><strong>Proximate cause</strong> – the nearest, most effective cause of loss must be an insured peril.</li></ol>\n<h4>Insurable vs Non-insurable Risks</h4>\n<p><em>Insurable:</em> fire, theft, motor accident, death, marine perils – they are measurable and occur to many. <em>Non-insurable:</em> loss from bad management, changes in fashion, fall in demand, gambling losses, war (usually), and deliberate acts of the insured.</p>\n",
+      "examples": [
+        {
+          "q": "A man insures his neighbour's house against fire. Is the contract valid?",
+          "a": "No. He has no <strong>insurable interest</strong> – he suffers no direct financial loss if the house burns. The contract is void and amounts to a wager; premiums may simply be refunded."
+        },
+        {
+          "q": "A trader insures goods worth ₦4,000,000 with Insurer A for ₦3,000,000 and Insurer B for ₦1,000,000. A total loss occurs. How much does each pay?",
+          "a": "By the principle of contribution, A pays \\( \\dfrac{3}{4}\\times4{,}000{,}000 = ₦3{,}000{,}000 \\) and B pays \\( \\dfrac{1}{4}\\times4{,}000{,}000 = ₦1{,}000{,}000 \\). Together they indemnify, but the insured cannot recover more than his actual loss."
+        }
+      ]
+    },
+    {
+      "title": "Classes of Insurance",
+      "html": "\n<h4>1. Life Assurance</h4>\n<ul><li><strong>Whole life</strong> – premiums until death; sum paid to beneficiaries.</li><li><strong>Endowment</strong> – payable at a fixed date or earlier death; combines saving and protection.</li><li><strong>Term assurance</strong> – pays only if death occurs within the stated term.</li><li><strong>Annuity</strong> – regular income paid for life in exchange for a lump sum.</li></ul>\n<p>It is called <em>assurance</em> because the event (death) is certain; only its timing is uncertain. Indemnity does not apply.</p>\n<h4>2. Marine Insurance</h4>\n<p>Covers hull, cargo, freight and shipowner's liability. Types of loss:</p>\n<ul><li><strong>Total loss</strong> – actual or constructive.</li><li><strong>Particular average</strong> – partial loss borne by the owner of the damaged goods alone.</li><li><strong>General average</strong> – deliberate sacrifice (e.g. jettison) for the common safety; shared by all interests.</li><li><strong>Salvage charges</strong> – cost of saving the ship or cargo.</li></ul>\n<h4>3. Fire, Motor and Accident Insurance</h4>\n<table class=\"tb-table\"><tr><th>Class</th><th>Cover</th></tr><tr><td>Fire</td><td>Damage by fire, lightning, explosion; extensions for riot and flood</td></tr><tr><td>Motor – third party</td><td>Compulsory; injury/damage to third parties only</td></tr><tr><td>Motor – third party fire &amp; theft</td><td>Third party plus fire/theft of own vehicle</td></tr><tr><td>Motor – comprehensive</td><td>All the above plus own damage</td></tr><tr><td>Employers' liability / workmen's compensation</td><td>Injury to employees at work</td></tr><tr><td>Fidelity guarantee</td><td>Dishonesty of employees</td></tr><tr><td>Burglary, consequential loss (business interruption), professional indemnity</td><td>Other accident classes</td></tr></table>\n<h4>Reinsurance, Co-insurance and Double Insurance</h4>\n<ul><li><strong>Reinsurance</strong> – an insurer passes part of a very large risk to another insurer (e.g. Nigeria Reinsurance Corporation).</li><li><strong>Co-insurance</strong> – two or more insurers share one risk from the outset, each on its own share.</li><li><strong>Double insurance</strong> – the same risk insured with more than one insurer by the insured; contribution applies.</li></ul>\n",
+      "examples": [
+        {
+          "q": "During a storm, cargo worth ₦8,000,000 is jettisoned to save a ship and its remaining cargo worth ₦72,000,000. Explain the settlement.",
+          "a": "This is a <strong>general average</strong> loss because the sacrifice was deliberate and for the common safety. The ₦8,000,000 is shared rateably by all interests saved. If the ship and cargo saved total ₦72,000,000, each party contributes \\( \\dfrac{8{,}000{,}000}{72{,}000{,}000} \\approx 11.1\\% \\) of its saved value."
+        },
+        {
+          "q": "Goods worth ₦10,000,000 are insured for only ₦6,000,000 (average clause applies). A fire destroys ₦4,500,000 worth. How much is paid?",
+          "a": "Under-insurance triggers the average clause: \\( \\text{Claim} = \\dfrac{\\text{Sum Insured}}{\\text{Value of Property}} \\times \\text{Loss} = \\dfrac{6{,}000{,}000}{10{,}000{,}000}\\times4{,}500{,}000 = ₦2{,}700{,}000 \\). The insured bears the remaining ₦1,800,000 as his own insurer."
+        }
+      ]
+    },
+    {
+      "title": "Premiums, Claims and the Role of Insurance in Commerce",
+      "html": "\n<h4>Computing Premium</h4>\n$$\\text{Premium} = \\text{Sum Insured} \\times \\text{Rate}$$\n<p>Rates reflect the degree of risk, the record of the insured, the value of the property and any no-claim discount.</p>\n<h4>Average Clause</h4>\n$$\\text{Claim Payable} = \\dfrac{\\text{Sum Insured}}{\\text{Value of Property}} \\times \\text{Actual Loss}$$\n<h4>Contribution</h4>\n$$\\text{Share of Insurer A} = \\dfrac{\\text{Policy A}}{\\text{Total Policies}} \\times \\text{Loss}$$\n<h4>Importance of Insurance to Business</h4>\n<ol><li>Transfers risk, giving confidence to invest and expand.</li><li>Makes credit possible – lenders insist on cover.</li><li>Provides a pool of investible funds for the economy.</li><li>Encourages international trade through marine and credit insurance.</li><li>Provides social security and employment.</li></ol>\n<h4>Regulation in Nigeria</h4>\n<p>Insurance business is supervised by <strong>NAICOM</strong> (National Insurance Commission). Compulsory covers in Nigeria include motor third-party, group life for employers, builders' liability and occupiers' liability.</p>\n",
+      "examples": [
+        {
+          "q": "A factory worth ₦80,000,000 is insured at a rate of 1.5% with a 20% no-claim discount. Calculate the annual premium.",
+          "a": "Basic premium \\( = 1.5\\% \\times 80{,}000{,}000 = ₦1{,}200{,}000 \\). No-claim discount \\( = 20\\% \\times 1{,}200{,}000 = ₦240{,}000 \\). Premium payable \\( = ₦960{,}000 \\)."
+        },
+        {
+          "q": "Explain how insurance supports a bank's willingness to grant a business loan.",
+          "a": "The bank's security – stock, buildings or the borrower's life – may be destroyed. With a fire or life policy assigned to the bank, loss is compensated and the loan can still be repaid. Insurance therefore converts an uncertain risk into a fixed, small cost, and makes lending safer and cheaper."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Insurance operates on the principle of",
+      "options": [
+        "Speculation",
+        "Pooling of risks",
+        "Gambling",
+        "Taxation"
+      ],
+      "answer": "1",
+      "solution": "Contributions of many insured persons meet the losses of the unfortunate few."
+    },
+    {
+      "q": "Which principle requires full disclosure of material facts?",
+      "options": [
+        "Indemnity",
+        "Utmost good faith",
+        "Subrogation",
+        "Contribution"
+      ],
+      "answer": "1",
+      "solution": "Uberrimae fidei obliges both parties to disclose all material facts."
+    },
+    {
+      "q": "Indemnity does NOT apply to",
+      "options": [
+        "Fire insurance",
+        "Marine insurance",
+        "Life assurance",
+        "Motor insurance"
+      ],
+      "answer": "2",
+      "solution": "Human life cannot be valued in money, so life assurance is not a contract of indemnity."
+    },
+    {
+      "q": "The right of the insurer to take over damaged property after full payment is",
+      "options": [
+        "Contribution",
+        "Subrogation",
+        "Proximate cause",
+        "Insurable interest"
+      ],
+      "answer": "1",
+      "solution": "Subrogation prevents the insured from profiting twice from one loss."
+    },
+    {
+      "q": "If property worth ₦10m is insured for ₦5m and a loss of ₦2m occurs, the average clause gives a claim of",
+      "options": [
+        "₦2,000,000",
+        "₦1,000,000",
+        "₦500,000",
+        "₦5,000,000"
+      ],
+      "answer": "1",
+      "solution": "Claim = (5/10) × 2,000,000 = ₦1,000,000."
+    },
+    {
+      "q": "Deliberate sacrifice of cargo for the safety of a ship is",
+      "options": [
+        "Particular average",
+        "General average",
+        "Total loss",
+        "Salvage"
+      ],
+      "answer": "1",
+      "solution": "General average loss is shared by all interests benefiting from the sacrifice."
+    },
+    {
+      "q": "A risk that CANNOT be insured is",
+      "options": [
+        "Fire",
+        "Theft",
+        "Loss from bad management",
+        "Motor accident"
+      ],
+      "answer": "2",
+      "solution": "Losses arising from poor management or changes in fashion are not measurable or fortuitous."
+    },
+    {
+      "q": "Motor insurance that is compulsory in Nigeria is",
+      "options": [
+        "Comprehensive",
+        "Third party",
+        "Fire and theft",
+        "Fidelity guarantee"
+      ],
+      "answer": "1",
+      "solution": "Third-party motor cover is required by law."
+    },
+    {
+      "q": "A temporary document issued before the policy is prepared is a",
+      "options": [
+        "Proposal form",
+        "Cover note",
+        "Certificate of origin",
+        "Debit note"
+      ],
+      "answer": "1",
+      "solution": "The cover note gives interim evidence of insurance."
+    },
+    {
+      "q": "Where an insurer passes part of a large risk to another insurer, this is",
+      "options": [
+        "Double insurance",
+        "Reinsurance",
+        "Co-insurance",
+        "Under-insurance"
+      ],
+      "answer": "1",
+      "solution": "Reinsurance spreads a risk that is too large for one company."
+    },
+    {
+      "q": "Premium on a ₦40,000,000 property at 2% is",
+      "options": [
+        "₦400,000",
+        "₦800,000",
+        "₦80,000",
+        "₦4,000,000"
+      ],
+      "answer": "1",
+      "solution": "Premium = 2% × 40,000,000 = ₦800,000."
+    },
+    {
+      "q": "The person who calculates insurance risks and premiums is a(n)",
+      "options": [
+        "Broker",
+        "Actuary",
+        "Underwriter's clerk",
+        "Auditor"
+      ],
+      "answer": "1",
+      "solution": "An actuary uses statistics and probability to fix premiums."
+    },
+    {
+      "q": "Insurable interest in a fire policy must exist",
+      "options": [
+        "Only at the time of loss",
+        "At the time of taking the policy and at loss",
+        "Never",
+        "Only after the claim"
+      ],
+      "answer": "1",
+      "solution": "For property insurance, insurable interest must exist at inception and at the time of loss."
+    },
+    {
+      "q": "The amount paid when a life policy is discontinued early is the",
+      "options": [
+        "Premium",
+        "Surrender value",
+        "Bonus",
+        "Annuity"
+      ],
+      "answer": "1",
+      "solution": "Surrender value is the cash payable on early termination."
+    },
+    {
+      "q": "Insurance in Nigeria is regulated by",
+      "options": [
+        "CBN",
+        "NAICOM",
+        "SEC",
+        "NDIC"
+      ],
+      "answer": "1",
+      "solution": "The National Insurance Commission supervises insurers and brokers."
+    },
+    {
+      "q": "Two insurers each cover the same ₦8m risk equally; a loss of ₦3m occurs. Each pays",
+      "options": [
+        "₦3,000,000",
+        "₦1,500,000",
+        "₦800,000",
+        "Nothing"
+      ],
+      "answer": "1",
+      "solution": "By contribution each bears half of the ₦3m loss = ₦1.5m; the insured is indemnified once."
+    }
+  ]
+}

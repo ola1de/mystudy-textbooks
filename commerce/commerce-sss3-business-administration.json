@@ -1,0 +1,236 @@
+{
+  "subject": "Commerce",
+  "level": "SSS 3",
+  "slug": "business-administration",
+  "title": "Business Administration and Legal Aspects",
+  "outline": [
+    "Business capital: types and sources of finance",
+    "Working capital, capital employed and business efficiency",
+    "Elements and principles of management",
+    "Organisational structure, departments and staffing",
+    "Legal aspects: contract, sale of goods and agency",
+    "Business documents, ethics and modern business trends"
+  ],
+  "modules": [
+    {
+      "title": "Capital Structure and Sources of Finance",
+      "html": "\n<h4>Types of Capital</h4>\n<table class=\"tb-table\"><tr><th>Term</th><th>Meaning</th></tr><tr><td>Authorised/nominal capital</td><td>Maximum a company may raise, stated in the memorandum</td></tr><tr><td>Issued capital</td><td>Part of authorised capital offered to the public</td></tr><tr><td>Called-up capital</td><td>Part of issued capital shareholders have been asked to pay</td></tr><tr><td>Paid-up capital</td><td>Amount actually paid by shareholders</td></tr><tr><td>Circulating/working capital</td><td>Funds for day-to-day operations</td></tr><tr><td>Fixed capital</td><td>Long-lived assets: land, buildings, machinery</td></tr><tr><td>Owner's equity/capital owned</td><td>Total assets − total liabilities</td></tr></table>\n<h4>Key Formulae</h4>\n$$\\text{Working Capital} = \\text{Current Assets} - \\text{Current Liabilities}$$\n$$\\text{Capital Employed} = \\text{Total Assets} - \\text{Current Liabilities}$$\n$$\\text{Capital Owned} = \\text{Total Assets} - \\text{Total Liabilities}$$\n$$\\text{Current Ratio} = \\dfrac{\\text{Current Assets}}{\\text{Current Liabilities}}$$\n<h4>Sources of Business Finance</h4>\n<ul><li><strong>Short term</strong> – bank overdraft, trade credit, factoring, commercial paper.</li><li><strong>Medium term</strong> – term loans, hire purchase, leasing, equipment finance.</li><li><strong>Long term</strong> – ordinary and preference shares, debentures, bonds, mortgage loans, retained earnings, venture capital, government/development bank loans.</li></ul>\n<p>Choice depends on cost, duration of need, security available, control implications and repayment ability.</p>\n",
+      "examples": [
+        {
+          "q": "A firm has current assets ₦9,200,000, current liabilities ₦3,700,000 and total assets ₦28,000,000 with long-term loans of ₦7,000,000. Compute working capital, capital employed, capital owned and the current ratio.",
+          "a": "\\( \\text{Working Capital} = 9{,}200{,}000 - 3{,}700{,}000 = ₦5{,}500{,}000 \\). \\( \\text{Capital Employed} = 28{,}000{,}000 - 3{,}700{,}000 = ₦24{,}300{,}000 \\). Total liabilities \\(=3{,}700{,}000+7{,}000{,}000=₦10{,}700{,}000\\), so \\( \\text{Capital Owned} = 28{,}000{,}000 - 10{,}700{,}000 = ₦17{,}300{,}000 \\). \\( \\text{Current Ratio} = \\dfrac{9{,}200{,}000}{3{,}700{,}000} \\approx 2.49:1 \\) – comfortably above the 2:1 rule of thumb."
+        },
+        {
+          "q": "Which source of finance suits (i) buying a delivery van (ii) paying staff salaries in a slow month?",
+          "a": "(i) A medium-term hire purchase or lease matches the van's life and spreads the cost; the asset itself serves as security. (ii) A bank overdraft is best – it is short term, flexible and interest is charged only on the amount actually used."
+        }
+      ]
+    },
+    {
+      "title": "Business Management and Organisation",
+      "html": "\n<h4>Elements of Management (POSDCORB / Fayol)</h4>\n<ol><li><strong>Planning</strong> – deciding objectives and how to achieve them.</li><li><strong>Organising</strong> – arranging resources and assigning duties.</li><li><strong>Staffing</strong> – recruitment, selection, training and remuneration.</li><li><strong>Directing/Leading</strong> – guiding and motivating employees.</li><li><strong>Co-ordinating</strong> – harmonising the work of departments.</li><li><strong>Controlling</strong> – measuring performance against standards and correcting deviations.</li><li><strong>Budgeting and reporting</strong>.</li></ol>\n<h4>Principles of Management</h4>\n<p>Division of work, authority and responsibility, unity of command, unity of direction, scalar chain, span of control, delegation, discipline, remuneration, esprit de corps.</p>\n<h4>Departments of a Business</h4>\n<table class=\"tb-table\"><tr><th>Department</th><th>Main duties</th></tr><tr><td>Purchasing</td><td>Sourcing suppliers, ordering, stock control</td></tr><tr><td>Production</td><td>Manufacturing, quality control, maintenance</td></tr><tr><td>Marketing/Sales</td><td>Market research, promotion, distribution, after-sales</td></tr><tr><td>Finance/Accounts</td><td>Records, budgets, payments, financial reporting</td></tr><tr><td>Human resources</td><td>Recruitment, training, welfare, industrial relations</td></tr><tr><td>Administration/Legal</td><td>Correspondence, compliance, contracts</td></tr></table>\n<h4>Organisational Structures</h4>\n<ul><li><strong>Line</strong> – direct vertical authority; simple and quick.</li><li><strong>Line and staff</strong> – line managers advised by specialists.</li><li><strong>Functional</strong> – authority by specialisation.</li><li><strong>Matrix/committee</strong> – cross-functional project teams.</li></ul>\n<p><strong>Span of control</strong> is the number of subordinates one manager can effectively supervise; a narrow span produces a tall structure, a wide span a flat one.</p>\n",
+      "examples": [
+        {
+          "q": "A company of 240 workers uses a span of control of 6. How many first-line supervisors are needed, and what is the effect of widening the span to 12?",
+          "a": "At a span of 6: \\( \\dfrac{240}{6} = 40 \\) supervisors. At 12: \\( \\dfrac{240}{12} = 20 \\) supervisors. Widening the span halves supervisory cost and flattens the structure, but each supervisor now oversees more staff, so control and coaching may suffer."
+        },
+        {
+          "q": "Explain 'unity of command' and give one consequence of breaking it.",
+          "a": "Each employee should receive instructions from only one superior. Where two managers give conflicting orders, the worker becomes confused, discipline breaks down, accountability is blurred and productivity falls."
+        }
+      ]
+    },
+    {
+      "title": "Legal Aspects of Business",
+      "html": "\n<h4>Contract</h4>\n<p>A <strong>contract</strong> is an agreement enforceable by law. Essential elements:</p>\n<ol><li><strong>Offer</strong> and <strong>acceptance</strong></li><li><strong>Consideration</strong> – something of value exchanged</li><li><strong>Intention to create legal relations</strong></li><li><strong>Capacity</strong> – parties must be of age and sound mind</li><li><strong>Free consent</strong> – no fraud, duress, undue influence or misrepresentation</li><li><strong>Legality of object</strong> and possibility of performance</li></ol>\n<p>Contracts are discharged by performance, agreement, frustration, breach or operation of law. Remedies for breach: damages, specific performance, injunction, rescission and quantum meruit.</p>\n<h4>Sale of Goods</h4>\n<ul><li><strong>Condition</strong> – a vital term; breach allows rejection of the goods.</li><li><strong>Warranty</strong> – a minor term; breach gives damages only.</li><li><strong>Caveat emptor</strong> – ‘let the buyer beware’, now limited by implied terms of merchantable quality and fitness for purpose.</li><li><strong>Nemo dat quod non habet</strong> – no one can give a better title than he has.</li></ul>\n<h4>Agency</h4>\n<p>An <strong>agent</strong> acts on behalf of a <strong>principal</strong> to create legal relations with third parties. Created by express/implied appointment, necessity, estoppel or ratification. Duties of an agent: obey instructions, act in person, exercise care, account for money and avoid conflicts of interest. Terminated by performance, mutual agreement, revocation, death, insanity or bankruptcy.</p>\n<h4>Modern Trends and Ethics</h4>\n<p>E-commerce, mobile payment, outsourcing, franchising, corporate social responsibility, data protection (NDPC) and anti-money-laundering compliance now shape business practice. Ethical conduct – honest advertising, fair pricing, prompt tax payment and safe products – builds sustainable goodwill.</p>\n",
+      "examples": [
+        {
+          "q": "Chika advertises a phone for ₦180,000 in a shop window. Musa insists the shop must sell at that price. Is he right?",
+          "a": "No. A shop display or advertisement is an <em>invitation to treat</em>, not an offer. Musa's willingness to pay is the offer; the shop may accept or reject it. Only on acceptance does a binding contract arise."
+        },
+        {
+          "q": "A trader buys a generator described as 'brand new' but it turns out to be refurbished. State his remedy.",
+          "a": "The description goes to the root of the contract, so it is a <strong>condition</strong>, not a warranty. He may repudiate the contract, reject the generator and recover his money, and additionally claim damages for any loss suffered from the misdescription."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Working capital is",
+      "options": [
+        "Total assets − total liabilities",
+        "Current assets − current liabilities",
+        "Fixed assets + stock",
+        "Turnover − expenses"
+      ],
+      "answer": "1",
+      "solution": "It measures funds available for day-to-day operations."
+    },
+    {
+      "q": "Capital employed equals",
+      "options": [
+        "Total assets − current liabilities",
+        "Issued capital only",
+        "Current assets only",
+        "Net profit × 100"
+      ],
+      "answer": "0",
+      "solution": "Capital employed represents long-term funds tied up in the business."
+    },
+    {
+      "q": "If total assets are ₦15m and total liabilities ₦6m, capital owned is",
+      "options": [
+        "₦21m",
+        "₦9m",
+        "₦6m",
+        "₦15m"
+      ],
+      "answer": "1",
+      "solution": "Capital owned = 15m − 6m = ₦9m."
+    },
+    {
+      "q": "The maximum capital a company may raise is its",
+      "options": [
+        "Paid-up capital",
+        "Authorised capital",
+        "Called-up capital",
+        "Working capital"
+      ],
+      "answer": "1",
+      "solution": "Authorised (nominal) capital is stated in the memorandum of association."
+    },
+    {
+      "q": "Which is a short-term source of finance?",
+      "options": [
+        "Debentures",
+        "Bank overdraft",
+        "Ordinary shares",
+        "Mortgage loan"
+      ],
+      "answer": "1",
+      "solution": "An overdraft is repayable on demand and used for temporary shortfalls."
+    },
+    {
+      "q": "Buying a machine on instalments while using it immediately is",
+      "options": [
+        "Leasing",
+        "Hire purchase",
+        "Factoring",
+        "Franchising"
+      ],
+      "answer": "1",
+      "solution": "Under hire purchase the buyer uses the asset and owns it after the final instalment."
+    },
+    {
+      "q": "The number of subordinates a manager can effectively supervise is the",
+      "options": [
+        "Scalar chain",
+        "Span of control",
+        "Unity of command",
+        "Chain of distribution"
+      ],
+      "answer": "1",
+      "solution": "Span of control determines whether a structure is tall or flat."
+    },
+    {
+      "q": "Unity of command means an employee should receive orders from",
+      "options": [
+        "Any manager",
+        "Only one superior",
+        "The union",
+        "The customer"
+      ],
+      "answer": "1",
+      "solution": "Multiple bosses create confusion and conflicting instructions."
+    },
+    {
+      "q": "Which is NOT an element of a valid contract?",
+      "options": [
+        "Offer and acceptance",
+        "Consideration",
+        "Advertisement in a newspaper",
+        "Capacity to contract"
+      ],
+      "answer": "2",
+      "solution": "An advertisement is usually only an invitation to treat, not an essential element."
+    },
+    {
+      "q": "Breach of a condition in a sale of goods entitles the buyer to",
+      "options": [
+        "Damages only",
+        "Reject the goods",
+        "Nothing",
+        "Pay half price"
+      ],
+      "answer": "1",
+      "solution": "A condition goes to the root of the contract, so the buyer may repudiate it."
+    },
+    {
+      "q": "Caveat emptor means",
+      "options": [
+        "Let the seller beware",
+        "Let the buyer beware",
+        "No sale without receipt",
+        "Goods once sold are returnable"
+      ],
+      "answer": "1",
+      "solution": "The buyer should examine goods, though implied statutory terms now protect him."
+    },
+    {
+      "q": "A person who acts on behalf of another to make contracts is a(n)",
+      "options": [
+        "Agent",
+        "Auditor",
+        "Debtor",
+        "Creditor"
+      ],
+      "answer": "0",
+      "solution": "An agent creates legal relations between the principal and third parties."
+    },
+    {
+      "q": "Which department handles recruitment and training?",
+      "options": [
+        "Production",
+        "Human resources",
+        "Purchasing",
+        "Accounts"
+      ],
+      "answer": "1",
+      "solution": "HR manages staffing, welfare and industrial relations."
+    },
+    {
+      "q": "Current assets ₦4,000,000 and current liabilities ₦2,000,000 give a current ratio of",
+      "options": [
+        "1:2",
+        "2:1",
+        "4:1",
+        "1:4"
+      ],
+      "answer": "1",
+      "solution": "4,000,000 ÷ 2,000,000 = 2:1, the conventional benchmark."
+    },
+    {
+      "q": "Nemo dat quod non habet means",
+      "options": [
+        "A buyer must pay cash",
+        "No one can give a better title than he has",
+        "All sales are final",
+        "Goods must be insured"
+      ],
+      "answer": "1",
+      "solution": "A seller cannot transfer ownership he does not possess."
+    },
+    {
+      "q": "Controlling as a management function involves",
+      "options": [
+        "Hiring workers",
+        "Comparing performance with standards and correcting deviations",
+        "Advertising products",
+        "Paying dividends"
+      ],
+      "answer": "1",
+      "solution": "Control closes the loop between plans and actual results."
+    }
+  ]
+}

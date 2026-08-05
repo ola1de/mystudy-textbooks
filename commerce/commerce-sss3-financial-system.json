@@ -1,0 +1,236 @@
+{
+  "subject": "Commerce",
+  "level": "SSS 3",
+  "slug": "financial-system",
+  "title": "The Financial System",
+  "outline": [
+    "Structure of the Nigerian financial system",
+    "Commercial banks: functions, credit creation and instruments",
+    "Central Bank of Nigeria: functions and monetary policy tools",
+    "Other financial institutions and Fintech",
+    "The capital market and the Nigerian Exchange",
+    "Money market instruments and calculations"
+  ],
+  "modules": [
+    {
+      "title": "Commercial Banking and Credit Creation",
+      "html": "\n<h4>Commercial (Deposit Money) Banks</h4>\n<p>Financial institutions that accept deposits, lend money and provide payment services for profit.</p>\n<h5>Accounts</h5>\n<table class=\"tb-table\"><tr><th>Account</th><th>Features</th></tr><tr><td>Current</td><td>Cheque book, no/low interest, overdraft possible</td></tr><tr><td>Savings</td><td>Small deposits, earns interest, withdrawal limits</td></tr><tr><td>Fixed/time deposit</td><td>Fixed sum for a fixed period at high interest</td></tr><tr><td>Domiciliary</td><td>Held in foreign currency</td></tr></table>\n<h5>Functions</h5>\n<ol><li>Accepting deposits and safekeeping valuables.</li><li>Lending: overdrafts, term loans, discounting bills.</li><li>Agency services: standing orders, direct debits, share purchase, executorship.</li><li>Foreign exchange, letters of credit, travellers' cheques.</li><li>Advisory and cash-management services; issuing cards and e-banking.</li></ol>\n<h4>Credit Creation</h4>\n<p>Banks lend most of the money deposited with them, and loans return to the system as fresh deposits. The maximum expansion is given by the credit (bank deposit) multiplier:</p>\n$$\\text{Credit Multiplier} = \\dfrac{1}{\\text{Cash Reserve Ratio (CRR)}}$$\n$$\\text{Total Deposits Created} = \\text{Initial Deposit} \\times \\dfrac{1}{\\text{CRR}}$$\n<h5>Limitations on credit creation</h5>\n<ul><li>Level of cash reserve ratio imposed by the CBN</li><li>Amount of initial/primary deposits</li><li>Willingness of the public to borrow and to hold cash</li><li>Availability of good collateral and monetary policy stance</li></ul>\n",
+      "examples": [
+        {
+          "q": "A bank receives an initial deposit of ₦2,000,000 and the cash reserve ratio is 20%. Find the credit multiplier and the total deposits that can be created.",
+          "a": "\\( \\text{Credit Multiplier} = \\dfrac{1}{0.20} = 5 \\). Total deposits \\( = 2{,}000{,}000 \\times 5 = ₦10{,}000{,}000 \\). New credit created \\( = 10{,}000{,}000 - 2{,}000{,}000 = ₦8{,}000{,}000 \\)."
+        },
+        {
+          "q": "If the CBN raises the CRR from 20% to 25%, what happens to the same ₦2,000,000 deposit?",
+          "a": "\\( \\text{Multiplier} = \\dfrac{1}{0.25} = 4 \\), so total deposits fall to \\( 2{,}000{,}000 \\times 4 = ₦8{,}000{,}000 \\). Credit creation shrinks by ₦2,000,000 – this is how a higher CRR tightens money supply and fights inflation."
+        }
+      ]
+    },
+    {
+      "title": "The Central Bank of Nigeria and Monetary Policy",
+      "html": "\n<h4>Functions of the CBN</h4>\n<ol><li><strong>Issue of currency</strong> – sole right to print notes and mint coins.</li><li><strong>Banker to the government</strong> – keeps government accounts, manages public debt.</li><li><strong>Banker to other banks</strong> – holds their reserves and clears cheques.</li><li><strong>Lender of last resort</strong> – rescues solvent but illiquid banks.</li><li><strong>Custodian of external reserves</strong> and manager of the exchange rate.</li><li><strong>Regulation and supervision</strong> of banks and other financial institutions.</li><li><strong>Formulation of monetary policy</strong> and promotion of development finance.</li></ol>\n<h4>Instruments of Monetary Policy</h4>\n<table class=\"tb-table\"><tr><th>Instrument</th><th>How it works</th></tr><tr><td>Open market operations</td><td>Sale of securities mops up cash; purchase injects cash</td></tr><tr><td>Monetary policy rate (MPR)</td><td>A higher benchmark rate raises the cost of borrowing</td></tr><tr><td>Cash reserve ratio</td><td>Higher CRR reduces lendable funds and the multiplier</td></tr><tr><td>Liquidity ratio</td><td>Minimum liquid assets banks must keep</td></tr><tr><td>Selective credit control</td><td>Directs credit to priority sectors</td></tr><tr><td>Moral suasion &amp; special directives</td><td>Persuasion and administrative instruction</td></tr></table>\n<h4>Other Institutions</h4>\n<ul><li><strong>Merchant/investment banks</strong> – wholesale banking, equipment leasing, issuing houses.</li><li><strong>Development banks</strong> – BOI, BOA, NEXIM, Development Bank of Nigeria.</li><li><strong>NDIC</strong> – insures bank deposits.</li><li><strong>Microfinance banks, mortgage banks, finance houses, bureaux de change, PFAs.</strong></li><li><strong>Fintech and mobile money operators</strong> – agency banking, payment gateways, USSD transfers.</li></ul>\n",
+      "examples": [
+        {
+          "q": "Inflation is rising sharply. Recommend three CBN actions and explain how each works.",
+          "a": "(1) Raise the MPR – loans become dearer, borrowing and spending fall. (2) Sell treasury bills through open market operations – cash is withdrawn from the banking system. (3) Increase the cash reserve ratio – banks keep more idle cash, the credit multiplier \\( \\frac{1}{CRR} \\) falls and money supply contracts."
+        },
+        {
+          "q": "Distinguish between the CBN and a commercial bank in three ways.",
+          "a": "Ownership: government-owned vs mainly private shareholders. Motive: monetary stability and regulation vs profit. Customers: government and banks vs the general public. Only the CBN issues currency and acts as lender of last resort."
+        }
+      ]
+    },
+    {
+      "title": "The Capital Market and the Stock Exchange",
+      "html": "\n<h4>Money Market vs Capital Market</h4>\n<table class=\"tb-table\"><tr><th>Basis</th><th>Money market</th><th>Capital market</th></tr><tr><td>Period</td><td>Short term (under 1 year)</td><td>Medium and long term</td></tr><tr><td>Instruments</td><td>Treasury bills, call money, certificates of deposit, commercial papers, bills of exchange</td><td>Shares, debentures, bonds, mortgages</td></tr><tr><td>Institutions</td><td>CBN, commercial &amp; merchant banks, discount houses</td><td>NGX, SEC, issuing houses, stockbrokers, unit trusts</td></tr></table>\n<h4>The Nigerian Exchange (NGX)</h4>\n<p>A market where existing securities are bought and sold. It has a <strong>primary market</strong> (new issues – offer for subscription, offer for sale, rights issue, private placement) and a <strong>secondary market</strong> (trading in existing securities).</p>\n<h5>Functions</h5>\n<ol><li>Provides long-term capital for companies and government.</li><li>Gives liquidity – investors can convert shares into cash.</li><li>Values securities and publishes prices; the All-Share Index measures market performance.</li><li>Encourages savings and wider share ownership.</li><li>Serves as a barometer of the economy.</li></ol>\n<h5>Operators</h5>\n<ul><li><strong>Stockbroker</strong> – buys and sells on behalf of clients for commission.</li><li><strong>Jobber/dealer</strong> – deals in securities on own account.</li><li><strong>Issuing house</strong> – arranges new issues.</li><li><strong>Registrar</strong> – keeps the register of members and pays dividends.</li><li><strong>SEC</strong> – apex regulator of the capital market.</li></ul>\n<h4>Useful Formulae</h4>\n$$\\text{Dividend Yield} = \\dfrac{\\text{Dividend per Share}}{\\text{Market Price per Share}} \\times 100$$\n$$\\text{Earnings per Share} = \\dfrac{\\text{Profit after Tax} - \\text{Preference Dividend}}{\\text{Number of Ordinary Shares}}$$\n",
+      "examples": [
+        {
+          "q": "A company pays a dividend of ₦1.20 per share; the market price is ₦15.00. Compute the dividend yield and interpret it.",
+          "a": "\\( \\text{Dividend Yield} = \\dfrac{1.20}{15.00}\\times100 = 8\\% \\). An investor buying at ₦15 earns an 8% cash return on the market value, which can be compared with bank interest or treasury-bill rates."
+        },
+        {
+          "q": "Profit after tax is ₦48,000,000, preference dividend ₦8,000,000 and there are 20,000,000 ordinary shares. Find EPS.",
+          "a": "\\( \\text{EPS} = \\dfrac{48{,}000{,}000 - 8{,}000{,}000}{20{,}000{,}000} = ₦2.00 \\) per share – the earnings attributable to each ordinary share, whether distributed or retained."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "The sole right to issue currency in Nigeria belongs to",
+      "options": [
+        "Commercial banks",
+        "The CBN",
+        "NDIC",
+        "The Ministry of Finance"
+      ],
+      "answer": "1",
+      "solution": "Currency issue is a core function of the central bank."
+    },
+    {
+      "q": "If the cash reserve ratio is 25%, the credit multiplier is",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "25"
+      ],
+      "answer": "1",
+      "solution": "Multiplier = 1/0.25 = 4."
+    },
+    {
+      "q": "An initial deposit of ₦500,000 with a 10% CRR can create total deposits of",
+      "options": [
+        "₦1,000,000",
+        "₦2,500,000",
+        "₦5,000,000",
+        "₦50,000"
+      ],
+      "answer": "2",
+      "solution": "Multiplier = 1/0.10 = 10, so 500,000 × 10 = ₦5,000,000."
+    },
+    {
+      "q": "The CBN acts as lender of last resort to",
+      "options": [
+        "The general public",
+        "Commercial banks",
+        "Foreign governments",
+        "Cooperative societies"
+      ],
+      "answer": "1",
+      "solution": "It rescues solvent banks facing temporary liquidity problems."
+    },
+    {
+      "q": "Treasury bills are instruments of the",
+      "options": [
+        "Capital market",
+        "Money market",
+        "Insurance market",
+        "Commodity market"
+      ],
+      "answer": "1",
+      "solution": "They are short-term government securities of under one year."
+    },
+    {
+      "q": "Which account normally carries a cheque book?",
+      "options": [
+        "Savings",
+        "Current",
+        "Fixed deposit",
+        "Domiciliary"
+      ],
+      "answer": "1",
+      "solution": "Current accounts are operated with cheques and allow overdrafts."
+    },
+    {
+      "q": "A rights issue is an offer of new shares to",
+      "options": [
+        "The general public",
+        "Existing shareholders",
+        "Employees only",
+        "Foreign investors only"
+      ],
+      "answer": "1",
+      "solution": "Existing shareholders may buy new shares in proportion to their holding."
+    },
+    {
+      "q": "Deposits in Nigerian banks are insured by",
+      "options": [
+        "SEC",
+        "NDIC",
+        "NAICOM",
+        "NGX"
+      ],
+      "answer": "1",
+      "solution": "The Nigeria Deposit Insurance Corporation protects depositors."
+    },
+    {
+      "q": "The apex regulator of the Nigerian capital market is",
+      "options": [
+        "CBN",
+        "SEC",
+        "NDIC",
+        "CAC"
+      ],
+      "answer": "1",
+      "solution": "The Securities and Exchange Commission regulates the capital market."
+    },
+    {
+      "q": "Selling government securities in open market operations will",
+      "options": [
+        "Increase money supply",
+        "Reduce money supply",
+        "Increase CRR",
+        "Reduce taxes"
+      ],
+      "answer": "1",
+      "solution": "Buyers pay cash to the CBN, so cash leaves the banking system."
+    },
+    {
+      "q": "Dividend per share ₦2 and market price ₦25 gives a dividend yield of",
+      "options": [
+        "5%",
+        "8%",
+        "10%",
+        "12.5%"
+      ],
+      "answer": "1",
+      "solution": "2/25 × 100 = 8%."
+    },
+    {
+      "q": "A person who buys and sells securities on behalf of clients is a",
+      "options": [
+        "Jobber",
+        "Stockbroker",
+        "Registrar",
+        "Actuary"
+      ],
+      "answer": "1",
+      "solution": "Stockbrokers act as agents for a commission."
+    },
+    {
+      "q": "Which is NOT a function of commercial banks?",
+      "options": [
+        "Accepting deposits",
+        "Granting overdrafts",
+        "Issuing legal tender currency",
+        "Discounting bills"
+      ],
+      "answer": "2",
+      "solution": "Only the central bank issues legal tender."
+    },
+    {
+      "q": "Raising the monetary policy rate generally",
+      "options": [
+        "Encourages borrowing",
+        "Discourages borrowing",
+        "Has no effect",
+        "Raises the CRR automatically"
+      ],
+      "answer": "1",
+      "solution": "Higher benchmark rates raise lending rates and dampen credit demand."
+    },
+    {
+      "q": "The secondary market deals in",
+      "options": [
+        "New issues only",
+        "Existing securities",
+        "Treasury bills only",
+        "Foreign currency only"
+      ],
+      "answer": "1",
+      "solution": "Previously issued securities are traded there, giving investors liquidity."
+    },
+    {
+      "q": "An advantage of listing on the stock exchange is",
+      "options": [
+        "Loss of control is avoided",
+        "Access to long-term capital",
+        "No disclosure of accounts",
+        "Freedom from regulation"
+      ],
+      "answer": "1",
+      "solution": "Listing allows a company to raise substantial long-term funds from the public."
+    }
+  ]
+}

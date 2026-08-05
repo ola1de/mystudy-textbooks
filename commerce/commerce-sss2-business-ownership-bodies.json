@@ -1,0 +1,236 @@
+{
+  "subject": "Commerce",
+  "level": "SSS 2",
+  "slug": "business-ownership-bodies",
+  "title": "Business Ownership and Trade Bodies",
+  "outline": [
+    "Limited liability companies: private and public",
+    "Formation documents and incorporation",
+    "Share and loan capital; types of shares",
+    "Public corporations and privatisation",
+    "Co-operative societies: types, features, merits and demerits",
+    "Trade associations, chambers of commerce and trade unions"
+  ],
+  "modules": [
+    {
+      "title": "Limited Liability Companies",
+      "html": "\n<h4>Meaning</h4>\n<p>A <strong>limited liability company</strong> is an incorporated association of persons registered under CAMA. It is a <em>separate legal entity</em> with perpetual succession, and members' liability is limited to the amount unpaid on their shares.</p>\n<h4>Private vs Public Company</h4>\n<table class=\"tb-table\"><tr><th>Basis</th><th>Private (Ltd)</th><th>Public (Plc)</th></tr><tr><td>Members</td><td>1 – 50</td><td>Minimum 2, no maximum</td></tr><tr><td>Transfer of shares</td><td>Restricted</td><td>Freely transferable</td></tr><tr><td>Invitation to public</td><td>Not allowed</td><td>Allowed (prospectus)</td></tr><tr><td>Accounts</td><td>Filed with CAC</td><td>Published to the public</td></tr><tr><td>Start of business</td><td>On certificate of incorporation</td><td>Also needs a certificate of trading</td></tr></table>\n<h4>Formation Documents</h4>\n<ol><li><strong>Memorandum of Association</strong> – external constitution: name, registered office, objects, liability clause, share capital, association/subscription clause.</li><li><strong>Articles of Association</strong> – internal rules: rights of shareholders, meetings, voting, directors, dividends.</li><li><strong>Statement of share capital and returns of allotment</strong>, list of directors and declaration of compliance.</li><li><strong>Prospectus</strong> – public invitation to subscribe for shares (public companies only).</li></ol>\n<h4>Types of Shares</h4>\n<ul><li><strong>Ordinary (equity) shares</strong> – fluctuating dividend, voting rights, paid last.</li><li><strong>Preference shares</strong> – fixed dividend, paid before ordinary; may be cumulative, non-cumulative, participating or redeemable.</li><li><strong>Deferred/founders' shares</strong> – held by promoters, paid last.</li></ul>\n<p><strong>Debentures</strong> are loan capital, not shares; holders are creditors who receive fixed interest whether or not profit is made.</p>\n",
+      "examples": [
+        {
+          "q": "A company has 2,000,000 ordinary shares of ₦1 each and 500,000 10% preference shares of ₦1. Distributable profit is ₦350,000. Find the dividend per ordinary share.",
+          "a": "Preference dividend \\(=10\\%\\times500{,}000=₦50{,}000\\). Balance for ordinary shareholders \\(=350{,}000-50{,}000=₦300{,}000\\). Dividend per share \\(=\\dfrac{300{,}000}{2{,}000{,}000}=₦0.15\\) (15 kobo), i.e. a 15% dividend."
+        },
+        {
+          "q": "A firm has total assets of ₦24,000,000 and current liabilities of ₦4,500,000, earning a net profit of ₦3,900,000. Compute capital employed and the return on capital employed.",
+          "a": "\\( \\text{Capital Employed} = 24{,}000{,}000 - 4{,}500{,}000 = ₦19{,}500{,}000 \\). \\( \\text{ROCE} = \\dfrac{3{,}900{,}000}{19{,}500{,}000}\\times100 = 20\\% \\), meaning every ₦100 of long-term funds earns ₦20 profit."
+        }
+      ]
+    },
+    {
+      "title": "Public Corporations and Co-operatives",
+      "html": "\n<h4>Public Corporations (Statutory Corporations)</h4>\n<p>Business organisations set up by an Act of Parliament, owned and financed by government to provide essential services, e.g. NNPC Ltd, NPA, CBN, NTA, TCN.</p>\n<h5>Features</h5>\n<ul><li>Created by law; owned by the state.</li><li>Managed by a board appointed by government.</li><li>Financed by government subvention, loans and internally generated revenue.</li><li>Service rather than profit motive; monopoly power common.</li></ul>\n<h5>Problems</h5>\n<ol><li>Bureaucracy and slow decision-making</li><li>Political interference</li><li>Inefficiency, corruption and mismanagement</li><li>Persistent losses requiring subsidies</li></ol>\n<p><strong>Privatisation</strong> is the transfer of ownership from government to private individuals; <strong>commercialisation</strong> keeps ownership but requires the enterprise to run profitably. In Nigeria the process is handled by the BPE under the National Council on Privatisation.</p>\n<h4>Co-operative Societies</h4>\n<p>A voluntary association of persons who pool resources to promote their common economic interest, run on the principle of <em>one member, one vote</em> and distributing surplus as <strong>dividend on patronage</strong>.</p>\n<table class=\"tb-table\"><tr><th>Type</th><th>Purpose</th></tr><tr><td>Consumer co-operative</td><td>Buys in bulk and sells cheaply to members</td></tr><tr><td>Producer co-operative</td><td>Members produce and market jointly</td></tr><tr><td>Credit/thrift society</td><td>Savings and cheap loans to members</td></tr><tr><td>Marketing co-operative</td><td>Grades and sells members' produce</td></tr><tr><td>Multi-purpose co-operative</td><td>Combines two or more of the above</td></tr></table>\n",
+      "examples": [
+        {
+          "q": "A consumer co-operative has a surplus of ₦900,000 to be shared as dividend on patronage. Total member purchases were ₦18,000,000 and Musa bought goods worth ₦450,000. What is his dividend?",
+          "a": "Rate \\(=\\dfrac{900{,}000}{18{,}000{,}000}=0.05\\) i.e. 5 kobo per naira. Musa receives \\(=5\\%\\times450{,}000=₦22{,}500\\). Note that the surplus follows patronage, not capital contributed."
+        },
+        {
+          "q": "Give two arguments for and two against privatising a loss-making public corporation.",
+          "a": "For: private management improves efficiency and accountability; sale proceeds and later company tax boost government revenue. Against: essential services may become unaffordable as private owners chase profit; retrenchment raises unemployment and ownership may concentrate in a few hands."
+        }
+      ]
+    },
+    {
+      "title": "Trade Associations and Business Bodies",
+      "html": "\n<h4>Trade Association</h4>\n<p>An association of firms in the same line of business formed to protect and promote their common interest, e.g. MAN (Manufacturers Association of Nigeria), NACCIMA, Bankers' Committee, NARTO.</p>\n<h5>Functions</h5>\n<ul><li>Represents members before government on policy and taxation.</li><li>Sets standards and codes of conduct.</li><li>Collects and circulates trade statistics.</li><li>Settles disputes among members and negotiates with trade unions.</li><li>Organises training, exhibitions and trade fairs.</li></ul>\n<h4>Chambers of Commerce</h4>\n<p>Association of businessmen and firms in a locality (e.g. Lagos Chamber of Commerce and Industry). Functions: organise trade fairs, issue certificates of origin, arbitrate disputes, publish trade information and advise government on commercial policy.</p>\n<h4>Trade Unions</h4>\n<p>Associations of workers formed to improve wages and working conditions. Types: craft, industrial, general and white-collar unions. Weapons include collective bargaining, strike, work-to-rule, picketing and go-slow. Central labour bodies in Nigeria: <strong>NLC</strong> and <strong>TUC</strong>.</p>\n<h4>Co-operative vs Company – quick contrast</h4>\n<table class=\"tb-table\"><tr><th>Basis</th><th>Co-operative</th><th>Company</th></tr><tr><td>Voting</td><td>One member, one vote</td><td>One share, one vote</td></tr><tr><td>Surplus</td><td>Dividend on patronage</td><td>Dividend on shareholding</td></tr><tr><td>Motive</td><td>Service to members</td><td>Profit maximisation</td></tr></table>\n",
+      "examples": [
+        {
+          "q": "Why would a small manufacturer of shoes join MAN?",
+          "a": "To gain a collective voice on tariffs, forex and power policy; to obtain market and cost data; to access training and trade fairs; and to use the association's arbitration and lobbying strength which he could not command alone."
+        },
+        {
+          "q": "State three differences between a trade association and a trade union.",
+          "a": "Membership: firms/employers vs workers. Objective: protecting business interests vs improving wages and conditions. Weapons: lobbying and lock-out vs strike and collective bargaining."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "The maximum number of members in a private limited company is",
+      "options": [
+        "20",
+        "50",
+        "100",
+        "Unlimited"
+      ],
+      "answer": "1",
+      "solution": "CAMA sets 50 as the ceiling for a private company, excluding employee shareholders."
+    },
+    {
+      "q": "The document that states the objects of a company is the",
+      "options": [
+        "Articles of Association",
+        "Memorandum of Association",
+        "Prospectus",
+        "Certificate of incorporation"
+      ],
+      "answer": "1",
+      "solution": "The memorandum governs the company's relationship with the outside world, including its objects."
+    },
+    {
+      "q": "A prospectus is issued to",
+      "options": [
+        "Employ workers",
+        "Invite the public to buy shares",
+        "Pay dividends",
+        "Register a business name"
+      ],
+      "answer": "1",
+      "solution": "Only public companies issue a prospectus inviting subscription for shares or debentures."
+    },
+    {
+      "q": "Debenture holders are",
+      "options": [
+        "Owners of the company",
+        "Creditors of the company",
+        "Directors",
+        "Auditors"
+      ],
+      "answer": "1",
+      "solution": "Debentures are loan capital; holders receive fixed interest and rank before shareholders."
+    },
+    {
+      "q": "Preference shareholders normally receive",
+      "options": [
+        "Fluctuating dividend",
+        "Fixed dividend before ordinary shareholders",
+        "No dividend",
+        "Interest on loan"
+      ],
+      "answer": "1",
+      "solution": "Their dividend is fixed and paid before ordinary dividends."
+    },
+    {
+      "q": "Capital employed is best expressed as",
+      "options": [
+        "Total assets − current liabilities",
+        "Share capital only",
+        "Turnover − expenses",
+        "Current assets − stock"
+      ],
+      "answer": "0",
+      "solution": "It measures the long-term funds invested in the business."
+    },
+    {
+      "q": "Perpetual succession means",
+      "options": [
+        "Directors serve for life",
+        "The company continues despite death of members",
+        "Shares never change hands",
+        "Profits never fall"
+      ],
+      "answer": "1",
+      "solution": "As a separate legal person, the company survives changes in membership."
+    },
+    {
+      "q": "A public corporation is established by",
+      "options": [
+        "A partnership deed",
+        "An Act of Parliament",
+        "A memorandum only",
+        "A co-operative bye-law"
+      ],
+      "answer": "1",
+      "solution": "Statutory corporations are created by enabling legislation."
+    },
+    {
+      "q": "The main motive of a public corporation is",
+      "options": [
+        "Profit maximisation",
+        "Provision of essential services",
+        "Payment of dividends",
+        "Export promotion"
+      ],
+      "answer": "1",
+      "solution": "Public corporations exist primarily to render essential public services."
+    },
+    {
+      "q": "In a co-operative society, voting is based on",
+      "options": [
+        "Number of shares",
+        "One member one vote",
+        "Age of members",
+        "Amount of purchases"
+      ],
+      "answer": "1",
+      "solution": "Democratic control means each member has a single vote regardless of shares held."
+    },
+    {
+      "q": "Surplus in a consumer co-operative is shared as",
+      "options": [
+        "Interest on debentures",
+        "Dividend on patronage",
+        "Bonus to directors",
+        "Commission to agents"
+      ],
+      "answer": "1",
+      "solution": "Members are rewarded in proportion to their purchases, not their capital."
+    },
+    {
+      "q": "Transfer of a government enterprise to private owners is called",
+      "options": [
+        "Commercialisation",
+        "Privatisation",
+        "Nationalisation",
+        "Amalgamation"
+      ],
+      "answer": "1",
+      "solution": "Privatisation changes ownership; commercialisation only changes the way it is run."
+    },
+    {
+      "q": "Which body issues certificates of origin to exporters in Nigeria?",
+      "options": [
+        "NLC",
+        "Chamber of Commerce",
+        "NAFDAC",
+        "CAC"
+      ],
+      "answer": "1",
+      "solution": "Chambers of commerce certify the origin of goods for export."
+    },
+    {
+      "q": "A union of workers in the same craft is a",
+      "options": [
+        "Industrial union",
+        "Craft union",
+        "General union",
+        "Employers' association"
+      ],
+      "answer": "1",
+      "solution": "Craft unions organise workers with the same skill, e.g. electricians."
+    },
+    {
+      "q": "Ordinary shareholders are described as risk bearers because",
+      "options": [
+        "They receive fixed dividend",
+        "They are paid last in liquidation",
+        "They never vote",
+        "They lend money to the firm"
+      ],
+      "answer": "1",
+      "solution": "Their dividend is uncertain and they rank last on winding up."
+    },
+    {
+      "q": "A certificate of trading is required by",
+      "options": [
+        "A sole trader",
+        "A private company",
+        "A public company before commencing business",
+        "A co-operative"
+      ],
+      "answer": "2",
+      "solution": "A public company needs both the certificate of incorporation and the certificate of trading."
+    }
+  ]
+}

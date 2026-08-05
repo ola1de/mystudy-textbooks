@@ -1,0 +1,237 @@
+{
+  "subject": "Commerce",
+  "level": "SSS 1",
+  "slug": "home-trade",
+  "title": "Home Trade",
+  "outline": [
+    "Meaning and branches of home trade",
+    "Retail trade: types of retailers and their functions",
+    "Wholesale trade: functions and services to producers and retailers",
+    "Middlemen and the debate on their elimination",
+    "Trade documents: enquiry, quotation, order, invoice, credit note, statement",
+    "Terms of trade, trade and cash discounts",
+    "Simple calculations: turnover, mark-up, margin and discounts"
+  ],
+  "modules": [
+    {
+      "title": "Retail Trade",
+      "html": "\n<h4>Meaning</h4>\n<p><strong>Home (internal/domestic) trade</strong> is buying and selling within the boundaries of one country. It has two branches: <em>retail</em> and <em>wholesale</em> trade.</p>\n<p>A <strong>retailer</strong> is the last link in the chain of distribution, breaking bulk and selling in small quantities to the final consumer.</p>\n<h4>Types of Retailers</h4>\n<ol><li><strong>Small-scale retailers</strong> – hawkers, pedlars, street traders, market stall holders, mobile shops, kiosks, unit/single shops.</li><li><strong>Large-scale retailers</strong> – department stores, multiple (chain) shops, supermarkets, hypermarkets, mail-order houses, co-operative retail societies, discount houses and e-commerce stores.</li></ol>\n<h4>Functions of the Retailer</h4>\n<ul><li>Breaks bulk and sells in convenient quantities.</li><li>Holds a variety of goods near consumers, saving them travel.</li><li>Grants credit and sometimes hire purchase facilities.</li><li>Offers after-sales service, delivery and advice.</li><li>Passes consumer opinion back to wholesalers and manufacturers.</li></ul>\n<h4>Comparing Large-Scale Retail Organisations</h4>\n<table class=\"tb-table\"><tr><th>Type</th><th>Key feature</th><th>Weakness</th></tr><tr><td>Department store</td><td>Many departments under one roof, central control</td><td>Very high overheads</td></tr><tr><td>Multiple shop</td><td>Branches selling a narrow range of similar goods</td><td>Inflexible, no credit</td></tr><tr><td>Supermarket</td><td>Self-service, low prices, fast turnover</td><td>Shoplifting; impulse buying</td></tr><tr><td>Mail order</td><td>Sells by catalogue/post; no shop needed</td><td>Goods not inspected before purchase</td></tr></table>\n",
+      "examples": [
+        {
+          "q": "A supermarket buys cartons of milk at ₦4,800 each and sells at ₦6,000. Calculate the mark-up and the margin.",
+          "a": "Profit \\( = 6{,}000 - 4{,}800 = ₦1{,}200 \\). Mark-up (on cost) \\( = \\dfrac{1200}{4800}\\times100 = 25\\% \\). Margin (on selling price) \\( = \\dfrac{1200}{6000}\\times100 = 20\\% \\)."
+        },
+        {
+          "q": "State three reasons why small-scale retailers survive in Nigeria despite competition from supermarkets.",
+          "a": "They are located within neighbourhoods and open long hours; they grant informal credit to known customers; they sell in very small (broken) units such as a cup of rice or a sachet of detergent that large stores do not offer."
+        }
+      ]
+    },
+    {
+      "title": "Wholesale Trade and Middlemen",
+      "html": "\n<h4>The Wholesaler</h4>\n<p>A <strong>wholesaler</strong> buys in large quantities from manufacturers and sells in smaller lots to retailers. Types include general merchants, specialist wholesalers, cash-and-carry wholesalers, rack jobbers and merchant/agent middlemen (brokers, factors, del credere agents).</p>\n<h4>Services to the Manufacturer</h4>\n<ul><li>Buys in bulk, freeing factory storage space.</li><li>Provides finance by prompt payment.</li><li>Bears the risk of price fall, deterioration and bad debts.</li><li>Supplies market information and sometimes handles packaging and branding.</li><li>Reduces the number of transactions the producer must handle.</li></ul>\n<h4>Services to the Retailer</h4>\n<ul><li>Breaks bulk into retail-size lots.</li><li>Grants trade credit and trade discount.</li><li>Delivers goods and holds stock on the retailer's behalf.</li><li>Advises on new products and grants preparation of goods (grading, blending, packing).</li></ul>\n<h4>Chain of Distribution</h4>\n<p>Producer → Wholesaler → Retailer → Consumer. It may be shortened where producers sell directly (factory shops, e-commerce, industrial goods) or lengthened by the use of agents.</p>\n<h4>Can Middlemen Be Eliminated?</h4>\n<p>The middleman may be by-passed, but his <em>functions</em> – breaking bulk, storage, finance, risk-bearing, transport – cannot disappear; someone must perform them, and the cost remains.</p>\n",
+      "examples": [
+        {
+          "q": "A wholesaler buys 500 bags of cement at ₦8,000 each, receives 12.5% trade discount, and sells all at ₦8,600 each. Find his profit.",
+          "a": "List cost \\(=500\\times8{,}000=₦4{,}000{,}000\\). Trade discount \\(=12.5\\%\\times4{,}000{,}000=₦500{,}000\\), so net cost \\(=₦3{,}500{,}000\\). Sales \\(=500\\times8{,}600=₦4{,}300{,}000\\). Profit \\(=4{,}300{,}000-3{,}500{,}000=₦800{,}000\\)."
+        },
+        {
+          "q": "Explain the difference between a broker and a del credere agent.",
+          "a": "A broker merely brings buyer and seller together for a commission (brokerage) and never takes possession of goods or guarantees payment. A del credere agent sells on behalf of the principal and, for an extra commission, guarantees payment by the buyer, thus bearing the bad-debt risk."
+        }
+      ]
+    },
+    {
+      "title": "Documents and Terms of Home Trade",
+      "html": "\n<h4>Sequence of Documents</h4>\n<ol><li><strong>Letter of enquiry</strong> – buyer asks about goods, price and terms.</li><li><strong>Quotation / price list / catalogue</strong> – seller's reply.</li><li><strong>Order (purchase order)</strong> – buyer formally requests goods.</li><li><strong>Advice note</strong> – tells the buyer goods have been dispatched.</li><li><strong>Delivery note</strong> – accompanies the goods; signed on receipt.</li><li><strong>Invoice</strong> – the bill; shows quantity, price, discounts and total amount payable.</li><li><strong>Debit note</strong> – corrects an <em>undercharge</em> on an invoice.</li><li><strong>Credit note</strong> – corrects an <em>overcharge</em> or covers returns (printed in red).</li><li><strong>Statement of account</strong> – monthly summary of transactions and balance due.</li><li><strong>Receipt</strong> – acknowledges payment.</li></ol>\n<h4>Common Abbreviations</h4>\n<table class=\"tb-table\"><tr><th>Term</th><th>Meaning</th></tr><tr><td>E. &amp; O.E.</td><td>Errors and omissions excepted</td></tr><tr><td>C.O.D.</td><td>Cash on delivery</td></tr><tr><td>C.W.O.</td><td>Cash with order</td></tr><tr><td>Carriage paid</td><td>Seller bears transport cost</td></tr><tr><td>Pro-forma invoice</td><td>Invoice sent before sale/goods on approval</td></tr></table>\n<h4>Discounts</h4>\n<ul><li><strong>Trade discount</strong> – deduction from list price given by one trader to another; it is the retailer's profit margin.</li><li><strong>Cash discount</strong> – deduction for prompt payment, e.g. “5% 7 days, net 30”.</li><li><strong>Quantity discount</strong> – for buying in large volume.</li></ul>\n<h4>Turnover and Rate of Stock Turn</h4>\n$$\\text{Rate of Stock Turn} = \\dfrac{\\text{Cost of Goods Sold}}{\\text{Average Stock at Cost}}$$\n<p>where \\( \\text{Average Stock} = \\dfrac{\\text{Opening Stock} + \\text{Closing Stock}}{2} \\).</p>\n",
+      "examples": [
+        {
+          "q": "Goods listed at ₦200,000 are sold at 15% trade discount with terms 5% cash discount for payment within 7 days. How much is paid if the buyer settles on the 5th day?",
+          "a": "Trade discount \\(=15\\%\\times200{,}000=₦30{,}000\\Rightarrow\\) invoice value \\(=₦170{,}000\\). Cash discount \\(=5\\%\\times170{,}000=₦8{,}500\\). Amount paid \\(=170{,}000-8{,}500=₦161{,}500\\)."
+        },
+        {
+          "q": "Opening stock ₦120,000, closing stock ₦80,000, cost of goods sold ₦600,000. Find the rate of stock turn and interpret it.",
+          "a": "Average stock \\(=\\dfrac{120{,}000+80{,}000}{2}=₦100{,}000\\). Rate of stock turn \\(=\\dfrac{600{,}000}{100{,}000}=6\\) times a year, i.e. the shop clears and replaces its stock every two months – a healthy turnover for general goods."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Home trade is trade carried on",
+      "options": [
+        "Between two countries",
+        "Within a country",
+        "Only at seaports",
+        "By government alone"
+      ],
+      "answer": "1",
+      "solution": "Home trade takes place within the boundaries of one country."
+    },
+    {
+      "q": "The last link in the chain of distribution is the",
+      "options": [
+        "Manufacturer",
+        "Wholesaler",
+        "Retailer",
+        "Broker"
+      ],
+      "answer": "2",
+      "solution": "The retailer sells directly to the final consumer."
+    },
+    {
+      "q": "A document that corrects an overcharge on an invoice is a",
+      "options": [
+        "Debit note",
+        "Credit note",
+        "Advice note",
+        "Delivery note"
+      ],
+      "answer": "1",
+      "solution": "A credit note reduces the amount owed – used for overcharges and returns."
+    },
+    {
+      "q": "Trade discount is given",
+      "options": [
+        "For prompt payment",
+        "By one trader to another off the list price",
+        "To workers on salary",
+        "By banks on loans"
+      ],
+      "answer": "1",
+      "solution": "Trade discount is a deduction from catalogue price between traders; it forms the retailer's margin."
+    },
+    {
+      "q": "E. & O.E. on an invoice means",
+      "options": [
+        "Extra and original entry",
+        "Errors and omissions excepted",
+        "Export and overseas entry",
+        "Exempt and overdue entry"
+      ],
+      "answer": "1",
+      "solution": "It reserves the seller's right to correct clerical mistakes later."
+    },
+    {
+      "q": "A wholesaler serves the manufacturer mainly by",
+      "options": [
+        "Advertising to consumers",
+        "Buying in bulk and providing finance",
+        "Fixing retail prices",
+        "Paying company tax"
+      ],
+      "answer": "1",
+      "solution": "Bulk buying frees factory space and prompt payment finances further production."
+    },
+    {
+      "q": "Which retail organisation uses catalogues and the post?",
+      "options": [
+        "Department store",
+        "Mail-order house",
+        "Supermarket",
+        "Kiosk"
+      ],
+      "answer": "1",
+      "solution": "Mail-order houses sell by catalogue and deliver by post/courier."
+    },
+    {
+      "q": "Self-service is the main feature of a",
+      "options": [
+        "Supermarket",
+        "Hawker",
+        "Broker's office",
+        "Warehouse"
+      ],
+      "answer": "0",
+      "solution": "Customers pick goods themselves and pay at the checkout."
+    },
+    {
+      "q": "If cost is ₦800 and selling price ₦1,000, the margin is",
+      "options": [
+        "20%",
+        "25%",
+        "12.5%",
+        "80%"
+      ],
+      "answer": "0",
+      "solution": "Margin = profit/selling price = 200/1000 = 20%."
+    },
+    {
+      "q": "Using the same figures, the mark-up is",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "40%"
+      ],
+      "answer": "1",
+      "solution": "Mark-up = profit/cost = 200/800 = 25%."
+    },
+    {
+      "q": "The document that accompanies goods and is signed by the buyer is the",
+      "options": [
+        "Invoice",
+        "Delivery note",
+        "Statement",
+        "Receipt"
+      ],
+      "answer": "1",
+      "solution": "The delivery note travels with the goods and is signed as proof of receipt."
+    },
+    {
+      "q": "Rate of stock turn is cost of goods sold divided by",
+      "options": [
+        "Closing stock",
+        "Average stock at cost",
+        "Turnover",
+        "Gross profit"
+      ],
+      "answer": "1",
+      "solution": "Average stock at cost is the denominator."
+    },
+    {
+      "q": "An agent who guarantees payment by the buyer is a",
+      "options": [
+        "Broker",
+        "Factor",
+        "Del credere agent",
+        "Auctioneer"
+      ],
+      "answer": "2",
+      "solution": "For an extra commission the del credere agent bears the bad-debt risk."
+    },
+    {
+      "q": "A pro-forma invoice is sent",
+      "options": [
+        "After payment",
+        "Before the sale is completed",
+        "Only to banks",
+        "To the customs only"
+      ],
+      "answer": "1",
+      "solution": "It is used for goods on approval, cash-with-order sales or as a quotation."
+    },
+    {
+      "q": "Middlemen can best be described as",
+      "options": [
+        "Completely unnecessary",
+        "Performers of functions that cannot be eliminated",
+        "Only found in foreign trade",
+        "Employees of government"
+      ],
+      "answer": "1",
+      "solution": "You may by-pass the middleman but not his functions of bulk-breaking, storage, finance and risk-bearing."
+    },
+    {
+      "q": "C.O.D. in trade means",
+      "options": [
+        "Cash on delivery",
+        "Credit on demand",
+        "Carriage on dispatch",
+        "Cost of distribution"
+      ],
+      "answer": "0",
+      "solution": "The buyer pays cash when the goods are delivered."
+    }
+  ]
+}

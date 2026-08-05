@@ -1,0 +1,237 @@
+{
+  "subject": "Commerce",
+  "level": "SSS 2",
+  "slug": "international-trade",
+  "title": "International Trade",
+  "outline": [
+    "Meaning, types and basis of international trade",
+    "Differences between home and foreign trade",
+    "Balance of trade and balance of payments",
+    "Correcting balance of payments disequilibrium",
+    "Terms of trade and exchange rates",
+    "Documents used in foreign trade",
+    "Trade barriers, protection and economic groupings"
+  ],
+  "modules": [
+    {
+      "title": "Nature and Basis of International Trade",
+      "html": "\n<h4>Meaning</h4>\n<p><strong>International (foreign/external) trade</strong> is the exchange of goods and services across national boundaries. Its branches are <em>import</em> trade, <em>export</em> trade and <em>entrepot</em> (re-export) trade.</p>\n<h4>Basis</h4>\n<ol><li>Uneven distribution of natural resources</li><li>Differences in climate, soil and technology</li><li>Specialisation and comparative cost advantage</li><li>Differences in the cost and skill of labour</li><li>Desire for variety and larger markets</li></ol>\n<h4>Home Trade vs Foreign Trade</h4>\n<table class=\"tb-table\"><tr><th>Basis</th><th>Home trade</th><th>Foreign trade</th></tr><tr><td>Boundary</td><td>Within one country</td><td>Across countries</td></tr><tr><td>Currency</td><td>One currency</td><td>Different currencies; exchange rate needed</td></tr><tr><td>Documents</td><td>Few and simple</td><td>Many – bill of lading, certificate of origin, etc.</td></tr><tr><td>Barriers</td><td>Few</td><td>Tariffs, quotas, embargoes</td></tr><tr><td>Transport</td><td>Mainly road/rail</td><td>Mainly sea and air</td></tr><tr><td>Risk</td><td>Lower</td><td>Higher (marine, political, exchange)</td></tr></table>\n<h4>Protection of Trade</h4>\n<p>Instruments: tariffs (import duties), quotas, embargoes, exchange control, subsidies to local firms, administrative bottlenecks. Reasons: infant industry argument, employment protection, revenue, retaliation, correcting adverse balance of payments, national security. Dangers: retaliation, inefficiency, higher prices and smuggling.</p>\n<h4>Economic Groupings</h4>\n<p>ECOWAS, AfCFTA, AU, OPEC, EU, WTO and IMF/World Bank shape modern trade rules and finance.</p>\n",
+      "examples": [
+        {
+          "q": "Nigeria exports crude oil worth $48bn and imports goods worth $56bn in a year. Determine the balance of trade and comment.",
+          "a": "\\( \\text{Balance of Trade} = 48 - 56 = -\\$8\\text{bn} \\) – an unfavourable (adverse/deficit) balance of trade because visible imports exceed visible exports. It may be offset by invisible earnings or capital inflows."
+        },
+        {
+          "q": "Explain the infant industry argument for protection and one danger of applying it too long.",
+          "a": "New domestic industries cannot yet compete with established foreign firms; temporary tariffs let them grow to an efficient scale. If protection lasts too long the industry becomes complacent and permanently inefficient, and consumers pay high prices indefinitely."
+        }
+      ]
+    },
+    {
+      "title": "Balance of Payments and Exchange Rate",
+      "html": "\n<h4>Balance of Trade (BOT)</h4>\n<p>The difference between the value of <em>visible</em> exports and visible imports.</p>\n$$\\text{BOT} = \\text{Visible Exports} - \\text{Visible Imports}$$\n<h4>Balance of Payments (BOP)</h4>\n<p>A systematic record of ALL economic transactions between residents of a country and the rest of the world in a year. Components:</p>\n<ol><li><strong>Current account</strong> – visible trade + invisible trade (services, income, transfers).</li><li><strong>Capital and financial account</strong> – long- and short-term capital flows, direct and portfolio investment.</li><li><strong>Official settlements/monetary movements</strong> – changes in external reserves.</li></ol>\n<h4>Causes of BOP Deficit</h4>\n<ul><li>Heavy dependence on imports and on a single export commodity</li><li>Fall in world prices of exports</li><li>Inflation making exports uncompetitive</li><li>Debt servicing and profit repatriation</li><li>Capital flight</li></ul>\n<h4>Correcting a Deficit</h4>\n<ol><li>Devaluation of the currency</li><li>Import restrictions (tariffs, quotas)</li><li>Export promotion and diversification</li><li>Deflationary fiscal and monetary policy</li><li>Exchange control and foreign borrowing (short-term relief)</li></ol>\n<h4>Terms of Trade</h4>\n$$\\text{Terms of Trade} = \\dfrac{\\text{Index of Export Prices}}{\\text{Index of Import Prices}} \\times 100$$\n<p>A figure above 100 means favourable terms of trade.</p>\n<h4>Exchange Rate</h4>\n<p>The price of one currency in terms of another. <strong>Devaluation</strong> is a deliberate official reduction in the value of a currency under a fixed system; <strong>depreciation</strong> is a market-driven fall under a floating system.</p>\n",
+      "examples": [
+        {
+          "q": "Export price index is 138 and import price index 120. Calculate the terms of trade and interpret.",
+          "a": "\\( \\text{TOT} = \\dfrac{138}{120}\\times100 = 115 \\). Since 115 > 100, the terms of trade are favourable: a given volume of exports now buys more imports than in the base year."
+        },
+        {
+          "q": "Given visible exports ₦25tn, visible imports ₦28tn, invisible receipts ₦9tn and invisible payments ₦4tn, find the current account balance.",
+          "a": "Visible balance \\(=25-28=-₦3\\text{tn}\\). Invisible balance \\(=9-4=+₦5\\text{tn}\\). Current account \\(=-3+5=+₦2\\text{tn}\\), a surplus, showing that services and transfers more than offset the trade gap."
+        }
+      ]
+    },
+    {
+      "title": "Documents and Procedure in Foreign Trade",
+      "html": "\n<h4>Key Documents</h4>\n<table class=\"tb-table\"><tr><th>Document</th><th>Purpose</th></tr><tr><td>Indent</td><td>Order from a foreign buyer, often through an agent</td></tr><tr><td>Bill of lading</td><td>Receipt for goods shipped, evidence of contract of carriage and <strong>document of title</strong></td></tr><tr><td>Airway bill / consignment note</td><td>Equivalent for air/land carriage (not a document of title)</td></tr><tr><td>Certificate of origin</td><td>States the country where goods were produced; used for tariff purposes</td></tr><tr><td>Marine insurance policy/certificate</td><td>Covers the goods against sea perils</td></tr><tr><td>Commercial invoice</td><td>Full details of goods, prices and terms</td></tr><tr><td>Consular invoice</td><td>Invoice certified by the importer's consul to prevent dumping/under-invoicing</td></tr><tr><td>Bill of exchange</td><td>Unconditional written order to pay; used to finance the trade</td></tr><tr><td>Letter of credit</td><td>Bank guarantee of payment to the exporter</td></tr><tr><td>Form M / Form NXP</td><td>Nigerian import and export documentation for forex and customs</td></tr><tr><td>Ship's manifest</td><td>List of all cargo on board</td></tr><tr><td>Bill of sight / entry</td><td>Customs documents for goods of uncertain description / clearing</td></tr></table>\n<h4>Delivery Terms</h4>\n<ul><li><strong>FOB (Free on Board)</strong> – seller pays until goods are loaded on ship.</li><li><strong>CIF (Cost, Insurance and Freight)</strong> – price includes insurance and freight to destination port.</li><li><strong>Ex-works</strong> – buyer collects at the factory gate.</li><li><strong>Franco</strong> – seller bears all costs to the buyer's premises.</li></ul>\n<h4>Bonded Warehouse</h4>\n<p>A warehouse under customs supervision where dutiable imports are stored until duty is paid, allowing the importer to defer payment or re-export duty-free.</p>\n",
+      "examples": [
+        {
+          "q": "An importer buys goods FOB Rotterdam at €40,000; freight is €2,500 and marine insurance €800. If €1 = ₦1,750, compute the CIF value in naira.",
+          "a": "CIF (€) \\(=40{,}000+2{,}500+800=€43{,}300\\). In naira \\(=43{,}300\\times1{,}750=₦75{,}775{,}000\\). Import duty would then be assessed on this CIF value plus any port charges."
+        },
+        {
+          "q": "Why is a bill of lading described as a document of title while an airway bill is not?",
+          "a": "A bill of lading can be endorsed and transferred, so possession of the original entitles the holder to claim the goods – it represents ownership in transit. An airway bill is merely a receipt and contract of carriage; the named consignee alone can take delivery, so it cannot be negotiated."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "International trade differs from home trade mainly because of",
+      "options": [
+        "Use of money",
+        "Different currencies and tariff barriers",
+        "Presence of retailers",
+        "Use of transport"
+      ],
+      "answer": "1",
+      "solution": "Foreign trade involves currency conversion, customs barriers and more documents."
+    },
+    {
+      "q": "Entrepot trade means",
+      "options": [
+        "Exporting local produce",
+        "Importing goods for re-export",
+        "Selling within a country",
+        "Smuggling"
+      ],
+      "answer": "1",
+      "solution": "Goods are imported and then re-exported, often after minor processing."
+    },
+    {
+      "q": "The balance of trade considers only",
+      "options": [
+        "Visible items",
+        "Invisible items",
+        "Capital transfers",
+        "Foreign aid"
+      ],
+      "answer": "0",
+      "solution": "BOT compares visible exports and visible imports of goods."
+    },
+    {
+      "q": "Balance of payments records",
+      "options": [
+        "Only exports",
+        "All economic transactions with other countries",
+        "Government budget",
+        "Company profits"
+      ],
+      "answer": "1",
+      "solution": "BOP covers current, capital/financial and official settlement accounts."
+    },
+    {
+      "q": "Which is an invisible export for Nigeria?",
+      "options": [
+        "Crude oil sold abroad",
+        "Shipping services rendered to foreigners",
+        "Imported cars",
+        "Cocoa exports"
+      ],
+      "answer": "1",
+      "solution": "Services such as shipping, tourism and banking earnings are invisible trade."
+    },
+    {
+      "q": "A deliberate official reduction in the value of a currency is",
+      "options": [
+        "Depreciation",
+        "Devaluation",
+        "Deflation",
+        "Revaluation"
+      ],
+      "answer": "1",
+      "solution": "Devaluation is an official act under a fixed exchange-rate regime."
+    },
+    {
+      "q": "Terms of trade are favourable when the index is",
+      "options": [
+        "Below 100",
+        "Exactly 50",
+        "Above 100",
+        "Zero"
+      ],
+      "answer": "2",
+      "solution": "An index above 100 means export prices rose faster than import prices."
+    },
+    {
+      "q": "The document of title to goods sent by sea is the",
+      "options": [
+        "Airway bill",
+        "Bill of lading",
+        "Certificate of origin",
+        "Consular invoice"
+      ],
+      "answer": "1",
+      "solution": "It is negotiable and transfers ownership of goods in transit."
+    },
+    {
+      "q": "A consular invoice is used mainly to",
+      "options": [
+        "Insure goods",
+        "Prevent dumping and under-invoicing",
+        "Pay freight",
+        "Provide storage"
+      ],
+      "answer": "1",
+      "solution": "It is certified by the consul to confirm true value and description."
+    },
+    {
+      "q": "CIF means",
+      "options": [
+        "Cost, Insurance and Freight",
+        "Customs Import Form",
+        "Cash In Full",
+        "Carriage Inland Free"
+      ],
+      "answer": "0",
+      "solution": "The quoted price covers cost of goods plus insurance and freight."
+    },
+    {
+      "q": "A bonded warehouse stores goods",
+      "options": [
+        "Free of any control",
+        "Under customs supervision until duty is paid",
+        "Only for exports",
+        "Only perishable goods"
+      ],
+      "answer": "1",
+      "solution": "It allows deferment of duty and duty-free re-export."
+    },
+    {
+      "q": "A quota is a restriction on",
+      "options": [
+        "Price of goods",
+        "Quantity of goods imported",
+        "Number of exporters",
+        "Bank lending"
+      ],
+      "answer": "1",
+      "solution": "Quotas physically limit the volume that may be imported."
+    },
+    {
+      "q": "Which of these is NOT a way of correcting a BOP deficit?",
+      "options": [
+        "Devaluation",
+        "Export promotion",
+        "Increasing imports",
+        "Deflationary policy"
+      ],
+      "answer": "2",
+      "solution": "Raising imports worsens the deficit."
+    },
+    {
+      "q": "An adverse balance of trade occurs when",
+      "options": [
+        "Exports exceed imports",
+        "Imports exceed exports",
+        "Exports equal imports",
+        "There is no trade"
+      ],
+      "answer": "1",
+      "solution": "More is spent on visible imports than earned from visible exports."
+    },
+    {
+      "q": "The infant industry argument supports",
+      "options": [
+        "Free trade",
+        "Temporary protection of new industries",
+        "Devaluation",
+        "Currency revaluation"
+      ],
+      "answer": "1",
+      "solution": "New industries need shelter until they attain competitive scale."
+    },
+    {
+      "q": "Which organisation regulates world trade rules?",
+      "options": [
+        "IMF",
+        "WTO",
+        "UNESCO",
+        "NDIC"
+      ],
+      "answer": "1",
+      "solution": "The World Trade Organisation supervises trade agreements and settles disputes."
+    }
+  ]
+}
