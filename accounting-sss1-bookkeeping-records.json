@@ -1,0 +1,237 @@
+{
+ "subject": "Financial Accounting",
+ "level": "SSS 1",
+ "slug": "bookkeeping-records",
+ "title": "Bookkeeping Records and Trial Balance",
+ "outline": [
+  "Source documents and their uses",
+  "The principles of double entry and the ledger",
+  "Classification of ledger accounts and balancing off",
+  "Books of original entry: journals and day books",
+  "Cash book: two-column and three-column; discounts",
+  "Petty cash book and the imprest system",
+  "Extraction of the trial balance and its limitations"
+ ],
+ "modules": [
+  {
+   "title": "Source Documents and Books of Original Entry",
+   "html": "\n<h4>1. Source Documents</h4>\n<table class=\"tb-table\">\n  <tr><th>Document</th><th>Issued by / for</th><th>Book of original entry</th></tr>\n  <tr><td>Invoice</td><td>Seller to buyer for a credit sale</td><td>Sales Day Book (seller) / Purchases Day Book (buyer)</td></tr>\n  <tr><td>Credit note</td><td>Seller for goods returned in (usually printed in red)</td><td>Returns Inwards Book / Returns Outwards Book</td></tr>\n  <tr><td>Debit note</td><td>Undercharge on an earlier invoice</td><td>Sales/Purchases Day Book</td></tr>\n  <tr><td>Receipt</td><td>Evidence of cash received</td><td>Cash Book</td></tr>\n  <tr><td>Cheque counterfoil / paying-in slip</td><td>Bank payments and lodgements</td><td>Cash Book</td></tr>\n  <tr><td>Petty cash voucher</td><td>Small authorised payments</td><td>Petty Cash Book</td></tr>\n  <tr><td>Statement of account</td><td>Periodic summary sent to a debtor</td><td>Memorandum only</td></tr>\n</table>\n\n<h4>2. The Seven Books of Original Entry</h4>\n<ol>\n  <li>Purchases Day Book - credit purchases of goods for resale.</li>\n  <li>Sales Day Book - credit sales of goods.</li>\n  <li>Returns Outwards (Purchases Returns) Book.</li>\n  <li>Returns Inwards (Sales Returns) Book.</li>\n  <li>Cash Book - all cash and bank receipts and payments.</li>\n  <li>Petty Cash Book - small payments under the imprest system.</li>\n  <li>The Journal Proper - everything not covered above: opening entries, purchase/sale of fixed assets on credit, correction of errors, year-end adjustments, closing transfers.</li>\n</ol>\n<p><b>Trade discount</b> is deducted on the face of the invoice and never appears in the ledger. <b>Cash (settlement) discount</b> is recorded: discount allowed is an expense, discount received is an income.</p>\n\n<h4>3. Format of a Journal Entry</h4>\n<table class=\"tb-table\">\n  <tr><th>Date</th><th>Particulars</th><th>Dr (N)</th><th>Cr (N)</th></tr>\n  <tr><td>1 Mar</td><td>Motor Van A/c</td><td>2,400,000</td><td></td></tr>\n  <tr><td></td><td>&nbsp;&nbsp;&nbsp;Zenith Motors A/c</td><td></td><td>2,400,000</td></tr>\n  <tr><td colspan=\"4\"><i>Narration:</i> Being purchase of a delivery van on credit.</td></tr>\n</table>\n",
+   "examples": [
+    {
+     "q": "Goods listed at N500,000 are sold to Ada subject to 20% trade discount and 5% cash discount if paid within 14 days. Show the entries if Ada pays within the period.",
+     "a": "Invoice value = 500,000 - 20% = N400,000. Only N400,000 enters the Sales Day Book: Dr Ada N400,000, Cr Sales N400,000. On payment within 14 days, cash discount = 5% x 400,000 = N20,000, so Ada pays N380,000. Entries: Dr Bank N380,000; Dr Discount Allowed N20,000; Cr Ada N400,000. Trade discount is never recorded in the ledger."
+    },
+    {
+     "q": "In which book of original entry is the credit purchase of a photocopier by a stationery shop recorded, and why?",
+     "a": "In the Journal Proper, not the Purchases Day Book. The Purchases Day Book is only for goods bought for resale. A photocopier bought for use is a fixed asset, so: Dr Office Equipment, Cr the supplier, with a narration."
+    }
+   ]
+  },
+  {
+   "title": "Double Entry, the Ledger and the Cash Book",
+   "html": "\n<h4>1. The Golden Rules</h4>\n<table class=\"tb-table\">\n  <tr><th>Account type</th><th>Debit records</th><th>Credit records</th></tr>\n  <tr><td>Personal</td><td>The receiver</td><td>The giver</td></tr>\n  <tr><td>Real (assets)</td><td>What comes in</td><td>What goes out</td></tr>\n  <tr><td>Nominal (expenses/income)</td><td>Expenses and losses</td><td>Incomes and gains</td></tr>\n</table>\n<p>In summary: <b>debit</b> increases assets and expenses; <b>credit</b> increases capital, liabilities and income.</p>\n\n<h4>2. Divisions of the Ledger</h4>\n<ul>\n  <li><b>Sales (debtors) ledger</b> - personal accounts of customers.</li>\n  <li><b>Purchases (creditors) ledger</b> - personal accounts of suppliers.</li>\n  <li><b>General (nominal) ledger</b> - all impersonal accounts.</li>\n  <li><b>Private ledger</b> - capital, drawings and confidential accounts.</li>\n  <li>The <b>Cash Book</b> is both a book of original entry and a ledger account.</li>\n</ul>\n\n<h4>3. Balancing Off an Account</h4>\n<ol>\n  <li>Total both sides mentally; find the larger total.</li>\n  <li>Insert the difference on the smaller side as <i>Balance c/d</i>.</li>\n  <li>Enter the equal totals on both sides, level with each other.</li>\n  <li>Bring the balance down on the opposite side below the totals as <i>Balance b/d</i>.</li>\n</ol>\n<p>A debit balance on a personal account means the person owes the business (a debtor).</p>\n\n<h4>4. Three-Column Cash Book</h4>\n<p>Columns: Discount, Cash, Bank on each side. The discount columns are memorandum totals only - they are not balanced but posted in total: total of discount allowed column is debited to Discount Allowed Account; total of discount received column is credited to Discount Received Account.</p>\n<p><b>Contra entries</b> (marked C in the folio column) arise when cash is paid into the bank or drawn from the bank for office use; both sides of the same cash book are affected, so no other ledger posting is needed.</p>\n\n<h4>5. Petty Cash Book and the Imprest System</h4>\n<p>The petty cashier starts with a fixed float (the imprest). At the end of the period he is reimbursed exactly what he spent, restoring the float:</p>\n$$ \\text{Reimbursement} = \\text{Imprest (Float)} - \\text{Cash in hand at period end} $$\n<p>Advantages: reduces the main cash book entries, trains junior staff, and provides control since the analysis columns must agree with the total column.</p>\n",
+   "examples": [
+    {
+     "q": "A firm operates a petty cash imprest of N50,000. During March the petty cashier spent N38,450. What is the reimbursement and what are the double entries?",
+     "a": "Cash in hand at 31 March = 50,000 - 38,450 = N11,550. Reimbursement = 50,000 - 11,550 = N38,450, restoring the float to N50,000. Entries: Dr Petty Cash Book (receipts side) N38,450, Cr Cash Book (Bank) N38,450. The analysed expense columns are posted individually to the debit of each expense account with the credit already in the petty cash book."
+    },
+    {
+     "q": "Post the following to ledger accounts: 3 May, paid rent N90,000 by cheque; 5 May, received N45,000 cash from Musa in full settlement of a debt of N48,000.",
+     "a": "3 May: Dr Rent A/c N90,000; Cr Bank N90,000 (an expense increases, an asset decreases). 5 May: Dr Cash N45,000; Dr Discount Allowed N3,000; Cr Musa N48,000, thereby closing Musa's account. Discount Allowed is an expense charged to the Profit and Loss Account."
+    }
+   ]
+  },
+  {
+   "title": "The Trial Balance and Its Limitations",
+   "html": "\n<h4>1. Purpose</h4>\n<p>A trial balance is a list of all ledger balances at a date, with debit balances in one column and credit balances in the other. Its totals should agree because of double entry. It checks arithmetical accuracy and provides the raw material for final accounts.</p>\n\n<h4>2. Where Balances Appear</h4>\n<table class=\"tb-table\">\n  <tr><th>Debit column</th><th>Credit column</th></tr>\n  <tr><td>Assets, drawings, expenses, purchases, returns inwards, carriage inwards, carriage outwards, discount allowed, opening stock</td><td>Capital, liabilities, sales, returns outwards, discount received, provision for doubtful debts, provision for depreciation, loans, income received</td></tr>\n</table>\n\n<h4>3. Errors That Do NOT Affect Agreement</h4>\n<ol>\n  <li><b>Error of omission</b> - a transaction completely left out.</li>\n  <li><b>Error of commission</b> - correct amount in the wrong personal account of the same class.</li>\n  <li><b>Error of principle</b> - e.g. a fixed asset debited to an expense account.</li>\n  <li><b>Error of original entry</b> - wrong figure entered in both accounts.</li>\n  <li><b>Complete reversal of entries</b> - debit and credit interchanged.</li>\n  <li><b>Compensating errors</b> - two errors of equal value cancelling out.</li>\n  <li><b>Transposition</b> in both accounts equally (e.g. 96 written as 69 twice).</li>\n</ol>\n\n<h4>4. Errors That Cause Disagreement</h4>\n<p>One-sided postings, wrong addition of a ledger account or of a day book, posting an amount to the correct side twice, or entering a figure on the wrong side of one account. Such differences are placed temporarily in a <b>Suspense Account</b>.</p>\n",
+   "examples": [
+    {
+     "q": "A trial balance shows debit total N4,860,000 and credit total N4,824,000. Explain how the difference is handled and give two errors that could cause it.",
+     "a": "The difference of N36,000 is credited to a Suspense Account so that the trial balance agrees temporarily. Possible causes: (i) sales of N36,000 posted to the debtor's account but omitted from the Sales Account (a one-sided entry); (ii) the Discount Received Account under-added by N36,000. When the error is found, the correcting journal clears the suspense account."
+    },
+    {
+     "q": "State the effect on the trial balance of purchasing a delivery van for N1,500,000 and debiting Motor Expenses.",
+     "a": "The trial balance still agrees because both a debit and a credit of N1,500,000 were made. It is an error of principle: a capital expenditure was treated as revenue expenditure. The effect is that net profit is understated by N1,500,000 (less any depreciation that should have been charged) and fixed assets are understated in the balance sheet. Correction: Dr Motor Van N1,500,000, Cr Motor Expenses N1,500,000."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The book of original entry for credit purchases of goods for resale is the:",
+   "options": [
+    "Cash book",
+    "Purchases day book",
+    "Journal proper",
+    "General ledger"
+   ],
+   "answer": "1",
+   "solution": "Credit purchases of trading goods are listed in the purchases day book from suppliers' invoices."
+  },
+  {
+   "q": "Trade discount is:",
+   "options": [
+    "Credited to discount received",
+    "Debited to discount allowed",
+    "Deducted before entry in the books",
+    "Shown in the cash book"
+   ],
+   "answer": "2",
+   "solution": "Trade discount is deducted on the invoice; only the net figure enters the books."
+  },
+  {
+   "q": "Which account is credited when goods are returned to a supplier?",
+   "options": [
+    "Purchases",
+    "Returns outwards",
+    "Returns inwards",
+    "Supplier"
+   ],
+   "answer": "1",
+   "solution": "Dr Supplier, Cr Returns Outwards (purchases returns)."
+  },
+  {
+   "q": "A contra entry in a three-column cash book occurs when:",
+   "options": [
+    "A debtor pays cash",
+    "Cash is banked",
+    "Discount is allowed",
+    "Wages are paid"
+   ],
+   "answer": "1",
+   "solution": "Banking cash affects both the cash and bank columns of the same cash book, so it is a contra entry marked C."
+  },
+  {
+   "q": "The imprest system relates to:",
+   "options": [
+    "Sales ledger",
+    "Petty cash book",
+    "Journal proper",
+    "Trial balance"
+   ],
+   "answer": "1",
+   "solution": "Under the imprest system the petty cashier's float is restored to a fixed amount each period."
+  },
+  {
+   "q": "An imprest of N40,000 with N9,200 unspent requires a reimbursement of:",
+   "options": [
+    "N9,200",
+    "N40,000",
+    "N30,800",
+    "N49,200"
+   ],
+   "answer": "2",
+   "solution": "Reimbursement = float - cash in hand = 40,000 - 9,200 = N30,800."
+  },
+  {
+   "q": "Discount allowed is:",
+   "options": [
+    "An income",
+    "An expense",
+    "A liability",
+    "An asset"
+   ],
+   "answer": "1",
+   "solution": "Discount allowed is granted to customers for prompt payment and is charged to the profit and loss account as an expense."
+  },
+  {
+   "q": "Which error does NOT affect the agreement of the trial balance?",
+   "options": [
+    "One-sided posting",
+    "Wrong addition of an account",
+    "Error of principle",
+    "Posting to the wrong side"
+   ],
+   "answer": "2",
+   "solution": "An error of principle still involves equal debit and credit, so the totals agree."
+  },
+  {
+   "q": "A suspense account is opened when:",
+   "options": [
+    "A debtor cannot pay",
+    "The trial balance fails to agree",
+    "Stock is overvalued",
+    "A cheque is dishonoured"
+   ],
+   "answer": "1",
+   "solution": "The difference in the trial balance is temporarily posted to a suspense account pending discovery of the errors."
+  },
+  {
+   "q": "Purchase of machinery debited to Purchases Account is an error of:",
+   "options": [
+    "Omission",
+    "Commission",
+    "Principle",
+    "Original entry"
+   ],
+   "answer": "2",
+   "solution": "A capital item has been treated as revenue expenditure, which is an error of principle."
+  },
+  {
+   "q": "In the ledger, the rule for real accounts is:",
+   "options": [
+    "Debit the receiver",
+    "Debit what comes in",
+    "Debit all incomes",
+    "Credit all expenses"
+   ],
+   "answer": "1",
+   "solution": "For real (asset) accounts, debit what comes in and credit what goes out."
+  },
+  {
+   "q": "A debit balance on a customer's account means:",
+   "options": [
+    "The business owes the customer",
+    "The customer owes the business",
+    "The account is closed",
+    "Goods were returned"
+   ],
+   "answer": "1",
+   "solution": "A debit balance on a personal account of a customer shows an amount receivable, i.e. a debtor."
+  },
+  {
+   "q": "The journal proper is used for:",
+   "options": [
+    "All cash payments",
+    "Credit sales of goods",
+    "Correction of errors and opening entries",
+    "Petty expenses"
+   ],
+   "answer": "2",
+   "solution": "The journal proper handles items not catered for by the special day books, such as corrections, opening entries and asset purchases on credit."
+  },
+  {
+   "q": "Sales of N70,000 completely omitted from the books is an error of:",
+   "options": [
+    "Commission",
+    "Omission",
+    "Compensation",
+    "Reversal"
+   ],
+   "answer": "1",
+   "solution": "A wholly unrecorded transaction is an error of omission and does not disturb the trial balance."
+  },
+  {
+   "q": "Which of the following appears in the credit column of a trial balance?",
+   "options": [
+    "Carriage inwards",
+    "Returns inwards",
+    "Provision for doubtful debts",
+    "Drawings"
+   ],
+   "answer": "2",
+   "solution": "Provisions are credit balances; carriage inwards, returns inwards and drawings are debit balances."
+  },
+  {
+   "q": "A credit note issued by a seller is entered by the seller in the:",
+   "options": [
+    "Returns outwards book",
+    "Returns inwards book",
+    "Sales day book",
+    "Cash book"
+   ],
+   "answer": "1",
+   "solution": "The seller issues a credit note when goods come back in, so it is recorded in the returns inwards (sales returns) book."
+  }
+ ]
+}
