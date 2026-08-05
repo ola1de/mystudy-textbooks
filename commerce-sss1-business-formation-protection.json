@@ -1,0 +1,237 @@
+{
+  "subject": "Commerce",
+  "level": "SSS 1",
+  "slug": "business-formation-protection",
+  "title": "Business Formation & Protection",
+  "outline": [
+    "Forms of business organisation – an overview",
+    "Sole proprietorship: features, merits and demerits",
+    "Partnership: types of partners, deed, merits and demerits",
+    "Dissolution of partnership",
+    "Business registration in Nigeria (CAC)",
+    "Consumer rights, malpractices and consumer protection",
+    "Regulatory agencies: SON, NAFDAC, FCCPC, CPC, NDPC"
+  ],
+  "modules": [
+    {
+      "title": "Sole Proprietorship",
+      "html": "\n<h4>Meaning</h4>\n<p>A <strong>sole proprietorship (one-man business)</strong> is owned, financed, controlled and managed by one person who takes all profits and bears all losses. It is the oldest and commonest form of business in Nigeria.</p>\n<h4>Features</h4>\n<ul><li>Single ownership and easy formation.</li><li><strong>Unlimited liability</strong> – personal assets can be seized to settle business debts.</li><li>No separate legal entity from the owner.</li><li>Capital from personal savings, loans, gifts and ploughed-back profits.</li><li>Limited life – death or bankruptcy of the owner usually ends the business.</li></ul>\n<h4>Advantages</h4>\n<ol><li>Simple and cheap to set up; few legal formalities.</li><li>Quick decision-making and flexibility.</li><li>All profits belong to the owner – strong incentive.</li><li>Business secrets are preserved; no accounts published.</li><li>Close personal contact with customers and staff.</li></ol>\n<h4>Disadvantages</h4>\n<ol><li>Unlimited liability.</li><li>Limited capital restricts expansion.</li><li>No continuity of existence.</li><li>Burden of management falls on one person.</li><li>Limited managerial skill and no economies of scale.</li></ol>\n",
+      "examples": [
+        {
+          "q": "Mr. Bello's provision store owes ₦1,200,000 but business assets are worth only ₦700,000. What happens?",
+          "a": "Because a sole trader has unlimited liability, the creditors may proceed against his private property – car, personal savings, or house – to recover the outstanding ₦500,000. There is no legal separation between the man and his business."
+        },
+        {
+          "q": "A sole trader has current assets ₦480,000 and current liabilities ₦510,000. Comment on his position.",
+          "a": "Working Capital \\( = 480{,}000 - 510{,}000 = -₦30{,}000 \\). Negative working capital means he cannot meet short-term obligations from short-term assets; he risks insolvency and should raise finance or reduce credit purchases."
+        }
+      ]
+    },
+    {
+      "title": "Partnership",
+      "html": "\n<h4>Meaning</h4>\n<p>A <strong>partnership</strong> is an association of between 2 and 20 persons (2–10 for banking) who agree to carry on business in common with a view to profit.</p>\n<h4>Types of Partnership</h4>\n<ul><li><strong>Ordinary/general partnership</strong> – all partners have unlimited liability and take part in management.</li><li><strong>Limited partnership</strong> – has at least one general partner with unlimited liability; limited partners' liability is restricted to capital contributed.</li></ul>\n<h4>Types of Partners</h4>\n<table class=\"tb-table\"><tr><th>Partner</th><th>Description</th></tr><tr><td>Active/general</td><td>Contributes capital and manages the firm</td></tr><tr><td>Sleeping/dormant</td><td>Contributes capital but takes no part in management</td></tr><tr><td>Nominal/quasi</td><td>Lends only his name/reputation; no capital</td></tr><tr><td>Limited</td><td>Liability limited to capital contributed</td></tr><tr><td>Infant</td><td>Under 18; may withdraw within one year of attaining majority</td></tr></table>\n<h4>The Partnership Deed</h4>\n<p>Contains: name and address of firm, capital of each partner, profit and loss sharing ratio, interest on capital and drawings, salaries, duties, procedure for admitting/retiring partners, and settlement of disputes. Where there is no deed, the Partnership Act applies: profits shared equally, no interest on capital, no salaries, 5% interest on advances.</p>\n<h4>Dissolution</h4>\n<p>By mutual agreement, expiry of term, death/bankruptcy/insanity of a partner, court order, or where the business becomes illegal.</p>\n",
+      "examples": [
+        {
+          "q": "Ade, Bola and Chidi contribute ₦600,000, ₦400,000 and ₦200,000 and share profits in capital ratio. Profit is ₦720,000. Find each share.",
+          "a": "Ratio 6:4:2 = 3:2:1, total 6 parts. Ade \\(=\\dfrac{3}{6}\\times720{,}000=₦360{,}000\\); Bola \\(=\\dfrac{2}{6}\\times720{,}000=₦240{,}000\\); Chidi \\(=\\dfrac{1}{6}\\times720{,}000=₦120{,}000\\)."
+        },
+        {
+          "q": "Two friends start a firm without a written deed and quarrel over profit sharing since one contributed more capital. How is it settled?",
+          "a": "In the absence of a deed the Partnership Act governs: profits and losses are shared EQUALLY regardless of capital contributed, no partner receives a salary, and no interest is paid on capital. The lesson is that a written deed should always be prepared."
+        }
+      ]
+    },
+    {
+      "title": "Consumer Protection and Business Registration",
+      "html": "\n<h4>Registering a Business in Nigeria</h4>\n<p>Business names and companies are registered with the <strong>Corporate Affairs Commission (CAC)</strong> under the Companies and Allied Matters Act (CAMA). Steps: name availability search and reservation → completion of registration forms → payment of fees and stamp duty → issue of certificate of registration/incorporation → tax registration (TIN) with FIRS.</p>\n<h4>Consumer Rights</h4>\n<ol><li>Right to safety</li><li>Right to be informed</li><li>Right to choose</li><li>Right to be heard/redress</li><li>Right to consumer education</li><li>Right to a healthy environment</li></ol>\n<h4>Business Malpractices</h4>\n<ul><li>Sale of expired, fake or adulterated goods</li><li>Under-weighing and use of false measures</li><li>Hoarding and artificial scarcity</li><li>Misleading advertisement and deceptive labelling</li><li>Price fixing and profiteering</li></ul>\n<h4>Agencies of Consumer Protection</h4>\n<table class=\"tb-table\"><tr><th>Agency</th><th>Function</th></tr><tr><td>SON</td><td>Sets and enforces national quality standards (MANCAP, SONCAP)</td></tr><tr><td>NAFDAC</td><td>Regulates food, drugs, cosmetics, chemicals and bottled water</td></tr><tr><td>FCCPC (formerly CPC)</td><td>Protects consumers, handles complaints and regulates competition</td></tr><tr><td>Weights &amp; Measures Dept.</td><td>Verifies scales, meters and measuring devices</td></tr><tr><td>Consumer associations</td><td>Advocacy, education and pressure on suppliers</td></tr></table>\n",
+      "examples": [
+        {
+          "q": "A shopper buys a carton of juice from a supermarket and discovers it has expired. State the agency she should report to and the redress available.",
+          "a": "She should complain to NAFDAC (product safety of food) and to the FCCPC for redress. Remedies include refund or replacement, sanctions and possible closure of the outlet, plus destruction of remaining stock."
+        },
+        {
+          "q": "Explain two reasons why business registration is important for a small trader.",
+          "a": "(i) It gives legal recognition, enabling the trader to open a corporate bank account, obtain loans and bid for contracts. (ii) It protects the business name from use by others and satisfies tax and regulatory requirements, avoiding penalties."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "A distinguishing feature of a sole proprietorship is",
+      "options": [
+        "Limited liability",
+        "Unlimited liability",
+        "Separate legal entity",
+        "Perpetual succession"
+      ],
+      "answer": "1",
+      "solution": "The owner's personal assets are at risk for business debts."
+    },
+    {
+      "q": "The maximum number of ordinary partners in a non-banking partnership is",
+      "options": [
+        "10",
+        "20",
+        "50",
+        "Unlimited"
+      ],
+      "answer": "1",
+      "solution": "Ordinary partnerships are limited to 20 members; banking partnerships to 10."
+    },
+    {
+      "q": "A partner who contributes capital but takes no part in management is a",
+      "options": [
+        "Nominal partner",
+        "Active partner",
+        "Sleeping partner",
+        "Quasi partner"
+      ],
+      "answer": "2",
+      "solution": "A sleeping (dormant) partner invests but stays out of daily management."
+    },
+    {
+      "q": "Where there is no partnership deed, profits are shared",
+      "options": [
+        "In capital ratio",
+        "Equally",
+        "By seniority",
+        "By the court"
+      ],
+      "answer": "1",
+      "solution": "The Partnership Act provides for equal sharing in the absence of an agreement."
+    },
+    {
+      "q": "A nominal partner is one who contributes",
+      "options": [
+        "Capital only",
+        "His name and reputation only",
+        "Machinery only",
+        "Land only"
+      ],
+      "answer": "1",
+      "solution": "He lends his name/goodwill without contributing capital."
+    },
+    {
+      "q": "Business names in Nigeria are registered with",
+      "options": [
+        "CBN",
+        "CAC",
+        "SON",
+        "NAFDAC"
+      ],
+      "answer": "1",
+      "solution": "The Corporate Affairs Commission registers business names and companies under CAMA."
+    },
+    {
+      "q": "Which agency regulates food and drugs in Nigeria?",
+      "options": [
+        "SON",
+        "NAFDAC",
+        "NSE",
+        "NDIC"
+      ],
+      "answer": "1",
+      "solution": "NAFDAC controls food, drugs, cosmetics, medical devices and packaged water."
+    },
+    {
+      "q": "SON is mainly responsible for",
+      "options": [
+        "Setting product standards",
+        "Printing currency",
+        "Collecting customs duty",
+        "Listing shares"
+      ],
+      "answer": "0",
+      "solution": "The Standards Organisation of Nigeria sets and enforces quality standards."
+    },
+    {
+      "q": "Hoarding of goods to create scarcity is an example of",
+      "options": [
+        "Consumer right",
+        "Business malpractice",
+        "Trade discount",
+        "Division of labour"
+      ],
+      "answer": "1",
+      "solution": "Hoarding artificially raises prices and harms consumers."
+    },
+    {
+      "q": "The right to be informed means the consumer should get",
+      "options": [
+        "Free goods",
+        "Accurate facts about a product",
+        "A shop of his own",
+        "Government subsidy"
+      ],
+      "answer": "1",
+      "solution": "Consumers must receive truthful information on content, price and risks."
+    },
+    {
+      "q": "A limited partner's liability is restricted to",
+      "options": [
+        "His salary",
+        "Capital contributed",
+        "Total firm debts",
+        "The partnership deed"
+      ],
+      "answer": "1",
+      "solution": "He can lose only what he invested, provided he takes no part in management."
+    },
+    {
+      "q": "Which is NOT a cause of dissolution of partnership?",
+      "options": [
+        "Death of a partner",
+        "Court order",
+        "Expiry of the agreed term",
+        "Increase in profit"
+      ],
+      "answer": "3",
+      "solution": "Rising profit is no reason to dissolve; the other three are recognised causes."
+    },
+    {
+      "q": "An advantage of a one-man business is",
+      "options": [
+        "Access to large capital",
+        "Quick decision making",
+        "Perpetual succession",
+        "Limited liability"
+      ],
+      "answer": "1",
+      "solution": "With one decision maker, the business responds rapidly to change."
+    },
+    {
+      "q": "A partnership deed usually states all EXCEPT",
+      "options": [
+        "Profit sharing ratio",
+        "Interest on capital",
+        "Duties of partners",
+        "Share price on the stock exchange"
+      ],
+      "answer": "3",
+      "solution": "Partnerships do not issue quoted shares; that applies to public companies."
+    },
+    {
+      "q": "The FCCPC replaced which agency?",
+      "options": [
+        "NDIC",
+        "CPC",
+        "SON",
+        "CAC"
+      ],
+      "answer": "1",
+      "solution": "The Federal Competition and Consumer Protection Commission took over from the Consumer Protection Council."
+    },
+    {
+      "q": "A sole trader ploughing back profits is using",
+      "options": [
+        "Debenture capital",
+        "Internal source of finance",
+        "Bank overdraft",
+        "Share capital"
+      ],
+      "answer": "1",
+      "solution": "Retained profit is an internal source of business finance."
+    }
+  ]
+}
