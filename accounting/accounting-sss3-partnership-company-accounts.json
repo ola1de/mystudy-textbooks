@@ -1,0 +1,227 @@
+{
+ "subject": "Financial Accounting",
+ "level": "SSS 3",
+ "slug": "partnership-company-accounts",
+ "title": "Partnership and Company Accounts",
+ "outline": [
+  "Nature of partnership and the partnership deed",
+  "Appropriation of profit: interest on capital, drawings and salaries",
+  "Fixed and fluctuating capital accounts",
+  "Goodwill: nature, valuation and treatment on admission and retirement",
+  "Dissolution of partnership (introductory)",
+  "Formation of a limited liability company and types of shares",
+  "Issue of shares and debentures; company final accounts"
+ ],
+ "modules": [
+  {
+   "title": "Partnership Accounts",
+   "html": "\n<h4>1. Nature and Deed</h4>\n<p>A partnership is the relationship between two or more persons (2-20, except professional firms) carrying on business in common with a view to profit. The <b>partnership deed</b> states capital contributions, profit-sharing ratio, interest on capital and drawings, salaries, and procedures for admission, retirement and dissolution.</p>\n<p>Where there is no deed, the Partnership Act applies: profits and losses shared <b>equally</b>, no interest on capital, no interest on drawings, no salary to any partner, and interest of 5% per annum on advances (loans) by a partner.</p>\n\n<h4>2. Appropriation Account</h4>\n<table class=\"tb-table\">\n  <tr><th>Profit and Loss Appropriation Account</th><th>N</th></tr>\n  <tr><td>Net profit b/d</td><td>3,000,000</td></tr>\n  <tr><td>Add Interest on drawings (A 30,000; B 20,000)</td><td>50,000</td></tr>\n  <tr><td>Less Interest on capital (A 200,000; B 150,000)</td><td>(350,000)</td></tr>\n  <tr><td>Less Partners' salaries (B)</td><td>(400,000)</td></tr>\n  <tr><td>Residual profit shared A 3 : B 2</td><td>2,300,000</td></tr>\n</table>\n<p>Interest on a partner's <b>loan</b> is an expense in the Profit and Loss Account, not an appropriation.</p>\n\n<h4>3. Fixed and Fluctuating Capitals</h4>\n<p>With <b>fixed capitals</b>, the Capital Account keeps the original contribution and all shares of profit, drawings, interest and salary pass through a <b>Current Account</b>. With <b>fluctuating capitals</b>, only one account is kept and it changes every year. A debit balance on a current account means the partner has overdrawn.</p>\n\n<h4>4. Goodwill</h4>\n<p>Goodwill is the value of the reputation and connections of a business - the excess of the purchase price over the fair value of net assets. Methods of valuation: purchase of a number of years' profits, super profit method, and capitalisation of super profits.</p>\n$$ \\text{Super Profit} = \\text{Average Profit} - (\\text{Capital Employed} \\times \\text{Normal Rate of Return}) $$\n<p>On <b>admission</b>, the incoming partner pays for a share of goodwill because the asset was created by the old partners. Goodwill may be (i) raised in the books and shared among old partners in the old ratio, or (ii) raised and then written off in the new ratio, so that the net effect adjusts capitals without keeping goodwill in the balance sheet.</p>\n\n<h4>5. Revaluation and Retirement</h4>\n<p>Assets are revalued on admission or retirement; the profit or loss on revaluation belongs to the old partners in the old ratio. A retiring partner's balance is paid out or transferred to a loan account.</p>\n",
+   "examples": [
+    {
+     "q": "Ade and Bayo share profits 3:2. Capitals: Ade N2,000,000, Bayo N1,500,000; interest on capital 10%; Bayo's salary N300,000; interest on drawings Ade N25,000, Bayo N15,000; net profit N2,140,000. Prepare the appropriation.",
+     "a": "Profit available = 2,140,000 + 40,000 (interest on drawings) = N2,180,000. Interest on capital: Ade 200,000, Bayo 150,000 = N350,000. Salary Bayo N300,000. Residue = 2,180,000 - 650,000 = N1,530,000, shared 3:2 => Ade \\(\\frac{3}{5} \\times 1,530,000 = N918,000\\); Bayo \\(\\frac{2}{5} \\times 1,530,000 = N612,000\\). Total credited: Ade 200,000 + 918,000 - 25,000 = N1,093,000; Bayo 150,000 + 300,000 + 612,000 - 15,000 = N1,047,000."
+    },
+    {
+     "q": "A firm's average profit is N1,800,000, capital employed N9,000,000 and the normal rate of return 12%. Value goodwill at 3 years' purchase of super profit.",
+     "a": "Normal profit = 12% x 9,000,000 = N1,080,000. Super profit = 1,800,000 - 1,080,000 = N720,000. Goodwill = 3 x 720,000 = N2,160,000."
+    }
+   ]
+  },
+  {
+   "title": "Company Accounts: Formation, Shares and Debentures",
+   "html": "\n<h4>1. Formation</h4>\n<p>A limited liability company is an artificial person created by registration with the Corporate Affairs Commission under the Companies and Allied Matters Act. Documents: Memorandum of Association (external relations - name, registered office, objects, liability, share capital) and Articles of Association (internal rules). Features: separate legal personality, limited liability, perpetual succession, transferability of shares, and separation of ownership from management.</p>\n\n<h4>2. Classes of Capital</h4>\n<ul>\n  <li><b>Authorised (nominal/registered) capital</b> - maximum the company may issue.</li>\n  <li><b>Issued capital</b> - the part actually offered to the public.</li>\n  <li><b>Called-up capital</b> - the part of the issued capital demanded from shareholders.</li>\n  <li><b>Paid-up capital</b> - the amount actually received; the shortfall is <b>calls in arrears</b>.</li>\n</ul>\n\n<h4>3. Types of Shares</h4>\n<table class=\"tb-table\">\n  <tr><th>Type</th><th>Features</th></tr>\n  <tr><td>Ordinary (equity) shares</td><td>Voting rights; dividend varies with profit; paid last on winding up; true risk bearers</td></tr>\n  <tr><td>Preference shares</td><td>Fixed rate of dividend paid before ordinary; usually no vote; may be cumulative, participating, redeemable or convertible</td></tr>\n  <tr><td>Deferred (founders') shares</td><td>Held by promoters; paid after other classes</td></tr>\n</table>\n\n<h4>4. Debentures</h4>\n<p>A debenture is a written acknowledgement of a debt, usually under seal, carrying a fixed rate of interest. Debenture holders are <b>creditors</b>, not owners. Interest is an expense charged in the Profit and Loss Account whether or not there is profit, unlike dividends which are appropriations of profit. Debentures may be secured (fixed or floating charge), naked, redeemable or irredeemable.</p>\n\n<h4>5. Issue of Shares</h4>\n<p>Shares may be issued at par, at a premium (credited to Share Premium Account, a capital reserve) or, subject to legal restriction, at a discount. Entries on application and allotment: Dr Bank, Cr Application; then Dr Application, Cr Share Capital (and Share Premium where relevant); excess money is refunded or applied to allotment. <b>Over-subscription</b> means applications exceed shares available.</p>\n\n<h4>6. Company Final Accounts</h4>\n<p>The Profit and Loss Appropriation Account of a company shows: net profit after tax, add balance brought forward, less transfers to general reserve, less preference and ordinary dividends, giving the retained earnings carried forward. The balance sheet shows share capital, reserves (share premium, general reserve, retained earnings) as shareholders' funds, plus long-term liabilities such as debentures.</p>\n",
+   "examples": [
+    {
+     "q": "A company has 2,000,000 ordinary shares of N1 each fully paid and 500,000 8% preference shares of N2 each. It declares a 12% ordinary dividend. Compute total dividends.",
+     "a": "Preference capital = 500,000 x N2 = N1,000,000; preference dividend = 8% x 1,000,000 = N80,000. Ordinary capital = N2,000,000; ordinary dividend = 12% x 2,000,000 = N240,000. Total dividend = N320,000, all appropriations of profit shown in the appropriation account."
+    },
+    {
+     "q": "Bright Ltd issued 1,000,000 ordinary shares of N1 each at N1.50, payable in full on application, and received applications for 1,200,000 shares. Show the entries.",
+     "a": "Cash received = 1,200,000 x N1.50 = N1,800,000: Dr Bank, Cr Application. Shares allotted 1,000,000: Dr Application N1,500,000; Cr Ordinary Share Capital N1,000,000 and Cr Share Premium N500,000. Excess applications of 200,000 shares are refunded: Dr Application N300,000, Cr Bank N300,000."
+    },
+    {
+     "q": "Distinguish between debenture interest and ordinary dividend.",
+     "a": "Debenture interest is a charge against profit: it is an expense in the profit and loss account, payable at a fixed rate whether or not the company makes a profit, and is legally enforceable by the debenture holder as a creditor. An ordinary dividend is an appropriation of profit, payable only out of profits available, varies with performance and is recommended by directors and approved by shareholders."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "In the absence of a partnership deed, profits are shared:",
+   "options": [
+    "In capital ratio",
+    "Equally",
+    "By seniority",
+    "In drawings ratio"
+   ],
+   "answer": "1",
+   "solution": "The Partnership Act provides for equal sharing where no agreement exists."
+  },
+  {
+   "q": "Interest on a partner's loan to the firm is:",
+   "options": [
+    "An appropriation of profit",
+    "A charge against profit",
+    "Added to capital",
+    "Ignored"
+   ],
+   "answer": "1",
+   "solution": "It is an expense in the profit and loss account, allowed at 5% per annum where there is no agreement."
+  },
+  {
+   "q": "Under the fixed capital method, a partner's share of profit is credited to the:",
+   "options": [
+    "Capital account",
+    "Current account",
+    "Drawings account",
+    "Loan account"
+   ],
+   "answer": "1",
+   "solution": "With fixed capitals, all periodic items pass through the current account."
+  },
+  {
+   "q": "Goodwill is best described as:",
+   "options": [
+    "A fictitious asset",
+    "An intangible asset representing reputation",
+    "A current asset",
+    "A liability"
+   ],
+   "answer": "1",
+   "solution": "Goodwill is an intangible asset arising from reputation, location and customer connections."
+  },
+  {
+   "q": "Average profit N900,000, capital employed N5,000,000, normal return 10%. Super profit is:",
+   "options": [
+    "N400,000",
+    "N500,000",
+    "N900,000",
+    "N90,000"
+   ],
+   "answer": "0",
+   "solution": "Normal profit = 500,000; super profit = 900,000 - 500,000 = N400,000."
+  },
+  {
+   "q": "On admission of a new partner, profit on revaluation is shared by:",
+   "options": [
+    "All partners in the new ratio",
+    "Old partners in the old ratio",
+    "The new partner alone",
+    "Equally"
+   ],
+   "answer": "1",
+   "solution": "Gains up to the date of admission belong to the old partners in their old profit-sharing ratio."
+  },
+  {
+   "q": "Interest on drawings is:",
+   "options": [
+    "Debited to the appropriation account",
+    "Credited to the appropriation account",
+    "An expense of the firm",
+    "Added to capital"
+   ],
+   "answer": "1",
+   "solution": "It is income to the firm, credited in the appropriation account and debited to the partner."
+  },
+  {
+   "q": "The maximum number of shares a company may issue is its:",
+   "options": [
+    "Issued capital",
+    "Paid-up capital",
+    "Authorised capital",
+    "Called-up capital"
+   ],
+   "answer": "2",
+   "solution": "Authorised (nominal) capital is the ceiling stated in the memorandum."
+  },
+  {
+   "q": "Debenture holders are:",
+   "options": [
+    "Owners of the company",
+    "Creditors of the company",
+    "Directors",
+    "Preference shareholders"
+   ],
+   "answer": "1",
+   "solution": "A debenture is a loan; the holder is a long-term creditor entitled to interest."
+  },
+  {
+   "q": "Share premium arises when shares are issued:",
+   "options": [
+    "At par",
+    "Above nominal value",
+    "Below nominal value",
+    "To directors"
+   ],
+   "answer": "1",
+   "solution": "The excess of the issue price over nominal value is credited to the share premium account."
+  },
+  {
+   "q": "Which shareholders bear the greatest risk?",
+   "options": [
+    "Preference",
+    "Debenture holders",
+    "Ordinary",
+    "Cumulative preference"
+   ],
+   "answer": "2",
+   "solution": "Ordinary shareholders are paid last and their dividend fluctuates, so they carry the residual risk."
+  },
+  {
+   "q": "Cumulative preference shares entitle holders to:",
+   "options": [
+    "Extra votes",
+    "Arrears of dividend in later years",
+    "Repayment before creditors",
+    "A share of goodwill"
+   ],
+   "answer": "1",
+   "solution": "Unpaid dividends accumulate and must be paid before any ordinary dividend."
+  },
+  {
+   "q": "Over-subscription of shares means applications were:",
+   "options": [
+    "Fewer than shares offered",
+    "Equal to shares offered",
+    "More than shares offered",
+    "Withdrawn"
+   ],
+   "answer": "2",
+   "solution": "Applications exceed the number of shares available, so allotment is scaled down or refunds made."
+  },
+  {
+   "q": "Which document contains the internal regulations of a company?",
+   "options": [
+    "Memorandum of association",
+    "Articles of association",
+    "Prospectus",
+    "Certificate of incorporation"
+   ],
+   "answer": "1",
+   "solution": "The articles govern internal management; the memorandum governs external relations."
+  },
+  {
+   "q": "A partner's current account with a debit balance indicates:",
+   "options": [
+    "The firm owes the partner",
+    "The partner has drawn more than his entitlement",
+    "Interest is due to him",
+    "He has retired"
+   ],
+   "answer": "1",
+   "solution": "Drawings and interest on drawings have exceeded the credits of salary, interest on capital and profit share."
+  },
+  {
+   "q": "Preference dividend on 400,000 10% preference shares of N1 each is:",
+   "options": [
+    "N4,000",
+    "N40,000",
+    "N400,000",
+    "N100,000"
+   ],
+   "answer": "1",
+   "solution": "10% of N400,000 nominal value = N40,000."
+  }
+ ]
+}

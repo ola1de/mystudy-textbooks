@@ -1,0 +1,241 @@
+{
+ "subject": "Financial Accounting",
+ "level": "SSS 2",
+ "slug": "final-accounts-sole-trader",
+ "title": "Final Accounts of a Sole Trader",
+ "outline": [
+  "Purpose and structure of final accounts",
+  "Trading Account and cost of goods sold",
+  "Profit and Loss Account: expenses and incomes",
+  "Balance Sheet formats and classification",
+  "Year-end adjustments: accruals, prepayments, bad debts and provisions",
+  "Depreciation: straight-line, reducing balance and disposal",
+  "Interpretation: gross profit margin, mark-up and net profit ratio"
+ ],
+ "modules": [
+  {
+   "title": "Trading, Profit and Loss Account",
+   "html": "\n<h4>1. The Trading Account</h4>\n<p>It ascertains gross profit, the excess of net sales over the cost of the goods sold:</p>\n$$ \\text{Cost of Goods Sold} = \\text{Opening Stock} + \\text{Net Purchases} + \\text{Carriage Inwards} - \\text{Closing Stock} $$\n$$ \\text{Gross Profit} = \\text{Net Sales} - \\text{Cost of Goods Sold} $$\n<p>Net purchases = purchases - returns outwards - goods taken by the owner. Net sales = sales - returns inwards. <b>Carriage inwards</b> is part of cost of goods sold; <b>carriage outwards</b> is a selling expense in the Profit and Loss Account.</p>\n\n<h4>2. Specimen (vertical form)</h4>\n<table class=\"tb-table\">\n  <tr><th>Trading and Profit and Loss Account for the year ended 31 Dec</th><th>N</th><th>N</th></tr>\n  <tr><td>Sales</td><td></td><td>6,000,000</td></tr>\n  <tr><td>Less Returns inwards</td><td></td><td>(150,000)</td></tr>\n  <tr><td>Net sales</td><td></td><td>5,850,000</td></tr>\n  <tr><td>Opening stock</td><td>600,000</td><td></td></tr>\n  <tr><td>Add Purchases (net)</td><td>3,500,000</td><td></td></tr>\n  <tr><td>Add Carriage inwards</td><td>100,000</td><td></td></tr>\n  <tr><td>Goods available for sale</td><td>4,200,000</td><td></td></tr>\n  <tr><td>Less Closing stock</td><td>(700,000)</td><td></td></tr>\n  <tr><td>Cost of goods sold</td><td></td><td>(3,500,000)</td></tr>\n  <tr><td><b>Gross profit</b></td><td></td><td><b>2,350,000</b></td></tr>\n  <tr><td>Add Discount received, rent received</td><td></td><td>150,000</td></tr>\n  <tr><td>Less Expenses (salaries, rent, depreciation, bad debts, etc.)</td><td></td><td>(1,300,000)</td></tr>\n  <tr><td><b>Net profit</b></td><td></td><td><b>1,200,000</b></td></tr>\n</table>\n\n<h4>3. Capital vs Revenue</h4>\n<p><b>Capital expenditure</b> buys or improves a fixed asset (including legal fees, installation and carriage on the asset) and goes to the Balance Sheet. <b>Revenue expenditure</b> is the day-to-day running cost and goes to the Profit and Loss Account. Misclassification distorts both profit and net assets.</p>\n\n<h4>4. Useful Ratios</h4>\n$$ \\text{Gross Profit Margin} = \\dfrac{\\text{Gross Profit}}{\\text{Net Sales}} \\times 100 $$\n$$ \\text{Mark-up} = \\dfrac{\\text{Gross Profit}}{\\text{Cost of Goods Sold}} \\times 100 $$\n",
+   "examples": [
+    {
+     "q": "Opening stock N450,000; purchases N2,800,000; returns outwards N60,000; carriage inwards N90,000; closing stock N520,000; sales N4,100,000; returns inwards N100,000. Compute cost of goods sold, gross profit and the gross profit margin.",
+     "a": "Net purchases = 2,800,000 - 60,000 = N2,740,000. COGS = 450,000 + 2,740,000 + 90,000 - 520,000 = N2,760,000. Net sales = 4,100,000 - 100,000 = N4,000,000. Gross profit = 4,000,000 - 2,760,000 = N1,240,000. Margin = \\( \\dfrac{1,240,000}{4,000,000} \\times 100 = 31\\% \\)."
+    },
+    {
+     "q": "A trader marks up goods by 25% on cost. If sales for the year were N3,000,000, what was the cost of goods sold?",
+     "a": "With a mark-up of 25% on cost, cost = 100 and selling price = 125. Therefore COGS = \\( \\dfrac{100}{125} \\times 3,000,000 = N2,400,000 \\) and gross profit = N600,000 (a margin of 20% on sales)."
+    }
+   ]
+  },
+  {
+   "title": "Year-End Adjustments",
+   "html": "\n<h4>1. Accruals and Prepayments</h4>\n<ul>\n  <li><b>Accrued expense</b> (owing): add to the expense in the P&amp;L and show as a current liability.</li>\n  <li><b>Prepaid expense</b>: deduct from the expense and show as a current asset.</li>\n  <li><b>Accrued income</b> (receivable): add to income and show as a current asset.</li>\n  <li><b>Income received in advance</b>: deduct from income and show as a current liability.</li>\n</ul>\n\n<h4>2. Bad Debts and Provisions</h4>\n<p>A bad debt is written off: Dr Bad Debts, Cr Debtor. A provision for doubtful debts is an estimate on the remaining debtors. Only the <b>increase or decrease</b> in the provision is charged or credited to the Profit and Loss Account, while the full provision is deducted from debtors in the Balance Sheet.</p>\n<p>Bad debts recovered: Dr Cash/Bank, Cr Bad Debts Recovered (an income).</p>\n\n<h4>3. Depreciation</h4>\n<p>Depreciation is the systematic allocation of the depreciable amount of a fixed asset over its useful life. Causes: wear and tear, passage of time, obsolescence, depletion and inadequacy.</p>\n$$ \\text{Straight Line Depreciation} = \\dfrac{\\text{Cost} - \\text{Scrap Value}}{\\text{Estimated Life}} $$\n$$ \\text{Reducing Balance Depreciation} = \\text{Net Book Value} \\times \\text{Rate \\%} $$\n<p>Entries: Dr Depreciation (P&amp;L), Cr Provision for Depreciation. In the Balance Sheet the asset shows cost less accumulated depreciation = net book value.</p>\n<p>On disposal: transfer cost to Disposal Account, transfer accumulated depreciation to Disposal Account, credit proceeds; the balancing figure is profit or loss on disposal.</p>\n\n<h4>4. Other Adjustments</h4>\n<ul>\n  <li>Goods taken by the owner: Dr Drawings, Cr Purchases.</li>\n  <li>Closing stock: Dr Stock (asset), Cr Trading Account.</li>\n  <li>Provision for discount on debtors, calculated after deducting the provision for doubtful debts.</li>\n</ul>\n",
+   "examples": [
+    {
+     "q": "A machine costing N2,000,000 has a scrap value of N200,000 and a useful life of 6 years. Compute annual depreciation on the straight-line basis and the net book value after 4 years.",
+     "a": "\\( \\text{Depreciation} = \\dfrac{2,000,000 - 200,000}{6} = N300,000 \\) per annum. Accumulated depreciation after 4 years = 4 x 300,000 = N1,200,000. Net book value = 2,000,000 - 1,200,000 = N800,000."
+    },
+    {
+     "q": "Equipment costing N800,000 is depreciated at 20% per annum on the reducing balance. Show the charge for the first three years.",
+     "a": "Year 1: 20% x 800,000 = N160,000; NBV = N640,000. Year 2: 20% x 640,000 = N128,000; NBV = N512,000. Year 3: 20% x 512,000 = N102,400; NBV = N409,600. The charge falls each year because it is computed on a diminishing net book value."
+    },
+    {
+     "q": "Debtors at 31 December are N1,250,000. A debt of N50,000 is to be written off and a provision of 5% created on the remainder. Show the treatment.",
+     "a": "Write off: Dr Bad Debts N50,000, Cr Debtors N50,000, leaving debtors at N1,200,000. Provision = 5% x 1,200,000 = N60,000: Dr Profit and Loss N60,000, Cr Provision for Doubtful Debts N60,000. Balance Sheet: Debtors N1,200,000 less provision N60,000 = N1,140,000. The P&L is charged with N50,000 + N60,000 = N110,000 in total."
+    }
+   ]
+  },
+  {
+   "title": "The Balance Sheet and Interpretation",
+   "html": "\n<h4>1. Vertical Balance Sheet</h4>\n<table class=\"tb-table\">\n  <tr><th>Item</th><th>Cost N</th><th>Depn N</th><th>NBV N</th></tr>\n  <tr><td>Premises</td><td>5,000,000</td><td>-</td><td>5,000,000</td></tr>\n  <tr><td>Motor van</td><td>2,400,000</td><td>960,000</td><td>1,440,000</td></tr>\n  <tr><td>Fittings</td><td>800,000</td><td>240,000</td><td>560,000</td></tr>\n  <tr><td><b>Total fixed assets</b></td><td>8,200,000</td><td>1,200,000</td><td><b>7,000,000</b></td></tr>\n</table>\n<p>Then current assets (stock, debtors less provision, prepayments, bank, cash) less current liabilities (creditors, accruals, overdraft) gives working capital; add to fixed assets to get net assets, financed by capital + net profit - drawings + long-term loans.</p>\n\n<h4>2. Order of Presentation</h4>\n<p>Assets may be arranged in order of <b>permanence</b> (most fixed first, Nigerian examination norm) or in order of <b>liquidity</b> (most liquid first).</p>\n\n<h4>3. Key Interpretation Measures</h4>\n$$ \\text{Net Profit Percentage} = \\dfrac{\\text{Net Profit}}{\\text{Net Sales}} \\times 100 $$\n$$ \\text{Current Ratio} = \\dfrac{\\text{Current Assets}}{\\text{Current Liabilities}}, \\qquad \\text{Acid Test} = \\dfrac{\\text{Current Assets} - \\text{Stock}}{\\text{Current Liabilities}} $$\n$$ \\text{Return on Capital Employed} = \\dfrac{\\text{Net Profit}}{\\text{Capital Employed}} \\times 100 $$\n<p>A current ratio around 2:1 and an acid test near 1:1 are conventionally regarded as healthy, though the appropriate level depends on the trade.</p>\n",
+   "examples": [
+    {
+     "q": "Current assets: stock N900,000, debtors N600,000, bank N300,000. Current liabilities: creditors N700,000, accruals N100,000. Compute working capital, the current ratio and the acid-test ratio.",
+     "a": "Current assets = N1,800,000; current liabilities = N800,000. Working capital = 1,800,000 - 800,000 = N1,000,000. Current ratio = \\( \\dfrac{1,800,000}{800,000} = 2.25:1 \\). Acid test = \\( \\dfrac{1,800,000 - 900,000}{800,000} = 1.125:1 \\). Both indicate comfortable short-term liquidity."
+    },
+    {
+     "q": "Net profit is N1,200,000, opening capital N4,000,000, drawings N500,000 and no new capital. Compute closing capital and return on opening capital.",
+     "a": "Closing capital = 4,000,000 + 1,200,000 - 500,000 = N4,700,000. Return on opening capital = \\( \\dfrac{1,200,000}{4,000,000} \\times 100 = 30\\% \\)."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Gross profit is the excess of:",
+   "options": [
+    "Sales over net profit",
+    "Net sales over cost of goods sold",
+    "Income over expenditure",
+    "Assets over liabilities"
+   ],
+   "answer": "1",
+   "solution": "Gross profit = net sales less cost of goods sold, computed in the trading account."
+  },
+  {
+   "q": "Carriage inwards is charged to the:",
+   "options": [
+    "Profit and loss account",
+    "Trading account",
+    "Balance sheet",
+    "Capital account"
+   ],
+   "answer": "1",
+   "solution": "Carriage inwards is part of the cost of bringing in goods and is added in the trading account."
+  },
+  {
+   "q": "Closing stock appears:",
+   "options": [
+    "Only in the trading account",
+    "Only in the balance sheet",
+    "In the trading account and the balance sheet",
+    "In the profit and loss account only"
+   ],
+   "answer": "2",
+   "solution": "Closing stock is deducted in the trading account and shown as a current asset in the balance sheet."
+  },
+  {
+   "q": "Cost N1,000,000, scrap N100,000, life 5 years. Straight-line depreciation per annum is:",
+   "options": [
+    "N200,000",
+    "N180,000",
+    "N220,000",
+    "N100,000"
+   ],
+   "answer": "1",
+   "solution": "(1,000,000 - 100,000)/5 = N180,000."
+  },
+  {
+   "q": "Under the reducing balance method, the annual charge:",
+   "options": [
+    "Remains constant",
+    "Increases yearly",
+    "Decreases yearly",
+    "Is zero after year 1"
+   ],
+   "answer": "2",
+   "solution": "The rate is applied to a falling net book value, so the charge decreases each year."
+  },
+  {
+   "q": "An expense owing at the year end is:",
+   "options": [
+    "Deducted from the expense and shown as an asset",
+    "Added to the expense and shown as a liability",
+    "Ignored",
+    "Added to capital"
+   ],
+   "answer": "1",
+   "solution": "Accruals are added to the expense in the P&L and shown as current liabilities."
+  },
+  {
+   "q": "An increase in the provision for doubtful debts is:",
+   "options": [
+    "Credited to P&L",
+    "Debited to P&L",
+    "Added to debtors",
+    "Deducted from creditors"
+   ],
+   "answer": "1",
+   "solution": "Only the increase is charged (debited) to the profit and loss account."
+  },
+  {
+   "q": "Goods withdrawn by the owner for personal use are recorded as:",
+   "options": [
+    "Dr Purchases, Cr Drawings",
+    "Dr Drawings, Cr Purchases",
+    "Dr Sales, Cr Drawings",
+    "Dr Drawings, Cr Capital"
+   ],
+   "answer": "1",
+   "solution": "The cost of the goods is removed from purchases and charged to drawings."
+  },
+  {
+   "q": "Which is capital expenditure?",
+   "options": [
+    "Repainting the office",
+    "Installation cost of new machinery",
+    "Fuel for the delivery van",
+    "Salaries of drivers"
+   ],
+   "answer": "1",
+   "solution": "Installation cost is part of bringing a fixed asset into working condition and is capitalised."
+  },
+  {
+   "q": "Sales N2,500,000 and gross profit margin 40%. Cost of goods sold is:",
+   "options": [
+    "N1,000,000",
+    "N1,500,000",
+    "N1,785,714",
+    "N2,100,000"
+   ],
+   "answer": "1",
+   "solution": "Gross profit = 40% x 2,500,000 = N1,000,000, so COGS = 2,500,000 - 1,000,000 = N1,500,000."
+  },
+  {
+   "q": "The acid-test ratio excludes:",
+   "options": [
+    "Debtors",
+    "Bank",
+    "Stock",
+    "Creditors"
+   ],
+   "answer": "2",
+   "solution": "Stock is the least liquid current asset and is excluded from the quick (acid-test) ratio."
+  },
+  {
+   "q": "Discount received is shown in the:",
+   "options": [
+    "Trading account",
+    "Credit side of the profit and loss account",
+    "Balance sheet as a liability",
+    "Debit side of the trading account"
+   ],
+   "answer": "1",
+   "solution": "Discount received is an income added to gross profit in the profit and loss account."
+  },
+  {
+   "q": "Depreciation is charged in order to:",
+   "options": [
+    "Provide cash for replacement",
+    "Spread the cost of an asset over its useful life",
+    "Increase profit",
+    "Reduce liabilities"
+   ],
+   "answer": "1",
+   "solution": "Depreciation matches the cost of using the asset with the revenue it helps to earn; it is not a fund of cash."
+  },
+  {
+   "q": "Prepaid rent at the year end is shown as:",
+   "options": [
+    "A current liability",
+    "A current asset",
+    "An expense only",
+    "A fixed asset"
+   ],
+   "answer": "1",
+   "solution": "The unexpired portion is an amount owed to the business in service terms and appears as a current asset."
+  },
+  {
+   "q": "A van with net book value N500,000 was sold for N620,000. The result is:",
+   "options": [
+    "Loss N120,000",
+    "Profit N120,000",
+    "Profit N620,000",
+    "No gain or loss"
+   ],
+   "answer": "1",
+   "solution": "Proceeds exceed net book value by N120,000, which is a profit on disposal credited to the profit and loss account."
+  },
+  {
+   "q": "Net profit N840,000 on net sales of N4,200,000 gives a net profit percentage of:",
+   "options": [
+    "25%",
+    "20%",
+    "15%",
+    "12%"
+   ],
+   "answer": "1",
+   "solution": "840,000/4,200,000 x 100 = 20%."
+  }
+ ]
+}

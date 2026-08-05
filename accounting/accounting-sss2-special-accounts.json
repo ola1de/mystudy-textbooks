@@ -1,0 +1,227 @@
+{
+ "subject": "Financial Accounting",
+ "level": "SSS 2",
+ "slug": "special-accounts",
+ "title": "Special Accounts",
+ "outline": [
+  "Single entry and incomplete records: meaning and limitations",
+  "Statement of affairs and profit by comparison of capital",
+  "Converting incomplete records to double entry",
+  "Deriving credit sales, credit purchases and missing figures",
+  "Accounts of non-profit-making organisations",
+  "Receipts and Payments Account versus Income and Expenditure Account",
+  "Accumulated fund, subscriptions and special funds"
+ ],
+ "modules": [
+  {
+   "title": "Single Entry and Incomplete Records",
+   "html": "\n<h4>1. Meaning</h4>\n<p>Single entry describes a system in which the dual aspect of every transaction is not fully recorded. Typically only a cash book and personal accounts of debtors and creditors are kept. Small traders adopt it because it is cheap and simple, but it has serious limitations: no trial balance can be extracted, errors and fraud are hard to detect, and true profit cannot be reliably measured.</p>\n\n<h4>2. Profit by Comparison of Capital</h4>\n<p>A Statement of Affairs (a balance sheet drawn from estimates) is prepared at the start and at the end of the year:</p>\n$$ \\text{Net Profit} = (\\text{Closing Capital} + \\text{Drawings}) - (\\text{Opening Capital} + \\text{Additional Capital}) $$\n<p>where capital at each date is simply assets less liabilities.</p>\n\n<h4>3. Deriving Missing Figures</h4>\n<p>Where a trading and profit and loss account is required, the missing totals are computed with total accounts:</p>\n$$ \\text{Credit Sales} = \\text{Closing Debtors} + \\text{Receipts from Debtors} + \\text{Returns Inwards} + \\text{Bad Debts} + \\text{Discount Allowed} - \\text{Opening Debtors} $$\n$$ \\text{Credit Purchases} = \\text{Closing Creditors} + \\text{Payments to Creditors} + \\text{Returns Outwards} + \\text{Discount Received} - \\text{Opening Creditors} $$\n<p>Cash and bank summaries reveal drawings and expenses, while mark-up or margin percentages can be used to find missing purchases, sales or closing stock (useful in a stock-loss-by-fire question).</p>\n",
+   "examples": [
+    {
+     "q": "On 1 January assets were N2,300,000 and liabilities N700,000. On 31 December assets were N3,400,000 and liabilities N900,000. Drawings during the year were N480,000 and additional capital N200,000. Compute net profit.",
+     "a": "Opening capital = 2,300,000 - 700,000 = N1,600,000. Closing capital = 3,400,000 - 900,000 = N2,500,000. Net profit = (2,500,000 + 480,000) - (1,600,000 + 200,000) = 2,980,000 - 1,800,000 = N1,180,000."
+    },
+    {
+     "q": "Opening debtors N320,000; cash received from debtors N2,150,000; discount allowed N30,000; bad debts N25,000; returns inwards N45,000; closing debtors N410,000. Find credit sales.",
+     "a": "Credit sales = 410,000 + 2,150,000 + 45,000 + 25,000 + 30,000 - 320,000 = N2,340,000. This is simply the balancing figure of a total debtors account."
+    }
+   ]
+  },
+  {
+   "title": "Accounts of Non-Profit-Making Organisations",
+   "html": "\n<h4>1. Terminology</h4>\n<table class=\"tb-table\">\n  <tr><th>Trading concern</th><th>Non-profit organisation</th></tr>\n  <tr><td>Capital</td><td>Accumulated Fund</td></tr>\n  <tr><td>Net profit</td><td>Surplus of income over expenditure</td></tr>\n  <tr><td>Net loss</td><td>Deficit</td></tr>\n  <tr><td>Trading, Profit and Loss Account</td><td>Income and Expenditure Account</td></tr>\n  <tr><td>Cash Book</td><td>Receipts and Payments Account</td></tr>\n</table>\n\n<h4>2. Receipts and Payments Account</h4>\n<p>A summarised cash book: it records all cash received and paid regardless of period and regardless of whether capital or revenue. It begins and ends with cash/bank balances and shows no surplus or deficit.</p>\n\n<h4>3. Income and Expenditure Account</h4>\n<p>Prepared on the accrual basis, containing only revenue items relating to the current year. Capital receipts (sale of an asset, donations for a building) and capital payments (purchase of equipment) are excluded and go to the balance sheet.</p>\n\n<h4>4. Subscriptions</h4>\n<p>The subscription figure for the year is derived in a subscriptions account:</p>\n$$ \\text{Subscription Income} = \\text{Cash Received} + \\text{Arrears at End} + \\text{Advance at Start} - \\text{Arrears at Start} - \\text{Advance at End} $$\n<p>Subscriptions in arrears are current assets (subject to prudence); subscriptions in advance are current liabilities.</p>\n\n<h4>5. Profit-Making Activities of a Club</h4>\n<p>A bar or restaurant run by a club has its own Bar Trading Account; only the resulting bar profit is transferred to the Income and Expenditure Account. The opening accumulated fund is found by a statement of affairs:</p>\n$$ \\text{Accumulated Fund} = \\text{Total Assets} - \\text{Total Liabilities} $$\n",
+   "examples": [
+    {
+     "q": "A club received subscriptions of N960,000 in cash. Arrears were N50,000 at the start and N70,000 at the end; advances were N30,000 at the start and N45,000 at the end. Compute subscription income for the year.",
+     "a": "Income = 960,000 + 70,000 (closing arrears) + 30,000 (opening advance now earned) - 50,000 (opening arrears received this year) - 45,000 (received in advance for next year) = N965,000. The N70,000 arrears is a current asset and the N45,000 advance a current liability."
+    },
+    {
+     "q": "A club's bar had opening stock N120,000, purchases N860,000, closing stock N140,000 and bar takings N1,300,000. Bar wages were N180,000. Show the bar result and its treatment.",
+     "a": "Cost of bar sales = 120,000 + 860,000 - 140,000 = N840,000. Gross bar profit = 1,300,000 - 840,000 = N460,000. Less bar wages N180,000 gives a net bar profit of N280,000, which is credited to the Income and Expenditure Account as one line; the individual bar figures do not appear there."
+    },
+    {
+     "q": "Distinguish between the Receipts and Payments Account and the Income and Expenditure Account.",
+     "a": "The Receipts and Payments Account is a summary of the cash book: it is on a cash basis, includes both capital and revenue items, includes amounts relating to previous and future periods, and starts and ends with cash balances. The Income and Expenditure Account is on an accrual basis, contains only revenue items of the current year, excludes capital items, and ends with a surplus or deficit transferred to the accumulated fund."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The capital of a non-profit-making organisation is called the:",
+   "options": [
+    "Reserve fund",
+    "Accumulated fund",
+    "Working capital",
+    "Share capital"
+   ],
+   "answer": "1",
+   "solution": "Clubs and societies describe the excess of assets over liabilities as the accumulated fund."
+  },
+  {
+   "q": "Which statement is prepared to find opening capital under incomplete records?",
+   "options": [
+    "Trial balance",
+    "Statement of affairs",
+    "Cash flow statement",
+    "Manufacturing account"
+   ],
+   "answer": "1",
+   "solution": "A statement of affairs lists estimated assets and liabilities so that capital can be derived."
+  },
+  {
+   "q": "Net profit under single entry equals:",
+   "options": [
+    "Closing capital - opening capital only",
+    "(Closing capital + drawings) - (opening capital + additional capital)",
+    "Assets - liabilities",
+    "Receipts - payments"
+   ],
+   "answer": "1",
+   "solution": "Drawings are added back and new capital deducted because neither arises from trading."
+  },
+  {
+   "q": "The Receipts and Payments Account is essentially a:",
+   "options": [
+    "Balance sheet",
+    "Summarised cash book",
+    "Ledger account for debtors",
+    "Profit statement"
+   ],
+   "answer": "1",
+   "solution": "It summarises all cash and bank receipts and payments for the period."
+  },
+  {
+   "q": "Subscriptions in arrears at the year end are shown as:",
+   "options": [
+    "A current liability",
+    "A current asset",
+    "An expense",
+    "Part of the accumulated fund"
+   ],
+   "answer": "1",
+   "solution": "Amounts owed by members are receivable and therefore a current asset."
+  },
+  {
+   "q": "Subscriptions received in advance are:",
+   "options": [
+    "Income of the current year",
+    "A current liability",
+    "A current asset",
+    "A capital receipt"
+   ],
+   "answer": "1",
+   "solution": "They relate to the following year, so they are a liability at the balance sheet date."
+  },
+  {
+   "q": "The excess of income over expenditure of a club is called a:",
+   "options": [
+    "Profit",
+    "Surplus",
+    "Reserve",
+    "Dividend"
+   ],
+   "answer": "1",
+   "solution": "Non-profit bodies use 'surplus' rather than 'profit'."
+  },
+  {
+   "q": "Purchase of a new club minibus appears in the:",
+   "options": [
+    "Income and expenditure account only",
+    "Receipts and payments account and balance sheet",
+    "Bar trading account",
+    "Subscriptions account"
+   ],
+   "answer": "1",
+   "solution": "It is a capital payment: shown in the receipts and payments account as cash paid and capitalised in the balance sheet."
+  },
+  {
+   "q": "Opening capital N900,000, closing capital N1,500,000, drawings N250,000, no new capital. Net profit is:",
+   "options": [
+    "N600,000",
+    "N850,000",
+    "N350,000",
+    "N1,250,000"
+   ],
+   "answer": "1",
+   "solution": "(1,500,000 + 250,000) - 900,000 = N850,000."
+  },
+  {
+   "q": "A major limitation of single entry is that:",
+   "options": [
+    "It is expensive",
+    "No trial balance can be extracted",
+    "It needs many clerks",
+    "It requires computers"
+   ],
+   "answer": "1",
+   "solution": "Because the dual aspect is incomplete, arithmetical accuracy cannot be verified with a trial balance."
+  },
+  {
+   "q": "Credit purchases are found from a:",
+   "options": [
+    "Total creditors account",
+    "Total debtors account",
+    "Bar trading account",
+    "Suspense account"
+   ],
+   "answer": "0",
+   "solution": "The balancing figure of the total (control) creditors account gives credit purchases."
+  },
+  {
+   "q": "Profit on a club's bar is transferred to the:",
+   "options": [
+    "Balance sheet only",
+    "Income and expenditure account",
+    "Receipts and payments account",
+    "Accumulated fund directly"
+   ],
+   "answer": "1",
+   "solution": "Only the net bar profit is credited to the income and expenditure account."
+  },
+  {
+   "q": "Life membership fees are usually treated as:",
+   "options": [
+    "Revenue of the year received",
+    "A capital receipt credited to a fund and released over time",
+    "An expense",
+    "A liability of the members"
+   ],
+   "answer": "1",
+   "solution": "They cover many years, so they are capitalised in a life membership fund and released to income over the membership period."
+  },
+  {
+   "q": "Which item would NOT appear in an income and expenditure account?",
+   "options": [
+    "Rent of clubhouse",
+    "Depreciation of equipment",
+    "Purchase of furniture",
+    "Honorarium to the secretary"
+   ],
+   "answer": "2",
+   "solution": "The purchase of furniture is capital expenditure and belongs in the balance sheet."
+  },
+  {
+   "q": "Total debtors account is used mainly to determine:",
+   "options": [
+    "Cash sales",
+    "Credit sales",
+    "Discount received",
+    "Closing stock"
+   ],
+   "answer": "1",
+   "solution": "The balancing figure of the total debtors account yields credit sales when records are incomplete."
+  },
+  {
+   "q": "A deficit in a club's accounts is:",
+   "options": [
+    "Added to the accumulated fund",
+    "Deducted from the accumulated fund",
+    "Shown as an asset",
+    "Ignored"
+   ],
+   "answer": "1",
+   "solution": "An excess of expenditure over income reduces the accumulated fund."
+  }
+ ]
+}

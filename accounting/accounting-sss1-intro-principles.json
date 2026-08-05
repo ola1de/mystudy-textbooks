@@ -1,0 +1,248 @@
+{
+ "subject": "Financial Accounting",
+ "level": "SSS 1",
+ "slug": "intro-principles",
+ "title": "Introductory Principles of Accounting",
+ "outline": [
+  "Meaning, history and development of accounting",
+  "Objectives and functions of accounting",
+  "Users of accounting information and their needs",
+  "Branches of accounting and career opportunities",
+  "Accounting concepts, conventions and ethics",
+  "The accounting equation and the balance sheet",
+  "Assets, liabilities, capital and the effect of transactions"
+ ],
+ "modules": [
+  {
+   "title": "Nature, History and Users of Accounting",
+   "html": "\n<h4>1. What is Accounting?</h4>\n<p>Accounting is the process of <b>identifying, recording, classifying, summarising, analysing, interpreting and communicating</b> financial information about an economic entity to permit informed judgements and decisions by users of that information. Book-keeping is only the first, mechanical stage of this process; accounting extends to interpretation and reporting.</p>\n\n<h4>2. Historical Development</h4>\n<ol>\n  <li><b>Ancient stewardship records</b> - clay tablets in Mesopotamia, temple and royal treasury records in Egypt and Babylon.</li>\n  <li><b>The Italian merchants</b> - Venetian, Genoese and Florentine traders refined the double-entry method during the 13th-15th centuries.</li>\n  <li><b>Luca Pacioli (1494)</b> - a Franciscan friar and mathematician who published <i>Summa de Arithmetica, Geometria, Proportioni et Proportionalita</i>, the first printed description of double-entry book-keeping. He is called the <b>Father of Modern Accounting</b>.</li>\n  <li><b>Industrial Revolution</b> - factories, joint-stock companies and absentee owners created the need for auditing, cost accounting and published financial statements.</li>\n  <li><b>Regulation era</b> - professional bodies (ICAN 1965, ANAN 1993 in Nigeria) and standards: SAS, then IFRS adopted in Nigeria from 2012 through the Financial Reporting Council of Nigeria (FRCN).</li>\n</ol>\n\n<h4>3. Objectives and Functions</h4>\n<ul>\n  <li>To keep a permanent and systematic record of transactions.</li>\n  <li>To ascertain <b>profit or loss</b> for a period (Trading, Profit and Loss Account).</li>\n  <li>To show the <b>financial position</b> at a date (Balance Sheet / Statement of Financial Position).</li>\n  <li>To provide information for planning, control and decision-making.</li>\n  <li>To satisfy legal, tax and stewardship requirements.</li>\n  <li>To help detect and prevent errors and fraud.</li>\n</ul>\n\n<h4>4. Users of Accounting Information</h4>\n<table class=\"tb-table\">\n  <tr><th>User</th><th>Main interest</th></tr>\n  <tr><td>Owners / shareholders</td><td>Profitability, return on capital, dividends</td></tr>\n  <tr><td>Management</td><td>Planning, control, performance evaluation</td></tr>\n  <tr><td>Creditors and suppliers</td><td>Liquidity - ability to pay debts when due</td></tr>\n  <tr><td>Lenders / banks</td><td>Security of loan, interest cover, gearing</td></tr>\n  <tr><td>Government / FIRS</td><td>Assessment of company income tax, VAT, statistics</td></tr>\n  <tr><td>Employees and unions</td><td>Job security, wage negotiation, pensions</td></tr>\n  <tr><td>Prospective investors</td><td>Whether to buy shares; growth prospects</td></tr>\n  <tr><td>Customers</td><td>Continuity of supply and warranty support</td></tr>\n  <tr><td>General public / researchers</td><td>Employment, social and environmental impact</td></tr>\n</table>\n\n<h4>5. Branches of Accounting</h4>\n<ul>\n  <li><b>Financial accounting</b> - historical recording and reporting to external users.</li>\n  <li><b>Cost accounting</b> - ascertaining the cost of products, jobs and processes.</li>\n  <li><b>Management accounting</b> - budgets, forecasts and internal decision reports.</li>\n  <li><b>Auditing</b> - independent examination of records and expression of an opinion.</li>\n  <li><b>Taxation</b>, <b>public sector (government) accounting</b>, and <b>forensic accounting</b>.</li>\n</ul>\n\n<h4>6. Ethics of the Accountant</h4>\n<p>Integrity, objectivity, professional competence and due care, confidentiality and professional behaviour. A book-keeper who conceals a shortage breaches integrity and may be liable for both professional sanction and criminal prosecution.</p>\n",
+   "examples": [
+    {
+     "q": "Distinguish between book-keeping and accounting using a shop that sells provisions.",
+     "a": "Book-keeping is recording each sale, purchase, payment and receipt of the shop in the day books and ledgers, and extracting a trial balance. Accounting takes those records further: it prepares the Trading and Profit and Loss Account to find the shop's profit, prepares the Balance Sheet, computes ratios such as gross profit percentage, interprets whether the shop is performing well, and communicates this to the owner, the bank and the tax authority. Book-keeping is therefore a subset (the recording stage) of accounting."
+    },
+    {
+     "q": "Why does a commercial bank require the financial statements of a trader before granting an overdraft?",
+     "a": "The bank is a lender. It uses the Balance Sheet to see the level of assets available as security and the existing liabilities, computes working capital (current assets minus current liabilities) to judge liquidity, and uses the Profit and Loss Account to see whether profits are large and stable enough to service interest and repay the principal. It also compares owner's capital with borrowings (gearing) to see how much risk the owner personally carries."
+    }
+   ]
+  },
+  {
+   "title": "Accounting Concepts and Conventions",
+   "html": "\n<h4>1. Fundamental Concepts</h4>\n<ol>\n  <li><b>Business entity</b> - the business is separate from its owner; the owner's private house is not a business asset, and cash he takes for personal use is <i>drawings</i>, not an expense.</li>\n  <li><b>Going concern</b> - accounts are prepared assuming the business will continue for the foreseeable future, so fixed assets are shown at cost less depreciation, not at break-up value.</li>\n  <li><b>Money measurement</b> - only items measurable in money are recorded; the skill of the manager or staff morale is excluded.</li>\n  <li><b>Historical cost</b> - assets are recorded at the price actually paid, which is objective and verifiable.</li>\n  <li><b>Accrual (matching)</b> - revenue is recognised when earned and expenses when incurred, not when cash moves. Expenses of a period are matched against the revenue of that same period.</li>\n  <li><b>Realisation</b> - profit is recognised when the sale is completed (goods delivered / title passed), not when the order is received.</li>\n  <li><b>Periodicity</b> - the life of a business is divided into equal accounting periods, usually one year.</li>\n  <li><b>Duality</b> - every transaction has two equal and opposite effects; this is the basis of double entry.</li>\n  <li><b>Consistency</b> - the same methods (e.g. straight-line depreciation) are used from period to period so that results are comparable.</li>\n  <li><b>Prudence (conservatism)</b> - anticipate no profit but provide for all foreseeable losses; hence provision for doubtful debts and stock valued at the lower of cost and net realisable value.</li>\n  <li><b>Materiality</b> - insignificant items need not be treated with strict theoretical accuracy; a stapler may be expensed rather than capitalised.</li>\n  <li><b>Objectivity</b> - records should rest on verifiable evidence such as invoices and receipts.</li>\n</ol>\n\n<h4>2. Conflicts Between Concepts</h4>\n<p>Prudence may conflict with accrual and with consistency. For example, a change from cost to net realisable value for stock is a prudent step but breaks strict consistency; the change and its effect must therefore be disclosed.</p>\n\n<h4>3. Qualitative Characteristics of Useful Information</h4>\n<ul>\n  <li>Relevance, faithful representation (reliability), comparability, verifiability, timeliness and understandability.</li>\n</ul>\n",
+   "examples": [
+    {
+     "q": "Mr. Bello, a sole trader, withdrew N50,000 from the business bank account to pay his son's school fees and recorded it as an office expense. Which concept has been breached and what is the correct treatment?",
+     "a": "The <b>business entity concept</b> has been breached, and consequently profit is understated by N50,000. The correct treatment is: Debit Drawings N50,000, Credit Bank N50,000. At the year end drawings are deducted from capital in the Balance Sheet, not charged to the Profit and Loss Account."
+    },
+    {
+     "q": "Rent of N240,000 was paid on 1 January for 12 months, but the accounting year ends on 30 September. How much is charged to Profit and Loss, and which concept applies?",
+     "a": "The accrual (matching) concept applies. Monthly rent = N240,000 / 12 = N20,000. Charge for 9 months = 9 x N20,000 = N180,000 to the Profit and Loss Account. The remaining N60,000 is a prepayment (prepaid rent) shown as a current asset in the Balance Sheet."
+    }
+   ]
+  },
+  {
+   "title": "The Accounting Equation and the Balance Sheet",
+   "html": "\n<h4>1. The Fundamental Equation</h4>\n<p>Everything the business owns is financed either by the owner or by outsiders:</p>\n$$ \\text{Assets} = \\text{Liabilities} + \\text{Capital} $$\n<p>Rearranged for the owner's stake:</p>\n$$ \\text{Capital} = \\text{Assets} - \\text{Liabilities} $$\n<p>Where profit, drawings and extra capital arise during the year, the expanded form is:</p>\n$$ \\text{Closing Capital} = \\text{Opening Capital} + \\text{Additional Capital} + \\text{Net Profit} - \\text{Drawings} $$\n\n<h4>2. Classification of Items</h4>\n<table class=\"tb-table\">\n  <tr><th>Class</th><th>Meaning</th><th>Examples</th></tr>\n  <tr><td>Fixed (non-current) assets</td><td>Held for long-term use in the business</td><td>Land, buildings, motor van, furniture, machinery</td></tr>\n  <tr><td>Current assets</td><td>Cash or convertible into cash within one year</td><td>Stock, debtors, prepayments, bank, cash</td></tr>\n  <tr><td>Long-term liabilities</td><td>Repayable after more than one year</td><td>Bank loan (5 years), mortgage, debentures</td></tr>\n  <tr><td>Current liabilities</td><td>Repayable within one year</td><td>Creditors, accruals, bank overdraft</td></tr>\n  <tr><td>Capital</td><td>Owner's claim on net assets</td><td>Cash and goods introduced by the owner</td></tr>\n</table>\n<p>Working capital is a key derived figure:</p>\n$$ \\text{Working Capital} = \\text{Current Assets} - \\text{Current Liabilities} $$\n\n<h4>3. Effect of Transactions on the Equation</h4>\n<p>Every transaction keeps the equation in balance. Consider:</p>\n<ul>\n  <li>Owner brings in N500,000 cash: Assets +500,000; Capital +500,000.</li>\n  <li>Buys a van for N300,000 cash: one asset up, another down; total unchanged.</li>\n  <li>Buys goods on credit N80,000: Assets (stock) +80,000; Liabilities (creditor) +80,000.</li>\n  <li>Pays creditor N80,000: Assets -80,000; Liabilities -80,000.</li>\n  <li>Sells goods costing N40,000 for N60,000 cash: Assets +20,000 net; Capital +20,000 (profit).</li>\n</ul>\n\n<h4>4. The Balance Sheet</h4>\n<p>A Balance Sheet is a <b>statement</b>, not an account. It lists assets, liabilities and capital at a particular date. In the vertical (narrative) format:</p>\n<table class=\"tb-table\">\n  <tr><th>Balance Sheet as at 31 December</th><th>N</th></tr>\n  <tr><td>Fixed assets (net)</td><td>780,000</td></tr>\n  <tr><td>Add: Working capital (CA 420,000 - CL 150,000)</td><td>270,000</td></tr>\n  <tr><td><b>Net assets employed</b></td><td><b>1,050,000</b></td></tr>\n  <tr><td>Financed by: Capital</td><td>900,000</td></tr>\n  <tr><td>Add Net profit</td><td>350,000</td></tr>\n  <tr><td>Less Drawings</td><td>(200,000)</td></tr>\n  <tr><td><b>Total</b></td><td><b>1,050,000</b></td></tr>\n</table>\n",
+   "examples": [
+    {
+     "q": "A business has assets of N4,500,000 and liabilities of N1,350,000. Compute capital. If during the year the owner introduced N250,000 more capital, earned a net profit of N620,000 and withdrew N400,000, what was the opening capital?",
+     "a": "Closing capital \\( = 4,500,000 - 1,350,000 = N3,150,000 \\). Using \\( \\text{Closing} = \\text{Opening} + \\text{Additional} + \\text{Profit} - \\text{Drawings} \\): \\(3,150,000 = X + 250,000 + 620,000 - 400,000\\), so \\(X = 3,150,000 - 470,000 = N2,680,000\\) opening capital."
+    },
+    {
+     "q": "Show the effect on the accounting equation of: (i) purchase of furniture N120,000 on credit from Ola Ltd; (ii) payment of N70,000 to Ola Ltd by cheque.",
+     "a": "(i) Furniture (fixed asset) increases by N120,000 and creditors (liability) increase by N120,000, so Assets = Liabilities + Capital still holds with both sides up by N120,000. (ii) Bank (asset) falls by N70,000 and creditors fall by N70,000; both sides fall equally. Capital is unaffected by either transaction because no profit or loss and no owner contribution occurred."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who is regarded as the father of modern accounting?",
+   "options": [
+    "Adam Smith",
+    "Luca Pacioli",
+    "John Maynard Keynes",
+    "Frank Wood"
+   ],
+   "answer": "1",
+   "solution": "Luca Pacioli published Summa de Arithmetica in 1494, containing the first printed treatise on double-entry book-keeping."
+  },
+  {
+   "q": "The accounting equation is best expressed as:",
+   "options": [
+    "Assets = Liabilities - Capital",
+    "Assets = Liabilities + Capital",
+    "Capital = Assets + Liabilities",
+    "Liabilities = Assets + Capital"
+   ],
+   "answer": "1",
+   "solution": "Resources (assets) are financed either by outsiders (liabilities) or by the owner (capital), so Assets = Liabilities + Capital."
+  },
+  {
+   "q": "Cash taken by the owner for personal use is recorded as:",
+   "options": [
+    "An expense",
+    "Drawings",
+    "A liability",
+    "A loss"
+   ],
+   "answer": "1",
+   "solution": "Under the business entity concept, personal withdrawals are drawings and are deducted from capital, not charged as a business expense."
+  },
+  {
+   "q": "Which concept requires that a business be treated as separate from its owner?",
+   "options": [
+    "Going concern",
+    "Prudence",
+    "Business entity",
+    "Materiality"
+   ],
+   "answer": "2",
+   "solution": "The business entity concept treats the business as a distinct accounting unit from the person who owns it."
+  },
+  {
+   "q": "Stock is valued at the lower of cost and net realisable value because of the concept of:",
+   "options": [
+    "Consistency",
+    "Prudence",
+    "Realisation",
+    "Duality"
+   ],
+   "answer": "1",
+   "solution": "Prudence requires that anticipated losses be provided for, so unsold stock is never carried above the amount expected to be recovered."
+  },
+  {
+   "q": "A trader has assets of N850,000 and capital of N600,000. His liabilities are:",
+   "options": [
+    "N1,450,000",
+    "N250,000",
+    "N600,000",
+    "N850,000"
+   ],
+   "answer": "1",
+   "solution": "Liabilities = Assets - Capital = 850,000 - 600,000 = N250,000."
+  },
+  {
+   "q": "Which of these is NOT a current asset?",
+   "options": [
+    "Stock",
+    "Debtors",
+    "Motor vehicle",
+    "Prepaid insurance"
+   ],
+   "answer": "2",
+   "solution": "A motor vehicle is held for long-term use in the business and is therefore a fixed (non-current) asset."
+  },
+  {
+   "q": "Recording expenses when incurred rather than when paid follows the:",
+   "options": [
+    "Cash basis",
+    "Accrual concept",
+    "Money measurement concept",
+    "Objectivity concept"
+   ],
+   "answer": "1",
+   "solution": "The accrual concept matches expenses to the period in which they are incurred irrespective of the timing of payment."
+  },
+  {
+   "q": "Working capital is calculated as:",
+   "options": [
+    "Fixed assets - Long-term liabilities",
+    "Current assets - Current liabilities",
+    "Total assets - Capital",
+    "Capital + Net profit"
+   ],
+   "answer": "1",
+   "solution": "Working capital measures short-term liquidity: current assets less current liabilities."
+  },
+  {
+   "q": "The skills of a company's workforce are not shown in the balance sheet because of the:",
+   "options": [
+    "Realisation concept",
+    "Money measurement concept",
+    "Periodicity concept",
+    "Dual aspect concept"
+   ],
+   "answer": "1",
+   "solution": "Only items that can be objectively expressed in monetary terms are recorded."
+  },
+  {
+   "q": "Which user of accounting information is MOST interested in the ability of the business to pay debts as they fall due?",
+   "options": [
+    "Government",
+    "Trade creditors",
+    "Researchers",
+    "Customers"
+   ],
+   "answer": "1",
+   "solution": "Trade creditors have supplied goods on credit and are chiefly concerned with liquidity and short-term solvency."
+  },
+  {
+   "q": "Assuming that a business will continue in operation for the foreseeable future is the:",
+   "options": [
+    "Going concern concept",
+    "Consistency concept",
+    "Materiality concept",
+    "Entity concept"
+   ],
+   "answer": "0",
+   "solution": "The going concern assumption justifies carrying fixed assets at cost less depreciation rather than at forced-sale value."
+  },
+  {
+   "q": "The purchase of goods on credit will:",
+   "options": [
+    "Increase assets and decrease capital",
+    "Increase assets and increase liabilities",
+    "Decrease assets and decrease liabilities",
+    "Have no effect on the equation"
+   ],
+   "answer": "1",
+   "solution": "Stock (an asset) rises and creditors (a liability) rise by the same amount, keeping the equation in balance."
+  },
+  {
+   "q": "Which branch of accounting deals with the independent examination of records and expression of an opinion?",
+   "options": [
+    "Cost accounting",
+    "Auditing",
+    "Taxation",
+    "Management accounting"
+   ],
+   "answer": "1",
+   "solution": "Auditing is the independent examination of financial statements leading to an audit opinion."
+  },
+  {
+   "q": "Opening capital N1,200,000; net profit N450,000; drawings N300,000; no new capital. Closing capital is:",
+   "options": [
+    "N1,950,000",
+    "N1,350,000",
+    "N1,050,000",
+    "N750,000"
+   ],
+   "answer": "1",
+   "solution": "1,200,000 + 450,000 - 300,000 = N1,350,000."
+  },
+  {
+   "q": "A balance sheet is best described as:",
+   "options": [
+    "An account showing profit",
+    "A statement of financial position at a date",
+    "A record of cash movements",
+    "A summary of the ledger for a period"
+   ],
+   "answer": "1",
+   "solution": "The balance sheet is a statement listing assets, liabilities and capital at a particular point in time; it is not part of the double-entry ledger."
+  },
+  {
+   "q": "The professional accountancy body established in Nigeria in 1965 is:",
+   "options": [
+    "ANAN",
+    "ICAN",
+    "FRCN",
+    "CITN"
+   ],
+   "answer": "1",
+   "solution": "The Institute of Chartered Accountants of Nigeria (ICAN) was established by Act of Parliament in 1965; ANAN followed in 1993."
+  }
+ ]
+}
