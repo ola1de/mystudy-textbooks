@@ -1,0 +1,606 @@
+{
+ "subject": "Chemistry",
+ "level": "SSS 3",
+ "slug": "metals-compounds",
+ "title": "Metals and their Compounds",
+ "outline": [
+  "Physical and chemical properties of metals and metallic bonding",
+  "The activity (electrochemical) series and its uses",
+  "Minerals, ores and the three stages of extraction",
+  "Aluminium: bauxite, Bayer purification and the Hall-Heroult cell",
+  "Iron: the blast furnace, pig iron, steel and wrought iron",
+  "Copper and tin: extraction and electrolytic refining",
+  "Alloys: composition, properties and uses",
+  "Compounds of sodium and calcium",
+  "Amphoteric oxides and coloured lead compounds",
+  "Transition metals: variable oxidation states, colour, catalysis",
+  "Qualitative analysis of cations and flame tests",
+  "Corrosion, its prevention, Faraday and ore calculations"
+ ],
+ "modules": [
+  {
+   "title": "10.1 General Properties of Metals and the Activity Series",
+   "html": "\n<p>About <b>80%</b> of the known elements are metals. They occupy the left and centre of the periodic table and their atoms have few outer electrons which they readily lose to form <b>cations</b>.</p>\n\n<h4>Physical properties and their explanations</h4>\n<ul>\n<li><b>Metallic lustre</b> &mdash; the sea of delocalised electrons reflects light.</li>\n<li><b>Good conductors of heat and electricity</b> &mdash; mobile electrons carry charge and energy.</li>\n<li><b>Malleable and ductile</b> &mdash; layers of positive ions slide past one another without breaking the metallic bond.</li>\n<li><b>High density, high melting and boiling points</b> &mdash; strong electrostatic attraction between cations and the electron sea. Exceptions: sodium and potassium are soft and float on water; mercury is liquid.</li>\n<li><b>Sonorous</b> &mdash; they ring when struck, hence bells and gongs.</li>\n</ul>\n\n<h4>Chemical properties</h4>\n<ol>\n<li><b>With oxygen:</b> basic oxides, \\(4Na + O_2 \\rightarrow 2Na_2O\\); \\(2Mg + O_2 \\rightarrow 2MgO\\). Oxides of Al, Zn, Pb and Sn are <b>amphoteric</b>.</li>\n<li><b>With water:</b> K, Na and Ca react with cold water giving hydrogen; Mg, Zn and Fe react only with steam; Cu, Ag and Au do not react at all.</li>\n<li><b>With acids:</b> metals above hydrogen in the activity series displace hydrogen from dilute acids: \\(Zn + H_2SO_4 \\rightarrow ZnSO_4 + H_2\\). Copper does not.</li>\n</ol>\n\n<h4>The activity (electrochemical) series</h4>\n<p>K, Na, Ca, Mg, Al, Zn, Fe, Sn, Pb, <b>[H]</b>, Cu, Hg, Ag, Au, Pt &mdash; remembered by many Nigerian students as <i>\"King Nebuchadnezzar Called Many Angels Zealously Into Sacred Places, He Could Have Some Gold Plates.\"</i></p>\n<p>The series predicts:</p>\n<ul>\n<li><b>Displacement:</b> a metal displaces any metal below it from solution, \\(Zn + CuSO_4 \\rightarrow ZnSO_4 + Cu\\) (blue solution fades, brown deposit forms).</li>\n<li><b>Ease of extraction:</b> very reactive metals (K to Al) must be extracted by <b>electrolysis</b> of the molten compound; those in the middle (Zn to Pb) by <b>reduction with carbon</b>; unreactive metals (Ag, Au, Pt) occur <b>native</b>.</li>\n<li><b>Stability of compounds:</b> the higher a metal is in the series, the more stable its oxide, hydroxide and trioxocarbonate are to heat.</li>\n<li><b>Preferential discharge:</b> in electrolysis, the ion of the metal <i>lower</i> in the series is discharged first at the cathode.</li>\n</ul>\n\n<h4>Occurrence and terminology</h4>\n<p>A <b>mineral</b> is any naturally occurring compound of a metal; an <b>ore</b> is a mineral from which the metal can be extracted profitably. Common Nigerian ores include cassiterite \\(SnO_2\\) (Jos Plateau), haematite \\(Fe_2O_3\\) (Itakpe), and columbite. Extraction has three stages: <b>concentration</b> (froth flotation, magnetic separation, washing), <b>reduction</b> (smelting or electrolysis) and <b>refining</b> (usually electrolytic).</p>\n",
+   "examples": [
+    "Explain why potassium cannot be extracted by reduction with carbon.",
+    "Predict what happens when an iron nail is placed in copper(II) sulphate solution."
+   ]
+  },
+  {
+   "title": "10.2 Extraction of Aluminium, Iron, Copper and Tin; Alloys",
+   "html": "\n<h4>Aluminium &mdash; the Hall-H&eacute;roult process</h4>\n<p><b>Ore:</b> bauxite, \\(Al_2O_3\\!\\cdot\\!2H_2O\\). It is purified by the Bayer process: the amphoteric alumina dissolves in hot concentrated \\(NaOH\\) while iron(III) oxide impurity does not, and the filtrate is later precipitated and calcined to pure \\(Al_2O_3\\).</p>\n<p><b>Electrolysis:</b> pure alumina melts at over \\(2000^{\\circ}C\\), so it is dissolved in molten <b>cryolite</b> \\(Na_3AlF_6\\), which lowers the working temperature to about \\(950^{\\circ}C\\) and increases conductivity. Graphite anodes dip into a steel tank lined with graphite (the cathode).</p>\n<p>Cathode: \\(Al^{3+} + 3e^- \\rightarrow Al\\)&nbsp;&nbsp;&nbsp; Anode: \\(2O^{2-} \\rightarrow O_2 + 4e^-\\)</p>\n<p>The oxygen attacks the hot graphite anodes, which burn away and must be replaced regularly &mdash; a major running cost, along with the enormous electricity demand (hence smelters are built near hydroelectric power).</p>\n<p><b>Properties and uses:</b> aluminium is light, resistant to corrosion because of a self-repairing oxide film (thickened deliberately by <b>anodising</b>), and a good conductor. It is used in aircraft bodies, overhead cables with a steel core, cooking utensils, foil and, as thermite (\\(2Al + Fe_2O_3 \\rightarrow Al_2O_3 + 2Fe\\)), for welding rails.</p>\n\n<h4>Iron &mdash; the blast furnace</h4>\n<p><b>Ores:</b> haematite \\(Fe_2O_3\\), magnetite \\(Fe_3O_4\\), siderite \\(FeCO_3\\), iron pyrites \\(FeS_2\\). The charge is ore, <b>coke</b> and <b>limestone</b>; hot air is blasted in at the base.</p>\n<ol>\n<li>\\(C + O_2 \\rightarrow CO_2\\) (exothermic, raises temperature to about \\(1900^{\\circ}C\\))</li>\n<li>\\(CO_2 + C \\rightarrow 2CO\\) (the reducing agent)</li>\n<li>\\(Fe_2O_3 + 3CO \\rightarrow 2Fe + 3CO_2\\)</li>\n<li>\\(CaCO_3 \\rightarrow CaO + CO_2\\); \\(CaO + SiO_2 \\rightarrow CaSiO_3\\) (slag, which floats on the molten iron and is tapped separately for road-making and cement)</li>\n</ol>\n<p>The product, <b>pig iron</b>, contains about 4% carbon and is brittle. Removing carbon in the basic-oxygen furnace gives <b>steel</b>; adding chromium and nickel gives <b>stainless steel</b>. <b>Wrought iron</b> is the purest commercial form.</p>\n<p><b>Rusting</b> requires both oxygen and water; salt accelerates it. Prevention: painting, greasing, galvanising (zinc coating that also gives <b>sacrificial protection</b>), tin-plating, electroplating, alloying and cathodic protection with magnesium blocks.</p>\n\n<h4>Copper and tin</h4>\n<p><b>Copper</b> is roasted from copper pyrites \\(CuFeS_2\\), converted to blister copper and then <b>refined electrolytically</b>: impure copper is the anode, pure copper the cathode and \\(CuSO_4\\) solution the electrolyte; the anode mud yields silver and gold as valuable by-products. Copper is used in electrical wiring, coins and alloys.</p>\n<p><b>Tin</b> comes from cassiterite \\(SnO_2\\), reduced with carbon: \\(SnO_2 + 2C \\rightarrow Sn + 2CO\\). It is used for tin-plating steel cans and in the alloys solder, bronze and pewter.</p>\n\n<h4>Alloys</h4>\n<table><tr><th>Alloy</th><th>Composition</th><th>Use</th></tr>\n<tr><td>Brass</td><td>Cu + Zn</td><td>Ornaments, taps, musical instruments</td></tr>\n<tr><td>Bronze</td><td>Cu + Sn</td><td>Statues, coins, bearings</td></tr>\n<tr><td>Steel</td><td>Fe + C</td><td>Construction, tools</td></tr>\n<tr><td>Stainless steel</td><td>Fe + Cr + Ni</td><td>Cutlery, sinks, surgical tools</td></tr>\n<tr><td>Duralumin</td><td>Al + Cu + Mg + Mn</td><td>Aircraft parts</td></tr>\n<tr><td>Solder</td><td>Pb + Sn</td><td>Joining electrical wires</td></tr>\n</table>\n<p>Alloys are made to increase hardness and strength, improve corrosion resistance, lower melting point (solder) or improve appearance.</p>\n",
+   "examples": [
+    "State the role of cryolite and of limestone in the two extraction processes.",
+    "Write the three main reduction equations in the blast furnace."
+   ]
+  },
+  {
+   "title": "10.3 Compounds of Metals and Qualitative Analysis",
+   "html": "\n<p>Beyond extraction, the examination expects a working knowledge of the chemistry of the common metal compounds and of the qualitative-analysis reactions used to identify their ions.</p>\n\n<h4>Sodium and its compounds</h4>\n<p>Sodium is extracted by the <b>Downs process</b>, the electrolysis of molten \\(NaCl\\) with \\(CaCl_2\\) added to lower the melting point. It is stored under kerosene because it reacts violently with air and water. Key compounds: \\(NaOH\\) (caustic soda, from brine electrolysis, used in soap and paper), \\(Na_2CO_3\\) (Solvay process, used in glass and water softening), \\(NaHCO_3\\) (baking) and \\(NaCl\\).</p>\n\n<h4>Calcium and its compounds</h4>\n<p>\\(CaCO_3\\) (limestone, marble, chalk) heated in a lime kiln gives <b>quicklime</b>: \\(CaCO_3 \\rightarrow CaO + CO_2\\). Quicklime slaked with water gives <b>slaked lime</b>, \\(CaO + H_2O \\rightarrow Ca(OH)_2\\), whose solution is lime water. Calcium compounds are used in cement (limestone + clay), mortar, plaster of Paris \\(CaSO_4\\!\\cdot\\!\\tfrac{1}{2}H_2O\\), and in neutralising acidic soils.</p>\n\n<h4>Zinc, lead and their amphoteric behaviour</h4>\n<p>\\(ZnO\\), \\(PbO\\), \\(Al_2O_3\\) and \\(Sn O\\) react with both acids and alkalis:</p>\n<p>\\(ZnO + 2HCl \\rightarrow ZnCl_2 + H_2O\\) and \\(ZnO + 2NaOH \\rightarrow Na_2ZnO_2 + H_2O\\).</p>\n<p>Lead compounds show striking colours: \\(PbI_2\\) is yellow, \\(PbCrO_4\\) is yellow, \\(PbS\\) is black; lead(II) oxide is yellow when hot and turns red on cooling as \\(Pb_3O_4\\) forms on strong heating in air.</p>\n\n<h4>Transition metals</h4>\n<p>The d-block metals (Fe, Cu, Zn, Cr, Mn, Ni) are characterised by:</p>\n<ul>\n<li><b>Variable oxidation states</b>: \\(Fe^{2+}/Fe^{3+}\\), \\(Cu^{+}/Cu^{2+}\\), \\(Mn^{2+}\\) to \\(Mn^{7+}\\).</li>\n<li><b>Coloured ions</b>: \\(Fe^{2+}\\) pale green, \\(Fe^{3+}\\) yellow-brown, \\(Cu^{2+}\\) blue, \\(MnO_4^{-}\\) purple, \\(Cr_2O_7^{2-}\\) orange.</li>\n<li><b>Catalytic activity</b>: Fe in Haber, \\(V_2O_5\\) in Contact, Ni in hydrogenation, \\(MnO_2\\) in the decomposition of \\(H_2O_2\\).</li>\n<li><b>Complex-ion formation</b>: \\(Cu(NH_3)_4^{2+}\\), \\(Fe(CN)_6^{4-}\\).</li>\n<li><b>Paramagnetism</b> from unpaired d-electrons.</li>\n</ul>\n<p>Strictly, zinc is not a true transition metal because its \\(3d\\) sub-shell is full in both the atom and the \\(Zn^{2+}\\) ion.</p>\n\n<h4>Qualitative analysis of cations</h4>\n<table><tr><th>Ion</th><th>With a little \\(NaOH\\)</th><th>With excess \\(NaOH\\)</th><th>With excess \\(NH_3\\)</th></tr>\n<tr><td>\\(Ca^{2+}\\)</td><td>White precipitate</td><td>Insoluble</td><td>No precipitate</td></tr>\n<tr><td>\\(Al^{3+}\\)</td><td>White gelatinous</td><td>Dissolves</td><td>Insoluble</td></tr>\n<tr><td>\\(Zn^{2+}\\)</td><td>White</td><td>Dissolves</td><td>Dissolves (colourless)</td></tr>\n<tr><td>\\(Pb^{2+}\\)</td><td>White</td><td>Dissolves</td><td>Insoluble</td></tr>\n<tr><td>\\(Fe^{2+}\\)</td><td>Dirty green</td><td>Insoluble</td><td>Insoluble</td></tr>\n<tr><td>\\(Fe^{3+}\\)</td><td>Reddish-brown</td><td>Insoluble</td><td>Insoluble</td></tr>\n<tr><td>\\(Cu^{2+}\\)</td><td>Pale blue</td><td>Insoluble</td><td>Dissolves (deep blue)</td></tr>\n</table>\n<p><b>Flame tests:</b> \\(Na^+\\) golden-yellow, \\(K^+\\) lilac, \\(Ca^{2+}\\) brick-red, \\(Cu^{2+}\\) blue-green, \\(Ba^{2+}\\) apple-green.</p>\n",
+   "examples": [
+    "Distinguish between solutions of Al3+ and Zn2+ using NaOH and ammonia.",
+    "Give the flame colours of sodium, potassium, calcium and copper."
+   ]
+  },
+  {
+   "title": "10.4 Corrosion, Faraday Calculations and Applications",
+   "html": "\n<p>Metal extraction questions almost always mix a description with a Faraday or a stoichiometric calculation. Master the three templates below and you can answer nearly any variant.</p>\n\n<h4>Template 1 &mdash; electrolysis and Faraday's laws</h4>\n<p>\\(Q = It\\) and \\(1\\ F = 96500\\ C\\,mol^{-1}\\) of electrons. Mass \\(m = \\dfrac{ItM}{nF}\\), where \\(n\\) is the charge on the ion.</p>\n<p><i>Example: Calculate the mass of aluminium deposited when a current of 40 A flows for 5 hours through molten alumina. (\\(Al = 27\\)).</i></p>\n<p>\\(Q = 40 \\times (5\\times3600) = 720\\,000\\ C\\). Moles of electrons \\(= 720000/96500 = 7.461\\ mol\\).</p>\n<p>\\(Al^{3+} + 3e^- \\rightarrow Al\\), so \\(n(Al) = 7.461/3 = 2.487\\ mol\\); \\(m = 2.487\\times27 = \\mathbf{67.2\\ g}\\).</p>\n\n<h4>Template 2 &mdash; ore to metal</h4>\n<p><i>Example: What mass of iron is obtained from 1 tonne of haematite that is 80% \\(Fe_2O_3\\)? (\\(Fe=56, O=16\\)).</i></p>\n<p>Mass of \\(Fe_2O_3 = 0.80 \\times 1000\\ kg = 800\\ kg\\). \\(M(Fe_2O_3) = 160\\), and 160 kg contains \\(112\\ kg\\) of iron.</p>\n<p>Mass of iron \\(= 800 \\times \\dfrac{112}{160} = \\mathbf{560\\ kg}\\).</p>\n\n<h4>Template 3 &mdash; percentage composition</h4>\n<p><i>Example: Find the percentage by mass of copper in \\(CuSO_4\\!\\cdot\\!5H_2O\\). (\\(Cu=64, S=32, O=16, H=1\\)).</i></p>\n<p>\\(M = 64 + 32 + 64 + 90 = 250\\). Percentage \\(= (64/250)\\times100 = \\mathbf{25.6\\%}\\).</p>\n\n<h4>Corrosion: a closer look</h4>\n<p>Rusting is an electrochemical process. At the anodic region \\(Fe \\rightarrow Fe^{2+} + 2e^-\\); at the cathodic region \\(O_2 + 2H_2O + 4e^- \\rightarrow 4OH^-\\). The \\(Fe(OH)_2\\) formed is oxidised further to hydrated iron(III) oxide, \\(Fe_2O_3\\!\\cdot\\!xH_2O\\), which is rust. Because rust flakes off, it does not protect the metal beneath &mdash; unlike aluminium oxide, which does.</p>\n<ul>\n<li><b>Galvanising</b>: zinc corrodes preferentially because it is higher in the activity series, so protection continues even if the coating is scratched.</li>\n<li><b>Tin-plating</b>: tin is below iron, so a scratch actually <b>accelerates</b> rusting &mdash; a favourite examination contrast with galvanising.</li>\n<li><b>Cathodic protection</b>: magnesium or zinc blocks bolted to ships' hulls and buried pipelines act as sacrificial anodes.</li>\n</ul>\n\n<h4>Economic and environmental notes</h4>\n<p>Extraction is energy-intensive; recycling aluminium uses only about 5% of the energy of primary production. Mining causes land degradation and acid-mine drainage, while smelters emit \\(SO_2\\) from sulphide ores &mdash; a cause of acid rain. Nigeria's Ajaokuta steel complex and the Jos tin fields are the standard local examples to cite in essay answers.</p>\n",
+   "examples": [
+    "Calculate the mass of copper deposited by 2 A flowing for 30 minutes.",
+    "Explain why galvanising protects iron but tin-plating can worsen rusting."
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Metals are good conductors of electricity because they have",
+   "options": [
+    "free ions",
+    "delocalised electrons",
+    "covalent bonds",
+    "empty orbitals"
+   ],
+   "answer": "1",
+   "solution": "A sea of mobile electrons carries the current."
+  },
+  {
+   "q": "Which metal is liquid at room temperature?",
+   "options": [
+    "Sodium",
+    "Mercury",
+    "Lead",
+    "Tin"
+   ],
+   "answer": "1",
+   "solution": "Mercury is the only metal that is liquid at 25 C."
+  },
+  {
+   "q": "Metals are malleable because",
+   "options": [
+    "their atoms are small",
+    "layers of cations can slide without breaking the metallic bond",
+    "they contain ions",
+    "they are dense"
+   ],
+   "answer": "1",
+   "solution": "The delocalised electrons keep the layers bonded as they slide."
+  },
+  {
+   "q": "Which oxide is amphoteric?",
+   "options": [
+    "Na2O",
+    "MgO",
+    "ZnO",
+    "CaO"
+   ],
+   "answer": "2",
+   "solution": "Zinc oxide reacts with both acids and alkalis."
+  },
+  {
+   "q": "Which metal does NOT liberate hydrogen from dilute hydrochloric acid?",
+   "options": [
+    "Zinc",
+    "Magnesium",
+    "Iron",
+    "Copper"
+   ],
+   "answer": "3",
+   "solution": "Copper is below hydrogen in the activity series."
+  },
+  {
+   "q": "The correct order of decreasing reactivity is",
+   "options": [
+    "Na, Zn, Cu, Fe",
+    "K, Ca, Zn, Cu",
+    "Cu, Fe, Zn, Na",
+    "Zn, Na, Cu, Fe"
+   ],
+   "answer": "1",
+   "solution": "Potassium and calcium are far above zinc, which is above copper."
+  },
+  {
+   "q": "Metals from potassium to aluminium are extracted by",
+   "options": [
+    "reduction with carbon",
+    "electrolysis of the molten compound",
+    "roasting in air",
+    "displacement with iron"
+   ],
+   "answer": "1",
+   "solution": "They are too reactive to be reduced by carbon."
+  },
+  {
+   "q": "An ore is",
+   "options": [
+    "any compound of a metal",
+    "a mineral from which a metal can be profitably extracted",
+    "a pure metal found in nature",
+    "a mixture of metals"
+   ],
+   "answer": "1",
+   "solution": "Profitability distinguishes an ore from a mineral."
+  },
+  {
+   "q": "The chief ore of aluminium is",
+   "options": [
+    "haematite",
+    "bauxite",
+    "cassiterite",
+    "galena"
+   ],
+   "answer": "1",
+   "solution": "Bauxite is hydrated aluminium oxide."
+  },
+  {
+   "q": "Cryolite is added in aluminium extraction to",
+   "options": [
+    "act as a catalyst",
+    "lower the melting point of alumina and improve conductivity",
+    "remove impurities",
+    "prevent corrosion"
+   ],
+   "answer": "1",
+   "solution": "It lets electrolysis run near 950 C instead of over 2000 C."
+  },
+  {
+   "q": "The anodes in the aluminium cell burn away because",
+   "options": [
+    "of the high current",
+    "oxygen liberated attacks the hot graphite",
+    "of the cryolite",
+    "of the aluminium formed"
+   ],
+   "answer": "1",
+   "solution": "Oxygen oxidises the carbon anodes to CO2."
+  },
+  {
+   "q": "At the cathode in aluminium extraction",
+   "options": [
+    "Al3+ gains three electrons",
+    "oxide ions lose electrons",
+    "oxygen is formed",
+    "carbon is deposited"
+   ],
+   "answer": "0",
+   "solution": "Reduction always occurs at the cathode."
+  },
+  {
+   "q": "Aluminium resists corrosion because",
+   "options": [
+    "it is unreactive",
+    "a tough adherent oxide layer forms",
+    "it is coated with tin",
+    "it is an alloy"
+   ],
+   "answer": "1",
+   "solution": "The oxide film is impervious and self-repairing."
+  },
+  {
+   "q": "Thickening the oxide layer on aluminium electrolytically is called",
+   "options": [
+    "galvanising",
+    "anodising",
+    "annealing",
+    "sintering"
+   ],
+   "answer": "1",
+   "solution": "Anodising also allows dyeing of the surface."
+  },
+  {
+   "q": "The chief ore of iron used in the blast furnace is",
+   "options": [
+    "magnetite only",
+    "haematite",
+    "bauxite",
+    "cassiterite"
+   ],
+   "answer": "1",
+   "solution": "Haematite, Fe2O3, is the commonest iron ore."
+  },
+  {
+   "q": "In the blast furnace limestone",
+   "options": [
+    "is the reducing agent",
+    "removes silica as slag",
+    "provides heat only",
+    "acts as a catalyst"
+   ],
+   "answer": "1",
+   "solution": "CaO from limestone combines with SiO2 to form calcium trioxosilicate(IV)."
+  },
+  {
+   "q": "The main reducing agent in the blast furnace is",
+   "options": [
+    "coke",
+    "carbon(II) oxide",
+    "hydrogen",
+    "calcium oxide"
+   ],
+   "answer": "1",
+   "solution": "CO formed from CO2 and coke reduces the ore."
+  },
+  {
+   "q": "Pig iron is brittle because it contains about",
+   "options": [
+    "0.1% carbon",
+    "4% carbon",
+    "10% carbon",
+    "no carbon"
+   ],
+   "answer": "1",
+   "solution": "About four percent carbon makes cast iron hard but brittle."
+  },
+  {
+   "q": "Stainless steel contains iron with",
+   "options": [
+    "carbon only",
+    "chromium and nickel",
+    "tin and lead",
+    "copper and zinc"
+   ],
+   "answer": "1",
+   "solution": "Chromium and nickel confer corrosion resistance."
+  },
+  {
+   "q": "The purest commercial form of iron is",
+   "options": [
+    "cast iron",
+    "wrought iron",
+    "pig iron",
+    "mild steel"
+   ],
+   "answer": "1",
+   "solution": "Wrought iron contains very little carbon."
+  },
+  {
+   "q": "Rusting requires",
+   "options": [
+    "oxygen only",
+    "water only",
+    "both oxygen and water",
+    "carbon dioxide only"
+   ],
+   "answer": "2",
+   "solution": "Both are essential; salt merely accelerates the process."
+  },
+  {
+   "q": "Galvanising protects iron even when scratched because zinc is",
+   "options": [
+    "below iron in the activity series",
+    "above iron in the activity series",
+    "harder than iron",
+    "a non-metal"
+   ],
+   "answer": "1",
+   "solution": "Zinc corrodes preferentially, giving sacrificial protection."
+  },
+  {
+   "q": "A scratch in tin-plated steel accelerates rusting because tin is",
+   "options": [
+    "above iron in the activity series",
+    "below iron in the activity series",
+    "porous",
+    "amphoteric"
+   ],
+   "answer": "1",
+   "solution": "Iron becomes the anode of the tin-iron cell."
+  },
+  {
+   "q": "Copper is refined by",
+   "options": [
+    "distillation",
+    "electrolysis with impure copper as anode",
+    "the blast furnace",
+    "roasting"
+   ],
+   "answer": "1",
+   "solution": "Pure copper deposits on the cathode; anode mud yields silver and gold."
+  },
+  {
+   "q": "The ore of tin is",
+   "options": [
+    "galena",
+    "cassiterite",
+    "bauxite",
+    "siderite"
+   ],
+   "answer": "1",
+   "solution": "Cassiterite is tin(IV) oxide, mined on the Jos Plateau."
+  },
+  {
+   "q": "Brass is an alloy of",
+   "options": [
+    "copper and tin",
+    "copper and zinc",
+    "lead and tin",
+    "iron and carbon"
+   ],
+   "answer": "1",
+   "solution": "Brass is copper with zinc."
+  },
+  {
+   "q": "Bronze is an alloy of",
+   "options": [
+    "copper and zinc",
+    "copper and tin",
+    "iron and nickel",
+    "aluminium and copper"
+   ],
+   "answer": "1",
+   "solution": "Bronze is copper with tin."
+  },
+  {
+   "q": "Solder is used in electrical work because it",
+   "options": [
+    "is very hard",
+    "has a low melting point",
+    "conducts poorly",
+    "resists acids"
+   ],
+   "answer": "1",
+   "solution": "The lead-tin alloy melts at a conveniently low temperature."
+  },
+  {
+   "q": "Duralumin is used in aircraft because it is",
+   "options": [
+    "dense and strong",
+    "light and strong",
+    "cheap",
+    "magnetic"
+   ],
+   "answer": "1",
+   "solution": "An aluminium alloy combines low density with strength."
+  },
+  {
+   "q": "Sodium is extracted by the",
+   "options": [
+    "Downs process",
+    "Hall process",
+    "Contact process",
+    "Solvay process"
+   ],
+   "answer": "0",
+   "solution": "Electrolysis of molten sodium chloride gives sodium and chlorine."
+  },
+  {
+   "q": "Sodium is stored under kerosene because it",
+   "options": [
+    "is soft",
+    "reacts vigorously with air and water",
+    "is volatile",
+    "dissolves in water slowly"
+   ],
+   "answer": "1",
+   "solution": "Kerosene keeps out air and moisture."
+  },
+  {
+   "q": "Heating limestone strongly produces",
+   "options": [
+    "slaked lime",
+    "quicklime and CO2",
+    "lime water",
+    "plaster of Paris"
+   ],
+   "answer": "1",
+   "solution": "CaCO3 gives CaO and CO2 in the lime kiln."
+  },
+  {
+   "q": "Slaked lime is",
+   "options": [
+    "CaO",
+    "Ca(OH)2",
+    "CaCO3",
+    "CaSO4"
+   ],
+   "answer": "1",
+   "solution": "Adding water to quicklime produces calcium hydroxide."
+  },
+  {
+   "q": "Plaster of Paris is",
+   "options": [
+    "CaSO4.2H2O",
+    "CaSO4.0.5H2O",
+    "CaCO3",
+    "CaO"
+   ],
+   "answer": "1",
+   "solution": "The hemihydrate sets hard when mixed with water."
+  },
+  {
+   "q": "Which ion gives a reddish-brown precipitate with sodium hydroxide?",
+   "options": [
+    "Fe2+",
+    "Fe3+",
+    "Cu2+",
+    "Zn2+"
+   ],
+   "answer": "1",
+   "solution": "Iron(III) hydroxide is reddish-brown and insoluble in excess."
+  },
+  {
+   "q": "A white precipitate soluble in both excess NaOH and excess ammonia indicates",
+   "options": [
+    "Al3+",
+    "Zn2+",
+    "Pb2+",
+    "Ca2+"
+   ],
+   "answer": "1",
+   "solution": "Only zinc hydroxide dissolves in both reagents."
+  },
+  {
+   "q": "Aluminium ion with excess sodium hydroxide gives",
+   "options": [
+    "a permanent white precipitate",
+    "a solution",
+    "a brown precipitate",
+    "a blue solution"
+   ],
+   "answer": "1",
+   "solution": "Amphoteric Al(OH)3 dissolves to form the aluminate."
+  },
+  {
+   "q": "A pale blue precipitate that dissolves in excess ammonia to a deep blue solution indicates",
+   "options": [
+    "Fe2+",
+    "Cu2+",
+    "Zn2+",
+    "Ni2+"
+   ],
+   "answer": "1",
+   "solution": "The tetraamminecopper(II) ion is deep blue."
+  },
+  {
+   "q": "The flame colour of calcium is",
+   "options": [
+    "golden-yellow",
+    "lilac",
+    "brick-red",
+    "apple-green"
+   ],
+   "answer": "2",
+   "solution": "Calcium gives a brick-red flame."
+  },
+  {
+   "q": "The flame colour of potassium is",
+   "options": [
+    "lilac",
+    "golden-yellow",
+    "blue-green",
+    "brick-red"
+   ],
+   "answer": "0",
+   "solution": "Potassium gives a lilac flame, best seen through cobalt-blue glass."
+  },
+  {
+   "q": "Transition metals are good catalysts partly because they",
+   "options": [
+    "are dense",
+    "show variable oxidation states",
+    "are coloured",
+    "are magnetic"
+   ],
+   "answer": "1",
+   "solution": "Variable oxidation states allow easy electron transfer."
+  },
+  {
+   "q": "Zinc is not regarded as a true transition metal because",
+   "options": [
+    "it is soft",
+    "its d sub-shell is completely filled",
+    "it is amphoteric",
+    "it forms no compounds"
+   ],
+   "answer": "1",
+   "solution": "Neither Zn nor Zn2+ has a partly filled d sub-shell."
+  },
+  {
+   "q": "The colour of the heptaoxodichromate(VI) ion is",
+   "options": [
+    "green",
+    "orange",
+    "purple",
+    "blue"
+   ],
+   "answer": "1",
+   "solution": "Cr2O7 2- is orange and is reduced to green Cr3+."
+  },
+  {
+   "q": "One faraday is equal to",
+   "options": [
+    "9650 C",
+    "96500 C",
+    "1000 C",
+    "6.02 x 10^23 C"
+   ],
+   "answer": "1",
+   "solution": "One faraday is the charge on one mole of electrons."
+  },
+  {
+   "q": "The mass of aluminium deposited by 3 faradays is (Al = 27)",
+   "options": [
+    "9 g",
+    "27 g",
+    "81 g",
+    "54 g"
+   ],
+   "answer": "1",
+   "solution": "Al3+ needs 3 F per mole, so 3 F gives 1 mol = 27 g."
+  },
+  {
+   "q": "A current of 40 A for 5 hours deposits how much aluminium? (Al=27)",
+   "options": [
+    "33.6 g",
+    "67.2 g",
+    "100.8 g",
+    "27 g"
+   ],
+   "answer": "1",
+   "solution": "Q = 720000 C; 7.46 mol electrons / 3 = 2.49 mol Al."
+  },
+  {
+   "q": "1 tonne of ore containing 80% Fe2O3 yields how much iron? (Fe=56, O=16)",
+   "options": [
+    "448 kg",
+    "560 kg",
+    "800 kg",
+    "700 kg"
+   ],
+   "answer": "1",
+   "solution": "800 kg of Fe2O3 contains 800 x 112/160 = 560 kg iron."
+  },
+  {
+   "q": "The percentage of copper in CuSO4.5H2O (M = 250, Cu = 64) is",
+   "options": [
+    "20.0%",
+    "25.6%",
+    "32.0%",
+    "12.8%"
+   ],
+   "answer": "1",
+   "solution": "64/250 x 100 = 25.6 percent."
+  },
+  {
+   "q": "Recycling aluminium is encouraged mainly because it",
+   "options": [
+    "improves purity",
+    "saves about 95% of the energy of primary extraction",
+    "produces stronger metal",
+    "is easier to mine"
+   ],
+   "answer": "1",
+   "solution": "Remelting scrap avoids the huge electrolysis energy cost."
+  },
+  {
+   "q": "Which is used as a sacrificial anode on ships' hulls?",
+   "options": [
+    "Copper",
+    "Magnesium",
+    "Tin",
+    "Silver"
+   ],
+   "answer": "1",
+   "solution": "Magnesium is more reactive than iron, so it corrodes instead."
+  }
+ ]
+}

@@ -1,0 +1,606 @@
+{
+ "subject": "Chemistry",
+ "level": "SSS 3",
+ "slug": "non-metals-part-2",
+ "title": "Non-Metals and their Compounds II",
+ "outline": [
+  "Nitrogen: preparation, properties and uses",
+  "The nitrogen cycle: fixation, nitrification, denitrification",
+  "Ammonia: Haber process, laboratory preparation and reactions",
+  "Trioxonitrate(V) acid: Ostwald process, oxidising action, nitrate salts",
+  "Sulphur: allotropy and chemical reactions",
+  "Sulphur(IV) oxide as an acidic and reducing gas",
+  "The Contact process and properties of tetraoxosulphate(VI) acid",
+  "Hydrogen sulphide and sulphide tests",
+  "Halogens: group trends and displacement reactions",
+  "Chlorine: preparation, bleaching and reactions with alkali",
+  "Hydrogen chloride and the halide tests with silver trioxonitrate(V)",
+  "Bromine, iodine and their uses; diagnostic gas tests and calculations"
+ ],
+ "modules": [
+  {
+   "title": "9.1 Nitrogen, the Nitrogen Cycle, Ammonia and HNO3",
+   "html": "\n<p>Nitrogen makes up <b>78%</b> of the atmosphere by volume yet plants cannot use it directly, because the \\(N\\equiv N\\) triple bond has a bond energy of about \\(945\\ kJ\\,mol^{-1}\\) &mdash; one of the strongest bonds in chemistry. This inertness explains both nitrogen's uses and the need for the nitrogen cycle.</p>\n\n<h4>Preparation and properties of nitrogen</h4>\n<ul>\n<li><b>Industrially:</b> fractional distillation of liquid air (nitrogen boils off first at \\(-196^{\\circ}C\\)).</li>\n<li><b>Laboratory:</b> gently heating a mixture of ammonium chloride and sodium nitrite: \\(NH_4Cl + NaNO_2 \\rightarrow NaCl + 2H_2O + N_2\\). Alternatively, air is passed over hot copper to remove oxygen, then through \\(NaOH\\) to remove \\(CO_2\\).</li>\n<li>Colourless, odourless, slightly less dense than air, sparingly soluble, neutral to litmus.</li>\n<li>Reacts only under extreme conditions: with hydrogen (Haber process), with oxygen in lightning or a car engine (\\(N_2 + O_2 \\rightleftharpoons 2NO\\)), and with heated magnesium (\\(3Mg + N_2 \\rightarrow Mg_3N_2\\), whose hydrolysis liberates ammonia).</li>\n<li><b>Uses:</b> filling electric bulbs and food packets (inert atmosphere), liquid nitrogen as a refrigerant, and manufacture of ammonia and fertilisers.</li>\n</ul>\n\n<h4>The nitrogen cycle</h4>\n<ol>\n<li><b>Nitrogen fixation:</b> by lightning (\\(N_2 \\rightarrow NO \\rightarrow NO_2 \\rightarrow HNO_3\\) washed down as rain), by <i>Rhizobium</i> bacteria in the root nodules of legumes, and industrially by the Haber process.</li>\n<li><b>Nitrification:</b> soil bacteria oxidise ammonium salts to nitrites (<i>Nitrosomonas</i>) and nitrites to nitrates (<i>Nitrobacter</i>).</li>\n<li><b>Assimilation:</b> plants absorb nitrates and build proteins; animals get nitrogen by eating plants.</li>\n<li><b>Ammonification:</b> decay bacteria convert dead matter and excreta back to ammonia.</li>\n<li><b>Denitrification:</b> denitrifying bacteria return nitrates to atmospheric \\(N_2\\), closing the cycle.</li>\n</ol>\n\n<h4>Ammonia, \\(NH_3\\)</h4>\n<p><b>Manufacture (Haber process):</b> \\(N_2 + 3H_2 \\rightleftharpoons 2NH_3;\\ \\Delta H = -92\\ kJ\\,mol^{-1}\\), at about \\(450^{\\circ}C\\), \\(200\\ atm\\), with finely divided iron catalyst promoted by \\(K_2O\\) and \\(Al_2O_3\\). The moderate temperature is a compromise: a lower temperature would give a higher yield (exothermic, Le Chatelier) but too slow a rate.</p>\n<p><b>Laboratory:</b> heat any ammonium salt with an alkali, \\(2NH_4Cl + Ca(OH)_2 \\rightarrow CaCl_2 + 2H_2O + 2NH_3\\); dry with <b>quicklime</b> (never \\(H_2SO_4\\) or \\(CaCl_2\\), which react with it) and collect by <b>upward delivery</b> because it is less dense than air.</p>\n<p><b>Properties:</b> pungent, extremely soluble (fountain experiment), the only common <b>alkaline gas</b> &mdash; it turns damp red litmus blue. Dense white fumes of \\(NH_4Cl\\) form with \\(HCl\\) (a standard test). It burns in oxygen only over a catalyst; it reduces heated copper(II) oxide: \\(3CuO + 2NH_3 \\rightarrow 3Cu + N_2 + 3H_2O\\). Aqueous ammonia precipitates metal hydroxides and dissolves \\(Cu^{2+}\\) in excess to a deep-blue complex, \\(Cu(NH_3)_4^{2+}\\).</p>\n\n<h4>Trioxonitrate(V) acid, \\(HNO_3\\)</h4>\n<p><b>Ostwald process:</b> \\(4NH_3 + 5O_2 \\xrightarrow{Pt, 900^{\\circ}C} 4NO + 6H_2O\\); \\(2NO + O_2 \\rightarrow 2NO_2\\); \\(4NO_2 + O_2 + 2H_2O \\rightarrow 4HNO_3\\).</p>\n<p>It is a strong acid, a powerful <b>oxidising agent</b> (it oxidises copper, sulphur and carbon) and it is <b>photosensitive</b>, so it is stored in dark bottles: \\(4HNO_3 \\rightarrow 4NO_2 + O_2 + 2H_2O\\). With copper: dilute acid gives \\(NO\\), concentrated acid gives brown \\(NO_2\\). Concentrated \\(HNO_3\\) renders iron and aluminium <b>passive</b> by forming an oxide film. Heating a trioxonitrate(V) salt gives characteristic products: \\(NaNO_3 \\rightarrow NaNO_2 + O_2\\), while \\(2Cu(NO_3)_2 \\rightarrow 2CuO + 4NO_2 + O_2\\).</p>\n",
+   "examples": [
+    "Explain why the Haber process uses 450 C rather than a much lower temperature.",
+    "Write equations for the three stages of the Ostwald process."
+   ]
+  },
+  {
+   "title": "9.2 Sulphur and its Compounds",
+   "html": "\n<p>Sulphur is a yellow, brittle, insoluble-in-water solid that occurs free in volcanic regions and combined as sulphides and sulphates. It shows <b>allotropy</b>: rhombic (\\(\\alpha\\)) sulphur is stable below \\(96^{\\circ}C\\), monoclinic (\\(\\beta\\)) sulphur above it; \\(96^{\\circ}C\\) is the <b>transition temperature</b>. Plastic sulphur is formed when molten sulphur is poured into cold water.</p>\n\n<h4>Chemical properties of sulphur</h4>\n<ul>\n<li>Burns in air with a blue flame: \\(S + O_2 \\rightarrow SO_2\\).</li>\n<li>With metals: \\(Fe + S \\rightarrow FeS\\); \\(2Cu + S \\rightarrow Cu_2S\\).</li>\n<li>With hot concentrated acids: \\(S + 2H_2SO_4 \\rightarrow 3SO_2 + 2H_2O\\); \\(S + 6HNO_3 \\rightarrow H_2SO_4 + 6NO_2 + 2H_2O\\).</li>\n<li><b>Uses:</b> vulcanising rubber, making \\(H_2SO_4\\), gunpowder, fungicides, matches and drugs.</li>\n</ul>\n\n<h4>Sulphur(IV) oxide, \\(SO_2\\)</h4>\n<p><b>Preparation:</b> \\(Na_2SO_3 + 2HCl \\rightarrow 2NaCl + H_2O + SO_2\\), or by burning sulphur. It is a colourless gas with a choking smell, denser than air, very soluble giving trioxosulphate(IV) acid \\(H_2SO_3\\).</p>\n<ul>\n<li><b>Acidic oxide</b>: turns damp blue litmus red.</li>\n<li><b>Reducing agent</b>: decolourises acidified \\(KMnO_4\\) (purple to colourless) and turns orange \\(K_2Cr_2O_7\\) green &mdash; the standard tests. It also bleaches by reduction, so the bleached article slowly regains colour in air, unlike chlorine's permanent oxidative bleaching.</li>\n<li>Used to preserve food, fumigate, bleach straw and wool, and make \\(H_2SO_4\\).</li>\n</ul>\n\n<h4>Tetraoxosulphate(VI) acid and the Contact process</h4>\n<ol>\n<li>\\(S + O_2 \\rightarrow SO_2\\) (sulphur or roasted sulphide ore burned in dry air).</li>\n<li>\\(2SO_2 + O_2 \\rightleftharpoons 2SO_3;\\ \\Delta H = -196\\ kJ\\), at \\(450^{\\circ}C\\), 2 atm, over <b>vanadium(V) oxide</b> catalyst.</li>\n<li>\\(SO_3\\) is absorbed in concentrated \\(H_2SO_4\\) to give <b>oleum</b>, \\(H_2S_2O_7\\), which is then diluted: \\(H_2S_2O_7 + H_2O \\rightarrow 2H_2SO_4\\). Direct absorption in water is avoided because it produces an uncontrollable acid mist.</li>\n</ol>\n<p><b>Properties of the concentrated acid:</b></p>\n<ul>\n<li><b>Dibasic strong acid</b> when dilute: \\(H_2SO_4 + 2NaOH \\rightarrow Na_2SO_4 + 2H_2O\\).</li>\n<li><b>Dehydrating agent</b>: it chars sugar (\\(C_{12}H_{22}O_{11} \\rightarrow 12C + 11H_2O\\)) and turns blue \\(CuSO_4\\!\\cdot\\!5H_2O\\) white.</li>\n<li><b>Oxidising agent</b> when hot and concentrated: \\(Cu + 2H_2SO_4 \\rightarrow CuSO_4 + SO_2 + 2H_2O\\).</li>\n<li><b>Non-volatile</b>, so it displaces volatile acids from their salts: \\(NaCl + H_2SO_4 \\rightarrow NaHSO_4 + HCl\\).</li>\n<li><b>Test for the sulphate ion:</b> add dilute \\(HCl\\) then \\(BaCl_2\\); a white precipitate of \\(BaSO_4\\) insoluble in excess acid confirms \\(SO_4^{2-}\\).</li>\n<li><b>Safety:</b> always add the acid to water, never water to acid &mdash; dilution is strongly exothermic.</li>\n</ul>\n\n<h4>Hydrogen sulphide, \\(H_2S\\)</h4>\n<p>Prepared from iron(II) sulphide and dilute \\(HCl\\): \\(FeS + 2HCl \\rightarrow FeCl_2 + H_2S\\). It is a poisonous gas smelling of rotten eggs, a weak acid in water and a strong reducing agent; it turns lead(II) ethanoate paper black (\\(PbS\\)) &mdash; the standard test &mdash; and precipitates coloured metal sulphides used in qualitative analysis.</p>\n",
+   "examples": [
+    "Distinguish between the bleaching action of SO2 and that of chlorine.",
+    "State three properties of concentrated H2SO4 with an equation for each."
+   ]
+  },
+  {
+   "title": "9.3 The Halogens",
+   "html": "\n<p>The <b>halogens</b> (Group 17: F, Cl, Br, I, At) each have seven outer electrons and need only one more to complete the octet, so they are the most reactive non-metals and never occur free in nature. They exist as diatomic molecules and form salts (halides) with metals &mdash; the name means \"salt-former\".</p>\n\n<h4>Trends down the group</h4>\n<table><tr><th>Property</th><th>F &rarr; I</th></tr>\n<tr><td>Physical state</td><td>Pale-yellow gas &rarr; green-yellow gas &rarr; red-brown liquid &rarr; grey-black solid</td></tr>\n<tr><td>Colour intensity</td><td>Deepens down the group</td></tr>\n<tr><td>Melting/boiling point</td><td>Increases (larger molecules, stronger van der Waals forces)</td></tr>\n<tr><td>Electronegativity and reactivity</td><td>Decreases &mdash; the atom gets larger so the nucleus attracts an extra electron less strongly</td></tr>\n<tr><td>Oxidising power</td><td>Decreases: \\(F_2 > Cl_2 > Br_2 > I_2\\)</td></tr>\n<tr><td>Stability of hydride</td><td>\\(HF > HCl > HBr > HI\\)</td></tr>\n</table>\n<p><b>Displacement:</b> a more reactive halogen displaces a less reactive one from its salt: \\(Cl_2 + 2KBr \\rightarrow 2KCl + Br_2\\) (solution turns orange-brown); \\(Cl_2 + 2KI \\rightarrow 2KCl + I_2\\) (brown solution, black solid).</p>\n\n<h4>Chlorine</h4>\n<p><b>Laboratory preparation:</b> oxidation of concentrated hydrochloric acid by manganese(IV) oxide on heating, \\(MnO_2 + 4HCl \\rightarrow MnCl_2 + 2H_2O + Cl_2\\), or at room temperature with \\(KMnO_4\\). The gas is passed through water (removes \\(HCl\\) fumes), then concentrated \\(H_2SO_4\\) (dries it) and collected by <b>downward delivery</b>.</p>\n<p><b>Industrially</b> it is a product of the electrolysis of concentrated brine, with \\(NaOH\\) and \\(H_2\\) as co-products.</p>\n<p><b>Properties:</b> green-yellow, choking, poisonous, denser than air, moderately soluble giving <b>chlorine water</b>, a mixture of \\(HCl\\) and \\(HOCl\\). The \\(HOCl\\) slowly releases oxygen, so chlorine bleaches by <b>oxidation</b> and the bleaching is <b>permanent</b>. Chlorine reacts directly with most metals (\\(2Fe + 3Cl_2 \\rightarrow 2FeCl_3\\)), with hydrogen explosively in sunlight, and with cold dilute \\(NaOH\\) to give bleach: \\(Cl_2 + 2NaOH \\rightarrow NaCl + NaOCl + H_2O\\). With hot concentrated alkali it gives the chlorate(V): \\(3Cl_2 + 6NaOH \\rightarrow 5NaCl + NaClO_3 + 3H_2O\\).</p>\n<p><b>Uses:</b> water sterilisation, bleaching textiles and paper, making \\(HCl\\), PVC, insecticides and antiseptics.</p>\n\n<h4>Hydrogen chloride and hydrochloric acid</h4>\n<p>Prepared by warming sodium chloride with concentrated \\(H_2SO_4\\); it is a colourless gas fuming in moist air, extremely soluble (fountain experiment), and its solution is a strong monobasic acid. <b>Test for chloride ion:</b> add dilute \\(HNO_3\\) then \\(AgNO_3\\); a white precipitate soluble in dilute ammonia is \\(AgCl\\); a cream precipitate sparingly soluble in ammonia is \\(AgBr\\); a yellow precipitate insoluble in ammonia is \\(AgI\\).</p>\n\n<h4>Bromine and iodine</h4>\n<p>Bromine is a dense red-brown fuming liquid obtained from sea water and bromide brines; it is used in silver bromide photographic film and in flame retardants. Iodine is a grey-black solid that <b>sublimes</b> to a violet vapour; it gives a deep blue-black colour with starch (the classic test), and is used as a tincture antiseptic; iodine deficiency causes goitre, so table salt is iodised.</p>\n",
+   "examples": [
+    "Explain the trend in reactivity from fluorine to iodine.",
+    "Describe how you would distinguish between solutions of KCl, KBr and KI."
+   ]
+  },
+  {
+   "title": "9.4 Tests, Industrial Summary and Calculations",
+   "html": "\n<p>This module consolidates the SSS 3 non-metal chemistry into identification tests, industrial comparisons and worked calculations of the type set in WAEC, NECO and JAMB.</p>\n\n<h4>Summary of industrial processes</h4>\n<table><tr><th>Process</th><th>Product</th><th>Catalyst / conditions</th></tr>\n<tr><td>Haber</td><td>\\(NH_3\\)</td><td>Fe with \\(K_2O\\)/\\(Al_2O_3\\); 450&deg;C; 200 atm</td></tr>\n<tr><td>Ostwald</td><td>\\(HNO_3\\)</td><td>Pt-Rh gauze; 900&deg;C</td></tr>\n<tr><td>Contact</td><td>\\(H_2SO_4\\)</td><td>\\(V_2O_5\\); 450&deg;C; 2 atm</td></tr>\n<tr><td>Electrolysis of brine</td><td>\\(Cl_2, NaOH, H_2\\)</td><td>Diaphragm or membrane cell</td></tr>\n</table>\n\n<h4>Diagnostic tests you must know</h4>\n<ul>\n<li><b>\\(NH_3\\):</b> damp red litmus turns blue; white fumes with concentrated \\(HCl\\).</li>\n<li><b>\\(NO_2\\):</b> brown, choking, acidic; turns starch-iodide paper blue-black.</li>\n<li><b>\\(SO_2\\):</b> choking; decolourises acidified \\(KMnO_4\\) and turns \\(K_2Cr_2O_7\\) from orange to green.</li>\n<li><b>\\(H_2S\\):</b> rotten-egg smell; blackens lead(II) ethanoate paper.</li>\n<li><b>\\(Cl_2\\):</b> green-yellow; bleaches damp litmus permanently.</li>\n<li><b>\\(SO_4^{2-}\\):</b> white precipitate with \\(BaCl_2\\) after acidifying with \\(HCl\\).</li>\n<li><b>\\(Cl^-, Br^-, I^-\\):</b> white, cream and yellow precipitates with \\(AgNO_3\\) respectively.</li>\n<li><b>\\(NO_3^-\\):</b> brown-ring test with iron(II) sulphate and concentrated \\(H_2SO_4\\).</li>\n</ul>\n\n<h4>Worked example 1 &mdash; Haber process yield</h4>\n<p><i>Calculate the mass of ammonia produced when \\(60\\ dm^3\\) of nitrogen reacts completely with hydrogen at s.t.p. (\\(N=14, H=1\\)).</i></p>\n<p>\\(n(N_2) = 60/22.4 = 2.679\\ mol\\). From \\(N_2 + 3H_2 \\rightarrow 2NH_3\\), \\(n(NH_3) = 2 \\times 2.679 = 5.357\\ mol\\).</p>\n<p>\\(m = 5.357 \\times 17 = \\mathbf{91.1\\ g}\\).</p>\n\n<h4>Worked example 2 &mdash; titration with \\(H_2SO_4\\)</h4>\n<p><i>\\(25.0\\ cm^3\\) of \\(0.100\\ mol\\,dm^{-3}\\) \\(NaOH\\) required \\(20.0\\ cm^3\\) of \\(H_2SO_4\\). Find the concentration of the acid.</i></p>\n<p>\\(n(NaOH) = 0.0250 \\times 0.100 = 2.50\\times10^{-3}\\ mol\\). Since \\(H_2SO_4 + 2NaOH \\rightarrow Na_2SO_4 + 2H_2O\\), \\(n(H_2SO_4) = 1.25\\times10^{-3}\\ mol\\).</p>\n<p>\\(c = 1.25\\times10^{-3}/0.0200 = \\mathbf{0.0625\\ mol\\,dm^{-3}}\\).</p>\n\n<h4>Worked example 3 &mdash; volume of \\(SO_2\\)</h4>\n<p><i>What volume of \\(SO_2\\) at s.t.p. is formed when 16 g of sulphur burns completely? (\\(S=32\\)).</i></p>\n<p>\\(n(S) = 16/32 = 0.5\\ mol\\); \\(S + O_2 \\rightarrow SO_2\\) is 1:1, so \\(V = 0.5\\times22.4 = \\mathbf{11.2\\ dm^3}\\).</p>\n\n<h4>Common examination traps</h4>\n<ol>\n<li>Ammonia cannot be dried with concentrated \\(H_2SO_4\\) or anhydrous \\(CaCl_2\\) &mdash; both react with it. Use quicklime.</li>\n<li>Chlorine bleaching is permanent (oxidation); \\(SO_2\\) bleaching is temporary (reduction).</li>\n<li>Dilute \\(HNO_3\\) does not give hydrogen with metals; it gives \\(NO\\) or \\(NO_2\\), because it is an oxidising acid. Very dilute acid with magnesium is the only common exception.</li>\n<li>Concentrated \\(HNO_3\\) passivates iron and aluminium, which is why it is transported in aluminium tankers.</li>\n<li>Always acidify with dilute \\(HNO_3\\) (not \\(HCl\\)) before adding \\(AgNO_3\\), or you will precipitate \\(AgCl\\) from the acid itself.</li>\n</ol>\n",
+   "examples": [
+    "Calculate the mass of NH3 obtained from 60 dm3 of nitrogen at s.t.p.",
+    "Describe the brown-ring test for the trioxonitrate(V) ion."
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The percentage of nitrogen in the atmosphere by volume is about",
+   "options": [
+    "21%",
+    "78%",
+    "0.03%",
+    "1%"
+   ],
+   "answer": "1",
+   "solution": "Nitrogen makes up roughly 78 percent of dry air."
+  },
+  {
+   "q": "Nitrogen is chemically unreactive because",
+   "options": [
+    "it is a gas",
+    "its molecules have a strong triple bond",
+    "it is less dense than air",
+    "it is insoluble"
+   ],
+   "answer": "1",
+   "solution": "The N-N triple bond energy is about 945 kJ/mol."
+  },
+  {
+   "q": "Nitrogen is obtained industrially by",
+   "options": [
+    "the Haber process",
+    "fractional distillation of liquid air",
+    "heating ammonium nitrite",
+    "electrolysis"
+   ],
+   "answer": "1",
+   "solution": "Liquid air is fractionally distilled to obtain nitrogen, argon and oxygen."
+  },
+  {
+   "q": "The bacteria that convert nitrites to nitrates are",
+   "options": [
+    "Rhizobium",
+    "Nitrosomonas",
+    "Nitrobacter",
+    "denitrifying bacteria"
+   ],
+   "answer": "2",
+   "solution": "Nitrobacter completes nitrification by oxidising nitrite to nitrate."
+  },
+  {
+   "q": "Nitrogen fixation by lightning ultimately produces",
+   "options": [
+    "ammonia",
+    "trioxonitrate(V) acid",
+    "nitrogen dioxide only",
+    "urea"
+   ],
+   "answer": "1",
+   "solution": "NO becomes NO2 and then HNO3, which is washed into the soil."
+  },
+  {
+   "q": "Root nodules of leguminous plants contain",
+   "options": [
+    "Nitrobacter",
+    "Rhizobium",
+    "Nitrosomonas",
+    "denitrifying bacteria"
+   ],
+   "answer": "1",
+   "solution": "Rhizobium fixes atmospheric nitrogen symbiotically."
+  },
+  {
+   "q": "Ammonia is manufactured by the",
+   "options": [
+    "Contact process",
+    "Haber process",
+    "Ostwald process",
+    "Frasch process"
+   ],
+   "answer": "1",
+   "solution": "N2 + 3H2 gives 2NH3 over an iron catalyst."
+  },
+  {
+   "q": "The catalyst in the Haber process is",
+   "options": [
+    "vanadium(V) oxide",
+    "finely divided iron",
+    "platinum",
+    "nickel"
+   ],
+   "answer": "1",
+   "solution": "Iron promoted with K2O and Al2O3 is used."
+  },
+  {
+   "q": "Ammonia is dried using",
+   "options": [
+    "concentrated H2SO4",
+    "anhydrous CaCl2",
+    "quicklime",
+    "phosphorus(V) oxide"
+   ],
+   "answer": "2",
+   "solution": "The other driers react with the alkaline gas."
+  },
+  {
+   "q": "Ammonia is collected by",
+   "options": [
+    "downward delivery",
+    "upward delivery",
+    "over water",
+    "over mercury"
+   ],
+   "answer": "1",
+   "solution": "It is less dense than air and very soluble in water."
+  },
+  {
+   "q": "The gas that turns damp red litmus blue is",
+   "options": [
+    "CO2",
+    "SO2",
+    "NH3",
+    "Cl2"
+   ],
+   "answer": "2",
+   "solution": "Ammonia is the only common alkaline gas."
+  },
+  {
+   "q": "White fumes are formed when ammonia meets",
+   "options": [
+    "water vapour",
+    "concentrated hydrochloric acid",
+    "oxygen",
+    "carbon dioxide"
+   ],
+   "answer": "1",
+   "solution": "Solid ammonium chloride forms as dense white fumes."
+  },
+  {
+   "q": "When ammonia is passed over heated copper(II) oxide the products are",
+   "options": [
+    "Cu, N2 and H2O",
+    "CuO and NH4OH",
+    "Cu and NO",
+    "CuN and H2O"
+   ],
+   "answer": "0",
+   "solution": "Ammonia acts as a reducing agent."
+  },
+  {
+   "q": "Excess aqueous ammonia added to copper(II) sulphate gives",
+   "options": [
+    "a blue precipitate only",
+    "a deep blue solution",
+    "a green solution",
+    "no change"
+   ],
+   "answer": "1",
+   "solution": "The tetraamminecopper(II) complex ion is deep blue."
+  },
+  {
+   "q": "Trioxonitrate(V) acid is manufactured by the",
+   "options": [
+    "Haber process",
+    "Ostwald process",
+    "Contact process",
+    "Solvay process"
+   ],
+   "answer": "1",
+   "solution": "Ammonia is catalytically oxidised over platinum."
+  },
+  {
+   "q": "Concentrated trioxonitrate(V) acid is stored in dark bottles because it is",
+   "options": [
+    "volatile",
+    "photosensitive",
+    "hygroscopic",
+    "deliquescent"
+   ],
+   "answer": "1",
+   "solution": "Light decomposes it to NO2, O2 and water, colouring it yellow."
+  },
+  {
+   "q": "Copper reacting with concentrated HNO3 gives",
+   "options": [
+    "hydrogen",
+    "NO",
+    "brown NO2",
+    "no reaction"
+   ],
+   "answer": "2",
+   "solution": "Concentrated nitric acid is reduced to brown nitrogen(IV) oxide."
+  },
+  {
+   "q": "Iron and aluminium are rendered passive by concentrated HNO3 because",
+   "options": [
+    "they are unreactive",
+    "an impervious oxide layer forms",
+    "the acid is too dilute",
+    "the metals dissolve"
+   ],
+   "answer": "1",
+   "solution": "A thin oxide coating protects the metal beneath."
+  },
+  {
+   "q": "Heating sodium trioxonitrate(V) produces",
+   "options": [
+    "NaNO2 and O2",
+    "Na2O, NO2 and O2",
+    "NaOH and NO2",
+    "Na and NO2"
+   ],
+   "answer": "0",
+   "solution": "Group 1 nitrates (except lithium) give the nitrite and oxygen."
+  },
+  {
+   "q": "Heating copper(II) trioxonitrate(V) gives",
+   "options": [
+    "Cu, NO2 and O2",
+    "CuO, NO2 and O2",
+    "CuNO2 and O2",
+    "Cu2O and NO"
+   ],
+   "answer": "1",
+   "solution": "Heavy-metal nitrates give the oxide, brown NO2 and oxygen."
+  },
+  {
+   "q": "The transition temperature of rhombic and monoclinic sulphur is",
+   "options": [
+    "96 degrees Celsius",
+    "114 degrees Celsius",
+    "444 degrees Celsius",
+    "119 degrees Celsius"
+   ],
+   "answer": "0",
+   "solution": "Above 96 C monoclinic sulphur is the stable form."
+  },
+  {
+   "q": "Plastic sulphur is formed when",
+   "options": [
+    "sulphur is heated slowly",
+    "molten sulphur is poured into cold water",
+    "sulphur is dissolved in CS2",
+    "sulphur burns"
+   ],
+   "answer": "1",
+   "solution": "Rapid cooling traps long chains of sulphur atoms."
+  },
+  {
+   "q": "Sulphur burns in air with a",
+   "options": [
+    "yellow flame",
+    "blue flame",
+    "green flame",
+    "colourless flame"
+   ],
+   "answer": "1",
+   "solution": "Sulphur burns with a blue flame to give SO2."
+  },
+  {
+   "q": "Sulphur(IV) oxide turns acidified potassium tetraoxomanganate(VII)",
+   "options": [
+    "green",
+    "colourless",
+    "brown",
+    "blue"
+   ],
+   "answer": "1",
+   "solution": "SO2 reduces the purple permanganate to colourless Mn2+."
+  },
+  {
+   "q": "Sulphur(IV) oxide turns orange potassium heptaoxodichromate(VI)",
+   "options": [
+    "colourless",
+    "green",
+    "yellow",
+    "blue"
+   ],
+   "answer": "1",
+   "solution": "Dichromate is reduced to green chromium(III)."
+  },
+  {
+   "q": "Bleaching by SO2 is temporary because it acts by",
+   "options": [
+    "oxidation",
+    "reduction",
+    "hydrolysis",
+    "adsorption"
+   ],
+   "answer": "1",
+   "solution": "Reduced dyes are re-oxidised in air and colour returns."
+  },
+  {
+   "q": "Tetraoxosulphate(VI) acid is manufactured by the",
+   "options": [
+    "Contact process",
+    "Haber process",
+    "Ostwald process",
+    "Frasch process"
+   ],
+   "answer": "0",
+   "solution": "SO2 is oxidised to SO3 over V2O5 and absorbed in acid."
+  },
+  {
+   "q": "The catalyst in the Contact process is",
+   "options": [
+    "iron",
+    "vanadium(V) oxide",
+    "platinum",
+    "nickel"
+   ],
+   "answer": "1",
+   "solution": "V2O5 is cheaper and less easily poisoned than platinum."
+  },
+  {
+   "q": "Sulphur(VI) oxide is absorbed in concentrated H2SO4 rather than water because",
+   "options": [
+    "water is expensive",
+    "a dense acid mist would form",
+    "SO3 is insoluble",
+    "the reaction is slow"
+   ],
+   "answer": "1",
+   "solution": "Direct absorption in water produces an uncontrollable mist."
+  },
+  {
+   "q": "Oleum has the formula",
+   "options": [
+    "H2SO4",
+    "H2S2O7",
+    "H2SO3",
+    "H2S2O3"
+   ],
+   "answer": "1",
+   "solution": "Oleum, or fuming sulphuric acid, is diluted to give H2SO4."
+  },
+  {
+   "q": "Concentrated H2SO4 chars sugar because it is",
+   "options": [
+    "an oxidising agent",
+    "a dehydrating agent",
+    "a reducing agent",
+    "a base"
+   ],
+   "answer": "1",
+   "solution": "It removes the elements of water, leaving carbon."
+  },
+  {
+   "q": "When diluting concentrated H2SO4 you should",
+   "options": [
+    "add water to acid",
+    "add acid to water slowly with stirring",
+    "mix quickly",
+    "heat first"
+   ],
+   "answer": "1",
+   "solution": "Dilution is very exothermic; adding acid to water disperses the heat."
+  },
+  {
+   "q": "The test for the sulphate ion is a white precipitate with",
+   "options": [
+    "AgNO3",
+    "BaCl2 after adding dilute HCl",
+    "NaOH",
+    "lime water"
+   ],
+   "answer": "1",
+   "solution": "Barium sulphate is insoluble in dilute acid."
+  },
+  {
+   "q": "Hydrogen sulphide turns lead(II) ethanoate paper",
+   "options": [
+    "white",
+    "black",
+    "yellow",
+    "blue"
+   ],
+   "answer": "1",
+   "solution": "Black lead(II) sulphide is formed."
+  },
+  {
+   "q": "The halogens belong to periodic group",
+   "options": [
+    "1",
+    "2",
+    "17",
+    "18"
+   ],
+   "answer": "2",
+   "solution": "Group 17 elements have seven outer electrons."
+  },
+  {
+   "q": "Which halogen is a red-brown liquid at room temperature?",
+   "options": [
+    "Fluorine",
+    "Chlorine",
+    "Bromine",
+    "Iodine"
+   ],
+   "answer": "2",
+   "solution": "Bromine is the only liquid halogen."
+  },
+  {
+   "q": "Reactivity of the halogens down the group",
+   "options": [
+    "increases",
+    "decreases",
+    "stays constant",
+    "first increases then decreases"
+   ],
+   "answer": "1",
+   "solution": "Larger atoms attract the incoming electron less strongly."
+  },
+  {
+   "q": "Chlorine displaces bromine from potassium bromide because chlorine is",
+   "options": [
+    "less electronegative",
+    "a stronger oxidising agent",
+    "a stronger reducing agent",
+    "more soluble"
+   ],
+   "answer": "1",
+   "solution": "A more reactive halogen displaces a less reactive one."
+  },
+  {
+   "q": "The laboratory preparation of chlorine uses",
+   "options": [
+    "MnO2 and concentrated HCl",
+    "NaCl and H2SO4",
+    "MnO2 and dilute HCl",
+    "CaOCl2 and water only"
+   ],
+   "answer": "0",
+   "solution": "Manganese(IV) oxide oxidises concentrated hydrochloric acid on heating."
+  },
+  {
+   "q": "Chlorine is dried with",
+   "options": [
+    "quicklime",
+    "concentrated H2SO4",
+    "soda lime",
+    "sodium hydroxide"
+   ],
+   "answer": "1",
+   "solution": "Basic driers would react with the acidic gas."
+  },
+  {
+   "q": "Chlorine bleaches by",
+   "options": [
+    "reduction",
+    "oxidation",
+    "adsorption",
+    "dehydration"
+   ],
+   "answer": "1",
+   "solution": "HOCl in chlorine water releases oxygen, so bleaching is permanent."
+  },
+  {
+   "q": "Chlorine with cold dilute sodium hydroxide gives",
+   "options": [
+    "NaCl and NaClO3",
+    "NaCl and NaOCl",
+    "NaClO3 only",
+    "NaCl only"
+   ],
+   "answer": "1",
+   "solution": "Cold dilute alkali gives the hypochlorite used as bleach."
+  },
+  {
+   "q": "The white precipitate formed with silver trioxonitrate(V) that dissolves in dilute ammonia indicates",
+   "options": [
+    "chloride",
+    "bromide",
+    "iodide",
+    "sulphate"
+   ],
+   "answer": "0",
+   "solution": "Silver chloride is white and readily soluble in ammonia."
+  },
+  {
+   "q": "A yellow precipitate with AgNO3 insoluble in ammonia indicates",
+   "options": [
+    "Cl-",
+    "Br-",
+    "I-",
+    "NO3-"
+   ],
+   "answer": "2",
+   "solution": "Silver iodide is yellow and insoluble even in concentrated ammonia."
+  },
+  {
+   "q": "Iodine gives what colour with starch?",
+   "options": [
+    "Red",
+    "Blue-black",
+    "Green",
+    "Colourless"
+   ],
+   "answer": "1",
+   "solution": "The starch-iodine complex is deep blue-black."
+  },
+  {
+   "q": "Iodine changes directly from solid to vapour; this is",
+   "options": [
+    "melting",
+    "sublimation",
+    "condensation",
+    "deposition"
+   ],
+   "answer": "1",
+   "solution": "Iodine sublimes to a violet vapour."
+  },
+  {
+   "q": "Deficiency of iodine in the diet causes",
+   "options": [
+    "anaemia",
+    "goitre",
+    "rickets",
+    "scurvy"
+   ],
+   "answer": "1",
+   "solution": "The thyroid gland enlarges without iodine for thyroxine."
+  },
+  {
+   "q": "What mass of ammonia is formed from 2 mol of nitrogen in the Haber process? (N=14, H=1)",
+   "options": [
+    "17 g",
+    "34 g",
+    "68 g",
+    "51 g"
+   ],
+   "answer": "2",
+   "solution": "2 mol N2 gives 4 mol NH3 = 4 x 17 = 68 g."
+  },
+  {
+   "q": "What volume of SO2 at s.t.p. is formed when 16 g of sulphur burns? (S=32)",
+   "options": [
+    "5.6 dm3",
+    "11.2 dm3",
+    "22.4 dm3",
+    "44.8 dm3"
+   ],
+   "answer": "1",
+   "solution": "0.5 mol x 22.4 dm3 = 11.2 dm3."
+  },
+  {
+   "q": "25.0 cm3 of 0.100 mol/dm3 NaOH neutralised 20.0 cm3 of H2SO4. The acid concentration is",
+   "options": [
+    "0.0625 mol/dm3",
+    "0.125 mol/dm3",
+    "0.100 mol/dm3",
+    "0.250 mol/dm3"
+   ],
+   "answer": "0",
+   "solution": "n(acid) = half n(base) = 1.25e-3 mol in 0.02 dm3."
+  }
+ ]
+}

@@ -1,0 +1,606 @@
+{
+ "subject": "Chemistry",
+ "level": "SSS 3",
+ "slug": "environmental-chemistry",
+ "title": "Environmental Chemistry",
+ "outline": [
+  "Pollution and pollutants: basic definitions",
+  "Composition of clean air",
+  "Air pollutants: sources, effects and control",
+  "Acid rain: chemistry, damage and remedies",
+  "Ozone depletion and the Montreal Protocol",
+  "The greenhouse effect and global warming",
+  "Water pollution: BOD, eutrophication, heavy metals",
+  "Oil spillage and bioremediation",
+  "Soil and land pollution",
+  "Waste management and the waste hierarchy",
+  "Sewage treatment, biogas and green chemistry",
+  "Environmental calculations: ppm, emissions and atom economy"
+ ],
+ "modules": [
+  {
+   "title": "12.1 Air Pollution, Acid Rain and the Ozone Layer",
+   "html": "\n<p><b>Environmental chemistry</b> studies the chemical species present in air, water and soil, how human activity changes them, and how the damage can be measured and reversed. <b>Pollution</b> is the introduction into the environment of a substance (a <b>pollutant</b>) in a concentration high enough to harm living things or property.</p>\n\n<h4>Composition of clean dry air</h4>\n<table><tr><th>Gas</th><th>% by volume</th></tr>\n<tr><td>Nitrogen</td><td>78.0</td></tr><tr><td>Oxygen</td><td>21.0</td></tr>\n<tr><td>Argon and other noble gases</td><td>0.9</td></tr><tr><td>Carbon(IV) oxide</td><td>0.03&ndash;0.04</td></tr>\n<tr><td>Water vapour, dust, ozone</td><td>variable</td></tr></table>\n\n<h4>Major air pollutants, sources and effects</h4>\n<ul>\n<li><b>Carbon(II) oxide, \\(CO\\):</b> incomplete combustion in engines, generators and charcoal stoves. Forms carboxyhaemoglobin, starving tissues of oxygen; fatal in closed rooms.</li>\n<li><b>Sulphur(IV) oxide, \\(SO_2\\):</b> burning of sulphur-containing coal and oil and roasting of sulphide ores. Causes bronchitis and acid rain.</li>\n<li><b>Oxides of nitrogen, \\(NO_x\\):</b> formed in hot engines and by lightning. Cause acid rain and photochemical smog.</li>\n<li><b>Hydrocarbons and particulates (soot):</b> from vehicle exhausts, gas flaring and bush burning. Cause respiratory disease and cancer.</li>\n<li><b>Lead compounds:</b> formerly from leaded petrol; damage the nervous system, especially in children.</li>\n<li><b>Chlorofluorocarbons (CFCs):</b> from old refrigerators and aerosols; destroy stratospheric ozone.</li>\n</ul>\n\n<h4>Acid rain</h4>\n<p>Normal rain is slightly acidic (pH about 5.6) because of dissolved \\(CO_2\\). Acid rain has pH below 5 and is caused by:</p>\n<p>\\(SO_2 + H_2O \\rightarrow H_2SO_3\\); \\(2SO_2 + O_2 \\rightarrow 2SO_3\\); \\(SO_3 + H_2O \\rightarrow H_2SO_4\\); and \\(3NO_2 + H_2O \\rightarrow 2HNO_3 + NO\\).</p>\n<p><b>Effects:</b> acidifies lakes and kills fish, leaches nutrients from soil, damages forests, corrodes metals and dissolves limestone and marble buildings. <b>Control:</b> flue-gas desulphurisation with limestone slurry, low-sulphur fuels, catalytic converters on vehicles, and liming of affected lakes and soils.</p>\n\n<h4>The ozone layer</h4>\n<p>Stratospheric ozone absorbs harmful ultraviolet radiation. Chlorine radicals released from CFCs by UV destroy it catalytically: \\(Cl^{\\bullet} + O_3 \\rightarrow ClO^{\\bullet} + O_2\\), \\(ClO^{\\bullet} + O \\rightarrow Cl^{\\bullet} + O_2\\); one chlorine atom can destroy thousands of ozone molecules. Thinning causes skin cancer, cataracts and reduced crop yields. The <b>Montreal Protocol</b> phased out CFCs in favour of HFCs and hydrocarbons.</p>\n",
+   "examples": [
+    "Write equations showing how SO2 in the air becomes sulphuric acid in rain.",
+    "Explain why one chlorine radical can destroy many ozone molecules."
+   ]
+  },
+  {
+   "title": "12.2 Global Warming, Water and Soil Pollution",
+   "html": "\n<h4>The greenhouse effect and global warming</h4>\n<p>Short-wavelength solar radiation passes through the atmosphere and warms the earth; the earth re-radiates longer-wavelength infrared. <b>Greenhouse gases</b> &mdash; \\(CO_2\\), \\(CH_4\\), \\(N_2O\\), CFCs and water vapour &mdash; absorb this infrared and re-emit it downwards, keeping the planet about \\(33^{\\circ}C\\) warmer than it would otherwise be. The natural effect makes life possible; the <b>enhanced</b> effect from burning fossil fuels, deforestation and gas flaring causes <b>global warming</b>.</p>\n<p><b>Consequences:</b> melting polar ice and rising sea levels (a direct threat to Lagos, Port Harcourt and the Niger Delta), more intense flooding and drought, desertification in the far north, coral bleaching, shifting rainfall patterns and reduced crop yields.</p>\n<p><b>Mitigation:</b> renewable energy (solar, wind, hydro), afforestation, ending routine gas flaring, energy efficiency, carbon capture and storage, and cleaner cook-stoves.</p>\n\n<h4>Water pollution</h4>\n<ul>\n<li><b>Sewage and organic waste:</b> raise the <b>biochemical oxygen demand (BOD)</b>; bacteria decomposing the waste use up dissolved oxygen and fish suffocate. High BOD therefore means heavily polluted water.</li>\n<li><b>Fertiliser run-off (nitrates and phosphates):</b> cause <b>eutrophication</b> &mdash; algal bloom, blocked light, death and decay of algae, oxygen depletion and a dead water body.</li>\n<li><b>Heavy metals</b> (\\(Pb^{2+}\\), \\(Hg^{2+}\\), \\(Cd^{2+}\\)): from mining, batteries and industry; they are cumulative poisons that <b>bioaccumulate</b> up the food chain. Mercury poisoning (Minamata disease) damages the brain; lead causes anaemia and mental retardation; cadmium damages bones and kidneys.</li>\n<li><b>Crude-oil spillage:</b> a major Niger Delta problem; the oil film cuts off oxygen and light, kills fish and mangroves and destroys farmland and fishing livelihoods. Treatment uses booms, skimmers, dispersants and <b>bioremediation</b> with oil-degrading bacteria.</li>\n<li><b>Thermal pollution:</b> warm water from power stations lowers dissolved-oxygen solubility.</li>\n</ul>\n\n<h4>Water quality indicators</h4>\n<p>Dissolved oxygen (should exceed \\(5\\ mg\\,dm^{-3}\\) for fish), BOD (below \\(3\\ mg\\,dm^{-3}\\) is clean), pH (6.5&ndash;8.5), turbidity, total dissolved solids and coliform bacteria count. The World Health Organisation limit for lead in drinking water is \\(0.01\\ mg\\,dm^{-3}\\).</p>\n\n<h4>Soil and land pollution</h4>\n<p>Caused by indiscriminate dumping of refuse, plastics, agrochemicals, e-waste and industrial sludge. Persistent pesticides such as DDT are non-biodegradable and accumulate in food chains; excessive fertiliser acidifies soil and destroys structure. Remedies include controlled landfill, composting, crop rotation, organic manure, integrated pest management and remediation of contaminated sites.</p>\n",
+   "examples": [
+    "Explain the link between fertiliser run-off and fish deaths in a lake.",
+    "State three effects of crude-oil spillage on a Niger Delta community."
+   ]
+  },
+  {
+   "title": "12.3 Waste Management, Sewage Treatment and Green Chemistry",
+   "html": "\n<h4>Waste management: the waste hierarchy</h4>\n<ol>\n<li><b>Reduce</b> &mdash; use less material in the first place; refuse single-use plastics.</li>\n<li><b>Reuse</b> &mdash; refill bottles, repair equipment.</li>\n<li><b>Recycle</b> &mdash; reprocess paper, glass, aluminium and PET; recycling aluminium saves about 95% of the energy of primary extraction.</li>\n<li><b>Recover</b> &mdash; compost organic waste; capture landfill methane or incinerate with energy recovery.</li>\n<li><b>Dispose</b> &mdash; sanitary landfill with an impermeable liner and leachate collection, as the last resort.</li>\n</ol>\n<p><b>Types of waste:</b> biodegradable (food, paper, vegetation), non-biodegradable (plastics, glass, metals), hazardous (batteries, hospital waste, chemicals) and radioactive waste, which must be vitrified and stored in deep geological repositories.</p>\n<p><b>Problems of open dumping and burning</b>, still common in Nigerian cities: leachate contaminates groundwater, decaying refuse produces methane (explosive and a greenhouse gas), open burning of plastics releases dioxins and \\(HCl\\), and dumps breed rats, flies and mosquitoes that spread cholera and malaria.</p>\n\n<h4>Sewage treatment in outline</h4>\n<p><b>Primary:</b> screening and sedimentation remove solids. <b>Secondary:</b> aerobic bacteria in trickling filters or activated-sludge tanks oxidise dissolved organic matter, drastically lowering BOD. <b>Tertiary:</b> removal of nitrates and phosphates, filtration and chlorination before discharge. Anaerobic digestion of the sludge yields <b>biogas</b> (about 60% methane) usable as fuel, and the digestate becomes fertiliser.</p>\n\n<h4>Green chemistry principles</h4>\n<ul>\n<li>Prevent waste rather than treat it afterwards.</li>\n<li>Maximise <b>atom economy</b>: \\(\\text{atom economy} = \\dfrac{\\text{mass of desired product}}{\\text{total mass of reactants}} \\times 100\\%\\).</li>\n<li>Use safer solvents (water, supercritical \\(CO_2\\)) and renewable feedstocks.</li>\n<li>Use catalysts rather than stoichiometric reagents; design for degradation.</li>\n</ul>\n\n<h4>Nigerian and global policy</h4>\n<p>NESREA and the Federal Ministry of Environment enforce environmental standards; the Harmful Waste Act followed the 1988 Koko toxic-waste dumping incident. Internationally the <b>Montreal Protocol</b> (ozone), the <b>Kyoto Protocol</b> and the <b>Paris Agreement</b> (greenhouse gases) and the <b>Basel Convention</b> (transboundary hazardous waste) are the agreements most often named in examinations.</p>\n",
+   "examples": [
+    "List the five steps of the waste hierarchy in order of preference.",
+    "Describe the three stages of sewage treatment."
+   ]
+  },
+  {
+   "title": "12.4 Environmental Calculations and Examination Technique",
+   "html": "\n<p>Environmental questions usually combine recall with a short calculation on concentration, atom economy or gas volume. These are the routines.</p>\n\n<h4>Parts per million</h4>\n<p>\\(1\\ ppm = 1\\ mg\\ per\\ dm^3\\ of\\ water = 1\\ mg\\ per\\ kg\\).</p>\n<p><i>Example: A water sample contains \\(0.5\\ mg\\) of lead in \\(2\\ dm^3\\). Express the concentration in ppm and state whether it meets the WHO limit of 0.01 ppm.</i></p>\n<p>Concentration \\(= 0.5/2 = 0.25\\ mg\\,dm^{-3} = \\mathbf{0.25\\ ppm}\\), which is 25 times the WHO limit &mdash; the water is unsafe.</p>\n\n<h4>Mass of pollutant from combustion</h4>\n<p><i>Example: A fuel oil contains 2.0% sulphur by mass. What mass of \\(SO_2\\) is released when 1 tonne is burnt? (\\(S=32, O=16\\)).</i></p>\n<p>Mass of sulphur \\(= 0.02 \\times 1000\\ kg = 20\\ kg\\); \\(n \\propto 20/32\\). Since \\(S + O_2 \\rightarrow SO_2\\) is 1:1, mass of \\(SO_2 = 20 \\times 64/32 = \\mathbf{40\\ kg}\\).</p>\n\n<h4>Volume of a greenhouse gas</h4>\n<p><i>Example: What volume of \\(CO_2\\) at s.t.p. is produced by burning 1.6 kg of methane completely? (\\(C=12, H=1\\)).</i></p>\n<p>\\(CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O\\). \\(n(CH_4) = 1600/16 = 100\\ mol\\), so \\(n(CO_2)=100\\ mol\\) and \\(V = 100 \\times 22.4 = \\mathbf{2240\\ dm^3}\\).</p>\n\n<h4>Atom economy</h4>\n<p><i>Example: In \\(CaCO_3 \\rightarrow CaO + CO_2\\), the desired product is quicklime. Atom economy \\(= 56/100 \\times 100 = \\mathbf{56\\%}\\)</i>. The remaining 44% leaves as \\(CO_2\\), which is why cement manufacture is a large carbon emitter.</p>\n\n<h4>Summary table for revision</h4>\n<table><tr><th>Problem</th><th>Chief cause</th><th>Main control measure</th></tr>\n<tr><td>Acid rain</td><td>\\(SO_2\\), \\(NO_x\\)</td><td>Desulphurisation, catalytic converters</td></tr>\n<tr><td>Global warming</td><td>\\(CO_2\\), \\(CH_4\\)</td><td>Renewables, afforestation, stop gas flaring</td></tr>\n<tr><td>Ozone depletion</td><td>CFCs</td><td>Montreal Protocol, HFC substitutes</td></tr>\n<tr><td>Eutrophication</td><td>Nitrates, phosphates</td><td>Controlled fertiliser use, buffer strips</td></tr>\n<tr><td>Photochemical smog</td><td>\\(NO_x\\) + hydrocarbons + sunlight</td><td>Emission standards, public transport</td></tr>\n<tr><td>Oil spillage</td><td>Pipeline failure, sabotage</td><td>Booms, skimmers, bioremediation</td></tr>\n</table>\n\n<h4>How to write a good essay answer</h4>\n<p>Name the pollutant, give its <b>source</b>, write a <b>chemical equation</b> where one exists, describe the <b>effect</b> on health or the environment, and finish with a <b>named control measure</b>. Four clear points score far better than a page of generalities such as \"pollution is bad\".</p>\n",
+   "examples": [
+    "Calculate the ppm of a solution containing 4 mg of nitrate in 5 dm3 of water.",
+    "Find the atom economy for producing iron from Fe2O3 by reduction with CO."
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A pollutant is",
+   "options": [
+    "any chemical substance",
+    "a substance present at a level harmful to living things",
+    "a gas only",
+    "a natural product"
+   ],
+   "answer": "1",
+   "solution": "Concentration determines whether a substance is a pollutant."
+  },
+  {
+   "q": "The percentage of carbon(IV) oxide in clean dry air is about",
+   "options": [
+    "0.03%",
+    "0.9%",
+    "21%",
+    "78%"
+   ],
+   "answer": "0",
+   "solution": "CO2 is roughly 0.03 to 0.04 percent by volume."
+  },
+  {
+   "q": "Which gas is the main product of incomplete combustion in engines?",
+   "options": [
+    "CO2",
+    "CO",
+    "SO2",
+    "NO2"
+   ],
+   "answer": "1",
+   "solution": "Insufficient oxygen gives carbon(II) oxide."
+  },
+  {
+   "q": "Carbon(II) oxide is dangerous because it",
+   "options": [
+    "dissolves in water",
+    "combines with haemoglobin",
+    "forms acid rain",
+    "destroys ozone"
+   ],
+   "answer": "1",
+   "solution": "Carboxyhaemoglobin cannot transport oxygen."
+  },
+  {
+   "q": "Which pair of gases is mainly responsible for acid rain?",
+   "options": [
+    "CO and CO2",
+    "SO2 and NOx",
+    "CH4 and N2",
+    "O3 and CFCs"
+   ],
+   "answer": "1",
+   "solution": "They form sulphuric and nitric acids in the atmosphere."
+  },
+  {
+   "q": "The pH of normal unpolluted rain is about",
+   "options": [
+    "7.0",
+    "5.6",
+    "3.0",
+    "9.0"
+   ],
+   "answer": "1",
+   "solution": "Dissolved CO2 makes it slightly acidic."
+  },
+  {
+   "q": "Acid rain damages marble buildings because marble is",
+   "options": [
+    "a silicate",
+    "a trioxocarbonate that reacts with acid",
+    "a metal",
+    "insoluble in all acids"
+   ],
+   "answer": "1",
+   "solution": "CaCO3 reacts with acid, forming soluble salts."
+  },
+  {
+   "q": "Which of these reduces sulphur(IV) oxide emission from power stations?",
+   "options": [
+    "Electrostatic precipitation",
+    "Flue-gas desulphurisation with limestone",
+    "Catalytic cracking",
+    "Chlorination"
+   ],
+   "answer": "1",
+   "solution": "Limestone slurry absorbs SO2 as calcium sulphate."
+  },
+  {
+   "q": "Catalytic converters in cars reduce",
+   "options": [
+    "CO, NOx and unburnt hydrocarbons",
+    "CO2 only",
+    "lead only",
+    "sulphur only"
+   ],
+   "answer": "0",
+   "solution": "They oxidise CO and hydrocarbons and reduce NOx."
+  },
+  {
+   "q": "The chemicals chiefly responsible for ozone depletion are",
+   "options": [
+    "CFCs",
+    "oxides of carbon",
+    "hydrocarbons",
+    "heavy metals"
+   ],
+   "answer": "0",
+   "solution": "Chlorine radicals from CFCs destroy ozone catalytically."
+  },
+  {
+   "q": "Depletion of the ozone layer increases the incidence of",
+   "options": [
+    "malaria",
+    "skin cancer and cataracts",
+    "cholera",
+    "rickets"
+   ],
+   "answer": "1",
+   "solution": "More ultraviolet radiation reaches the surface."
+  },
+  {
+   "q": "The international agreement that phased out CFCs is the",
+   "options": [
+    "Kyoto Protocol",
+    "Montreal Protocol",
+    "Basel Convention",
+    "Paris Agreement"
+   ],
+   "answer": "1",
+   "solution": "The Montreal Protocol targets ozone-depleting substances."
+  },
+  {
+   "q": "Which is NOT a greenhouse gas?",
+   "options": [
+    "Carbon(IV) oxide",
+    "Methane",
+    "Nitrogen",
+    "Dinitrogen oxide"
+   ],
+   "answer": "2",
+   "solution": "Nitrogen does not absorb infrared radiation."
+  },
+  {
+   "q": "The greenhouse effect occurs because greenhouse gases",
+   "options": [
+    "reflect sunlight",
+    "absorb and re-emit infrared radiation",
+    "produce heat chemically",
+    "destroy ozone"
+   ],
+   "answer": "1",
+   "solution": "Outgoing long-wave radiation is trapped."
+  },
+  {
+   "q": "Global warming is expected to cause",
+   "options": [
+    "falling sea levels",
+    "rising sea levels and flooding",
+    "cooler oceans",
+    "thicker ozone"
+   ],
+   "answer": "1",
+   "solution": "Melting ice and thermal expansion raise sea level."
+  },
+  {
+   "q": "Gas flaring in the Niger Delta contributes mainly to",
+   "options": [
+    "ozone depletion",
+    "greenhouse gas emissions and acid rain",
+    "eutrophication",
+    "thermal pollution of soil"
+   ],
+   "answer": "1",
+   "solution": "Flaring releases CO2, CO, SO2 and NOx."
+  },
+  {
+   "q": "Which activity most reduces atmospheric CO2?",
+   "options": [
+    "Deforestation",
+    "Afforestation",
+    "Gas flaring",
+    "Coal burning"
+   ],
+   "answer": "1",
+   "solution": "Trees absorb CO2 during photosynthesis."
+  },
+  {
+   "q": "BOD stands for",
+   "options": [
+    "basic oxygen demand",
+    "biochemical oxygen demand",
+    "boiling oxygen determination",
+    "biological oxide density"
+   ],
+   "answer": "1",
+   "solution": "It measures oxygen used by microbes decomposing organic matter."
+  },
+  {
+   "q": "A high BOD in river water indicates",
+   "options": [
+    "clean water",
+    "heavy organic pollution",
+    "high pH",
+    "low temperature"
+   ],
+   "answer": "1",
+   "solution": "Much oxygen is being consumed by decomposition."
+  },
+  {
+   "q": "Eutrophication is caused mainly by",
+   "options": [
+    "heavy metals",
+    "nitrates and phosphates",
+    "oil",
+    "heat"
+   ],
+   "answer": "1",
+   "solution": "Nutrients trigger algal blooms that later deplete oxygen."
+  },
+  {
+   "q": "The sequence in eutrophication is",
+   "options": [
+    "algal bloom, oxygen depletion, death of fish",
+    "fish death, algal bloom, oxygen rise",
+    "oxygen rise, algal death",
+    "none of these"
+   ],
+   "answer": "0",
+   "solution": "Algae die and decay, using up dissolved oxygen."
+  },
+  {
+   "q": "Minamata disease is caused by",
+   "options": [
+    "lead",
+    "mercury",
+    "cadmium",
+    "arsenic"
+   ],
+   "answer": "1",
+   "solution": "Methylmercury in fish caused the Japanese outbreak."
+  },
+  {
+   "q": "Cadmium poisoning chiefly damages",
+   "options": [
+    "the bones and kidneys",
+    "the lungs",
+    "the eyes",
+    "the skin"
+   ],
+   "answer": "0",
+   "solution": "Itai-itai disease is caused by cadmium."
+  },
+  {
+   "q": "Heavy metals are especially dangerous because they",
+   "options": [
+    "evaporate quickly",
+    "bioaccumulate in food chains",
+    "dissolve in oil",
+    "decompose rapidly"
+   ],
+   "answer": "1",
+   "solution": "Concentrations rise at each trophic level."
+  },
+  {
+   "q": "The WHO limit for lead in drinking water is",
+   "options": [
+    "0.01 mg/dm3",
+    "1.0 mg/dm3",
+    "10 mg/dm3",
+    "0.5 mg/dm3"
+   ],
+   "answer": "0",
+   "solution": "Lead is a cumulative neurotoxin."
+  },
+  {
+   "q": "Oil spillage kills aquatic life mainly because the oil film",
+   "options": [
+    "is poisonous only",
+    "prevents oxygen and light entering the water",
+    "increases the pH",
+    "raises the temperature"
+   ],
+   "answer": "1",
+   "solution": "The film cuts off gas exchange and light."
+  },
+  {
+   "q": "Using oil-degrading bacteria to clean a spill is called",
+   "options": [
+    "bioremediation",
+    "biodegradation only",
+    "flocculation",
+    "chlorination"
+   ],
+   "answer": "0",
+   "solution": "Microbes metabolise hydrocarbons into harmless products."
+  },
+  {
+   "q": "Thermal pollution harms fish because warm water",
+   "options": [
+    "contains less dissolved oxygen",
+    "is more acidic",
+    "is denser",
+    "kills algae"
+   ],
+   "answer": "0",
+   "solution": "Gas solubility decreases as temperature rises."
+  },
+  {
+   "q": "Which of these is non-biodegradable?",
+   "options": [
+    "Paper",
+    "Food waste",
+    "Polythene",
+    "Cotton"
+   ],
+   "answer": "2",
+   "solution": "Plastics resist microbial breakdown."
+  },
+  {
+   "q": "The best first step in the waste hierarchy is to",
+   "options": [
+    "recycle",
+    "reduce",
+    "incinerate",
+    "landfill"
+   ],
+   "answer": "1",
+   "solution": "Preventing waste is better than managing it."
+  },
+  {
+   "q": "Recycling aluminium is valuable because it saves about",
+   "options": [
+    "5% of the energy",
+    "50% of the energy",
+    "95% of the energy",
+    "no energy"
+   ],
+   "answer": "2",
+   "solution": "Remelting avoids the huge electrolysis energy cost."
+  },
+  {
+   "q": "Open burning of plastic waste is discouraged because it releases",
+   "options": [
+    "oxygen",
+    "dioxins and hydrogen chloride",
+    "nitrogen",
+    "water only"
+   ],
+   "answer": "1",
+   "solution": "Toxic dioxins and acid gases are formed."
+  },
+  {
+   "q": "Landfill sites produce a gas that is chiefly",
+   "options": [
+    "methane",
+    "chlorine",
+    "ozone",
+    "ammonia"
+   ],
+   "answer": "0",
+   "solution": "Anaerobic decay produces methane, a greenhouse gas."
+  },
+  {
+   "q": "Leachate from a dump site is dangerous because it",
+   "options": [
+    "smells",
+    "contaminates groundwater",
+    "is flammable",
+    "is radioactive"
+   ],
+   "answer": "1",
+   "solution": "Dissolved pollutants seep into aquifers."
+  },
+  {
+   "q": "In sewage treatment, the secondary stage relies on",
+   "options": [
+    "screening",
+    "aerobic bacteria",
+    "chlorination",
+    "sedimentation"
+   ],
+   "answer": "1",
+   "solution": "Microbes oxidise dissolved organic matter, lowering BOD."
+  },
+  {
+   "q": "Biogas from anaerobic digestion is mainly",
+   "options": [
+    "carbon dioxide",
+    "methane",
+    "hydrogen",
+    "ammonia"
+   ],
+   "answer": "1",
+   "solution": "It is roughly 60 percent methane."
+  },
+  {
+   "q": "Photochemical smog is formed from NOx and hydrocarbons in the presence of",
+   "options": [
+    "rain",
+    "sunlight",
+    "fog only",
+    "cold air"
+   ],
+   "answer": "1",
+   "solution": "Ultraviolet light drives the reactions producing ozone and PAN."
+  },
+  {
+   "q": "Atom economy measures",
+   "options": [
+    "the yield of a reaction",
+    "the proportion of reactant mass ending in the desired product",
+    "the purity",
+    "the rate"
+   ],
+   "answer": "1",
+   "solution": "It rewards reactions with little by-product waste."
+  },
+  {
+   "q": "For CaCO3 giving CaO and CO2, the atom economy for quicklime is",
+   "options": [
+    "44%",
+    "56%",
+    "100%",
+    "78%"
+   ],
+   "answer": "1",
+   "solution": "56/100 x 100 = 56 percent."
+  },
+  {
+   "q": "0.5 mg of lead in 2 dm3 of water is",
+   "options": [
+    "0.10 ppm",
+    "0.25 ppm",
+    "0.50 ppm",
+    "1.00 ppm"
+   ],
+   "answer": "1",
+   "solution": "0.5/2 = 0.25 mg per dm3 = 0.25 ppm."
+  },
+  {
+   "q": "Burning 1 tonne of oil containing 2% sulphur releases how much SO2? (S=32, O=16)",
+   "options": [
+    "20 kg",
+    "32 kg",
+    "40 kg",
+    "64 kg"
+   ],
+   "answer": "2",
+   "solution": "20 kg S gives 20 x 64/32 = 40 kg SO2."
+  },
+  {
+   "q": "Burning 1.6 kg of methane gives what volume of CO2 at s.t.p.?",
+   "options": [
+    "224 dm3",
+    "1120 dm3",
+    "2240 dm3",
+    "22400 dm3"
+   ],
+   "answer": "2",
+   "solution": "100 mol x 22.4 dm3 = 2240 dm3."
+  },
+  {
+   "q": "Which is a renewable energy source?",
+   "options": [
+    "Coal",
+    "Natural gas",
+    "Solar",
+    "Petroleum"
+   ],
+   "answer": "2",
+   "solution": "Solar energy is not depleted by use."
+  },
+  {
+   "q": "DDT is an environmental problem because it is",
+   "options": [
+    "volatile",
+    "persistent and accumulates in food chains",
+    "water soluble",
+    "acidic"
+   ],
+   "answer": "1",
+   "solution": "Non-biodegradable pesticides accumulate in fatty tissue."
+  },
+  {
+   "q": "The agency that enforces environmental standards in Nigeria is",
+   "options": [
+    "NESREA",
+    "NAFDAC",
+    "SON",
+    "NNPC"
+   ],
+   "answer": "0",
+   "solution": "NESREA is the national environmental regulator."
+  },
+  {
+   "q": "The Basel Convention deals with",
+   "options": [
+    "ozone depletion",
+    "transboundary movement of hazardous waste",
+    "greenhouse gases",
+    "marine oil spills"
+   ],
+   "answer": "1",
+   "solution": "It regulates international shipment of hazardous waste."
+  },
+  {
+   "q": "Radioactive waste is best managed by",
+   "options": [
+    "open dumping",
+    "vitrification and deep geological storage",
+    "incineration",
+    "discharge into rivers"
+   ],
+   "answer": "1",
+   "solution": "The waste is fused into glass and buried in stable rock."
+  },
+  {
+   "q": "Composting is most suitable for",
+   "options": [
+    "plastics",
+    "metals",
+    "biodegradable kitchen and garden waste",
+    "glass"
+   ],
+   "answer": "2",
+   "solution": "Microbes convert organic waste into manure."
+  },
+  {
+   "q": "Which practice reduces eutrophication in farmland run-off?",
+   "options": [
+    "Heavier fertiliser use",
+    "Controlled fertiliser application and buffer strips",
+    "Burning crop residues",
+    "Deep ploughing only"
+   ],
+   "answer": "1",
+   "solution": "Less nutrient reaches the water body."
+  },
+  {
+   "q": "A good answer on pollution should state the source, an equation where possible, the effect and",
+   "options": [
+    "the price of the chemical",
+    "a named control measure",
+    "the discoverer",
+    "the colour"
+   ],
+   "answer": "1",
+   "solution": "Marks are given for a specific remedy."
+  }
+ ]
+}

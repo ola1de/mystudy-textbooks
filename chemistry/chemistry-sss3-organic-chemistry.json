@@ -1,0 +1,606 @@
+{
+ "subject": "Chemistry",
+ "level": "SSS 3",
+ "slug": "organic-chemistry",
+ "title": "Organic Chemistry",
+ "outline": [
+  "Scope of organic chemistry, catenation and homologous series",
+  "Functional groups and general formulae",
+  "IUPAC nomenclature step by step",
+  "Chain, position and functional-group isomerism",
+  "Petroleum refining, cracking and reforming",
+  "Alkanes: properties, substitution and combustion",
+  "Alkenes: addition reactions, tests and polymerisation",
+  "Alkynes: preparation, structure and uses",
+  "Alkanols: classification, oxidation and reactions",
+  "Alkanoic acids and esterification",
+  "Saponification, soaps, detergents and hard water",
+  "Polymers, formula determination and combustion calculations"
+ ],
+ "modules": [
+  {
+   "title": "11.1 Foundations: Homologous Series, Nomenclature and Isomerism",
+   "html": "\n<p><b>Organic chemistry</b> is the chemistry of carbon compounds, excluding the oxides of carbon, trioxocarbonates, hydrogentrioxocarbonates, cyanides and carbides. Carbon's ability to <b>catenate</b> (bond to itself indefinitely) plus its tetravalency give rise to millions of compounds.</p>\n\n<h4>Key definitions</h4>\n<ul>\n<li><b>Homologous series:</b> a family of compounds with the same general formula, similar chemical properties, and successive members differing by \\(CH_2\\) (relative molecular mass 14), with a gradual change in physical properties.</li>\n<li><b>Functional group:</b> the atom or group of atoms that determines the chemical properties of the series.</li>\n<li><b>Saturated compound:</b> contains only single carbon-carbon bonds; <b>unsaturated</b> contains a double or triple bond.</li>\n<li><b>Isomerism:</b> compounds with the same molecular formula but different structural formulae &mdash; chain, position and functional-group isomerism.</li>\n</ul>\n\n<h4>The main homologous series</h4>\n<table><tr><th>Series</th><th>General formula</th><th>Functional group</th><th>Suffix</th></tr>\n<tr><td>Alkanes</td><td>\\(C_nH_{2n+2}\\)</td><td>C&ndash;C only</td><td>-ane</td></tr>\n<tr><td>Alkenes</td><td>\\(C_nH_{2n}\\)</td><td>C=C</td><td>-ene</td></tr>\n<tr><td>Alkynes</td><td>\\(C_nH_{2n-2}\\)</td><td>C&equiv;C</td><td>-yne</td></tr>\n<tr><td>Alkanols</td><td>\\(C_nH_{2n+1}OH\\)</td><td>&ndash;OH</td><td>-anol</td></tr>\n<tr><td>Alkanals</td><td>\\(C_nH_{2n}O\\)</td><td>&ndash;CHO</td><td>-anal</td></tr>\n<tr><td>Alkanones</td><td>\\(C_nH_{2n}O\\)</td><td>&gt;C=O</td><td>-anone</td></tr>\n<tr><td>Alkanoic acids</td><td>\\(C_nH_{2n+1}COOH\\)</td><td>&ndash;COOH</td><td>-anoic acid</td></tr>\n<tr><td>Alkanoates (esters)</td><td>\\(RCOOR'\\)</td><td>&ndash;COO&ndash;</td><td>-yl -anoate</td></tr>\n</table>\n\n<h4>IUPAC nomenclature in four steps</h4>\n<ol>\n<li>Find the <b>longest continuous carbon chain</b> containing the functional group; that gives the stem (meth-, eth-, prop-, but-, pent-, hex-, hept-, oct-, non-, dec-).</li>\n<li><b>Number</b> the chain from the end that gives the functional group (or, failing that, the first substituent) the lowest number.</li>\n<li>Name and number the <b>substituents</b> alphabetically, using di-, tri-, tetra- for repeats.</li>\n<li>Combine: substituents + stem + suffix, e.g. \\(CH_3CH(CH_3)CH_2CH_3\\) is <b>2-methylbutane</b>, and \\(CH_3CH(OH)CH_2CH_3\\) is <b>butan-2-ol</b>.</li>\n</ol>\n\n<h4>Isomerism worked out</h4>\n<p>\\(C_4H_{10}\\) has two isomers: butane (\\(CH_3CH_2CH_2CH_3\\)) and 2-methylpropane. \\(C_5H_{12}\\) has three. \\(C_4H_8\\) as an alkene gives but-1-ene, but-2-ene and 2-methylpropene (chain and position isomerism), plus cyclobutane as a functional isomer. \\(C_2H_6O\\) illustrates <b>functional-group isomerism</b>: ethanol (\\(CH_3CH_2OH\\), boiling point \\(78^{\\circ}C\\)) and methoxymethane (\\(CH_3OCH_3\\), boiling point \\(-24^{\\circ}C\\)); the huge difference is due to hydrogen bonding in the alcohol.</p>\n\n<h4>Sources of organic compounds</h4>\n<p>Petroleum (crude oil) is separated by <b>fractional distillation</b> into refinery gas, petrol, kerosene, diesel, lubricating oil and bitumen, in order of increasing boiling point and chain length. <b>Cracking</b> breaks long-chain alkanes into short-chain alkanes and alkenes for petrol and plastics; <b>reforming</b> converts straight chains into branched or cyclic ones to raise the octane number.</p>\n",
+   "examples": [
+    "Name CH3CH2CH(CH3)CH2OH using IUPAC rules.",
+    "Draw and name the three isomers of C5H12."
+   ]
+  },
+  {
+   "title": "11.2 Hydrocarbons: Alkanes, Alkenes and Alkynes",
+   "html": "\n<h4>Alkanes &mdash; the paraffins, \\(C_nH_{2n+2}\\)</h4>\n<p>Alkanes are saturated, tetrahedral (\\(109.5^{\\circ}\\)), non-polar and relatively unreactive (\"paraffin\" = little affinity). Physical trend: \\(C_1\\)&ndash;\\(C_4\\) gases, \\(C_5\\)&ndash;\\(C_{17}\\) liquids, above that solids; boiling point rises with chain length because van der Waals forces increase, and branching lowers boiling point by reducing contact area.</p>\n<ul>\n<li><b>Combustion:</b> complete, \\(CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O\\); incomplete gives \\(CO\\) or soot.</li>\n<li><b>Substitution</b> with halogens in ultraviolet light (free-radical mechanism): \\(CH_4 + Cl_2 \\xrightarrow{uv} CH_3Cl + HCl\\), continuing to \\(CCl_4\\).</li>\n<li><b>Cracking:</b> \\(C_{10}H_{22} \\rightarrow C_8H_{18} + C_2H_4\\).</li>\n<li>They do <b>not</b> react with acids, alkalis, \\(KMnO_4\\) or bromine water in the dark &mdash; the classic contrast with alkenes.</li>\n<li><b>Laboratory preparation</b> of methane: soda lime plus sodium ethanoate, \\(CH_3COONa + NaOH \\rightarrow CH_4 + Na_2CO_3\\).</li>\n</ul>\n\n<h4>Alkenes &mdash; the olefins, \\(C_nH_{2n}\\)</h4>\n<p>The \\(C=C\\) group is planar with \\(120^{\\circ}\\) bond angles and contains a weak <b>pi bond</b> that is the site of attack. Preparation: dehydration of ethanol with concentrated \\(H_2SO_4\\) at \\(170^{\\circ}C\\), or cracking of alkanes.</p>\n<ul>\n<li><b>Addition of hydrogen</b> (Ni, \\(180^{\\circ}C\\)): \\(C_2H_4 + H_2 \\rightarrow C_2H_6\\) &mdash; the basis of margarine manufacture.</li>\n<li><b>Addition of bromine:</b> red-brown bromine water is <b>decolourised</b> &mdash; the standard test for unsaturation.</li>\n<li><b>Addition of water</b> (steam, \\(H_3PO_4\\), 300&deg;C, 60 atm) gives ethanol industrially.</li>\n<li><b>Oxidation</b> by cold dilute \\(KMnO_4\\) gives a diol and decolourises the purple solution (Baeyer's test).</li>\n<li><b>Polymerisation:</b> \\(n(CH_2{=}CH_2) \\rightarrow (-CH_2-CH_2-)_n\\), polyethene; similarly propene gives polypropene and chloroethene gives PVC.</li>\n</ul>\n\n<h4>Alkynes, \\(C_nH_{2n-2}\\)</h4>\n<p>Ethyne is prepared from calcium dicarbide and water: \\(CaC_2 + 2H_2O \\rightarrow C_2H_2 + Ca(OH)_2\\). It is linear (\\(180^{\\circ}\\)), burns with a very hot sooty flame (oxy-acetylene welding at about \\(3000^{\\circ}C\\)), undergoes addition like alkenes but requires two moles of reagent, and its terminal hydrogen is weakly acidic, giving a red precipitate with ammoniacal copper(I) chloride.</p>\n\n<h4>Distinguishing the three</h4>\n<table><tr><th>Test</th><th>Alkane</th><th>Alkene</th><th>Alkyne</th></tr>\n<tr><td>Bromine water</td><td>No change (dark)</td><td>Decolourised</td><td>Decolourised</td></tr>\n<tr><td>Cold dilute \\(KMnO_4\\)</td><td>No change</td><td>Decolourised</td><td>Decolourised</td></tr>\n<tr><td>Ammoniacal \\(CuCl\\)</td><td>No change</td><td>No change</td><td>Red precipitate</td></tr>\n<tr><td>Flame</td><td>Fairly clean</td><td>Luminous, some soot</td><td>Very sooty</td></tr>\n</table>\n",
+   "examples": [
+    "Describe a chemical test to distinguish ethane from ethene.",
+    "Write the equation for the polymerisation of chloroethene."
+   ]
+  },
+  {
+   "title": "11.3 Alkanols, Alkanoic Acids, Esters, Soaps and Polymers",
+   "html": "\n<h4>Alkanols (alcohols), \\(R{-}OH\\)</h4>\n<p>Classified as <b>primary</b> (\\(RCH_2OH\\)), <b>secondary</b> (\\(R_2CHOH\\)) and <b>tertiary</b> (\\(R_3COH\\)). Hydrogen bonding gives them much higher boiling points and far greater water solubility than alkanes of similar mass.</p>\n<ul>\n<li><b>Preparation:</b> fermentation of glucose with zymase from yeast, \\(C_6H_{12}O_6 \\rightarrow 2C_2H_5OH + 2CO_2\\) (25&ndash;37&deg;C, anaerobic), or hydration of ethene industrially.</li>\n<li><b>With sodium:</b> \\(2C_2H_5OH + 2Na \\rightarrow 2C_2H_5ONa + H_2\\) &mdash; effervescence but no reaction with \\(NaOH\\), showing alcohols are neutral, not acidic.</li>\n<li><b>Oxidation</b> with acidified \\(K_2Cr_2O_7\\): primary &rarr; alkanal &rarr; alkanoic acid (orange turns green); secondary &rarr; alkanone; tertiary &rarr; no oxidation. This is the standard way to classify an unknown alcohol.</li>\n<li><b>Dehydration:</b> concentrated \\(H_2SO_4\\) at 170&deg;C gives the alkene; at 140&deg;C it gives the ether.</li>\n<li><b>Esterification:</b> alcohol + acid, acid catalyst, gives a sweet-smelling ester and water.</li>\n<li><b>Iodoform (triiodomethane) test:</b> ethanol and other \\(CH_3CH(OH)-\\) compounds give a yellow precipitate with iodine and \\(NaOH\\).</li>\n</ul>\n\n<h4>Alkanoic acids, \\(R{-}COOH\\)</h4>\n<p>These are weak acids that nevertheless show all the typical acid reactions: they turn litmus red, liberate \\(CO_2\\) from trioxocarbonates (a test that distinguishes them from alcohols and phenols), give hydrogen with reactive metals and form salts with alkalis. Examples: methanoic acid (ant stings), ethanoic acid (vinegar), and the long-chain <b>fatty acids</b> palmitic, stearic and oleic acid found in oils and fats.</p>\n\n<h4>Esters (alkyl alkanoates)</h4>\n<p><b>Esterification</b> is reversible and acid-catalysed:</p>\n<p>\\(CH_3COOH + C_2H_5OH \\underset{}{\\overset{conc. H_2SO_4}{\\rightleftharpoons}} CH_3COOC_2H_5 + H_2O\\) &mdash; ethyl ethanoate, smelling of nail-polish remover.</p>\n<p>Esters are neutral, sweet-smelling liquids used as flavourings, perfumes and solvents. <b>Hydrolysis</b> with dilute acid reverses the reaction; with alkali it goes to completion and is called <b>saponification</b>.</p>\n\n<h4>Soaps and detergents</h4>\n<p>Soap is made by boiling animal fat or vegetable oil (an ester of propane-1,2,3-triol) with concentrated \\(NaOH\\):</p>\n<p>fat + \\(3NaOH \\rightarrow\\) 3 sodium alkanoate (soap) + glycerol.</p>\n<p>Common salt is then added to <b>salt out</b> the soap. A soap molecule has a long <b>hydrophobic hydrocarbon tail</b> and an ionic <b>hydrophilic head</b>; the tail dissolves in grease while the head stays in water, so the grease is lifted off and held in an emulsion. Soap fails in hard water because \\(Ca^{2+}\\) and \\(Mg^{2+}\\) precipitate insoluble scum. <b>Detergents</b> (alkylbenzenesulphonates) work in hard water because their calcium salts are soluble, but branched-chain detergents are non-biodegradable and cause foaming in rivers, while their phosphate builders cause <b>eutrophication</b>.</p>\n\n<h4>Macromolecules</h4>\n<p><b>Addition polymers</b>: polyethene, polypropene, PVC, polystyrene, PTFE &mdash; from unsaturated monomers, no by-product. <b>Condensation polymers</b>: nylon, terylene, proteins, starch and cellulose &mdash; a small molecule such as water is eliminated at each link.</p>\n",
+   "examples": [
+    "Explain how you would classify an unknown alcohol as primary, secondary or tertiary.",
+    "Describe the manufacture of soap from palm oil and state the role of common salt."
+   ]
+  },
+  {
+   "title": "11.4 Calculations, Reaction Maps and Practical Observations",
+   "html": "\n<p>Organic questions in WAEC/NECO reward accurate structures, correct reagents and clean calculations. Use the routines below.</p>\n\n<h4>Determining a formula from combustion data</h4>\n<p><i>Example: An organic compound contains 40% C, 6.7% H and 53.3% O by mass, and its relative molecular mass is 60. Find its molecular formula. (\\(C=12, H=1, O=16\\)).</i></p>\n<table><tr><th></th><th>C</th><th>H</th><th>O</th></tr>\n<tr><td>Mass %</td><td>40</td><td>6.7</td><td>53.3</td></tr>\n<tr><td>&divide; atomic mass</td><td>3.33</td><td>6.7</td><td>3.33</td></tr>\n<tr><td>&divide; smallest</td><td>1</td><td>2</td><td>1</td></tr></table>\n<p>Empirical formula \\(CH_2O\\) (mass 30). \\(60/30 = 2\\), so the molecular formula is \\(\\mathbf{C_2H_4O_2}\\) &mdash; ethanoic acid.</p>\n\n<h4>Volume of oxygen for combustion</h4>\n<p><i>Example: What volume of oxygen at s.t.p. is needed to burn \\(5\\ dm^3\\) of ethane completely?</i></p>\n<p>\\(2C_2H_6 + 7O_2 \\rightarrow 4CO_2 + 6H_2O\\). By Gay-Lussac's law, volumes are in the mole ratio: \\(V(O_2) = 5 \\times 7/2 = \\mathbf{17.5\\ dm^3}\\), and \\(V(CO_2) = 5\\times2 = 10\\ dm^3\\).</p>\n\n<h4>Reaction map to memorise</h4>\n<pre>alkane --(uv, Cl2)--&gt; halogenoalkane --(aq NaOH)--&gt; alkanol\nalkene --(H2/Ni)--&gt; alkane        alkene --(H2O, H3PO4)--&gt; alkanol\nalkanol --(K2Cr2O7/H+)--&gt; alkanal --(further ox.)--&gt; alkanoic acid\nalkanoic acid + alkanol --(conc H2SO4)--&gt; ester + water\nester + NaOH --&gt; soap + alkanol/glycerol (saponification)\nalkanol --(conc H2SO4, 170 C)--&gt; alkene --(polymerisation)--&gt; plastic</pre>\n\n<h4>Key laboratory observations</h4>\n<ul>\n<li>Bromine water decolourised &rarr; unsaturation (alkene or alkyne).</li>\n<li>Effervescence with \\(Na_2CO_3\\) &rarr; carboxylic acid (alcohols give none).</li>\n<li>Effervescence with sodium metal only &rarr; alcohol.</li>\n<li>Orange dichromate turning green on warming &rarr; primary or secondary alcohol.</li>\n<li>Sweet fruity smell after warming acid + alcohol + \\(H_2SO_4\\) &rarr; ester formed.</li>\n<li>Yellow precipitate with \\(I_2/NaOH\\) &rarr; ethanol, or a methyl ketone.</li>\n</ul>\n\n<h4>Uses and everyday relevance in Nigeria</h4>\n<p>Ethanol from cassava and sugar-cane fermentation is blended with petrol as a biofuel; palm oil and shea butter are the local raw materials for soap-making; polyethene \"pure water\" sachets and PVC pipes are addition polymers whose non-biodegradability creates the plastic-waste problem now tackled by recycling and bans on single-use bags. Natural gas from the Niger Delta is largely methane, used for cooking (LPG) and in fertiliser and methanol plants at Eleme and Escravos.</p>\n\n<h4>Marking-scheme discipline</h4>\n<ol>\n<li>Draw <b>displayed</b> structures when asked for structural formulae &mdash; show every bond.</li>\n<li>State reagent <b>and</b> condition (catalyst, temperature) &mdash; each is a separate mark.</li>\n<li>Balance organic equations by carbon, then hydrogen, then oxygen last.</li>\n<li>Do not write \"alcohol\" when the question asks for a name: write \"ethanol\".</li>\n</ol>\n",
+   "examples": [
+    "Determine the molecular formula of a compound with 52.2% C, 13.0% H, 34.8% O and M = 46.",
+    "Give the reagents and conditions for converting ethene to ethyl ethanoate in three steps."
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Organic chemistry is the study of",
+   "options": [
+    "all carbon compounds without exception",
+    "carbon compounds except oxides, trioxocarbonates and carbides",
+    "compounds of hydrogen",
+    "living things only"
+   ],
+   "answer": "1",
+   "solution": "The simple carbon compounds are treated as inorganic."
+  },
+  {
+   "q": "The ability of carbon atoms to bond to one another indefinitely is called",
+   "options": [
+    "isomerism",
+    "catenation",
+    "polymerisation",
+    "allotropy"
+   ],
+   "answer": "1",
+   "solution": "Catenation gives rise to the vast number of organic compounds."
+  },
+  {
+   "q": "Successive members of a homologous series differ by",
+   "options": [
+    "CH",
+    "CH2",
+    "CH3",
+    "C2H4"
+   ],
+   "answer": "1",
+   "solution": "The difference is CH2, or 14 mass units."
+  },
+  {
+   "q": "The general formula of alkanes is",
+   "options": [
+    "CnH2n",
+    "CnH2n+2",
+    "CnH2n-2",
+    "CnH2nO"
+   ],
+   "answer": "1",
+   "solution": "Saturated hydrocarbons have 2n+2 hydrogen atoms."
+  },
+  {
+   "q": "The general formula of alkenes is",
+   "options": [
+    "CnH2n+2",
+    "CnH2n",
+    "CnH2n-2",
+    "CnH2n+1OH"
+   ],
+   "answer": "1",
+   "solution": "One double bond removes two hydrogen atoms."
+  },
+  {
+   "q": "The functional group of alkanoic acids is",
+   "options": [
+    "-OH",
+    "-CHO",
+    "-COOH",
+    "-COO-"
+   ],
+   "answer": "2",
+   "solution": "The carboxyl group defines the acid series."
+  },
+  {
+   "q": "The IUPAC name of CH3CH(CH3)CH2CH3 is",
+   "options": [
+    "pentane",
+    "2-methylbutane",
+    "3-methylbutane",
+    "2-methylpropane"
+   ],
+   "answer": "1",
+   "solution": "The longest chain has four carbons with a methyl on carbon 2."
+  },
+  {
+   "q": "The number of structural isomers of C4H10 is",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": "1",
+   "solution": "Butane and 2-methylpropane."
+  },
+  {
+   "q": "Ethanol and methoxymethane are examples of",
+   "options": [
+    "chain isomers",
+    "position isomers",
+    "functional group isomers",
+    "optical isomers"
+   ],
+   "answer": "2",
+   "solution": "Same molecular formula C2H6O but different functional groups."
+  },
+  {
+   "q": "Ethanol boils much higher than methoxymethane because of",
+   "options": [
+    "van der Waals forces",
+    "hydrogen bonding",
+    "ionic bonding",
+    "covalent bonding"
+   ],
+   "answer": "1",
+   "solution": "The O-H group allows intermolecular hydrogen bonds."
+  },
+  {
+   "q": "Crude oil is separated into fractions by",
+   "options": [
+    "filtration",
+    "fractional distillation",
+    "cracking",
+    "crystallisation"
+   ],
+   "answer": "1",
+   "solution": "The fractions differ in boiling range."
+  },
+  {
+   "q": "Cracking of alkanes produces",
+   "options": [
+    "only alkanes",
+    "shorter alkanes and alkenes",
+    "only hydrogen",
+    "alcohols"
+   ],
+   "answer": "1",
+   "solution": "Long chains break to give useful short chains and alkenes."
+  },
+  {
+   "q": "Alkanes are described as paraffins because they are",
+   "options": [
+    "very reactive",
+    "relatively unreactive",
+    "acidic",
+    "unsaturated"
+   ],
+   "answer": "1",
+   "solution": "Paraffin means little affinity."
+  },
+  {
+   "q": "The reaction of methane with chlorine in ultraviolet light is",
+   "options": [
+    "addition",
+    "substitution",
+    "elimination",
+    "polymerisation"
+   ],
+   "answer": "1",
+   "solution": "A hydrogen atom is replaced by chlorine in a free-radical chain."
+  },
+  {
+   "q": "Methane is prepared in the laboratory by heating sodium ethanoate with",
+   "options": [
+    "concentrated H2SO4",
+    "soda lime",
+    "water",
+    "calcium carbide"
+   ],
+   "answer": "1",
+   "solution": "Decarboxylation with soda lime gives methane."
+  },
+  {
+   "q": "The bond angle in ethene is about",
+   "options": [
+    "109.5 degrees",
+    "120 degrees",
+    "180 degrees",
+    "90 degrees"
+   ],
+   "answer": "1",
+   "solution": "The trigonal planar sp2 carbon gives 120 degrees."
+  },
+  {
+   "q": "The test for unsaturation is decolourisation of",
+   "options": [
+    "lime water",
+    "bromine water",
+    "silver trioxonitrate(V)",
+    "sodium hydroxide"
+   ],
+   "answer": "1",
+   "solution": "Bromine adds across the double bond, losing its colour."
+  },
+  {
+   "q": "Ethene reacts with hydrogen over nickel to give",
+   "options": [
+    "ethane",
+    "ethyne",
+    "ethanol",
+    "ethanal"
+   ],
+   "answer": "0",
+   "solution": "Catalytic hydrogenation gives the saturated alkane."
+  },
+  {
+   "q": "Hardening of vegetable oil into margarine involves",
+   "options": [
+    "oxidation",
+    "hydrogenation",
+    "hydrolysis",
+    "polymerisation"
+   ],
+   "answer": "1",
+   "solution": "Hydrogen adds to the C=C bonds of the unsaturated oil."
+  },
+  {
+   "q": "Polymerisation of ethene gives",
+   "options": [
+    "polystyrene",
+    "polyethene",
+    "PVC",
+    "nylon"
+   ],
+   "answer": "1",
+   "solution": "Ethene is the monomer of polyethene."
+  },
+  {
+   "q": "Ethyne is prepared from",
+   "options": [
+    "calcium carbide and water",
+    "ethanol and acid",
+    "methane and steam",
+    "calcium carbonate and acid"
+   ],
+   "answer": "0",
+   "solution": "CaC2 + 2H2O gives C2H2 and Ca(OH)2."
+  },
+  {
+   "q": "The bond angle in ethyne is",
+   "options": [
+    "120 degrees",
+    "180 degrees",
+    "109.5 degrees",
+    "90 degrees"
+   ],
+   "answer": "1",
+   "solution": "The triple bond makes the molecule linear."
+  },
+  {
+   "q": "The oxy-acetylene flame is used for welding because it",
+   "options": [
+    "is cheap",
+    "produces a very high temperature",
+    "is smokeless",
+    "is cool"
+   ],
+   "answer": "1",
+   "solution": "It reaches about 3000 degrees Celsius."
+  },
+  {
+   "q": "Ethyne gives a red precipitate with",
+   "options": [
+    "bromine water",
+    "ammoniacal copper(I) chloride",
+    "lime water",
+    "sodium hydroxide"
+   ],
+   "answer": "1",
+   "solution": "Terminal alkynes have a weakly acidic hydrogen."
+  },
+  {
+   "q": "A secondary alkanol on oxidation gives",
+   "options": [
+    "an alkanoic acid",
+    "an alkanone",
+    "an alkanal",
+    "no product"
+   ],
+   "answer": "1",
+   "solution": "Only primary alcohols oxidise all the way to acids."
+  },
+  {
+   "q": "Tertiary alkanols",
+   "options": [
+    "oxidise to acids",
+    "are not easily oxidised",
+    "oxidise to ketones",
+    "decompose"
+   ],
+   "answer": "1",
+   "solution": "There is no hydrogen on the carbon bearing the OH group."
+  },
+  {
+   "q": "The conversion of glucose to ethanol by yeast is",
+   "options": [
+    "hydrolysis",
+    "fermentation",
+    "saponification",
+    "esterification"
+   ],
+   "answer": "1",
+   "solution": "The enzyme zymase catalyses anaerobic fermentation."
+  },
+  {
+   "q": "Ethanol reacts with sodium to give",
+   "options": [
+    "oxygen",
+    "hydrogen",
+    "carbon dioxide",
+    "no gas"
+   ],
+   "answer": "1",
+   "solution": "Sodium ethanoxide and hydrogen are formed."
+  },
+  {
+   "q": "Dehydration of ethanol with concentrated H2SO4 at 170 C gives",
+   "options": [
+    "ethane",
+    "ethene",
+    "ethanal",
+    "ethoxyethane"
+   ],
+   "answer": "1",
+   "solution": "Elimination of water gives the alkene."
+  },
+  {
+   "q": "Which reagent distinguishes ethanoic acid from ethanol?",
+   "options": [
+    "Sodium metal",
+    "Sodium trioxocarbonate(IV)",
+    "Bromine water",
+    "Litmus in ethanol"
+   ],
+   "answer": "1",
+   "solution": "Only the acid gives carbon dioxide with a carbonate."
+  },
+  {
+   "q": "The reaction of an alkanol with an alkanoic acid is called",
+   "options": [
+    "saponification",
+    "esterification",
+    "hydrolysis",
+    "neutralisation"
+   ],
+   "answer": "1",
+   "solution": "An ester and water are formed reversibly."
+  },
+  {
+   "q": "The catalyst used in esterification is",
+   "options": [
+    "dilute H2SO4",
+    "concentrated H2SO4",
+    "NaOH",
+    "nickel"
+   ],
+   "answer": "1",
+   "solution": "Concentrated acid catalyses and removes water."
+  },
+  {
+   "q": "Esters are noted for their",
+   "options": [
+    "pungent smell",
+    "sweet fruity smell",
+    "sour taste",
+    "alkalinity"
+   ],
+   "answer": "1",
+   "solution": "They are used as flavourings and perfumes."
+  },
+  {
+   "q": "The alkaline hydrolysis of an ester is called",
+   "options": [
+    "esterification",
+    "saponification",
+    "fermentation",
+    "cracking"
+   ],
+   "answer": "1",
+   "solution": "It produces soap when the ester is a fat."
+  },
+  {
+   "q": "Soap is the sodium or potassium salt of",
+   "options": [
+    "an alkanol",
+    "a long-chain alkanoic acid",
+    "an ester",
+    "a ketone"
+   ],
+   "answer": "1",
+   "solution": "Fatty acid salts are soaps."
+  },
+  {
+   "q": "The by-product of soap manufacture from fat is",
+   "options": [
+    "ethanol",
+    "glycerol",
+    "water only",
+    "methanol"
+   ],
+   "answer": "1",
+   "solution": "Propane-1,2,3-triol, glycerol, is released."
+  },
+  {
+   "q": "Common salt is added during soap making to",
+   "options": [
+    "neutralise the alkali",
+    "salt out the soap",
+    "perfume the soap",
+    "harden the fat"
+   ],
+   "answer": "1",
+   "solution": "Soap is less soluble in concentrated brine and separates."
+  },
+  {
+   "q": "The hydrocarbon end of a soap molecule is",
+   "options": [
+    "hydrophilic",
+    "hydrophobic",
+    "ionic",
+    "polar"
+   ],
+   "answer": "1",
+   "solution": "It dissolves in grease, while the ionic head stays in water."
+  },
+  {
+   "q": "Soap forms scum in hard water because of",
+   "options": [
+    "sodium ions",
+    "calcium and magnesium ions",
+    "chloride ions",
+    "dissolved gases"
+   ],
+   "answer": "1",
+   "solution": "Insoluble calcium and magnesium salts of the fatty acid precipitate."
+  },
+  {
+   "q": "Detergents lather in hard water because their calcium salts are",
+   "options": [
+    "insoluble",
+    "soluble",
+    "volatile",
+    "coloured"
+   ],
+   "answer": "1",
+   "solution": "No scum forms with alkylbenzenesulphonates."
+  },
+  {
+   "q": "A disadvantage of some detergents is that they",
+   "options": [
+    "are expensive",
+    "are non-biodegradable and foam rivers",
+    "do not clean",
+    "are acidic"
+   ],
+   "answer": "1",
+   "solution": "Branched chains resist bacterial breakdown."
+  },
+  {
+   "q": "Which is a condensation polymer?",
+   "options": [
+    "Polyethene",
+    "PVC",
+    "Nylon",
+    "Polystyrene"
+   ],
+   "answer": "2",
+   "solution": "Nylon eliminates a small molecule at each linkage."
+  },
+  {
+   "q": "Which is an addition polymer?",
+   "options": [
+    "Terylene",
+    "Starch",
+    "Protein",
+    "Polypropene"
+   ],
+   "answer": "3",
+   "solution": "Propene monomers add without losing atoms."
+  },
+  {
+   "q": "A compound with 40% C, 6.7% H and 53.3% O and M = 60 has the molecular formula",
+   "options": [
+    "CH2O",
+    "C2H4O2",
+    "C3H6O3",
+    "C2H6O"
+   ],
+   "answer": "1",
+   "solution": "Empirical CH2O has mass 30; 60/30 = 2."
+  },
+  {
+   "q": "What volume of oxygen at s.t.p. burns 5 dm3 of ethane completely?",
+   "options": [
+    "10 dm3",
+    "12.5 dm3",
+    "17.5 dm3",
+    "35 dm3"
+   ],
+   "answer": "2",
+   "solution": "2C2H6 + 7O2, so 5 x 7/2 = 17.5 dm3."
+  },
+  {
+   "q": "How many carbon dioxide molecules are formed per molecule of propane burnt?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": "2",
+   "solution": "C3H8 + 5O2 gives 3CO2 + 4H2O."
+  },
+  {
+   "q": "Which alcohol gives a yellow precipitate with iodine and sodium hydroxide?",
+   "options": [
+    "Methanol",
+    "Ethanol",
+    "Propan-1-ol",
+    "Butan-1-ol"
+   ],
+   "answer": "1",
+   "solution": "The iodoform test is positive for CH3CH(OH) groups."
+  },
+  {
+   "q": "Vinegar contains",
+   "options": [
+    "methanoic acid",
+    "ethanoic acid",
+    "propanoic acid",
+    "butanoic acid"
+   ],
+   "answer": "1",
+   "solution": "Vinegar is a dilute solution of ethanoic acid."
+  },
+  {
+   "q": "The main component of natural gas is",
+   "options": [
+    "ethane",
+    "methane",
+    "propane",
+    "butane"
+   ],
+   "answer": "1",
+   "solution": "Methane makes up most of natural gas."
+  },
+  {
+   "q": "PVC is made from the monomer",
+   "options": [
+    "ethene",
+    "propene",
+    "chloroethene",
+    "styrene"
+   ],
+   "answer": "2",
+   "solution": "Chloroethene, vinyl chloride, polymerises to PVC."
+  }
+ ]
+}

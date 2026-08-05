@@ -1,0 +1,606 @@
+{
+ "subject": "Chemistry",
+ "level": "SSS 2",
+ "slug": "non-metals-part-1",
+ "title": "Non-Metals and their Compounds I",
+ "outline": [
+  "General physical and chemical properties of non-metals",
+  "Acidic, neutral and amphoteric oxides",
+  "Occurrence and industrial sources of common non-metals",
+  "Carbon: catenation and allotropy",
+  "Diamond, graphite and amorphous carbon: structure, properties, uses",
+  "Fullerenes, nanotubes and graphene",
+  "Chemical reactions of carbon; water gas",
+  "Carbon(IV) oxide: preparation, properties and uses",
+  "Carbon(II) oxide: preparation, reducing action and toxicity",
+  "Trioxocarbonate(IV) salts: solubility, action of heat and acids",
+  "Tests for common gases",
+  "Mole calculations on decomposition, purity and reduction"
+ ],
+ "modules": [
+  {
+   "title": "8.1 General Properties of the Non-Metals",
+   "html": "\n<p>The <b>non-metals</b> occupy the upper right-hand block of the periodic table (together with hydrogen, which sits apart on the left). They are the elements whose atoms have <i>four or more</i> electrons in the outermost shell and therefore <b>gain</b> or <b>share</b> electrons rather than lose them. Fourteen of the 118 known elements are non-metals; six more (B, Si, Ge, As, Sb, Te) are <b>metalloids</b> with intermediate behaviour.</p>\n\n<h4>Physical properties of non-metals</h4>\n<ul>\n<li><b>State:</b> gases (\\(H_2, N_2, O_2, F_2, Cl_2\\), the noble gases), one liquid (\\(Br_2\\)) and solids (C, S, P, I, Se).</li>\n<li><b>Appearance:</b> dull, not lustrous (iodine and graphite are exceptions).</li>\n<li><b>Malleability:</b> solid non-metals are <b>brittle</b> &mdash; they shatter when struck because there is no sea of mobile electrons to allow layers to slide.</li>\n<li><b>Conductivity:</b> poor conductors of heat and electricity (graphite conducts along its layers; silicon and germanium are semiconductors).</li>\n<li><b>Density and melting point:</b> generally low, because the molecules are held by weak van der Waals forces. Giant covalent non-metals (diamond, graphite, silicon) are the striking exceptions with extremely high melting points.</li>\n<li><b>Electronegativity:</b> high &mdash; fluorine (4.0) is the most electronegative element known.</li>\n</ul>\n\n<h4>Chemical properties</h4>\n<ol>\n<li><b>With oxygen:</b> they form <b>acidic oxides</b> (or neutral oxides). \\(S + O_2 \\rightarrow SO_2\\); \\(SO_2 + H_2O \\rightarrow H_2SO_3\\). \\(CO\\), \\(NO\\) and \\(N_2O\\) are neutral oxides.</li>\n<li><b>With hydrogen:</b> they form covalent hydrides, many of which are acidic in water: \\(HCl, H_2S, HBr\\). \\(NH_3\\) is the notable basic hydride.</li>\n<li><b>With metals:</b> they form ionic salts by accepting electrons: \\(2Na + Cl_2 \\rightarrow 2NaCl\\).</li>\n<li><b>As oxidising agents:</b> the halogens and oxygen readily accept electrons, e.g. \\(Cl_2 + 2e^- \\rightarrow 2Cl^-\\).</li>\n</ol>\n\n<h4>Occurrence and extraction in outline</h4>\n<p>Nitrogen and oxygen are obtained by the <b>fractional distillation of liquefied air</b> (nitrogen boils off first at \\(-196^{\\circ}C\\), then argon at \\(-186^{\\circ}C\\), then oxygen at \\(-183^{\\circ}C\\)). Carbon occurs free as diamond, graphite and coal; sulphur occurs free in volcanic deposits and is mined by the <b>Frasch process</b>. Halogens never occur free because they are too reactive; chlorine is obtained industrially from brine by electrolysis.</p>\n\n<h4>Why the distinction matters in the examination</h4>\n<p>Whenever a question asks whether an oxide is acidic, basic or amphoteric, first classify the element. Metal oxide &rarr; basic (\\(Na_2O, CaO\\)); non-metal oxide &rarr; acidic (\\(CO_2, SO_3, P_4O_{10}\\)); a few oxides of metals near the metal/non-metal boundary (\\(Al_2O_3, ZnO, PbO\\)) are <b>amphoteric</b>; \\(CO, NO, N_2O, H_2O\\) are neutral. This single rule earns marks in almost every WAEC/NECO paper.</p>\n",
+   "examples": [
+    "Classify each oxide as acidic, basic, amphoteric or neutral: SO3, CaO, ZnO, N2O.",
+    "Explain why solid non-metals are brittle while metals are malleable."
+   ]
+  },
+  {
+   "title": "8.2 Carbon and its Allotropes",
+   "html": "\n<p>Carbon is unique: no other element forms so many compounds (over ten million) because its atoms <b>catenate</b> &mdash; they bond covalently to one another in chains, branches and rings &mdash; and it forms strong multiple bonds. Carbon exists in several <b>allotropes</b>: different forms of the same element in the same physical state.</p>\n\n<h4>Diamond</h4>\n<p>Each carbon atom is \\(sp^3\\) hybridised and bonded <b>tetrahedrally</b> to four others (bond angle \\(109.5^{\\circ}\\)) in a giant covalent lattice. Consequences:</p>\n<ul>\n<li>Hardest natural substance &mdash; used in glass cutters, drilling bits and abrasives.</li>\n<li>Very high melting point (about \\(3550^{\\circ}C\\)) &mdash; millions of strong covalent bonds must be broken.</li>\n<li><b>Non-conductor</b> of electricity &mdash; all four valence electrons are localised in bonds.</li>\n<li>High refractive index and dispersion &mdash; hence its use as a gemstone.</li>\n<li>Density about \\(3.5\\ g\\,cm^{-3}\\), higher than graphite because the packing is compact.</li>\n</ul>\n\n<h4>Graphite</h4>\n<p>Each atom is \\(sp^2\\) hybridised and bonded to only <b>three</b> others in flat hexagonal layers (bond angle \\(120^{\\circ}\\)). The fourth electron is <b>delocalised</b> between the layers, and the layers themselves are held by weak van der Waals forces. Consequences:</p>\n<ul>\n<li><b>Conducts electricity</b> &mdash; used for electrodes in electrolysis and in dry cells.</li>\n<li><b>Soft and slippery</b> &mdash; layers slide over one another; used as a lubricant and in pencil \"lead\".</li>\n<li>Lower density (\\(2.2\\ g\\,cm^{-3}\\)) than diamond because of the wide gaps between layers.</li>\n<li>Also has a very high melting point, since melting still requires covalent bonds within layers to break.</li>\n</ul>\n\n<h4>Amorphous (non-crystalline) carbon</h4>\n<p>Charcoal, coke, lampblack, animal charcoal and carbon black are microcrystalline graphite with very large surface areas. <b>Wood charcoal</b> and <b>animal charcoal</b> are used as <b>adsorbents</b> to decolourise brown sugar solution and to purify liquids; activated charcoal is used in gas masks and water filters. <b>Coke</b> is the reducing agent in the blast furnace; <b>lampblack</b> is used in printer's ink, boot polish and as a filler in tyres.</p>\n\n<h4>Newer allotropes</h4>\n<p><b>Fullerenes</b> (e.g. buckminsterfullerene, \\(C_{60}\\)) are closed cages of 60 atoms shaped like a football; <b>nanotubes</b> are rolled graphite sheets with enormous tensile strength; <b>graphene</b> is a single graphite layer.</p>\n\n<h4>Chemical properties of carbon</h4>\n<ul>\n<li>Burns in excess air: \\(C + O_2 \\rightarrow CO_2\\); in limited air: \\(2C + O_2 \\rightarrow 2CO\\).</li>\n<li>Reduces metal oxides: \\(2CuO + C \\rightarrow 2Cu + CO_2\\); \\(ZnO + C \\rightarrow Zn + CO\\).</li>\n<li>Reduces hot concentrated acids: \\(C + 4HNO_3 \\rightarrow CO_2 + 4NO_2 + 2H_2O\\); \\(C + 2H_2SO_4 \\rightarrow CO_2 + 2SO_2 + 2H_2O\\).</li>\n<li>With steam at high temperature gives <b>water gas</b>: \\(C + H_2O \\rightarrow CO + H_2\\).</li>\n</ul>\n",
+   "examples": [
+    "Compare the structure and electrical conductivity of diamond and graphite.",
+    "Write the equation for the reduction of copper(II) oxide by carbon."
+   ]
+  },
+  {
+   "title": "8.3 Oxides of Carbon and Trioxocarbonates",
+   "html": "\n<p>Carbon forms two important oxides &mdash; carbon(II) oxide (carbon monoxide) and carbon(IV) oxide (carbon dioxide). They differ sharply in preparation, properties and hazard.</p>\n\n<h4>Carbon(IV) oxide, \\(CO_2\\)</h4>\n<p><b>Laboratory preparation:</b> dilute hydrochloric acid on marble chips in a flat-bottomed flask, gas collected by <b>downward delivery</b> (upward displacement of air) because it is denser than air:</p>\n<p>\\(CaCO_3 + 2HCl \\rightarrow CaCl_2 + H_2O + CO_2\\)</p>\n<p>Dilute \\(H_2SO_4\\) is <b>not</b> used because insoluble \\(CaSO_4\\) coats the marble and stops the reaction.</p>\n<p><b>Properties:</b> colourless, odourless gas, about 1.5 times denser than air, slightly soluble in water forming weak trioxocarbonate(IV) acid \\(H_2CO_3\\); does not burn and does not support combustion (except for burning magnesium: \\(2Mg + CO_2 \\rightarrow 2MgO + C\\)). It turns lime water milky: \\(Ca(OH)_2 + CO_2 \\rightarrow CaCO_3 + H_2O\\); with excess \\(CO_2\\) the milkiness disappears as soluble \\(Ca(HCO_3)_2\\) forms.</p>\n<p><b>Uses:</b> fire extinguishers (it is dense and non-supporter of combustion), fizzy drinks, baking powder, solid \\(CO_2\\) (\"dry ice\") as a refrigerant, and as the raw material of photosynthesis.</p>\n\n<h4>Carbon(II) oxide, \\(CO\\)</h4>\n<p><b>Preparation:</b> dehydration of methanoic acid with concentrated \\(H_2SO_4\\), \\(HCOOH \\xrightarrow{conc.H_2SO_4} CO + H_2O\\); or by passing \\(CO_2\\) over red-hot coke, \\(CO_2 + C \\rightarrow 2CO\\).</p>\n<p><b>Properties:</b> colourless, odourless, <b>neutral</b> oxide, almost insoluble in water, <b>burns with a blue flame</b> (\\(2CO + O_2 \\rightarrow 2CO_2\\)) and is a powerful <b>reducing agent</b>: \\(Fe_2O_3 + 3CO \\rightarrow 2Fe + 3CO_2\\) in the blast furnace.</p>\n<p><b>Toxicity:</b> \\(CO\\) binds to haemoglobin about 250 times more strongly than oxygen, forming stable <b>carboxyhaemoglobin</b>, so the blood can no longer carry oxygen. It is produced by faulty generators, charcoal stoves and car exhausts in poorly ventilated rooms &mdash; the classic cause of \"generator deaths\".</p>\n\n<h4>Trioxocarbonate(IV) salts</h4>\n<p>These are salts of the weak acid \\(H_2CO_3\\); the normal salts contain \\(CO_3^{2-}\\) and the acid salts contain \\(HCO_3^{-}\\).</p>\n<ul>\n<li><b>Solubility:</b> only the trioxocarbonates of \\(Na^+\\), \\(K^+\\) and \\(NH_4^+\\) are soluble; all others are insoluble.</li>\n<li><b>Action of heat:</b> all trioxocarbonates except those of sodium and potassium decompose: \\(CaCO_3 \\rightarrow CaO + CO_2\\); \\(2Cu(NO_3)\\)-type patterns should not be confused &mdash; for copper, \\(CuCO_3 \\rightarrow CuO + CO_2\\) (green to black). All <b>hydrogen</b>trioxocarbonates decompose on heating, even \\(NaHCO_3\\): \\(2NaHCO_3 \\rightarrow Na_2CO_3 + H_2O + CO_2\\), the reaction that makes bread and cake rise.</li>\n<li><b>With dilute acid:</b> every trioxocarbonate effervesces, giving \\(CO_2\\): \\(Na_2CO_3 + 2HCl \\rightarrow 2NaCl + H_2O + CO_2\\). This is the standard <b>test</b> for the carbonate ion when combined with the lime-water test.</li>\n</ul>\n<p><b>Uses:</b> \\(Na_2CO_3\\) (washing soda) softens water and makes glass; \\(NaHCO_3\\) (baking soda) is used in baking, in antacids and in fire extinguishers; \\(CaCO_3\\) is used to make cement, quicklime and as a blast-furnace flux.</p>\n",
+   "examples": [
+    "Describe with an equation the laboratory preparation of carbon(IV) oxide.",
+    "Explain why CO is far more dangerous than CO2 in a closed room."
+   ]
+  },
+  {
+   "title": "8.4 Tests, Calculations and Laboratory Practice",
+   "html": "\n<p>This module gathers the practical, calculation and examination skills for the non-metal chemistry of carbon.</p>\n\n<h4>Identifying an unknown gas</h4>\n<table><tr><th>Gas</th><th>Test</th><th>Observation</th></tr>\n<tr><td>\\(CO_2\\)</td><td>Bubble into lime water</td><td>Milky; clears with excess gas</td></tr>\n<tr><td>\\(CO\\)</td><td>Apply a lighted splint</td><td>Burns with a blue flame; product turns lime water milky</td></tr>\n<tr><td>\\(O_2\\)</td><td>Glowing splint</td><td>Relights</td></tr>\n<tr><td>\\(H_2\\)</td><td>Lighted splint</td><td>Burns with a \"pop\"</td></tr>\n<tr><td>\\(SO_2\\)</td><td>Acidified \\(KMnO_4\\) paper</td><td>Purple decolourised; choking smell</td></tr>\n<tr><td>\\(NH_3\\)</td><td>Damp red litmus</td><td>Turns blue; white fumes with \\(HCl\\)</td></tr>\n</table>\n\n<h4>Worked calculation 1 &mdash; mass to volume</h4>\n<p><i>What volume of \\(CO_2\\) at s.t.p. is produced when 25.0 g of calcium trioxocarbonate(IV) is completely decomposed? (\\(Ca=40, C=12, O=16\\); molar volume \\(=22.4\\ dm^3\\)).</i></p>\n<p>\\(CaCO_3 \\rightarrow CaO + CO_2\\). Molar mass of \\(CaCO_3 = 40+12+48 = 100\\ g\\,mol^{-1}\\).</p>\n<p>Moles \\(= 25.0/100 = 0.25\\ mol\\). The mole ratio is 1:1, so \\(n(CO_2)=0.25\\ mol\\).</p>\n<p>Volume \\(= 0.25 \\times 22.4 = \\mathbf{5.6\\ dm^3}\\).</p>\n\n<h4>Worked calculation 2 &mdash; percentage purity</h4>\n<p><i>10.0 g of impure limestone is heated strongly and gives 1.68 dm<sup>3</sup> of \\(CO_2\\) at s.t.p. Find the percentage purity of the limestone.</i></p>\n<p>\\(n(CO_2) = 1.68/22.4 = 0.075\\ mol\\). From \\(CaCO_3 \\rightarrow CaO + CO_2\\) the ratio is 1:1, so \\(n(CaCO_3)=0.075\\ mol\\).</p>\n<p>Mass of pure \\(CaCO_3 = 0.075 \\times 100 = 7.5\\ g\\).</p>\n<p>Percentage purity \\(= (7.5/10.0)\\times 100 = \\mathbf{75\\%}\\). Always check that the calculated mass of pure substance is smaller than the sample mass; this quick self-check catches arithmetic slips in the examination.</p>\n\n<h4>Worked calculation 3 &mdash; reducing power of \\(CO\\)</h4>\n<p><i>How many grams of iron are obtained when 320 g of \\(Fe_2O_3\\) is completely reduced by \\(CO\\)? (\\(Fe=56, O=16\\)).</i></p>\n<p>\\(Fe_2O_3 + 3CO \\rightarrow 2Fe + 3CO_2\\). \\(M(Fe_2O_3)=160\\), so \\(n = 320/160 = 2\\ mol\\); \\(n(Fe)=4\\ mol\\); \\(m = 4\\times56 = \\mathbf{224\\ g}\\).</p>\n\n<h4>Practical safety and technique</h4>\n<ul>\n<li>Never heat a closed system: expanding gas can shatter the apparatus.</li>\n<li>Remove the delivery tube from the water <b>before</b> removing the flame, otherwise \"suck-back\" cracks the hot test tube.</li>\n<li>Generate and burn \\(CO\\) only in a fume cupboard &mdash; it has no smell to warn you.</li>\n<li>Dry \\(CO_2\\) with concentrated \\(H_2SO_4\\), never with quicklime or soda lime, which would absorb it.</li>\n</ul>\n\n<h4>Examination strategy</h4>\n<p>Structured questions on this topic almost always follow the same three-part shape: (a) draw or describe the laboratory preparation with a correct equation, (b) state two properties that explain the method of collection and drying, (c) do one mole calculation. Rehearse the equations until they are automatic and write state symbols &mdash; they carry marks.</p>\n",
+   "examples": [
+    "Calculate the mass of iron formed from 480 g of Fe2O3 reduced by CO.",
+    "State the test that distinguishes CO2 from SO2."
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which of the following elements is a non-metal that exists as a liquid at room temperature?",
+   "options": [
+    "Mercury",
+    "Bromine",
+    "Iodine",
+    "Phosphorus"
+   ],
+   "answer": "1",
+   "solution": "Bromine is the only non-metal liquid at room temperature; mercury is a liquid metal."
+  },
+  {
+   "q": "Non-metallic oxides are generally",
+   "options": [
+    "basic",
+    "acidic",
+    "amphoteric",
+    "neutral"
+   ],
+   "answer": "1",
+   "solution": "Non-metal oxides such as CO2 and SO3 dissolve in water to form acids."
+  },
+  {
+   "q": "Which oxide is neutral?",
+   "options": [
+    "SO2",
+    "CO2",
+    "CO",
+    "P4O10"
+   ],
+   "answer": "2",
+   "solution": "CO, NO and N2O are neutral oxides; they form no acid with water."
+  },
+  {
+   "q": "The most electronegative element is",
+   "options": [
+    "Oxygen",
+    "Chlorine",
+    "Fluorine",
+    "Nitrogen"
+   ],
+   "answer": "2",
+   "solution": "Fluorine has an electronegativity of 4.0, the highest of all elements."
+  },
+  {
+   "q": "Diamond is hard because",
+   "options": [
+    "it has ionic bonds",
+    "each carbon is tetrahedrally bonded to four others in a giant lattice",
+    "it has delocalised electrons",
+    "its molecules are held by van der Waals forces"
+   ],
+   "answer": "1",
+   "solution": "Millions of strong covalent bonds in three dimensions make diamond extremely hard."
+  },
+  {
+   "q": "Graphite conducts electricity because",
+   "options": [
+    "it is a metal",
+    "it has one delocalised electron per atom",
+    "it contains free ions",
+    "its layers are far apart"
+   ],
+   "answer": "1",
+   "solution": "Only three of carbon's four valence electrons are used in bonding; the fourth is delocalised."
+  },
+  {
+   "q": "The bond angle in diamond is",
+   "options": [
+    "90 degrees",
+    "104.5 degrees",
+    "109.5 degrees",
+    "120 degrees"
+   ],
+   "answer": "2",
+   "solution": "Diamond is sp3 hybridised, giving a tetrahedral 109.5 degree angle."
+  },
+  {
+   "q": "The bond angle within a graphite layer is",
+   "options": [
+    "109.5 degrees",
+    "120 degrees",
+    "180 degrees",
+    "90 degrees"
+   ],
+   "answer": "1",
+   "solution": "sp2 hybridisation gives trigonal planar geometry with 120 degree angles."
+  },
+  {
+   "q": "Allotropes are",
+   "options": [
+    "different elements with the same mass number",
+    "different forms of the same element in the same physical state",
+    "compounds with the same formula",
+    "isotopes of an element"
+   ],
+   "answer": "1",
+   "solution": "Allotropy is the existence of an element in more than one form in the same state."
+  },
+  {
+   "q": "Graphite is used as a lubricant because",
+   "options": [
+    "it is hard",
+    "its layers slide over one another",
+    "it conducts electricity",
+    "it is inert"
+   ],
+   "answer": "1",
+   "solution": "Weak van der Waals forces between layers allow easy sliding."
+  },
+  {
+   "q": "Which allotrope of carbon has the highest density?",
+   "options": [
+    "Graphite",
+    "Diamond",
+    "Charcoal",
+    "Lampblack"
+   ],
+   "answer": "1",
+   "solution": "Diamond's compact tetrahedral packing gives about 3.5 g/cm3 against graphite's 2.2."
+  },
+  {
+   "q": "Animal charcoal is used to",
+   "options": [
+    "dry gases",
+    "decolourise brown sugar solution",
+    "reduce metal oxides",
+    "neutralise acids"
+   ],
+   "answer": "1",
+   "solution": "Charcoal adsorbs coloured impurities because of its large surface area."
+  },
+  {
+   "q": "Buckminsterfullerene has the formula",
+   "options": [
+    "C20",
+    "C60",
+    "C70",
+    "C100"
+   ],
+   "answer": "1",
+   "solution": "C60 is the football-shaped fullerene named after Buckminster Fuller."
+  },
+  {
+   "q": "The laboratory preparation of carbon(IV) oxide uses",
+   "options": [
+    "marble and dilute HCl",
+    "marble and dilute H2SO4",
+    "limestone and NaOH",
+    "coke and steam"
+   ],
+   "answer": "0",
+   "solution": "Dilute H2SO4 forms insoluble CaSO4 which stops the reaction."
+  },
+  {
+   "q": "Carbon(IV) oxide is collected by",
+   "options": [
+    "downward displacement of water",
+    "upward delivery",
+    "downward delivery",
+    "displacement of mercury"
+   ],
+   "answer": "2",
+   "solution": "CO2 is denser than air so it is collected by downward delivery."
+  },
+  {
+   "q": "Which gas turns lime water milky?",
+   "options": [
+    "CO",
+    "CO2",
+    "NH3",
+    "H2"
+   ],
+   "answer": "1",
+   "solution": "CO2 forms insoluble CaCO3 with calcium hydroxide solution."
+  },
+  {
+   "q": "The milkiness formed when excess CO2 is passed through lime water disappears because",
+   "options": [
+    "CaCO3 dissolves in water",
+    "soluble calcium hydrogentrioxocarbonate is formed",
+    "the gas escapes",
+    "the lime water evaporates"
+   ],
+   "answer": "1",
+   "solution": "Excess CO2 converts CaCO3 to soluble Ca(HCO3)2."
+  },
+  {
+   "q": "Burning magnesium continues to burn in CO2 because",
+   "options": [
+    "CO2 supports combustion generally",
+    "magnesium reduces CO2 to carbon",
+    "CO2 is a fuel",
+    "magnesium is a non-metal"
+   ],
+   "answer": "1",
+   "solution": "2Mg + CO2 gives 2MgO + C, seen as a black deposit of carbon."
+  },
+  {
+   "q": "Solid carbon(IV) oxide is known as",
+   "options": [
+    "dry ice",
+    "water gas",
+    "producer gas",
+    "quicklime"
+   ],
+   "answer": "0",
+   "solution": "Solid CO2 sublimes without melting and is used as a refrigerant."
+  },
+  {
+   "q": "Carbon(II) oxide is poisonous because it",
+   "options": [
+    "dissolves in the blood",
+    "forms stable carboxyhaemoglobin",
+    "destroys red cells",
+    "forms acid in the lungs"
+   ],
+   "answer": "1",
+   "solution": "CO binds haemoglobin far more strongly than oxygen does."
+  },
+  {
+   "q": "Carbon(II) oxide burns with a",
+   "options": [
+    "yellow flame",
+    "blue flame",
+    "green flame",
+    "non-luminous colourless flame"
+   ],
+   "answer": "1",
+   "solution": "CO burns with a characteristic blue flame giving CO2."
+  },
+  {
+   "q": "In the blast furnace the chief reducing agent is",
+   "options": [
+    "carbon(IV) oxide",
+    "carbon(II) oxide",
+    "hydrogen",
+    "limestone"
+   ],
+   "answer": "1",
+   "solution": "Fe2O3 + 3CO gives 2Fe + 3CO2."
+  },
+  {
+   "q": "Water gas is a mixture of",
+   "options": [
+    "CO and CO2",
+    "CO and H2",
+    "CO2 and H2",
+    "N2 and CO"
+   ],
+   "answer": "1",
+   "solution": "Steam passed over red-hot coke gives CO + H2."
+  },
+  {
+   "q": "Which trioxocarbonate is soluble in water?",
+   "options": [
+    "CaCO3",
+    "Na2CO3",
+    "PbCO3",
+    "CuCO3"
+   ],
+   "answer": "1",
+   "solution": "Only the trioxocarbonates of sodium, potassium and ammonium are soluble."
+  },
+  {
+   "q": "Which trioxocarbonate is NOT decomposed by heat?",
+   "options": [
+    "CaCO3",
+    "Na2CO3",
+    "CuCO3",
+    "ZnCO3"
+   ],
+   "answer": "1",
+   "solution": "Sodium and potassium trioxocarbonates are stable to heat."
+  },
+  {
+   "q": "Heating sodium hydrogentrioxocarbonate gives",
+   "options": [
+    "NaOH, CO2 and H2O",
+    "Na2CO3, CO2 and H2O",
+    "Na2O and CO2",
+    "NaHCO3 sublimes"
+   ],
+   "answer": "1",
+   "solution": "2NaHCO3 gives Na2CO3 + H2O + CO2, which raises dough in baking."
+  },
+  {
+   "q": "The gas evolved when dilute acid is added to a trioxocarbonate is",
+   "options": [
+    "hydrogen",
+    "oxygen",
+    "carbon(IV) oxide",
+    "chlorine"
+   ],
+   "answer": "2",
+   "solution": "All trioxocarbonates effervesce with acid to give CO2."
+  },
+  {
+   "q": "On heating, green copper(II) trioxocarbonate turns",
+   "options": [
+    "white",
+    "black",
+    "yellow",
+    "blue"
+   ],
+   "answer": "1",
+   "solution": "CuCO3 gives black CuO and CO2."
+  },
+  {
+   "q": "Washing soda is",
+   "options": [
+    "NaHCO3",
+    "Na2CO3.10H2O",
+    "CaCO3",
+    "Ca(OH)2"
+   ],
+   "answer": "1",
+   "solution": "Hydrated sodium trioxocarbonate is washing soda."
+  },
+  {
+   "q": "Which is used to dry carbon(IV) oxide?",
+   "options": [
+    "Quicklime",
+    "Soda lime",
+    "Concentrated H2SO4",
+    "Sodium hydroxide"
+   ],
+   "answer": "2",
+   "solution": "Basic driers would absorb the acidic gas."
+  },
+  {
+   "q": "Non-metals are brittle because",
+   "options": [
+    "their bonds are ionic",
+    "there is no sea of mobile electrons allowing layers to slide",
+    "they are covalent",
+    "their atoms are small"
+   ],
+   "answer": "1",
+   "solution": "Metallic bonding, absent in non-metals, permits deformation without fracture."
+  },
+  {
+   "q": "Nitrogen and oxygen are separated industrially by",
+   "options": [
+    "electrolysis of water",
+    "fractional distillation of liquid air",
+    "the Frasch process",
+    "the Haber process"
+   ],
+   "answer": "1",
+   "solution": "Liquid air is fractionally distilled; nitrogen boils off first."
+  },
+  {
+   "q": "Nitrogen boils at",
+   "options": [
+    "-183 degrees Celsius",
+    "-196 degrees Celsius",
+    "-186 degrees Celsius",
+    "0 degrees Celsius"
+   ],
+   "answer": "1",
+   "solution": "Nitrogen boils at -196 C, below argon and oxygen."
+  },
+  {
+   "q": "Sulphur is mined by the",
+   "options": [
+    "Frasch process",
+    "Haber process",
+    "Contact process",
+    "Solvay process"
+   ],
+   "answer": "0",
+   "solution": "Superheated water melts underground sulphur, which is forced up by compressed air."
+  },
+  {
+   "q": "Which is a metalloid?",
+   "options": [
+    "Carbon",
+    "Silicon",
+    "Sulphur",
+    "Chlorine"
+   ],
+   "answer": "1",
+   "solution": "Silicon shows both metallic and non-metallic behaviour and is a semiconductor."
+  },
+  {
+   "q": "Coke is used in the blast furnace mainly as",
+   "options": [
+    "a flux",
+    "a reducing agent and fuel",
+    "an oxidising agent",
+    "a catalyst"
+   ],
+   "answer": "1",
+   "solution": "Coke burns to give heat and CO, which reduces the ore."
+  },
+  {
+   "q": "Which reaction shows carbon acting as a reducing agent?",
+   "options": [
+    "C + O2 gives CO2",
+    "2CuO + C gives 2Cu + CO2",
+    "C + 2S gives CS2",
+    "C reacting with hydrogen"
+   ],
+   "answer": "1",
+   "solution": "Carbon removes oxygen from copper(II) oxide, reducing it to the metal."
+  },
+  {
+   "q": "25 g of CaCO3 (M = 100) on full decomposition gives what volume of CO2 at s.t.p.?",
+   "options": [
+    "2.8 dm3",
+    "5.6 dm3",
+    "11.2 dm3",
+    "22.4 dm3"
+   ],
+   "answer": "1",
+   "solution": "0.25 mol x 22.4 dm3 = 5.6 dm3."
+  },
+  {
+   "q": "How many moles of CO2 are in 4.4 g of the gas? (C=12, O=16)",
+   "options": [
+    "0.05",
+    "0.10",
+    "0.20",
+    "0.44"
+   ],
+   "answer": "1",
+   "solution": "4.4/44 = 0.1 mol."
+  },
+  {
+   "q": "The volume of CO2 produced by 0.5 mol of NaHCO3 on heating is",
+   "options": [
+    "5.6 dm3",
+    "11.2 dm3",
+    "2.8 dm3",
+    "22.4 dm3"
+   ],
+   "answer": "0",
+   "solution": "2NaHCO3 gives 1 CO2, so 0.25 mol x 22.4 = 5.6 dm3."
+  },
+  {
+   "q": "Lampblack is used in",
+   "options": [
+    "glass cutting",
+    "printer's ink and boot polish",
+    "electrodes",
+    "water treatment only"
+   ],
+   "answer": "1",
+   "solution": "Lampblack is a fine amorphous carbon pigment."
+  },
+  {
+   "q": "Which statement about diamond and graphite is correct?",
+   "options": [
+    "Both conduct electricity",
+    "Both have giant covalent structures",
+    "Both are soft",
+    "Both have the same density"
+   ],
+   "answer": "1",
+   "solution": "They are both giant covalent, but only graphite conducts and is soft."
+  },
+  {
+   "q": "Concentrated tetraoxosulphate(VI) acid reacting with hot carbon gives",
+   "options": [
+    "CO2, SO2 and H2O",
+    "CO and H2",
+    "CO2 and H2",
+    "SO3 only"
+   ],
+   "answer": "0",
+   "solution": "C + 2H2SO4 gives CO2 + 2SO2 + 2H2O."
+  },
+  {
+   "q": "Which gas is neutral to litmus but burns?",
+   "options": [
+    "CO2",
+    "CO",
+    "SO2",
+    "NH3"
+   ],
+   "answer": "1",
+   "solution": "CO is a neutral oxide and a combustible gas."
+  },
+  {
+   "q": "Which non-metal is used in gas masks in activated form?",
+   "options": [
+    "Sulphur",
+    "Charcoal",
+    "Phosphorus",
+    "Iodine"
+   ],
+   "answer": "1",
+   "solution": "Activated charcoal adsorbs toxic vapours."
+  },
+  {
+   "q": "The percentage purity of 10 g limestone yielding 1.68 dm3 CO2 at s.t.p. is",
+   "options": [
+    "50%",
+    "65%",
+    "75%",
+    "90%"
+   ],
+   "answer": "2",
+   "solution": "0.075 mol x 100 g/mol = 7.5 g, so 75%."
+  },
+  {
+   "q": "Which oxide is amphoteric?",
+   "options": [
+    "CO2",
+    "Al2O3",
+    "Na2O",
+    "SO2"
+   ],
+   "answer": "1",
+   "solution": "Aluminium oxide reacts with both acids and alkalis."
+  },
+  {
+   "q": "Carbon(IV) oxide extinguishes fire mainly because it",
+   "options": [
+    "is lighter than air",
+    "is denser than air and does not support combustion",
+    "is poisonous",
+    "reacts with the fuel"
+   ],
+   "answer": "1",
+   "solution": "A dense blanket of CO2 cuts off the oxygen supply."
+  },
+  {
+   "q": "Which of these will NOT liberate CO2 from a trioxocarbonate?",
+   "options": [
+    "Dilute HCl",
+    "Dilute HNO3",
+    "Dilute H2SO4 on Na2CO3",
+    "Aqueous NaOH"
+   ],
+   "answer": "3",
+   "solution": "Alkalis do not displace CO2; only acids do."
+  },
+  {
+   "q": "Graphene is best described as",
+   "options": [
+    "a single layer of graphite",
+    "a fullerene cage",
+    "a form of diamond",
+    "a carbide"
+   ],
+   "answer": "0",
+   "solution": "Graphene is one atom-thick sheet of hexagonally bonded carbon."
+  }
+ ]
+}
