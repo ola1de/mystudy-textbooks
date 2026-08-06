@@ -1,0 +1,227 @@
+{
+ "subject": "Agricultural Science",
+ "level": "SSS 1",
+ "slug": "agricultural-ecology",
+ "title": "Agricultural Ecology",
+ "outline": [
+  "Meaning of ecology and agricultural ecology",
+  "Levels of ecological organisation",
+  "Components of an ecosystem: biotic and abiotic",
+  "Food chains, food webs and energy flow",
+  "Climatic, edaphic and biotic ecological factors",
+  "Law of the Minimum and limiting factors",
+  "Ecological succession and biotic interactions",
+  "Carrying capacity and ecological balance in agriculture"
+ ],
+ "modules": [
+  {
+   "title": "Concept of Agricultural Ecology and Ecosystem",
+   "html": "<h4>Meaning of Ecology and Agricultural Ecology</h4>\n<p>Ecology is the scientific study of the interrelationship between living organisms (plants, animals, microorganisms) and their environment. Agricultural ecology (agroecology) applies ecological principles to the study of crop and livestock production systems, examining how environmental factors affect farm productivity and how farming activities affect the environment.</p>\n<h4>Levels of Ecological Organisation</h4>\n<ul>\n<li><strong>Individual/organism:</strong> a single living thing, e.g. one maize plant.</li>\n<li><strong>Population:</strong> organisms of the same species in an area, e.g. all maize plants on a farm.</li>\n<li><strong>Community:</strong> different populations living together in an area, e.g. crops, weeds and insects on a farmland.</li>\n<li><strong>Ecosystem:</strong> a community interacting with its non-living (abiotic) environment, e.g. a farmland ecosystem comprising crops, soil, water and climate.</li>\n<li><strong>Biosphere:</strong> the sum of all ecosystems on Earth supporting life.</li>\n</ul>\n<h4>Components of an Ecosystem</h4>\n<ol>\n<li><strong>Biotic components:</strong> living organisms, divided into producers (green plants that photosynthesise), consumers (herbivores, carnivores, omnivores) and decomposers (bacteria, fungi that break down dead matter).</li>\n<li><strong>Abiotic components:</strong> non-living factors such as sunlight, temperature, rainfall, soil, air and relative humidity.</li>\n</ol>\n<h4>Food Chain and Food Web</h4>\n<p>A food chain shows the linear transfer of energy from producers to consumers, e.g. maize → grasshopper → frog → snake → hawk. A food web is an interconnected network of many food chains in an ecosystem. Energy flow follows the 10% rule: only about 10% of energy is transferred from one trophic level to the next, expressed as $$E_{n+1} = 0.10 \\times E_n$$ where \\(E_n\\) is the energy at a given trophic level.</p>\n<table class=\"tb-table\"><tr><th>Trophic Level</th><th>Example</th></tr>\n<tr><td>Producer</td><td>Maize plant</td></tr>\n<tr><td>Primary consumer</td><td>Grasshopper</td></tr>\n<tr><td>Secondary consumer</td><td>Frog</td></tr>\n<tr><td>Tertiary consumer</td><td>Hawk</td></tr>\n</table>\n<p>Understanding these relationships helps farmers manage pest populations, crop rotation and intercropping systems for sustainable production.</p>",
+   "examples": [
+    {
+     "q": "If producers in a farmland ecosystem fix 50,000 kJ of energy, estimate the energy available to primary consumers and secondary consumers using the 10% rule.",
+     "a": "Using \\(E_{n+1}=0.10\\times E_n\\): Primary consumers receive \\(0.10 \\times 50{,}000 = 5{,}000\\,kJ\\). Secondary consumers receive \\(0.10 \\times 5{,}000 = 500\\,kJ\\). This shows energy decreases greatly at each successive trophic level."
+    },
+    {
+     "q": "Distinguish between a population and a community using farm examples.",
+     "a": "A population consists of organisms of the same species in a given area, e.g. all the cowpea plants on a hectare of farmland. A community consists of different populations of various species interacting in the same area, e.g. cowpea plants, weeds, aphids and soil bacteria found together on the same farmland."
+    }
+   ]
+  },
+  {
+   "title": "Ecological Factors and Their Influence on Agriculture",
+   "html": "<h4>Classification of Ecological Factors</h4>\n<p>Ecological (environmental) factors that influence agricultural production are grouped into climatic, edaphic (soil) and biotic factors.</p>\n<h4>Climatic Factors</h4>\n<ul>\n<li><strong>Rainfall:</strong> determines the type of crops and cropping season; amount and distribution affect water availability for plant growth.</li>\n<li><strong>Temperature:</strong> influences the rate of photosynthesis, transpiration, germination and microbial activity.</li>\n<li><strong>Light (sunlight):</strong> essential for photosynthesis; its duration (photoperiod) affects flowering in some crops.</li>\n<li><strong>Relative humidity:</strong> affects transpiration rate and the prevalence of fungal diseases.</li>\n<li><strong>Wind:</strong> aids pollination and seed dispersal but can cause lodging and soil erosion.</li>\n</ul>\n<h4>Edaphic (Soil) Factors</h4>\n<p>These include soil texture, structure, pH, organic matter content, drainage and nutrient availability, all of which affect root development and crop yield.</p>\n<h4>Biotic Factors</h4>\n<p>These involve interactions among living organisms including competition, predation, parasitism, symbiosis (e.g. nitrogen-fixing bacteria in legume root nodules) and pollination by insects.</p>\n<h4>Concept of Limiting Factors</h4>\n<p>The Law of the Minimum states that plant growth is limited by the scarcest necessary resource, not the total resources available. This can be expressed conceptually as: $$Growth = f(\\text{most limiting factor})$$ For example, even if nitrogen and light are abundant, insufficient water will limit crop growth to the extent permitted by water availability.</p>\n<h4>Ecological Adaptations of Crops and Animals</h4>\n<ol>\n<li>Xerophytic crops like cactus and sorghum have adaptations (reduced leaves, deep roots) to survive low rainfall areas.</li>\n<li>Hydrophytic crops like rice thrive in waterlogged conditions with aerenchyma tissue for oxygen transport.</li>\n<li>Livestock in hot climates (e.g. White Fulani cattle) have adaptations such as loose skin and sweat glands for heat tolerance.</li>\n</ol>\n<table class=\"tb-table\"><tr><th>Factor Type</th><th>Examples</th></tr>\n<tr><td>Climatic</td><td>Rainfall, temperature, light, humidity, wind</td></tr>\n<tr><td>Edaphic</td><td>Soil texture, pH, organic matter</td></tr>\n<tr><td>Biotic</td><td>Pests, diseases, pollinators, competition</td></tr>\n</table>",
+   "examples": [
+    {
+     "q": "A crop requires adequate nitrogen, water and sunlight to grow well. If water is severely limited while nitrogen and sunlight are abundant, explain the crop's expected growth using the Law of the Minimum.",
+     "a": "According to the Law of the Minimum, growth is controlled by the scarcest resource, not the most abundant one. Since water is severely limited while nitrogen and sunlight are abundant, the crop's growth will be restricted to the level permitted by the available water, regardless of the surplus of nitrogen and sunlight."
+    },
+    {
+     "q": "Explain two adaptive features of xerophytic plants that enable survival in low-rainfall (arid) ecological zones.",
+     "a": "1. Reduced leaf surface area or leaves modified into spines (as in cactus) to minimise water loss through transpiration. 2. Deep and extensive root systems that allow the plant to absorb water from deeper soil layers where moisture is retained longer during dry periods."
+    }
+   ]
+  },
+  {
+   "title": "Ecological Balance, Interactions and Human Influence on Agro-ecosystems",
+   "html": "<h4>Ecological Succession</h4>\n<p>Ecological succession is the gradual and orderly change in the species composition of a community over time. Primary succession occurs on bare, previously unvegetated land (e.g. lava rock), while secondary succession occurs on land where vegetation has been removed, such as an abandoned or fallowed farmland gradually returning to bush. This process is important in shifting cultivation and bush fallow systems practised in Nigeria.</p>\n<h4>Types of Biotic Interactions</h4>\n<ul>\n<li><strong>Competition:</strong> organisms compete for the same limited resource, e.g. weeds competing with crops for nutrients, water and light.</li>\n<li><strong>Predation:</strong> one organism (predator) feeds on another (prey), e.g. birds feeding on grain pests.</li>\n<li><strong>Parasitism:</strong> one organism (parasite) lives on/in another (host) and derives nutrients at the host's expense, e.g. Striga weed on maize roots.</li>\n<li><strong>Symbiosis/mutualism:</strong> both organisms benefit, e.g. Rhizobium bacteria in legume root nodules fixing atmospheric nitrogen while receiving carbohydrates from the plant.</li>\n<li><strong>Commensalism:</strong> one organism benefits while the other is unaffected, e.g. epiphytic plants growing on tree trunks.</li>\n</ul>\n<h4>Human Activities and Ecological Balance</h4>\n<p>Agricultural activities can disturb ecological balance through bush burning, monocropping, overgrazing, indiscriminate use of agrochemicals and deforestation. These activities reduce biodiversity, degrade soil quality and disrupt natural nutrient cycles such as the nitrogen and carbon cycles.</p>\n<h4>Maintaining Ecological Balance in Agriculture</h4>\n<ol>\n<li>Practising crop rotation to break pest and disease cycles and restore soil nutrients.</li>\n<li>Adopting mixed cropping and mixed farming to maintain diversity and reduce risk.</li>\n<li>Using integrated pest management (IPM) instead of excessive chemical pesticides.</li>\n<li>Practising agroforestry to combine tree conservation with crop and livestock production.</li>\n<li>Controlled/rotational grazing to prevent overgrazing and land degradation.</li>\n</ol>\n<h4>Carrying Capacity</h4>\n<p>Carrying capacity, \\(K\\), is the maximum population of a given species (e.g. livestock) that an environment can sustainably support without degradation. If the stocking rate exceeds \\(K\\), overgrazing and land degradation result. This is expressed conceptually as: $$\\text{Stocking rate} \\le K$$</p>\n<table class=\"tb-table\"><tr><th>Interaction</th><th>Example</th><th>Effect</th></tr>\n<tr><td>Competition</td><td>Weeds vs crops</td><td>Reduced crop yield</td></tr>\n<tr><td>Mutualism</td><td>Rhizobium and legumes</td><td>Nitrogen fixation, mutual benefit</td></tr>\n<tr><td>Parasitism</td><td>Striga on maize</td><td>Reduced host vigour and yield</td></tr>\n</table>",
+   "examples": [
+    {
+     "q": "A grazing land has a carrying capacity of 20 cattle per hectare, but a herdsman keeps 30 cattle per hectare on it. Predict the ecological consequence and suggest one corrective measure.",
+     "a": "Since the stocking rate (30) exceeds the carrying capacity (20), the land will be overgrazed, leading to loss of vegetation cover, soil compaction and erosion, and eventual land degradation. A corrective measure is to reduce the stocking rate to match the carrying capacity (20 cattle/ha) or practise rotational grazing to allow pasture recovery."
+    },
+    {
+     "q": "Explain the type of biotic interaction that exists between Rhizobium bacteria and leguminous crops, stating the benefit to each partner.",
+     "a": "This is a mutualistic (symbiotic) interaction. The Rhizobium bacteria live in root nodules of legumes and fix atmospheric nitrogen into a form (ammonium/nitrate) usable by the plant, benefiting the crop with nitrogen nutrition; in return, the legume supplies the bacteria with carbohydrates and a protective habitat, benefiting the bacteria."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Ecology is best defined as the study of",
+   "options": [
+    "soil chemistry alone",
+    "interrelationship between organisms and their environment",
+    "classification of plants",
+    "farm machinery"
+   ],
+   "answer": "1",
+   "solution": "Ecology is the scientific study of the interrelationship between living organisms and their environment."
+  },
+  {
+   "q": "All the maize plants growing on a particular farm represent a",
+   "options": [
+    "community",
+    "population",
+    "ecosystem",
+    "biosphere"
+   ],
+   "answer": "1",
+   "solution": "A population consists of organisms of the same species (maize plants) occupying a given area at the same time."
+  },
+  {
+   "q": "A farmland ecosystem comprising crops, weeds, insects, soil and climate illustrates",
+   "options": [
+    "a population",
+    "an individual organism",
+    "an ecosystem",
+    "the biosphere alone"
+   ],
+   "answer": "2",
+   "solution": "An ecosystem is a community of living organisms interacting with the non-living (abiotic) components of their environment, such as soil and climate."
+  },
+  {
+   "q": "Which of these is an abiotic component of an ecosystem?",
+   "options": [
+    "Bacteria",
+    "Sunlight",
+    "Grasshopper",
+    "Maize plant"
+   ],
+   "answer": "1",
+   "solution": "Sunlight is a non-living (abiotic) factor; bacteria, grasshopper and maize plant are all living (biotic) components."
+  },
+  {
+   "q": "In a food chain maize → grasshopper → frog → hawk, the frog is classified as a",
+   "options": [
+    "producer",
+    "primary consumer",
+    "secondary consumer",
+    "tertiary consumer"
+   ],
+   "answer": "2",
+   "solution": "The frog feeds on the grasshopper (a primary consumer), making the frog a secondary consumer in the food chain."
+  },
+  {
+   "q": "According to the 10% energy transfer rule, if a producer level has 20,000 kJ of energy, the energy available to primary consumers is",
+   "options": [
+    "20,000 kJ",
+    "2,000 kJ",
+    "200 kJ",
+    "2 kJ"
+   ],
+   "answer": "1",
+   "solution": "Using \\(E_{n+1}=0.10\\times E_n\\): \\(0.10 \\times 20{,}000 = 2{,}000\\,kJ\\)."
+  },
+  {
+   "q": "The Law of the Minimum states that plant growth is limited by the",
+   "options": [
+    "most abundant nutrient",
+    "total sum of all resources",
+    "scarcest necessary resource",
+    "farmer's choice of crop"
+   ],
+   "answer": "2",
+   "solution": "The Law of the Minimum states that growth is controlled by whichever necessary resource is scarcest, not by total resources available."
+  },
+  {
+   "q": "Which climatic factor most directly determines the rate of photosynthesis in green plants?",
+   "options": [
+    "Wind",
+    "Sunlight",
+    "Relative humidity",
+    "Soil pH"
+   ],
+   "answer": "1",
+   "solution": "Sunlight (light) provides the energy required for photosynthesis, directly determining its rate, whereas the other options are not soil pH is edaphic and wind/humidity have indirect effects."
+  },
+  {
+   "q": "Rhizobium bacteria and leguminous plants exhibit which type of biotic relationship?",
+   "options": [
+    "Parasitism",
+    "Competition",
+    "Mutualism/symbiosis",
+    "Predation"
+   ],
+   "answer": "2",
+   "solution": "Both Rhizobium and the legume benefit from the relationship (nitrogen fixation for the plant, nutrients for the bacteria), which defines mutualism/symbiosis."
+  },
+  {
+   "q": "Striga weed obtaining nutrients from maize roots at the maize's expense is an example of",
+   "options": [
+    "mutualism",
+    "commensalism",
+    "parasitism",
+    "predation"
+   ],
+   "answer": "2",
+   "solution": "Parasitism occurs when one organism (Striga) derives nutrients from another (maize, the host) to the host's detriment."
+  },
+  {
+   "q": "Secondary succession typically occurs on land that has",
+   "options": [
+    "never had any vegetation",
+    "previously had vegetation which was removed",
+    "been permanently paved",
+    "been submerged under the ocean"
+   ],
+   "answer": "1",
+   "solution": "Secondary succession occurs on previously vegetated land where vegetation has been cleared or disturbed, such as fallowed farmland."
+  },
+  {
+   "q": "Carrying capacity of a grazing land refers to",
+   "options": [
+    "the maximum number of farmers allowed",
+    "the maximum livestock population it can sustainably support",
+    "the total rainfall received annually",
+    "the market price of livestock"
+   ],
+   "answer": "1",
+   "solution": "Carrying capacity, K, is the maximum population of a species an environment can sustainably support without degradation."
+  },
+  {
+   "q": "If a paddock has a carrying capacity of 15 cattle/ha and a farmer keeps 25 cattle/ha, the likely result is",
+   "options": [
+    "improved pasture growth",
+    "overgrazing and land degradation",
+    "increased carrying capacity",
+    "no ecological effect"
+   ],
+   "answer": "1",
+   "solution": "Exceeding carrying capacity (25 > 15) results in overgrazing, loss of vegetation cover and land degradation."
+  },
+  {
+   "q": "Weeds competing with crops for nutrients, water and light is an example of",
+   "options": [
+    "mutualism",
+    "competition",
+    "commensalism",
+    "parasitism"
+   ],
+   "answer": "1",
+   "solution": "Competition occurs when two organisms (weeds and crops) vie for the same limited resources such as nutrients, water and light."
+  },
+  {
+   "q": "Which farming practice helps maintain ecological balance by breaking pest and disease cycles?",
+   "options": [
+    "Continuous monocropping",
+    "Crop rotation",
+    "Excessive pesticide use",
+    "Uncontrolled bush burning"
+   ],
+   "answer": "1",
+   "solution": "Crop rotation alternates different crop families on the same land seasonally, breaking the life cycles of pests and diseases specific to a crop, thereby maintaining ecological balance."
+  }
+ ]
+}
