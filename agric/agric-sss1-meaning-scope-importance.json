@@ -1,0 +1,227 @@
+{
+ "subject": "Agricultural Science",
+ "level": "SSS 1",
+ "slug": "meaning-scope-importance",
+ "title": "Meaning, Scope and Importance of Agriculture",
+ "outline": [
+  "Definition and meaning of agriculture",
+  "Branches and scope of agriculture",
+  "Agriculture as a science, art and business",
+  "Importance of agriculture to the individual",
+  "Importance of agriculture to the economy",
+  "Agriculture and industrialisation",
+  "Agriculture and employment generation",
+  "Challenges linking agriculture to national development"
+ ],
+ "modules": [
+  {
+   "title": "Definition and Meaning of Agriculture",
+   "html": "<h4>Definition of Agriculture</h4>\n    <p>Agriculture is the science, art and practice of cultivating the soil, growing crops, and rearing livestock for man's use. It also involves the processing, preservation, storage and marketing of these products. The word agriculture is derived from two Latin words, <em>ager</em> meaning field, and <em>cultura</em> meaning cultivation. Thus, agriculture literally means the cultivation of the field.</p>\n    <p>Agriculture is a deliberate effort by man to manipulate the natural environment (soil, water, climate and living organisms) to produce food, fibre and raw materials useful to humanity. It differs from the mere gathering of wild plants and hunting of wild animals in that it involves domestication, selection, and continuous management of plants and animals to increase yield and quality.</p>\n    <h4>Key Elements of the Definition</h4>\n    <ul>\n        <li><strong>Cultivation of crops:</strong> deliberate planting, tending and harvesting of useful plants.</li>\n        <li><strong>Rearing of animals:</strong> domestication and management of livestock for food, income and other products.</li>\n        <li><strong>Processing:</strong> conversion of raw agricultural produce into more useful or durable forms.</li>\n        <li><strong>Storage and preservation:</strong> keeping produce in good condition until needed.</li>\n        <li><strong>Marketing:</strong> distribution and sale of agricultural products to consumers.</li>\n    </ul>\n    <h4>Agriculture as Science, Art and Business</h4>\n    <p>Agriculture is regarded as a <strong>science</strong> because it applies systematic and organised knowledge (biology, chemistry, genetics, economics) to solve problems of crop and animal production. It is an <strong>art</strong> because it requires skill, experience and creativity developed over years of practice, such as the skill of grafting or the art of judging livestock. It is also a <strong>business</strong> because farmers combine resources like land, labour, capital and management to produce goods for profit.</p>\n    <table class=\"tb-table\">\n        <tr><th>Aspect</th><th>Explanation</th></tr>\n        <tr><td>Science</td><td>Application of biological and chemical principles</td></tr>\n        <tr><td>Art</td><td>Skills acquired through practice, e.g. pruning</td></tr>\n        <tr><td>Business</td><td>Combination of resources for profit</td></tr>\n    </table>\n    <p>Understanding agriculture in these three dimensions helps students appreciate why the subject combines theory (in the classroom) with practical work (on the school farm) and record keeping (as in a business).</p>",
+   "examples": [
+    {
+     "q": "Explain why agriculture is described as both a science and an art.",
+     "a": "Agriculture is a science because it uses systematic, tested knowledge from biology, chemistry and genetics to guide crop and animal production, e.g. applying the correct fertiliser rate based on soil analysis. It is an art because it requires personal skill and experience gained through practice, such as skilfully grafting a fruit tree or judging the health of livestock by observation, skills that improve with repeated practice."
+    },
+    {
+     "q": "List and explain three key elements involved in the definition of agriculture.",
+     "a": "(1) Cultivation of crops — deliberately growing useful plants such as maize and cassava. (2) Rearing of animals — domesticating and managing livestock such as poultry and cattle for food and income. (3) Processing and storage — converting raw farm produce like fresh cassava into garri and storing grains properly to prevent spoilage and ensure availability throughout the year."
+    }
+   ]
+  },
+  {
+   "title": "Branches and Scope of Agriculture",
+   "html": "<h4>Scope of Agriculture</h4>\n    <p>The scope of agriculture is very wide and covers all activities from production to consumption of agricultural products. It includes crop production, animal production, fishery, forestry, agricultural economics, agricultural engineering, soil science, and agricultural extension. This wide coverage shows that agriculture is not limited to farming alone but extends to many related fields of study and practice.</p>\n    <h4>Major Branches of Agriculture</h4>\n    <ol>\n        <li><strong>Crop Science:</strong> deals with the cultivation of arable crops (e.g. maize, yam), plantation crops (e.g. cocoa, oil palm), and horticultural crops (fruits, vegetables and ornamentals).</li>\n        <li><strong>Animal Science:</strong> concerned with the breeding, feeding, health and management of livestock such as poultry, cattle, sheep, goats and pigs.</li>\n        <li><strong>Soil Science:</strong> studies the formation, classification, fertility and management of soils to sustain crop production.</li>\n        <li><strong>Agricultural Economics:</strong> applies economic principles to farm management, marketing, and agribusiness decision-making.</li>\n        <li><strong>Agricultural Engineering:</strong> deals with farm machinery, irrigation, drainage and structures used in farming.</li>\n        <li><strong>Forestry:</strong> concerned with the management of forest resources, timber production and conservation.</li>\n        <li><strong>Fishery Science:</strong> deals with the culture, capture and management of fish and other aquatic resources.</li>\n        <li><strong>Agricultural Extension:</strong> involves the transfer of research findings and improved techniques to farmers.</li>\n    </ol>\n    <table class=\"tb-table\">\n        <tr><th>Branch</th><th>Focus Area</th></tr>\n        <tr><td>Crop Science</td><td>Cultivation of plants for food, fibre and industry</td></tr>\n        <tr><td>Animal Science</td><td>Livestock breeding and management</td></tr>\n        <tr><td>Soil Science</td><td>Soil fertility and conservation</td></tr>\n        <tr><td>Agric. Economics</td><td>Farm business and marketing decisions</td></tr>\n    </table>\n    <p>In a typical secondary school, if the total farm area of \\(2\\) hectares is divided such that \\(60\\%\\) is used for crop production and the remainder for animal production, then \\(1.2\\) hectares go to crops and \\(0.8\\) hectares to livestock. This illustrates how the broad scope of agriculture is applied practically even at the school level.</p>",
+   "examples": [
+    {
+     "q": "A school farm of \\(5\\) hectares allocates \\(40\\%\\) to crop science, \\(35\\%\\) to animal science and the rest to fishery. Calculate the area allocated to each branch.",
+     "a": "Crop science: \\(0.40 \\times 5 = 2\\) hectares. Animal science: \\(0.35 \\times 5 = 1.75\\) hectares. Fishery: remaining \\(25\\%\\), which is \\(0.25 \\times 5 = 1.25\\) hectares. Total check: \\(2 + 1.75 + 1.25 = 5\\) hectares."
+    },
+    {
+     "q": "Distinguish between crop science and animal science as branches of agriculture, giving one example of activity under each.",
+     "a": "Crop science deals with the cultivation, breeding and protection of plants for food, fibre and industrial use; an example activity is raising a maize nursery and transplanting seedlings. Animal science deals with the breeding, feeding, housing and health management of livestock; an example activity is vaccinating a flock of broiler chickens against Newcastle disease."
+    }
+   ]
+  },
+  {
+   "title": "Importance of Agriculture to the Individual and the Economy",
+   "html": "<h4>Importance to the Individual</h4>\n    <p>Agriculture is important to the individual farmer and household in several ways. It provides food for the family, ensuring nutrition and food security. It generates income through the sale of surplus produce, which can be used to pay school fees, medical bills and other domestic needs. Agriculture also provides employment and self-reliance, especially for people in rural areas who may not have access to white-collar jobs. Furthermore, farming can be a source of recreation and hobby for some individuals, and it contributes to skill acquisition and character building, such as patience, discipline and hard work.</p>\n    <h4>Importance to the National Economy</h4>\n    <p>At the national level, agriculture plays a central role in economic development, particularly in developing countries such as those in West Africa. Its major contributions include:</p>\n    <ul>\n        <li><strong>Food security:</strong> ensuring adequate food supply for the growing population.</li>\n        <li><strong>Source of raw materials:</strong> crops like cotton, oil palm and cocoa supply raw materials to agro-based industries.</li>\n        <li><strong>Foreign exchange earnings:</strong> export of cash crops such as cocoa, rubber and groundnut earns foreign exchange for the country.</li>\n        <li><strong>Employment generation:</strong> agriculture employs a large percentage of the labour force, especially in rural communities.</li>\n        <li><strong>Contribution to Gross Domestic Product (GDP):</strong> in many West African countries, agriculture contributes a significant share of GDP, sometimes over \\(20\\%\\).</li>\n        <li><strong>Provision of market for industrial goods:</strong> farmers buy machinery, fertilisers and agrochemicals, boosting industrial sales.</li>\n        <li><strong>Source of government revenue:</strong> through taxes and export levies on agricultural produce.</li>\n    </ul>\n    <table class=\"tb-table\">\n        <tr><th>Sector</th><th>Approximate contribution to GDP</th></tr>\n        <tr><td>Agriculture</td><td>\\(24\\%\\)</td></tr>\n        <tr><td>Industry</td><td>\\(30\\%\\)</td></tr>\n        <tr><td>Services</td><td>\\(46\\%\\)</td></tr>\n    </table>\n    <p>If a nation's total GDP is \\( \\text{N} \\, 40 \\) trillion and agriculture contributes \\(24\\%\\), the value contributed by agriculture is \\(0.24 \\times 40 = 9.6\\) trillion naira, showing the massive scale of agriculture's economic importance.</p>",
+   "examples": [
+    {
+     "q": "A country's GDP is \\(\\text{N}\\,50\\) trillion, and agriculture accounts for \\(22\\%\\) of it. Calculate the monetary value contributed by agriculture.",
+     "a": "Value from agriculture \\(= 0.22 \\times 50 \\text{ trillion} = 11\\) trillion naira. This shows agriculture remains a major contributor to national output."
+    },
+    {
+     "q": "State and explain three importance of agriculture to the individual farmer.",
+     "a": "(1) Provision of food: farming supplies the household with food items such as vegetables and grains, improving nutrition. (2) Source of income: sale of surplus produce like tomatoes at the market provides money to meet family needs. (3) Employment: farming offers self-employment to individuals, reducing dependence on scarce white-collar jobs, especially in rural areas."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Agriculture can best be defined as",
+   "options": [
+    "the study of wild animals only",
+    "the science, art and business of cultivating crops and rearing animals for man's use",
+    "the buying and selling of manufactured goods",
+    "the study of rocks and minerals"
+   ],
+   "answer": "1",
+   "solution": "Agriculture is defined as the deliberate cultivation of crops and rearing of animals, along with processing, storage and marketing, for the benefit of man."
+  },
+  {
+   "q": "The word 'agriculture' is derived from Latin words meaning",
+   "options": [
+    "water and fire",
+    "field and cultivation",
+    "soil and rain",
+    "seed and harvest"
+   ],
+   "answer": "1",
+   "solution": "Agriculture comes from 'ager' (field) and 'cultura' (cultivation), literally meaning cultivation of the field."
+  },
+  {
+   "q": "Which of the following is NOT a branch of agriculture?",
+   "options": [
+    "Crop science",
+    "Animal science",
+    "Soil science",
+    "Astronomy"
+   ],
+   "answer": "3",
+   "solution": "Astronomy is the study of celestial bodies and has no direct relationship with agricultural production."
+  },
+  {
+   "q": "Agriculture is regarded as a business because it involves",
+   "options": [
+    "combining resources for profit-making",
+    "worship of ancestral spirits",
+    "study of weather patterns only",
+    "construction of buildings"
+   ],
+   "answer": "0",
+   "solution": "As a business, agriculture combines land, labour, capital and management to produce goods for sale and profit."
+  },
+  {
+   "q": "A school farm of \\(4\\) hectares allocates \\(50\\%\\) to crops. How many hectares are used for crops?",
+   "options": [
+    "1 hectare",
+    "1.5 hectares",
+    "2 hectares",
+    "3 hectares"
+   ],
+   "answer": "2",
+   "solution": "\\(50\\% \\times 4 = 2\\) hectares are allocated to crop production."
+  },
+  {
+   "q": "Which branch of agriculture deals with breeding and management of livestock?",
+   "options": [
+    "Crop science",
+    "Animal science",
+    "Forestry",
+    "Agricultural engineering"
+   ],
+   "answer": "1",
+   "solution": "Animal science focuses on breeding, feeding, health and management of livestock such as poultry and cattle."
+  },
+  {
+   "q": "One importance of agriculture to the individual is that it",
+   "options": [
+    "increases pollution",
+    "provides food and income",
+    "reduces population",
+    "eliminates the need for education"
+   ],
+   "answer": "1",
+   "solution": "Agriculture supplies food for household consumption and generates income from the sale of surplus produce."
+  },
+  {
+   "q": "Agriculture contributes to the national economy mainly by",
+   "options": [
+    "reducing food security",
+    "providing raw materials, employment and foreign exchange",
+    "discouraging industrialisation",
+    "increasing unemployment"
+   ],
+   "answer": "1",
+   "solution": "Agriculture supplies raw materials to industries, employs many people, and earns foreign exchange through export crops."
+  },
+  {
+   "q": "If a country's GDP is N\\(60\\) trillion and agriculture contributes \\(20\\%\\), the value from agriculture is",
+   "options": [
+    "N6 trillion",
+    "N10 trillion",
+    "N12 trillion",
+    "N15 trillion"
+   ],
+   "answer": "2",
+   "solution": "\\(0.20 \\times 60 = 12\\) trillion naira."
+  },
+  {
+   "q": "Agricultural extension is primarily concerned with",
+   "options": [
+    "transferring research findings to farmers",
+    "manufacturing farm machinery",
+    "classifying soils",
+    "studying fish biology"
+   ],
+   "answer": "0",
+   "solution": "Agricultural extension involves educating farmers and transferring improved techniques from research institutes to the field."
+  },
+  {
+   "q": "Which of these is a plantation crop?",
+   "options": [
+    "Maize",
+    "Cocoa",
+    "Tomato",
+    "Cabbage"
+   ],
+   "answer": "1",
+   "solution": "Cocoa is a perennial plantation crop grown mainly for export, unlike maize, tomato and cabbage which are arable/vegetable crops."
+  },
+  {
+   "q": "Agriculture as an art is best illustrated by",
+   "options": [
+    "applying scientifically tested fertiliser rates",
+    "the skill involved in grafting fruit trees",
+    "keeping farm financial records",
+    "calculating profit margins"
+   ],
+   "answer": "1",
+   "solution": "Skills like grafting, developed through practice and experience, represent the artistic aspect of agriculture."
+  },
+  {
+   "q": "The scope of agriculture includes all of the following EXCEPT",
+   "options": [
+    "forestry",
+    "fishery",
+    "agricultural engineering",
+    "pure mathematics"
+   ],
+   "answer": "3",
+   "solution": "Pure mathematics is not a branch of agriculture, although mathematical principles may be applied within agricultural economics."
+  },
+  {
+   "q": "A major reason agriculture is important to government is that it",
+   "options": [
+    "is a source of tax and export revenue",
+    "reduces the need for infrastructure",
+    "eliminates the need for trade policies",
+    "discourages foreign investment"
+   ],
+   "answer": "0",
+   "solution": "Government earns revenue through taxes and levies on agricultural exports and produce."
+  },
+  {
+   "q": "Soil science as a branch of agriculture mainly studies",
+   "options": [
+    "livestock diseases",
+    "soil formation, classification and fertility",
+    "fish farming techniques",
+    "farm machinery design"
+   ],
+   "answer": "1",
+   "solution": "Soil science focuses on understanding soils to improve and sustain their fertility for crop production."
+  }
+ ]
+}

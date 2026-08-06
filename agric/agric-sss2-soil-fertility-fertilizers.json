@@ -1,0 +1,260 @@
+{
+  "subject": "Agricultural Science",
+  "level": "SSS 2",
+  "slug": "soil-fertility-fertilizers",
+  "title": "Soil Fertility and Plant Nutrition",
+  "outline": [
+    "Concept and indicators of soil fertility",
+    "Essential plant nutrients and their functions",
+    "Nutrient deficiency symptoms",
+    "Sources of soil nutrients: organic manures and inorganic fertilizers",
+    "Fertilizer grades and nutrient calculations",
+    "Fertilizer application methods and timing",
+    "Soil fertility maintenance practices",
+    "Environmental effects of fertilizer misuse"
+  ],
+  "modules": [
+    {
+      "title": "Concept of Soil Fertility and Essential Nutrients",
+      "html": "\n<h4>Meaning of Soil Fertility</h4>\n<p>Soil fertility is the inherent capacity of a soil to supply essential nutrients in adequate quantity and proper balance for plant growth, in the absence of toxic substances that would hinder plant growth. A fertile soil must also possess favourable physical conditions (good structure, aeration, drainage) and a healthy population of beneficial micro-organisms. Fertility is different from productivity: a soil can be fertile yet unproductive if other factors, such as poor rainfall or pests, limit yield.</p>\n<h4>Essential Plant Nutrients</h4>\n<p>Plants require sixteen to seventeen essential elements, classified as macronutrients (required in large amounts) and micronutrients (required in trace amounts).</p>\n<table class=\"tb-table\">\n<tr><th>Category</th><th>Elements</th></tr>\n<tr><td>Primary macronutrients</td><td>Nitrogen (N), Phosphorus (P), Potassium (K)</td></tr>\n<tr><td>Secondary macronutrients</td><td>Calcium (Ca), Magnesium (Mg), Sulphur (S)</td></tr>\n<tr><td>Micronutrients</td><td>Iron, Manganese, Zinc, Copper, Boron, Molybdenum, Chlorine</td></tr>\n<tr><td>Non-mineral elements</td><td>Carbon, Hydrogen, Oxygen (from air and water)</td></tr>\n</table>\n<h4>Functions of Major Nutrients</h4>\n<ul>\n<li><strong>Nitrogen:</strong> Promotes vegetative growth, is a component of chlorophyll, proteins and enzymes.</li>\n<li><strong>Phosphorus:</strong> Essential for root development, energy transfer (ATP), flowering and seed formation.</li>\n<li><strong>Potassium:</strong> Regulates water balance, enzyme activation, and improves disease resistance and quality of produce.</li>\n<li><strong>Calcium:</strong> Strengthens cell walls and aids root development.</li>\n<li><strong>Magnesium:</strong> Central atom of the chlorophyll molecule, vital for photosynthesis.</li>\n<li><strong>Sulphur:</strong> Component of amino acids and proteins.</li>\n</ul>\n<h4>Deficiency Symptoms</h4>\n<p>Nitrogen deficiency causes general yellowing (chlorosis) of older leaves and stunted growth. Phosphorus deficiency causes stunted growth with purplish leaves. Potassium deficiency causes scorching (necrosis) of leaf margins. Recognising these symptoms early allows farmers to apply corrective fertilizer measures promptly, preventing significant yield loss.</p>\n",
+      "examples": [
+        {
+          "q": "A farmer notices that the older leaves of his maize plants are turning yellow while the plant is generally stunted. What nutrient deficiency is likely, and what corrective fertilizer would you recommend?",
+          "a": "These are classic symptoms of nitrogen deficiency, since nitrogen is mobile in the plant and is remobilised from older to younger leaves, leaving older leaves chlorotic first. A nitrogenous fertilizer such as urea (46% N) or ammonium sulphate (21% N) should be applied to correct the deficiency."
+        },
+        {
+          "q": "Distinguish between soil fertility and soil productivity using an example.",
+          "a": "Soil fertility refers strictly to the soil's inherent nutrient supplying capacity, while productivity refers to the actual crop yield obtained, which also depends on external factors like climate, pests and management. For example, a nutrient-rich (fertile) soil in a drought-prone area may still give low yields (low productivity) due to insufficient rainfall."
+        }
+      ]
+    },
+    {
+      "title": "Organic and Inorganic Fertilizers",
+      "html": "\n<h4>Organic Manures</h4>\n<p>Organic manures are derived from plant and animal residues and improve both the physical and chemical properties of soil. Common types include farmyard manure, poultry droppings, compost and green manure. Although organic manures generally contain lower concentrations of nutrients than inorganic fertilizers, they release nutrients slowly, improve soil structure, increase organic matter and water-holding capacity, and support beneficial micro-organisms.</p>\n<h4>Inorganic (Chemical) Fertilizers</h4>\n<p>Inorganic fertilizers are manufactured compounds containing concentrated amounts of one or more essential nutrients. They are described by a fertilizer grade, written as three numbers representing the percentage by weight of nitrogen (N), phosphorus as \\(P_2O_5\\) and potassium as \\(K_2O\\) respectively. For example, NPK 15-15-15 contains 15% N, 15% \\(P_2O_5\\) and 15% \\(K_2O\\) by weight.</p>\n<table class=\"tb-table\">\n<tr><th>Fertilizer</th><th>Grade / Composition</th></tr>\n<tr><td>Urea</td><td>46% N</td></tr>\n<tr><td>Single Super Phosphate (SSP)</td><td>18% P2O5</td></tr>\n<tr><td>Muriate of Potash (MOP)</td><td>60% K2O</td></tr>\n<tr><td>NPK compound fertilizer</td><td>15-15-15</td></tr>\n</table>\n<h4>Calculating Fertilizer Application Rates</h4>\n<p>To determine the quantity of fertilizer needed to supply a specified amount of nutrient per hectare, we use:</p>\n$$ \\text{Quantity of fertilizer (kg)} = \\frac{\\text{Nutrient required (kg)}}{\\text{Percentage nutrient content}} \\times 100 $$\n<p>For instance, to supply 60 kg N/ha using urea (46% N):</p>\n$$ \\text{Quantity of urea} = \\frac{60}{46} \\times 100 = 130.4\\ \\text{kg/ha} $$\n<h4>Application Methods and Timing</h4>\n<ul>\n<li><strong>Broadcasting:</strong> Uniform scattering of fertilizer over the field, suitable before planting.</li>\n<li><strong>Band placement:</strong> Fertilizer placed in bands alongside seed rows to reduce loss and improve uptake efficiency.</li>\n<li><strong>Top dressing:</strong> Applying fertilizer (usually nitrogenous) around growing plants after germination.</li>\n<li><strong>Foliar application:</strong> Spraying diluted fertilizer solution directly on leaves for rapid uptake, especially for micronutrients.</li>\n</ul>\n<p>Timing is critical: nitrogen top-dressing is often split into two applications to reduce leaching losses, while phosphorus, being immobile in soil, is best applied at planting close to the root zone.</p>\n",
+      "examples": [
+        {
+          "q": "Calculate the quantity of NPK 15-15-15 fertilizer required to supply 45 kg of nitrogen per hectare.",
+          "a": "Quantity = (Nutrient required / % nutrient content) × 100 = (45/15) × 100 = 300 kg of NPK 15-15-15 per hectare."
+        },
+        {
+          "q": "A farmer wants to supply 90 kg K2O/ha using Muriate of Potash (60% K2O). How many kilograms of MOP are required per hectare, and for a 4-hectare farm?",
+          "a": "Quantity per hectare = (90/60) × 100 = 150 kg/ha. For 4 hectares: 150 × 4 = 600 kg of Muriate of Potash."
+        }
+      ]
+    },
+    {
+      "title": "Soil Fertility Maintenance and Environmental Considerations",
+      "html": "\n<h4>Practices for Maintaining Soil Fertility</h4>\n<p>Continuous cropping without replenishment depletes soil nutrients. Farmers maintain fertility through several practices:</p>\n<ul>\n<li><strong>Crop rotation:</strong> Alternating cereals with legumes (which fix atmospheric nitrogen through Rhizobium bacteria) restores soil nitrogen.</li>\n<li><strong>Application of organic manure and compost:</strong> Replenishes organic matter and nutrients while improving soil structure.</li>\n<li><strong>Use of cover crops and green manuring:</strong> Protects soil from erosion and adds organic matter when ploughed under.</li>\n<li><strong>Mixed cropping and agroforestry:</strong> Diversifies nutrient use and improves nutrient cycling.</li>\n<li><strong>Fallowing:</strong> Resting land allows natural regeneration of soil fertility through decomposition of vegetation.</li>\n<li><strong>Liming:</strong> Correcting soil acidity improves nutrient availability.</li>\n</ul>\n<h4>Soil Testing</h4>\n<p>Before applying fertilizer, soil testing determines nutrient status and pH, enabling farmers to apply the right type and quantity of fertilizer, thereby avoiding waste and reducing cost. Soil samples are collected from various points in the field, mixed thoroughly, and analysed in a laboratory for pH, organic matter, and available N, P, K.</p>\n<h4>Environmental Effects of Fertilizer Misuse</h4>\n<p>Excessive or poorly timed fertilizer application can cause serious environmental problems:</p>\n<ol>\n<li><strong>Eutrophication:</strong> Nitrogen and phosphorus runoff into rivers and lakes causes excessive algal growth, depleting dissolved oxygen and killing aquatic life.</li>\n<li><strong>Soil acidification:</strong> Continuous use of ammonium-based fertilizers lowers soil pH over time.</li>\n<li><strong>Groundwater contamination:</strong> Nitrate leaching can contaminate drinking water sources, posing health risks such as methemoglobinemia in infants.</li>\n<li><strong>Salt accumulation:</strong> Over-fertilization can raise soil salinity, damaging plant roots through osmotic stress.</li>\n</ol>\n<p>Best management practices include applying fertilizer based on soil test recommendations, using the correct rate and timing (split application), incorporating fertilizer into the soil rather than surface application, and maintaining buffer strips near water bodies.</p>\n",
+      "examples": [
+        {
+          "q": "Explain how crop rotation involving legumes helps to maintain soil nitrogen fertility.",
+          "a": "Legumes such as cowpea and soybean form a symbiotic relationship with Rhizobium bacteria in root nodules, which fix atmospheric nitrogen (N2) into ammonium forms usable by plants. When legumes are rotated with cereals, residual fixed nitrogen and decomposing legume residues enrich the soil, reducing the need for nitrogen fertilizer in the following cereal crop."
+        },
+        {
+          "q": "A farm near a river receives excessive nitrogen fertilizer application year after year. Predict and explain the likely environmental consequence.",
+          "a": "Excess nitrogen not taken up by crops can be washed off by runoff or leached into the nearby river, leading to eutrophication. This causes excessive growth of algae, which upon decomposition depletes dissolved oxygen in the water, leading to fish kills and loss of aquatic biodiversity."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Soil fertility is best defined as",
+      "options": [
+        "the total area of farmland available",
+        "the capacity of soil to supply nutrients adequately for plant growth",
+        "the amount of water a soil can hold",
+        "the colour of the topsoil"
+      ],
+      "answer": "1",
+      "solution": "Soil fertility refers to a soil's inherent capacity to supply essential nutrients in the right amounts and balance for plant growth."
+    },
+    {
+      "q": "Which of the following is a primary macronutrient?",
+      "options": [
+        "Iron",
+        "Zinc",
+        "Nitrogen",
+        "Boron"
+      ],
+      "answer": "2",
+      "solution": "Nitrogen, phosphorus and potassium are the primary macronutrients required in the largest amounts."
+    },
+    {
+      "q": "Magnesium is a key component of which plant molecule?",
+      "options": [
+        "DNA",
+        "Chlorophyll",
+        "Cellulose",
+        "Starch"
+      ],
+      "answer": "1",
+      "solution": "Magnesium forms the central atom of the chlorophyll molecule essential for photosynthesis."
+    },
+    {
+      "q": "Nitrogen deficiency in plants typically shows first as",
+      "options": [
+        "purple discolouration of leaves",
+        "yellowing of older leaves",
+        "scorched leaf margins",
+        "stunted root growth only"
+      ],
+      "answer": "1",
+      "solution": "Nitrogen is mobile within the plant and is remobilised to younger tissues, so older leaves show chlorosis first."
+    },
+    {
+      "q": "NPK 15-15-15 fertilizer contains what percentage of potassium (as K2O)?",
+      "options": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": "2",
+      "solution": "The third number in an NPK grade represents the percentage of K2O, which is 15% in NPK 15-15-15."
+    },
+    {
+      "q": "How many kilograms of urea (46% N) are needed to supply 46 kg of nitrogen per hectare?",
+      "options": [
+        "46 kg",
+        "100 kg",
+        "150 kg",
+        "200 kg"
+      ],
+      "answer": "1",
+      "solution": "Quantity = (46/46) × 100 = 100 kg of urea."
+    },
+    {
+      "q": "Which fertilizer application method involves spraying nutrient solution on leaves?",
+      "options": [
+        "Broadcasting",
+        "Band placement",
+        "Foliar application",
+        "Top dressing"
+      ],
+      "answer": "2",
+      "solution": "Foliar application involves spraying dissolved fertilizer directly onto plant leaves for quick absorption."
+    },
+    {
+      "q": "Phosphorus is especially important for",
+      "options": [
+        "stem elongation only",
+        "root development and flowering",
+        "leaf colour only",
+        "water regulation only"
+      ],
+      "answer": "1",
+      "solution": "Phosphorus promotes strong root development, energy transfer and flowering/seed formation."
+    },
+    {
+      "q": "Which practice helps restore soil nitrogen naturally through biological fixation?",
+      "options": [
+        "Liming",
+        "Crop rotation with legumes",
+        "Deep ploughing",
+        "Irrigation"
+      ],
+      "answer": "1",
+      "solution": "Legumes fix atmospheric nitrogen via Rhizobium bacteria, enriching soil nitrogen when rotated with other crops."
+    },
+    {
+      "q": "Excess fertilizer nutrients washed into rivers commonly cause",
+      "options": [
+        "soil erosion",
+        "eutrophication",
+        "increased soil pH only",
+        "improved fish yield"
+      ],
+      "answer": "1",
+      "solution": "Nutrient runoff, especially nitrogen and phosphorus, leads to eutrophication, causing algal blooms and oxygen depletion in water bodies."
+    },
+    {
+      "q": "Organic manures are generally advantageous because they",
+      "options": [
+        "contain very high nutrient concentration only",
+        "release nutrients slowly and improve soil structure",
+        "act instantly like inorganic fertilizer",
+        "always eliminate the need for soil testing"
+      ],
+      "answer": "1",
+      "solution": "Organic manures release nutrients gradually and improve the physical properties of soil, unlike concentrated inorganic fertilizers."
+    },
+    {
+      "q": "Single Super Phosphate (SSP) typically contains what percentage of P2O5?",
+      "options": [
+        "8%",
+        "18%",
+        "28%",
+        "38%"
+      ],
+      "answer": "1",
+      "solution": "SSP contains approximately 18% P2O5."
+    },
+    {
+      "q": "The best time to apply phosphorus fertilizer is",
+      "options": [
+        "several weeks after planting",
+        "at planting, near the root zone",
+        "only during flowering",
+        "after harvest"
+      ],
+      "answer": "1",
+      "solution": "Phosphorus is immobile in soil, so it should be applied close to the root zone at planting for effective uptake."
+    },
+    {
+      "q": "Muriate of Potash (MOP) contains approximately what percentage of K2O?",
+      "options": [
+        "30%",
+        "45%",
+        "60%",
+        "75%"
+      ],
+      "answer": "2",
+      "solution": "MOP typically contains about 60% K2O."
+    },
+    {
+      "q": "Which soil fertility maintenance practice involves resting land to allow natural regeneration?",
+      "options": [
+        "Fallowing",
+        "Mono-cropping",
+        "Continuous cropping",
+        "Deep tillage"
+      ],
+      "answer": "0",
+      "solution": "Fallowing allows the land to rest, permitting natural vegetation regrowth and nutrient replenishment through decomposition."
+    },
+    {
+      "q": "A quantity of 45 kg N/ha is needed using NPK 15-15-15. What quantity of fertilizer (kg/ha) is required?",
+      "options": [
+        "150 kg",
+        "200 kg",
+        "300 kg",
+        "450 kg"
+      ],
+      "answer": "2",
+      "solution": "Quantity = (45/15) × 100 = 300 kg/ha."
+    },
+    {
+      "q": "Soil testing before fertilizer application is important mainly because it",
+      "options": [
+        "increases the cost of farming",
+        "helps determine the right type and amount of fertilizer needed",
+        "eliminates the need for crop rotation",
+        "guarantees higher rainfall"
+      ],
+      "answer": "1",
+      "solution": "Soil testing reveals nutrient status and pH, enabling precise, cost-effective fertilizer recommendations."
+    },
+    {
+      "q": "Continuous use of ammonium-based fertilizers tends to make soil become",
+      "options": [
+        "more alkaline",
+        "more acidic",
+        "more saline only",
+        "unaffected in pH"
+      ],
+      "answer": "1",
+      "solution": "Ammonium-based fertilizers release hydrogen ions during nitrification, gradually lowering soil pH (increasing acidity)."
+    }
+  ]
+}

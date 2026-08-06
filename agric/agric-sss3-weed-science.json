@@ -1,0 +1,274 @@
+{
+  "subject": "Agricultural Science",
+  "level": "SSS 3",
+  "slug": "weed-science",
+  "title": "Weed Science",
+  "outline": [
+    "Meaning, classification and characteristics of weeds",
+    "Beneficial and harmful effects of weeds",
+    "Methods of weed control: cultural, mechanical, biological and chemical",
+    "Herbicides: classification, mode of action and application",
+    "Weed-crop competition and economic threshold",
+    "Common weeds of West Africa and their identification",
+    "Integrated weed management (IWM)",
+    "Calculations in herbicide application and weed control economics"
+  ],
+  "modules": [
+    {
+      "title": "Meaning, Classification and Characteristics of Weeds",
+      "html": "\n<h4>Definition of a Weed</h4>\n<p>A weed is any plant growing where it is not wanted, competing with cultivated crops for growth resources such as light, water, nutrients, space and carbon dioxide. Weeds are generally undesirable because they reduce crop yield and quality, harbour pests and diseases, and increase the cost of production. However, the definition of a weed is relative: a plant considered a weed in one field (e.g. volunteer maize in a cassava farm) may be a valued crop elsewhere.</p>\n<h4>Classification of Weeds</h4>\n<p>Weeds can be classified based on several criteria:</p>\n<ul>\n<li><strong>Based on life cycle:</strong> annual weeds (complete life cycle in one season, e.g. <em>Euphorbia heterophylla</em>), biennial weeds (two seasons, e.g. wild carrot) and perennial weeds (live more than two years, e.g. <em>Imperata cylindrica</em> - spear grass).</li>\n<li><strong>Based on morphology/leaf structure:</strong> grasses (narrow, parallel-veined leaves, fibrous roots, e.g. <em>Digitaria horizontalis</em>), sedges (triangular stems, e.g. <em>Cyperus rotundus</em> - nut grass) and broadleaved weeds (net-veined leaves, e.g. <em>Tridax procumbens</em>).</li>\n<li><strong>Based on habitat:</strong> terrestrial weeds (found on land) and aquatic weeds (found in water bodies, e.g. water hyacinth - <em>Eichhornia crassipes</em>).</li>\n<li><strong>Based on mode of nutrition:</strong> parasitic weeds (e.g. <em>Striga</em> species, which attack cereal roots) and non-parasitic weeds.</li>\n</ul>\n<h4>Characteristics that Make Weeds Successful</h4>\n<ol>\n<li>Production of large numbers of seeds with high viability and long dormancy.</li>\n<li>Efficient seed dispersal mechanisms (wind, water, animals, machinery).</li>\n<li>Rapid vegetative propagation through rhizomes, stolons, tubers or bulbils (e.g. <em>Imperata cylindrica</em> spreads via rhizomes).</li>\n<li>Ability to tolerate a wide range of environmental conditions (drought, poor soil, shade).</li>\n<li>Rapid germination and early vigorous growth that allows weeds to out-compete crop seedlings.</li>\n<li>Allelopathic ability - release of chemical substances that inhibit growth of neighbouring crop plants.</li>\n</ol>\n<h4>Economic Importance of Understanding Weed Biology</h4>\n<p>Knowledge of a weed's life cycle and reproduction method determines the most effective control method. For instance, perennial weeds that reproduce vegetatively (like spear grass) are difficult to control by hand weeding alone because broken rhizome fragments regenerate into new plants; such weeds require herbicides or deep ploughing. Annual weeds that reproduce only by seed can be effectively managed by preventing seed set through timely weeding before flowering, thereby depleting the soil seed bank over successive seasons and reducing future weed pressure on the farm considerably.</p>\n",
+      "examples": [
+        {
+          "q": "Distinguish between an annual and a perennial weed, giving one example of each found in West Africa.",
+          "a": "An annual weed completes its life cycle (germination, growth, flowering, seeding and death) within one growing season and relies on seeds for survival, e.g. Euphorbia heterophylla (wild poinsettia). A perennial weed lives for more than two years, often dying back above ground but persisting through underground vegetative structures such as rhizomes or tubers, e.g. Imperata cylindrica (spear grass), which regenerates from rhizome fragments even after the shoot is cut or burnt."
+        },
+        {
+          "q": "Why is Striga (witchweed) considered one of the most destructive weeds of cereal crops in the savanna zone of West Africa?",
+          "a": "Striga is a parasitic weed that attaches to the roots of cereal crops (maize, sorghum, millet) via haustoria and withdraws water, nutrients and photosynthates directly from the host plant before it even emerges above soil, causing severe stunting and yield loss of up to 100% in heavy infestations. It also produces enormous numbers of tiny, long-lived seeds (up to 500,000 per plant) that can remain dormant in the soil for over 15 years, making eradication extremely difficult; control therefore requires integrated approaches such as trap cropping, resistant varieties, and soil fertility improvement."
+        }
+      ]
+    },
+    {
+      "title": "Beneficial and Harmful Effects of Weeds",
+      "html": "\n<h4>Harmful Effects of Weeds</h4>\n<p>Weeds constitute one of the greatest constraints to crop production in the tropics. Their harmful effects include:</p>\n<ul>\n<li><strong>Competition with crops:</strong> weeds compete vigorously with crops for light, water, nutrients, space and carbon dioxide, thereby reducing crop yield; yield losses from uncontrolled weeds can range from 20% to 100% depending on the crop and weed density.</li>\n<li><strong>Harbouring pests and pathogens:</strong> many weeds serve as alternate hosts for insect pests, nematodes, fungi, bacteria and viruses that later attack crops.</li>\n<li><strong>Reduction of produce quality:</strong> weed seeds mixed with harvested grains lower market value and may be poisonous or produce off-flavours (e.g. in milk when cows graze bitter weeds).</li>\n<li><strong>Increase in cost of production:</strong> labour, herbicides and machinery costs used in weeding increase the overall cost of crop production, reducing farmers' profit margins.</li>\n<li><strong>Obstruction of farm operations:</strong> weeds hinder movement of farm machinery, reduce efficiency of harvesting, and some climbing weeds smother crop plants.</li>\n<li><strong>Poisoning of livestock:</strong> some weeds such as Datura stramonium are toxic and may kill grazing animals.</li>\n<li><strong>Blockage of waterways:</strong> aquatic weeds like water hyacinth block irrigation canals, rivers and impede fishing and transportation.</li>\n</ul>\n<h4>Beneficial Effects of Weeds</h4>\n<p>Despite their negative impact, weeds have several useful roles in agriculture and the environment:</p>\n<ol>\n<li><strong>Soil erosion control:</strong> weeds cover bare soil, reducing the impact of raindrops and wind, thereby minimising erosion.</li>\n<li><strong>Soil fertility improvement:</strong> leguminous weeds (e.g. Mimosa pudica, Centrosema) fix atmospheric nitrogen; decomposing weed residues add organic matter and nutrients to the soil.</li>\n<li><strong>Source of animal feed:</strong> many weeds such as wild grasses and Aspilia africana provide forage for livestock.</li>\n<li><strong>Medicinal uses:</strong> several weeds have ethno-medicinal value, e.g. Chromolaena odorata sap is used to stop bleeding, and Aspilia africana is used as an antiseptic.</li>\n<li><strong>Habitat and food for wildlife:</strong> weeds provide shelter and food for beneficial insects (pollinators, predators of pests) and other wildlife.</li>\n<li><strong>Indicator plants:</strong> the presence of certain weeds indicates specific soil conditions, guiding farmers on soil management practices such as liming acidic soils.</li>\n<li><strong>Source of mulch and green manure:</strong> cut weeds can be used as mulch to conserve soil moisture and suppress further weed growth, or ploughed in as green manure.</li>\n</ol>\n<h4>Economic Threshold Concept</h4>\n<p>Because weeds have both harmful and beneficial roles, farmers apply the concept of the economic threshold - the weed density at which the cost of control equals the value of yield loss prevented. Below this threshold, control is not economically justified. This principle underlies modern integrated weed management rather than complete eradication, and encourages farmers to tolerate low weed populations that provide ecological benefits while controlling weeds only when they threaten to cause significant economic loss to the crop enterprise.</p>\n",
+      "examples": [
+        {
+          "q": "A farmer notices that a section of his field infested with weeds shows less soil erosion during heavy rainfall compared to the clean-weeded section. Explain this observation and its agricultural implication.",
+          "a": "The weed cover intercepts raindrop impact, reducing soil splash and surface runoff, while weed roots bind soil particles together, increasing infiltration and reducing erosion. The implication is that farmers practising clean cultivation on slopes should adopt cover crops, mulching or minimum tillage to replace the erosion-control benefit lost when weeds are removed, especially in the humid, high-rainfall zones of West Africa."
+        },
+        {
+          "q": "Explain why some leguminous weeds are ploughed back into the soil rather than completely removed from a fallow field.",
+          "a": "Leguminous weeds host Rhizobium bacteria in root nodules that fix atmospheric nitrogen into forms usable by plants. When ploughed into the soil as green manure, they decompose and release nitrogen and organic matter, improving soil fertility and structure for the next crop, which is a traditional method of restoring soil fertility during bush fallowing in West African farming systems."
+        }
+      ]
+    },
+    {
+      "title": "Methods of Weed Control",
+      "html": "\n<h4>Overview of Weed Control Methods</h4>\n<p>Weed control refers to the reduction of weed growth and reproduction to a level that does not cause significant economic loss, without necessarily eliminating the weed population completely. Several methods are used, often in combination, as follows.</p>\n<h4>1. Cultural Methods</h4>\n<ul>\n<li><strong>Crop rotation:</strong> alternating crops disrupts the life cycle of weeds adapted to a particular cropping system.</li>\n<li><strong>Use of certified weed-free seeds:</strong> prevents introduction of weed seeds into the farm.</li>\n<li><strong>Proper spacing and high plant population:</strong> closely spaced crops shade out weeds by early canopy closure.</li>\n<li><strong>Mulching:</strong> covering the soil with organic or plastic mulch blocks light needed for weed germination.</li>\n<li><strong>Timely planting and use of cover crops:</strong> smother weeds through competition (e.g. Mucuna, Centrosema).</li>\n<li><strong>Fallowing and crop rotation with smother crops</strong> reduce weed seed banks over time.</li>\n</ul>\n<h4>2. Mechanical (Physical) Methods</h4>\n<ul>\n<li><strong>Hand pulling and hoeing:</strong> traditional method suitable for small farms, effective against annual weeds but labour-intensive.</li>\n<li><strong>Slashing/mowing:</strong> cutting weeds above ground level using cutlass or mower.</li>\n<li><strong>Ploughing and harrowing:</strong> mechanically uproots weeds and buries seeds, disrupting rhizome networks of perennial weeds.</li>\n<li><strong>Burning:</strong> destroys weed foliage and seeds on the soil surface, though it may not kill underground rhizomes and can destroy soil organisms.</li>\n<li><strong>Flooding:</strong> used in rice fields to drown terrestrial weeds by submersion.</li>\n</ul>\n<h4>3. Biological Methods</h4>\n<p>This involves the use of living organisms - insects, fungi, bacteria, nematodes or grazing animals - to control specific weeds. For example, the weevil Neochetina eichhorniae has been used to control water hyacinth, and goats are used to graze down weeds on fallow land. Biological control is environmentally friendly, self-perpetuating and cost effective in the long run, though results are usually slow and species-specific.</p>\n<h4>4. Chemical Method (Herbicides)</h4>\n<p>This involves the use of chemical substances (herbicides) to kill or suppress weed growth. It is fast, effective for large-scale farms, and saves labour, but can be costly, may harm non-target organisms, and can lead to herbicide-resistant weed populations if misused. Herbicides are discussed in detail in the next module.</p>\n<h4>Choosing an Appropriate Method</h4>\n<p>The choice of weed control method depends on the type and density of weeds, the crop grown, cost and availability of labour, size of farm, environmental considerations, and the stage of crop growth. Small-scale farmers in West Africa often combine cultural practices with hand weeding, while commercial plantations rely more on mechanical and chemical methods integrated into a comprehensive management plan that maximises efficiency while minimising environmental damage and production cost.</p>\n",
+      "examples": [
+        {
+          "q": "A rice farmer wants to control weeds in a lowland rice field using an environmentally sound, low-cost method. Recommend and justify a suitable method.",
+          "a": "Flooding (water management) is recommended: maintaining a standing water level of about 5-10 cm submerges and drowns most terrestrial weeds that cannot tolerate waterlogging, while rice, being adapted to flooded conditions through aerenchyma tissue, is unaffected. This method is low-cost (no herbicide purchase), environmentally friendly, and traditionally practised in lowland/swamp rice systems in West Africa, though it must be combined with proper land levelling to ensure uniform water depth."
+        },
+        {
+          "q": "State two advantages and two disadvantages of mechanical weed control compared with chemical weed control.",
+          "a": "Advantages: (1) It has no harmful chemical residue effect on soil, water or non-target organisms; (2) it can improve soil aeration and structure when done through ploughing/hoeing. Disadvantages: (1) It is labour-intensive and time-consuming, especially on large farms; (2) it may damage crop roots if not carefully done, and does not effectively control perennial weeds whose rhizomes regenerate after cutting."
+        }
+      ]
+    },
+    {
+      "title": "Herbicides and Weed-Crop Competition Economics",
+      "html": "\n<h4>Classification of Herbicides</h4>\n<p>Herbicides can be classified based on several criteria:</p>\n<ul>\n<li><strong>Based on selectivity:</strong> selective herbicides kill specific weed types without harming the crop (e.g. 2,4-D controls broadleaved weeds in cereal fields), while non-selective (total) herbicides kill all vegetation they contact (e.g. glyphosate, paraquat).</li>\n<li><strong>Based on time of application:</strong> pre-planting herbicides (applied before sowing, e.g. paraquat), pre-emergence herbicides (applied after planting but before crop/weed emergence, e.g. atrazine) and post-emergence herbicides (applied after crop and weeds have emerged, e.g. 2,4-D).</li>\n<li><strong>Based on mode of action:</strong> contact herbicides kill only the plant parts they touch (e.g. paraquat), while systemic (translocated) herbicides are absorbed and moved throughout the plant to kill roots and shoots (e.g. glyphosate, 2,4-D).</li>\n</ul>\n<h4>Mode of Action and Application</h4>\n<p>Herbicides act by disrupting specific physiological processes such as photosynthesis (e.g. atrazine inhibits electron transport), cell division (e.g. dinitroanilines), or by mimicking plant growth hormones causing uncontrolled growth and death (e.g. 2,4-D mimics auxin). Correct application requires attention to the recommended dosage/concentration, appropriate nozzle and sprayer calibration, weather conditions (avoid spraying before rain or in high wind), and use of protective clothing to prevent operator poisoning.</p>\n<h4>Calculating Herbicide Application Rates</h4>\n<p>Farmers must calculate the correct quantity of herbicide and water (spray volume) needed per hectare. The basic formula is:</p>\n$$ \\text{Quantity of herbicide needed} = \\text{Recommended rate (L/ha)} \\times \\text{Area to be treated (ha)} $$\n<p>Where the herbicide is a concentrate to be diluted, the dilution rate determines the volume of water: for example, if the recommended rate is 3 L of formulated herbicide per hectare and the spray volume is 200 L of water per hectare, then for a knapsack sprayer of 15 L capacity, the herbicide required per tank load is calculated proportionally using the ratio of concentrate to total spray volume.</p>\n<h4>Weed-Crop Competition and Critical Period</h4>\n<p>The critical period of weed competition is the phase in a crop's growth cycle during which weeds cause the greatest yield reduction if not controlled; it typically falls within the first third to half of the crop's growth cycle. Removing weeds before and during this period, and allowing later-emerging weeds (which cause less competition) to persist without economic loss, is the basis of the economic threshold concept discussed earlier in this module.</p>\n<h4>Precautions in Herbicide Use</h4>\n<ol>\n<li>Read and follow manufacturer's instructions on the label strictly.</li>\n<li>Wear protective clothing (gloves, boots, nose mask, goggles).</li>\n<li>Avoid spraying during windy conditions to prevent drift onto neighbouring crops.</li>\n<li>Store herbicides away from children, food and water sources.</li>\n<li>Calibrate sprayers correctly to avoid under- or over-application.</li>\n<li>Observe the pre-harvest interval before consuming treated produce.</li>\n</ol>\n",
+      "examples": [
+        {
+          "q": "A herbicide is recommended to be applied at 2.5 L per hectare. Calculate the quantity of herbicide required to treat a farm of 6.5 hectares.",
+          "a": "Using Quantity = Rate x Area: 2.5 L/ha x 6.5 ha = 16.25 L of herbicide is required to treat the entire 6.5-hectare farm."
+        },
+        {
+          "q": "A farmer uses a 15-litre knapsack sprayer to apply a herbicide recommended at 3 L of product mixed in 200 L of water per hectare. How much herbicide concentrate should be added to each full tank of the sprayer?",
+          "a": "The dilution ratio is 3 L herbicide : 200 L water, i.e. 3/200 L herbicide per litre of spray mixture. For a 15 L tank: (3/200) x 15 = 0.225 L = 225 mL of herbicide concentrate should be added to each 15 L tank, topped up with water to the 15 L mark."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which of the following best defines a weed?",
+      "options": [
+        "A plant with medicinal value",
+        "Any plant growing where it is not wanted",
+        "A plant that produces flowers",
+        "A cultivated crop plant"
+      ],
+      "answer": "1",
+      "solution": "A weed is defined relative to human interest as any plant growing where it is undesired, competing with crops for resources."
+    },
+    {
+      "q": "Which weed reproduces mainly through underground rhizomes, making it difficult to control by hand weeding?",
+      "options": [
+        "Euphorbia heterophylla",
+        "Imperata cylindrica",
+        "Tridax procumbens",
+        "Ageratum conyzoides"
+      ],
+      "answer": "1",
+      "solution": "Imperata cylindrica (spear grass) is a perennial weed that spreads vigorously through rhizome fragments, resisting simple hand weeding."
+    },
+    {
+      "q": "Striga species are classified as which type of weed?",
+      "options": [
+        "Aquatic weed",
+        "Parasitic weed",
+        "Biennial weed",
+        "Non-parasitic broadleaved weed"
+      ],
+      "answer": "1",
+      "solution": "Striga attaches to cereal roots via haustoria and derives nutrients directly from the host, making it a parasitic weed."
+    },
+    {
+      "q": "Which of the following is a beneficial effect of weeds?",
+      "options": [
+        "Harbouring crop pests",
+        "Blocking waterways",
+        "Reducing soil erosion through ground cover",
+        "Reducing produce quality"
+      ],
+      "answer": "2",
+      "solution": "Weeds cover bare soil, reducing raindrop impact and runoff, thereby helping to control soil erosion."
+    },
+    {
+      "q": "The economic threshold in weed management refers to:",
+      "options": [
+        "The total elimination of all weeds",
+        "The weed density at which control cost equals the value of yield loss prevented",
+        "The maximum herbicide dosage allowed",
+        "The number of weed species in a field"
+      ],
+      "answer": "1",
+      "solution": "Economic threshold is the point where the cost of controlling weeds equals the economic benefit gained from preventing yield loss."
+    },
+    {
+      "q": "Which method of weed control uses living organisms such as insects or grazing animals?",
+      "options": [
+        "Chemical method",
+        "Mechanical method",
+        "Biological method",
+        "Cultural method"
+      ],
+      "answer": "2",
+      "solution": "Biological control uses natural enemies like insects, pathogens or grazing animals to suppress weed populations."
+    },
+    {
+      "q": "A herbicide that kills only the plant parts it directly touches is called a:",
+      "options": [
+        "Systemic herbicide",
+        "Selective herbicide",
+        "Contact herbicide",
+        "Pre-emergence herbicide"
+      ],
+      "answer": "2",
+      "solution": "Contact herbicides act only where they physically touch the plant tissue, unlike systemic herbicides which translocate through the plant."
+    },
+    {
+      "q": "2,4-D is widely used because it is:",
+      "options": [
+        "Non-selective and kills all plants",
+        "Selective, controlling broadleaved weeds in cereal crops",
+        "Only effective on aquatic weeds",
+        "A biological control agent"
+      ],
+      "answer": "1",
+      "solution": "2,4-D is a selective, systemic herbicide that mimics auxin and controls broadleaved weeds without harming grass-family cereal crops."
+    },
+    {
+      "q": "If the recommended herbicide rate is 2 L/ha, how much is needed for a 4-hectare farm?",
+      "options": [
+        "2 L",
+        "4 L",
+        "8 L",
+        "10 L"
+      ],
+      "answer": "2",
+      "solution": "Quantity = Rate x Area = 2 L/ha x 4 ha = 8 L."
+    },
+    {
+      "q": "Which weed control method is best suited for lowland rice fields to drown terrestrial weeds?",
+      "options": [
+        "Burning",
+        "Flooding",
+        "Mulching",
+        "Hand pulling"
+      ],
+      "answer": "1",
+      "solution": "Flooding submerges terrestrial weeds that cannot survive waterlogging, while rice tolerates flooded conditions."
+    },
+    {
+      "q": "Sedges can be identified by which distinguishing morphological feature?",
+      "options": [
+        "Parallel-veined leaves and fibrous roots",
+        "Triangular (three-sided) stems",
+        "Net-veined broad leaves",
+        "Woody perennial stems only"
+      ],
+      "answer": "1",
+      "solution": "Sedges, such as Cyperus rotundus, are characterised by triangular stem cross-sections, distinguishing them from grasses and broadleaved weeds."
+    },
+    {
+      "q": "Which of the following is NOT a cultural method of weed control?",
+      "options": [
+        "Crop rotation",
+        "Mulching",
+        "Use of glyphosate",
+        "Close spacing of crops"
+      ],
+      "answer": "2",
+      "solution": "Glyphosate application is a chemical method, not a cultural practice; crop rotation, mulching and close spacing are cultural methods."
+    },
+    {
+      "q": "A pre-emergence herbicide is applied:",
+      "options": [
+        "After weeds have flowered",
+        "Before crop and weed emergence",
+        "Only on aquatic weeds",
+        "After harvesting the crop"
+      ],
+      "answer": "1",
+      "solution": "Pre-emergence herbicides are applied to the soil after planting but before the crop and weed seeds germinate and emerge."
+    },
+    {
+      "q": "The critical period of weed competition refers to:",
+      "options": [
+        "The entire life of the crop",
+        "The period when weeds cause the greatest yield loss if uncontrolled",
+        "The period after harvesting",
+        "The dry season only"
+      ],
+      "answer": "1",
+      "solution": "The critical period is typically early in crop growth, when weed competition for light, water and nutrients most severely reduces yield."
+    },
+    {
+      "q": "Which is a disadvantage of chemical weed control?",
+      "options": [
+        "It is always cheaper than hand weeding",
+        "It can harm non-target organisms and cause resistance",
+        "It requires no protective clothing",
+        "It cannot control any weeds"
+      ],
+      "answer": "1",
+      "solution": "Herbicides, if misused, can harm beneficial organisms, contaminate water, and lead to development of herbicide-resistant weed biotypes."
+    },
+    {
+      "q": "A farmer needs to prepare a 15 L knapsack tank using a herbicide recommended at 4 L per 200 L of water. How much concentrate is added per tank?",
+      "options": [
+        "100 mL",
+        "300 mL",
+        "500 mL",
+        "700 mL"
+      ],
+      "answer": "1",
+      "solution": "Ratio = 4/200 L per L water; for 15 L tank: (4/200) x 15 = 0.3 L = 300 mL."
+    },
+    {
+      "q": "Which plant part of Imperata cylindrica primarily enables its persistence after slashing?",
+      "options": [
+        "Seeds only",
+        "Rhizomes",
+        "Flowers",
+        "Fibrous roots only"
+      ],
+      "answer": "1",
+      "solution": "Imperata cylindrica regenerates readily from underground rhizomes even after the above-ground shoot is cut."
+    },
+    {
+      "q": "Which of these is an example of an aquatic weed causing waterway blockage in West Africa?",
+      "options": [
+        "Tridax procumbens",
+        "Water hyacinth (Eichhornia crassipes)",
+        "Digitaria horizontalis",
+        "Cyperus rotundus"
+      ],
+      "answer": "1",
+      "solution": "Water hyacinth is a floating aquatic weed notorious for blocking rivers, canals and irrigation channels in West Africa."
+    }
+  ]
+}

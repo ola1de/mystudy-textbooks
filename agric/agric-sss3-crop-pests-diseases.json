@@ -1,0 +1,238 @@
+{
+  "subject": "Agricultural Science",
+  "level": "SSS 3",
+  "slug": "crop-pests-diseases",
+  "title": "Crop Pests and Diseases",
+  "outline": [
+    "Classification of crop pests",
+    "Major field and storage pests of West African crops",
+    "Signs and symptoms of pest attack",
+    "Crop diseases: causal agents and classification",
+    "Disease triangle and epidemiology",
+    "Methods of pest and disease control",
+    "Integrated Pest Management (IPM)",
+    "Economic losses and calculations related to pest damage"
+  ],
+  "modules": [
+    {
+      "title": "Classification and Identification of Crop Pests",
+      "html": "\n<h4>Meaning and Classification of Pests</h4>\n<p>A crop pest is any organism, usually an insect, mite, rodent, bird or nematode, that damages crops, reduces yield or quality, and causes economic loss to farmers. Pests can be classified based on several criteria which help farmers plan appropriate control strategies.</p>\n<ul>\n<li><strong>Based on feeding habit:</strong> chewing/biting insects (e.g. grasshoppers, beetles which eat leaves), sucking insects (e.g. aphids, mealybugs which pierce plant tissue and suck sap) and boring insects (e.g. stem borers which tunnel inside plant stems).</li>\n<li><strong>Based on where they attack:</strong> field pests (attack crops while growing on the farm, e.g. maize stem borer) and storage pests (attack harvested produce in stores, e.g. weevils like Sitophilus zeamais in maize and Callosobruchus maculatus in cowpea).</li>\n<li><strong>Based on taxonomic group:</strong> insect pests (largest group, e.g. locusts, aphids), rodent pests (e.g. grasscutters, rats that damage tubers and stored grain), bird pests (e.g. quelea birds that devastate cereal fields), nematode pests (microscopic roundworms attacking roots, e.g. root-knot nematode) and mite pests (e.g. red spider mite on cassava).</li>\n</ul>\n<h4>Major Pests of West African Crops</h4>\n<p>Important pests include the variegated grasshopper (attacks cassava and vegetables), maize stem borer (Busseola fusca), cowpea pod borer (Maruca vitrata), cotton stainer, rice stem borer, and the fall armyworm (Spodoptera frugiperda), a recently introduced and highly destructive pest of maize across the region that feeds voraciously on leaves and whorls, capable of causing up to 50-70% yield loss if unmanaged.</p>\n<h4>Signs and Symptoms of Pest Attack</h4>\n<ol>\n<li>Holes or ragged edges on leaves caused by chewing insects.</li>\n<li>Yellowing, curling or wilting of leaves due to sap-sucking insects transmitting toxins or viruses.</li>\n<li>Tunnels or frass (excreta) inside stems, indicating stem borer activity.</li>\n<li>Presence of the pest itself, eggs, larvae or webbing on the plant.</li>\n<li>Stunted growth and poor yield due to root damage by nematodes or termites.</li>\n<li>Holes in grains and presence of powdery dust in stored produce, indicating weevil infestation.</li>\n</ol>\n<h4>Economic Significance</h4>\n<p>Pest damage leads to direct yield loss, reduced quality of produce (lowering market price), increased cost of control, and post-harvest losses that can amount to 20-30% of stored grain in poorly managed stores. Early identification of pest species and their damage symptoms is essential for selecting the correct and most cost-effective control measure, whether cultural, biological, mechanical or chemical, thereby reducing unnecessary expenditure on inappropriate pesticides.</p>\n",
+      "examples": [
+        {
+          "q": "Explain why the fall armyworm is considered a major threat to maize production in West Africa.",
+          "a": "The fall armyworm (Spodoptera frugiperda) is a highly mobile, voracious feeder whose larvae attack the whorl and leaves of maize at all growth stages, has a high reproductive rate, lacks natural enemies in the newly invaded region, and can migrate long distances, leading to rapid, widespread infestation and yield losses of 50-70% if not controlled through integrated approaches such as early planting, scouting, biopesticides and selective insecticides."
+        },
+        {
+          "q": "A farmer finds small holes in stored maize grains with fine powder around them. What pest is likely responsible and how would you confirm it?",
+          "a": "The maize weevil (Sitophilus zeamais) is likely responsible; confirmation is made by sieving the grains to reveal the powdery frass and by observing small reddish-brown beetles emerging from the holes when the grain sample is disturbed, and by finding exit holes and dead adult weevils among the grains."
+        }
+      ]
+    },
+    {
+      "title": "Crop Diseases: Causal Agents and Epidemiology",
+      "html": "\n<h4>Meaning and Causes of Crop Diseases</h4>\n<p>A crop disease is any abnormal condition that interferes with the normal physiological functioning of a plant, reducing its growth, yield or quality. Diseases are caused by pathogens (fungi, bacteria, viruses, nematodes) classified as infectious/biotic diseases, or by unfavourable environmental factors (nutrient deficiency, drought, extreme temperature) classified as non-infectious/abiotic diseases.</p>\n<h4>Classification of Plant Diseases by Causal Agent</h4>\n<ul>\n<li><strong>Fungal diseases:</strong> caused by fungi, the most common group of plant pathogens, e.g. cassava anthracnose, maize rust, black pod disease of cocoa (Phytophthora), and yam rot.</li>\n<li><strong>Bacterial diseases:</strong> caused by bacteria, e.g. bacterial blight of cassava, bacterial wilt of tomato.</li>\n<li><strong>Viral diseases:</strong> caused by viruses, often transmitted by insect vectors, e.g. cassava mosaic virus (transmitted by whitefly), maize streak virus (transmitted by leafhoppers).</li>\n<li><strong>Nematode diseases:</strong> caused by microscopic roundworms that damage roots, e.g. root-knot disease causing galls on tomato and yam roots.</li>\n</ul>\n<h4>The Disease Triangle</h4>\n<p>For a plant disease to occur, three factors must interact simultaneously: a susceptible host plant, a virulent pathogen, and a favourable environment (temperature, humidity, rainfall). This relationship is illustrated by the disease triangle concept: removing or altering any one of the three factors (e.g. using resistant varieties, eliminating pathogen inoculum, or modifying the microclimate through spacing) can prevent or reduce disease development. Epidemiology is the study of how diseases spread within a crop population over time and space, influenced by weather, cropping density, and the presence of vectors.</p>\n<h4>Symptoms of Plant Diseases</h4>\n<ol>\n<li>Discolouration such as yellowing (chlorosis), browning or blackening of leaves and stems.</li>\n<li>Wilting due to vascular blockage by pathogens (e.g. bacterial wilt).</li>\n<li>Formation of galls, cankers or abnormal swellings on roots or stems.</li>\n<li>Rotting of roots, tubers or fruits, often accompanied by foul odour in bacterial soft rot.</li>\n<li>Mosaic patterns, mottling or leaf distortion typical of viral infections.</li>\n<li>Presence of fungal fruiting bodies such as rust pustules or mildew growth on plant surfaces.</li>\n</ol>\n<h4>Modes of Disease Transmission</h4>\n<p>Pathogens spread through infected planting materials (seeds, cuttings, seedlings), soil-borne inoculum, wind-borne spores, insect vectors (e.g. whiteflies transmitting cassava mosaic virus), water splash, and farm tools contaminated with pathogen material. Understanding transmission pathways guides preventive measures such as seed treatment, use of certified disease-free planting material, and vector control.</p>\n",
+      "examples": [
+        {
+          "q": "Using the disease triangle concept, explain how planting resistant cassava varieties helps to reduce cassava mosaic disease incidence.",
+          "a": "The disease triangle requires a susceptible host, a virulent pathogen (cassava mosaic virus) and a favourable environment for disease to occur. By planting resistant cassava varieties, the host component of the triangle is removed or weakened; even if the virus and whitefly vector are present in the environment, the resistant plant can withstand infection or show minimal symptoms, thereby breaking the disease cycle and reducing overall disease incidence in the field."
+        },
+        {
+          "q": "A tomato farmer observes sudden wilting of plants even when the soil is moist, with browning of the vascular tissue when the stem is cut. Identify the likely disease category and explain the symptom.",
+          "a": "This is likely bacterial wilt, a bacterial disease that blocks the plant's vascular (xylem) tissue, preventing water uptake to the leaves despite adequate soil moisture, causing sudden wilting; cutting the stem and observing browned, often oozing vascular tissue when placed in water (bacterial streaming) confirms bacterial infection rather than water stress."
+        }
+      ]
+    },
+    {
+      "title": "Methods of Pest and Disease Control",
+      "html": "\n<h4>Cultural Control</h4>\n<p>Cultural methods involve modifying farming practices to reduce pest and disease incidence without chemicals. These include crop rotation (breaks pest and disease life cycles that depend on a specific host), use of resistant/tolerant varieties, proper field sanitation (removal and destruction of infected plant debris), timely planting to avoid peak pest periods, appropriate spacing to reduce humidity that favours fungal diseases, and use of certified disease-free planting materials.</p>\n<h4>Biological Control</h4>\n<p>This involves using natural enemies - predators, parasitoids and pathogens - to reduce pest populations. Examples include the use of ladybird beetles to control aphids, parasitic wasps (Trichogramma) to control stem borer eggs, and the fungus Beauveria bassiana as a biopesticide against various insect pests. Biological control is environmentally safe and sustainable but may act slowly compared to chemical methods.</p>\n<h4>Mechanical/Physical Control</h4>\n<p>Includes hand-picking of pests (e.g. removing caterpillars), use of traps (pheromone traps, light traps), physical barriers (netting to exclude birds and insects), and destruction of infested plant parts. This method is labour-intensive but avoids chemical residues.</p>\n<h4>Chemical Control</h4>\n<p>Involves the use of pesticides: insecticides (kill insects), fungicides (control fungal diseases), bactericides (control bacterial diseases) and nematicides (control nematodes). Chemical control gives rapid results and is suitable for severe infestations, but requires correct dosage, timing and safety precautions to avoid harming beneficial organisms, humans and the environment, and to prevent development of pesticide resistance.</p>\n<h4>Legislative/Quarantine Control</h4>\n<p>Government regulations restrict the movement of infected planting materials across borders or regions to prevent the introduction and spread of new pests and diseases, such as quarantine measures used to control the spread of banana bunchy top virus or new invasive pests like the fall armyworm.</p>\n<h4>Integrated Pest Management (IPM)</h4>\n<p>IPM combines two or more compatible control methods (cultural, biological, mechanical, chemical and legislative) in a coordinated programme that keeps pest populations below the economic injury level while minimising cost, health risk and environmental damage. IPM emphasises regular field monitoring/scouting, correct pest identification, use of economic thresholds to decide when to intervene, and preference for the least disruptive control method first, resorting to chemicals only as a last option. This holistic approach has become the recommended standard for sustainable crop protection across West African extension programmes.</p>\n",
+      "examples": [
+        {
+          "q": "Explain why Integrated Pest Management (IPM) is preferred over sole reliance on chemical pesticides in modern crop protection.",
+          "a": "IPM combines multiple compatible methods (cultural, biological, mechanical and judicious chemical use) guided by field monitoring and economic thresholds, which reduces the overuse of chemicals, lowers the risk of pesticide resistance development, conserves beneficial organisms such as pollinators and natural predators, reduces environmental pollution and health hazards to farmers and consumers, and is often more cost-effective in the long run compared to relying solely on chemical pesticides which can lead to resistant pest populations and destroy natural enemies."
+        },
+        {
+          "q": "A cowpea farmer wants to reduce pod borer damage without heavy reliance on insecticides. Suggest two non-chemical strategies and justify them.",
+          "a": "(1) Early planting so that flowering and podding occur before peak pod borer population buildup, reducing exposure of susceptible pods to the pest; (2) intercropping cowpea with cereals such as maize or sorghum, which disrupts the pest's ability to locate host plants through visual and olfactory cues (a form of cultural control), thereby reducing infestation levels while also providing additional yield benefits from the companion crop."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "A crop pest is best defined as:",
+      "options": [
+        "Any organism beneficial to crops",
+        "Any organism that damages crops and causes economic loss",
+        "Only insects that eat leaves",
+        "A type of fungus"
+      ],
+      "answer": "1",
+      "solution": "A pest is any organism, including insects, rodents, birds or nematodes, that damages crops and causes economic loss."
+    },
+    {
+      "q": "Sitophilus zeamais is an example of a:",
+      "options": [
+        "Field pest",
+        "Storage pest",
+        "Bird pest",
+        "Nematode pest"
+      ],
+      "answer": "1",
+      "solution": "The maize weevil, Sitophilus zeamais, is a major storage pest attacking harvested maize grains."
+    },
+    {
+      "q": "The fall armyworm primarily attacks which crop in West Africa?",
+      "options": [
+        "Cassava",
+        "Maize",
+        "Cocoa",
+        "Yam"
+      ],
+      "answer": "1",
+      "solution": "Fall armyworm (Spodoptera frugiperda) larvae feed voraciously on maize leaves and whorls, causing severe yield losses."
+    },
+    {
+      "q": "Cassava mosaic disease is caused by a:",
+      "options": [
+        "Fungus",
+        "Bacterium",
+        "Virus",
+        "Nematode"
+      ],
+      "answer": "2",
+      "solution": "Cassava mosaic disease is caused by a virus transmitted mainly by the whitefly vector."
+    },
+    {
+      "q": "Which three factors must interact for a plant disease to occur, according to the disease triangle?",
+      "options": [
+        "Host, pathogen, farmer",
+        "Susceptible host, virulent pathogen, favourable environment",
+        "Soil, water, sunlight",
+        "Fertiliser, pesticide, seed"
+      ],
+      "answer": "1",
+      "solution": "The disease triangle states that disease occurs only when a susceptible host, a virulent pathogen and a favourable environment interact together."
+    },
+    {
+      "q": "Root-knot disease, characterised by galls on roots, is caused by:",
+      "options": [
+        "Fungi",
+        "Nematodes",
+        "Viruses",
+        "Bacteria"
+      ],
+      "answer": "1",
+      "solution": "Root-knot nematodes invade plant roots and induce gall formation, disrupting nutrient and water uptake."
+    },
+    {
+      "q": "Which control method uses natural enemies such as ladybird beetles to reduce pest populations?",
+      "options": [
+        "Chemical control",
+        "Biological control",
+        "Legislative control",
+        "Mechanical control"
+      ],
+      "answer": "1",
+      "solution": "Biological control involves using natural enemies like predators, parasitoids or pathogens to suppress pest populations."
+    },
+    {
+      "q": "Quarantine regulations to prevent the spread of banana bunchy top virus across borders is an example of:",
+      "options": [
+        "Cultural control",
+        "Legislative control",
+        "Biological control",
+        "Mechanical control"
+      ],
+      "answer": "1",
+      "solution": "Legislative/quarantine control involves government regulations restricting movement of infected planting materials to prevent disease spread."
+    },
+    {
+      "q": "Which of these is a sign of viral infection in plants?",
+      "options": [
+        "Tunnels in the stem",
+        "Mosaic pattern and leaf mottling",
+        "Rotting of tubers with foul smell",
+        "Holes in leaves"
+      ],
+      "answer": "1",
+      "solution": "Mosaic patterns, mottling and leaf distortion are classic symptoms of viral plant diseases."
+    },
+    {
+      "q": "Crop rotation helps control pests and diseases mainly by:",
+      "options": [
+        "Increasing soil pH",
+        "Breaking the life cycle of host-specific pests and pathogens",
+        "Adding nitrogen only",
+        "Reducing rainfall"
+      ],
+      "answer": "1",
+      "solution": "Rotating unrelated crops deprives host-specific pests and pathogens of a continuous host, breaking their life cycle and reducing buildup."
+    },
+    {
+      "q": "IPM stands for:",
+      "options": [
+        "Insecticide Production Method",
+        "Integrated Pest Management",
+        "Individual Plant Monitoring",
+        "International Pesticide Manual"
+      ],
+      "answer": "1",
+      "solution": "IPM (Integrated Pest Management) combines multiple compatible control strategies guided by monitoring and economic thresholds."
+    },
+    {
+      "q": "A fungicide is used to control:",
+      "options": [
+        "Insects",
+        "Bacterial diseases",
+        "Fungal diseases",
+        "Weeds"
+      ],
+      "answer": "2",
+      "solution": "Fungicides are chemicals specifically formulated to control fungal pathogens and diseases in crops."
+    },
+    {
+      "q": "Bacterial wilt symptom of sudden wilting despite moist soil is due to:",
+      "options": [
+        "Nutrient deficiency",
+        "Blockage of vascular tissue by bacteria",
+        "Excess sunlight",
+        "Weed competition"
+      ],
+      "answer": "1",
+      "solution": "Bacterial wilt pathogens multiply within and block the plant's vascular (xylem) system, preventing water transport and causing wilting even with adequate soil moisture."
+    },
+    {
+      "q": "Which pest damage symptom is typical of sucking insects like aphids?",
+      "options": [
+        "Large ragged holes in leaves",
+        "Yellowing, curling and stunted growth",
+        "Tunnels inside stems",
+        "Rotten fruit with foul odour"
+      ],
+      "answer": "1",
+      "solution": "Sucking insects like aphids pierce plant tissue, extracting sap and often transmitting toxins/viruses, causing yellowing, curling and stunting."
+    },
+    {
+      "q": "The main principle guiding when to intervene in IPM is the:",
+      "options": [
+        "Complete eradication rule",
+        "Economic threshold/injury level",
+        "Random spraying schedule",
+        "Calendar-based spraying only"
+      ],
+      "answer": "1",
+      "solution": "IPM uses the economic threshold to determine the pest density at which control action becomes economically justified, avoiding unnecessary pesticide use."
+    },
+    {
+      "q": "Which of the following best describes an abiotic (non-infectious) plant disease cause?",
+      "options": [
+        "Fungal infection",
+        "Nutrient deficiency",
+        "Viral infection",
+        "Bacterial infection"
+      ],
+      "answer": "1",
+      "solution": "Abiotic diseases are caused by non-living factors such as nutrient deficiency, drought or extreme temperature, not by pathogens."
+    }
+  ]
+}

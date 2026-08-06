@@ -1,0 +1,227 @@
+{
+ "subject": "Agricultural Science",
+ "level": "SSS 1",
+ "slug": "agro-allied-forestry",
+ "title": "Forestry and Agro-allied Industries",
+ "outline": [
+  "Meaning and types of forestry",
+  "Importance of forests and forest reserves",
+  "Sustainable forest management practices",
+  "Meaning of agro-allied industries",
+  "Forestry-based agro-allied industries (sawmilling, pulp and paper, furniture, rubber)",
+  "Timber volume estimation and wood utilisation",
+  "Environmental problems of deforestation",
+  "Conservation measures and forestry policy"
+ ],
+ "modules": [
+  {
+   "title": "Concept and Importance of Forestry",
+   "html": "<h4>Meaning of Forestry</h4>\n<p>Forestry is the science, art and practice of managing forests, tree plantations and their associated resources — soil, water, wildlife and recreation — for the sustainable benefit of man. A forest is a large area dominated by trees, shrubs and other woody vegetation growing naturally or planted by man. In Nigeria, forestry is practised in the rainforest, guinea savanna and mangrove ecological zones, each supporting different tree species such as <em>Iroko</em>, <em>Obeche</em>, <em>Mahogany</em> and <em>Rubber</em>.</p>\n<h4>Types of Forest</h4>\n<ul>\n<li><strong>Natural forest:</strong> occurs without direct human planting, e.g. tropical rainforest.</li>\n<li><strong>Forest plantation:</strong> deliberately established by man for timber, e.g. teak and gmelina plantations.</li>\n<li><strong>Forest reserve:</strong> an area legally protected from indiscriminate exploitation.</li>\n</ul>\n<h4>Importance of Forestry</h4>\n<ol>\n<li>Provision of timber for construction, furniture and pulp for paper.</li>\n<li>Regulation of climate through transpiration and carbon (\\(CO_2\\)) sequestration.</li>\n<li>Prevention of soil erosion and desert encroachment through wind breaks.</li>\n<li>Habitat for wildlife, thereby conserving biodiversity.</li>\n<li>Source of non-timber forest products (NTFPs) such as gum, resin, honey, medicinal plants and fruits.</li>\n<li>Provision of employment and foreign exchange earnings through export of logs and processed wood.</li>\n<li>Watershed protection, maintaining the hydrological cycle and reducing flooding.</li>\n</ol>\n<h4>Forest Management Practices</h4>\n<p>Sustainable forestry involves afforestation (planting trees on land not previously forested), reforestation (replanting harvested areas), silviculture (the science of cultivating forest trees), selective felling, and fire control. The rotation age of a plantation species is the period between planting and final harvest; teak, for example, has a rotation age of about 15–20 years for pole production and up to 60 years for large timber.</p>\n<table class=\"tb-table\"><tr><th>Forest Type</th><th>Example</th><th>Major Use</th></tr>\n<tr><td>Natural rainforest</td><td>Iroko, Obeche</td><td>Timber, biodiversity</td></tr>\n<tr><td>Plantation</td><td>Teak, Gmelina</td><td>Pulp, poles</td></tr>\n<tr><td>Mangrove forest</td><td>Rhizophora</td><td>Fuelwood, fishery habitat</td></tr>\n</table>\n<p>The concept of Maximum Sustainable Yield (MSY) guides harvesting: the volume of timber removed annually, \\(Y\\), should not exceed the forest's natural growth increment, \\(G\\), so that \\(Y \\le G\\) to guarantee forest perpetuity.</p>",
+   "examples": [
+    {
+     "q": "A gmelina plantation has an annual growth increment of 8 m³/ha and the forester harvests 6 m³/ha yearly. State whether this is sustainable and justify with the MSY relation.",
+     "a": "Using \\(Y \\le G\\): here \\(Y = 6\\, m^3/ha\\) and \\(G = 8\\, m^3/ha\\). Since \\(6 < 8\\), the harvest is sustainable because the amount removed is less than the natural growth increment, allowing the forest stock to be maintained or even increase."
+    },
+    {
+     "q": "Differentiate between afforestation and reforestation, giving one Nigerian example of each.",
+     "a": "Afforestation is establishing trees on land that had no forest previously, e.g. planting shelterbelts in the Sahel region of northern Nigeria to combat desertification. Reforestation is replanting trees on land that was previously forested but has been cleared, e.g. replanting gmelina in a logged-over plantation in Oluwa Forest Reserve, Ondo State."
+    }
+   ]
+  },
+  {
+   "title": "Agro-allied Industries Based on Forestry",
+   "html": "<h4>Meaning of Agro-allied Industry</h4>\n<p>An agro-allied industry is an industry that uses agricultural or forest produce as raw materials for manufacturing finished or semi-finished products. Forestry-based agro-allied industries convert timber and non-timber forest products into usable goods, adding value and creating employment along the value chain from the forest to the final consumer.</p>\n<h4>Examples of Forestry-based Agro-allied Industries</h4>\n<ul>\n<li><strong>Sawmilling industry:</strong> converts logs into sawn timber (planks, boards) used in construction and furniture making.</li>\n<li><strong>Pulp and paper industry:</strong> processes wood fibre into pulp for producing paper, cardboard and tissue, e.g. the Nigerian Paper Mill, Jebba.</li>\n<li><strong>Plywood and particle board industry:</strong> manufactures panel products from veneer and wood residues, e.g. companies in Sapele and Akure.</li>\n<li><strong>Furniture industry:</strong> uses sawn timber to produce chairs, tables, cabinets and doors.</li>\n<li><strong>Match industry:</strong> uses softwood like obeche to manufacture matchsticks and boxes.</li>\n<li><strong>Rubber processing industry:</strong> processes latex from rubber trees into crumb rubber, tyres and other rubber goods.</li>\n<li><strong>Charcoal and fuelwood industry:</strong> converts wood into charcoal, an important domestic energy source.</li>\n</ul>\n<h4>Contribution of Forestry-based Industries to the Economy</h4>\n<ol>\n<li>Generation of employment for loggers, sawyers, factory workers and transporters.</li>\n<li>Provision of raw materials for the building and construction sector.</li>\n<li>Earning of foreign exchange through export of processed wood products.</li>\n<li>Provision of raw materials for local craft and cottage industries.</li>\n<li>Stimulation of infrastructural development such as roads into forest reserve areas.</li>\n</ol>\n<h4>Wood Utilisation and Timber Volume Estimation</h4>\n<p>Before a log is processed, its volume must be estimated to determine value and industry input. For a roughly cylindrical log, volume \\(V\\) is estimated using Huber's formula: $$V = L \\times A_{mid}$$ where \\(L\\) is the log length and \\(A_{mid} = \\pi r_{mid}^2\\) is the cross-sectional area at the mid-length, with \\(r_{mid}\\) the mid-length radius.</p>\n<table class=\"tb-table\"><tr><th>Industry</th><th>Raw Material</th><th>Product</th></tr>\n<tr><td>Sawmilling</td><td>Logs</td><td>Planks, boards</td></tr>\n<tr><td>Pulp and paper</td><td>Wood fibre</td><td>Paper, cardboard</td></tr>\n<tr><td>Match industry</td><td>Softwood (obeche)</td><td>Matchsticks</td></tr>\n</table>",
+   "examples": [
+    {
+     "q": "A log has a mid-length diameter of 0.4 m and a length of 6 m. Estimate its volume using Huber's formula (use \\(\\pi = 3.142\\)).",
+     "a": "Mid-length radius \\(r_{mid} = 0.4/2 = 0.2\\,m\\). Cross-sectional area \\(A_{mid} = \\pi r_{mid}^2 = 3.142 \\times 0.2^2 = 3.142 \\times 0.04 = 0.1257\\,m^2\\). Volume \\(V = L \\times A_{mid} = 6 \\times 0.1257 = 0.754\\,m^3\\) (approximately)."
+    },
+    {
+     "q": "List and explain three ways the sawmilling industry contributes to national development.",
+     "a": "1. Employment generation: sawmills employ sawyers, loaders, machine operators and drivers. 2. Raw material supply: sawmills supply builders and furniture makers with planks and boards essential for housing and furniture. 3. Revenue generation: government earns revenue through timber royalties, licences and taxes paid by sawmill operators, contributing to internally generated revenue."
+    }
+   ]
+  },
+  {
+   "title": "Agro-allied Industries and Environmental Conservation",
+   "html": "<h4>Problems Associated with Forestry-based Industries</h4>\n<p>While forestry-based agro-allied industries contribute immensely to national development, unregulated activities can lead to serious environmental problems. These include deforestation (large-scale removal of forest cover), loss of biodiversity, soil erosion, disruption of the water cycle, desertification and climate change through reduction of carbon sinks.</p>\n<h4>Deforestation and Its Effects</h4>\n<ul>\n<li>Reduction in rainfall and increase in temperature of the local environment.</li>\n<li>Exposure of soil to agents of erosion (wind and water), leading to loss of topsoil.</li>\n<li>Extinction of plant and animal species dependent on forest habitat.</li>\n<li>Siltation of rivers and dams due to soil washed from bare land.</li>\n<li>Reduced availability of raw materials for future industrial use.</li>\n</ul>\n<h4>Conservation Measures for Sustainable Agro-allied Industry</h4>\n<ol>\n<li><strong>Reforestation and afforestation:</strong> continuous replanting of harvested areas and planting of shelterbelts.</li>\n<li><strong>Establishment of forest reserves and national parks</strong> to protect representative ecosystems.</li>\n<li><strong>Selective logging:</strong> harvesting only mature trees of specified girth, leaving younger trees to grow.</li>\n<li><strong>Enforcement of forestry laws and regulations</strong> controlling felling permits and log export.</li>\n<li><strong>Use of alternative materials</strong> (e.g. bamboo, recycled paper) to reduce pressure on natural forests.</li>\n<li><strong>Agroforestry:</strong> integrating trees with crops and livestock to maintain tree cover while farming.</li>\n<li><strong>Public enlightenment</strong> on the dangers of bush burning and indiscriminate felling.</li>\n</ol>\n<h4>Girth and Growth Rate Determination</h4>\n<p>Selective logging relies on measuring tree girth to decide harvestable trees. Girth at breast height (GBH) is measured at 1.3 m above ground using a girthing tape. Diameter at breast height is calculated as: $$DBH = \\frac{GBH}{\\pi}$$ Only trees with DBH above a stipulated minimum (e.g. 60 cm for some species) are felled, ensuring the forest regenerates.</p>\n<table class=\"tb-table\"><tr><th>Conservation Method</th><th>Effect</th></tr>\n<tr><td>Selective logging</td><td>Maintains forest structure</td></tr>\n<tr><td>Afforestation</td><td>Restores tree cover</td></tr>\n<tr><td>Agroforestry</td><td>Combines farming and tree conservation</td></tr>\n</table>\n<p>Government policy such as the National Forestry Policy of Nigeria promotes sustainable exploitation and requires industries to replant a stipulated number of trees for every tree felled, ensuring long-term supply of raw materials for agro-allied industries.</p>",
+   "examples": [
+    {
+     "q": "A tree has a girth at breast height (GBH) of 1.885 m. Calculate its diameter at breast height (DBH) using \\(\\pi = 3.142\\), and state if it can be felled if the minimum fellable DBH is 0.5 m.",
+     "a": "\\(DBH = \\dfrac{GBH}{\\pi} = \\dfrac{1.885}{3.142} = 0.6\\,m\\) (approximately). Since \\(0.6\\,m > 0.5\\,m\\) (minimum fellable DBH), the tree qualifies for felling under selective logging rules."
+    },
+    {
+     "q": "Explain two negative effects of deforestation caused by unregulated agro-allied timber industries and one conservation measure to address each.",
+     "a": "1. Soil erosion: removal of tree cover exposes soil to rain splash and runoff, causing loss of topsoil; this can be addressed by reforestation and contour planting of trees along slopes. 2. Loss of biodiversity: clearing forest destroys habitats of numerous plant and animal species leading to extinction; this can be addressed by establishing forest reserves and national parks that protect representative ecosystems from logging."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Forestry can best be defined as the",
+   "options": [
+    "study of soil types",
+    "science and practice of managing forests sustainably",
+    "cultivation of arable crops only",
+    "rearing of livestock in ranches"
+   ],
+   "answer": "1",
+   "solution": "Forestry is the science, art and practice of managing forests and associated resources sustainably for man's benefit."
+  },
+  {
+   "q": "Which of the following is a forest plantation species commonly grown in Nigeria?",
+   "options": [
+    "Cassava",
+    "Teak",
+    "Yam",
+    "Maize"
+   ],
+   "answer": "1",
+   "solution": "Teak (Tectona grandis) is a common plantation species planted for timber in Nigeria, unlike cassava, yam and maize which are food crops."
+  },
+  {
+   "q": "The area of land legally protected from indiscriminate tree felling is called a",
+   "options": [
+    "ranch",
+    "forest reserve",
+    "fallow land",
+    "irrigation scheme"
+   ],
+   "answer": "1",
+   "solution": "A forest reserve is an area set aside and legally protected from indiscriminate exploitation of its resources."
+  },
+  {
+   "q": "Afforestation refers to",
+   "options": [
+    "replanting a previously forested and cleared area",
+    "planting trees on land not previously forested",
+    "cutting down all trees in a forest",
+    "converting forest to farmland"
+   ],
+   "answer": "1",
+   "solution": "Afforestation is establishing trees on land that had no forest cover before, such as planting shelterbelts in the Sahel."
+  },
+  {
+   "q": "Reforestation differs from afforestation in that reforestation involves",
+   "options": [
+    "planting on entirely new land",
+    "replanting on previously forested, cleared land",
+    "harvesting mature trees only",
+    "building sawmills"
+   ],
+   "answer": "1",
+   "solution": "Reforestation is the replanting of trees on land that was previously forested but has since been cleared or logged."
+  },
+  {
+   "q": "A forest plantation increases by 8 m³/ha per year (growth increment). For sustainability, the annual harvest should be",
+   "options": [
+    "greater than 8 m³/ha",
+    "exactly double 8 m³/ha",
+    "less than or equal to 8 m³/ha",
+    "zero"
+   ],
+   "answer": "2",
+   "solution": "Maximum Sustainable Yield principle states harvest \\(Y\\) must satisfy \\(Y \\le G\\), the growth increment, to maintain the forest stock."
+  },
+  {
+   "q": "Which industry uses wood fibre to produce paper and cardboard?",
+   "options": [
+    "Sawmilling",
+    "Furniture industry",
+    "Pulp and paper industry",
+    "Match industry"
+   ],
+   "answer": "2",
+   "solution": "The pulp and paper industry processes wood fibre into pulp used for making paper and cardboard products."
+  },
+  {
+   "q": "Obeche wood is particularly suited to the manufacture of",
+   "options": [
+    "matchsticks",
+    "steel rods",
+    "cement blocks",
+    "fertiliser"
+   ],
+   "answer": "0",
+   "solution": "Obeche, a softwood, is light and easy to split, making it suitable for matchstick and matchbox manufacture."
+  },
+  {
+   "q": "Using Huber's formula, the volume of a log is calculated as",
+   "options": [
+    "length times mid-length cross-sectional area",
+    "length divided by diameter",
+    "diameter times height",
+    "circumference times length"
+   ],
+   "answer": "0",
+   "solution": "Huber's formula states \\(V = L \\times A_{mid}\\), where \\(A_{mid}\\) is the cross-sectional area at the log's mid-length."
+  },
+  {
+   "q": "A log has mid-length radius 0.3 m and length 5 m. Using \\(\\pi=3.142\\), its volume is approximately",
+   "options": [
+    "1.41 m³",
+    "2.83 m³",
+    "4.71 m³",
+    "0.94 m³"
+   ],
+   "answer": "0",
+   "solution": "\\(A_{mid}=\\pi r^2=3.142\\times0.09=0.2828\\,m^2\\); \\(V=L\\times A_{mid}=5\\times0.2828=1.414\\,m^3\\approx1.41\\,m^3\\)."
+  },
+  {
+   "q": "Girth at breast height (GBH) is conventionally measured at what height above ground?",
+   "options": [
+    "0.5 m",
+    "1.0 m",
+    "1.3 m",
+    "2.0 m"
+   ],
+   "answer": "2",
+   "solution": "GBH is standardly measured at 1.3 m (breast height) above the ground using a girthing tape."
+  },
+  {
+   "q": "A tree has GBH of 2.199 m. Using \\(\\pi=3.142\\), its DBH is approximately",
+   "options": [
+    "0.35 m",
+    "0.70 m",
+    "1.10 m",
+    "1.50 m"
+   ],
+   "answer": "1",
+   "solution": "\\(DBH = GBH/\\pi = 2.199/3.142 \\approx 0.70\\,m\\)."
+  },
+  {
+   "q": "Which of the following is NOT a direct negative effect of deforestation?",
+   "options": [
+    "Soil erosion",
+    "Loss of biodiversity",
+    "Increased rainfall regulation",
+    "Desertification"
+   ],
+   "answer": "2",
+   "solution": "Deforestation reduces the forest's ability to regulate rainfall; it does not increase rainfall regulation, so this option is the exception."
+  },
+  {
+   "q": "Agroforestry is best described as",
+   "options": [
+    "planting trees only for timber export",
+    "integrating trees with crops and/or livestock on the same land",
+    "clearing forest for large-scale monocropping",
+    "a method of processing rubber latex"
+   ],
+   "answer": "1",
+   "solution": "Agroforestry integrates trees, crops and/or livestock production on the same piece of land to conserve tree cover while farming."
+  },
+  {
+   "q": "One major economic contribution of forestry-based agro-allied industries to Nigeria is",
+   "options": [
+    "reduction of employment opportunities",
+    "earning of foreign exchange through timber export",
+    "total elimination of soil erosion",
+    "abolition of forest reserves"
+   ],
+   "answer": "1",
+   "solution": "Forestry-based agro-allied industries earn foreign exchange for Nigeria through export of processed wood products such as plywood and sawn timber."
+  }
+ ]
+}

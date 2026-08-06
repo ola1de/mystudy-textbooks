@@ -1,0 +1,268 @@
+{
+ "subject": "Agricultural Science",
+ "level": "SSS 3",
+ "slug": "livestock-husbandry-management",
+ "title": "Livestock Husbandry and Management",
+ "outline": [
+  "Poultry, Cattle, Sheep/Goat, Pig and Rabbit Husbandry",
+  "Livestock Housing Systems",
+  "Breeding, Selection and Reproduction in Livestock",
+  "Routine Management Practices",
+  "Record Keeping in Livestock Production",
+  "Livestock Production Economics",
+  "Health Management and Culling Decisions"
+ ],
+ "modules": [
+  {
+   "title": "Husbandry of Poultry, Cattle, Sheep/Goat, Pig and Rabbit",
+   "html": "\n<h4>Introduction to Livestock Husbandry</h4>\n<p>Livestock husbandry is the science and practice of breeding, rearing, feeding and caring for domestic animals for economic purposes such as meat, milk, eggs, wool, skin and manure. In Nigeria and West Africa, the major livestock species reared include poultry (chickens, turkeys, ducks), cattle, sheep, goats, pigs and rabbits, each requiring specific management practices suited to its biology and the local environment.</p>\n<h4>Poultry Husbandry</h4>\n<p>Poultry production involves rearing birds such as the Nigerian indigenous chicken, exotic breeds like White Leghorn (egg type) and Ross broilers (meat type), turkeys and ducks. Poultry are managed under the deep litter, battery cage or free-range systems. Good poultry management includes provision of adequate feeders and drinkers, proper brooding temperature for chicks (32-35°C in week one), vaccination against Newcastle disease and Gumboro, and adequate ventilation to prevent respiratory diseases.</p>\n<h4>Cattle Husbandry</h4>\n<p>Cattle breeds common in Nigeria include the White Fulani (Bunaji), Sokoto Gudali, N'Dama and White Fulani crosses, kept for milk (dairy), meat (beef) or draught purposes. Cattle husbandry involves pasture management, provision of mineral licks, dehorning of young calves, and control of trypanosomiasis and tick-borne diseases through regular spraying and dipping.</p>\n<h4>Sheep and Goat Husbandry</h4>\n<p>Sheep breeds such as the West African Dwarf (WAD) sheep, Yankasa and Balami, and goat breeds like the West African Dwarf goat and Red Sokoto (Maradi) goat, are reared mainly for meat and skin under extensive or semi-intensive systems. They are hardy, resistant to many tropical diseases, and require good housing to protect against rain and predators, castration of male animals not meant for breeding, and routine deworming.</p>\n<h4>Pig Husbandry</h4>\n<p>Pigs, such as the Large White and Landrace breeds and their local crosses, are prolific, fast-growing and efficient converters of feed into meat (pork). Pig management requires strong, well-drained pens, wallows for cooling, farrowing crates for sows, iron injection for piglets to prevent anaemia, castration of male piglets not for breeding, and careful feeding to avoid excessive fat deposition.</p>\n<h4>Rabbit Husbandry</h4>\n<p>Rabbits such as the New Zealand White and Chinchilla breeds are reared in hutches for meat production. Rabbits are prolific breeders with short gestation periods, require clean, dry, well-ventilated hutches raised above the ground, and benefit from separate housing for pregnant does (kindling) to reduce stress and cannibalism of young ones (kits).</p>\n<h4>Comparative Summary of Livestock Species</h4>\n<table class=\"tb-table\">\n<tr><th>Species</th><th>Common Nigerian Breed</th><th>Main Product</th></tr>\n<tr><td>Poultry</td><td>Nigerian indigenous chicken, Ross broiler</td><td>Eggs, meat</td></tr>\n<tr><td>Cattle</td><td>White Fulani, Sokoto Gudali</td><td>Milk, meat</td></tr>\n<tr><td>Sheep</td><td>Yankasa, Balami, WAD sheep</td><td>Meat, skin</td></tr>\n<tr><td>Goat</td><td>Red Sokoto, WAD goat</td><td>Meat, skin, milk</td></tr>\n<tr><td>Pig</td><td>Large White, Landrace crosses</td><td>Pork</td></tr>\n<tr><td>Rabbit</td><td>New Zealand White, Chinchilla</td><td>Meat</td></tr>\n</table>\n<p>Successful husbandry of each species depends on matching breed choice, housing, feeding and health care to the animal's biological needs and the prevailing local environmental conditions.</p>\n",
+   "examples": [
+    {
+     "q": "Name three indigenous or common Nigerian breeds of cattle and state their main use.",
+     "a": "White Fulani (Bunaji) – used for milk and meat (dual purpose); Sokoto Gudali – used mainly for beef; N'Dama – trypanotolerant breed used for meat and draught purposes in humid zones."
+    },
+    {
+     "q": "Why must piglets be given iron injections shortly after birth?",
+     "a": "Piglets are born with very low iron reserves and sow's milk is low in iron; without supplementation piglets develop iron-deficiency anaemia, which slows growth and increases susceptibility to disease, hence an iron injection is given within the first few days of life."
+    }
+   ]
+  },
+  {
+   "title": "Livestock Housing Systems: Extensive, Semi-Intensive and Intensive",
+   "html": "\n<h4>Purpose of Livestock Housing</h4>\n<p>Livestock housing provides shelter from adverse weather (rain, sun, wind), protects animals from predators and theft, facilitates feeding, watering and disease control, and allows easier collection of manure and monitoring of production records. The choice of housing system depends on the species, scale of production, capital available and management objectives.</p>\n<h4>Extensive System</h4>\n<p>In the extensive (free-range) system, animals are allowed to roam freely over a large area to graze or scavenge for food, with minimal supplementary feeding and simple night shelters. This system is common with local cattle, sheep, goats and indigenous poultry in rural Nigeria. It requires low capital investment but gives low productivity, exposes animals to predators, diseases and theft, and makes record keeping and selective breeding difficult.</p>\n<h4>Semi-Intensive System</h4>\n<p>The semi-intensive system combines confinement with a limited grazing or exercise area (a run or paddock). Animals are housed at night or during bad weather but allowed out during the day to graze or exercise. This system is widely used for goats, sheep and some poultry (e.g. the semi-intensive deep litter poultry system with a fenced outside run), offering a balance between cost and productivity, better disease control than the extensive system, and moderate capital requirement.</p>\n<h4>Intensive System</h4>\n<p>Under the intensive system, animals are completely confined and all feed, water and management inputs are provided by the farmer. Sub-types of intensive poultry housing include:</p>\n<ul>\n<li><strong>Deep litter system:</strong> birds are kept on a floor covered with litter material such as wood shavings or rice husk, about 5-10 cm thick, which absorbs droppings and keeps the house dry; commonly used for both layers and broilers.</li>\n<li><strong>Battery cage system:</strong> layers are kept in tiered wire cages, usually a few birds per cage, allowing high stocking density, easy egg collection, and reduced disease transmission from litter and droppings, though it requires high capital investment.</li>\n<li><strong>Slatted/wire floor system:</strong> a raised floor of wire or wooden slats allows droppings to fall through, keeping birds away from faeces, commonly used for broilers and pigs.</li>\n</ul>\n<p>Intensive systems are also used for pigs (concrete-floored pens) and dairy cattle (zero-grazing units), giving high productivity and close monitoring but requiring greater capital, labour and management skill.</p>\n<h4>Stocking Rate and Stocking Density</h4>\n<p>Stocking rate refers to the number of animals kept per unit area of land or housing space, and is important in preventing overcrowding, which causes stress, disease outbreak and reduced productivity. It is calculated as:</p>\n<p>\\[ \\text{Stocking rate} = \\frac{\\text{Number of animals}}{\\text{Area of land or pen (in hectares or } m^2 \\text{)}} \\]</p>\n<p>For example, if 500 broilers are housed in a pen of 50 m², the stocking density is \\( \\frac{500}{50} = 10 \\) birds per m². Overstocking increases competition for feed and water, spreads disease faster, and reduces growth rate and egg production, while understocking wastes housing space and capital.</p>\n<h4>Comparing Housing Systems</h4>\n<table class=\"tb-table\">\n<tr><th>System</th><th>Capital Cost</th><th>Productivity</th><th>Disease Risk</th></tr>\n<tr><td>Extensive</td><td>Low</td><td>Low</td><td>High</td></tr>\n<tr><td>Semi-intensive</td><td>Moderate</td><td>Moderate</td><td>Moderate</td></tr>\n<tr><td>Intensive</td><td>High</td><td>High</td><td>Low (if well managed)</td></tr>\n</table>\n<p>The choice of housing system should match the farmer's resources, market objectives and ability to provide consistent management, since intensive systems demand strict biosecurity and daily attention to succeed.</p>\n",
+   "examples": [
+    {
+     "q": "A poultry farmer keeps 800 layers in a battery cage house measuring 40 m². Calculate the stocking density.",
+     "a": "Stocking density = Number of animals / Area = 800 / 40 = 20 birds per m². This is a fairly high density typical of battery cage systems."
+    },
+    {
+     "q": "State two advantages and two disadvantages of the deep litter housing system for poultry.",
+     "a": "Advantages: it is cheaper to construct than battery cages, and litter absorbs droppings keeping the floor relatively dry while allowing birds some freedom of movement. Disadvantages: it requires more floor space than battery cages, and litter can become a source of disease (coccidiosis) and ammonia build-up if not properly managed."
+    }
+   ]
+  },
+  {
+   "title": "Breeding, Selection and Reproduction in Livestock",
+   "html": "\n<h4>Breeding and Selection</h4>\n<p>Breeding is the controlled mating of animals to produce offspring with desirable characteristics, while selection is the process of choosing parent animals with superior traits (e.g. fast growth, high egg or milk yield, disease resistance) to be parents of the next generation. The main breeding methods are pure breeding (mating animals of the same breed to maintain breed characteristics), cross-breeding (mating animals of different breeds to combine desirable traits, exploiting hybrid vigour or heterosis), and grading up (repeatedly mating local breeds with an improved exotic breed over several generations to upgrade productivity).</p>\n<p>Selection can be based on individual performance (mass selection), pedigree (ancestry records), or progeny testing (evaluating an animal based on the performance of its offspring). Traits commonly selected for include growth rate, feed efficiency, egg or milk production, litter size, disease resistance and conformation.</p>\n<h4>Reproductive Terms and Gestation Periods</h4>\n<p>Understanding reproductive terminology is essential for planning breeding programmes. Key terms include: <strong>gestation period</strong> (duration of pregnancy from conception to birth), <strong>oestrus (heat)</strong> (the period when a female is receptive to mating), <strong>puberty</strong> (age at which an animal becomes sexually mature), <strong>parturition</strong> (the act of giving birth), and <strong>incubation period</strong> (time taken for a fertilised egg to hatch in poultry).</p>\n<table class=\"tb-table\">\n<tr><th>Animal</th><th>Gestation/Incubation Period</th></tr>\n<tr><td>Cattle</td><td>About 280 days (9 months)</td></tr>\n<tr><td>Sheep</td><td>About 147-150 days (5 months)</td></tr>\n<tr><td>Goat</td><td>About 150 days (5 months)</td></tr>\n<tr><td>Pig</td><td>About 114 days (3 months, 3 weeks, 3 days)</td></tr>\n<tr><td>Rabbit</td><td>About 30-31 days</td></tr>\n<tr><td>Chicken (incubation)</td><td>About 21 days</td></tr>\n<tr><td>Duck (incubation)</td><td>About 28 days</td></tr>\n<tr><td>Turkey (incubation)</td><td>About 28 days</td></tr>\n</table>\n<p>Knowledge of gestation and incubation periods allows farmers to plan feeding, housing and labour needs in advance of parturition or hatching, and to calculate expected delivery or hatch dates from the date of service or setting of eggs.</p>\n<h4>Methods of Mating</h4>\n<ul>\n<li><strong>Natural mating:</strong> a male (bull, ram, buck, boar, cock) directly mates with the female.</li>\n<li><strong>Artificial insemination (AI):</strong> semen is collected from a superior male and introduced into the female's reproductive tract using instruments, allowing wider use of genetically superior males, reduction of disease transmission and easier record keeping.</li>\n</ul>\n<p>Careful breeding and selection over successive generations lead to genetic improvement of the herd or flock, increasing overall farm productivity and profitability.</p>\n",
+   "examples": [
+    {
+     "q": "Distinguish between cross-breeding and grading up as methods of livestock improvement.",
+     "a": "Cross-breeding involves mating animals from two different breeds to combine desirable traits of both breeds and exploit hybrid vigour, usually producing one generation of crossbred offspring. Grading up involves repeatedly mating a local breed with a superior exotic breed over several successive generations to gradually improve the productivity of the local stock until it closely resembles the exotic breed."
+    },
+    {
+     "q": "A doe (female rabbit) was served (mated) on the 1st of a month. Approximately when should the farmer expect her to kindle (give birth)?",
+     "a": "Since the gestation period of a rabbit is about 30-31 days, the doe should be expected to kindle around the 31st or 1st day of the following month, and the farmer should prepare a clean nesting box a few days before this expected date."
+    }
+   ]
+  },
+  {
+   "title": "Routine Management Practices in Livestock Production",
+   "html": "\n<h4>Common Routine Management Practices</h4>\n<p>Routine management practices are regular operations carried out on a livestock farm to improve productivity, control aggression, ease handling, prevent disease and maintain flock or herd quality. Some important practices include:</p>\n<ul>\n<li><strong>Debeaking:</strong> partial removal of the upper (and sometimes lower) beak of chicks, usually with a hot-blade debeaker, to prevent cannibalism, feather pecking and feed wastage in intensively reared poultry.</li>\n<li><strong>Castration:</strong> removal or destruction of the testes of young male animals not intended for breeding (bulls, boars, rams, bucks), which reduces aggressiveness, prevents unwanted mating and improves meat quality and tenderness.</li>\n<li><strong>Dehorning:</strong> removal of developing horn buds in young calves or goats using a hot iron, caustic paste or dehorning tool, to reduce injury to other animals and handlers and to allow more animals to be housed safely together.</li>\n<li><strong>Ear-notching/tagging:</strong> making distinct notches or attaching numbered tags on the ears of pigs, cattle or goats for permanent identification, useful for record keeping, selection and tracing pedigree.</li>\n<li><strong>Culling:</strong> the systematic removal of unproductive, diseased, old or genetically inferior animals from the flock or herd to improve overall herd quality and reduce feed wastage on non-performing stock.</li>\n<li><strong>Vaccination:</strong> administration of vaccines to stimulate immunity against specific diseases, e.g. Newcastle disease and Gumboro vaccines in poultry, and Foot-and-Mouth Disease (FMD) vaccine in cattle, following a strict vaccination schedule from day-old.</li>\n<li><strong>Weaning:</strong> the practice of separating young animals from their mothers and stopping suckling, done gradually to reduce stress; e.g. piglets are weaned around 6-8 weeks and calves around 3-6 months of age.</li>\n<li><strong>Hoof trimming:</strong> cutting back overgrown hooves in cattle, sheep and goats to prevent lameness, foot rot and abnormal gait, particularly important for animals kept in confinement with limited natural hoof wear.</li>\n</ul>\n<h4>Why These Practices Matter</h4>\n<p>Each of these practices addresses a specific management challenge: debeaking and castration reduce injurious behaviour and improve carcass quality; dehorning and hoof trimming prevent injury and improve welfare; ear-notching and culling support genetic improvement and record accuracy; vaccination and disease control practices reduce mortality; and weaning management ensures a smooth transition to independent feeding for young stock.</p>\n<h4>Mortality Percentage</h4>\n<p>A key indicator of the effectiveness of health management is the mortality rate, calculated as:</p>\n<p>\\[ \\text{Mortality (\\%)} = \\frac{\\text{Number of animals that died}}{\\text{Total number of animals at the start}} \\times 100 \\]</p>\n<p>For instance, if 15 out of 500 chicks died during a brooding period, the mortality percentage is \\( \\frac{15}{500} \\times 100 = 3\\% \\), which is within an acceptable range (below 5%) for a well-managed brooder house; higher values indicate poor management, disease outbreak or environmental stress requiring urgent investigation.</p>\n<h4>Timing of Routine Practices</h4>\n<table class=\"tb-table\">\n<tr><th>Practice</th><th>Typical Timing</th></tr>\n<tr><td>Debeaking</td><td>1-10 days of age</td></tr>\n<tr><td>Castration (piglets)</td><td>1-3 weeks of age</td></tr>\n<tr><td>Dehorning (calves)</td><td>2-8 weeks of age</td></tr>\n<tr><td>Weaning (piglets)</td><td>6-8 weeks of age</td></tr>\n<tr><td>Vaccination (Newcastle, day-old)</td><td>Day-old and booster schedule</td></tr>\n</table>\n<p>Timely and correctly executed routine management practices are central to reducing losses, improving welfare, and maximising the productivity of any livestock enterprise.</p>\n",
+   "examples": [
+    {
+     "q": "Out of 1000 broiler chicks placed in a brooder, 40 died before six weeks of age. Calculate the mortality percentage and comment on the result.",
+     "a": "Mortality (%) = (40/1000) x 100 = 4%. This is within the generally acceptable mortality range (below 5%) for broiler production, suggesting reasonably good brooder management, though the farmer should still investigate the cause of the losses to reduce it further."
+    },
+    {
+     "q": "Explain why castration is carried out on male pigs not intended for breeding.",
+     "a": "Castration removes the testes, which stops testosterone production; this reduces aggressive behaviour, prevents unwanted mating with female pigs, and improves the taste and quality of the meat (pork) by eliminating 'boar taint', a strong odour and flavour found in the meat of uncastrated mature male pigs."
+    }
+   ]
+  },
+  {
+   "title": "Record Keeping in Livestock Production",
+   "html": "\n<h4>Importance of Record Keeping</h4>\n<p>Record keeping is the systematic documentation of information relating to the day-to-day operations of a livestock enterprise. Good records enable a farmer to monitor productivity, detect problems early, make informed breeding and culling decisions, calculate profit or loss, secure loans from financial institutions, and comply with regulatory or export requirements.</p>\n<h4>Types of Farm Records</h4>\n<ul>\n<li><strong>Production records:</strong> daily egg collection, milk yield, weight gain, litter size, and feed consumption.</li>\n<li><strong>Health records:</strong> vaccination dates, disease treatment history, mortality figures and post-mortem findings.</li>\n<li><strong>Breeding records:</strong> mating/service dates, expected parturition or hatch dates, pedigree and progeny information.</li>\n<li><strong>Financial records:</strong> income from sale of animals and products, and expenditure on feed, drugs, labour and equipment.</li>\n<li><strong>Inventory records:</strong> stock of feed, drugs, equipment and number of animals on the farm at any given time.</li>\n</ul>\n<h4>Egg Production (Hen-Day) Percentage</h4>\n<p>In poultry layer enterprises, a critical production record is the hen-day egg production percentage, which measures the proportion of hens in the flock that laid an egg on a given day (or over a period), relative to the number of live hens present. It is calculated as:</p>\n<p>\\[ \\text{Hen-day egg production (\\%)} = \\frac{\\text{Total number of eggs laid}}{\\text{Number of hens present} \\times \\text{Number of days}} \\times 100 \\]</p>\n<p>For example, if a flock of 200 layers produced 3,600 eggs in 20 days, the hen-day production is:</p>\n<p>\\[ \\frac{3600}{200 \\times 20} \\times 100 = \\frac{3600}{4000} \\times 100 = 90\\% \\]</p>\n<p>A hen-day production of 90% is considered excellent for a laying flock, while values consistently below 60-70% may indicate poor nutrition, disease, stress, old age of birds or poor lighting programme, prompting the farmer to investigate the cause.</p>\n<h4>Why Records Must Be Accurate and Up to Date</h4>\n<p>Records are only useful if they are accurate, consistent and updated regularly. Farmers should use simple record cards, ledgers or, increasingly, computer/mobile applications to log data daily. Analysis of records over time (weekly, monthly, yearly) allows comparison of performance across different batches, seasons or breeding lines, guiding decisions on culling low-performing animals, adjusting feeding programmes, and planning future stocking levels.</p>\n<table class=\"tb-table\">\n<tr><th>Record Type</th><th>Example Data Captured</th><th>Use</th></tr>\n<tr><td>Production</td><td>Daily egg count, weekly weight</td><td>Monitor performance</td></tr>\n<tr><td>Health</td><td>Vaccination date, mortality</td><td>Disease control</td></tr>\n<tr><td>Financial</td><td>Feed cost, sales revenue</td><td>Profit/loss analysis</td></tr>\n</table>\n<p>In summary, systematic record keeping transforms livestock farming from guesswork into an evidence-based enterprise capable of continuous improvement and long-term profitability.</p>\n",
+   "examples": [
+    {
+     "q": "A flock of 500 layers produced 6,300 eggs over a 14-day period. Calculate the hen-day egg production percentage.",
+     "a": "Hen-day production (%) = Total eggs / (Number of hens x Number of days) x 100 = 6300 / (500 x 14) x 100 = 6300/7000 x 100 = 90%, an excellent result for a laying flock."
+    },
+    {
+     "q": "List three types of records a rabbit farmer should keep and state one use of each.",
+     "a": "Breeding records (service and kindling dates) - used to predict kindling dates and plan hutch space; Production records (litter size, weaning weight) - used to identify the most productive does for selection; Financial records (feed cost, sales income) - used to calculate profit or loss from the rabbitry."
+    }
+   ]
+  },
+  {
+   "title": "Livestock Production Economics and Health Management",
+   "html": "\n<h4>Economics of Livestock Production</h4>\n<p>Livestock production economics deals with the efficient use of limited resources (land, labour, capital, feed) to maximise output and profit from a livestock enterprise. Farmers must consider costs of production, expected revenue, and factors affecting profitability such as feed cost (the largest cost item, often 60-70% of total cost), stocking density, disease incidence and market price fluctuations.</p>\n<h4>Basic Economic Formulas</h4>\n<p>Gross profit or margin is calculated as:</p>\n<p>\\[ \\text{Gross Margin} = \\text{Total Revenue} - \\text{Total Variable Cost} \\]</p>\n<p>Net profit accounts for fixed costs as well:</p>\n<p>\\[ \\text{Net Profit} = \\text{Total Revenue} - (\\text{Total Variable Cost} + \\text{Total Fixed Cost}) \\]</p>\n<p>Feed cost per kg gain, closely related to FCR, helps compare the economic efficiency of different feeding programmes:</p>\n<p>\\[ FCR = \\frac{\\text{Feed intake (kg)}}{\\text{Weight gain (kg)}} \\]</p>\n<p>A farmer aiming to reduce production costs should focus on improving FCR, reducing mortality, and increasing stocking efficiency without overcrowding, since each of these directly affects the final profitability of the enterprise.</p>\n<h4>Health Management and Culling Decisions</h4>\n<p>Disease prevention is more economical than treatment. Effective health management includes routine vaccination, proper sanitation and disinfection of pens/houses, quarantine of newly introduced animals, regular deworming, and prompt isolation of sick animals. Biosecurity measures such as foot-dips, restricted visitor access and all-in-all-out management reduce the spread of infectious diseases such as Newcastle disease, African Swine Fever and Foot-and-Mouth Disease.</p>\n<p>Culling decisions should be guided by records: animals with persistently low production, chronic ill-health, poor fertility, or old age should be removed from the herd/flock to reduce cost of maintaining unproductive stock and to make room for more productive replacements. Culling improves overall herd genetic quality when combined with a sound breeding/selection programme.</p>\n<h4>Factors Affecting Profitability</h4>\n<ul>\n<li>Efficient feed utilisation (low FCR) and access to affordable quality feed.</li>\n<li>Low mortality and disease incidence through good health management.</li>\n<li>Appropriate stocking rate that avoids overcrowding or under-utilisation of housing.</li>\n<li>Good breeding stock with high genetic potential for growth, egg or milk production.</li>\n<li>Favourable and stable market prices for livestock products and inputs.</li>\n<li>Efficient record keeping to guide management decisions.</li>\n</ul>\n<p>Ultimately, profitable and sustainable livestock production integrates sound husbandry, appropriate housing, careful breeding and selection, routine management practices, accurate record keeping and disciplined economic management, all combined to maximise output while minimising costs and losses.</p>\n",
+   "examples": [
+    {
+     "q": "A poultry farmer's total revenue from a batch of broilers was ₦850,000 while the total variable cost (feed, day-old chicks, drugs) was ₦600,000. Calculate the gross margin.",
+     "a": "Gross Margin = Total Revenue - Total Variable Cost = ₦850,000 - ₦600,000 = ₦250,000."
+    },
+    {
+     "q": "Explain why a farmer should cull a dairy cow that has consistently produced below-average milk yield for three consecutive lactations.",
+     "a": "Such a cow is uneconomical to keep because she consumes feed and occupies housing space similar to a productive cow but generates less revenue; culling her frees resources for a more productive replacement, improves the average productivity and genetic quality of the herd, and improves overall farm profitability."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which Nigerian cattle breed is noted for trypanotolerance in humid tsetse-infested zones?",
+   "options": [
+    "White Fulani",
+    "Sokoto Gudali",
+    "N'Dama",
+    "Red Sokoto"
+   ],
+   "answer": "2",
+   "solution": "The N'Dama breed is trypanotolerant, making it well suited to humid areas of West Africa with tsetse fly challenge."
+  },
+  {
+   "q": "The gestation period of a pig is approximately:",
+   "options": [
+    "21 days",
+    "114 days",
+    "147 days",
+    "280 days"
+   ],
+   "answer": "1",
+   "solution": "Pigs have a gestation period of about 114 days (3 months, 3 weeks, 3 days)."
+  },
+  {
+   "q": "Which housing system allows animals to roam freely with minimal supplementary feeding?",
+   "options": [
+    "Intensive system",
+    "Semi-intensive system",
+    "Extensive system",
+    "Battery cage system"
+   ],
+   "answer": "2",
+   "solution": "The extensive (free-range) system allows animals to roam and graze freely with little supplementary feeding or housing."
+  },
+  {
+   "q": "In poultry housing, the system where birds are kept on a floor covered with wood shavings or rice husk is called:",
+   "options": [
+    "Battery cage system",
+    "Deep litter system",
+    "Slatted floor system",
+    "Zero-grazing system"
+   ],
+   "answer": "1",
+   "solution": "The deep litter system uses litter material such as wood shavings spread on the floor to absorb droppings and keep the house dry."
+  },
+  {
+   "q": "Stocking rate is calculated as:",
+   "options": [
+    "Number of animals multiplied by area",
+    "Area divided by number of animals",
+    "Number of animals divided by area",
+    "Number of animals minus area"
+   ],
+   "answer": "2",
+   "solution": "Stocking rate = Number of animals / Area of land or pen."
+  },
+  {
+   "q": "The practice of removing part of the beak of chicks to prevent cannibalism is called:",
+   "options": [
+    "Dehorning",
+    "Debeaking",
+    "Castration",
+    "Culling"
+   ],
+   "answer": "1",
+   "solution": "Debeaking is the partial removal of the beak in chicks to reduce cannibalism and feather pecking."
+  },
+  {
+   "q": "Which practice involves removing the testes of young male animals not intended for breeding?",
+   "options": [
+    "Dehorning",
+    "Ear-notching",
+    "Castration",
+    "Weaning"
+   ],
+   "answer": "2",
+   "solution": "Castration is the removal or destruction of the testes to reduce aggressiveness and improve meat quality."
+  },
+  {
+   "q": "Out of 400 chicks placed in a brooder, 20 died within the first four weeks. What is the mortality percentage?",
+   "options": [
+    "2%",
+    "5%",
+    "10%",
+    "20%"
+   ],
+   "answer": "1",
+   "solution": "Mortality (%) = (20/400) x 100 = 5%."
+  },
+  {
+   "q": "A flock of 300 layers produced 2,700 eggs in 10 days. What is the hen-day egg production percentage?",
+   "options": [
+    "60%",
+    "75%",
+    "90%",
+    "100%"
+   ],
+   "answer": "2",
+   "solution": "Hen-day production = 2700 / (300 x 10) x 100 = 2700/3000 x 100 = 90%."
+  },
+  {
+   "q": "Cross-breeding is mainly practised in livestock improvement in order to:",
+   "options": [
+    "Maintain pure breed characteristics",
+    "Combine desirable traits and exploit hybrid vigour",
+    "Reduce feed intake",
+    "Prevent castration"
+   ],
+   "answer": "1",
+   "solution": "Cross-breeding combines desirable traits from two different breeds and often produces hybrid vigour (heterosis) in the offspring."
+  },
+  {
+   "q": "Which record type would show the vaccination history and mortality figures of a flock?",
+   "options": [
+    "Financial records",
+    "Health records",
+    "Inventory records",
+    "Breeding records"
+   ],
+   "answer": "1",
+   "solution": "Health records document vaccination dates, treatments, mortality and disease history."
+  },
+  {
+   "q": "Gross margin in livestock production economics is calculated as:",
+   "options": [
+    "Total revenue minus total variable cost",
+    "Total revenue plus total fixed cost",
+    "Total variable cost minus total revenue",
+    "Total fixed cost divided by total revenue"
+   ],
+   "answer": "0",
+   "solution": "Gross Margin = Total Revenue - Total Variable Cost."
+  },
+  {
+   "q": "A pig consumed 90 kg of feed and gained 30 kg in body weight. What is its FCR?",
+   "options": [
+    "0.33",
+    "3.0",
+    "9.0",
+    "30"
+   ],
+   "answer": "1",
+   "solution": "FCR = Feed intake / Weight gain = 90/30 = 3.0."
+  },
+  {
+   "q": "Which of the following is an example of ear-notching's main purpose?",
+   "options": [
+    "Disease treatment",
+    "Permanent animal identification",
+    "Increasing milk yield",
+    "Preventing feather pecking"
+   ],
+   "answer": "1",
+   "solution": "Ear-notching and tagging provide permanent identification of individual animals for record keeping and selection purposes."
+  },
+  {
+   "q": "Which of the following best explains why culling is important in a dairy herd?",
+   "options": [
+    "It increases feed cost",
+    "It removes unproductive animals and improves overall herd quality",
+    "It reduces the gestation period",
+    "It eliminates the need for vaccination"
+   ],
+   "answer": "1",
+   "solution": "Culling removes unproductive, diseased or genetically inferior animals, improving the overall productivity and genetic quality of the herd while reducing wasted resources."
+  }
+ ]
+}

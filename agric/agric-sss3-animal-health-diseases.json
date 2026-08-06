@@ -1,0 +1,227 @@
+{
+  "subject": "Agricultural Science",
+  "level": "SSS 3",
+  "slug": "animal-health-diseases",
+  "title": "Animal Health and Parasitology",
+  "outline": [
+    "Concepts of animal health and disease",
+    "Classification of animal diseases",
+    "Parasites of livestock: endoparasites and ectoparasites",
+    "Life cycles of common livestock parasites",
+    "Signs, transmission and control of livestock diseases",
+    "Vaccination and disease prevention programmes",
+    "Economic importance of animal diseases and parasites",
+    "Farm biosecurity and hygiene practices"
+  ],
+  "modules": [
+    {
+      "title": "Concepts of Animal Health, Disease and Immunity",
+      "html": "<h4>Animal Health and Disease</h4>\n<p>Animal health refers to a state in which an animal's body systems function normally, allowing it to grow, reproduce and produce economically at optimum levels. Disease, on the other hand, is any deviation from this normal physiological state caused by pathogens, nutritional deficiency, physical injury or genetic defects. A healthy animal is alert, has a shiny coat, normal appetite, normal body temperature, and produces expected yields of meat, milk, eggs or wool.</p>\n<p>Diseases in livestock can be classified based on their causal agents into infectious diseases (caused by bacteria, viruses, fungi and protozoa) and non-infectious diseases (caused by nutritional deficiency, metabolic disorders, poisoning and genetic abnormalities). Infectious diseases are further grouped as contagious (spread by direct contact, e.g. foot-and-mouth disease) and non-contagious (not spread by contact, e.g. tetanus).</p>\n<h4>Immunity and Resistance</h4>\n<p>Immunity is the ability of an animal's body to resist or overcome infection by disease-causing organisms. It may be natural (innate), acquired through exposure to disease, or induced artificially through vaccination. Natural immunity is inherited and species-specific; for example, cattle do not contract diseases peculiar to poultry. Acquired immunity develops after an animal survives an infection, while artificial active immunity is stimulated by vaccines that contain weakened or dead pathogens, prompting the body to produce antibodies without causing full-blown disease.</p>\n<h4>Signs of a Healthy versus Sick Animal</h4>\n<ul>\n<li>Healthy: bright eyes, normal temperature (cattle 38.0–39.3°C), good appetite, normal dung and urine, active movement.</li>\n<li>Sick: dull eyes, rough coat, fever or subnormal temperature, loss of appetite, diarrhoea, isolation from the herd, reduced production.</li>\n</ul>\n<h4>Factors Predisposing Animals to Disease</h4>\n<ol>\n<li>Poor nutrition and deficiency of vitamins/minerals.</li>\n<li>Overcrowding and poor housing/ventilation.</li>\n<li>Poor sanitation and contaminated water or feed.</li>\n<li>Stress from transportation, extreme weather or handling.</li>\n<li>Introduction of new animals without quarantine.</li>\n</ol>\n<p>Understanding these basic concepts helps farmers and veterinary officers design appropriate management, feeding and preventive health programmes to minimise economic losses in livestock production.</p>",
+      "examples": [
+        {
+          "q": "State three signs used to differentiate a healthy animal from a sick animal.",
+          "a": "A healthy animal shows: (1) bright, alert eyes and active movement; (2) normal body temperature and good appetite; (3) shiny coat/skin and normal faecal and urine output. A sick animal typically shows dull eyes, rough coat, fever, loss of appetite and isolation from the herd."
+        },
+        {
+          "q": "Distinguish between contagious and non-contagious infectious diseases, giving one example each.",
+          "a": "Contagious diseases spread through direct or indirect contact between animals, e.g. foot-and-mouth disease. Non-contagious infectious diseases are caused by pathogens but do not spread by contact between animals, e.g. tetanus, which is acquired through wound contamination by soil-borne bacteria."
+        }
+      ]
+    },
+    {
+      "title": "Endoparasites and Ectoparasites of Livestock",
+      "html": "<h4>Meaning of Parasitism</h4>\n<p>A parasite is an organism that lives on or in another organism (the host), deriving nourishment at the host's expense while causing it harm. Livestock parasites are broadly classified into endoparasites, which live inside the host's body, and ectoparasites, which live on the external surface of the host.</p>\n<h4>Endoparasites</h4>\n<p>Endoparasites include helminths (worms) and protozoa. Common examples are roundworms (Ascaris spp.), tapeworms (Taenia spp.), liver flukes (Fasciola spp.) and coccidia. They inhabit the gastrointestinal tract, liver, lungs or blood, causing anaemia, poor growth, diarrhoea, reduced feed conversion and sometimes death in heavy infestations.</p>\n<table class=\"tb-table\">\n<tr><th>Parasite</th><th>Location in Host</th><th>Disease/Effect</th></tr>\n<tr><td>Roundworm (Ascaris)</td><td>Small intestine</td><td>Poor growth, diarrhoea</td></tr>\n<tr><td>Liver fluke (Fasciola)</td><td>Bile ducts of liver</td><td>Fascioliasis, liver damage</td></tr>\n<tr><td>Coccidia (Eimeria)</td><td>Intestinal lining</td><td>Coccidiosis, bloody diarrhoea</td></tr>\n<tr><td>Trypanosoma</td><td>Blood stream</td><td>Trypanosomiasis (nagana)</td></tr>\n</table>\n<h4>Ectoparasites</h4>\n<p>Ectoparasites live on the skin, hair or feathers of the host and include ticks, mites, lice, fleas and tsetse flies. They cause irritation, blood loss, damage to hides and skin, and transmit disease-causing organisms such as protozoa and viruses. For example, ticks transmit babesiosis and East Coast fever, while tsetse flies transmit trypanosomiasis.</p>\n<h4>Effects of Parasitism on Livestock</h4>\n<ol>\n<li>Retarded growth and low weight gain.</li>\n<li>Reduced milk, egg and meat production.</li>\n<li>Anaemia and general body weakness.</li>\n<li>Damage to hides, skin and wool quality.</li>\n<li>Transmission of secondary disease-causing organisms.</li>\n<li>Increased mortality in severe untreated cases.</li>\n</ol>\n<p>Effective parasite management requires a combination of proper hygiene, strategic deworming, use of acaricides, and rotational grazing to break parasite life cycles and reduce pasture contamination.</p>\n<h4>Life Cycles and Transmission Patterns</h4>\n<p>Understanding the life cycle of common livestock parasites is essential for effective control, since many endoparasites such as the liver fluke and tapeworm require an intermediate host to complete their development. The liver fluke, for example, depends on a specific species of freshwater snail found in swampy pasture areas common in the Nigerian and wider West African wetlands, while tapeworms often require an intermediate host such as an insect or small mammal before infective stages reach the final livestock host through ingestion of contaminated feed or water. Ectoparasites such as ticks similarly have multi-stage life cycles, with larval, nymphal and adult stages that may attach to different hosts, allowing for disease transmission at multiple points if not controlled.</p>\n<h4>Diagnosis of Parasitic Infestation</h4>\n<p>Farmers and veterinary personnel diagnose parasitic infestations through observation of clinical signs such as poor body condition, rough hair coat, pale mucous membranes, diarrhoea, and reduced productivity, supported by laboratory techniques such as faecal egg counts under a microscope to identify and quantify endoparasite eggs, and physical examination of the skin and coat for visible ectoparasites like ticks and lice.</p>\n<h4>Economic Importance of Parasite Control</h4>\n<ul>\n<li>Reduces losses in meat, milk, egg and wool production caused by chronic parasitic infestation.</li>\n<li>Prevents costly disease outbreaks resulting from parasite-transmitted infections such as trypanosomiasis and East Coast fever.</li>\n<li>Improves feed conversion efficiency, since animals free of heavy parasite burdens utilise feed more effectively for growth.</li>\n<li>Maintains hide, skin and wool quality, which are important sources of income in the livestock value chain.</li>\n</ul>\n<p>Regular deworming schedules, strategic use of acaricides, pasture rotation, and proper sanitation of animal housing are therefore central to reducing the economic impact of both endoparasites and ectoparasites on livestock enterprises across Nigeria, and these control measures are commonly assessed in WAEC and NECO agricultural science examinations.</p>\n",
+      "examples": [
+        {
+          "q": "Differentiate between an endoparasite and an ectoparasite, giving one example each.",
+          "a": "An endoparasite lives inside the body of the host, e.g. liver fluke (Fasciola) found in the bile ducts of the liver. An ectoparasite lives on the external surface of the host, e.g. the tick, which attaches to the skin and sucks blood."
+        },
+        {
+          "q": "Explain two economic effects of parasitism on livestock production.",
+          "a": "(1) Reduced productivity: parasites cause poor growth, low milk/egg/meat yield due to nutrient competition and tissue damage. (2) Increased production cost: farmers spend money on dewormers, acaricides and veterinary treatment, while heavy infestations may cause mortality, lowering farm income."
+        }
+      ]
+    },
+    {
+      "title": "Disease Control, Prevention and Farm Biosecurity",
+      "html": "<h4>Principles of Disease Control</h4>\n<p>Disease control in livestock production involves preventing the entry, spread and establishment of disease-causing organisms on the farm. This is achieved through a combination of good management practices, sanitation, vaccination and strategic treatment of animals.</p>\n<h4>Methods of Disease Prevention and Control</h4>\n<ol>\n<li><strong>Vaccination:</strong> Administration of vaccines to stimulate active immunity against specific diseases such as Newcastle disease, foot-and-mouth disease and anthrax.</li>\n<li><strong>Quarantine:</strong> Isolating newly purchased or sick animals for a period (usually 2–4 weeks) before mixing with the main herd/flock.</li>\n<li><strong>Sanitation and hygiene:</strong> Regular cleaning and disinfection of pens, drinkers, feeders and equipment.</li>\n<li><strong>Proper nutrition:</strong> Feeding balanced rations to boost natural resistance to disease.</li>\n<li><strong>Strategic deworming and dipping:</strong> Routine administration of anthelmintics and acaricides to control internal and external parasites.</li>\n<li><strong>Culling:</strong> Removal and destruction of chronically infected animals to prevent spread.</li>\n<li><strong>Vector control:</strong> Controlling ticks, mosquitoes and tsetse flies that transmit diseases.</li>\n</ol>\n<h4>Farm Biosecurity</h4>\n<p>Biosecurity refers to a set of management practices designed to prevent the introduction and spread of infectious agents onto a farm. Key biosecurity measures include: restricting visitor access, providing foot dips and hand-washing points at entry points, using dedicated protective clothing, proper disposal of dead animals and litter, controlling movement of vehicles, and preventing contact with wild birds and rodents that may act as disease carriers.</p>\n<table class=\"tb-table\">\n<tr><th>Biosecurity Measure</th><th>Purpose</th></tr>\n<tr><td>Foot dips at entrance</td><td>Disinfect footwear to prevent pathogen entry</td></tr>\n<tr><td>Quarantine of new stock</td><td>Detect and isolate hidden infections</td></tr>\n<tr><td>All-in-all-out system</td><td>Break disease cycle between batches</td></tr>\n<tr><td>Pest and rodent control</td><td>Reduce disease vectors and carriers</td></tr>\n</table>\n<h4>Vaccination Programme</h4>\n<p>An effective vaccination programme follows a schedule based on the type of animal, age, and prevalent diseases in the locality. For instance, poultry are vaccinated against Newcastle disease at day-old, 2 weeks and periodically thereafter, while cattle are vaccinated against anthrax and blackleg annually before the rainy season when disease incidence is highest.</p>\n<p>Combining these preventive strategies reduces morbidity and mortality, lowers treatment costs, and improves overall farm profitability and food security.</p>",
+      "examples": [
+        {
+          "q": "List four biosecurity measures a poultry farmer can adopt to prevent disease outbreak.",
+          "a": "1. Provide foot dips/disinfectant at the entrance of the poultry house. 2. Restrict entry of visitors and vehicles into the farm. 3. Practise an all-in-all-out system of production. 4. Control rodents, wild birds and insects that may carry pathogens into the farm."
+        },
+        {
+          "q": "Explain why quarantine is an important disease control measure when introducing new animals to a farm.",
+          "a": "Quarantine involves isolating newly acquired animals for 2–4 weeks before mixing them with the existing herd/flock. This allows time to observe the animals for signs of disease, treat or vaccinate them if necessary, and prevents the introduction of hidden infections that could spread rapidly through the whole farm."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which of the following best defines animal health?",
+      "options": [
+        "The absence of farm buildings",
+        "A state of normal physiological function enabling growth and production",
+        "The presence of parasites in an animal",
+        "The cost of veterinary drugs"
+      ],
+      "answer": "1",
+      "solution": "Animal health is a state in which the body systems function normally, allowing growth, reproduction and production, hence option B."
+    },
+    {
+      "q": "Foot-and-mouth disease is an example of a __________ disease.",
+      "options": [
+        "nutritional",
+        "contagious",
+        "genetic",
+        "metabolic"
+      ],
+      "answer": "1",
+      "solution": "Foot-and-mouth disease spreads by direct/indirect contact between animals, making it contagious."
+    },
+    {
+      "q": "Which organism causes coccidiosis in poultry?",
+      "options": [
+        "Fasciola",
+        "Eimeria",
+        "Taenia",
+        "Trypanosoma"
+      ],
+      "answer": "1",
+      "solution": "Coccidiosis is caused by protozoa of the genus Eimeria which infect the intestinal lining."
+    },
+    {
+      "q": "An ectoparasite is best described as one that:",
+      "options": [
+        "lives inside the host's blood",
+        "lives on the external surface of the host",
+        "only affects plants",
+        "cannot be controlled"
+      ],
+      "answer": "1",
+      "solution": "Ectoparasites such as ticks and lice live on the external body surface of the host, unlike endoparasites."
+    },
+    {
+      "q": "Ticks are important in livestock disease because they:",
+      "options": [
+        "improve milk yield",
+        "transmit diseases such as babesiosis",
+        "are a source of protein",
+        "only live in water"
+      ],
+      "answer": "1",
+      "solution": "Ticks are vectors that transmit blood parasites causing diseases such as babesiosis and East Coast fever."
+    },
+    {
+      "q": "The liver fluke belongs to which parasite location group?",
+      "options": [
+        "Ectoparasite",
+        "Endoparasite",
+        "Vector only",
+        "Non-parasitic organism"
+      ],
+      "answer": "1",
+      "solution": "Fasciola (liver fluke) lives inside the host's bile ducts, making it an endoparasite."
+    },
+    {
+      "q": "Vaccination works by:",
+      "options": [
+        "killing all parasites instantly",
+        "stimulating the body to produce antibodies against a specific pathogen",
+        "increasing body temperature permanently",
+        "replacing balanced feeding"
+      ],
+      "answer": "1",
+      "solution": "Vaccines contain weakened/dead pathogens that stimulate the immune system to produce antibodies, giving active immunity."
+    },
+    {
+      "q": "Which practice helps prevent introduction of disease from newly purchased animals?",
+      "options": [
+        "Immediate mixing with existing herd",
+        "Quarantine",
+        "Selling old stock",
+        "Increasing stocking density"
+      ],
+      "answer": "1",
+      "solution": "Quarantine isolates new animals for observation before mixing, preventing spread of hidden infections."
+    },
+    {
+      "q": "Which of these is a sign of a sick animal?",
+      "options": [
+        "Shiny coat",
+        "Bright alert eyes",
+        "Dull eyes and rough coat",
+        "Normal appetite"
+      ],
+      "answer": "2",
+      "solution": "Sick animals typically show dull eyes, rough coat, fever and reduced appetite."
+    },
+    {
+      "q": "Trypanosomiasis in cattle is transmitted mainly by:",
+      "options": [
+        "mosquitoes",
+        "tsetse flies",
+        "houseflies",
+        "earthworms"
+      ],
+      "answer": "1",
+      "solution": "Tsetse flies transmit Trypanosoma parasites that cause trypanosomiasis (nagana) in cattle."
+    },
+    {
+      "q": "An example of a non-infectious disease is:",
+      "options": [
+        "Anthrax",
+        "Newcastle disease",
+        "Vitamin A deficiency",
+        "Foot-and-mouth disease"
+      ],
+      "answer": "2",
+      "solution": "Vitamin A deficiency is a nutritional disorder, not caused by a pathogen, hence non-infectious."
+    },
+    {
+      "q": "The 'all-in-all-out' system in poultry farming helps to:",
+      "options": [
+        "increase feed cost",
+        "break the disease transmission cycle between batches",
+        "reduce egg production",
+        "eliminate the need for vaccination"
+      ],
+      "answer": "1",
+      "solution": "This system removes an entire batch before introducing a new one, disinfecting the house in between to break disease cycles."
+    },
+    {
+      "q": "Which of the following is an ectoparasite?",
+      "options": [
+        "Ascaris",
+        "Tapeworm",
+        "Louse",
+        "Coccidia"
+      ],
+      "answer": "2",
+      "solution": "The louse lives on the skin/feathers of the host externally, unlike the others which are internal parasites."
+    },
+    {
+      "q": "A major economic effect of heavy parasite infestation in livestock is:",
+      "options": [
+        "increased milk and meat yield",
+        "reduced growth rate and productivity",
+        "improved immunity",
+        "reduced feed requirement"
+      ],
+      "answer": "1",
+      "solution": "Parasites compete for nutrients and damage tissues, leading to reduced growth rate, productivity and farm income."
+    },
+    {
+      "q": "Which measure is NOT part of farm biosecurity?",
+      "options": [
+        "Foot dips at entry points",
+        "Restricting visitor access",
+        "Allowing free contact with wild birds",
+        "Quarantine of new stock"
+      ],
+      "answer": "2",
+      "solution": "Allowing free contact with wild birds increases disease risk and is contrary to biosecurity principles."
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+ "subject": "Agricultural Science",
+ "level": "SSS 3",
+ "slug": "aquaculture-fisheries",
+ "title": "Aquaculture and Fisheries",
+ "outline": [
+  "Introduction to aquaculture and fisheries",
+  "Types and construction of fish ponds",
+  "Water quality management in fish farming",
+  "Fish species suitable for culture in Nigeria",
+  "Feeding and nutrition of cultured fish",
+  "Stocking density and fish yield calculations",
+  "Fish harvesting, processing and marketing",
+  "Common fish diseases and pond management"
+ ],
+ "modules": [
+  {
+   "title": "Introduction to Aquaculture and Pond Construction",
+   "html": "<h4>Meaning of Aquaculture and Fisheries</h4>\n<p>Aquaculture is the deliberate rearing and management of aquatic organisms such as fish, crustaceans and molluscs under controlled or semi-controlled conditions for food, income or other economic purposes. Fisheries, on the other hand, is a broader term covering both the capture of fish from natural water bodies (capture fisheries) and the farming of fish (culture fisheries or aquaculture). Fish farming has become an important enterprise in Nigeria due to the high demand for animal protein and the relatively short production cycle of fish compared to other livestock.</p>\n<h4>Types of Fish Ponds</h4>\n<ul>\n<li><strong>Earthen ponds:</strong> Dug directly into the soil; most common and cost-effective for small and large-scale farmers.</li>\n<li><strong>Concrete ponds:</strong> Built with cement blocks and concrete; durable and easy to manage but costly to construct.</li>\n<li><strong>Tarpaulin/plastic-lined ponds:</strong> Use waterproof liners over a frame or pit; economical and mobile, popular among urban fish farmers.</li>\n<li><strong>Fibreglass and concrete tanks:</strong> Used mainly for hatcheries and fingerling production.</li>\n<li><strong>Cages and pens:</strong> Placed in natural water bodies such as rivers, lakes and reservoirs for large-scale production.</li>\n</ul>\n<h4>Site Selection for Pond Construction</h4>\n<ol>\n<li>Availability of adequate and clean water supply throughout the year.</li>\n<li>Soil with good water-retention capacity (clay or clay-loam soils).</li>\n<li>Gentle slope of land to allow gravity flow of water and easy drainage.</li>\n<li>Accessibility to the site for feeding, harvesting and marketing.</li>\n<li>Freedom from flooding and pollution sources.</li>\n</ol>\n<h4>Basic Pond Components</h4>\n<p>A well-constructed pond has an inlet for water supply, an outlet or monk for drainage and water level control, dikes/embankments to retain water, and a pond bottom that slopes gently towards the outlet to facilitate complete drainage during harvesting. Proper pond design ensures efficient water management, reduces seepage losses, and supports optimum fish growth and production efficiency in both extensive and intensive culture systems.</p>",
+   "examples": [
+    {
+     "q": "Distinguish between aquaculture and capture fisheries.",
+     "a": "Aquaculture is the deliberate rearing of aquatic organisms under controlled conditions (e.g. fish farming in ponds), while capture fisheries involves catching fish and other aquatic organisms from their natural habitats such as rivers, lakes and the sea without prior stocking or feeding by man."
+    },
+    {
+     "q": "State three factors to consider when selecting a site for pond construction.",
+     "a": "1. Availability of adequate and clean water supply all year round. 2. Soil type with good water-retention capacity, such as clay or clay-loam. 3. Gentle slope of land for easy gravity water flow and drainage; the site should also be free from flooding and pollution."
+    }
+   ]
+  },
+  {
+   "title": "Water Quality Management and Fish Species Selection",
+   "html": "<h4>Importance of Water Quality</h4>\n<p>Water is the medium in which cultured fish live, breathe, feed and grow; hence its quality directly affects fish health, growth rate and survival. Poor water quality leads to stress, disease outbreaks, reduced feed conversion and even mass mortality of fish stock.</p>\n<h4>Key Water Quality Parameters</h4>\n<table class=\"tb-table\">\n<tr><th>Parameter</th><th>Ideal Range</th><th>Effect if Outside Range</th></tr>\n<tr><td>Dissolved oxygen</td><td>5–8 mg/L</td><td>Low levels cause suffocation and fish kill</td></tr>\n<tr><td>pH</td><td>6.5–8.5</td><td>Extreme pH stresses fish and reduces growth</td></tr>\n<tr><td>Temperature</td><td>25–30°C</td><td>Affects metabolism, feeding and growth rate</td></tr>\n<tr><td>Ammonia</td><td>Below 0.02 mg/L (un-ionised)</td><td>High levels are toxic, damage gills</td></tr>\n<tr><td>Turbidity</td><td>Moderate, allows light penetration</td><td>Excess turbidity reduces oxygen and clogs gills</td></tr>\n</table>\n<h4>Management Practices for Good Water Quality</h4>\n<ol>\n<li>Regular exchange of pond water to remove waste and maintain oxygen levels.</li>\n<li>Liming of ponds before stocking to correct pH and eliminate pathogens.</li>\n<li>Avoiding overfeeding, which leads to accumulation of organic waste and ammonia build-up.</li>\n<li>Use of aerators or paddle wheels in intensive systems to boost dissolved oxygen.</li>\n<li>Regular monitoring using test kits for pH, oxygen, ammonia and temperature.</li>\n</ol>\n<h4>Fish Species Suitable for Culture</h4>\n<p>In Nigeria, the most commonly cultured fish species include <em>Clarias gariepinus</em> (African catfish), prized for its hardiness, fast growth and tolerance to poor water quality; <em>Oreochromis niloticus</em> (Nile tilapia), valued for its fast growth and ease of breeding; and hybrid catfish (Heterobranchus × Clarias) crosses known as \"Heteroclarias\". Selection of species depends on market demand, availability of fingerlings, water source, and the farmer's level of management expertise. Catfish is generally preferred by beginner farmers due to its resilience to suboptimal water conditions, while tilapia requires cleaner, well-oxygenated water for optimal performance.</p>",
+   "examples": [
+    {
+     "q": "State the ideal range of dissolved oxygen and pH for healthy fish growth in a pond.",
+     "a": "Ideal dissolved oxygen is 5–8 mg/L and ideal pH is between 6.5 and 8.5. Values outside these ranges stress the fish, reduce growth rate and feed conversion, and can cause mortality in severe cases."
+    },
+    {
+     "q": "Give two reasons why Clarias gariepinus (catfish) is popular among Nigerian fish farmers.",
+     "a": "1. It is hardy and tolerates poor water quality/low dissolved oxygen better than many other species. 2. It has a fast growth rate and high market demand, making it profitable and suitable for beginner and commercial farmers alike."
+    }
+   ]
+  },
+  {
+   "title": "Stocking Density, Fish Yield and Harvesting",
+   "html": "<h4>Stocking Density</h4>\n<p>Stocking density refers to the number of fish stocked per unit area or volume of water, usually expressed as fish per square metre (fish/m²) or per cubic metre. Correct stocking density is critical because overstocking leads to competition for oxygen and feed, poor growth and increased disease incidence, while understocking under-utilises pond space and reduces total yield and profitability.</p>\n<p>Stocking density is calculated using the formula:</p>\n<p>$$\\text{Stocking Density} = \\dfrac{\\text{Number of Fingerlings Stocked}}{\\text{Pond Surface Area (m}^2\\text{)}}$$</p>\n<h4>Fish Yield Estimation</h4>\n<p>Fish yield at harvest can be estimated using:</p>\n<p>$$\\text{Total Yield (kg)} = \\text{Number of Fish Harvested} \\times \\text{Average Weight per Fish (kg)}$$</p>\n<p>Survival rate, which affects the number of fish harvested, is calculated as:</p>\n<p>$$\\text{Survival Rate (\\%)} = \\dfrac{\\text{Number Harvested}}{\\text{Number Stocked}} \\times 100$$</p>\n<h4>Factors Affecting Fish Yield</h4>\n<ol>\n<li>Quality and quantity of feed supplied.</li>\n<li>Water quality parameters (oxygen, temperature, pH).</li>\n<li>Stocking density and species cultured.</li>\n<li>Disease and predator control.</li>\n<li>Duration of the culture period before harvesting.</li>\n</ol>\n<h4>Harvesting, Processing and Marketing</h4>\n<p>Harvesting can be partial (removing only market-sized fish using nets while leaving smaller ones to grow) or complete (draining the pond entirely to harvest all fish, usually at the end of the production cycle). After harvesting, fish may be sold fresh, or processed by smoking, drying or freezing to extend shelf life and add value. Effective marketing requires knowledge of market demand, competitive pricing, proper transportation in ice or live-holding tanks, and value addition through processing to maximise farmer income. Good record-keeping of stocking, feeding, mortality and sales helps farmers evaluate profitability and plan future production cycles.</p>",
+   "examples": [
+    {
+     "q": "A fish farmer stocked 2,000 fingerlings in a pond measuring 500 m². Calculate the stocking density.",
+     "a": "Stocking Density = Number Stocked / Pond Area = 2000 / 500 = 4 fish/m². The farmer stocked at a density of 4 fish per square metre of pond surface area."
+    },
+    {
+     "q": "Out of 2,000 fingerlings stocked, 1,800 fish were harvested with an average weight of 0.8 kg each. Calculate (a) the survival rate and (b) the total yield.",
+     "a": "(a) Survival Rate = (Number Harvested/Number Stocked) x 100 = (1800/2000) x 100 = 90%. (b) Total Yield = Number Harvested x Average Weight = 1800 x 0.8 kg = 1440 kg. The farmer achieved 90% survival and a total yield of 1,440 kg of fish."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Aquaculture can best be defined as:",
+   "options": [
+    "catching fish from the sea only",
+    "the deliberate rearing of aquatic organisms under controlled conditions",
+    "a type of poultry farming",
+    "the study of soil fertility"
+   ],
+   "answer": "1",
+   "solution": "Aquaculture is the deliberate culture/rearing of aquatic organisms such as fish under controlled or semi-controlled conditions."
+  },
+  {
+   "q": "Which pond type is most common and cost-effective for small-scale fish farmers?",
+   "options": [
+    "Concrete pond",
+    "Fibreglass tank",
+    "Earthen pond",
+    "Cage system"
+   ],
+   "answer": "2",
+   "solution": "Earthen ponds are dug directly into the soil and are the most common, cost-effective option for small and large-scale farmers."
+  },
+  {
+   "q": "The ideal pH range for healthy fish growth in ponds is:",
+   "options": [
+    "2.0–4.0",
+    "6.5–8.5",
+    "9.5–11.0",
+    "1.0–3.0"
+   ],
+   "answer": "1",
+   "solution": "A pH range of 6.5–8.5 is ideal for fish health and growth; extreme values cause stress."
+  },
+  {
+   "q": "Which fish species is noted for hardiness and tolerance of poor water quality in Nigeria?",
+   "options": [
+    "Oreochromis niloticus",
+    "Clarias gariepinus",
+    "Salmon",
+    "Tuna"
+   ],
+   "answer": "1",
+   "solution": "Clarias gariepinus (African catfish) is hardy and tolerates poor water quality, making it popular with farmers."
+  },
+  {
+   "q": "A pond of 400 m² is stocked with 1,600 fingerlings. What is the stocking density?",
+   "options": [
+    "2 fish/m²",
+    "4 fish/m²",
+    "6 fish/m²",
+    "8 fish/m²"
+   ],
+   "answer": "1",
+   "solution": "Stocking Density = 1600/400 = 4 fish/m²."
+  },
+  {
+   "q": "If 1,500 out of 2,000 stocked fingerlings survive to harvest, what is the survival rate?",
+   "options": [
+    "50%",
+    "65%",
+    "75%",
+    "85%"
+   ],
+   "answer": "2",
+   "solution": "Survival Rate = (1500/2000) x 100 = 75%."
+  },
+  {
+   "q": "Total fish yield is calculated as:",
+   "options": [
+    "Number stocked minus number harvested",
+    "Number harvested x average weight per fish",
+    "Pond area x water depth",
+    "Feed given divided by number stocked"
+   ],
+   "answer": "1",
+   "solution": "Total Yield = Number of Fish Harvested x Average Weight per Fish."
+  },
+  {
+   "q": "Low dissolved oxygen in a fish pond mainly causes:",
+   "options": [
+    "faster fish growth",
+    "fish suffocation and mortality",
+    "improved water clarity",
+    "reduction in ammonia"
+   ],
+   "answer": "1",
+   "solution": "Dissolved oxygen is needed for respiration; low levels cause suffocation and can lead to mass fish kill."
+  },
+  {
+   "q": "Liming of ponds before stocking is done to:",
+   "options": [
+    "increase turbidity",
+    "correct pH and eliminate pathogens",
+    "reduce water volume",
+    "increase ammonia levels"
+   ],
+   "answer": "1",
+   "solution": "Liming corrects soil/water pH and helps eliminate disease-causing organisms before stocking fingerlings."
+  },
+  {
+   "q": "Overstocking a fish pond typically leads to:",
+   "options": [
+    "improved growth rate",
+    "competition for oxygen and feed, poor growth",
+    "reduced disease incidence",
+    "higher survival rate"
+   ],
+   "answer": "1",
+   "solution": "Overstocking increases competition among fish for limited oxygen and feed, resulting in poor growth and increased disease risk."
+  },
+  {
+   "q": "Partial harvesting of fish involves:",
+   "options": [
+    "draining the pond completely",
+    "removing only market-sized fish using nets",
+    "stopping feeding permanently",
+    "destroying the pond"
+   ],
+   "answer": "1",
+   "solution": "Partial harvesting uses nets to selectively remove market-sized fish while smaller ones remain to grow further."
+  },
+  {
+   "q": "Which of the following is NOT a water quality parameter monitored in fish ponds?",
+   "options": [
+    "Dissolved oxygen",
+    "pH",
+    "Ammonia",
+    "Number of workers"
+   ],
+   "answer": "3",
+   "solution": "Number of workers is a labour/management factor, not a water quality parameter."
+  },
+  {
+   "q": "A tarpaulin pond is most suitable for:",
+   "options": [
+    "large-scale cage culture in rivers only",
+    "urban farmers seeking a low-cost, mobile option",
+    "hatchery broodstock only",
+    "deep sea fishing"
+   ],
+   "answer": "1",
+   "solution": "Tarpaulin/plastic-lined ponds are economical, easy to set up, and popular with urban fish farmers with limited land."
+  },
+  {
+   "q": "Value addition to harvested fish before sale includes:",
+   "options": [
+    "leaving fish unattended",
+    "smoking, drying or freezing the fish",
+    "increasing stocking density",
+    "reducing water quality"
+   ],
+   "answer": "1",
+   "solution": "Processing methods such as smoking, drying and freezing add value and extend shelf life, improving marketability."
+  },
+  {
+   "q": "Un-ionised ammonia levels above the safe limit in a pond mainly cause:",
+   "options": [
+    "increased fish appetite",
+    "gill damage and toxicity to fish",
+    "improved water clarity",
+    "increased dissolved oxygen"
+   ],
+   "answer": "1",
+   "solution": "High un-ionised ammonia is toxic to fish, damaging gill tissue and impairing respiration."
+  }
+ ]
+}

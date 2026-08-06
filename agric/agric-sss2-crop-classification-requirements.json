@@ -1,0 +1,227 @@
+{
+ "subject": "Agricultural Science",
+ "level": "SSS 2",
+ "slug": "crop-classification-requirements",
+ "title": "Classification of Crops",
+ "outline": [
+  "Meaning and bases of crop classification",
+  "Classification by life cycle and habit",
+  "Classification by use and economic importance",
+  "Classification by climatic requirement",
+  "Classification by method of propagation",
+  "Ecological/climatic requirements of major crops",
+  "Soil requirements of crops",
+  "Importance of crop classification in farm planning"
+ ],
+ "modules": [
+  {
+   "title": "Meaning of Classification, Life Cycle and Growth Habit",
+   "html": "\n<h4>Meaning and Bases of Crop Classification</h4>\n<p>Crop classification is the systematic grouping of crops into categories based on shared characteristics such as their botanical features, life cycle, uses, climatic adaptation, or method of propagation. Classification is important because it enables farmers, researchers and agricultural extension workers to organise knowledge about crops, plan cultural practices, and communicate effectively about specific groups of crops with similar requirements.</p>\n<p>There are several bases upon which crops can be classified, including: life span (annual, biennial, perennial), growth habit (herbaceous, shrub, tree, climber), economic use (food crops, cash crops, fodder crops), climatic requirement (temperate, tropical), and method of propagation (seed-propagated, vegetatively propagated).</p>\n<h4>Classification by Life Cycle</h4>\n<ul>\n<li><strong>Annual crops:</strong> Complete their life cycle (germination, vegetative growth, flowering, seed production and death) within one growing season or one year. Examples include maize, rice, cowpea, groundnut, and tomato.</li>\n<li><strong>Biennial crops:</strong> Complete their life cycle over two growing seasons; vegetative growth occurs in the first year, while flowering and seed production occur in the second year. Examples include cabbage, carrot and onion (when grown for seed).</li>\n<li><strong>Perennial crops:</strong> Live and produce for more than two years, often for many years, and may flower and fruit repeatedly. Examples include cocoa, oil palm, citrus, cassava (semi-perennial), and rubber.</li>\n</ul>\n<h4>Classification by Growth Habit</h4>\n<ul>\n<li><strong>Herbaceous crops:</strong> Have soft, non-woody stems, e.g. maize, tomato, cowpea.</li>\n<li><strong>Shrubs:</strong> Woody plants, usually branching from the base, shorter than trees, e.g. tea, coffee, hibiscus.</li>\n<li><strong>Trees:</strong> Tall, woody, perennial plants with a single main trunk, e.g. cocoa, oil palm, mango, citrus.</li>\n<li><strong>Climbers/Creepers:</strong> Plants that trail along the ground or climb on support structures, e.g. yam, cucumber, melon, pumpkin.</li>\n</ul>\n<p>Understanding the life cycle and growth habit of a crop guides decisions on spacing, staking, pruning, rotation planning, and the intensity of land preparation required. For instance, annual crops permit crop rotation within the same year, while perennial tree crops require long-term land commitment and different soil conservation strategies such as cover cropping and mulching.</p>\n<table class=\"tb-table\">\n<tr><th>Category</th><th>Duration</th><th>Example</th></tr>\n<tr><td>Annual</td><td>One season/year</td><td>Maize, cowpea</td></tr>\n<tr><td>Biennial</td><td>Two years</td><td>Cabbage, carrot</td></tr>\n<tr><td>Perennial</td><td>Many years</td><td>Cocoa, oil palm</td></tr>\n</table>\n",
+   "examples": [
+    {
+     "q": "Classify maize, cocoa and cabbage according to their life cycle, stating a reason for each classification.",
+     "a": "Maize is an annual crop because it completes germination, growth, flowering, seed production and death within one growing season. Cocoa is a perennial crop because it lives and produces beans for many years. Cabbage is a biennial crop because it develops vegetatively in the first year (forming the head) and flowers/produces seed in the second year if allowed to continue growing."
+    },
+    {
+     "q": "Differentiate between a shrub and a climber, giving one example of each.",
+     "a": "A shrub is a woody plant that branches from near the base of the stem and remains relatively short, e.g. coffee. A climber is a plant with a weak stem that trails on the ground or climbs on a support using tendrils or twining stems, e.g. yam."
+    }
+   ]
+  },
+  {
+   "title": "Classification by Use, Climate and Propagation Method",
+   "html": "\n<h4>Classification by Use and Economic Importance</h4>\n<p>Crops may also be classified according to their primary use to humans and animals, or their economic role in the farming system.</p>\n<ul>\n<li><strong>Food crops:</strong> Grown primarily for human consumption, providing carbohydrates, proteins, vitamins and minerals. Examples: cereals (maize, rice, sorghum), roots and tubers (cassava, yam, cocoyam), legumes (cowpea, soyabean), and vegetables (tomato, okra).</li>\n<li><strong>Cash crops:</strong> Grown mainly for sale to generate income, often for export. Examples: cocoa, oil palm, rubber, cotton, groundnut.</li>\n<li><strong>Fodder/forage crops:</strong> Grown to feed livestock, e.g. elephant grass, Guinea grass, Centrosema, Stylosanthes.</li>\n<li><strong>Fibre crops:</strong> Grown for their fibre used in textiles and ropes, e.g. cotton, kenaf, jute.</li>\n<li><strong>Oil crops:</strong> Grown for extraction of vegetable oil, e.g. oil palm, groundnut, soyabean, sesame.</li>\n<li><strong>Beverage crops:</strong> Used to produce drinks, e.g. cocoa, coffee, tea, kolanut.</li>\n<li><strong>Medicinal and industrial crops:</strong> Used for pharmaceuticals or industrial raw materials, e.g. neem, sugarcane (for sugar/ethanol).</li>\n</ul>\n<h4>Classification by Climatic Requirement</h4>\n<p>Crops can further be classified by the climatic zones to which they are adapted:</p>\n<ul>\n<li><strong>Tropical crops:</strong> Adapted to hot, humid conditions with temperatures generally above 20°C, e.g. cocoa, oil palm, cassava, plantain, yam.</li>\n<li><strong>Temperate crops:</strong> Adapted to cooler climates with distinct seasons, e.g. wheat, barley, apple, potato (though potato is also grown in tropical highlands).</li>\n<li><strong>Subtropical crops:</strong> Adapted to intermediate conditions between tropical and temperate, e.g. citrus, grape.</li>\n</ul>\n<h4>Classification by Method of Propagation</h4>\n<ul>\n<li><strong>Seed-propagated crops:</strong> Reproduced from true seeds, e.g. maize, cowpea, rice, tomato.</li>\n<li><strong>Vegetatively propagated crops:</strong> Reproduced from vegetative parts such as stems, tubers, corms, suckers or cuttings, e.g. cassava (stem cuttings), yam (tubers/setts), sugarcane (stem cuttings), plantain (suckers), and sweet potato (vine cuttings).</li>\n</ul>\n<p>Knowledge of use-based and climate-based classification helps farmers select crops suited to their agro-ecological zone and market demand, while knowledge of the propagation method guides seed/planting material sourcing, multiplication rate, and the time and cost required to establish a crop stand. Vegetatively propagated crops often establish faster than seed-propagated ones but may carry over diseases from the parent plant if not certified planting material is used.</p>\n<table class=\"tb-table\">\n<tr><th>Basis</th><th>Category</th><th>Example</th></tr>\n<tr><td>Use</td><td>Cash crop</td><td>Cocoa</td></tr>\n<tr><td>Use</td><td>Food crop</td><td>Maize</td></tr>\n<tr><td>Climate</td><td>Tropical</td><td>Oil palm</td></tr>\n<tr><td>Propagation</td><td>Vegetative</td><td>Cassava</td></tr>\n</table>\n",
+   "examples": [
+    {
+     "q": "Classify cocoa, cassava, elephant grass and cotton according to their economic use.",
+     "a": "Cocoa is a cash/beverage crop grown mainly for export income and chocolate production. Cassava is a food crop grown for human consumption. Elephant grass is a fodder/forage crop grown to feed livestock. Cotton is a fibre crop grown for textile production."
+    },
+    {
+     "q": "Explain why cassava is classified as a vegetatively propagated crop, and state one advantage of this method of propagation.",
+     "a": "Cassava is propagated using stem cuttings (setts) rather than true seeds, hence it is vegetatively propagated. Advantage: vegetative propagation ensures that the new plants are genetically identical (true-to-type) to the parent plant, preserving desirable characteristics such as high yield or disease resistance."
+    }
+   ]
+  },
+  {
+   "title": "Ecological/Soil Requirements and Importance of Classification",
+   "html": "\n<h4>Ecological and Soil Requirements of Crops</h4>\n<p>Each crop has specific climatic and edaphic (soil) requirements that determine where it can be successfully cultivated. Understanding these requirements is essential for site selection and achieving optimum yield.</p>\n<h4>Climatic Requirements</h4>\n<table class=\"tb-table\">\n<tr><th>Crop</th><th>Rainfall (mm/yr)</th><th>Temperature (°C)</th><th>Altitude/Remarks</th></tr>\n<tr><td>Cocoa</td><td>1250-3000</td><td>21-32</td><td>Lowland humid forest, needs shade when young</td></tr>\n<tr><td>Oil palm</td><td>1800-2500</td><td>24-32</td><td>Lowland humid tropics</td></tr>\n<tr><td>Maize</td><td>500-1200</td><td>20-30</td><td>Wide adaptation, needs adequate sunlight</td></tr>\n<tr><td>Rice (upland)</td><td>1000-1500</td><td>20-35</td><td>Requires well-distributed rainfall</td></tr>\n<tr><td>Wheat</td><td>250-750</td><td>10-25</td><td>Temperate/highland tropics, cool season crop</td></tr>\n<tr><td>Cotton</td><td>500-1000</td><td>21-30</td><td>Requires dry period for boll opening/harvest</td></tr>\n</table>\n<h4>Soil Requirements</h4>\n<p>Soil requirements vary among crops based on their rooting habit, nutrient demand and tolerance to soil conditions:</p>\n<ul>\n<li><strong>Cocoa</strong> requires deep, fertile, well-drained loamy soil rich in organic matter, with a pH of 6.0-7.5.</li>\n<li><strong>Oil palm</strong> thrives on deep, well-drained soils but can tolerate a wider range including sandy loam and alluvial soils.</li>\n<li><strong>Rice</strong> (lowland/swamp) requires heavy clay or clay-loam soils that retain water for flooding, while upland rice requires well-drained loam.</li>\n<li><strong>Yam</strong> requires deep, loose, well-drained sandy loam soil to allow tuber expansion.</li>\n<li><strong>Cassava</strong> tolerates a wide range of soils including poor, sandy and slightly acidic soils, making it suitable for marginal lands.</li>\n<li><strong>Groundnut</strong> prefers well-drained sandy loam soil, as heavy clay soils hinder pod formation and lifting at harvest.</li>\n</ul>\n<p>Matching crops to appropriate soils and climates minimises the need for costly artificial inputs such as fertilizer, irrigation and drainage, and reduces the risk of crop failure. Extension agents use ecological and soil requirement data to zone regions for particular crop production, guiding government agricultural policy and farmer investment decisions.</p>\n<h4>Importance of Crop Classification in Farm Planning</h4>\n<ul>\n<li>It aids selection of crops suited to local climate and soil, increasing chances of successful production.</li>\n<li>It guides crop rotation and mixed cropping planning by grouping crops with compatible growth habits and nutrient demands.</li>\n<li>It assists in determining appropriate storage, processing and marketing strategies based on crop use category.</li>\n<li>It helps in planning farm labour and input requirements, since propagation method and life cycle determine planting schedules and material sourcing.</li>\n<li>It supports research and breeding programmes targeted at specific crop groups.</li>\n</ul>\n",
+   "examples": [
+    {
+     "q": "State the soil and rainfall requirements of cocoa production.",
+     "a": "Cocoa requires deep, fertile, well-drained loamy soil rich in organic matter with a pH range of 6.0-7.5, and an annual rainfall of between 1250mm and 3000mm, well distributed throughout the year, with temperatures between 21°C and 32°C."
+    },
+    {
+     "q": "Explain why yam requires loose, well-drained sandy loam soil rather than heavy clay soil.",
+     "a": "Yam produces underground tubers that need to expand freely as they grow; loose, well-drained sandy loam soil offers less resistance to tuber expansion and allows proper tuber shape development, while heavy clay soil compacts and restricts tuber growth, often resulting in deformed, small tubers and difficulty during harvesting."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A crop that completes its life cycle within one growing season is called:",
+   "options": [
+    "Perennial",
+    "Biennial",
+    "Annual",
+    "Ephemeral only"
+   ],
+   "answer": "2",
+   "solution": "An annual crop germinates, grows, flowers, produces seed and dies within one growing season, e.g. maize."
+  },
+  {
+   "q": "Which of these is a perennial crop?",
+   "options": [
+    "Maize",
+    "Cowpea",
+    "Cocoa",
+    "Tomato"
+   ],
+   "answer": "2",
+   "solution": "Cocoa is a perennial crop that lives and produces for many years, unlike maize, cowpea and tomato which are annuals."
+  },
+  {
+   "q": "Cabbage grown for seed production is classified as:",
+   "options": [
+    "Annual",
+    "Biennial",
+    "Perennial",
+    "Ephemeral"
+   ],
+   "answer": "1",
+   "solution": "Cabbage forms its head in the first year (vegetative stage) and produces flowers/seeds in the second year, making it a biennial crop."
+  },
+  {
+   "q": "Which growth habit describes cocoa and oil palm?",
+   "options": [
+    "Herbaceous",
+    "Climber",
+    "Tree",
+    "Shrub"
+   ],
+   "answer": "2",
+   "solution": "Cocoa and oil palm are tall, woody, perennial plants with a single main trunk, classifying them as trees."
+  },
+  {
+   "q": "Yam is classified under which growth habit category?",
+   "options": [
+    "Tree",
+    "Shrub",
+    "Climber",
+    "Herb (non-climbing)"
+   ],
+   "answer": "2",
+   "solution": "Yam has a twining vine that climbs on stakes or support, classifying it as a climber."
+  },
+  {
+   "q": "Cocoa and coffee are examples of which category of crops by use?",
+   "options": [
+    "Fibre crops",
+    "Beverage crops",
+    "Fodder crops",
+    "Fibre and dye crops"
+   ],
+   "answer": "1",
+   "solution": "Cocoa and coffee are grown mainly for producing beverages (chocolate drinks and coffee), classifying them as beverage crops."
+  },
+  {
+   "q": "Which of the following is classified as a fodder crop?",
+   "options": [
+    "Elephant grass",
+    "Cocoa",
+    "Cotton",
+    "Rice"
+   ],
+   "answer": "0",
+   "solution": "Elephant grass is grown primarily to feed livestock, making it a fodder (forage) crop."
+  },
+  {
+   "q": "Cassava is propagated mainly by:",
+   "options": [
+    "True seeds",
+    "Stem cuttings",
+    "Corms",
+    "Root divisions"
+   ],
+   "answer": "1",
+   "solution": "Cassava is vegetatively propagated using stem cuttings (setts), not true seeds."
+  },
+  {
+   "q": "Which crop is best described as a tropical crop?",
+   "options": [
+    "Wheat",
+    "Barley",
+    "Oil palm",
+    "Apple"
+   ],
+   "answer": "2",
+   "solution": "Oil palm requires hot, humid tropical conditions with temperatures of 24-32°C, unlike wheat, barley and apple which are temperate crops."
+  },
+  {
+   "q": "The soil pH range best suited for cocoa cultivation is:",
+   "options": [
+    "3.0-4.5",
+    "6.0-7.5",
+    "8.5-9.5",
+    "2.0-3.5"
+   ],
+   "answer": "1",
+   "solution": "Cocoa performs best in slightly acidic to neutral soils with a pH range of 6.0 to 7.5."
+  },
+  {
+   "q": "Which crop tolerates poor, marginal soils and is therefore suitable for degraded lands?",
+   "options": [
+    "Cassava",
+    "Rice",
+    "Wheat",
+    "Cocoa"
+   ],
+   "answer": "0",
+   "solution": "Cassava is known for its tolerance of poor, sandy, and slightly acidic soils, making it suitable for marginal lands where other crops fail."
+  },
+  {
+   "q": "Groundnut performs best on which soil type?",
+   "options": [
+    "Heavy clay soil",
+    "Well-drained sandy loam soil",
+    "Waterlogged soil",
+    "Saline soil"
+   ],
+   "answer": "1",
+   "solution": "Groundnut requires well-drained sandy loam soil for good pod formation and ease of lifting at harvest; heavy clay soils hinder these processes."
+  },
+  {
+   "q": "Lowland (swamp) rice requires which type of soil?",
+   "options": [
+    "Sandy loam soil",
+    "Heavy clay or clay-loam soil that retains water",
+    "Rocky soil",
+    "Very well-drained sandy soil"
+   ],
+   "answer": "1",
+   "solution": "Lowland rice needs heavy clay or clay-loam soils because they retain standing water required for flooding during the crop's growth cycle."
+  },
+  {
+   "q": "Classifying crops helps farmers primarily by:",
+   "options": [
+    "Making crops taste better",
+    "Guiding site selection, rotation planning and input use based on shared crop characteristics",
+    "Increasing rainfall in the area",
+    "Eliminating the need for fertilizer"
+   ],
+   "answer": "1",
+   "solution": "Crop classification groups crops with similar requirements, helping farmers choose suitable crops for their soil/climate, plan rotations, and manage inputs efficiently."
+  },
+  {
+   "q": "Which of the following pairs is correctly matched (crop - propagation method)?",
+   "options": [
+    "Maize - stem cuttings",
+    "Yam - tubers/setts",
+    "Rice - suckers",
+    "Cotton - corms"
+   ],
+   "answer": "1",
+   "solution": "Yam is vegetatively propagated using tubers or setts (portions of the tuber), while maize, rice and cotton are propagated from true seeds."
+  }
+ ]
+}

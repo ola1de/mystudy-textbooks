@@ -1,0 +1,251 @@
+{
+ "subject": "Agricultural Science",
+ "level": "SSS 2",
+ "slug": "irrigation-drainage",
+ "title": "Irrigation and Drainage Systems",
+ "outline": [
+  "Meaning and importance of irrigation and drainage",
+  "Sources of irrigation water",
+  "Methods of irrigation",
+  "Calculating water requirements and discharge",
+  "Methods of drainage",
+  "Problems of irrigation and drainage",
+  "Maintenance of irrigation and drainage systems",
+  "Effects of irrigation and drainage on soil and crop yield"
+ ],
+ "modules": [
+  {
+   "title": "Meaning, Importance and Sources of Irrigation Water",
+   "html": "\n<h4>Meaning and Importance of Irrigation and Drainage</h4>\n<p>Irrigation is the artificial application of water to soil for the purpose of supplying moisture essential for crop growth, especially in areas where rainfall is insufficient, unreliable, or seasonal. Drainage, on the other hand, is the artificial or natural removal of excess water from the soil surface or root zone to prevent waterlogging. Both practices are complementary components of water management in agriculture, ensuring that crops receive an optimum, rather than excessive or deficient, supply of soil moisture.</p>\n<p>In many parts of West Africa, rainfall is markedly seasonal, with a long dry season during which crop production would be impossible without supplementary irrigation. Irrigation therefore extends the cropping season, permits double or triple cropping in a year, and makes possible the cultivation of high-value crops such as rice, vegetables, sugar cane and tomatoes in the dry season. Drainage becomes necessary in low-lying areas, floodplains, and heavy clay soils where water accumulates and deprives plant roots of oxygen, leading to root rot and stunted growth.</p>\n<p>The importance of irrigation and drainage can be summarised as follows:</p>\n<ul>\n<li>It increases and stabilises crop yield by supplying water at critical growth stages such as germination, flowering and grain filling.</li>\n<li>It allows farming throughout the year, thereby increasing farmers' income and food security.</li>\n<li>It permits cultivation of a wider range of crops, including those not adapted to the local rainfall pattern.</li>\n<li>It leaches excess salts from the soil profile in saline soils.</li>\n<li>Drainage prevents waterlogging, which causes anaerobic conditions, root asphyxiation and reduced nutrient uptake.</li>\n<li>Drainage reduces the incidence of water-borne soil pathogens and improves soil workability and aeration.</li>\n<li>Proper water management reduces soil erosion caused by uncontrolled water flow.</li>\n</ul>\n<p>Without adequate irrigation and drainage infrastructure, agricultural productivity in many regions would remain low and highly vulnerable to climatic variability. Modern agriculture, particularly in irrigation schemes such as the Kano River Project and the Bakolori Project in Nigeria, depends heavily on well-planned irrigation and drainage systems for sustained productivity.</p>\n<table class=\"tb-table\">\n<tr><th>Aspect</th><th>Irrigation</th><th>Drainage</th></tr>\n<tr><td>Purpose</td><td>Supply water to soil</td><td>Remove excess water from soil</td></tr>\n<tr><td>Applied when</td><td>Rainfall is inadequate</td><td>Rainfall/water is excessive</td></tr>\n<tr><td>Main structures</td><td>Canals, pumps, sprinklers</td><td>Open ditches, tile drains</td></tr>\n</table>\n\n<h4>Sources of Irrigation Water</h4>\n<p>The successful implementation of any irrigation scheme depends on the availability of a reliable and adequate source of water. Irrigation water may be obtained from surface sources or underground (subsurface) sources, and the choice of source depends on availability, cost, quality, and the topography of the farmland.</p>\n<h4>Surface Sources</h4>\n<ul>\n<li><strong>Rivers and streams:</strong> Water is diverted directly by gravity or pumped from flowing rivers, such as the River Niger and River Benue used for the Kainji and Bakolori irrigation schemes.</li>\n<li><strong>Lakes and reservoirs:</strong> Natural or artificial lakes, and reservoirs formed behind dams, store large volumes of water for release during the dry season.</li>\n<li><strong>Dams:</strong> Constructed across rivers to impound water for controlled release into irrigation canals, e.g. Tiga Dam, Kainji Dam.</li>\n<li><strong>Ponds:</strong> Small artificial or natural depressions that collect and store rainwater or runoff for irrigating small farms.</li>\n</ul>\n<h4>Underground (Subsurface) Sources</h4>\n<ul>\n<li><strong>Wells:</strong> Shallow or deep excavations that tap groundwater, water is then lifted by buckets, pumps or windmills.</li>\n<li><strong>Boreholes:</strong> Deep, narrow holes drilled into aquifers, water is extracted using mechanical or electric pumps; boreholes provide a reliable supply even in the dry season.</li>\n<li><strong>Springs:</strong> Natural outflow of groundwater at the surface, often found at the base of hills, providing continuous water at little or no cost.</li>\n</ul>\n<p>Other sources include harvested rainwater stored in tanks and treated wastewater (used cautiously due to contamination risk). When selecting a water source, farmers must consider the quantity and reliability of supply, quality of water (free from excessive salts and toxins), the cost of extraction and conveyance, and the elevation relative to the farmland (since gravity-fed systems are cheaper to operate than pumped systems).</p>\n<p>Water quality is very important because water containing high concentrations of dissolved salts can cause salinization of the soil over time, reducing fertility. Similarly, polluted water from industrial or domestic waste may introduce heavy metals or pathogens that are harmful to crops, animals, and humans who consume the produce. Regular water quality testing is therefore recommended for large-scale irrigation schemes.</p>\n<table class=\"tb-table\">\n<tr><th>Source</th><th>Type</th><th>Example</th></tr>\n<tr><td>River</td><td>Surface</td><td>River Niger</td></tr>\n<tr><td>Dam/Reservoir</td><td>Surface</td><td>Kainji Dam</td></tr>\n<tr><td>Borehole</td><td>Underground</td><td>Deep aquifer well</td></tr>\n<tr><td>Spring</td><td>Underground</td><td>Hillside spring</td></tr>\n</table>\n",
+   "examples": [
+    {
+     "q": "Distinguish between irrigation and drainage, giving one importance of each.",
+     "a": "Irrigation is the artificial supply of water to crops to supplement inadequate rainfall, while drainage is the artificial removal of excess water from the soil. Importance of irrigation: it enables dry-season farming and increases yield. Importance of drainage: it prevents waterlogging and root damage, improving aeration for healthy root growth."
+    },
+    {
+     "q": "Explain why irrigation is particularly important in the Sudan and Sahel savanna zones of West Africa.",
+     "a": "These zones have a short rainy season (3-4 months) and a long dry season of up to 8 months with very low rainfall (below 500mm annually). Without irrigation, crop production would be limited to a few months of the year. Irrigation from rivers, dams and boreholes allows farmers to grow crops like wheat, tomatoes, onions and rice during the dry season, ensuring continuous food production and income."
+    },
+    {
+     "q": "List and explain four sources of irrigation water available to a farmer.",
+     "a": "1. Rivers/streams - flowing water diverted by gravity or pumps. 2. Dams/reservoirs - impounded water released as needed. 3. Wells - shallow excavations tapping groundwater. 4. Boreholes - deep drilled holes providing reliable groundwater even in dry season."
+    },
+    {
+     "q": "A farmer near a hilly area notices water flowing naturally from the base of a hill throughout the year. Identify this source and state two advantages of using it for irrigation.",
+     "a": "This is a spring. Advantages: (i) It provides a continuous and free supply of water without the cost of pumping. (ii) The water is usually clean and free from surface pollutants, making it safe for both crops and possible domestic use."
+    }
+   ]
+  },
+  {
+   "title": "Methods of Irrigation and Water/Discharge Calculations",
+   "html": "\n<h4>Methods of Irrigation</h4>\n<p>Several methods are used to apply water to crops, and the choice depends on the water source, topography, soil type, crop type, and the resources available to the farmer. The major methods are surface irrigation, sprinkler irrigation, drip (trickle) irrigation, and sub-surface irrigation.</p>\n<ol>\n<li><strong>Surface (Gravity) irrigation:</strong> Water flows over the soil surface under gravity. It includes:\n<ul>\n<li><em>Furrow irrigation</em> — water flows along small channels (furrows) between crop rows, commonly used for row crops such as maize, cotton and sugar cane.</li>\n<li><em>Basin irrigation</em> — the field is divided into flat basins surrounded by low bunds, and water is flooded into each basin; suitable for rice and orchard crops.</li>\n<li><em>Border irrigation</em> — land is divided into long strips separated by ridges, and water flows down the strip.</li>\n</ul>\n</li>\n<li><strong>Sprinkler irrigation:</strong> Water is sprayed over the crop through pipes and nozzles under pressure, simulating rainfall. It is suitable for undulating land and a wide range of crops, and gives more uniform water distribution but requires higher initial investment and energy for pumping.</li>\n<li><strong>Drip (trickle) irrigation:</strong> Water is applied slowly, drop by drop, directly to the root zone of each plant through a network of pipes, tubes and emitters. It is highly efficient, minimises water loss through evaporation and runoff, and is ideal for widely spaced crops like tomatoes, vegetables and fruit trees, though it is relatively expensive to install.</li>\n<li><strong>Sub-surface irrigation:</strong> Water is applied below the soil surface directly to the root zone through buried perforated pipes, maintaining a high water table that supplies moisture by capillary rise.</li>\n</ol>\n<p>Each method has advantages and disadvantages. Surface irrigation is cheap and simple but has high water losses through seepage and evaporation and can cause erosion. Sprinkler irrigation gives uniform coverage and is suitable for sloping or sandy soils but is costly and can encourage foliar disease due to wetting of leaves. Drip irrigation conserves water most efficiently and reduces weed growth (since only the root zone is wetted) but requires careful maintenance to avoid emitter clogging.</p>\n<p>The efficiency of an irrigation method is often expressed as the ratio of water actually used by the crop to the total water applied. Farmers should select methods that maximise efficiency while remaining affordable and practical for their scale of operation.</p>\n<table class=\"tb-table\">\n<tr><th>Method</th><th>Water use efficiency</th><th>Cost</th><th>Suitable crop</th></tr>\n<tr><td>Furrow</td><td>Low-Moderate</td><td>Low</td><td>Maize, cotton</td></tr>\n<tr><td>Sprinkler</td><td>Moderate-High</td><td>High</td><td>Vegetables, pasture</td></tr>\n<tr><td>Drip</td><td>Very High</td><td>High</td><td>Tomato, fruit trees</td></tr>\n</table>\n\n<h4>Calculating Water Requirements and Discharge</h4>\n<p>Efficient irrigation planning requires quantitative estimation of the volume and rate of water needed by crops. Two key concepts are the crop water requirement and the discharge (flow rate) of the delivery system.</p>\n<p><strong>Crop water requirement</strong> is the total amount of water needed by a crop over its growing period to meet evapotranspiration losses and maintain healthy growth, usually expressed in millimetres (mm) of water depth per unit area, or converted to volume in cubic metres (m³) or litres.</p>\n<p>The volume of water needed can be calculated using the formula:</p>\n<p>$$ \\text{Volume (m}^3\\text{)} = \\text{Area (m}^2\\text{)} \\times \\text{Depth of water (m)} $$</p>\n<p><strong>Worked Example:</strong> If a rice field of area 5,000 m² requires a water depth of 0.05 m (50 mm) per irrigation, the volume required is:</p>\n<p>$$ V = 5000 \\times 0.05 = 250 \\, m^3 $$</p>\n<p><strong>Discharge (flow rate)</strong> refers to the volume of water flowing through a channel or pipe per unit time, and is calculated using the continuity equation:</p>\n<p>$$ Q = A \\times V $$</p>\n<p>where \\(Q\\) is discharge (m³/s), \\(A\\) is the cross-sectional area of the channel or pipe (m²), and \\(V\\) is the velocity of flow (m/s).</p>\n<p><strong>Worked Example:</strong> A canal has a cross-sectional area of 0.8 m² and water flows through it at a velocity of 0.5 m/s. The discharge is:</p>\n<p>$$ Q = 0.8 \\times 0.5 = 0.4 \\, m^3/s $$</p>\n<p>This means 0.4 cubic metres of water pass through the canal every second. To determine how long it will take to deliver a required volume of water, we use:</p>\n<p>$$ \\text{Time (s)} = \\frac{\\text{Volume required (m}^3\\text{)}}{\\text{Discharge, } Q \\text{ (m}^3\\text{/s)}} $$</p>\n<p>For instance, if 250 m³ of water is required and the canal discharge is 0.4 m³/s, the time needed is 250 ÷ 0.4 = 625 seconds, approximately 10.4 minutes.</p>\n<p>These calculations enable farm managers to schedule irrigation, size canals and pipes appropriately, and avoid either under-irrigation (crop stress) or over-irrigation (waterlogging and wastage of water). Accurate water measurement also assists in the equitable distribution of water among multiple users sharing a common irrigation scheme.</p>\n<table class=\"tb-table\">\n<tr><th>Term</th><th>Formula</th><th>Unit</th></tr>\n<tr><td>Volume</td><td>Area × Depth</td><td>m³</td></tr>\n<tr><td>Discharge</td><td>Q = A × V</td><td>m³/s</td></tr>\n<tr><td>Time</td><td>Volume ÷ Discharge</td><td>seconds</td></tr>\n</table>\n",
+   "examples": [
+    {
+     "q": "Compare drip irrigation and sprinkler irrigation in terms of water use efficiency and cost.",
+     "a": "Drip irrigation has very high water use efficiency because water is applied directly to the root zone in small quantities, minimising evaporation and runoff losses; it is expensive to install but saves water in the long run. Sprinkler irrigation has moderate to high efficiency, sprays water over a wide area like rainfall, is also costly due to pumps and pipes, but can lose more water to evaporation and wind drift than drip irrigation."
+    },
+    {
+     "q": "A rice farmer wants to flood his field uniformly using low bunds around the field. Name the irrigation method being used and state one advantage.",
+     "a": "This is basin irrigation. Advantage: it ensures uniform flooding of the field, which suits rice that requires standing water for most of its growth period, and it is simple and inexpensive to construct."
+    },
+    {
+     "q": "A farmland measuring 2,000 m² requires a water depth of 0.03 m for effective irrigation. Calculate the volume of water needed.",
+     "a": "Using V = Area × Depth: V = 2000 m² × 0.03 m = 60 m³. The farmer needs 60 cubic metres of water to irrigate the field to the required depth."
+    },
+    {
+     "q": "Water flows through an irrigation pipe of cross-sectional area 0.25 m² at a velocity of 1.2 m/s. Calculate (a) the discharge and (b) the time to deliver 90 m³ of water.",
+     "a": "(a) Q = A × V = 0.25 × 1.2 = 0.3 m³/s. (b) Time = Volume ÷ Q = 90 ÷ 0.3 = 300 seconds = 5 minutes."
+    }
+   ]
+  },
+  {
+   "title": "Drainage Methods, Problems and Maintenance",
+   "html": "\n<h4>Methods of Drainage</h4>\n<p>Drainage is necessary to remove excess water from waterlogged fields, thereby improving soil aeration, root respiration and preventing the accumulation of harmful salts. The main methods of agricultural drainage are surface drainage and subsurface drainage.</p>\n<ol>\n<li><strong>Surface drainage:</strong> Involves the removal of excess water from the land surface through shallow ditches, graded channels, or contour drains. Land is often shaped with a slight slope (grading) to direct water into open drains and eventually into a natural watercourse. This method is cheap and suitable for flat, poorly drained land.</li>\n<li><strong>Subsurface drainage:</strong> Removes excess water from within the soil profile using buried perforated pipes (tile drains) or mole drains laid below the root zone. Water percolating through the soil enters the pipes and is conveyed away to an outlet. This is more effective for removing water from deep within heavy clay soils and lowering the water table.</li>\n<li><strong>Vertical drainage:</strong> Uses tube wells or bore wells to pump out excess groundwater, thereby lowering the water table; commonly used in areas of shallow saline water tables.</li>\n<li><strong>Bio-drainage:</strong> Involves planting deep-rooted trees (e.g. Eucalyptus) that absorb large quantities of excess groundwater through transpiration, indirectly lowering the water table.</li>\n</ol>\n<p>An effective drainage system consists of field drains that collect water from individual plots, and main/collector drains that convey the water away to a river, lake or the sea. Drains must be constructed with an appropriate gradient to ensure continuous flow without stagnation, and outlets must be kept clear of obstruction.</p>\n<h4>Problems Associated with Irrigation and Drainage</h4>\n<ul>\n<li><strong>High cost of installation:</strong> Construction of dams, canals, pumps and pipes requires substantial capital investment beyond the reach of many smallholder farmers.</li>\n<li><strong>Waterlogging:</strong> Poorly managed irrigation without adequate drainage can raise the water table and cause waterlogging.</li>\n<li><strong>Salinization:</strong> Continuous irrigation, especially with poor drainage, leads to accumulation of salts in the topsoil as water evaporates, leaving dissolved salts behind, which reduces soil fertility.</li>\n<li><strong>Siltation:</strong> Canals and drains become clogged with silt and sediment over time, reducing their carrying capacity and requiring regular desilting.</li>\n<li><strong>Breeding of disease vectors:</strong> Stagnant water in canals and drains can serve as breeding grounds for mosquitoes (malaria) and snails (bilharzia).</li>\n<li><strong>Erosion:</strong> Fast-flowing water in unlined canals or furrows can cause soil erosion.</li>\n<li><strong>Weed growth:</strong> Excess moisture in and around irrigation channels encourages proliferation of weeds that compete with crops.</li>\n</ul>\n<p>To minimise these problems, irrigation schemes should incorporate proper drainage design, regular maintenance, lining of canals to reduce seepage and erosion, and water quality monitoring to prevent salinization.</p>\n<table class=\"tb-table\">\n<tr><th>Drainage method</th><th>Depth</th><th>Best suited soil</th></tr>\n<tr><td>Surface drainage</td><td>Shallow</td><td>Flat, poorly drained land</td></tr>\n<tr><td>Subsurface (tile) drainage</td><td>Deep</td><td>Heavy clay soils</td></tr>\n<tr><td>Vertical drainage</td><td>Very deep</td><td>Saline water table areas</td></tr>\n</table>\n\n<h4>Maintenance of Irrigation and Drainage Systems</h4>\n<p>For irrigation and drainage systems to function efficiently over a long period, regular maintenance is essential. Neglected systems quickly deteriorate, leading to reduced water delivery efficiency, wastage, and even total system failure.</p>\n<p>Maintenance practices include:</p>\n<ul>\n<li><strong>Desilting of canals and drains:</strong> Removing accumulated silt, sand and debris that reduce the carrying capacity of channels.</li>\n<li><strong>Weeding of channel banks:</strong> Clearing weeds and vegetation that obstruct water flow and harbour pests.</li>\n<li><strong>Repair of canal linings and embankments:</strong> Fixing cracks, breaches and erosion damage to prevent seepage losses and canal collapse.</li>\n<li><strong>Regular inspection of pumps, valves and pipes:</strong> Checking for leaks, blockages, and mechanical faults, and servicing pumps periodically.</li>\n<li><strong>Cleaning of drip emitters and sprinkler nozzles:</strong> Preventing clogging by mineral deposits or algae which reduces uniformity of water application.</li>\n<li><strong>Monitoring water quality:</strong> Testing for salinity and contamination to prevent soil degradation.</li>\n<li><strong>Controlled water application:</strong> Avoiding over-irrigation through scheduling based on crop water requirement and soil moisture monitoring.</li>\n</ul>\n<h4>Effects of Irrigation and Drainage on Soil and Crop Yield</h4>\n<p>When properly managed, irrigation and drainage have significant positive effects on soil properties and crop productivity:</p>\n<ul>\n<li>Irrigation maintains adequate soil moisture for nutrient dissolution and uptake by plant roots, increasing yield.</li>\n<li>Drainage improves soil aeration, encouraging beneficial microbial activity and root respiration, which enhances nutrient availability.</li>\n<li>Proper water management reduces plant stress at critical growth stages (e.g. flowering, grain filling), thereby increasing yield and quality of produce.</li>\n<li>Irrigation combined with drainage prevents both drought stress and waterlogging stress, both of which drastically reduce yield.</li>\n</ul>\n<p>However, mismanagement can cause negative effects:</p>\n<ul>\n<li>Excessive irrigation without drainage causes waterlogging, reducing oxygen supply to roots and causing yield decline or crop death.</li>\n<li>Over-irrigation leaches away soluble nutrients such as nitrates below the root zone, reducing soil fertility.</li>\n<li>Salinization from evaporative concentration of salts reduces soil fertility and can render land unproductive over time.</li>\n<li>Poor drainage promotes anaerobic conditions favouring root-rot pathogens such as <em>Pythium</em> and <em>Fusarium</em> species.</li>\n</ul>\n<p>It is therefore essential that irrigation and drainage be practised together as a balanced water management system, guided by soil type, crop water requirement, and climatic conditions, to sustain long-term soil productivity and maximise crop yield.</p>\n<table class=\"tb-table\">\n<tr><th>Practice</th><th>Positive effect</th><th>Negative effect if mismanaged</th></tr>\n<tr><td>Irrigation</td><td>Meets crop water needs</td><td>Waterlogging, salinization</td></tr>\n<tr><td>Drainage</td><td>Improves aeration</td><td>Excess drainage may cause drought stress</td></tr>\n</table>\n",
+   "examples": [
+    {
+     "q": "Explain the difference between surface drainage and subsurface drainage, giving one example of each.",
+     "a": "Surface drainage removes excess water from the top of the soil using open ditches or graded channels, e.g. field ditches directing runoff to a river. Subsurface drainage removes water from within the soil profile using buried perforated pipes (tile drains) laid below the root zone to lower the water table."
+    },
+    {
+     "q": "State three problems associated with poorly managed irrigation schemes.",
+     "a": "1. Waterlogging due to over-irrigation without adequate drainage. 2. Salinization of soil from evaporation of irrigation water leaving salts behind. 3. Breeding of disease vectors such as mosquitoes in stagnant canal water."
+    },
+    {
+     "q": "Give three maintenance practices necessary for keeping an irrigation canal functioning efficiently.",
+     "a": "1. Desilting the canal to remove accumulated sediment. 2. Weeding the canal banks to prevent obstruction of flow. 3. Repairing cracks and breaches in the canal lining to prevent seepage losses."
+    },
+    {
+     "q": "Explain how poor drainage can reduce crop yield even when irrigation water is adequately supplied.",
+     "a": "Poor drainage causes excess water to accumulate in the soil, filling the pore spaces and excluding oxygen from the root zone. This creates anaerobic conditions that impair root respiration, encourage root-rot diseases, and reduce nutrient uptake, resulting in stunted growth and lower yield despite adequate water supply."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Irrigation is best defined as:",
+   "options": [
+    "The removal of excess water from soil",
+    "The artificial application of water to soil to supply crop moisture needs",
+    "The natural rainfall received by crops",
+    "The process of ploughing land before planting"
+   ],
+   "answer": "1",
+   "solution": "Irrigation is the artificial (man-made) supply of water to the soil to meet the moisture needs of crops, especially where rainfall is inadequate."
+  },
+  {
+   "q": "Which of the following is a surface source of irrigation water?",
+   "options": [
+    "Borehole",
+    "Spring",
+    "River",
+    "Well"
+   ],
+   "answer": "2",
+   "solution": "A river is a surface source of water that flows above ground, unlike boreholes, springs and wells which tap underground water."
+  },
+  {
+   "q": "The formula for discharge in an irrigation channel is:",
+   "options": [
+    "Q = A + V",
+    "Q = A / V",
+    "Q = A × V",
+    "Q = V / A"
+   ],
+   "answer": "2",
+   "solution": "Discharge (Q) equals the cross-sectional area (A) of the channel multiplied by the velocity (V) of water flow: Q = A × V."
+  },
+  {
+   "q": "A canal has a cross-sectional area of 0.6 m² and flow velocity of 0.5 m/s. What is the discharge?",
+   "options": [
+    "1.2 m³/s",
+    "0.3 m³/s",
+    "0.1 m³/s",
+    "0.6 m³/s"
+   ],
+   "answer": "1",
+   "solution": "Q = A × V = 0.6 × 0.5 = 0.3 m³/s."
+  },
+  {
+   "q": "Which irrigation method applies water drop by drop directly to the root zone?",
+   "options": [
+    "Furrow irrigation",
+    "Sprinkler irrigation",
+    "Drip irrigation",
+    "Basin irrigation"
+   ],
+   "answer": "2",
+   "solution": "Drip (trickle) irrigation delivers water slowly and directly to the root zone through emitters, minimising water loss."
+  },
+  {
+   "q": "Basin irrigation is most suitable for which crop?",
+   "options": [
+    "Rice",
+    "Cassava",
+    "Yam",
+    "Groundnut"
+   ],
+   "answer": "0",
+   "solution": "Rice requires standing water for much of its growth cycle, making basin (flood) irrigation the most suitable method."
+  },
+  {
+   "q": "Which of these is NOT a method of drainage?",
+   "options": [
+    "Surface drainage",
+    "Subsurface (tile) drainage",
+    "Sprinkler drainage",
+    "Vertical drainage"
+   ],
+   "answer": "2",
+   "solution": "'Sprinkler' is an irrigation method, not a drainage method. Drainage methods include surface, subsurface and vertical drainage."
+  },
+  {
+   "q": "A major problem resulting from continuous irrigation without adequate drainage is:",
+   "options": [
+    "Soil salinization",
+    "Improved aeration",
+    "Reduced soil moisture",
+    "Increased soil fertility"
+   ],
+   "answer": "0",
+   "solution": "Continuous irrigation without proper drainage causes water to evaporate and leave behind dissolved salts, leading to soil salinization."
+  },
+  {
+   "q": "Bio-drainage refers to:",
+   "options": [
+    "Draining water using pumps",
+    "Using deep-rooted trees to remove excess groundwater through transpiration",
+    "Using pipes buried in the soil",
+    "Draining water using open ditches"
+   ],
+   "answer": "1",
+   "solution": "Bio-drainage uses deep-rooted plants such as Eucalyptus, which absorb large amounts of groundwater and release it through transpiration, thereby lowering the water table."
+  },
+  {
+   "q": "A rice field of area 4,000 m² requires a water depth of 0.04 m. Calculate the volume of water needed.",
+   "options": [
+    "100 m³",
+    "160 m³",
+    "400 m³",
+    "40 m³"
+   ],
+   "answer": "1",
+   "solution": "Volume = Area × Depth = 4000 × 0.04 = 160 m³."
+  },
+  {
+   "q": "Which of the following best describes furrow irrigation?",
+   "options": [
+    "Water sprayed over crops like rainfall",
+    "Water flows along small channels between crop rows",
+    "Water applied drop by drop to roots",
+    "Water pumped below the soil surface"
+   ],
+   "answer": "1",
+   "solution": "Furrow irrigation directs water along small trenches (furrows) made between rows of crops, commonly used for row crops."
+  },
+  {
+   "q": "Stagnant water in poorly maintained irrigation canals can lead to:",
+   "options": [
+    "Improved crop yield",
+    "Breeding of mosquitoes and disease vectors",
+    "Increased soil fertility",
+    "Reduced weed growth"
+   ],
+   "answer": "1",
+   "solution": "Stagnant water provides breeding grounds for disease vectors such as mosquitoes (malaria) and snails (bilharzia)."
+  },
+  {
+   "q": "Which maintenance activity involves removing accumulated silt from canals?",
+   "options": [
+    "Weeding",
+    "Desilting",
+    "Grading",
+    "Lining"
+   ],
+   "answer": "1",
+   "solution": "Desilting is the removal of accumulated sediment (silt) from canals and drains to maintain their carrying capacity."
+  },
+  {
+   "q": "An advantage of drip irrigation over furrow irrigation is that drip irrigation:",
+   "options": [
+    "Is cheaper to install",
+    "Uses water more efficiently with less loss to evaporation",
+    "Requires no maintenance",
+    "Causes more soil erosion"
+   ],
+   "answer": "1",
+   "solution": "Drip irrigation delivers water directly to the root zone in controlled amounts, greatly reducing losses through evaporation and runoff compared to furrow irrigation."
+  },
+  {
+   "q": "If 300 m³ of water is required and a pipe delivers water at 0.5 m³/s, how long will it take to deliver the water?",
+   "options": [
+    "150 seconds",
+    "600 seconds",
+    "60 seconds",
+    "500 seconds"
+   ],
+   "answer": "1",
+   "solution": "Time = Volume ÷ Discharge = 300 ÷ 0.5 = 600 seconds."
+  }
+ ]
+}

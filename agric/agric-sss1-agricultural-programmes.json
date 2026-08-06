@@ -1,0 +1,227 @@
+{
+ "subject": "Agricultural Science",
+ "level": "SSS 1",
+ "slug": "agricultural-programmes",
+ "title": "Agricultural Development Programmes",
+ "outline": [
+  "Meaning and objectives of agricultural programmes",
+  "National agricultural development programmes in Nigeria",
+  "Operation Feed the Nation (OFN) and Green Revolution",
+  "River Basin Development Authorities",
+  "Agricultural Development Projects (ADPs)",
+  "National Fadama Development Programme",
+  "Anchor Borrowers' Programme and modern initiatives",
+  "Achievements and challenges of agricultural programmes"
+ ],
+ "modules": [
+  {
+   "title": "Meaning and Objectives of Agricultural Development Programmes",
+   "html": "<h4>Meaning of Agricultural Development Programmes</h4>\n    <p>Agricultural development programmes are organised government or institutional efforts designed to boost agricultural production, improve farmers' welfare, and achieve national food security and economic growth. These programmes are usually backed by policy, funding, and technical support, and are implemented over specific periods with clearly stated objectives and target beneficiaries.</p>\n    <h4>General Objectives of Agricultural Programmes</h4>\n    <ul>\n        <li>To increase food and raw material production to meet the needs of a growing population.</li>\n        <li>To generate employment opportunities, particularly for youths and rural dwellers.</li>\n        <li>To improve rural infrastructure such as roads, boreholes and storage facilities.</li>\n        <li>To provide farmers with improved seeds, fertilisers, credit and modern farming techniques.</li>\n        <li>To reduce the nation's dependence on food imports and conserve foreign exchange.</li>\n        <li>To encourage private sector participation in agriculture (agribusiness).</li>\n        <li>To promote sustainable and environmentally friendly farming practices.</li>\n    </ul>\n    <h4>Why Governments Initiate Agricultural Programmes</h4>\n    <p>Governments in West Africa have consistently introduced agricultural programmes because agriculture remains a dominant sector of the economy in terms of employment and GDP contribution. For instance, if a country spends \\(\\text{N}\\,500\\) billion on an agricultural programme and it results in a \\(15\\%\\) increase in food production from a base of \\(20\\) million metric tonnes, the additional output would be \\(0.15 \\times 20 = 3\\) million metric tonnes, illustrating the potential impact of well-implemented programmes.</p>\n    <table class=\"tb-table\">\n        <tr><th>Objective</th><th>Expected Outcome</th></tr>\n        <tr><td>Increase production</td><td>Food security and export surplus</td></tr>\n        <tr><td>Employment generation</td><td>Reduced rural-urban migration</td></tr>\n        <tr><td>Infrastructure provision</td><td>Improved market access</td></tr>\n    </table>\n    <p>These programmes are often designed as part of broader national development plans and may target specific crops, regions, or categories of farmers, such as smallholders or women farmers, to ensure inclusive agricultural growth.</p>",
+   "examples": [
+    {
+     "q": "A government's agricultural programme increases food production from a base of \\(15\\) million metric tonnes by \\(20\\%\\). Calculate the additional tonnes produced and the new total production.",
+     "a": "Additional production \\(= 0.20 \\times 15 = 3\\) million metric tonnes. New total \\(= 15 + 3 = 18\\) million metric tonnes. This shows how a targeted percentage increase from an agricultural programme translates into real production gains."
+    },
+    {
+     "q": "State three general objectives of agricultural development programmes.",
+     "a": "(1) To increase food production and achieve food security for the growing population. (2) To create employment opportunities, especially for rural youths, reducing rural-urban migration. (3) To provide farmers with improved inputs such as high-yielding seeds, fertilisers and credit facilities to boost productivity."
+    }
+   ]
+  },
+  {
+   "title": "Major Agricultural Programmes: OFN, Green Revolution and River Basin Authorities",
+   "html": "<h4>Operation Feed the Nation (OFN)</h4>\n    <p>Operation Feed the Nation was launched in Nigeria in 1976 by the government of General Olusegun Obasanjo to encourage citizens, including non-farmers, to engage in food production and reduce dependence on food importation. It emphasised backyard gardening, distribution of free farm inputs like improved seeds and fertilisers, and mass mobilisation through the media to encourage self-sufficiency in food production.</p>\n    <h4>The Green Revolution Programme</h4>\n    <p>The Green Revolution Programme was introduced in 1980 under President Shehu Shagari to further boost agricultural production through the application of modern technology, mechanisation, use of improved seed varieties, fertiliser subsidies, and provision of credit facilities to farmers. It aimed to make Nigeria self-sufficient in food production and to increase the export of agricultural produce.</p>\n    <h4>River Basin Development Authorities (RBDAs)</h4>\n    <p>River Basin Development Authorities were established in 1976 to harness water resources for irrigation, provide infrastructure for agriculture, and manage water resources for multiple uses including agriculture, domestic and industrial purposes. Nigeria was divided into several river basin authorities such as the Niger, Sokoto-Rima, Benue, Anambra-Imo, and Ogun-Oshun River Basin Development Authorities, each responsible for irrigation schemes, dam construction and land development within their zones.</p>\n    <table class=\"tb-table\">\n        <tr><th>Programme</th><th>Year Established</th><th>Main Focus</th></tr>\n        <tr><td>Operation Feed the Nation</td><td>1976</td><td>Mass mobilisation for food production</td></tr>\n        <tr><td>Green Revolution</td><td>1980</td><td>Modernisation and mechanisation of agriculture</td></tr>\n        <tr><td>River Basin Development Authorities</td><td>1976</td><td>Irrigation and water resource management</td></tr>\n    </table>\n    <p>If an RBDA irrigation project increases the irrigable land in a region from \\(4000\\) hectares to \\(6000\\) hectares, this represents an increase of \\(\\frac{6000-4000}{4000} \\times 100\\% = 50\\%\\), significantly boosting the region's crop production capacity, especially for dry-season farming.</p>",
+   "examples": [
+    {
+     "q": "An RBDA irrigation project expands irrigable land from \\(3000\\) hectares to \\(4500\\) hectares. Calculate the percentage increase in irrigable land.",
+     "a": "Increase \\(= 4500 - 3000 = 1500\\) hectares. Percentage increase \\(= \\frac{1500}{3000} \\times 100\\% = 50\\%\\). This shows a substantial expansion in land available for irrigated dry-season farming due to the RBDA's intervention."
+    },
+    {
+     "q": "Compare Operation Feed the Nation and the Green Revolution Programme in terms of their main approach.",
+     "a": "Operation Feed the Nation (1976) mainly relied on mass mobilisation and public campaigns encouraging even non-farmers to engage in backyard food production, with distribution of free inputs. The Green Revolution (1980), on the other hand, focused more on modernising agriculture through mechanisation, subsidised fertilisers, improved seed varieties and organised credit schemes, targeting a more technical and structured increase in output."
+    }
+   ]
+  },
+  {
+   "title": "Agricultural Development Projects, Fadama, Anchor Borrowers' Programme and Achievements",
+   "html": "<h4>Agricultural Development Projects (ADPs)</h4>\n    <p>Agricultural Development Projects were established in various states to provide integrated agricultural services including extension services, provision of farm inputs, rural infrastructure, and access to credit for farmers at the grassroots level. ADPs work closely with farmers through extension agents who visit farms regularly to teach improved practices, making them one of the most farmer-focused programmes in Nigeria's agricultural history.</p>\n    <h4>National Fadama Development Programme</h4>\n    <p>The Fadama programme, supported by the World Bank, focuses on the development of fadama (low-lying, fertile floodplain) lands for irrigation-based farming, especially for vegetable and rice production. It provides farmers with productive assets like pumps, boreholes and processing equipment through matching grants, and organises farmers into Fadama User Groups to access these resources collectively.</p>\n    <h4>Anchor Borrowers' Programme and Other Modern Initiatives</h4>\n    <p>The Anchor Borrowers' Programme, introduced by the Central Bank of Nigeria in 2015, links smallholder farmers to large agro-processing companies (\"anchors\") who provide inputs on credit and guarantee to purchase produce at harvest, thereby reducing marketing risk for farmers. Other modern initiatives include the Growth Enhancement Support Scheme (GESS) for input subsidy delivery via mobile phones, and various state-level agricultural transformation agendas.</p>\n    <h4>Achievements and Challenges</h4>\n    <p>These programmes have recorded achievements such as increased rice production, improved farmer access to credit, and expansion of irrigation facilities. However, challenges persist including poor programme continuity due to changes in government, corruption in input distribution, inadequate funding, and poor monitoring and evaluation. For example, if the Anchor Borrowers' Programme disburses loans to \\(50{,}000\\) farmers but only \\(70\\%\\) repay fully, this means \\(0.30 \\times 50{,}000 = 15{,}000\\) farmers default, which threatens the sustainability of the scheme.</p>\n    <table class=\"tb-table\">\n        <tr><th>Programme</th><th>Key Feature</th></tr>\n        <tr><td>ADPs</td><td>Grassroots extension services</td></tr>\n        <tr><td>Fadama</td><td>Irrigation of floodplain lands</td></tr>\n        <tr><td>Anchor Borrowers' Programme</td><td>Links farmers to agro-processors for inputs and market</td></tr>\n    </table>",
+   "examples": [
+    {
+     "q": "The Anchor Borrowers' Programme disburses loans to \\(80{,}000\\) farmers, and \\(65\\%\\) repay their loans fully. How many farmers default, and how many repay?",
+     "a": "Farmers who repay \\(= 0.65 \\times 80{,}000 = 52{,}000\\). Farmers who default \\(= 80{,}000 - 52{,}000 = 28{,}000\\). This high default rate highlights a major sustainability challenge facing the programme."
+    },
+    {
+     "q": "Explain the main function of Agricultural Development Projects (ADPs) and how they benefit farmers directly.",
+     "a": "ADPs provide integrated services to farmers at the grassroots level, including extension advice, distribution of farm inputs, and access to rural infrastructure and credit. They benefit farmers directly by sending extension agents to visit farms, teach improved techniques such as proper spacing and fertiliser application, and link farmers to sources of quality seeds and financing, thereby improving productivity and income."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Agricultural development programmes are mainly established to",
+   "options": [
+    "reduce food production",
+    "boost agricultural output and improve farmers' welfare",
+    "discourage farming",
+    "increase food importation"
+   ],
+   "answer": "1",
+   "solution": "These programmes aim to raise production, generate employment, and enhance food security and farmer welfare."
+  },
+  {
+   "q": "Operation Feed the Nation was launched in Nigeria in the year",
+   "options": [
+    "1970",
+    "1976",
+    "1980",
+    "1999"
+   ],
+   "answer": "1",
+   "solution": "Operation Feed the Nation (OFN) was launched in 1976 under General Olusegun Obasanjo."
+  },
+  {
+   "q": "The Green Revolution Programme in Nigeria was introduced under which head of government?",
+   "options": [
+    "Olusegun Obasanjo",
+    "Shehu Shagari",
+    "Ibrahim Babangida",
+    "Muhammadu Buhari"
+   ],
+   "answer": "1",
+   "solution": "The Green Revolution Programme was launched in 1980 during Shehu Shagari's administration."
+  },
+  {
+   "q": "River Basin Development Authorities were mainly established to",
+   "options": [
+    "provide loans to civil servants",
+    "harness water resources for irrigation and agricultural development",
+    "build urban housing estates",
+    "manage stock exchange activities"
+   ],
+   "answer": "1",
+   "solution": "RBDAs manage water resources, construct dams, and develop irrigation infrastructure for agriculture."
+  },
+  {
+   "q": "If an RBDA project increases irrigable land from 5000 to 7500 hectares, what is the percentage increase?",
+   "options": [
+    "25%",
+    "40%",
+    "50%",
+    "60%"
+   ],
+   "answer": "2",
+   "solution": "Increase = 2500 hectares; percentage increase = (2500/5000) × 100% = 50%."
+  },
+  {
+   "q": "The National Fadama Development Programme focuses mainly on",
+   "options": [
+    "upland dry farming only",
+    "development of low-lying fertile floodplain lands for irrigation",
+    "mining activities",
+    "urban transportation"
+   ],
+   "answer": "1",
+   "solution": "Fadama lands are floodplains developed for irrigated crop production, particularly vegetables and rice."
+  },
+  {
+   "q": "The Anchor Borrowers' Programme was introduced by",
+   "options": [
+    "the Central Bank of Nigeria",
+    "the World Health Organization",
+    "the World Trade Organization",
+    "the National Assembly alone"
+   ],
+   "answer": "0",
+   "solution": "The Central Bank of Nigeria (CBN) introduced the Anchor Borrowers' Programme in 2015 to link farmers with agro-processors."
+  },
+  {
+   "q": "A key feature of the Anchor Borrowers' Programme is that it",
+   "options": [
+    "provides no inputs to farmers",
+    "links smallholder farmers to processing companies that provide inputs and guaranteed market",
+    "bans farmers from selling produce",
+    "focuses only on livestock"
+   ],
+   "answer": "1",
+   "solution": "The programme connects farmers with 'anchor' companies which supply inputs on credit and buy the produce at harvest."
+  },
+  {
+   "q": "Agricultural Development Projects (ADPs) primarily provide farmers with",
+   "options": [
+    "extension services, inputs and infrastructure at the grassroots",
+    "military training",
+    "urban housing",
+    "banking licences"
+   ],
+   "answer": "0",
+   "solution": "ADPs provide integrated grassroots services including extension advice, input distribution and infrastructure support."
+  },
+  {
+   "q": "If a food production programme raises output from 20 million tonnes by 10%, the new total production is",
+   "options": [
+    "20 million tonnes",
+    "21 million tonnes",
+    "22 million tonnes",
+    "24 million tonnes"
+   ],
+   "answer": "2",
+   "solution": "Increase = 0.10×20 = 2 million tonnes; new total = 20+2 = 22 million tonnes."
+  },
+  {
+   "q": "Growth Enhancement Support Scheme (GESS) is mainly associated with",
+   "options": [
+    "mobile-phone based delivery of input subsidies to farmers",
+    "construction of dams",
+    "fish farming exclusively",
+    "livestock vaccination programmes"
+   ],
+   "answer": "0",
+   "solution": "GESS used mobile technology to deliver subsidised fertiliser and seeds directly to registered farmers."
+  },
+  {
+   "q": "A common challenge facing agricultural programmes in Nigeria is",
+   "options": [
+    "excess funding",
+    "poor continuity due to changes in government",
+    "too much monitoring",
+    "over-employment of extension agents"
+   ],
+   "answer": "1",
+   "solution": "Frequent changes in government often disrupt the continuity and long-term success of agricultural programmes."
+  },
+  {
+   "q": "If 80,000 farmers receive loans under a scheme and 25% default, how many farmers default?",
+   "options": [
+    "10,000",
+    "15,000",
+    "20,000",
+    "25,000"
+   ],
+   "answer": "2",
+   "solution": "0.25 × 80,000 = 20,000 farmers default."
+  },
+  {
+   "q": "Fadama User Groups are organised primarily to",
+   "options": [
+    "prevent farmers from accessing loans",
+    "enable farmers to collectively access productive assets and grants",
+    "compete with government agencies",
+    "discourage irrigation farming"
+   ],
+   "answer": "1",
+   "solution": "Fadama User Groups allow farmers to pool resources and access matching grants for productive assets like pumps and processing equipment."
+  },
+  {
+   "q": "A major achievement commonly associated with agricultural development programmes in Nigeria is",
+   "options": [
+    "complete elimination of food importation",
+    "increased rice production and improved access to credit",
+    "total collapse of the agricultural sector",
+    "abandonment of irrigation schemes"
+   ],
+   "answer": "1",
+   "solution": "Programmes like Fadama and the Anchor Borrowers' Programme have contributed to increased local rice production and better farmer access to credit facilities."
+  }
+ ]
+}

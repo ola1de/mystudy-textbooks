@@ -1,0 +1,227 @@
+{
+ "subject": "Agricultural Science",
+ "level": "SSS 1",
+ "slug": "farm-tools-equipment",
+ "title": "Farm Tools and Equipment",
+ "outline": [
+  "Meaning and classification of farm tools and equipment",
+  "Classification by power source and function",
+  "Common hand tools and their uses",
+  "Materials used in constructing farm tools",
+  "Factors in selecting appropriate farm tools",
+  "Maintenance and safety practices",
+  "Depreciation of farm tools and equipment",
+  "Effect of maintenance on productivity and cost"
+ ],
+ "modules": [
+  {
+   "title": "Classification of Farm Tools and Equipment",
+   "html": "<h4>Meaning of Farm Tools and Equipment</h4>\n<p>Farm tools and equipment are implements used by farmers to carry out various farm operations such as land clearing, tillage, planting, weeding, harvesting and processing. They range from simple hand tools operated manually to complex machines powered by engines. Efficient farm operations depend on the correct selection, use and maintenance of appropriate tools.</p>\n<h4>Classification by Source of Power</h4>\n<ul>\n<li><strong>Simple/hand tools:</strong> operated manually using human effort, e.g. cutlass, hoe, spade, rake, sickle, dibber, watering can.</li>\n<li><strong>Animal-drawn implements:</strong> pulled by draught animals such as oxen or horses, e.g. ox-plough, ox-cart, harrow.</li>\n<li><strong>Power/mechanised equipment:</strong> operated using engines (tractors, motors), e.g. tractor, power tiller, combine harvester, sprayer.</li>\n</ul>\n<h4>Classification by Function</h4>\n<ol>\n<li><strong>Clearing tools:</strong> cutlass, axe, brushing hook, bulldozer — used to remove vegetation before cultivation.</li>\n<li><strong>Tillage tools:</strong> hoe, plough, harrow, ridger — used to prepare the soil to a fine tilth.</li>\n<li><strong>Planting tools:</strong> dibber, seed drill, planter — used to place seeds/seedlings in the soil.</li>\n<li><strong>Weeding tools:</strong> hoe, hand fork, herbicide sprayer — used to remove unwanted plants.</li>\n<li><strong>Harvesting tools:</strong> sickle, cutlass, combine harvester — used to gather mature crops.</li>\n<li><strong>Processing tools:</strong> grinding mill, sheller, thresher, grater — used to convert produce into usable form.</li>\n</ol>\n<h4>Common Hand Tools and Their Uses</h4>\n<table class=\"tb-table\"><tr><th>Tool</th><th>Main Use</th></tr>\n<tr><td>Cutlass (matchet)</td><td>Clearing vegetation, weeding</td></tr>\n<tr><td>Hoe</td><td>Tilling soil, weeding, making ridges</td></tr>\n<tr><td>Spade</td><td>Digging and turning soil</td></tr>\n<tr><td>Rake</td><td>Gathering debris, levelling seedbeds</td></tr>\n<tr><td>Sickle</td><td>Harvesting grains and grasses</td></tr>\n<tr><td>Dibber</td><td>Making holes for planting seeds</td></tr>\n</table>\n<p>Selection of an appropriate tool depends on the nature of the operation, size of farm, soil type, cost, availability and the skill of the operator. Small-scale farms commonly rely on hand tools, while large commercial farms use mechanised equipment to increase output per man-hour, expressed as $$ \\text{Labour productivity} = \\frac{\\text{Output}}{\\text{Man-hours worked}} $$</p>",
+   "examples": [
+    {
+     "q": "A labourer using a hoe clears 0.2 hectares in 8 man-hours, while a tractor-driven implement clears 2 hectares in 4 man-hours. Compare their labour productivity.",
+     "a": "Hoe: productivity \\(= 0.2/8 = 0.025\\, ha/man\\text{-}hour\\). Tractor: productivity \\(= 2/4 = 0.5\\, ha/man\\text{-}hour\\). The tractor's productivity (0.5) is 20 times greater than the hoe's (0.025), showing mechanisation greatly increases labour efficiency."
+    },
+    {
+     "q": "Classify the following tools according to function: cutlass, dibber, sickle, hoe. ",
+     "a": "Cutlass — clearing tool (used to clear vegetation, also for weeding); Dibber — planting tool (used to make holes for seed placement); Sickle — harvesting tool (used to cut and gather mature crops); Hoe — tillage/weeding tool (used for soil preparation, ridging and weed removal)."
+    }
+   ]
+  },
+  {
+   "title": "Materials, Construction and Selection of Farm Tools",
+   "html": "<h4>Materials Used in Making Farm Tools</h4>\n<p>Farm tools are constructed from materials selected for strength, durability and suitability of function. The main materials include:</p>\n<ul>\n<li><strong>Wood:</strong> used for handles of hoes, rakes and axes due to its light weight and shock-absorbing property.</li>\n<li><strong>Mild steel/carbon steel:</strong> used for cutting edges of cutlasses, hoe blades and knives because of its hardness and ability to hold a sharp edge.</li>\n<li><strong>Cast iron:</strong> used for plough bodies and heavy machine parts due to its wear resistance.</li>\n<li><strong>Rubber and plastic:</strong> used for grips, tyres and some tool handles for comfort and insulation.</li>\n<li><strong>Stainless steel:</strong> used for tools requiring resistance to corrosion, such as pruning shears.</li>\n</ul>\n<h4>Parts of a Farm Tool</h4>\n<p>Most hand tools comprise a <strong>handle (shaft)</strong> for gripping and applying force, and a <strong>working part/head</strong> (blade, tine or point) that performs the actual operation. For example, a hoe has a wooden handle and a metal blade fitted at an angle for effective soil penetration.</p>\n<h4>Factors Considered in the Selection of Farm Tools</h4>\n<ol>\n<li>Nature and size of the farm operation to be performed.</li>\n<li>Type and texture of the soil (heavy clay soils require stronger tools).</li>\n<li>Cost of the tool and the farmer's budget.</li>\n<li>Availability of spare parts and maintenance services.</li>\n<li>Durability and quality of material used.</li>\n<li>Availability of skilled operators, especially for machinery.</li>\n<li>Topography of the land (machines are less suited to steep or stony terrain).</li>\n</ol>\n<h4>Efficiency and Sharpness of Cutting Tools</h4>\n<p>The efficiency of cutting tools like cutlasses and hoes depends on maintaining a sharp cutting edge, achieved by regular sharpening with a file or grinding stone. A sharp tool requires less applied force, \\(F\\), to achieve the same work done, \\(W = F \\times d\\), where \\(d\\) is the distance moved, thereby reducing labour fatigue and increasing output per unit time.</p>\n<table class=\"tb-table\"><tr><th>Material</th><th>Property</th><th>Typical Use</th></tr>\n<tr><td>Wood</td><td>Light, shock-absorbing</td><td>Handles</td></tr>\n<tr><td>Carbon steel</td><td>Hard, sharp edge retention</td><td>Blades</td></tr>\n<tr><td>Cast iron</td><td>Wear-resistant</td><td>Plough bodies</td></tr>\n</table>\n<p>Poorly selected or blunt tools increase the time and energy required per unit area cultivated, ultimately reducing farm profitability.</p>",
+   "examples": [
+    {
+     "q": "Explain why wood is preferred to steel for making the handles of hoes and rakes.",
+     "a": "Wood is preferred because it is light in weight, reducing operator fatigue; it absorbs shock and vibration during use, protecting the operator's hands and wrists; it is a poor conductor of heat, remaining comfortable to hold; and it is relatively cheap and readily available compared to steel."
+    },
+    {
+     "q": "A farmer applies a force of 150 N to move a cutlass through 0.5 m while clearing weeds. Calculate the work done, and state one way to reduce the force required for the same task.",
+     "a": "Work done \\(W = F \\times d = 150\\,N \\times 0.5\\,m = 75\\,J\\). The force required can be reduced by sharpening the cutlass blade, since a sharper edge cuts through vegetation with less resistance, thereby lowering the force needed for the same amount of work."
+    }
+   ]
+  },
+  {
+   "title": "Maintenance, Repair and Depreciation of Farm Tools and Equipment",
+   "html": "<h4>Meaning of Maintenance</h4>\n<p>Maintenance refers to the routine care given to farm tools and equipment to keep them in good working condition, prolong their useful life and ensure safety during use. Poor maintenance leads to rapid wear, breakdowns and increased cost of farm production.</p>\n<h4>Types of Maintenance</h4>\n<ul>\n<li><strong>Preventive maintenance:</strong> carried out regularly to prevent breakdown, e.g. cleaning, oiling and greasing moving parts.</li>\n<li><strong>Corrective/curative maintenance:</strong> repair carried out after a fault or breakdown has occurred, e.g. replacing a broken hoe handle.</li>\n</ul>\n<h4>General Maintenance Practices</h4>\n<ol>\n<li>Cleaning tools after use to remove soil, sap and moisture that cause rusting.</li>\n<li>Sharpening cutting tools regularly (cutlass, hoe, axe, knife).</li>\n<li>Oiling and greasing moving metal parts to reduce friction and prevent rust.</li>\n<li>Proper storage in a dry, covered store/shed away from moisture.</li>\n<li>Tightening loose bolts, nuts and handles before use.</li>\n<li>Painting metal surfaces to prevent rust and corrosion.</li>\n<li>Replacing worn-out parts promptly to avoid further damage.</li>\n</ol>\n<h4>Safety Precautions in the Use of Farm Tools</h4>\n<p>Farmers should wear appropriate protective clothing (hand gloves, boots, goggles), carry tools with sharp edges pointing downward or covered, avoid horse-play with tools, and ensure machinery guards are in place before operation to prevent accidents.</p>\n<h4>Depreciation of Farm Equipment</h4>\n<p>Depreciation is the reduction in the value of a farm tool or machine over time due to wear, tear and obsolescence. It is important for calculating the annual cost of using equipment. The straight-line method of depreciation is commonly used: $$D = \\frac{C - S}{N}$$ where \\(D\\) is annual depreciation, \\(C\\) is the original cost, \\(S\\) is the salvage (scrap) value, and \\(N\\) is the useful life in years.</p>\n<table class=\"tb-table\"><tr><th>Term</th><th>Meaning</th></tr>\n<tr><td>C</td><td>Original/purchase cost</td></tr>\n<tr><td>S</td><td>Salvage value at end of useful life</td></tr>\n<tr><td>N</td><td>Useful life (years)</td></tr>\n<tr><td>D</td><td>Annual depreciation</td></tr>\n</table>\n<p>Proper maintenance reduces the rate of depreciation by extending the useful life, \\(N\\), of tools and machinery, thereby lowering the annual depreciation cost and improving overall farm profitability.</p>",
+   "examples": [
+    {
+     "q": "A power tiller was bought for ₦450,000 with an estimated useful life of 10 years and a salvage value of ₦50,000. Calculate the annual depreciation using the straight-line method.",
+     "a": "Using \\(D = \\dfrac{C-S}{N}\\): \\(D = \\dfrac{450{,}000 - 50{,}000}{10} = \\dfrac{400{,}000}{10} = 40{,}000\\). The annual depreciation of the power tiller is ₦40,000."
+    },
+    {
+     "q": "State three preventive maintenance practices a farmer should carry out on a cutlass after use, and explain their importance.",
+     "a": "1. Clean the blade to remove sap and soil — prevents rusting and corrosion of the metal. 2. Sharpen the cutting edge — maintains cutting efficiency and reduces the force needed for the next use. 3. Store in a dry place — prevents moisture from causing rust and prolongs the tool's useful life, thereby reducing depreciation."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Farm tools operated purely by human effort are classified as",
+   "options": [
+    "power tools",
+    "simple/hand tools",
+    "animal-drawn tools",
+    "hydraulic tools"
+   ],
+   "answer": "1",
+   "solution": "Simple/hand tools are operated manually using human effort, e.g. cutlass, hoe and rake."
+  },
+  {
+   "q": "Which of these is an animal-drawn implement?",
+   "options": [
+    "Combine harvester",
+    "Ox-plough",
+    "Power tiller",
+    "Cutlass"
+   ],
+   "answer": "1",
+   "solution": "The ox-plough is pulled by draught animals (oxen), classifying it as an animal-drawn implement."
+  },
+  {
+   "q": "A dibber is primarily used for",
+   "options": [
+    "harvesting grains",
+    "making holes for planting seeds",
+    "clearing bush",
+    "sharpening tools"
+   ],
+   "answer": "1",
+   "solution": "A dibber is a pointed tool used to make holes in the soil for planting seeds or seedlings."
+  },
+  {
+   "q": "Which material is most suitable for the cutting edge of a hoe due to its hardness?",
+   "options": [
+    "Rubber",
+    "Wood",
+    "Carbon steel",
+    "Plastic"
+   ],
+   "answer": "2",
+   "solution": "Carbon steel is hard and retains a sharp edge, making it suitable for cutting parts of tools like hoe blades."
+  },
+  {
+   "q": "Wooden handles are preferred for hoes mainly because wood is",
+   "options": [
+    "heavy and rigid",
+    "light and shock-absorbing",
+    "a good electrical conductor",
+    "prone to rusting"
+   ],
+   "answer": "1",
+   "solution": "Wood is light in weight and absorbs shock/vibration, reducing operator fatigue, hence its preference for tool handles."
+  },
+  {
+   "q": "Which of the following is NOT a factor in selecting a farm tool?",
+   "options": [
+    "Cost of the tool",
+    "Nature of the farm operation",
+    "Colour of the farmer's shirt",
+    "Type of soil"
+   ],
+   "answer": "2",
+   "solution": "The colour of the farmer's shirt has no bearing on tool selection; cost, operation type and soil type are relevant factors."
+  },
+  {
+   "q": "Preventive maintenance is best described as maintenance carried out",
+   "options": [
+    "after a machine has broken down",
+    "regularly to prevent breakdown",
+    "only once a year regardless of use",
+    "by the manufacturer only"
+   ],
+   "answer": "1",
+   "solution": "Preventive maintenance involves regular routine care (cleaning, oiling) carried out to prevent equipment breakdown before it occurs."
+  },
+  {
+   "q": "Replacing a broken hoe handle after it snaps is an example of",
+   "options": [
+    "preventive maintenance",
+    "corrective maintenance",
+    "depreciation",
+    "obsolescence"
+   ],
+   "answer": "1",
+   "solution": "Corrective (curative) maintenance is repair carried out after a fault or breakdown has already occurred."
+  },
+  {
+   "q": "The straight-line depreciation formula is given as",
+   "options": [
+    "D = C × S × N",
+    "D = (C - S)/N",
+    "D = (C + S)/N",
+    "D = C/N + S"
+   ],
+   "answer": "1",
+   "solution": "The straight-line method formula is \\(D = (C-S)/N\\), where C is cost, S is salvage value and N is useful life in years."
+  },
+  {
+   "q": "A tractor costs ₦3,000,000 with a salvage value of ₦300,000 and a useful life of 9 years. Its annual depreciation is",
+   "options": [
+    "₦270,000",
+    "₦300,000",
+    "₦333,333",
+    "₦360,000"
+   ],
+   "answer": "1",
+   "solution": "D = (3,000,000 - 300,000)/9 = 2,700,000/9 = 300,000. The annual depreciation is ₦300,000, corresponding to option index 1."
+  },
+  {
+   "q": "Rusting of metal farm tools is best prevented by",
+   "options": [
+    "exposing tools to rain",
+    "oiling/greasing and dry storage",
+    "leaving soil on the blade",
+    "using tools without cleaning"
+   ],
+   "answer": "1",
+   "solution": "Oiling or greasing metal parts and storing tools in a dry place prevents moisture contact, which is the major cause of rust."
+  },
+  {
+   "q": "Which of the following tools is used mainly for harvesting cereal crops?",
+   "options": [
+    "Sickle",
+    "Dibber",
+    "Rake",
+    "Spade"
+   ],
+   "answer": "0",
+   "solution": "A sickle has a curved blade used to cut and harvest mature cereal crops and grasses."
+  },
+  {
+   "q": "A worker's productivity is calculated as",
+   "options": [
+    "Man-hours ÷ Output",
+    "Output ÷ Man-hours worked",
+    "Output × Man-hours",
+    "Cost ÷ Output"
+   ],
+   "answer": "1",
+   "solution": "Labour productivity is defined as output divided by the man-hours worked to produce it."
+  },
+  {
+   "q": "Which safety precaution is appropriate when carrying a cutlass?",
+   "options": [
+    "Point the sharp edge upward at head level",
+    "Carry with sharp edge pointing downward or sheathed",
+    "Run while carrying it",
+    "Swing it around others"
+   ],
+   "answer": "1",
+   "solution": "Carrying a cutlass with the sharp edge pointing downward or covered/sheathed minimizes the risk of injury to the carrier and others."
+  },
+  {
+   "q": "Obsolescence of a farm machine refers to it becoming",
+   "options": [
+    "physically worn out only",
+    "outdated due to newer technology",
+    "more valuable with age",
+    "cheaper to maintain"
+   ],
+   "answer": "1",
+   "solution": "Obsolescence occurs when equipment becomes outdated or less efficient due to the availability of newer technology, even if it still functions."
+  }
+ ]
+}

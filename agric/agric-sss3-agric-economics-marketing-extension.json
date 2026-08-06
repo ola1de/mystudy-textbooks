@@ -1,0 +1,227 @@
+{
+ "subject": "Agricultural Science",
+ "level": "SSS 3",
+ "slug": "agric-economics-marketing-extension",
+ "title": "Agricultural Economics and Extension",
+ "outline": [
+  "Basic concepts in agricultural economics",
+  "The law of diminishing returns in production",
+  "Farm records, costs and gross margin analysis",
+  "Depreciation of farm assets",
+  "Agricultural marketing functions and channels",
+  "Determinants of demand and supply of farm produce",
+  "Principles and methods of agricultural extension",
+  "Cooperative societies in agriculture"
+ ],
+ "modules": [
+  {
+   "title": "The Law of Diminishing Returns and Production Economics",
+   "html": "<h4>Basic Concepts in Agricultural Economics</h4>\n<p>Agricultural economics is the application of economic principles to the production, distribution and consumption of agricultural goods and services. Central to production economics is the relationship between inputs (land, labour, capital) and output (total product), which farmers must understand to make efficient resource allocation decisions.</p>\n<h4>The Law of Diminishing Returns</h4>\n<p>The law of diminishing returns states that as successive equal units of a variable input (e.g. fertiliser) are added to a fixed input (e.g. land), while other factors remain constant, the additional output (marginal product) obtained from each extra unit of input will eventually decrease. This law explains why increasing one input indefinitely does not lead to proportionate increases in output.</p>\n<p>Two important measures used in analysing this law are marginal product and average product:</p>\n<p>$$\\text{MP}=\\dfrac{\\Delta \\text{TP}}{\\Delta \\text{Input}}$$</p>\n<p>$$\\text{AP}=\\text{TP}/\\text{Input}$$</p>\n<p>where TP represents Total Product, MP is Marginal Product (the extra output from one more unit of input), and AP is Average Product (output per unit of input used).</p>\n<h4>Stages of Production</h4>\n<table class=\"tb-table\">\n<tr><th>Stage</th><th>Description</th><th>MP and AP behaviour</th></tr>\n<tr><td>Stage I</td><td>Increasing returns</td><td>MP increases, greater than AP</td></tr>\n<tr><td>Stage II</td><td>Diminishing returns</td><td>MP decreases but positive, less than AP; most efficient stage</td></tr>\n<tr><td>Stage III</td><td>Negative returns</td><td>MP becomes negative; TP decreases</td></tr>\n</table>\n<h4>Practical Application</h4>\n<p>A rational farmer should operate in Stage II of production, where additional inputs still increase total output, though at a decreasing rate, since production beyond this stage (Stage III) results in wastage of resources as total product actually falls. Understanding the law of diminishing returns helps farmers determine the optimum quantity of fertiliser, labour or other variable inputs to apply for maximum economic benefit, avoiding both under-utilisation and over-application of costly inputs.</p>\n<p>For instance, applying fertiliser to a maize farm initially boosts yield substantially, but beyond a certain quantity, each additional bag of fertiliser produces smaller yield increases, and excessive application may even reduce yield due to nutrient toxicity or soil imbalance.</p>",
+   "examples": [
+    {
+     "q": "A farmer applied fertiliser to a plot of land in stages and obtained the following total product (TP) in kg of maize: 1 bag = 200 kg, 2 bags = 380 kg. Calculate the marginal product (MP) of the 2nd bag of fertiliser.",
+     "a": "MP = ΔTP/ΔInput = (380 - 200)/(2 - 1) = 180/1 = 180 kg. The marginal product of the second bag of fertiliser is 180 kg of maize."
+    },
+    {
+     "q": "If total product from 4 units of labour is 800 kg of yam, calculate the average product (AP) per unit of labour.",
+     "a": "AP = TP/Input = 800/4 = 200 kg per unit of labour. This means, on average, each unit of labour contributed 200 kg of yam to total output."
+    }
+   ]
+  },
+  {
+   "title": "Farm Records, Gross Margin and Depreciation of Assets",
+   "html": "<h4>Importance of Farm Records</h4>\n<p>Farm records are systematic documentation of all farm activities, including inputs used, labour employed, sales made and expenses incurred. Good records enable farmers to evaluate performance, plan future production, secure loans, and make informed management decisions.</p>\n<h4>Gross Margin Analysis</h4>\n<p>Gross margin is a key tool used to assess the profitability of a farm enterprise. It is calculated as the difference between the total revenue (gross output) and the total variable costs of production, excluding fixed costs:</p>\n<p>$$\\text{Gross Margin} = \\text{Total Revenue} - \\text{Total Variable Cost}$$</p>\n<p>Net farm profit further subtracts fixed costs from gross margin:</p>\n<p>$$\\text{Net Profit} = \\text{Gross Margin} - \\text{Total Fixed Cost}$$</p>\n<p>Variable costs include expenses that change with the level of production, such as seeds, fertiliser, feed and casual labour, while fixed costs remain constant regardless of production level, such as depreciation on machinery, rent and permanent staff salaries.</p>\n<h4>Depreciation of Farm Assets</h4>\n<p>Depreciation is the gradual reduction in the value of a fixed farm asset (such as a tractor, building or equipment) over its useful life due to wear and tear, age or obsolescence. The straight-line method is the most commonly used method for calculating depreciation in farm management, given by:</p>\n<p>$$\\text{Annual Depreciation} = \\dfrac{\\text{Cost of Asset} - \\text{Salvage Value}}{\\text{Useful Life (years)}}$$</p>\n<p>Where the cost of the asset is the original purchase price, salvage value is the estimated worth of the asset at the end of its useful life, and useful life is the number of years the asset is expected to be productively used.</p>\n<h4>Uses of Farm Records</h4>\n<ol>\n<li>Determining the profitability of individual enterprises through gross margin analysis.</li>\n<li>Calculating depreciation for tax and replacement planning purposes.</li>\n<li>Providing evidence for securing agricultural loans and credit facilities.</li>\n<li>Enabling comparison of performance across production seasons.</li>\n<li>Assisting in budgeting and future farm planning decisions.</li>\n</ol>\n<p>Accurate record-keeping combined with gross margin and depreciation analysis equips farmers with the financial information necessary for sound business decision-making and long-term farm sustainability.</p>",
+   "examples": [
+    {
+     "q": "A poultry farmer realised a total revenue of ₦500,000 from egg sales in a season. The total variable cost (feed, day-old chicks, drugs) was ₦300,000. Calculate the gross margin.",
+     "a": "Gross Margin = Total Revenue - Total Variable Cost = ₦500,000 - ₦300,000 = ₦200,000. The farmer's gross margin for the season was ₦200,000."
+    },
+    {
+     "q": "A farmer bought a tractor for ₦6,000,000 with an estimated salvage value of ₦1,000,000 after a useful life of 5 years. Calculate the annual depreciation using the straight-line method.",
+     "a": "Annual Depreciation = (Cost of Asset - Salvage Value)/Useful Life = (6,000,000 - 1,000,000)/5 = 5,000,000/5 = ₦1,000,000 per year. The tractor depreciates by ₦1,000,000 annually."
+    }
+   ]
+  },
+  {
+   "title": "Agricultural Marketing and Extension Services",
+   "html": "<h4>Agricultural Marketing</h4>\n<p>Agricultural marketing involves all activities associated with the movement of farm produce from the point of production to the final consumer, including assembling, grading, storage, transportation, processing, and distribution. Efficient marketing systems ensure that farmers receive fair prices while consumers obtain quality produce at reasonable cost.</p>\n<h4>Functions of Agricultural Marketing</h4>\n<ul>\n<li><strong>Exchange functions:</strong> buying and selling of produce.</li>\n<li><strong>Physical functions:</strong> storage, transportation, processing and packaging.</li>\n<li><strong>Facilitating functions:</strong> grading, standardisation, financing, market information and risk-bearing.</li>\n</ul>\n<h4>Determinants of Demand and Supply</h4>\n<p>The demand for agricultural produce is influenced by price of the commodity, income of consumers, price of substitutes, population, tastes and preferences, and season. Supply is influenced by price of the commodity, cost of production inputs, weather conditions, government policy, and technology used in production. Generally, demand and price are inversely related while supply and price are directly related, in line with the basic laws of demand and supply.</p>\n<h4>Agricultural Extension</h4>\n<p>Agricultural extension is an informal, out-of-school educational service that transfers improved knowledge, skills and technologies from research institutions to farmers to improve productivity and standard of living. Extension agents act as a link between researchers and farmers, disseminating information through various methods.</p>\n<h4>Methods of Agricultural Extension</h4>\n<ol>\n<li><strong>Individual methods:</strong> farm and home visits, personal letters, telephone contacts.</li>\n<li><strong>Group methods:</strong> demonstrations, field days, workshops, farmer group meetings.</li>\n<li><strong>Mass methods:</strong> radio and television broadcasts, newspapers, posters, agricultural bulletins.</li>\n</ol>\n<h4>Role of Cooperative Societies</h4>\n<p>Cooperative societies are voluntary associations of farmers who pool resources together to achieve common economic goals such as bulk purchase of inputs, access to credit, joint marketing of produce and sharing of machinery. Cooperatives strengthen farmers' bargaining power, reduce production costs through economies of scale, and provide a platform for extension agents to reach many farmers simultaneously, making them a vital component of rural agricultural development.</p>\n<p>Overall, effective marketing systems combined with strong extension services and cooperative organisation significantly improve farm income, adoption of improved technologies, and overall agricultural development.</p>",
+   "examples": [
+    {
+     "q": "State three physical functions performed in agricultural marketing.",
+     "a": "Physical functions in agricultural marketing include: (1) storage of produce to prevent glut and ensure availability throughout the year; (2) transportation of produce from farms to markets; (3) processing and packaging of produce to add value and preserve quality."
+    },
+    {
+     "q": "Differentiate between individual and mass methods of agricultural extension, giving one example of each.",
+     "a": "Individual extension methods involve direct one-on-one contact with a farmer, e.g. a farm visit by an extension agent. Mass extension methods reach large numbers of farmers simultaneously through media, e.g. radio broadcasts of farming programmes, without direct personal interaction."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The law of diminishing returns states that as more units of a variable input are added to a fixed input:",
+   "options": [
+    "output increases indefinitely at a constant rate",
+    "the additional output per extra unit of input eventually decreases",
+    "total product always decreases immediately",
+    "fixed costs increase proportionally"
+   ],
+   "answer": "1",
+   "solution": "The law states that beyond a certain point, marginal product (additional output per extra input unit) falls as more variable input is applied to a fixed input."
+  },
+  {
+   "q": "Marginal Product (MP) is calculated as:",
+   "options": [
+    "TP divided by Input",
+    "ΔTP divided by ΔInput",
+    "Total Revenue minus Total Cost",
+    "Input divided by TP"
+   ],
+   "answer": "1",
+   "solution": "MP = ΔTP/ΔInput, representing the change in total product resulting from a one-unit change in input."
+  },
+  {
+   "q": "If TP from 3 bags of fertiliser is 450 kg and TP from 4 bags is 500 kg, the MP of the 4th bag is:",
+   "options": [
+    "50 kg",
+    "100 kg",
+    "150 kg",
+    "500 kg"
+   ],
+   "answer": "0",
+   "solution": "MP = ΔTP/ΔInput = (500-450)/(4-3) = 50/1 = 50 kg."
+  },
+  {
+   "q": "In which stage of production should a rational farmer operate?",
+   "options": [
+    "Stage I only",
+    "Stage II",
+    "Stage III",
+    "Any stage, it does not matter"
+   ],
+   "answer": "1",
+   "solution": "Stage II is the most efficient stage where MP is positive but declining and AP is still relatively high; Stage III shows negative returns and should be avoided."
+  },
+  {
+   "q": "Gross Margin is calculated as:",
+   "options": [
+    "Total Revenue + Total Variable Cost",
+    "Total Revenue - Total Variable Cost",
+    "Total Fixed Cost - Total Variable Cost",
+    "Total Revenue - Total Fixed Cost"
+   ],
+   "answer": "1",
+   "solution": "Gross Margin = Total Revenue - Total Variable Cost, a measure of enterprise profitability excluding fixed costs."
+  },
+  {
+   "q": "A farmer earns ₦800,000 revenue with variable costs of ₦550,000. What is the gross margin?",
+   "options": [
+    "₦250,000",
+    "₦350,000",
+    "₦1,350,000",
+    "₦550,000"
+   ],
+   "answer": "0",
+   "solution": "Gross Margin = 800,000 - 550,000 = ₦250,000."
+  },
+  {
+   "q": "The straight-line method of depreciation is calculated as:",
+   "options": [
+    "Cost of Asset x Useful Life",
+    "(Cost of Asset - Salvage Value) / Useful Life",
+    "Cost of Asset / Salvage Value",
+    "Salvage Value - Cost of Asset"
+   ],
+   "answer": "1",
+   "solution": "Annual Depreciation = (Cost of Asset - Salvage Value) / Useful Life, spreading the loss in value evenly over the asset's life."
+  },
+  {
+   "q": "A machine costs ₦2,200,000 with a salvage value of ₦200,000 and a useful life of 4 years. What is the annual depreciation?",
+   "options": [
+    "₦400,000",
+    "₦500,000",
+    "₦550,000",
+    "₦600,000"
+   ],
+   "answer": "1",
+   "solution": "Annual Depreciation = (2,200,000 - 200,000)/4 = 2,000,000/4 = ₦500,000."
+  },
+  {
+   "q": "Which of the following is a variable cost in farm production?",
+   "options": [
+    "Depreciation on tractor",
+    "Rent on land",
+    "Cost of feed and seeds",
+    "Permanent staff salary"
+   ],
+   "answer": "2",
+   "solution": "Variable costs change with production level; feed and seed costs rise or fall with the scale of production, unlike fixed costs such as rent and depreciation."
+  },
+  {
+   "q": "Agricultural marketing functions that include grading and market information are known as:",
+   "options": [
+    "Exchange functions",
+    "Physical functions",
+    "Facilitating functions",
+    "Production functions"
+   ],
+   "answer": "2",
+   "solution": "Facilitating functions include grading, standardisation, financing, market information and risk-bearing, which support the marketing process."
+  },
+  {
+   "q": "Which factor is a determinant of supply of agricultural produce?",
+   "options": [
+    "Consumer income",
+    "Weather conditions",
+    "Consumer tastes",
+    "Population of buyers"
+   ],
+   "answer": "1",
+   "solution": "Supply is influenced by production-side factors such as weather, cost of inputs, technology and government policy, unlike demand which is influenced by consumer-related factors."
+  },
+  {
+   "q": "Agricultural extension is best described as:",
+   "options": [
+    "a formal school curriculum",
+    "an out-of-school educational service linking research to farmers",
+    "a type of farm insurance",
+    "a method of land tenure"
+   ],
+   "answer": "1",
+   "solution": "Agricultural extension transfers research-based knowledge and skills to farmers through informal, out-of-school educational methods."
+  },
+  {
+   "q": "Which of these is a mass method of agricultural extension?",
+   "options": [
+    "Farm visit",
+    "Radio broadcast",
+    "Personal letter",
+    "Telephone call"
+   ],
+   "answer": "1",
+   "solution": "Radio broadcasts reach a large number of farmers simultaneously, making it a mass extension method, unlike farm visits and letters which are individual methods."
+  },
+  {
+   "q": "A key benefit of cooperative societies to farmers is:",
+   "options": [
+    "increased individual production costs",
+    "stronger bargaining power and bulk purchase of inputs",
+    "reduced access to credit",
+    "elimination of extension services"
+   ],
+   "answer": "1",
+   "solution": "Cooperative societies allow farmers to pool resources, gaining stronger bargaining power, bulk-purchase discounts and easier access to credit."
+  },
+  {
+   "q": "Net Farm Profit is obtained by:",
+   "options": [
+    "adding gross margin and total fixed cost",
+    "subtracting total fixed cost from gross margin",
+    "subtracting total revenue from variable cost",
+    "multiplying gross margin by fixed cost"
+   ],
+   "answer": "1",
+   "solution": "Net Profit = Gross Margin - Total Fixed Cost, giving the actual profit after all costs (variable and fixed) are accounted for."
+  }
+ ]
+}

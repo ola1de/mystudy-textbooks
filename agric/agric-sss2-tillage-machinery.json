@@ -1,0 +1,249 @@
+{
+  "subject": "Agricultural Science",
+  "level": "SSS 2",
+  "slug": "tillage-machinery",
+  "title": "Tillage and Farm Machinery",
+  "outline": [
+    "Meaning and objectives of tillage",
+    "Types of tillage: primary, secondary and minimum/zero tillage",
+    "Tillage implements: ploughs, harrows, ridgers",
+    "Tillage depth, draft force and energy requirement",
+    "Planting and seeding machinery",
+    "Seed rate and plant population calculations",
+    "Harvesting machinery",
+    "Effects of tillage on soil properties"
+  ],
+  "modules": [
+    {
+      "title": "Objectives and Types of Tillage",
+      "html": "\n<h4>Meaning and Objectives of Tillage</h4>\n<p>Tillage is the mechanical manipulation of soil to create a favourable environment for seed germination, root development and crop growth. The objectives of tillage include loosening compacted soil, burying crop residues and weeds, improving aeration and infiltration, incorporating fertilizer and manure, controlling weeds and pests, and forming ridges, mounds or beds suited to particular crops.</p>\n<h4>Primary Tillage</h4>\n<p>Primary tillage is the first and deepest tillage operation performed on virgin or previously cropped land, typically to a depth of 15&ndash;30 cm. It breaks up the soil, inverts and buries surface residues, and loosens the soil for subsequent operations. Common implements include the mouldboard plough, disc plough and chisel plough.</p>\n<h4>Secondary Tillage</h4>\n<p>Secondary tillage follows primary tillage and involves shallower operations (5&ndash;10 cm) to break clods, level the field, and create a fine seedbed. Implements include disc harrows, spike-tooth harrows and rotary cultivators/rotavators.</p>\n<h4>Minimum and Zero Tillage</h4>\n<p>Minimum tillage involves reducing the number of tillage operations to the minimum necessary for successful crop establishment, while zero (no) tillage involves planting directly into undisturbed soil, often with herbicide use for weed control. These conservation tillage systems reduce soil erosion, conserve soil moisture, save energy and time, and preserve soil structure and organic matter, though they may require specialised planting equipment and effective weed management.</p>\n<table class=\"tb-table\">\n<tr><th>Tillage type</th><th>Depth</th><th>Common implement</th></tr>\n<tr><td>Primary tillage</td><td>15–30 cm</td><td>Mouldboard/disc plough</td></tr>\n<tr><td>Secondary tillage</td><td>5–10 cm</td><td>Disc harrow, rotavator</td></tr>\n<tr><td>Zero tillage</td><td>Minimal/none</td><td>No-till planter, herbicide</td></tr>\n</table>\n<h4>Factors Affecting Choice of Tillage System</h4>\n<p>The choice between conventional, minimum and zero tillage depends on several interacting factors including soil type, topography, crop to be grown, climate, cost of implements, availability of herbicides, and the farmer's level of mechanisation. Heavy clay soils in many parts of Nigeria often require deeper primary tillage to break compaction and improve drainage, while sandy loam soils may need only light tillage to avoid excessive erosion. On sloping land common in parts of the Middle Belt and southern Nigeria, farmers are advised to minimise tillage intensity and adopt contour tillage practices to reduce the risk of soil erosion during the rainy season.</p>\n<h4>Effects of Excessive or Improper Tillage</h4>\n<p>While tillage is necessary for good crop establishment, excessive or poorly timed tillage operations can be harmful to the soil. Over-tillage breaks down soil aggregates, destroys the natural soil structure, exposes organic matter to rapid decomposition, and increases the risk of wind and water erosion, especially when carried out on wet or very dry soils. Repeated ploughing at the same depth over many years can also create a compacted \"plough pan\" just below the tilled layer, which restricts root penetration and water infiltration in subsequent cropping seasons.</p>\n<h4>Timing of Tillage Operations</h4>\n<ul>\n<li>Tillage should be carried out when the soil moisture content is at field capacity, neither too wet (which causes compaction and smearing) nor too dry (which requires excessive power and produces large clods).</li>\n<li>Primary tillage is best done shortly before the onset of the rains to allow organic residues to decompose before planting.</li>\n<li>Secondary tillage should closely precede planting to reduce weed re-growth and moisture loss from the prepared seedbed.</li>\n</ul>\n<p>Careful attention to these factors ensures that tillage achieves its objectives of creating a favourable seedbed while conserving the long-term productivity of the soil resource, a key consideration for sustainable crop production across Nigerian and West African farming systems.</p>\n",
+      "examples": [
+        {
+          "q": "Explain two advantages of zero tillage compared to conventional tillage on erosion-prone sloping farmland.",
+          "a": "1) Zero tillage leaves crop residues and undisturbed soil structure on the surface, which reduces the impact of raindrops and slows down runoff, thereby minimizing soil erosion on slopes. 2) It conserves soil moisture by reducing evaporation losses that occur when soil is exposed and pulverised by conventional tillage, which is especially beneficial in erosion-prone, moisture-limited sloping land."
+        },
+        {
+          "q": "A farmer wants to prepare a fine seedbed after primary ploughing. Which implement should be used and at what approximate depth should it operate?",
+          "a": "A disc harrow (or rotavator) should be used for secondary tillage to break clods and produce a fine seedbed, operating at a shallow depth of about 5–10 cm, following the deeper primary ploughing operation."
+        }
+      ]
+    },
+    {
+      "title": "Tillage Implements and Draft Force",
+      "html": "\n<h4>Common Tillage Implements</h4>\n<p>The mouldboard plough cuts, lifts, turns and inverts a furrow slice, effectively burying residues and weeds. The disc plough uses concave discs suited to hard, dry or stony soils where mouldboard ploughs would struggle. Harrows (disc or spike-tooth) pulverise clods left after ploughing. Ridgers form ridges for crops like yam and cassava that require mounded planting, while rotavators combine cutting and mixing action in a single pass.</p>\n<h4>Draft Force and Energy Requirement</h4>\n<p>Draft force is the force required to pull a tillage implement through the soil, and it depends on soil type, implement type, working depth and width, and speed of operation. Draft force is estimated using:</p>\n$$ F = A \\times k $$\n<p>where \\(F\\) is the draft force (N), \\(A\\) is the cross-sectional area of the furrow slice (working width × depth, in cm&sup2; or m&sup2;), and \\(k\\) is the specific soil resistance (draft per unit cross-sectional area, N/cm&sup2; or N/m&sup2;), which varies with soil texture and moisture content (higher for clay soils, lower for sandy soils).</p>\n<p>The power required to pull the implement at a given speed is:</p>\n$$ P = F \\times v $$\n<p>where \\(v\\) is the forward speed of travel (m/s).</p>\n<h4>Effects of Tillage on Soil Properties</h4>\n<p>Excessive tillage, especially when soils are wet, can destroy soil structure, increase bulk density in the plough layer (forming a \"plough pan\"), accelerate organic matter decomposition and erosion. Appropriately timed and minimal tillage helps maintain soil structure, moisture and organic matter, supporting long-term soil health and crop productivity.</p>\n",
+      "examples": [
+        {
+          "q": "A mouldboard plough has a working width of 30 cm and operates at a depth of 20 cm. If the specific soil resistance is 6 N/cm^2, calculate the draft force required.",
+          "a": "Cross-sectional area A = width × depth = 30 × 20 = 600 cm^2. Draft force F = A × k = 600 × 6 = 3600 N."
+        },
+        {
+          "q": "If the plough from the previous example is pulled at a forward speed of 1 m/s, calculate the power required in kilowatts.",
+          "a": "Power P = F × v = 3600 × 1 = 3600 W = 3.6 kW."
+        }
+      ]
+    },
+    {
+      "title": "Planting, Seed Rate and Harvesting Machinery",
+      "html": "\n<h4>Planting and Seeding Machinery</h4>\n<p>Seeding can be done by broadcasting, dibbling, drilling (using seed drills) or precision planting (using planters that place seeds at accurate spacing and depth). Mechanical planters improve uniformity of plant stand, reduce seed wastage and labour requirements compared to manual planting.</p>\n<h4>Seed Rate and Plant Population Calculations</h4>\n<p>Plant population per hectare is calculated using the spacing between and within rows:</p>\n$$ \\text{Plant population/ha} = \\frac{10{,}000\\ \\text{m}^2}{\\text{Row spacing (m)} \\times \\text{Plant spacing (m)}} $$\n<p>Seed rate (kg/ha) depends on plant population, number of seeds per hole, and the weight of 1000 seeds (thousand seed weight, TSW):</p>\n$$ \\text{Seed rate (kg/ha)} = \\frac{\\text{Plant population} \\times \\text{seeds/hole} \\times \\text{TSW (g)}}{1000 \\times 1000} $$\n<h4>Harvesting Machinery</h4>\n<p>Harvesting machines range from simple hand-held sickles and knives to combine harvesters that cut, thresh and clean grain in a single pass. Combine harvesters are efficient for cereals like maize, rice and wheat on large mechanized farms, while root crop harvesters (lifters) are used for crops like cassava and yam. Mechanized harvesting reduces post-harvest losses when properly timed and operated, but requires level fields and uniform crop maturity for best performance.</p>\n<h4>Comparative Advantages of Mechanized Harvesting</h4>\n<ul>\n<li>Reduces harvesting time significantly compared to manual labour.</li>\n<li>Minimizes grain shattering losses when timed correctly at optimum moisture content.</li>\n<li>Requires trained operators and regular maintenance to avoid breakdowns during peak harvest period.</li>\n</ul>\n<h4>Factors Affecting Choice of Planting and Harvesting Machinery</h4>\n<p>The selection of appropriate planting and harvesting machinery depends on the type of crop, scale of production, terrain, availability of capital, and level of technical skill of the farm operators. Smallholder farmers in most parts of Nigeria still rely on manual planting methods such as dibbling with a hoe or cutlass, while medium and large-scale commercial farms increasingly adopt animal-drawn or tractor-mounted planters to achieve uniform spacing, correct planting depth and reduced labour costs. Similarly, the choice between hand harvesting tools and mechanised harvesters depends on farm size, crop type, and whether the crop matures uniformly across the field.</p>\n<h4>Worked Example on Seed Rate Calculation</h4>\n<p>Suppose maize is planted at a spacing of \\(0.75\\) m between rows and \\(0.25\\) m within rows, with two seeds sown per hole and a thousand seed weight of \\(300\\) g. The plant population per hectare is \\(\\dfrac{10{,}000}{0.75 \times 0.25} = 53{,}333\\) stands per hectare. The corresponding seed rate is \\(\\dfrac{53{,}333 \times 2 \times 300}{1{,}000{,}000} \u0007pprox 32\\) kg/ha. Such calculations enable farmers and agricultural extension officers to accurately estimate the quantity of seed needed for a given farm size, preventing both wastage from over-ordering and yield loss from under-planting.</p>\n<h4>Advantages and Limitations of Mechanised Planting and Harvesting</h4>\n<ul>\n<li>Mechanised operations save time and reduce drudgery, allowing timely planting and harvesting that improves yield and quality.</li>\n<li>They require substantial capital investment, regular maintenance, and skilled operators, which may not be readily available to smallholder farmers.</li>\n<li>Combine harvesters and planters perform best on large, level, cleared fields, making them less suitable for the fragmented and often undulating farmlands typical of many rural communities in Nigeria.</li>\n</ul>\n<p>A sound understanding of both the mechanical and calculation aspects of planting and harvesting operations is therefore essential for effective farm management and for success in WAEC and NECO agricultural science examinations.</p>\n",
+      "examples": [
+        {
+          "q": "A maize farmer plants at a spacing of 0.75 m between rows and 0.25 m within rows. Calculate the plant population per hectare.",
+          "a": "Plant population/ha = 10,000/(0.75 × 0.25) = 10,000/0.1875 = 53,333 plants/ha (approximately)."
+        },
+        {
+          "q": "Using the plant population from the previous example, if 2 seeds are planted per hole and the thousand seed weight (TSW) of maize is 300 g, calculate the seed rate in kg/ha.",
+          "a": "Seed rate = (Plant population × seeds/hole × TSW)/(1000×1000) = (53,333 × 2 × 300)/1,000,000 = 32,000,000/1,000,000 = 32 kg/ha (approximately)."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Tillage is best defined as",
+      "options": [
+        "the harvesting of mature crops",
+        "mechanical manipulation of soil for crop growth",
+        "the application of fertilizer",
+        "the storage of farm produce"
+      ],
+      "answer": "1",
+      "solution": "Tillage refers to mechanical operations performed on soil to prepare a favourable seedbed for crops."
+    },
+    {
+      "q": "Which implement is commonly used for primary tillage?",
+      "options": [
+        "Spike-tooth harrow",
+        "Rotavator",
+        "Mouldboard plough",
+        "Seed drill"
+      ],
+      "answer": "2",
+      "solution": "The mouldboard plough is the classic primary tillage implement used to invert and break up soil to a considerable depth."
+    },
+    {
+      "q": "Secondary tillage is typically carried out at a depth of",
+      "options": [
+        "1–3 cm",
+        "5–10 cm",
+        "15–30 cm",
+        "30–50 cm"
+      ],
+      "answer": "1",
+      "solution": "Secondary tillage is shallower than primary tillage, typically 5–10 cm, to break clods and level the seedbed."
+    },
+    {
+      "q": "Zero tillage mainly helps to reduce",
+      "options": [
+        "crop yield",
+        "soil erosion",
+        "weed growth automatically",
+        "the need for herbicides"
+      ],
+      "answer": "1",
+      "solution": "Zero tillage leaves soil undisturbed with residue cover, significantly reducing soil erosion."
+    },
+    {
+      "q": "Draft force required to pull a tillage implement is calculated as",
+      "options": [
+        "F = A/k",
+        "F = A × k",
+        "F = A + k",
+        "F = k/A"
+      ],
+      "answer": "1",
+      "solution": "Draft force equals cross-sectional area of the furrow slice multiplied by the specific soil resistance (F = A × k)."
+    },
+    {
+      "q": "A plough with 25 cm width and 15 cm depth in soil with specific resistance 5 N/cm2 has a draft force of",
+      "options": [
+        "375 N",
+        "1875 N",
+        "3750 N",
+        "18750 N"
+      ],
+      "answer": "1",
+      "solution": "A = 25×15 = 375 cm². F = A×k = 375×5 = 1875 N."
+    },
+    {
+      "q": "Which implement is best suited for hard, dry or stony soils compared to a mouldboard plough?",
+      "options": [
+        "Disc plough",
+        "Spike-tooth harrow",
+        "Seed drill",
+        "Ridger"
+      ],
+      "answer": "0",
+      "solution": "Disc ploughs use rotating concave discs that can handle hard, dry or stony soil conditions better than mouldboard ploughs."
+    },
+    {
+      "q": "Ridgers are mainly used to prepare land for crops such as",
+      "options": [
+        "maize and rice",
+        "yam and cassava",
+        "wheat and barley",
+        "soybean only"
+      ],
+      "answer": "1",
+      "solution": "Ridgers form mounds/ridges especially suited to root and tuber crops like yam and cassava."
+    },
+    {
+      "q": "The formula for plant population per hectare is",
+      "options": [
+        "(Row spacing × Plant spacing)/10,000",
+        "10,000/(Row spacing × Plant spacing)",
+        "10,000 × Row spacing × Plant spacing",
+        "Row spacing/Plant spacing"
+      ],
+      "answer": "1",
+      "solution": "Plant population per hectare = 10,000 m² divided by the product of row spacing and plant spacing in metres."
+    },
+    {
+      "q": "A crop planted at 1 m × 1 m spacing has a plant population per hectare of",
+      "options": [
+        "5,000",
+        "10,000",
+        "15,000",
+        "20,000"
+      ],
+      "answer": "1",
+      "solution": "Population = 10,000/(1×1) = 10,000 plants/ha."
+    },
+    {
+      "q": "Seed rate calculation requires which of the following pieces of information?",
+      "options": [
+        "Plant population, seeds per hole and thousand seed weight",
+        "Soil pH only",
+        "Tractor horsepower only",
+        "Field efficiency only"
+      ],
+      "answer": "0",
+      "solution": "Seed rate depends on the desired plant population, number of seeds sown per hole, and the thousand seed weight of the crop."
+    },
+    {
+      "q": "Combine harvesters are most efficient for harvesting",
+      "options": [
+        "cassava tubers",
+        "cereal grains like maize and rice",
+        "fruit trees",
+        "vegetables only"
+      ],
+      "answer": "1",
+      "solution": "Combine harvesters are designed to cut, thresh and clean cereal grains such as maize, rice and wheat in one pass."
+    },
+    {
+      "q": "Excessive tillage on wet soil commonly leads to",
+      "options": [
+        "improved soil structure",
+        "formation of a plough pan and compaction",
+        "increased organic matter",
+        "reduced bulk density"
+      ],
+      "answer": "1",
+      "solution": "Tilling wet soil compacts the layer just below tillage depth, forming a hardpan (plough pan) and increasing bulk density."
+    },
+    {
+      "q": "Minimum tillage systems are valued mainly because they",
+      "options": [
+        "require more fuel and labour",
+        "conserve soil moisture and reduce erosion",
+        "eliminate the need for planting equipment",
+        "increase soil compaction"
+      ],
+      "answer": "1",
+      "solution": "Minimum tillage reduces the number of operations, thereby conserving moisture, saving energy, and reducing erosion risk."
+    },
+    {
+      "q": "The power required to pull an implement is calculated as",
+      "options": [
+        "P = F/v",
+        "P = F × v",
+        "P = v/F",
+        "P = F − v"
+      ],
+      "answer": "1",
+      "solution": "Power equals draft force multiplied by the forward speed of travel (P = F × v)."
+    },
+    {
+      "q": "A tillage implement with draft force 4000 N pulled at 1.2 m/s requires a power of",
+      "options": [
+        "3333 W",
+        "4000 W",
+        "4800 W",
+        "5200 W"
+      ],
+      "answer": "2",
+      "solution": "P = F × v = 4000 × 1.2 = 4800 W."
+    },
+    {
+      "q": "Which of the following is an advantage of precision planters over manual planting?",
+      "options": [
+        "Higher seed wastage",
+        "Greater uniformity of plant stand and reduced labour",
+        "Inability to control planting depth",
+        "Requirement for more seeds per hole"
+      ],
+      "answer": "1",
+      "solution": "Precision planters place seeds at uniform spacing and depth, improving stand uniformity and reducing seed and labour requirements."
+    }
+  ]
+}

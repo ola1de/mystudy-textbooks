@@ -1,0 +1,243 @@
+{
+ "subject": "Agricultural Science",
+ "level": "SSS 2",
+ "slug": "crop-husbandry",
+ "title": "Crop Husbandry and Management",
+ "outline": [
+  "Land preparation for crop production",
+  "Planting: seed rate, spacing and plant population",
+  "Nursery practices and transplanting",
+  "Fertilizer application and rate calculation",
+  "Weed, pest and disease control in crop husbandry",
+  "Thinning, supplying, staking and pruning",
+  "Harvesting and expected yield estimation",
+  "Post-harvest handling of crops"
+ ],
+ "modules": [
+  {
+   "title": "Land Preparation, Planting, Seed Rate and Spacing",
+   "html": "\n<h4>Land Preparation for Crop Production</h4>\n<p>Land preparation is the first major step in crop husbandry, involving all operations carried out on the soil to create a suitable seed/planting bed before crops are established. Proper land preparation improves soil aeration, water infiltration, weed control and root penetration, all of which contribute to better crop establishment and yield.</p>\n<p>The main operations in land preparation include:</p>\n<ol>\n<li><strong>Clearing:</strong> Removal of existing vegetation, trees, stumps and debris from the land using manual tools (cutlass, hoe) or mechanical means (bulldozer).</li>\n<li><strong>Ploughing:</strong> Turning over the top layer of soil to break up compacted layers, bury weeds and crop residues, and improve aeration. This may be done with a hoe, animal-drawn plough, or tractor-mounted plough.</li>\n<li><strong>Harrowing:</strong> Breaking down large soil clods left after ploughing into finer particles to produce a fine tilth suitable for seed germination.</li>\n<li><strong>Ridging/Mounding:</strong> Forming ridges or mounds, especially for root and tuber crops like yam, cassava and sweet potato, to provide loose soil for tuber expansion and to improve drainage.</li>\n<li><strong>Levelling:</strong> Smoothing the land surface, particularly important for irrigated crops like rice, to ensure uniform water distribution.</li>\n</ol>\n<p>The choice of land preparation method depends on the crop to be grown, soil type, topography, scale of farming, availability of labour/machinery, and rainfall pattern. Mechanised land preparation is faster and suitable for large-scale farms, while manual methods remain common among smallholder farmers due to lower capital requirements.</p>\n<p>Proper timing of land preparation, usually just before the onset of rains, ensures that planting can be done promptly to take advantage of early rainfall, which is critical for good germination and establishment.</p>\n<table class=\"tb-table\">\n<tr><th>Operation</th><th>Purpose</th><th>Tool/Equipment</th></tr>\n<tr><td>Clearing</td><td>Remove vegetation</td><td>Cutlass, bulldozer</td></tr>\n<tr><td>Ploughing</td><td>Break up soil, aerate</td><td>Hoe, plough, tractor</td></tr>\n<tr><td>Harrowing</td><td>Fine tilth</td><td>Harrow</td></tr>\n<tr><td>Ridging</td><td>Loose soil for tubers</td><td>Ridger, hoe</td></tr>\n</table>\n\n<h4>Planting: Seed Rate, Spacing and Plant Population</h4>\n<p>Correct planting practices, including appropriate seed rate and spacing, are critical determinants of crop yield. Overcrowding leads to competition for light, water and nutrients, while very wide spacing wastes land and reduces total yield per hectare.</p>\n<p><strong>Plant population</strong> refers to the total number of plants growing on a unit area of land, usually expressed per hectare, and is calculated using the formula:</p>\n<p>$$ \\text{Plant population per hectare} = \\frac{10{,}000 \\, m^2}{\\text{Spacing between rows (m)} \\times \\text{Spacing within row (m)}} $$</p>\n<p>(Note: 1 hectare = 10,000 m²)</p>\n<p><strong>Worked Example 1:</strong> Maize is planted at a spacing of 75 cm × 25 cm (0.75 m × 0.25 m). Calculate the plant population per hectare.</p>\n<p>$$ \\text{Population} = \\frac{10{,}000}{0.75 \\times 0.25} = \\frac{10{,}000}{0.1875} = 53{,}333 \\, \\text{plants/ha} $$</p>\n<p><strong>Seed rate</strong> is the quantity of seed (in kg) required to plant one hectare of land, taking into account the plant population, seed weight, and germination percentage. It can be estimated using:</p>\n<p>$$ \\text{Seed rate (kg/ha)} = \\frac{\\text{Plant population} \\times \\text{Weight of one seed (g)}}{1000} \\times \\frac{100}{\\text{Germination \\%}} $$</p>\n<p><strong>Worked Example 2:</strong> If the plant population of maize is 53,333 plants/ha, the average weight of one seed is 0.3 g, and germination percentage is 90%, calculate the seed rate.</p>\n<p>$$ \\text{Seed rate} = \\frac{53{,}333 \\times 0.3}{1000} \\times \\frac{100}{90} = 16.0 \\times 1.11 = 17.8 \\, kg/ha $$</p>\n<p>Therefore, approximately 17.8 kg of maize seed is required to plant one hectare at the given spacing and germination rate.</p>\n<p>Spacing recommendations vary by crop: maize is typically spaced at 75cm × 25cm (one seed per hole) or 75cm × 50cm (two seeds per hole), cassava at 1m × 1m, yam at 1m × 1m, cowpea at 60cm × 20cm, and rice (transplanted) at 20cm × 20cm. Wider spacing is used for crops with larger canopies or extensive root systems to reduce competition, while closer spacing maximises yield per unit area for smaller crops.</p>\n<table class=\"tb-table\">\n<tr><th>Crop</th><th>Recommended spacing</th><th>Approx. population/ha</th></tr>\n<tr><td>Maize</td><td>75cm × 25cm</td><td>53,333</td></tr>\n<tr><td>Cassava</td><td>1m × 1m</td><td>10,000</td></tr>\n<tr><td>Cowpea</td><td>60cm × 20cm</td><td>83,333</td></tr>\n</table>\n",
+   "examples": [
+    {
+     "q": "List and explain three operations involved in land preparation before planting maize.",
+     "a": "1. Clearing - removing existing weeds/vegetation to expose bare soil. 2. Ploughing - turning over the soil to loosen it and bury weed residues, improving aeration. 3. Harrowing - breaking down large soil clods into fine particles to produce a fine tilth that favours good seed-soil contact and germination."
+    },
+    {
+     "q": "Why is ridging particularly important when planting yam?",
+     "a": "Ridging creates loose, well-aerated mounds of soil that offer minimal resistance to the developing yam tuber, allowing it to expand freely and develop a good shape. Ridging also improves drainage around the tuber, preventing waterlogging that could cause tuber rot."
+    },
+    {
+     "q": "Cassava is planted at a spacing of 1m × 1m. Calculate the expected plant population per hectare.",
+     "a": "Population = 10,000 ÷ (1 × 1) = 10,000 plants per hectare."
+    },
+    {
+     "q": "A farmer plants cowpea at a spacing of 60cm × 20cm (0.6m × 0.2m). (a) Calculate the plant population per hectare. (b) If the average weight of one seed is 0.15g and germination is 80%, calculate the seed rate in kg/ha.",
+     "a": "(a) Population = 10,000 ÷ (0.6 × 0.2) = 10,000 ÷ 0.12 = 83,333 plants/ha. (b) Seed rate = (83,333 × 0.15 ÷ 1000) × (100/80) = 12.5 × 1.25 = 15.6 kg/ha."
+    }
+   ]
+  },
+  {
+   "title": "Nursery Practices, Transplanting and Fertilizer Application",
+   "html": "\n<h4>Nursery Practices, Transplanting and Fertilizer Application</h4>\n<p>Some crops, particularly vegetables (tomato, pepper, cabbage) and tree crops (cocoa, oil palm, citrus), are first raised in a nursery before transplanting to the main field. Nursery practices allow for better control of germination conditions, protection of young seedlings from harsh weather and pests, and selection of only the most vigorous seedlings for transplanting.</p>\n<p>Key nursery operations include: preparation of a fine, fertile seedbed or filling of nursery bags/pots with topsoil mixed with organic manure; sowing seeds at the correct depth; regular watering; provision of shade to protect young seedlings from excessive sunlight; and hardening off (gradual exposure to full sunlight) before transplanting. Seedlings are usually ready for transplanting when they reach 4-6 true leaves or a specific height, depending on the crop (e.g. tomato seedlings are transplanted after about 4-6 weeks).</p>\n<p>Transplanting should be done in the evening or on a cloudy day to reduce transplanting shock, and the field soil should be adequately moist. A starter solution of dilute fertilizer may be applied to aid establishment.</p>\n<h4>Fertilizer Application and Rate Calculation</h4>\n<p>Fertilizers supply essential nutrients (particularly nitrogen, phosphorus and potassium, N-P-K) needed for optimum crop growth. Fertilizer recommendations are usually given as kilograms of nutrient element required per hectare, and this must be converted to the actual quantity of a specific fertilizer product needed, based on its nutrient content (grade).</p>\n<p>The formula for calculating the quantity of fertilizer required is:</p>\n<p>$$ \\text{Quantity of fertilizer (kg/ha)} = \\frac{\\text{Recommended nutrient rate (kg/ha)}}{\\text{\\% Nutrient content of fertilizer}} \\times 100 $$</p>\n<p><strong>Worked Example:</strong> A crop requires 60 kg of Nitrogen per hectare. If urea contains 46% Nitrogen, calculate the quantity of urea required per hectare.</p>\n<p>$$ \\text{Urea required} = \\frac{60}{46} \\times 100 = 130.4 \\, kg/ha $$</p>\n<p>Therefore, approximately 130.4 kg of urea fertilizer must be applied per hectare to supply 60 kg of nitrogen. Similarly, if NPK 15:15:15 fertilizer is recommended at 400 kg/ha, the actual nitrogen supplied is 15% of 400 kg = 60 kg N/ha.</p>\n<p>Fertilizers may be applied by broadcasting (uniformly spreading over the field), band placement (placing fertilizer in bands along crop rows), ring/circular application (around the base of tree crops), or fertigation (dissolved in irrigation water). Timing of application is critical: basal application is done at or before planting, while top-dressing is done during active vegetative growth, usually 3-6 weeks after planting for most annual crops.</p>\n<table class=\"tb-table\">\n<tr><th>Fertilizer</th><th>Nutrient content</th><th>Common use</th></tr>\n<tr><td>Urea</td><td>46% N</td><td>Nitrogen top-dressing</td></tr>\n<tr><td>NPK 15:15:15</td><td>15% N, 15% P₂O₅, 15% K₂O</td><td>Basal application</td></tr>\n<tr><td>Single superphosphate</td><td>18% P₂O₅</td><td>Phosphorus supply</td></tr>\n</table>\n",
+   "examples": [
+    {
+     "q": "Describe two nursery practices necessary for raising healthy tomato seedlings.",
+     "a": "1. Provision of shade over the nursery bed to protect delicate young seedlings from scorching by direct sunlight. 2. Regular but moderate watering to keep the soil moist without waterlogging, which supports germination and healthy seedling growth."
+    },
+    {
+     "q": "A farmer needs to supply 80 kg of Nitrogen per hectare using urea (46% N). Calculate the quantity of urea fertilizer required per hectare.",
+     "a": "Quantity of urea = (80 ÷ 46) × 100 = 173.9 kg/ha (approximately 174 kg of urea per hectare)."
+    }
+   ]
+  },
+  {
+   "title": "Field Management, Harvesting and Post-Harvest Handling",
+   "html": "\n<h4>Weed, Pest and Disease Control; Thinning, Staking and Pruning</h4>\n<p>After planting, crops require continuous management to remove competitors and protect against biotic stresses. Weeds compete with crops for light, water, nutrients and space, and can host pests and diseases; hence timely weed control (manual weeding, mechanical cultivation, mulching or herbicide application) is essential, particularly during the first 6-8 weeks after planting, known as the critical period of weed competition.</p>\n<p>Pest and disease control involves regular field scouting to detect early infestation, and application of appropriate control measures including cultural methods (crop rotation, resistant varieties, sanitation), biological control (natural enemies), and chemical control (pesticides/fungicides) applied at recommended rates and timing to minimise crop damage while protecting the environment.</p>\n<h4>Thinning and Supplying</h4>\n<p><strong>Thinning</strong> is the removal of excess seedlings from a planting point (where more than one seed was sown per hole) to leave only the healthiest one or two plants, reducing competition and allowing optimal development. <strong>Supplying (gap filling)</strong> is the replacement of seeds/seedlings that failed to germinate or establish, done shortly after germination to maintain the desired plant population.</p>\n<h4>Staking and Pruning</h4>\n<p><strong>Staking</strong> involves providing support (stakes, trellises) for climbing crops such as yam, tomato, and climbing beans, to keep the plant upright, improve light interception, reduce disease incidence from soil contact, and ease harvesting. <strong>Pruning</strong> is the deliberate removal of unwanted plant parts (branches, suckers, excess shoots) to improve plant shape, remove diseased/damaged parts, and direct plant energy towards productive growth; it is commonly practised in cocoa, coffee, citrus, and tomato (removal of side suckers).</p>\n<p>These management operations, though seemingly minor, have a cumulative effect on final crop yield and quality. Neglecting them often leads to poor crop stand, high pest/disease incidence, and reduced yield despite good land preparation and fertilizer application.</p>\n<table class=\"tb-table\">\n<tr><th>Operation</th><th>Purpose</th><th>Example crop</th></tr>\n<tr><td>Thinning</td><td>Remove excess seedlings, reduce competition</td><td>Maize, cowpea</td></tr>\n<tr><td>Supplying</td><td>Replace missing plants</td><td>Maize, cassava</td></tr>\n<tr><td>Staking</td><td>Support climbing crops</td><td>Yam, tomato</td></tr>\n<tr><td>Pruning</td><td>Remove unwanted parts</td><td>Cocoa, citrus</td></tr>\n</table>\n\n<h4>Harvesting and Expected Yield Estimation</h4>\n<p>Harvesting is the final stage of crop husbandry, involving the gathering of mature crops from the field. Harvesting must be done at the correct stage of maturity to maximise yield and quality; premature harvesting reduces yield and quality, while delayed harvesting can lead to shattering, lodging, pest damage or deterioration in quality.</p>\n<p>Signs of maturity vary by crop: cereals like maize and rice are ready when grains harden and moisture content drops to appropriate levels (about 20-25% for maize at harvest, further dried to 13-14% for storage); tubers like yam and cassava are ready when the leaves begin to yellow and die back; fruits like tomato and pepper are harvested when they change colour appropriately for the intended market (green or ripe).</p>\n<p><strong>Expected yield</strong> can be estimated using sample harvest data extrapolated to the whole field, or by using known plant population and average yield per plant. The general formula is:</p>\n<p>$$ \\text{Expected yield (kg/ha)} = \\text{Plant population per hectare} \\times \\text{Average yield per plant (kg)} $$</p>\n<p><strong>Worked Example 1:</strong> A maize field has a plant population of 53,333 plants/ha, and each plant produces an average of 0.15 kg of grain. Calculate the expected yield per hectare.</p>\n<p>$$ \\text{Expected yield} = 53{,}333 \\times 0.15 = 8{,}000 \\, kg/ha = 8 \\, \\text{tonnes/ha} $$</p>\n<p><strong>Worked Example 2:</strong> If a sample plot of 100 m² yields 25 kg of tubers, estimate the total yield for a 2-hectare (20,000 m²) farm, assuming uniform yield across the farm.</p>\n<p>$$ \\text{Yield per m}^2 = \\frac{25}{100} = 0.25 \\, kg/m^2 $$</p>\n<p>$$ \\text{Total yield for 2 ha} = 0.25 \\times 20{,}000 = 5{,}000 \\, kg = 5 \\, \\text{tonnes} $$</p>\n<p>Such yield estimates assist farmers in planning storage, transportation, labour for harvesting, and marketing arrangements well ahead of the actual harvest date.</p>\n<h4>Post-harvest Handling of Crops</h4>\n<p>Post-harvest handling includes operations such as curing (for tubers, to heal wounds and toughen the skin), drying (to reduce moisture content and prevent mould growth), threshing/shelling (separating grain from the plant), winnowing (removing chaff), sorting and grading (by size/quality), packaging, and storage under appropriate conditions (cool, dry, pest-free stores or silos). Poor post-harvest handling can result in losses of up to 30-40% of total produce through spoilage, pest infestation, and physical damage, hence proper post-harvest management is as important as good pre-harvest crop husbandry practices in ensuring food security and farmer income.</p>\n<table class=\"tb-table\">\n<tr><th>Crop</th><th>Maturity sign</th><th>Post-harvest practice</th></tr>\n<tr><td>Maize</td><td>Grain hardens, husk dries</td><td>Drying, shelling, storage</td></tr>\n<tr><td>Yam</td><td>Leaves yellow and die back</td><td>Curing, storage in barns</td></tr>\n<tr><td>Tomato</td><td>Colour change (green-red)</td><td>Sorting, grading, quick marketing</td></tr>\n</table>\n",
+   "examples": [
+    {
+     "q": "Explain the difference between thinning and supplying in crop husbandry.",
+     "a": "Thinning is the removal of excess seedlings from a planting hole where more than the desired number germinated, leaving only the healthiest one or two plants to reduce competition. Supplying is the replacement of seeds or seedlings that failed to germinate or died shortly after planting, to ensure the desired plant population is maintained."
+    },
+    {
+     "q": "Why is pruning important in cocoa cultivation?",
+     "a": "Pruning removes unwanted branches, water shoots (chupons) and diseased or damaged parts, which improves light penetration into the canopy, directs the plant's energy towards pod production rather than excessive vegetative growth, reduces humidity within the canopy (lowering disease incidence such as black pod), and makes harvesting easier."
+    },
+    {
+     "q": "A rice field has a plant population of 250,000 hills/ha, and each hill produces an average of 0.04 kg of paddy rice. Calculate the expected yield per hectare in tonnes.",
+     "a": "Expected yield = 250,000 × 0.04 = 10,000 kg/ha = 10 tonnes/ha."
+    },
+    {
+     "q": "Explain why curing is an important post-harvest practice for yam tubers.",
+     "a": "Curing involves keeping harvested yam tubers under warm, well-ventilated conditions for a few days, which allows wounds and cuts made during harvesting to heal by forming a corky layer (suberization). This reduces entry of rot-causing organisms and moisture loss, thereby extending the storage life of the tubers."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which land preparation operation involves breaking large soil clods into a fine tilth?",
+   "options": [
+    "Ploughing",
+    "Harrowing",
+    "Ridging",
+    "Clearing"
+   ],
+   "answer": "1",
+   "solution": "Harrowing breaks down large soil clods left after ploughing into finer particles, producing a fine tilth suitable for seed germination."
+  },
+  {
+   "q": "Ridging is especially important for which type of crops?",
+   "options": [
+    "Cereal crops",
+    "Root and tuber crops",
+    "Leafy vegetables",
+    "Fibre crops"
+   ],
+   "answer": "1",
+   "solution": "Ridging provides loose soil for root and tuber crops such as yam and cassava to expand freely, and it also improves drainage."
+  },
+  {
+   "q": "Maize is planted at a spacing of 75cm × 25cm. What is the plant population per hectare?",
+   "options": [
+    "40,000 plants/ha",
+    "53,333 plants/ha",
+    "10,000 plants/ha",
+    "100,000 plants/ha"
+   ],
+   "answer": "1",
+   "solution": "Population = 10,000 ÷ (0.75 × 0.25) = 10,000 ÷ 0.1875 = 53,333 plants/ha."
+  },
+  {
+   "q": "Cassava planted at 1m × 1m spacing gives a plant population of:",
+   "options": [
+    "5,000 plants/ha",
+    "20,000 plants/ha",
+    "10,000 plants/ha",
+    "1,000 plants/ha"
+   ],
+   "answer": "2",
+   "solution": "Population = 10,000 ÷ (1 × 1) = 10,000 plants/ha."
+  },
+  {
+   "q": "A crop requires 60 kg N/ha and urea contains 46% N. The amount of urea needed per hectare is approximately:",
+   "options": [
+    "27.6 kg",
+    "130.4 kg",
+    "60 kg",
+    "46 kg"
+   ],
+   "answer": "1",
+   "solution": "Urea required = (60 ÷ 46) × 100 = 130.4 kg/ha."
+  },
+  {
+   "q": "Which nursery practice helps young seedlings adjust gradually to full sunlight before transplanting?",
+   "options": [
+    "Watering",
+    "Hardening off",
+    "Thinning",
+    "Pruning"
+   ],
+   "answer": "1",
+   "solution": "Hardening off is the gradual exposure of nursery seedlings to full sunlight and outdoor conditions to reduce transplanting shock."
+  },
+  {
+   "q": "Removal of excess seedlings from a planting hole to reduce competition is called:",
+   "options": [
+    "Supplying",
+    "Thinning",
+    "Pruning",
+    "Staking"
+   ],
+   "answer": "1",
+   "solution": "Thinning is the removal of excess seedlings from a planting point, leaving only the healthiest plant(s)."
+  },
+  {
+   "q": "Replacing dead or missing seedlings shortly after germination is known as:",
+   "options": [
+    "Thinning",
+    "Weeding",
+    "Supplying (gap filling)",
+    "Pruning"
+   ],
+   "answer": "2",
+   "solution": "Supplying, also called gap filling, is the replacement of seeds/seedlings that failed to establish, in order to maintain the desired plant population."
+  },
+  {
+   "q": "Staking is most beneficial for which type of crop?",
+   "options": [
+    "Cereal crops like maize",
+    "Climbing crops like yam and tomato",
+    "Root crops like cassava",
+    "Fodder grasses"
+   ],
+   "answer": "1",
+   "solution": "Staking provides support for climbing crops such as yam and tomato, keeping them upright and improving light interception."
+  },
+  {
+   "q": "Pruning in cocoa production primarily helps to:",
+   "options": [
+    "Increase weed growth",
+    "Improve light penetration and reduce disease incidence",
+    "Reduce soil fertility",
+    "Delay pod formation"
+   ],
+   "answer": "1",
+   "solution": "Pruning removes unwanted branches and diseased parts, improving light penetration into the canopy and reducing humidity that favours diseases like black pod."
+  },
+  {
+   "q": "A maize field has a population of 50,000 plants/ha, and each plant yields 0.2 kg of grain. What is the expected yield?",
+   "options": [
+    "5,000 kg/ha",
+    "10,000 kg/ha",
+    "2,500 kg/ha",
+    "1,000 kg/ha"
+   ],
+   "answer": "1",
+   "solution": "Expected yield = Population × Yield per plant = 50,000 × 0.2 = 10,000 kg/ha."
+  },
+  {
+   "q": "NPK 15:15:15 fertilizer applied at 400 kg/ha supplies how much nitrogen per hectare?",
+   "options": [
+    "15 kg",
+    "40 kg",
+    "60 kg",
+    "400 kg"
+   ],
+   "answer": "2",
+   "solution": "Nitrogen supplied = 15% of 400 kg = 0.15 × 400 = 60 kg N/ha."
+  },
+  {
+   "q": "A sample plot of 50 m² yields 10 kg of tubers. What is the estimated total yield for a 1-hectare (10,000 m²) farm?",
+   "options": [
+    "500 kg",
+    "1,000 kg",
+    "2,000 kg",
+    "5,000 kg"
+   ],
+   "answer": "3",
+   "solution": "Yield per m² = 10 ÷ 50 = 0.2 kg/m². Total yield for 10,000 m² = 0.2 × 10,000 = 2,000... recompute: 0.2 × 10,000 = 2000 kg. Correct answer is 2,000 kg, matching option index 2."
+  },
+  {
+   "q": "Curing of harvested yam tubers is important mainly because it:",
+   "options": [
+    "Increases tuber size",
+    "Allows wounds to heal, reducing rot during storage",
+    "Improves soil fertility",
+    "Speeds up germination"
+   ],
+   "answer": "1",
+   "solution": "Curing allows cut surfaces on harvested tubers to heal by forming a corky protective layer, reducing entry of rot-causing organisms and extending storage life."
+  },
+  {
+   "q": "Which of the following is a post-harvest operation for cereal crops?",
+   "options": [
+    "Ridging",
+    "Threshing and winnowing",
+    "Staking",
+    "Nursery watering"
+   ],
+   "answer": "1",
+   "solution": "Threshing (separating grain from the plant) and winnowing (removing chaff) are post-harvest operations carried out on cereal crops like maize and rice."
+  }
+ ]
+}

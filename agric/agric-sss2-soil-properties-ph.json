@@ -1,0 +1,260 @@
+{
+  "subject": "Agricultural Science",
+  "level": "SSS 2",
+  "slug": "soil-properties-ph",
+  "title": "Physical and Chemical Properties of Soil",
+  "outline": [
+    "Soil as a medium for plant growth",
+    "Soil texture and textural classes",
+    "Soil structure and its agricultural significance",
+    "Soil density: bulk density and particle density",
+    "Soil porosity, aeration and water-holding capacity",
+    "Soil colour, temperature and consistency",
+    "Soil pH and its measurement",
+    "Chemical properties: CEC, organic matter and nutrient availability"
+  ],
+  "modules": [
+    {
+      "title": "Soil Texture and Structure",
+      "html": "\n<h4>Meaning of Soil Texture</h4>\n<p>Soil texture refers to the relative proportion of sand, silt and clay particles that make up the mineral fraction of soil. It is one of the most fundamental physical properties of soil because it influences water retention, aeration, drainage, nutrient-holding capacity and workability (tilth). Soil particles are classified by size according to internationally agreed limits: sand (2.0&ndash;0.05 mm), silt (0.05&ndash;0.002 mm) and clay (less than 0.002 mm).</p>\n<table class=\"tb-table\">\n<tr><th>Particle</th><th>Diameter (mm)</th><th>Feel</th></tr>\n<tr><td>Sand</td><td>2.0 &ndash; 0.05</td><td>Gritty</td></tr>\n<tr><td>Silt</td><td>0.05 &ndash; 0.002</td><td>Smooth, floury</td></tr>\n<tr><td>Clay</td><td>&lt; 0.002</td><td>Sticky when wet, hard when dry</td></tr>\n</table>\n<p>The textural class of a soil (e.g. sandy loam, clay loam, silty clay) is determined using a textural triangle once the percentages of sand, silt and clay are known from mechanical (particle-size) analysis. For example, a soil with 40% sand, 40% silt and 20% clay is classified as loam.</p>\n<h4>Soil Structure</h4>\n<p>Soil structure is the arrangement of individual soil particles into aggregates called peds. Common structural types include granular, crumb, blocky, platy, prismatic and columnar structures. Granular and crumb structures are most favourable for crop production because they allow free movement of water, air and roots.</p>\n<ul>\n<li><strong>Granular structure:</strong> Small, rounded aggregates typical of surface soils rich in organic matter.</li>\n<li><strong>Blocky structure:</strong> Cube-like aggregates common in subsoils.</li>\n<li><strong>Platy structure:</strong> Flat, plate-like aggregates that impede water and root movement; often caused by compaction.</li>\n<li><strong>Prismatic/columnar structure:</strong> Vertical, pillar-like aggregates common in subsoils of arid regions.</li>\n</ul>\n<h4>Determining Percentage Composition</h4>\n<p>In mechanical analysis, the mass of each separate is expressed as a percentage of the total sample mass:</p>\n$$ \\%\\,\\text{sand} = \\frac{\\text{mass of sand}}{\\text{total mass of soil sample}} \\times 100 $$\n<p>This principle is applied identically to silt and clay fractions, and the three percentages must sum to 100%.</p>\n<h4>Agricultural Importance</h4>\n<p>Farmers improve poor soil structure by adding organic manure, practising minimum tillage, avoiding farming on wet soils, and using cover crops. Good structure enhances root penetration, infiltration and microbial activity, all of which increase yield.</p>\n",
+      "examples": [
+        {
+          "q": "A 500 g soil sample yields 200 g sand, 150 g silt and 150 g clay after sedimentation analysis. Calculate the percentage of each fraction and classify the soil.",
+          "a": "Percentage sand = (200/500)×100 = 40%. Percentage silt = (150/500)×100 = 30%. Percentage clay = (150/500)×100 = 30%. Using the textural triangle, 40% sand, 30% silt and 30% clay classifies as a clay loam."
+        },
+        {
+          "q": "Explain why a granular structure is more desirable for crop production than a platy structure.",
+          "a": "Granular structure has rounded, loosely packed aggregates with large pore spaces that permit free infiltration of water, exchange of gases and easy root penetration. Platy structure consists of horizontally oriented plates that restrict vertical water movement and root growth, often leading to waterlogging and poor aeration, hence lower crop performance."
+        }
+      ]
+    },
+    {
+      "title": "Soil Density and Porosity",
+      "html": "\n<h4>Particle Density and Bulk Density</h4>\n<p>Particle density (\\(\\rho_s\\)) is the mass of soil solids per unit volume of solids only, excluding pore spaces. It is fairly constant for mineral soils at about \\(2.65\\ \\text{g/cm}^3\\). Bulk density (\\(\\rho_b\\)) is the mass of dry soil per unit volume of the soil including pore spaces, and is calculated as:</p>\n$$ \\rho_b = \\frac{M_s}{V_t} $$\n<p>where \\(M_s\\) is the mass of oven-dried soil and \\(V_t\\) is the total volume of the soil sample (solids + pores). Bulk density is affected by texture, structure, organic matter content and compaction. Sandy soils typically have higher bulk density (1.3&ndash;1.8 g/cm&sup3;) than clayey soils (1.0&ndash;1.3 g/cm&sup3;) because sandy soils have less pore space in aggregate form but larger individual particles that pack differently.</p>\n<h4>Soil Porosity</h4>\n<p>Porosity (\\(f\\)) is the fraction of the total soil volume occupied by pore spaces (air and water). It is derived from bulk and particle density using:</p>\n$$ f = 1 - \\frac{\\rho_b}{\\rho_s} $$\n<p>Porosity can also be expressed as a percentage by multiplying by 100. High total porosity is generally desirable, but the distribution between macropores (aeration, drainage) and micropores (water retention) matters even more than total porosity.</p>\n<table class=\"tb-table\">\n<tr><th>Soil type</th><th>Typical bulk density (g/cm&sup3;)</th><th>Typical porosity (%)</th></tr>\n<tr><td>Sandy soil</td><td>1.60</td><td>40</td></tr>\n<tr><td>Loam soil</td><td>1.35</td><td>49</td></tr>\n<tr><td>Clay soil</td><td>1.15</td><td>57</td></tr>\n</table>\n<h4>Water-Holding Capacity and Aeration</h4>\n<p>Water-holding capacity depends on the total pore volume and pore-size distribution. Clay soils hold more water but drain slowly and may become waterlogged, reducing oxygen supply to roots. Sandy soils drain quickly, provide good aeration, but have low water-holding capacity and require more frequent irrigation.</p>\n<ul>\n<li>Compaction from heavy machinery increases bulk density and reduces porosity.</li>\n<li>Organic matter addition reduces bulk density and increases porosity by promoting aggregation.</li>\n<li>Farmers should avoid tillage operations on wet soils to prevent compaction.</li>\n</ul>\n",
+      "examples": [
+        {
+          "q": "A soil sample has a mass of 260 g when oven-dried and occupies a total volume of 200 cm&sup3;. If the particle density is 2.65 g/cm&sup3;, calculate the bulk density and porosity of the soil.",
+          "a": "Bulk density = M_s/V_t = 260/200 = 1.30 g/cm^3. Porosity f = 1 - (ρb/ρs) = 1 - (1.30/2.65) = 1 - 0.4906 = 0.5094, i.e. approximately 50.9%."
+        },
+        {
+          "q": "A clay soil has bulk density 1.15 g/cm^3 and particle density 2.65 g/cm^3. A sandy soil has bulk density 1.60 g/cm^3 with the same particle density. Compare their porosities and explain the agronomic implication.",
+          "a": "Clay porosity = 1 - (1.15/2.65) = 0.566 = 56.6%. Sandy porosity = 1 - (1.60/2.65) = 0.396 = 39.6%. The clay soil has higher total porosity dominated by micropores, giving it greater water-holding capacity but poorer drainage/aeration, while the sandy soil has lower porosity dominated by macropores, giving rapid drainage, good aeration but low water retention."
+        }
+      ]
+    },
+    {
+      "title": "Soil pH and Chemical Properties",
+      "html": "\n<h4>Concept of Soil pH</h4>\n<p>Soil pH is a measure of the concentration of hydrogen ions (\\(\\mathrm{H}^+\\)) in the soil solution and indicates whether a soil is acidic, neutral or alkaline. It is defined mathematically as:</p>\n$$ \\mathrm{pH} = -\\log_{10}[\\mathrm{H}^+] $$\n<p>where \\([\\mathrm{H}^+]\\) is the hydrogen ion concentration in moles per litre. A pH of 7 is neutral, values below 7 indicate acidity, and values above 7 indicate alkalinity. Most crops perform best within a slightly acidic to neutral range of pH 5.5&ndash;7.0, although some crops such as tea and pineapple tolerate more acidic soils.</p>\n<h4>Effects of Soil pH on Plant Growth</h4>\n<ul>\n<li>At very low pH (strong acidity), aluminium and manganese become toxic to roots while phosphorus, calcium and molybdenum become less available.</li>\n<li>At very high pH (alkalinity), iron, zinc, manganese and phosphorus become less available, causing deficiency symptoms such as chlorosis.</li>\n<li>Soil micro-organisms responsible for nitrogen fixation and decomposition thrive best around neutral pH.</li>\n</ul>\n<h4>Measuring and Correcting Soil pH</h4>\n<p>Soil pH is measured using a pH meter, litmus paper or universal indicator solution on a soil-water suspension (commonly 1:1 or 1:2.5 soil-to-water ratio). Acidic soils are corrected by liming with materials such as calcium carbonate (CaCO&#8323;), calcium oxide (CaO) or dolomite, while alkaline soils may be corrected using elemental sulphur or acidifying fertilizers such as ammonium sulphate.</p>\n<h4>Cation Exchange Capacity (CEC) and Organic Matter</h4>\n<p>Cation exchange capacity is the total quantity of exchangeable cations (Ca&sup2;&#8314;, Mg&sup2;&#8314;, K&#8314;, Na&#8314;, H&#8314;) that a soil can hold, expressed in centimoles of charge per kilogram of soil (cmol(+)/kg). Clay and organic matter (humus) are the main sources of negative charge responsible for CEC; hence clayey, humus-rich soils have higher CEC and greater nutrient retention capacity than sandy soils. Organic matter also improves structure, water-holding capacity, and supplies nutrients upon decomposition.</p>\n<table class=\"tb-table\">\n<tr><th>Soil pH range</th><th>Description</th><th>Common amendment</th></tr>\n<tr><td>Below 5.5</td><td>Strongly acidic</td><td>Liming (CaCO&#8323;)</td></tr>\n<tr><td>5.5 &ndash; 7.0</td><td>Slightly acidic (ideal for most crops)</td><td>None usually needed</td></tr>\n<tr><td>7.0 &ndash; 8.5</td><td>Alkaline</td><td>Sulphur or acidifying fertilizer</td></tr>\n</table>\n",
+      "examples": [
+        {
+          "q": "A soil solution has a hydrogen ion concentration of \\(1 \\times 10^{-6}\\) mol/L. Calculate the pH of the soil and state whether it is acidic, neutral or alkaline.",
+          "a": "pH = -log10[H+] = -log10(1×10^-6) = 6. Since 6 is less than 7, the soil is slightly acidic."
+        },
+        {
+          "q": "If lime application raises the hydrogen ion concentration from 1×10^-5 mol/L to 1×10^-7 mol/L, calculate the change in pH and explain the effect on nutrient availability.",
+          "a": "Initial pH = -log10(1×10^-5) = 5. Final pH = -log10(1×10^-7) = 7. The pH has increased by 2 units (from 5 to 7), moving the soil from acidic to neutral. This reduces aluminium and manganese toxicity and improves the availability of phosphorus, calcium and molybdenum to plants."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Soil texture is determined mainly by the relative proportion of",
+      "options": [
+        "sand, silt and clay",
+        "nitrogen, phosphorus and potassium",
+        "organic matter and water",
+        "air and moisture"
+      ],
+      "answer": "0",
+      "solution": "Soil texture is defined by the proportion of sand, silt and clay particles in the mineral fraction of the soil."
+    },
+    {
+      "q": "Which particle size range corresponds to silt?",
+      "options": [
+        "2.0–0.05 mm",
+        "0.05–0.002 mm",
+        "less than 0.002 mm",
+        "greater than 2.0 mm"
+      ],
+      "answer": "1",
+      "solution": "Silt particles range from 0.05 mm to 0.002 mm in diameter, between sand and clay sizes."
+    },
+    {
+      "q": "A soil sample of 400 g contains 160 g sand. What percentage is sand?",
+      "options": [
+        "20%",
+        "30%",
+        "40%",
+        "50%"
+      ],
+      "answer": "2",
+      "solution": "Percentage sand = (160/400) × 100 = 40%."
+    },
+    {
+      "q": "Which soil structural type is most favourable for root penetration and aeration?",
+      "options": [
+        "Platy",
+        "Prismatic",
+        "Columnar",
+        "Granular"
+      ],
+      "answer": "3",
+      "solution": "Granular structure has loosely packed rounded aggregates that allow good aeration and root growth."
+    },
+    {
+      "q": "Particle density of most mineral soils is approximately",
+      "options": [
+        "1.0 g/cm3",
+        "1.65 g/cm3",
+        "2.65 g/cm3",
+        "3.65 g/cm3"
+      ],
+      "answer": "2",
+      "solution": "Particle density of mineral soil particles is fairly constant at about 2.65 g/cm3."
+    },
+    {
+      "q": "A soil has bulk density 1.30 g/cm3 and particle density 2.65 g/cm3. What is its porosity?",
+      "options": [
+        "30.9%",
+        "40.9%",
+        "50.9%",
+        "60.9%"
+      ],
+      "answer": "2",
+      "solution": "f = 1 − (1.30/2.65) = 1 − 0.491 = 0.509 = 50.9%."
+    },
+    {
+      "q": "Which soil type generally has the lowest bulk density?",
+      "options": [
+        "Sandy soil",
+        "Clay soil",
+        "Gravelly soil",
+        "Loamy sand"
+      ],
+      "answer": "1",
+      "solution": "Clay soils typically have lower bulk density (1.0–1.3 g/cm3) compared to sandy soils due to their fine aggregated structure with more pore space."
+    },
+    {
+      "q": "The formula for bulk density is",
+      "options": [
+        "ρb = Vt/Ms",
+        "ρb = Ms/Vt",
+        "ρb = Ms × Vt",
+        "ρb = Ms + Vt"
+      ],
+      "answer": "1",
+      "solution": "Bulk density equals mass of dry soil divided by total volume (solids plus pores)."
+    },
+    {
+      "q": "Soil pH is mathematically defined as",
+      "options": [
+        "pH = log10[H+]",
+        "pH = −log10[H+]",
+        "pH = [H+]/10",
+        "pH = 10 × [H+]"
+      ],
+      "answer": "1",
+      "solution": "pH is the negative logarithm (base 10) of the hydrogen ion concentration."
+    },
+    {
+      "q": "A soil with hydrogen ion concentration of 1×10^-4 mol/L has a pH of",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "0",
+      "solution": "pH = −log10(1×10^-4) = 4."
+    },
+    {
+      "q": "Most crops grow best within a soil pH range of",
+      "options": [
+        "3.0–4.5",
+        "5.5–7.0",
+        "8.0–9.5",
+        "9.5–11.0"
+      ],
+      "answer": "1",
+      "solution": "Most crops perform optimally in slightly acidic to neutral soils, pH 5.5–7.0."
+    },
+    {
+      "q": "A common material used to correct soil acidity is",
+      "options": [
+        "Ammonium sulphate",
+        "Elemental sulphur",
+        "Calcium carbonate (lime)",
+        "Potassium chloride"
+      ],
+      "answer": "2",
+      "solution": "Liming with calcium carbonate neutralizes excess soil acidity by raising pH."
+    },
+    {
+      "q": "Cation exchange capacity (CEC) is mainly attributed to",
+      "options": [
+        "sand and gravel content",
+        "clay and organic matter content",
+        "soil temperature",
+        "soil colour"
+      ],
+      "answer": "1",
+      "solution": "Clay minerals and humus carry negative charges that attract and hold cations, giving rise to CEC."
+    },
+    {
+      "q": "At very low soil pH, which elements often become toxic to plants?",
+      "options": [
+        "Nitrogen and potassium",
+        "Calcium and magnesium",
+        "Aluminium and manganese",
+        "Sulphur and zinc"
+      ],
+      "answer": "2",
+      "solution": "Strongly acidic soils release aluminium and manganese in forms toxic to plant roots."
+    },
+    {
+      "q": "Which soil colour typically indicates high organic matter content?",
+      "options": [
+        "Red",
+        "Yellow",
+        "Dark brown or black",
+        "Grey mottled"
+      ],
+      "answer": "2",
+      "solution": "Dark brown to black colouration is usually associated with high humus/organic matter content."
+    },
+    {
+      "q": "Soil aeration is best in soils with a high proportion of",
+      "options": [
+        "micropores",
+        "macropores",
+        "clay particles",
+        "compacted layers"
+      ],
+      "answer": "1",
+      "solution": "Macropores allow free movement of air (and drainage of water), improving soil aeration."
+    },
+    {
+      "q": "If liming raises soil pH from 5 to 7, the hydrogen ion concentration has",
+      "options": [
+        "increased 100 times",
+        "decreased 100 times",
+        "remained unchanged",
+        "decreased 10 times"
+      ],
+      "answer": "1",
+      "solution": "Each unit increase in pH corresponds to a tenfold decrease in [H+]; a 2-unit increase means a 100-fold decrease."
+    },
+    {
+      "q": "Compaction by heavy farm machinery generally causes",
+      "options": [
+        "increased porosity",
+        "decreased bulk density",
+        "increased bulk density",
+        "no change in soil physical properties"
+      ],
+      "answer": "2",
+      "solution": "Compaction packs soil particles closer together, increasing bulk density and reducing porosity."
+    }
+  ]
+}

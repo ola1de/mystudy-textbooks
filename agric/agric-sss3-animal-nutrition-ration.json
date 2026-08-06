@@ -1,0 +1,226 @@
+{
+ "subject": "Agricultural Science",
+ "level": "SSS 3",
+ "slug": "animal-nutrition-ration",
+ "title": "Animal Nutrition and Ration Formulation",
+ "outline": [
+  "Introduction to Animal Nutrition",
+  "Classes of Nutrients and Their Functions",
+  "Feed Classification, Digestibility and Feed Conversion Ratio",
+  "Principles of Ration Formulation",
+  "The Pearson's Square Method (Two Ingredients)",
+  "Two-Stage Ration Formulation with Four Ingredients",
+  "Feed Additives and Nutrient Deficiency Disorders"
+ ],
+ "modules": [
+  {
+   "title": "Introduction to Animal Nutrition and Classes of Nutrients",
+   "html": "\n<h4>Introduction to Animal Nutrition</h4>\n<p>Animal nutrition is the branch of agricultural science concerned with the study of feed, its nutrient composition, and how these nutrients are utilised by the animal body for maintenance, growth, reproduction and production of meat, milk, eggs and other products. Proper nutrition is the single most important factor influencing productivity and profitability in livestock enterprises, since feed alone can account for up to 70% of total production cost.</p>\n<p>An animal requires nutrients for several life processes: maintenance of normal body functions and temperature, growth of new tissues, reproduction, and production of economic products such as milk, meat, eggs and wool. Nutrients are supplied through feed, which must contain the correct balance of carbohydrates, proteins, fats, vitamins, minerals and water to meet the physiological needs of the animal at different stages of its life.</p>\n<h4>Basic Concepts in Animal Nutrition</h4>\n<ul>\n<li><strong>Nutrient:</strong> any chemical substance in feed that nourishes the body.</li>\n<li><strong>Ration:</strong> the total amount of feed given to an animal in 24 hours.</li>\n<li><strong>Balanced ration:</strong> a ration that supplies all required nutrients in the correct proportion and amount needed by the animal.</li>\n<li><strong>Maintenance requirement:</strong> the amount of nutrients needed just to keep the animal alive and in a stable condition without gain or loss in body weight.</li>\n<li><strong>Production requirement:</strong> the additional nutrients needed above maintenance for growth, pregnancy, lactation or egg production.</li>\n</ul>\n<h4>Classes of Nutrients and Their Functions</h4>\n<table class=\"tb-table\">\n<tr><th>Nutrient Class</th><th>Main Function</th><th>Example Sources</th></tr>\n<tr><td>Carbohydrates</td><td>Provide energy; excess stored as fat</td><td>Maize, cassava, guinea corn</td></tr>\n<tr><td>Proteins</td><td>Growth and repair of body tissues</td><td>Groundnut cake, soybean meal, fishmeal</td></tr>\n<tr><td>Fats and oils</td><td>Concentrated energy source; carry fat-soluble vitamins</td><td>Palm oil, vegetable oil</td></tr>\n<tr><td>Vitamins</td><td>Regulate body processes; prevent deficiency diseases</td><td>Green vegetables, fish liver oil</td></tr>\n<tr><td>Minerals</td><td>Bone formation, enzyme activity, nerve function</td><td>Bone meal, oyster shell, salt</td></tr>\n<tr><td>Water</td><td>Solvent, transport medium, temperature regulation</td><td>Drinking water, moisture in feed</td></tr>\n</table>\n<h4>Importance of Good Nutrition</h4>\n<ol>\n<li>It ensures optimum growth rate and body development.</li>\n<li>It improves reproductive efficiency and fertility.</li>\n<li>It increases production of milk, eggs and meat.</li>\n<li>It boosts the animal's resistance to diseases.</li>\n<li>It reduces cost of production when rations are formulated efficiently using locally available feed ingredients.</li>\n</ol>\n<p>A farmer who understands the principles of nutrition can select and combine feed ingredients to produce cost-effective and balanced rations, thereby maximising productivity while minimising feed wastage and cost.</p>\n",
+   "examples": [
+    {
+     "q": "Define the terms 'ration' and 'balanced ration'.",
+     "a": "A ration is the total quantity of feed given to an animal in a 24-hour period. A balanced ration is a ration that supplies all the nutrients (carbohydrates, proteins, fats, vitamins, minerals and water) required by an animal in the correct proportion and quantity for maintenance and production."
+    },
+    {
+     "q": "A farmer notices that his growing pigs have weak, poorly developed bones. Which class of nutrient is most likely deficient, and why?",
+     "a": "Minerals, specifically calcium and phosphorus (and possibly Vitamin D which aids their absorption), are most likely deficient. These minerals are essential for bone formation and mineralisation; their deficiency leads to weak bones, a condition known as rickets in young animals."
+    }
+   ]
+  },
+  {
+   "title": "Feed Classification, Digestibility and Feed Conversion Ratio",
+   "html": "\n<h4>Feed Classification, Digestibility and Feed Conversion Ratio</h4>\n<p>Feeds are broadly classified into roughages and concentrates. Roughages are bulky feeds high in fibre and low in energy, such as grasses, legumes, hay and silage, commonly fed to ruminants. Concentrates are feeds low in fibre and high in energy or protein, such as maize, groundnut cake and fishmeal, fed to both monogastric and ruminant animals. Concentrates are further divided into energy concentrates (e.g. maize, cassava) and protein concentrates (e.g. soybean meal, fishmeal).</p>\n<p>Digestibility refers to the proportion of feed nutrients that are absorbed into the body rather than excreted in faeces. It is usually expressed as a percentage and calculated using the formula:</p>\n<p>$$ \\text{Digestibility (\\%)} = \\frac{\\text{Nutrient intake} - \\text{Nutrient in faeces}}{\\text{Nutrient intake}} \\times 100 $$</p>\n<p>A key performance index in livestock feeding, especially in poultry and pig production, is the <strong>Feed Conversion Ratio (FCR)</strong>, which measures how efficiently an animal converts feed into body weight gain. It is given by:</p>\n<p>$$ FCR = \\frac{\\text{Total feed intake (kg)}}{\\text{Total weight gain (kg)}} $$</p>\n<p>A lower FCR indicates higher feed efficiency, meaning the animal converts less feed into a unit of weight gain, which is economically desirable.</p>\n<h4>Worked Illustration of FCR</h4>\n<p>Suppose a broiler chicken consumed 4 kg of feed over six weeks and gained 2 kg in body weight during that period. Then:</p>\n<p>$$ FCR = \\frac{4\\ \\text{kg}}{2\\ \\text{kg}} = 2.0 $$</p>\n<p>This means 2 kg of feed was required to produce 1 kg of body weight gain, which is a good FCR value for broilers.</p>\n<h4>Factors Affecting Digestibility and FCR</h4>\n<ul>\n<li>Age and species of the animal.</li>\n<li>Quality and composition of the feed (high fibre content reduces digestibility).</li>\n<li>Level of feeding and feed processing method.</li>\n<li>Health status and presence of parasites.</li>\n<li>Environmental conditions such as temperature and stress.</li>\n</ul>\n<h4>Comparing Roughages and Concentrates</h4>\n<table class=\"tb-table\">\n<tr><th>Feature</th><th>Roughage</th><th>Concentrate</th></tr>\n<tr><td>Fibre content</td><td>High (over 18%)</td><td>Low</td></tr>\n<tr><td>Energy density</td><td>Low</td><td>High</td></tr>\n<tr><td>Example</td><td>Elephant grass, hay</td><td>Maize, fishmeal</td></tr>\n</table>\n<p>Farmers use FCR values to compare the economic efficiency of different feeds, breeds or feeding strategies, choosing options that give the lowest FCR at the lowest cost.</p>\n",
+   "examples": [
+    {
+     "q": "A pig consumed 60 kg of feed over a period and gained 20 kg in body weight. Calculate the feed conversion ratio (FCR) and comment on the result.",
+     "a": "Using $$ FCR = \\frac{\\text{Total feed intake}}{\\text{Total weight gain}} = \\frac{60\\ \\text{kg}}{20\\ \\text{kg}} = 3.0 $$ This means 3 kg of feed was needed to produce 1 kg of weight gain. This FCR is higher (less efficient) than the broiler's FCR of 2.0, since pigs generally have higher FCR values than poultry."
+    },
+    {
+     "q": "An animal was fed a ration containing 8 kg of a particular nutrient, and 2 kg of that nutrient was recovered in the faeces. Calculate the digestibility of the nutrient.",
+     "a": "Using $$ \\text{Digestibility (\\%)} = \\frac{\\text{Nutrient intake} - \\text{Nutrient in faeces}}{\\text{Nutrient intake}} \\times 100 = \\frac{8 - 2}{8} \\times 100 = 75\\% $$ Therefore 75% of the nutrient consumed was digested and absorbed by the animal."
+    }
+   ]
+  },
+  {
+   "title": "Principles of Ration Formulation and Pearson's Square Method",
+   "html": "\n<h4>Principles of Ration Formulation and the Pearson's Square Method</h4>\n<p>Ration formulation is the process of combining two or more feed ingredients in appropriate proportions to produce a balanced diet that meets the nutrient requirements of a given class of livestock. The nutrient most commonly balanced through formulation is crude protein (CP), although energy, calcium and phosphorus levels are also considered in commercial practice. The ration must meet the nutrient requirement of the target animal, use available and affordable ingredients, be free of toxins, and balance energy and protein sources appropriately.</p>\n<h4>The Pearson's Square Method (Two Ingredients)</h4>\n<p>The Pearson's Square is a simple arithmetic technique used to determine the proportion of two feed ingredients required to obtain a mixture with a desired nutrient percentage. The desired percentage is placed at the centre of a square, while the percentages of the two ingredients are placed at the top-left and bottom-left corners. Diagonal subtraction (ignoring sign) gives the parts of each ingredient required.</p>\n<p><strong>Worked Example:</strong> Formulate a ration containing 18% crude protein (CP) using maize (9% CP) and groundnut cake, GNC (45% CP).</p>\n<ol>\n<li>Parts of Maize $$ = 45 - 18 = 27 \\text{ parts} $$</li>\n<li>Parts of GNC $$ = 18 - 9 = 9 \\text{ parts} $$</li>\n<li>Total parts $$ = 27 + 9 = 36 \\text{ parts} $$</li>\n</ol>\n<p>$$ \\%\\ \\text{Maize} = \\frac{27}{36} \\times 100 = 75\\% \\qquad \\%\\ \\text{GNC} = \\frac{9}{36} \\times 100 = 25\\% $$</p>\n<p>So, mixing 75 kg of maize with 25 kg of GNC per 100 kg of feed gives a ration with 18% crude protein. Check: $$ (0.75 \\times 9) + (0.25 \\times 45) = 6.75 + 11.25 = 18\\% $$, confirming the answer is correct.</p>\n<h4>Two-Stage Ration Formulation with Four Ingredients</h4>\n<p>In practice, rations often contain more than two ingredients. Ingredients are first grouped into an energy group and a protein group; a combined (average) CP value is found for each group, and the Pearson's Square is then applied between the two group averages. This is called two-stage formulation.</p>\n<p><strong>Problem:</strong> Formulate 100 kg of a 20% CP ration using an energy group of maize (9% CP) and cassava meal (2% CP) mixed in equal parts (50:50), and a protein group of GNC (45% CP) and fishmeal (60% CP) mixed in equal parts (50:50).</p>\n<p><strong>Stage 1 – average CP of each group:</strong></p>\n<p>$$ \\text{Energy group CP} = \\frac{9 + 2}{2} = 5.5\\% \\qquad \\text{Protein group CP} = \\frac{45 + 60}{2} = 52.5\\% $$</p>\n<p><strong>Stage 2 – Pearson's Square between the group averages to hit 20% CP:</strong></p>\n<p>$$ \\text{Parts of Energy group} = 52.5 - 20 = 32.5 \\qquad \\text{Parts of Protein group} = 20 - 5.5 = 14.5 $$</p>\n<p>$$ \\text{Total parts} = 32.5 + 14.5 = 47 $$</p>\n<p>$$ \\%\\ \\text{Energy group} = \\frac{32.5}{47} \\times 100 \\approx 69.15\\% \\qquad \\%\\ \\text{Protein group} = \\frac{14.5}{47} \\times 100 \\approx 30.85\\% $$</p>\n<p>In 100 kg feed: Energy group = 69.15 kg, split equally into 34.57 kg maize and 34.57 kg cassava meal; Protein group = 30.85 kg, split equally into 15.43 kg GNC and 15.43 kg fishmeal. Check: $$ (0.6915 \\times 5.5) + (0.3085 \\times 52.5) \\approx 3.80 + 16.20 = 20\\% $$, confirming the four-ingredient ration meets the 20% CP target.</p>\n",
+   "examples": [
+    {
+     "q": "Using the Pearson's Square, formulate a ration containing 16% crude protein using maize (8% CP) and soybean meal (44% CP). Find the percentage of each ingredient needed per 100 kg of feed.",
+     "a": "Parts of maize $$= 44 - 16 = 28$$; Parts of soybean meal $$= 16 - 8 = 8$$; Total parts $$= 28+8=36$$. % Maize $$= \\frac{28}{36}\\times100 \\approx 77.78\\%$$. % Soybean meal $$= \\frac{8}{36}\\times100 \\approx 22.22\\%$$. So per 100 kg feed, mix about 77.78 kg maize with 22.22 kg soybean meal. Check: $$(0.7778\\times8)+(0.2222\\times44)\\approx 6.22+9.78=16\\%$$."
+    },
+    {
+     "q": "Using two-stage formulation, formulate 100 kg of a 22% CP ration using an energy group of maize (9% CP) and rice bran (12% CP) in equal parts, and a protein group of GNC (45% CP) and blood meal (80% CP) in equal parts.",
+     "a": "Stage 1: Energy group CP $$= \\frac{9+12}{2}=10.5\\%$$; Protein group CP $$= \\frac{45+80}{2}=62.5\\%$$. Stage 2: Parts of energy group $$=62.5-22=40.5$$; Parts of protein group $$=22-10.5=11.5$$; Total $$=40.5+11.5=52$$. % Energy group $$=\\frac{40.5}{52}\\times100\\approx77.88\\%$$; % Protein group $$=\\frac{11.5}{52}\\times100\\approx22.12\\%$$. Per 100 kg: Energy group = 77.88 kg (38.94 kg maize + 38.94 kg rice bran); Protein group = 22.12 kg (11.06 kg GNC + 11.06 kg blood meal). Check: $$(0.7788\\times10.5)+(0.2212\\times62.5)\\approx 8.18+13.83=22\\%$$."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which of the following is the main function of carbohydrates in an animal's body?",
+   "options": [
+    "Growth of new tissues",
+    "Provision of energy",
+    "Formation of antibodies",
+    "Regulation of body processes"
+   ],
+   "answer": "1",
+   "solution": "Carbohydrates are the main energy-providing nutrient class; excess carbohydrate is stored as body fat, while proteins are responsible for tissue growth and antibody formation."
+  },
+  {
+   "q": "The formula for Feed Conversion Ratio (FCR) is:",
+   "options": [
+    "Weight gain divided by feed intake",
+    "Feed intake divided by weight gain",
+    "Feed intake multiplied by weight gain",
+    "Weight gain minus feed intake"
+   ],
+   "answer": "1",
+   "solution": "FCR = Total feed intake (kg) / Total weight gain (kg). It measures how much feed is required to produce one unit of weight gain."
+  },
+  {
+   "q": "A broiler consumed 5 kg of feed and gained 2.5 kg in weight. What is its FCR?",
+   "options": [
+    "0.5",
+    "1.0",
+    "2.0",
+    "5.0"
+   ],
+   "answer": "2",
+   "solution": "FCR = feed intake / weight gain = 5 / 2.5 = 2.0."
+  },
+  {
+   "q": "Using the Pearson's Square to obtain 20% CP from maize (10% CP) and fishmeal (60% CP), what percentage of maize is required?",
+   "options": [
+    "20%",
+    "40%",
+    "60%",
+    "80%"
+   ],
+   "answer": "3",
+   "solution": "Parts of maize = 60 - 20 = 40; parts of fishmeal = 20 - 10 = 10; total = 50. % maize = 40/50 x 100 = 80%."
+  },
+  {
+   "q": "Which of these feeds is classified as a roughage?",
+   "options": [
+    "Maize",
+    "Fishmeal",
+    "Elephant grass",
+    "Groundnut cake"
+   ],
+   "answer": "2",
+   "solution": "Elephant grass is bulky and high in fibre, making it a roughage. Maize, fishmeal and groundnut cake are concentrates."
+  },
+  {
+   "q": "Digestibility of a nutrient is calculated as:",
+   "options": [
+    "Nutrient in faeces divided by nutrient intake",
+    "Nutrient intake minus nutrient in faeces, divided by nutrient intake, times 100",
+    "Nutrient intake divided by nutrient in faeces",
+    "Nutrient intake plus nutrient in faeces"
+   ],
+   "answer": "1",
+   "solution": "Digestibility (%) = (Nutrient intake - Nutrient in faeces) / Nutrient intake x 100."
+  },
+  {
+   "q": "An animal was fed 10 kg of a nutrient and excreted 4 kg in faeces. What is the digestibility percentage?",
+   "options": [
+    "40%",
+    "50%",
+    "60%",
+    "70%"
+   ],
+   "answer": "2",
+   "solution": "Digestibility = (10-4)/10 x 100 = 60%."
+  },
+  {
+   "q": "In two-stage ration formulation, ingredients are first grouped into:",
+   "options": [
+    "Vitamins and minerals",
+    "Energy and protein groups",
+    "Roughage and water",
+    "Macro and micro minerals"
+   ],
+   "answer": "1",
+   "solution": "In two-stage formulation, ingredients are grouped into an energy group and a protein group; each group's average CP is found before applying the Pearson's Square."
+  },
+  {
+   "q": "Which nutrient class is required in the largest amount by the animal body and serves as a solvent and transport medium?",
+   "options": [
+    "Vitamins",
+    "Minerals",
+    "Water",
+    "Fats"
+   ],
+   "answer": "2",
+   "solution": "Water is required in the largest quantity and functions as a solvent, transport medium and in temperature regulation, though it is often overlooked as a nutrient."
+  },
+  {
+   "q": "Which of these is a protein concentrate?",
+   "options": [
+    "Maize",
+    "Cassava meal",
+    "Soybean meal",
+    "Guinea corn"
+   ],
+   "answer": "2",
+   "solution": "Soybean meal is high in protein and is classified as a protein concentrate; maize, cassava meal and guinea corn are energy concentrates."
+  },
+  {
+   "q": "A lower feed conversion ratio (FCR) indicates:",
+   "options": [
+    "Poor feed efficiency",
+    "Higher feed efficiency",
+    "Higher feed cost",
+    "Lower digestibility"
+   ],
+   "answer": "1",
+   "solution": "A lower FCR means less feed is required to produce a unit of weight gain, indicating higher feed efficiency, which is economically desirable."
+  },
+  {
+   "q": "To formulate a 24% CP ration using an energy group of average CP 8% and a protein group of average CP 54%, how many total parts are obtained using Pearson's Square?",
+   "options": [
+    "30",
+    "46",
+    "50",
+    "62"
+   ],
+   "answer": "1",
+   "solution": "Parts of energy group = 54-24=30; parts of protein group = 24-8=16; total parts = 30+16=46."
+  },
+  {
+   "q": "Which of the following best defines a ration?",
+   "options": [
+    "Feed given to an animal over one week",
+    "Total feed given to an animal in 24 hours",
+    "Feed given only during pregnancy",
+    "Amount of water an animal drinks daily"
+   ],
+   "answer": "1",
+   "solution": "A ration is defined as the total quantity of feed given to an animal within a 24-hour period."
+  },
+  {
+   "q": "Which vitamin group requires fat for absorption and includes vitamins A, D, E and K?",
+   "options": [
+    "Water-soluble vitamins",
+    "Fat-soluble vitamins",
+    "B-complex vitamins",
+    "Amino vitamins"
+   ],
+   "answer": "1",
+   "solution": "Vitamins A, D, E and K are fat-soluble vitamins, requiring dietary fat for proper absorption, unlike water-soluble vitamins such as B-complex and C."
+  },
+  {
+   "q": "In formulating a ration to contain 15% CP using maize (5% CP) and fishmeal (65% CP), what is the percentage of fishmeal required?",
+   "options": [
+    "16.67%",
+    "33.33%",
+    "50%",
+    "66.67%"
+   ],
+   "answer": "0",
+   "solution": "Parts of maize = 65-15=50; parts of fishmeal = 15-5=10; total=60. % fishmeal = 10/60 x100 = 16.67%."
+  }
+ ]
+}

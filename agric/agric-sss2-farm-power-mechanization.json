@@ -1,0 +1,249 @@
+{
+  "subject": "Agricultural Science",
+  "level": "SSS 2",
+  "slug": "farm-power-mechanization",
+  "title": "Farm Power and Mechanization",
+  "outline": [
+    "Sources of farm power: human, animal, mechanical",
+    "Levels and stages of farm mechanization",
+    "Advantages and disadvantages of mechanization",
+    "The farm tractor: types, parts and functions",
+    "Tractor power measurement: drawbar and PTO power",
+    "Field capacity and field efficiency calculations",
+    "Maintenance and safety in farm mechanization",
+    "Factors affecting choice of farm power"
+  ],
+  "modules": [
+    {
+      "title": "Sources and Levels of Farm Power",
+      "html": "\n<h4>Sources of Farm Power</h4>\n<p>Farm power refers to the energy used to perform agricultural operations such as land clearing, tillage, planting, weeding, harvesting and processing. There are three main sources of farm power in West African agriculture:</p>\n<ul>\n<li><strong>Human power:</strong> The most widely used source in smallholder farming; involves the use of hand tools such as hoes, cutlasses and diggers. It is flexible and requires low capital but has low output and is labour-intensive.</li>\n<li><strong>Animal power:</strong> Draught animals such as oxen, donkeys, horses and camels provide power for ploughing, harrowing, carting and other operations, particularly in the savanna zones where trypanosomiasis pressure is lower. Animal power is more efficient than human power but requires care, feeding and training of animals.</li>\n<li><strong>Mechanical power:</strong> Provided by engines, especially tractors and stationary engines, offering the highest power output, speed and precision. Mechanical power requires significant capital investment, fuel, skilled operators and maintenance facilities.</li>\n</ul>\n<h4>Levels of Farm Mechanization</h4>\n<p>Mechanization exists on a continuum from very low to very high input of mechanical power:</p>\n<ol>\n<li><strong>Hand-tool technology:</strong> Sole reliance on hand tools; typical of subsistence farming.</li>\n<li><strong>Animal-draught technology:</strong> Incorporation of animal power alongside hand tools for specific operations like ploughing.</li>\n<li><strong>Engine-powered/mechanical technology:</strong> Use of tractors and machines for most operations, from land preparation to harvesting and processing.</li>\n</ol>\n<h4>Advantages of Mechanization</h4>\n<p>Mechanization increases the speed and timeliness of farm operations, expands the area that can be cultivated by a single farmer, reduces drudgery, improves precision (e.g. uniform depth of planting), and can improve overall productivity and profitability when properly managed.</p>\n<h4>Disadvantages of Mechanization</h4>\n<p>High initial capital cost, dependence on fuel and spare parts, the need for skilled operators and mechanics, risk of soil compaction from heavy machinery, and displacement of farm labour are notable drawbacks, especially challenging in developing economies with poor infrastructure.</p>\n",
+      "examples": [
+        {
+          "q": "A smallholder farmer with 0.5 hectares uses only a hoe and cutlass, while a commercial farmer with 200 hectares uses tractors. Explain which source of farm power is more appropriate for each and why.",
+          "a": "For the smallholder with 0.5 hectares, human power (hoe and cutlass) is appropriate because the area is small, capital is limited, and hand tools are sufficient to complete operations within a reasonable time without huge investment. For the commercial farmer with 200 hectares, mechanical power (tractors) is more appropriate because the large area requires high output, timeliness and efficiency that only engine power can provide within the limited planting/harvesting window."
+        },
+        {
+          "q": "State two advantages and two disadvantages of farm mechanization.",
+          "a": "Advantages: (1) It increases the speed of farm operations, allowing large areas to be cultivated within a short time; (2) It reduces the drudgery and physical stress associated with manual labour. Disadvantages: (1) It requires high capital investment for purchase and maintenance of machines; (2) It can cause soil compaction, especially when heavy machinery is used on wet soils."
+        }
+      ]
+    },
+    {
+      "title": "The Farm Tractor and Power Measurement",
+      "html": "\n<h4>Types and Major Parts of the Tractor</h4>\n<p>Tractors are classified as wheeled tractors (two-wheel drive or four-wheel drive), crawler (track-laying) tractors, and garden/walking tractors for small plots. The major parts of a wheeled tractor include the engine, transmission system, differential, power take-off (PTO) shaft, hydraulic lift system, three-point hitch, drawbar, wheels/tyres and the operator's platform.</p>\n<table class=\"tb-table\">\n<tr><th>Part</th><th>Function</th></tr>\n<tr><td>Engine</td><td>Converts fuel energy into mechanical power</td></tr>\n<tr><td>PTO shaft</td><td>Transmits rotary power to attached implements (e.g. mowers, threshers)</td></tr>\n<tr><td>Three-point hitch</td><td>Attaches and controls mounted implements such as ploughs and harrows</td></tr>\n<tr><td>Hydraulic system</td><td>Raises and lowers implements and controls depth of operation</td></tr>\n<tr><td>Differential</td><td>Allows rear wheels to rotate at different speeds when turning</td></tr>\n</table>\n<h4>Drawbar Power and PTO Power</h4>\n<p>Drawbar power is the power available at the drawbar to pull implements, and is calculated as:</p>\n$$ P_{db} = F \\times v $$\n<p>where \\(F\\) is the pull force (in Newtons) and \\(v\\) is the forward speed (in m/s). PTO power is the rotary power delivered at the power take-off shaft, calculated as:</p>\n$$ P_{pto} = \\frac{2\\pi N T}{60} $$\n<p>where \\(N\\) is rotational speed in revolutions per minute (rpm) and \\(T\\) is torque in Newton-metres (N·m).</p>\n<h4>Tractor Selection Factors</h4>\n<p>Choice of tractor size depends on farm size, type of soil, cropping system, implements to be used, and available capital. Small farms (below 5 ha) may use walking tractors, medium farms (5&ndash;50 ha) commonly use tractors of 35&ndash;75 horsepower, while large commercial farms use tractors above 75 horsepower.</p>\n<h4>Worked Example on Drawbar and PTO Power</h4>\n<p>Consider a tractor pulling an implement with a drawbar pull force of \\(3000\\) N at a forward speed of \\(1.5\\) m/s. Using the formula \\(P_{db} = F \times v\\), the drawbar power is \\(3000 \times 1.5 = 4500\\) W, which is equivalent to about \\(6.0\\) horsepower (since \\(1\\) hp \\(\u0007pprox 746\\) W). Similarly, if a tractor's PTO shaft rotates at \\(540\\) rpm and delivers a torque of \\(100\\) N·m, then \\(P_{pto} = \\dfrac{2\\pi \times 540 \times 100}{60} \u0007pprox 5655\\) W, or roughly \\(7.6\\) horsepower. Such calculations help agricultural engineers and extension officers match tractors to specific field operations and implements, ensuring that neither the tractor is under-utilised nor the implement is overloaded.</p>\n<h4>Maintenance and Servicing Considerations</h4>\n<p>Proper power measurement also guides routine maintenance scheduling, since engines and hydraulic systems that operate consistently near their rated capacity require more frequent servicing. Farm managers in Nigeria and across West Africa are encouraged to keep logbooks of tractor operating hours, fuel consumption and drawbar performance so that timely maintenance, such as oil changes, filter replacement and tyre pressure checks, can be carried out before breakdowns occur during critical periods like land preparation and planting.</p>\n<h4>Economic Importance of Correct Tractor Selection</h4>\n<p>Selecting a tractor of appropriate horsepower for a given farm size and soil type prevents both under-mechanisation, which slows down operations and increases labour costs, and over-mechanisation, which leads to unnecessarily high capital and fuel expenditure. Extension agents therefore advise farmers to consider not only the purchase price of a tractor but also its power rating, fuel efficiency, availability of spare parts, and the range of implements it can operate, since these factors together determine the long-term profitability of mechanised farm operations in the Nigerian agricultural sector.</p>\n",
+      "examples": [
+        {
+          "q": "A tractor exerts a pull force of 4000 N while travelling at a speed of 1.5 m/s. Calculate the drawbar power in watts and convert to kilowatts.",
+          "a": "P_db = F × v = 4000 × 1.5 = 6000 W = 6 kW."
+        },
+        {
+          "q": "A tractor PTO shaft rotates at 540 rpm and delivers a torque of 200 N·m. Calculate the PTO power in kilowatts.",
+          "a": "P_pto = (2π N T)/60 = (2 × 3.1416 × 540 × 200)/60 = (678,584)/60 ≈ 11,309.7 W ≈ 11.31 kW."
+        }
+      ]
+    },
+    {
+      "title": "Field Capacity, Field Efficiency and Machinery Maintenance",
+      "html": "\n<h4>Theoretical and Effective Field Capacity</h4>\n<p>Field capacity is a measure of the rate at which a machine covers land area. Theoretical field capacity (TFC) assumes the machine works continuously at rated width and speed without any loss of time:</p>\n$$ TFC = \\frac{W \\times S}{10} $$\n<p>where \\(W\\) is the working width in metres, \\(S\\) is speed in km/h, and TFC is expressed in hectares per hour. Effective field capacity (EFC) accounts for time lost due to turning, adjustments and other delays, and is given by:</p>\n$$ EFC = TFC \\times E_f $$\n<p>where \\(E_f\\) is field efficiency, usually expressed as a decimal fraction (or percentage) reflecting the ratio of productive time to total time spent in the field.</p>\n<h4>Field Efficiency</h4>\n<p>Field efficiency accounts for time and area losses arising from turning at headlands, overlap between passes, stoppages for adjustment, and refilling. It is expressed as:</p>\n$$ E_f = \\frac{EFC}{TFC} \\times 100\\% $$\n<p>Typical field efficiencies range from 65% to 85% depending on field shape, size, and operator skill.</p>\n<h4>Maintenance of Farm Machinery</h4>\n<p>Proper maintenance prolongs machine life, reduces breakdown and ensures safety. Maintenance schedules include:</p>\n<ul>\n<li><strong>Daily checks:</strong> Engine oil level, coolant level, tyre pressure, fuel level, and general inspection for leaks.</li>\n<li><strong>Periodic servicing:</strong> Oil and filter changes, greasing of moving parts, and battery checks at manufacturer-recommended intervals.</li>\n<li><strong>Seasonal storage:</strong> Cleaning, draining fuel systems, and storing machinery under shelter to prevent rust and deterioration during off-season.</li>\n</ul>\n<h4>Safety Precautions in Mechanization</h4>\n<p>Operators must wear appropriate protective clothing, ensure guards are fitted on PTO shafts and moving parts, avoid mounting/dismounting moving machinery, ensure implements are lowered before leaving the tractor seat, and undergo proper training before operating machinery.</p>\n",
+      "examples": [
+        {
+          "q": "A ploughing implement has a working width of 1.5 m and travels at a speed of 6 km/h. If the field efficiency is 75%, calculate the theoretical field capacity and effective field capacity.",
+          "a": "TFC = (W × S)/10 = (1.5 × 6)/10 = 0.9 ha/h. EFC = TFC × Ef = 0.9 × 0.75 = 0.675 ha/h."
+        },
+        {
+          "q": "A machine has a theoretical field capacity of 1.2 ha/h and an effective field capacity of 0.9 ha/h. Calculate the field efficiency as a percentage.",
+          "a": "Ef = (EFC/TFC) × 100 = (0.9/1.2) × 100 = 75%."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which of the following is NOT a main source of farm power?",
+      "options": [
+        "Human power",
+        "Animal power",
+        "Mechanical power",
+        "Solar illumination"
+      ],
+      "answer": "3",
+      "solution": "The three main sources of farm power are human, animal and mechanical power; solar illumination is not classified as a farm power source in this context."
+    },
+    {
+      "q": "Draught animals such as oxen are commonly used to provide power for",
+      "options": [
+        "aerial spraying",
+        "ploughing and carting",
+        "food processing only",
+        "irrigation pumping only"
+      ],
+      "answer": "1",
+      "solution": "Draught animals are traditionally used for ploughing, harrowing and carting loads on the farm."
+    },
+    {
+      "q": "Which level of mechanization relies solely on tools like hoes and cutlasses?",
+      "options": [
+        "Mechanical technology",
+        "Animal-draught technology",
+        "Hand-tool technology",
+        "Hydraulic technology"
+      ],
+      "answer": "2",
+      "solution": "Hand-tool technology is the most basic level, using simple hand implements without animal or engine power."
+    },
+    {
+      "q": "A major disadvantage of farm mechanization is",
+      "options": [
+        "reduced drudgery",
+        "high initial capital cost",
+        "improved precision",
+        "increased timeliness of operations"
+      ],
+      "answer": "1",
+      "solution": "Mechanization requires substantial capital investment to purchase and maintain machinery."
+    },
+    {
+      "q": "The part of a tractor that transmits rotary power to implements like threshers is the",
+      "options": [
+        "drawbar",
+        "differential",
+        "power take-off (PTO) shaft",
+        "hydraulic lift"
+      ],
+      "answer": "2",
+      "solution": "The PTO shaft transmits rotary mechanical power from the tractor engine to attached implements."
+    },
+    {
+      "q": "Drawbar power is calculated using the formula",
+      "options": [
+        "P = F/v",
+        "P = F × v",
+        "P = F + v",
+        "P = v/F"
+      ],
+      "answer": "1",
+      "solution": "Drawbar power equals the pull force multiplied by the forward speed of the tractor (P = F × v)."
+    },
+    {
+      "q": "A tractor pulls with a force of 3000 N at a speed of 2 m/s. What is its drawbar power?",
+      "options": [
+        "1500 W",
+        "3000 W",
+        "6000 W",
+        "9000 W"
+      ],
+      "answer": "2",
+      "solution": "P = F × v = 3000 × 2 = 6000 W."
+    },
+    {
+      "q": "The three-point hitch on a tractor is used mainly to",
+      "options": [
+        "measure engine speed",
+        "attach and control mounted implements",
+        "cool the engine",
+        "store fuel"
+      ],
+      "answer": "1",
+      "solution": "The three-point hitch attaches implements such as ploughs and harrows to the tractor and allows control of their position."
+    },
+    {
+      "q": "Theoretical field capacity (TFC) is calculated using the formula",
+      "options": [
+        "TFC = W × S",
+        "TFC = (W × S)/10",
+        "TFC = W/S",
+        "TFC = 10/(W×S)"
+      ],
+      "answer": "1",
+      "solution": "TFC (ha/h) = (working width in m × speed in km/h) / 10."
+    },
+    {
+      "q": "A machine with 2 m working width and 5 km/h speed has a theoretical field capacity of",
+      "options": [
+        "0.5 ha/h",
+        "1.0 ha/h",
+        "1.5 ha/h",
+        "2.0 ha/h"
+      ],
+      "answer": "1",
+      "solution": "TFC = (2 × 5)/10 = 1.0 ha/h."
+    },
+    {
+      "q": "Field efficiency accounts mainly for",
+      "options": [
+        "fuel consumption only",
+        "losses due to turning, overlap and stoppages",
+        "engine horsepower only",
+        "tyre pressure"
+      ],
+      "answer": "1",
+      "solution": "Field efficiency reflects the reduction in productive area coverage due to turning time, overlaps, and operational delays."
+    },
+    {
+      "q": "If TFC = 1.6 ha/h and field efficiency is 80%, the effective field capacity is",
+      "options": [
+        "1.0 ha/h",
+        "1.28 ha/h",
+        "1.6 ha/h",
+        "2.0 ha/h"
+      ],
+      "answer": "1",
+      "solution": "EFC = TFC × Ef = 1.6 × 0.80 = 1.28 ha/h."
+    },
+    {
+      "q": "Daily maintenance checks on a tractor typically include",
+      "options": [
+        "engine overhaul",
+        "checking oil, coolant and tyre pressure",
+        "replacing the transmission",
+        "repainting the tractor body"
+      ],
+      "answer": "1",
+      "solution": "Daily checks are simple routine inspections such as oil level, coolant level and tyre pressure, not major overhauls."
+    },
+    {
+      "q": "An important safety precaution when operating farm machinery is to",
+      "options": [
+        "remove all safety guards for better visibility",
+        "mount and dismount from a moving machine",
+        "ensure PTO shaft guards are properly fitted",
+        "operate without training if experienced with cars"
+      ],
+      "answer": "2",
+      "solution": "Guards must be fitted on PTO shafts and moving parts to prevent accidents and injuries to operators."
+    },
+    {
+      "q": "Crawler (track-laying) tractors are especially suited to",
+      "options": [
+        "tarmac roads",
+        "soft or muddy terrain with poor traction",
+        "light garden work only",
+        "aerial operations"
+      ],
+      "answer": "1",
+      "solution": "Crawler tractors have tracks that distribute weight over a larger area, providing better traction on soft or muddy ground."
+    },
+    {
+      "q": "A tractor PTO shaft rotating at 540 rpm with 150 N·m torque delivers a PTO power closest to",
+      "options": [
+        "4.2 kW",
+        "8.5 kW",
+        "11.3 kW",
+        "15.0 kW"
+      ],
+      "answer": "1",
+      "solution": "P = (2π×540×150)/60 = (508,938)/60 ≈ 8482 W ≈ 8.5 kW."
+    },
+    {
+      "q": "Choice of tractor size for a farm depends on all the following EXCEPT",
+      "options": [
+        "farm size",
+        "type of soil",
+        "operator's favourite colour",
+        "available capital"
+      ],
+      "answer": "2",
+      "solution": "Tractor colour preference is irrelevant; selection depends on practical factors like farm size, soil type, implements and capital."
+    }
+  ]
+}

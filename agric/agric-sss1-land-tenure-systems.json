@@ -1,0 +1,227 @@
+{
+ "subject": "Agricultural Science",
+ "level": "SSS 1",
+ "slug": "land-tenure-systems",
+ "title": "Land Tenure Systems in West Africa",
+ "outline": [
+  "Meaning of land tenure",
+  "Communal land tenure system",
+  "Inheritance (family) land tenure system",
+  "Gift, lease and rental land tenure systems",
+  "Government/state land ownership system",
+  "Land tenure system under Islamic law",
+  "Problems of land tenure systems",
+  "Land reform and the Land Use Act of 1978"
+ ],
+ "modules": [
+  {
+   "title": "Meaning of Land Tenure and the Communal System",
+   "html": "<h4>Meaning of Land Tenure</h4>\n    <p>Land tenure refers to the system, rules and rights governing the ownership, control, use and transfer of land within a community or country. It defines who can use land, for how long, and under what conditions. In West Africa, land tenure systems have evolved from traditional customary practices to modern statutory frameworks, and understanding them is essential to appreciating the challenges and opportunities in agricultural land use.</p>\n    <h4>Communal Land Tenure System</h4>\n    <p>Under the communal system, land belongs collectively to the whole community, clan or village, and is held in trust by the traditional ruler, chief or family head on behalf of all members. Every member of the community has the right to use a portion of the land for farming or building, but no individual can sell communal land without the consent of the community.</p>\n    <h4>Features of Communal Land Tenure</h4>\n    <ul>\n        <li>Land is owned collectively, not by any single individual.</li>\n        <li>The chief or family head allocates land to members based on need.</li>\n        <li>Land cannot be sold outright without communal consent.</li>\n        <li>Non-members of the community may only lease or rent land temporarily.</li>\n        <li>Unused land reverts to the community for reallocation.</li>\n    </ul>\n    <h4>Advantages and Disadvantages</h4>\n    <table class=\"tb-table\">\n        <tr><th>Advantages</th><th>Disadvantages</th></tr>\n        <tr><td>Every member has access to land</td><td>Discourages long-term investment due to lack of individual title</td></tr>\n        <tr><td>Reduces landlessness within the community</td><td>Can lead to land fragmentation over time</td></tr>\n        <tr><td>Preserves cultural and communal values</td><td>Difficult for outsiders to acquire land for large-scale farming</td></tr>\n    </table>\n    <p>For instance, if a community's total land area is \\(500\\) hectares and it is shared among \\(100\\) households averaging \\(5\\) hectares each, but the population doubles to \\(200\\) households over a generation, each household's average allocation would fall to \\(500 \\div 200 = 2.5\\) hectares, showing how population growth strains the communal system over time.</p>",
+   "examples": [
+    {
+     "q": "A community owns \\(800\\) hectares of land shared equally among \\(160\\) households. If the number of households grows to \\(320\\) due to population increase, calculate the new average land size per household.",
+     "a": "Original average \\(= 800 \\div 160 = 5\\) hectares. New average \\(= 800 \\div 320 = 2.5\\) hectares. This demonstrates how population growth under a fixed communal land system reduces the average landholding per household, leading to fragmentation and reduced farm efficiency."
+    },
+    {
+     "q": "State two advantages and two disadvantages of the communal land tenure system.",
+     "a": "Advantages: (1) Every member of the community has guaranteed access to land for farming, reducing landlessness. (2) It helps preserve communal and cultural values associated with land. Disadvantages: (1) Lack of individual title discourages farmers from making long-term investments such as tree crop cultivation. (2) It can be difficult for outside investors or commercial farmers to acquire large areas of land for modern mechanised agriculture."
+    }
+   ]
+  },
+  {
+   "title": "Inheritance, Gift, Lease/Rental and Islamic Land Tenure Systems",
+   "html": "<h4>Inheritance (Family) Land Tenure System</h4>\n    <p>Under this system, land is passed down from parents to children or other relatives according to customary or family rules. This is the most common way individuals acquire farmland in many West African societies. Over successive generations, however, continuous subdivision of the family land among many heirs results in fragmentation, with each heir receiving a progressively smaller and often scattered portion.</p>\n    <h4>Gift Land Tenure System</h4>\n    <p>Land may be given outright as a gift by a landowner to another person, often as a reward for service, as a form of appreciation, or to a religious institution. The recipient of a gift of land typically gains full rights of use, though in some customary settings, the original family retains some residual interest.</p>\n    <h4>Lease and Rental Land Tenure Systems</h4>\n    <p>Under a lease, land is given to a tenant for a specified period in exchange for an agreed payment, either as a fixed cash rent or a share of the produce (share-cropping). For example, if a tenant leases \\(4\\) hectares of land at \\(\\text{N}\\,25{,}000\\) per hectare per year, the total annual rent is \\(4 \\times 25{,}000 = \\text{N}\\,100{,}000\\). In share-cropping, if the agreement is for the tenant to give the landlord \\(30\\%\\) of harvested produce and the tenant harvests \\(2000\\) kg of yam, the landlord receives \\(0.30 \\times 2000 = 600\\) kg.</p>\n    <h4>Land Tenure Under Islamic Law</h4>\n    <p>In many parts of Northern Nigeria and other Muslim communities in West Africa, land tenure is influenced by Islamic law (Sharia), where land ultimately belongs to Allah but is held in trust by the ruler (Emir) who allocates it to subjects. Individuals have strong rights of use and can also inherit land according to Islamic inheritance rules, which specify fixed shares for different relatives.</p>\n    <table class=\"tb-table\">\n        <tr><th>System</th><th>Basis of Access</th></tr>\n        <tr><td>Inheritance</td><td>Family relationship</td></tr>\n        <tr><td>Gift</td><td>Voluntary transfer by owner</td></tr>\n        <tr><td>Lease/Rental</td><td>Payment of rent or produce share</td></tr>\n        <tr><td>Islamic system</td><td>Allocation by ruler under Sharia principles</td></tr>\n    </table>",
+   "examples": [
+    {
+     "q": "A tenant leases \\(6\\) hectares of farmland at \\(\\text{N}\\,18{,}000\\) per hectare per year. Calculate the total annual rent payable.",
+     "a": "Total annual rent \\(= 6 \\times 18{,}000 = \\text{N}\\,108{,}000\\). This is a fixed cash rent arrangement under the lease/rental land tenure system."
+    },
+    {
+     "q": "Under a share-cropping arrangement, a tenant agrees to give the landlord \\(25\\%\\) of harvested cassava. If the tenant harvests \\(3200\\) kg, calculate the landlord's share and the tenant's remaining share.",
+     "a": "Landlord's share \\(= 0.25 \\times 3200 = 800\\) kg. Tenant's remaining share \\(= 3200 - 800 = 2400\\) kg. This illustrates how produce-sharing arrangements distribute farm output between landlord and tenant based on an agreed percentage."
+    }
+   ]
+  },
+  {
+   "title": "Problems of Land Tenure Systems and the Land Use Act of 1978",
+   "html": "<h4>Problems Associated with Traditional Land Tenure Systems</h4>\n    <ul>\n        <li><strong>Land fragmentation:</strong> continuous inheritance-based subdivision creates uneconomically small farm units.</li>\n        <li><strong>Insecurity of tenure:</strong> tenants and borrowers of land have no guarantee of continued access, discouraging investment.</li>\n        <li><strong>Land disputes and litigation:</strong> unclear or overlapping boundaries between families and communities often lead to costly and prolonged court cases.</li>\n        <li><strong>Difficulty for large-scale investors:</strong> communal ownership structures make it hard for government or private investors to acquire large contiguous areas of land for commercial agriculture.</li>\n        <li><strong>Gender inequality:</strong> in many customary systems, women have limited or no rights to inherit or independently own land.</li>\n        <li><strong>Underutilisation:</strong> some landowners hold on to large idle portions of land for speculative purposes rather than productive use.</li>\n    </ul>\n    <h4>The Land Use Act of 1978</h4>\n    <p>To address these problems, the Federal Government of Nigeria promulgated the Land Use Act in 1978, which vested ownership of all land in each state in the hands of the Governor, who holds it in trust for the people. Under this Act, individuals and communities are granted a Certificate of Occupancy (C of O), which gives legal rights of use for a specified period, typically \\(99\\) years, rather than outright ownership.</p>\n    <h4>Objectives and Effects of the Land Use Act</h4>\n    <ol>\n        <li>To make land more easily accessible to individuals and organisations, including for agricultural purposes.</li>\n        <li>To reduce speculative land dealings and hoarding of land.</li>\n        <li>To simplify and unify the previously diverse and often conflicting customary land tenure practices.</li>\n        <li>To provide a legal basis (Certificate of Occupancy) for using land as collateral for loans.</li>\n    </ol>\n    <table class=\"tb-table\">\n        <tr><th>Feature</th><th>Description</th></tr>\n        <tr><td>Ownership</td><td>Vested in the State Governor in trust for the people</td></tr>\n        <tr><td>Document of title</td><td>Certificate of Occupancy (C of O)</td></tr>\n        <tr><td>Duration</td><td>Typically 99 years, renewable</td></tr>\n    </table>\n    <p>Despite its good intentions, the Land Use Act has faced criticism for slow and bureaucratic processes in obtaining a Certificate of Occupancy, and for still not fully resolving disputes rooted in customary claims. If it takes an average of \\(2\\) years to process a C of O application and a farmer needs land urgently for a seasonal crop, this delay can significantly discourage timely agricultural investment.</p>",
+   "examples": [
+    {
+     "q": "Explain the main purpose of the Certificate of Occupancy under the Land Use Act of 1978, and state its typical duration.",
+     "a": "The Certificate of Occupancy (C of O) is a legal document granted to individuals or organisations that gives them the right to use land for a specified purpose, typically for a duration of \\(99\\) years. It does not confer outright ownership since land ownership is vested in the state Governor, but it gives the holder secure, legally recognised rights of use, including the ability to use the land as collateral for obtaining loans."
+    },
+    {
+     "q": "State three problems commonly associated with traditional land tenure systems in West Africa.",
+     "a": "(1) Land fragmentation, where continuous inheritance-based division results in very small, scattered plots unsuitable for mechanised farming. (2) Land disputes between families or communities due to unclear boundaries, often leading to costly litigation and abandonment of farmland. (3) Gender inequality, where women in many customary systems are denied independent rights to inherit or own land, limiting their participation in commercial agriculture."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Land tenure refers to",
+   "options": [
+    "the type of crops grown on land",
+    "the system of rules governing ownership, control and use of land",
+    "the fertility status of soil",
+    "the amount of rainfall received"
+   ],
+   "answer": "1",
+   "solution": "Land tenure defines who owns, controls and can use land, and under what conditions, within a community or country."
+  },
+  {
+   "q": "Under the communal land tenure system, land is owned by",
+   "options": [
+    "a single wealthy individual",
+    "the government alone",
+    "the whole community collectively",
+    "foreign investors"
+   ],
+   "answer": "2",
+   "solution": "Communal land tenure vests ownership collectively in the community, clan or village, held in trust by the chief or family head."
+  },
+  {
+   "q": "A community with 600 hectares shares it equally among 120 households. If households increase to 200, the new average land size per household is",
+   "options": [
+    "2 hectares",
+    "3 hectares",
+    "4 hectares",
+    "5 hectares"
+   ],
+   "answer": "1",
+   "solution": "600 ÷ 200 = 3 hectares per household."
+  },
+  {
+   "q": "The most common way individuals acquire farmland traditionally in West Africa is through",
+   "options": [
+    "purchase from foreign investors",
+    "inheritance from family",
+    "government lottery",
+    "compulsory acquisition"
+   ],
+   "answer": "1",
+   "solution": "Inheritance (family) land tenure is the most widespread traditional method of acquiring farmland."
+  },
+  {
+   "q": "A tenant leases 5 hectares at N20,000 per hectare per year. The total annual rent is",
+   "options": [
+    "N80,000",
+    "N90,000",
+    "N100,000",
+    "N120,000"
+   ],
+   "answer": "2",
+   "solution": "5 × 20,000 = N100,000 total annual rent."
+  },
+  {
+   "q": "Under a share-cropping agreement, a tenant gives 20% of a 2500 kg yam harvest to the landlord. The landlord receives",
+   "options": [
+    "400 kg",
+    "450 kg",
+    "500 kg",
+    "550 kg"
+   ],
+   "answer": "2",
+   "solution": "0.20 × 2500 = 500 kg given to the landlord."
+  },
+  {
+   "q": "In many Northern Nigerian Muslim communities, land tenure is influenced by",
+   "options": [
+    "Roman law",
+    "Islamic (Sharia) law",
+    "Common law only",
+    "International maritime law"
+   ],
+   "answer": "1",
+   "solution": "Islamic land tenure principles, where land is held in trust by the ruler and allocated to subjects, are common in many Muslim communities in West Africa."
+  },
+  {
+   "q": "A major problem of the inheritance land tenure system is",
+   "options": [
+    "excessive land consolidation",
+    "land fragmentation into small uneconomical plots",
+    "elimination of land disputes",
+    "guaranteed large farm sizes"
+   ],
+   "answer": "1",
+   "solution": "Repeated subdivision of family land among heirs over generations results in fragmentation into small plots."
+  },
+  {
+   "q": "The Land Use Act was promulgated in Nigeria in the year",
+   "options": [
+    "1960",
+    "1970",
+    "1978",
+    "1999"
+   ],
+   "answer": "2",
+   "solution": "The Land Use Act was enacted in 1978 to reform land ownership and administration in Nigeria."
+  },
+  {
+   "q": "Under the Land Use Act, ownership of land in each state is vested in",
+   "options": [
+    "the local chief",
+    "the State Governor, in trust for the people",
+    "foreign companies",
+    "the Federal Ministry of Agriculture alone"
+   ],
+   "answer": "1",
+   "solution": "The Act vests all land in each state in the Governor, who holds it in trust on behalf of the people."
+  },
+  {
+   "q": "The legal document granted under the Land Use Act to give an individual rights to use land is called",
+   "options": [
+    "a Deed of Gift",
+    "a Certificate of Occupancy",
+    "a Marriage Certificate",
+    "a Birth Certificate"
+   ],
+   "answer": "1",
+   "solution": "The Certificate of Occupancy (C of O) grants legally recognised rights of use over land, typically for 99 years."
+  },
+  {
+   "q": "A key objective of the Land Use Act was to",
+   "options": [
+    "increase land speculation",
+    "reduce speculative land dealings and simplify access to land",
+    "abolish all customary land rights immediately",
+    "prevent the use of land as collateral"
+   ],
+   "answer": "1",
+   "solution": "The Act aimed to reduce hoarding/speculation and make land access more uniform and straightforward across the country."
+  },
+  {
+   "q": "A common criticism of the Land Use Act is that",
+   "options": [
+    "it makes land acquisition instantaneous",
+    "the process of obtaining a Certificate of Occupancy can be slow and bureaucratic",
+    "it has completely eliminated land disputes",
+    "it gives women full equal land rights everywhere"
+   ],
+   "answer": "1",
+   "solution": "Despite its aims, the bureaucratic delay in processing C of O applications remains a notable criticism of the Act."
+  },
+  {
+   "q": "Gender inequality in land tenure mainly refers to the fact that",
+   "options": [
+    "men are denied land rights",
+    "women in many customary systems have limited rights to inherit or own land",
+    "children automatically own all family land",
+    "foreigners have more land rights than citizens"
+   ],
+   "answer": "1",
+   "solution": "In several customary systems, women face restrictions on independently inheriting or owning land, limiting their agricultural investment opportunities."
+  },
+  {
+   "q": "If it takes 2 years on average to process a Certificate of Occupancy, the main agricultural consequence for a farmer needing land urgently is",
+   "options": [
+    "immediate access to land",
+    "delay in timely agricultural investment",
+    "guaranteed profit",
+    "elimination of land tax"
+   ],
+   "answer": "1",
+   "solution": "Long processing times for legal land documents can delay a farmer's ability to invest in land improvements or begin seasonal cropping on time."
+  }
+ ]
+}
