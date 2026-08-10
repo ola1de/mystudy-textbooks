@@ -1,0 +1,223 @@
+{
+  "subject": "Government",
+  "level": "SSS 2",
+  "title": "Citizenship, Human Rights, and Civic Duties",
+  "slug": "citizenship-rights-duties",
+  "outline": [
+    "Meaning of citizenship and nationality",
+    "Methods of acquiring citizenship",
+    "Loss of citizenship: renunciation and deprivation",
+    "Dual citizenship in Nigerian law",
+    "Rights of citizens and their limitations",
+    "Duties and obligations of citizens",
+    "Obligations of the state to its citizens"
+  ],
+  "modules": [
+    {
+      "title": "Acquisition and Loss of Citizenship",
+      "html": "\n<h4>1. Meaning</h4>\n<p><b>Citizenship</b> is full legal membership of a state, carrying the entitlement to its protection and the obligation to obey its laws. A citizen enjoys full political rights (voting, holding office); an <b>alien</b> is a person residing in a state of which he is not a citizen.</p>\n<h4>2. Methods of Acquisition (Chapter III, 1999 Constitution)</h4>\n<table class=\"tb-table\">\n<tr><th>Method</th><th>Constitutional basis</th><th>Explanation</th></tr>\n<tr><td>By birth</td><td>s.25</td><td>A person born in Nigeria before independence whose parent or grandparent belongs to an indigenous community; or born in Nigeria after independence with a Nigerian parent or grandparent; or born outside Nigeria to a Nigerian parent</td></tr>\n<tr><td>By registration</td><td>s.26</td><td>A woman married to a Nigerian citizen, or a person of full age and capacity whose grandparent is a Nigerian citizen — subject to good character, clear intention to be domiciled, and the oath of allegiance</td></tr>\n<tr><td>By naturalisation</td><td>s.27</td><td>An adult of good character who has resided in Nigeria for at least fifteen years (including the twelve months immediately preceding), is acceptable to the local community, has made a useful contribution and intends to reside permanently</td></tr>\n</table>\n<p>Other principles used worldwide: <b>jus soli</b> (right of the soil — place of birth) and <b>jus sanguinis</b> (right of blood — parentage). Nigeria mainly applies jus sanguinis.</p>\n<h4>3. Loss of Citizenship</h4>\n<ol><li><b>Renunciation</b> (s.29) — voluntary declaration by an adult of full capacity.</li><li><b>Deprivation</b> (s.30) — for a naturalised or registered citizen who is disloyal, aids an enemy in war, or is sentenced to at least three years' imprisonment.</li><li>Acquisition of the citizenship of another state, where the law requires renunciation.</li><li>Conquest, cession or annexation of territory.</li></ol>\n<p><b>Dual citizenship:</b> section 28 allows a Nigerian <b>by birth</b> to hold another citizenship, but a citizen by registration or naturalisation forfeits Nigerian citizenship if he acquires another.</p>\n",
+      "examples": [
+        {
+          "q": "A Ghanaian woman marries a Nigerian man in Lagos. How may she become a Nigerian citizen?",
+          "a": "By <b>registration</b> under section 26(2)(a). As a woman married to a citizen of Nigeria she may apply to the President, satisfy him that she is of good character, show a clear intention to be domiciled in Nigeria, and take the oath of allegiance. She cannot become a citizen by birth, and she need not wait the fifteen years required for naturalisation."
+        },
+        {
+          "q": "Can a naturalised Nigerian who takes American citizenship keep his Nigerian passport?",
+          "a": "No. Section 28 permits <b>dual citizenship only for citizens by birth</b>. A naturalised or registered citizen who voluntarily acquires the citizenship of another country forfeits Nigerian citizenship. A Nigerian by birth in the same situation retains his citizenship."
+        }
+      ]
+    },
+    {
+      "title": "Rights, Duties and State Obligations",
+      "html": "\n<h4>1. Rights of the Citizen</h4>\n<ul>\n<li><b>Civil rights</b>: life, dignity, personal liberty, fair hearing, privacy, freedom of thought and religion, expression, peaceful assembly and association, movement, freedom from discrimination, and ownership of property.</li>\n<li><b>Political rights</b>: to vote and be voted for, to join a party, to hold public office, to criticise government, to petition.</li>\n<li><b>Economic and social claims</b>: education, health, work and welfare — in Nigeria stated as directive principles in Chapter II.</li>\n</ul>\n<h4>2. Duties of the Citizen</h4>\n<ol><li>Obedience to the constitution and all lawful authority.</li><li>Prompt payment of taxes, rates and levies.</li><li>Defence of the country and rendering national service.</li><li>Respect for the rights and dignity of other citizens.</li><li>Protection of public property and the environment.</li><li>Voting at elections and participating in public affairs.</li><li>Reporting crime and assisting law-enforcement agencies.</li><li>Respect for national symbols: flag, anthem, pledge and coat of arms.</li></ol>\n<h4>3. Obligations of the State</h4>\n<table class=\"tb-table\">\n<tr><th>Obligation</th><th>Illustration</th></tr>\n<tr><td>Security of life and property</td><td>Police, armed forces, courts</td></tr>\n<tr><td>Provision of social services</td><td>Schools, hospitals, water, roads</td></tr>\n<tr><td>Protection of rights</td><td>Legal Aid Council, National Human Rights Commission</td></tr>\n<tr><td>Employment and economic opportunity</td><td>Job creation, empowerment schemes</td></tr>\n<tr><td>Diplomatic protection abroad</td><td>Consular assistance to citizens overseas</td></tr>\n<tr><td>Fair and equitable administration</td><td>Federal character, non-discrimination</td></tr>\n</table>\n<p>Rights and duties are <b>reciprocal</b>: the citizen's right to security is matched by his duty to obey the law and pay tax; the state's right to obedience is matched by its duty to protect and provide.</p>\n",
+      "examples": [
+        {
+          "q": "A trader refuses to pay tax, arguing that his street has no tarred road. Evaluate.",
+          "a": "His grievance is legitimate but his remedy is wrong. Payment of tax is a <b>legal duty</b>, not a conditional bargain; refusal exposes him to prosecution and reduces the revenue available for the very road he wants. The correct remedies are democratic and legal: petitioning the local council, pressing through market associations, using the Public Complaints Commission, and voting out non-performing officials."
+        },
+        {
+          "q": "State two ways a citizen abroad benefits from citizenship.",
+          "a": "(i) <b>Diplomatic and consular protection</b> — the embassy may intervene where the citizen is detained or distressed; (ii) the right of <b>return and residence</b> in his own country, plus a passport as evidence of nationality, which no state may arbitrarily withdraw from a citizen by birth."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Citizenship acquired because one's parent is a citizen illustrates:",
+      "options": [
+        "Jus soli",
+        "Jus sanguinis",
+        "Naturalisation",
+        "Registration"
+      ],
+      "answer": 1,
+      "solution": "Jus sanguinis means right of blood — citizenship follows descent."
+    },
+    {
+      "q": "Naturalisation in Nigeria requires residence of at least:",
+      "options": [
+        "5 years",
+        "10 years",
+        "15 years",
+        "20 years"
+      ],
+      "answer": 2,
+      "solution": "Section 27 requires fifteen years' residence, including the twelve months immediately preceding the application."
+    },
+    {
+      "q": "Dual citizenship in Nigeria is permitted for citizens by:",
+      "options": [
+        "Birth",
+        "Registration",
+        "Naturalisation",
+        "Honour"
+      ],
+      "answer": 0,
+      "solution": "Section 28 restricts dual citizenship to citizens by birth."
+    },
+    {
+      "q": "A person residing in a state of which he is not a citizen is an:",
+      "options": [
+        "Alien",
+        "Emir",
+        "Envoy",
+        "Elector"
+      ],
+      "answer": 0,
+      "solution": "Aliens enjoy protection of the law but lack full political rights."
+    },
+    {
+      "q": "Which chapter of the 1999 Constitution deals with citizenship?",
+      "options": [
+        "Chapter I",
+        "Chapter II",
+        "Chapter III",
+        "Chapter IV"
+      ],
+      "answer": 2,
+      "solution": "Chapter III, sections 25–32, governs citizenship."
+    },
+    {
+      "q": "Voluntary giving up of citizenship is:",
+      "options": [
+        "Deprivation",
+        "Renunciation",
+        "Naturalisation",
+        "Registration"
+      ],
+      "answer": 1,
+      "solution": "Renunciation under section 29 is the citizen's own declaration."
+    },
+    {
+      "q": "Which is a duty rather than a right of the citizen?",
+      "options": [
+        "Payment of tax",
+        "Fair hearing",
+        "Freedom of movement",
+        "Right to life"
+      ],
+      "answer": 0,
+      "solution": "Taxation is an obligation owed to the state."
+    },
+    {
+      "q": "Deprivation of citizenship may apply to a person who is a citizen by:",
+      "options": [
+        "Birth",
+        "Naturalisation",
+        "Descent",
+        "Blood"
+      ],
+      "answer": 1,
+      "solution": "Section 30 permits deprivation only for registered or naturalised citizens, e.g. for disloyalty."
+    },
+    {
+      "q": "The right to vote and be voted for is a:",
+      "options": [
+        "Civil right",
+        "Political right",
+        "Social right",
+        "Economic right"
+      ],
+      "answer": 1,
+      "solution": "Political rights concern participation in the choice and exercise of government power."
+    },
+    {
+      "q": "Consular assistance abroad is an obligation of the:",
+      "options": [
+        "Local government",
+        "State of citizenship",
+        "Host community",
+        "United Nations"
+      ],
+      "answer": 1,
+      "solution": "A state protects its nationals abroad through its embassies and consulates."
+    },
+    {
+      "q": "A woman married to a Nigerian may acquire citizenship by:",
+      "options": [
+        "Birth",
+        "Registration",
+        "Naturalisation only",
+        "Adoption"
+      ],
+      "answer": 1,
+      "solution": "Section 26(2)(a) provides for registration of a woman married to a Nigerian citizen."
+    },
+    {
+      "q": "Rights and duties are said to be:",
+      "options": [
+        "Unrelated",
+        "Reciprocal",
+        "Identical",
+        "Optional"
+      ],
+      "answer": 1,
+      "solution": "Every right implies a corresponding duty on the citizen and the state."
+    },
+    {
+      "q": "Which state obligation is directly served by the police?",
+      "options": [
+        "Security of life and property",
+        "Currency printing",
+        "Foreign trade",
+        "Constitutional amendment"
+      ],
+      "answer": 0,
+      "solution": "Internal security is a core obligation performed through the police."
+    },
+    {
+      "q": "A citizen who exposes corruption is exercising the right to:",
+      "options": [
+        "Free expression",
+        "Personal liberty",
+        "Fair hearing",
+        "Property"
+      ],
+      "answer": 0,
+      "solution": "Freedom of expression covers criticism of government and disclosure of wrongdoing."
+    },
+    {
+      "q": "Jus soli means citizenship by:",
+      "options": [
+        "Blood",
+        "Place of birth",
+        "Marriage",
+        "Purchase"
+      ],
+      "answer": 1,
+      "solution": "Jus soli, the right of the soil, confers citizenship on those born within the territory."
+    },
+    {
+      "q": "National service under the NYSC illustrates the citizen's duty to:",
+      "options": [
+        "Serve the nation",
+        "Pay tax",
+        "Vote",
+        "Own property"
+      ],
+      "answer": 0,
+      "solution": "Rendering national service is a civic obligation encouraged by the constitution."
+    }
+  ]
+}

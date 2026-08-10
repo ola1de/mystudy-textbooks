@@ -1,0 +1,223 @@
+{
+  "subject": "Government",
+  "level": "SSS 3",
+  "title": "Post-Independence Constitutions (1960–1999)",
+  "slug": "post-independence-constitutions",
+  "outline": [
+    "The 1960 Independence Constitution",
+    "The 1963 Republican Constitution",
+    "The 1979 Presidential Constitution",
+    "The 1989 and abortive 1995 constitutions",
+    "The 1999 Constitution",
+    "Comparison of parliamentary and presidential frameworks",
+    "Federalism and revenue allocation over time"
+  ],
+  "modules": [
+    {
+      "title": "1960 and 1963 Constitutions",
+      "html": "\n<h4>1. Independence Constitution, 1960</h4>\n<ul>\n<li>Nigeria became independent on <b>1 October 1960</b> as a federation of three regions with Lagos as federal capital.</li>\n<li><b>Parliamentary (Westminster) system</b>: Queen Elizabeth II remained Head of State, represented by <b>Governor-General Dr Nnamdi Azikiwe</b> (from November 1960); <b>Sir Abubakar Tafawa Balewa</b> was Prime Minister and head of government.</li>\n<li>Bicameral federal legislature: Senate and House of Representatives.</li>\n<li>Final appeal lay to the <b>Judicial Committee of the Privy Council</b> in London.</li>\n<li>Entrenched fundamental human rights (a response to the Willink Report).</li>\n<li>Judicial Service Commission and constitutional safeguards for regions.</li>\n</ul>\n<h4>2. Republican Constitution, 1963</h4>\n<ul>\n<li>Nigeria became a <b>Republic on 1 October 1963</b>; the Queen ceased to be Head of State.</li>\n<li><b>Dr Nnamdi Azikiwe</b> became the first ceremonial <b>President</b>, elected by a joint session of parliament; Balewa remained Prime Minister.</li>\n<li>Appeals to the Privy Council were abolished; the <b>Supreme Court of Nigeria</b> became the final court.</li>\n<li>The Mid-Western Region was created in 1963, making four regions.</li>\n<li>Retained the parliamentary system, federal structure and fundamental rights; the President was given emergency powers exercisable on the Prime Minister's advice.</li>\n</ul>\n<h4>3. Collapse of the First Republic</h4>\n<p>Census controversies (1962–63), the Western Region crisis and Operation Wetie, the treason trial of Awolowo, the disputed 1964 federal election and 1965 Western election, widespread violence and corruption culminated in the coup of <b>15 January 1966</b>, the counter-coup of July 1966, and eventually the civil war of 1967–70.</p>\n",
+      "examples": [
+        {
+          "q": "Distinguish the position of the Head of State in 1960 and in 1963.",
+          "a": "In <b>1960</b> the Head of State was the British monarch, Queen Elizabeth II, represented locally by a Governor-General; Nigeria was a constitutional monarchy within the Commonwealth. In <b>1963</b> Nigeria became a republic: the monarch was replaced by a Nigerian ceremonial President elected by parliament, sovereignty was fully localised, and appeals to the Privy Council ended. In both cases real executive power lay with the Prime Minister and cabinet."
+        },
+        {
+          "q": "Why was the Mid-Western Region created in 1963?",
+          "a": "To answer minority agitation from the non-Yoruba peoples of the Western Region (Edo, Urhobo, Itsekiri, Ijaw, Isoko) whose fears the Willink Commission had documented, and — politically — to weaken the Action Group's Western power base at a time when the NPC/NCNC coalition controlled the centre. It became the only region created by the constitutional referendum procedure."
+        }
+      ]
+    },
+    {
+      "title": "1979, 1989/1995 and 1999 Constitutions",
+      "html": "\n<h4>1. The 1979 Constitution</h4>\n<ul>\n<li>Drafted by the <b>Constitution Drafting Committee (1975–76)</b> chaired by Chief Rotimi Williams and refined by a Constituent Assembly under Justice Udo Udoma; promulgated for the Second Republic on <b>1 October 1979</b>.</li>\n<li>Introduced the <b>presidential system</b>: an executive President who is both Head of State and Head of Government, directly elected with the <b>two-thirds spread</b> requirement.</li>\n<li>Strict separation of powers with checks and balances; ministers not members of the legislature.</li>\n<li>Bicameral National Assembly (Senate and House of Representatives) and 19 states.</li>\n<li><b>Federal Character principle</b> introduced to ensure inclusive appointments.</li>\n<li>Chapter II Fundamental Objectives and Directive Principles (non-justiciable); Chapter IV justiciable rights.</li>\n<li>Parties required nationwide spread of membership and offices.</li>\n</ul>\n<h4>2. The 1989 and 1995 Documents</h4>\n<p>The <b>1989 Constitution</b> was produced for Babangida's transition, retaining the presidential model and a decreed two-party system; it never fully operated because the <b>12 June 1993</b> election was annulled. The <b>1995 draft</b>, from Abacha's Constitutional Conference, proposed rotational presidency among six zones and six vice-presidents; it was never promulgated.</p>\n<h4>3. The 1999 Constitution</h4>\n<ul>\n<li>Promulgated by Decree No. 24 of 1999 by General Abdulsalami Abubakar; in force from <b>29 May 1999</b>.</li>\n<li>Largely a restoration of the 1979 framework: presidential system, federalism with <b>36 states, the FCT and 774 local governments</b>.</li>\n<li>Section 1: supremacy of the constitution; section 14(2)(a): sovereignty belongs to the people.</li>\n<li>Bicameral National Assembly: 109 senators (3 per state plus 1 for FCT) and 360 representatives.</li>\n<li>Guaranteed democratically elected local government councils (section 7) and the State Joint Local Government Account (section 162(6)).</li>\n<li>Independent institutions: INEC, Federal Character Commission, Code of Conduct Bureau and Tribunal, National Judicial Council.</li>\n<li>Criticised for its military origin ('We the people' though not popularly ratified), over-centralisation of resources, and the exclusive list's length.</li>\n</ul>\n<h4>4. Comparative Summary</h4>\n<table class=\"tb-table\">\n<tr><th>Feature</th><th>1960/1963</th><th>1979</th><th>1999</th></tr>\n<tr><td>System</td><td>Parliamentary</td><td>Presidential</td><td>Presidential</td></tr>\n<tr><td>Head of State</td><td>Queen, then ceremonial President</td><td>Executive President</td><td>Executive President</td></tr>\n<tr><td>Units</td><td>3 then 4 regions</td><td>19 states</td><td>36 states + FCT</td></tr>\n<tr><td>Final court</td><td>Privy Council, then Supreme Court</td><td>Supreme Court</td><td>Supreme Court</td></tr>\n<tr><td>Origin</td><td>Negotiated with Britain</td><td>CDC and Constituent Assembly</td><td>Military decree</td></tr>\n</table>\n",
+      "examples": [
+        {
+          "q": "Why is the 1999 Constitution criticised as a 'military constitution'?",
+          "a": "It was promulgated by <b>Decree No. 24 of 1999</b> under General Abdulsalami Abubakar without a referendum or an elected constituent assembly, and its preamble's claim that 'We the people... do hereby make, enact and give to ourselves' is therefore contested. Critics add that it entrenches a centralised federalism inherited from military command structures — a long Exclusive Legislative List, federal control of the police and mineral resources — which fuels demands for restructuring."
+        },
+        {
+          "q": "State three innovations of the 1979 Constitution.",
+          "a": "(i) The <b>executive presidency</b> with direct election and the two-thirds spread requirement, replacing the Westminster model; (ii) the <b>federal character principle</b>, requiring that public appointments reflect national diversity; (iii) <b>Chapter II Fundamental Objectives and Directive Principles</b>, setting socio-economic goals of state policy, alongside a requirement that parties have national rather than regional character."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Nigeria became independent on:",
+      "options": [
+        "1 October 1960",
+        "1 October 1963",
+        "29 May 1999",
+        "15 January 1966"
+      ],
+      "answer": 0,
+      "solution": "Independence was granted on 1 October 1960 within the Commonwealth."
+    },
+    {
+      "q": "Under the 1960 Constitution the Head of State was:",
+      "options": [
+        "The Prime Minister",
+        "The Queen represented by a Governor-General",
+        "The President",
+        "The Chief Justice"
+      ],
+      "answer": 1,
+      "solution": "Nigeria remained a constitutional monarchy until 1963."
+    },
+    {
+      "q": "Nigeria's first Prime Minister was:",
+      "options": [
+        "Nnamdi Azikiwe",
+        "Tafawa Balewa",
+        "Obafemi Awolowo",
+        "Ahmadu Bello"
+      ],
+      "answer": 1,
+      "solution": "Sir Abubakar Tafawa Balewa headed the government from 1960."
+    },
+    {
+      "q": "Appeals to the Privy Council were abolished by the:",
+      "options": [
+        "1960 Constitution",
+        "1963 Constitution",
+        "1979 Constitution",
+        "1999 Constitution"
+      ],
+      "answer": 1,
+      "solution": "The Republican Constitution made the Supreme Court the final court of appeal."
+    },
+    {
+      "q": "The Mid-Western Region was created in:",
+      "options": [
+        "1960",
+        "1963",
+        "1967",
+        "1976"
+      ],
+      "answer": 1,
+      "solution": "It was carved out of the Western Region in 1963."
+    },
+    {
+      "q": "The presidential system was introduced in Nigeria by the:",
+      "options": [
+        "1963 Constitution",
+        "1979 Constitution",
+        "1989 Constitution",
+        "1995 draft"
+      ],
+      "answer": 1,
+      "solution": "The Second Republic under the 1979 Constitution adopted the executive presidency."
+    },
+    {
+      "q": "The Constitution Drafting Committee of 1975/76 was chaired by:",
+      "options": [
+        "Rotimi Williams",
+        "Udo Udoma",
+        "Ben Nwabueze",
+        "Nnamdi Azikiwe"
+      ],
+      "answer": 0,
+      "solution": "Chief F. R. A. Rotimi Williams chaired the CDC; Justice Udo Udoma chaired the Constituent Assembly."
+    },
+    {
+      "q": "The federal character principle was first entrenched in the:",
+      "options": [
+        "1960 Constitution",
+        "1963 Constitution",
+        "1979 Constitution",
+        "1954 Constitution"
+      ],
+      "answer": 2,
+      "solution": "It was introduced in 1979 to ensure inclusive appointments."
+    },
+    {
+      "q": "The 1999 Constitution came into force on:",
+      "options": [
+        "1 October 1999",
+        "29 May 1999",
+        "31 December 1998",
+        "12 June 1993"
+      ],
+      "answer": 1,
+      "solution": "It took effect with the handover to civilian rule on 29 May 1999."
+    },
+    {
+      "q": "The Nigerian Senate has how many members?",
+      "options": [
+        "360",
+        "109",
+        "36",
+        "774"
+      ],
+      "answer": 1,
+      "solution": "Three senators per state plus one for the FCT gives 109."
+    },
+    {
+      "q": "The House of Representatives has:",
+      "options": [
+        "109 members",
+        "360 members",
+        "469 members",
+        "774 members"
+      ],
+      "answer": 1,
+      "solution": "There are 360 federal constituencies."
+    },
+    {
+      "q": "The 1989 Constitution failed to operate fully because of:",
+      "options": [
+        "The annulment of the 12 June 1993 election",
+        "A referendum defeat",
+        "Court nullification",
+        "Lack of funds"
+      ],
+      "answer": 0,
+      "solution": "Annulment of the presidential election ended the Third Republic transition."
+    },
+    {
+      "q": "The 1995 draft constitution proposed:",
+      "options": [
+        "Rotational presidency among six zones",
+        "A monarchy",
+        "A unitary state",
+        "Return to parliamentary rule"
+      ],
+      "answer": 0,
+      "solution": "Abacha's Constitutional Conference proposed zoning and rotation; it was never promulgated."
+    },
+    {
+      "q": "Section 14(2)(a) of the 1999 Constitution declares that sovereignty belongs to:",
+      "options": [
+        "The President",
+        "The people",
+        "The National Assembly",
+        "The armed forces"
+      ],
+      "answer": 1,
+      "solution": "It affirms popular sovereignty as the source of governmental authority."
+    },
+    {
+      "q": "The First Republic collapsed in:",
+      "options": [
+        "1963",
+        "January 1966",
+        "1967",
+        "1970"
+      ],
+      "answer": 1,
+      "solution": "The coup of 15 January 1966 ended the First Republic."
+    },
+    {
+      "q": "Nigeria currently has how many states plus the FCT?",
+      "options": [
+        "19",
+        "21",
+        "30",
+        "36 plus FCT"
+      ],
+      "answer": 3,
+      "solution": "State creation ended in 1996 with 36 states and the Federal Capital Territory."
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "subject": "Government",
+  "level": "SSS 2",
+  "title": "Public Corporations and Privatization",
+  "slug": "public-corps-privatization",
+  "outline": [
+    "Meaning and features of public corporations",
+    "Reasons for establishing public corporations",
+    "Types and examples in Nigeria",
+    "Control of public corporations",
+    "Problems of public corporations",
+    "Privatization and commercialization: meaning and types",
+    "Arguments for and against privatization"
+  ],
+  "modules": [
+    {
+      "title": "Public Corporations",
+      "html": "\n<h4>1. Meaning and Features</h4>\n<p>A <b>public corporation</b> (statutory corporation or parastatal) is an organisation set up by an Act of parliament or decree, wholly or mainly owned by government, to provide essential goods and services on a commercial or quasi-commercial basis.</p>\n<p><b>Features:</b> creation by law; separate legal personality — it may sue and be sued in its own name; a governing board appointed by government; public ownership of capital; some managerial autonomy; provision of essential services; monopoly in many cases; staff who are not ordinary civil servants; accounts audited and laid before the legislature.</p>\n<h4>2. Reasons for Establishment</h4>\n<ol><li>To provide essential services that private capital cannot or will not supply.</li><li>To avoid exploitation by private monopolies in utilities.</li><li>To control the commanding heights of the economy.</li><li>To generate revenue and employment.</li><li>To promote even development across regions.</li><li>To prevent foreign domination of strategic sectors.</li><li>Because of the huge capital outlay required (railways, power, refineries).</li></ol>\n<h4>3. Examples</h4>\n<p>NNPC (now NNPC Limited), NEPA/PHCN (now unbundled), Nigerian Railway Corporation, NPA, NTA, FRCN, NIPOST, CBN, NDIC, NAFDAC, JAMB, WAEC, FAAN, NCC.</p>\n<h4>4. Control</h4>\n<table class=\"tb-table\">\n<tr><th>Controller</th><th>Instruments</th></tr>\n<tr><td>Legislature</td><td>Enabling Act, budgetary approval, oversight committees, Public Accounts Committee, annual reports</td></tr>\n<tr><td>Executive</td><td>Appointment and removal of board members, ministerial directives, approval of major projects</td></tr>\n<tr><td>Judiciary</td><td>Suits by aggrieved persons; judicial review of ultra vires acts</td></tr>\n<tr><td>Public / consumers</td><td>Consumer complaints, media pressure, Public Complaints Commission, regulatory agencies</td></tr>\n<tr><td>Auditors</td><td>Auditor-General's reports and external audit</td></tr>\n</table>\n<h4>5. Problems</h4>\n<ul><li>Political interference in appointments and pricing.</li><li>Corruption and mismanagement of funds.</li><li>Overstaffing and bloated recurrent costs.</li><li>Obsolete equipment and poor maintenance.</li><li>Inadequate capital and dependence on subventions.</li><li>Monopoly leading to inefficiency and poor service.</li><li>Conflict between commercial viability and social obligation.</li><li>Frequent policy changes and unstable boards.</li></ul>\n",
+      "examples": [
+        {
+          "q": "Why is a public corporation given separate legal personality?",
+          "a": "So that it can operate with commercial flexibility: it may enter contracts, own property, borrow, sue and be sued in its own name without involving the government directly. This insulates day-to-day management from the rigid civil-service procedures and financial regulations of a ministry, while government retains policy control through the enabling Act and board appointments."
+        },
+        {
+          "q": "Explain the conflict between commercial viability and social obligation using electricity supply.",
+          "a": "A power utility is expected to break even, yet is often required to extend lines to unprofitable rural areas and to keep tariffs politically low. Revenue then fails to cover costs, maintenance is deferred, the utility depends on subventions, and service quality deteriorates. Resolving this requires either explicit subsidy for the social obligation or cost-reflective tariffs with targeted support to the poor."
+        }
+      ]
+    },
+    {
+      "title": "Privatization and Commercialization",
+      "html": "\n<h4>1. Definitions</h4>\n<ul>\n<li><b>Privatization</b> — the transfer of ownership, wholly or partly, of a public enterprise to private individuals or firms, usually by sale of shares or assets.</li>\n<li><b>Commercialization</b> — reorganising a public enterprise so that it operates on profitable, business principles while remaining in public ownership.</li>\n</ul>\n<table class=\"tb-table\">\n<tr><th>Type</th><th>Meaning</th></tr>\n<tr><td>Full privatization</td><td>Government divests 100% of its equity</td></tr>\n<tr><td>Partial privatization</td><td>Government sells part and retains a shareholding</td></tr>\n<tr><td>Full commercialization</td><td>Enterprise finances itself entirely from revenue, no subvention, fixes own prices</td></tr>\n<tr><td>Partial commercialization</td><td>Enterprise generates some revenue but still receives capital support from government</td></tr>\n</table>\n<h4>2. Nigerian Framework</h4>\n<p>The <b>Privatisation and Commercialisation Decree No. 25 of 1988</b> created the Technical Committee on Privatisation and Commercialisation (TCPC) under Dr Hamza Zayyad. The <b>Public Enterprises (Privatisation and Commercialisation) Act 1999</b> established the <b>Bureau of Public Enterprises (BPE)</b> as the implementing agency and the <b>National Council on Privatisation (NCP)</b>, chaired by the Vice-President, as the policy organ. Major transactions have included Nigerian Telecommunications (NITEL), the cement and steel companies, NAFCON, and the unbundling and sale of PHCN successor generation and distribution companies in 2013.</p>\n<h4>3. Arguments For</h4>\n<ol><li>Improves efficiency through the profit motive and competition.</li><li>Reduces the fiscal burden of subventions on government.</li><li>Raises revenue from sale proceeds.</li><li>Attracts foreign investment, technology and management skill.</li><li>Broadens share ownership and deepens the capital market.</li><li>Frees government to concentrate on regulation and core functions.</li><li>Reduces political interference and corruption in commercial operations.</li></ol>\n<h4>4. Arguments Against</h4>\n<ol><li>Mass retrenchment and unemployment.</li><li>Higher prices once social pricing ends.</li><li>Concentration of national assets in few wealthy or foreign hands.</li><li>Sale of viable assets below value amid opaque bidding.</li><li>Neglect of unprofitable rural areas.</li><li>Loss of government revenue from profitable enterprises.</li><li>Threat to national security and sovereignty in strategic sectors.</li></ol>\n",
+      "examples": [
+        {
+          "q": "Assess the 2013 privatization of PHCN.",
+          "a": "PHCN was unbundled into six generation companies, eleven distribution companies and a state-owned transmission company, most of which were sold to private core investors under the BPE. Gains: private capital and metering investment, clearer commercial accountability, and an end to open-ended subvention. Shortcomings: liquidity crisis from non-cost-reflective tariffs, weak gas supply and transmission (still public), retained estimated billing, and mass staff disengagement — showing that privatization without a functioning regulator, tariff realism and complementary infrastructure yields limited improvement."
+        },
+        {
+          "q": "Distinguish privatization from commercialization with an example.",
+          "a": "When government sold its shares in NITEL to a private consortium, ownership left the public sector — that is <b>privatization</b>. When the Nigerian Ports Authority was directed to run on business lines, charge economic rates and stop relying on subventions while remaining government-owned, that is <b>commercialization</b>."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "A public corporation is established by:",
+      "options": [
+        "An Act of the legislature or decree",
+        "A party manifesto",
+        "A market association",
+        "A private trust deed"
+      ],
+      "answer": 0,
+      "solution": "Statutory corporations owe their existence to an enabling law."
+    },
+    {
+      "q": "Which is a feature of a public corporation?",
+      "options": [
+        "Separate legal personality",
+        "Absence of a board",
+        "Private ownership of capital",
+        "No enabling law"
+      ],
+      "answer": 0,
+      "solution": "It can sue and be sued in its own name."
+    },
+    {
+      "q": "Transfer of ownership of a public enterprise to private hands is:",
+      "options": [
+        "Commercialization",
+        "Privatization",
+        "Nationalization",
+        "Indigenisation"
+      ],
+      "answer": 1,
+      "solution": "Privatization changes ownership; commercialization changes only operating principles."
+    },
+    {
+      "q": "The agency implementing privatization in Nigeria is the:",
+      "options": [
+        "BPE",
+        "CBN",
+        "NNPC",
+        "NCC"
+      ],
+      "answer": 0,
+      "solution": "The Bureau of Public Enterprises executes NCP policy."
+    },
+    {
+      "q": "The National Council on Privatisation is chaired by the:",
+      "options": [
+        "President",
+        "Vice-President",
+        "Finance Minister",
+        "Senate President"
+      ],
+      "answer": 1,
+      "solution": "Under the 1999 Act the Vice-President chairs the NCP."
+    },
+    {
+      "q": "Decree No. 25 of 1988 established the:",
+      "options": [
+        "TCPC",
+        "INEC",
+        "EFCC",
+        "NDIC"
+      ],
+      "answer": 0,
+      "solution": "The Technical Committee on Privatisation and Commercialisation was set up in 1988."
+    },
+    {
+      "q": "A public enterprise that funds itself fully from revenue but stays government-owned is:",
+      "options": [
+        "Fully privatized",
+        "Fully commercialized",
+        "Nationalized",
+        "Liquidated"
+      ],
+      "answer": 1,
+      "solution": "Full commercialization means self-financing without change of ownership."
+    },
+    {
+      "q": "Which is an argument against privatization?",
+      "options": [
+        "Improved efficiency",
+        "Retrenchment and unemployment",
+        "Foreign investment",
+        "Revenue from sales"
+      ],
+      "answer": 1,
+      "solution": "Restructuring by private buyers usually reduces staff numbers."
+    },
+    {
+      "q": "Public corporations are controlled by the legislature mainly through:",
+      "options": [
+        "Oversight and budgetary approval",
+        "Appointment of directors",
+        "Court orders",
+        "Consumer boycott"
+      ],
+      "answer": 0,
+      "solution": "Committees, appropriations and annual reports are legislative instruments."
+    },
+    {
+      "q": "PHCN successor companies were largely sold in:",
+      "options": [
+        "2005",
+        "2009",
+        "2013",
+        "2019"
+      ],
+      "answer": 2,
+      "solution": "The handover of generation and distribution companies took place on 1 November 2013."
+    },
+    {
+      "q": "A major reason for establishing public corporations is:",
+      "options": [
+        "To provide essential services requiring huge capital",
+        "To win elections",
+        "To collect party dues",
+        "To draft the constitution"
+      ],
+      "answer": 0,
+      "solution": "Utilities like rail and power need capital beyond private reach in developing economies."
+    },
+    {
+      "q": "Overstaffing in parastatals leads to:",
+      "options": [
+        "High recurrent costs",
+        "Lower wage bills",
+        "Improved profits",
+        "Better maintenance"
+      ],
+      "answer": 0,
+      "solution": "Excess personnel raise costs and reduce funds for capital investment."
+    },
+    {
+      "q": "Which corporation regulates telecommunications in Nigeria?",
+      "options": [
+        "NCC",
+        "NPA",
+        "NRC",
+        "NTA"
+      ],
+      "answer": 0,
+      "solution": "The Nigerian Communications Commission regulates the telecoms sector."
+    },
+    {
+      "q": "Partial privatization means government:",
+      "options": [
+        "Sells all shares",
+        "Retains some equity",
+        "Buys new shares",
+        "Nationalises the firm"
+      ],
+      "answer": 1,
+      "solution": "Government divests part of its holding while retaining a stake."
+    },
+    {
+      "q": "A common cause of inefficiency in public corporations is:",
+      "options": [
+        "Political interference",
+        "Competition",
+        "Merit recruitment",
+        "Audit"
+      ],
+      "answer": 0,
+      "solution": "Politically driven appointments and pricing distort commercial management."
+    },
+    {
+      "q": "Privatization is expected to deepen the capital market by:",
+      "options": [
+        "Broadening share ownership",
+        "Banning stock trading",
+        "Reducing listings",
+        "Fixing prices"
+      ],
+      "answer": 0,
+      "solution": "Public offers of divested shares increase listings and retail participation."
+    }
+  ]
+}

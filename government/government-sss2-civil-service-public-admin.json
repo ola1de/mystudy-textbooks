@@ -1,0 +1,223 @@
+{
+  "subject": "Government",
+  "level": "SSS 2",
+  "title": "The Civil Service and Public Administration",
+  "slug": "civil-service-public-admin",
+  "outline": [
+    "Meaning of civil service and public service",
+    "Structure and hierarchy of the civil service",
+    "Features: anonymity, neutrality, permanence, impartiality",
+    "Functions of the civil service",
+    "The Civil Service Commission and recruitment",
+    "Problems of the Nigerian civil service and reforms",
+    "Bureaucracy after Max Weber"
+  ],
+  "modules": [
+    {
+      "title": "Nature, Structure and Features",
+      "html": "\n<h4>1. Meaning</h4>\n<p>The <b>civil service</b> is the body of permanent, paid officials employed in the civil capacity of the state to advise on and implement government policy in ministries, departments and extra-ministerial agencies. The wider <b>public service</b> includes the civil service plus the police, armed forces, judiciary staff, public corporations, universities and local government employees.</p>\n<h4>2. Structure of a Ministry</h4>\n<table class=\"tb-table\">\n<tr><th>Level</th><th>Officer</th><th>Role</th></tr>\n<tr><td>Political head</td><td>Minister / Commissioner</td><td>Policy direction and political responsibility</td></tr>\n<tr><td>Administrative head</td><td>Permanent Secretary / Director-General</td><td>Chief adviser and accounting officer of the ministry</td></tr>\n<tr><td>Directorate</td><td>Directors and Deputy Directors</td><td>Head departments and divisions</td></tr>\n<tr><td>Middle</td><td>Assistant Directors, Chief and Principal Officers</td><td>Branches and sections</td></tr>\n<tr><td>Junior</td><td>Executive, clerical and support staff</td><td>Routine implementation</td></tr>\n</table>\n<p>The service is grouped into <b>classes</b>: administrative, professional, executive, clerical and manipulative/auxiliary.</p>\n<h4>3. Features</h4>\n<ol><li><b>Permanence</b> — officials remain when governments change.</li><li><b>Neutrality</b> — they serve any government of the day without partisanship.</li><li><b>Anonymity</b> — they act in the minister's name; the minister answers publicly.</li><li><b>Impartiality</b> — decisions follow rules, not personal or ethnic favour.</li><li><b>Hierarchy</b> — clear chain of command and channels of communication.</li><li><b>Expertise and professionalism</b> — recruitment by merit and competitive examination.</li><li><b>Official secrecy</b> — bound by the Official Secrets Act and oath.</li></ol>\n<h4>4. Weber's Bureaucracy</h4>\n<p>Max Weber's ideal type of bureaucracy features hierarchy of offices, division of labour by specialisation, written rules and records, impersonality, recruitment and promotion by merit, and a career structure with fixed salaries. It maximises efficiency but risks <b>red tape</b>, rigidity and goal displacement, where rules become ends in themselves.</p>\n",
+      "examples": [
+        {
+          "q": "A ministry is criticised in the National Assembly for a failed contract. Who answers and why?",
+          "a": "The <b>Minister</b> answers, under the doctrine of <b>ministerial responsibility</b>, because civil servants act anonymously in his name. Internally the <b>Permanent Secretary</b>, as accounting officer, bears responsibility for financial regularity and may be queried, disciplined or invited by the Public Accounts Committee, but publicly and politically the minister carries the blame."
+        },
+        {
+          "q": "Why must the civil service be politically neutral?",
+          "a": "Because governments change but administration must continue. Neutrality ensures continuity of policy implementation, protects officials from dismissal on partisan grounds, guarantees that the incoming government inherits trustworthy advisers, and preserves public confidence that state resources are not used for party advantage."
+        }
+      ]
+    },
+    {
+      "title": "Functions, Commissions, Problems and Reform",
+      "html": "\n<h4>1. Functions of the Civil Service</h4>\n<ol><li>Advising ministers on policy formulation.</li><li>Implementing and administering approved policies and laws.</li><li>Providing continuity and institutional memory.</li><li>Delegated legislation: drafting rules and regulations.</li><li>Quasi-judicial functions through tribunals and disciplinary panels.</li><li>Collection of revenue and management of public finance.</li><li>Delivery of public services and record keeping.</li><li>Representing government in negotiations and international meetings.</li></ol>\n<h4>2. The Federal Civil Service Commission</h4>\n<p>Established under section 153 of the 1999 Constitution, it appoints, promotes, transfers and disciplines civil servants (other than those in offices reserved to other bodies), insulating recruitment from political interference and applying the federal character principle.</p>\n<h4>3. Problems of the Nigerian Civil Service</h4>\n<table class=\"tb-table\">\n<tr><th>Problem</th><th>Effect</th></tr>\n<tr><td>Corruption and bribery</td><td>Inflated contracts, ghost workers, loss of revenue</td></tr>\n<tr><td>Red tape and excessive procedure</td><td>Delay in service delivery</td></tr>\n<tr><td>Political interference</td><td>Erosion of neutrality and merit</td></tr>\n<tr><td>Poor remuneration and welfare</td><td>Low morale, brain drain, moonlighting</td></tr>\n<tr><td>Overstaffing at junior levels, shortage of specialists</td><td>High wage bill, weak technical capacity</td></tr>\n<tr><td>Nepotism and quota abuse</td><td>Mediocre appointments</td></tr>\n<tr><td>Obsolete equipment and poor records</td><td>Inefficiency and lost files</td></tr>\n</table>\n<h4>4. Reform Efforts</h4>\n<ul><li><b>Udoji Commission (1972–1974)</b> — unified grading and salary structure, management by objectives.</li><li><b>Dotun Phillips Panel (1985)</b> and the <b>1988 Civil Service Reorganisation Decree</b> — made ministers chief executives and professionalised ministries; largely reversed in 1995 on the Ayida Panel's advice.</li><li><b>Ayida Review Panel (1994–1995)</b> — restored the office of Permanent Secretary and the pool system.</li><li>Modern measures: monetisation of benefits, IPPIS payroll and BVN verification to remove ghost workers, e-governance, due process/BPP procurement reform, treasury single account, SERVICOM service charters, and performance-based promotion.</li></ul>\n",
+      "examples": [
+        {
+          "q": "Evaluate the impact of the 1988 civil service reform.",
+          "a": "It made the Minister both chief executive and accounting officer, abolished the pool system so that officers made careers within one ministry, and created professionalised directorates. Intended benefits were specialisation and clearer responsibility. In practice it politicised administration, eroded the neutrality and anonymity of career officers, weakened financial control and blurred the adviser–decider distinction, so the Ayida Panel recommended restoration of the Permanent Secretary system in 1995."
+        },
+        {
+          "q": "How does the IPPIS reduce payroll fraud?",
+          "a": "The Integrated Personnel and Payroll Information System centralises staff records and pays salaries directly from a single database linked to Bank Verification Numbers. Duplicate and fictitious 'ghost workers' cannot survive biometric verification, and ministries lose the discretion to inflate nominal rolls, thereby cutting recurrent expenditure and improving transparency."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "The administrative head of a Nigerian federal ministry is the:",
+      "options": [
+        "Minister",
+        "Permanent Secretary",
+        "Director-General of NAFDAC",
+        "Chief Justice"
+      ],
+      "answer": 1,
+      "solution": "The Permanent Secretary is the career head and accounting officer of the ministry."
+    },
+    {
+      "q": "Civil servants remain in office when governments change because of:",
+      "options": [
+        "Anonymity",
+        "Permanence",
+        "Impartiality",
+        "Secrecy"
+      ],
+      "answer": 1,
+      "solution": "Permanence guarantees continuity of administration."
+    },
+    {
+      "q": "The doctrine that a minister answers publicly for his ministry is:",
+      "options": [
+        "Ministerial responsibility",
+        "Judicial review",
+        "Federal character",
+        "Ultra vires"
+      ],
+      "answer": 0,
+      "solution": "Ministerial responsibility complements civil-service anonymity."
+    },
+    {
+      "q": "Recruitment into the federal civil service is handled by the:",
+      "options": [
+        "Federal Civil Service Commission",
+        "National Assembly",
+        "Presidency alone",
+        "INEC"
+      ],
+      "answer": 0,
+      "solution": "Section 153 establishes the Commission to appoint, promote and discipline officers."
+    },
+    {
+      "q": "The Udoji Commission reported in:",
+      "options": [
+        "1954",
+        "1963",
+        "1974",
+        "1988"
+      ],
+      "answer": 2,
+      "solution": "The Udoji Public Service Review Commission reported in 1974, introducing a unified grading structure."
+    },
+    {
+      "q": "Excessive adherence to rules and procedures is called:",
+      "options": [
+        "Red tape",
+        "Neutrality",
+        "Anonymity",
+        "Delegation"
+      ],
+      "answer": 0,
+      "solution": "Red tape is bureaucratic delay caused by procedural rigidity."
+    },
+    {
+      "q": "Weber's bureaucracy emphasises:",
+      "options": [
+        "Hierarchy, rules and merit",
+        "Nepotism",
+        "Hereditary office",
+        "Random selection"
+      ],
+      "answer": 0,
+      "solution": "The ideal type stresses hierarchy, written rules, impersonality and merit recruitment."
+    },
+    {
+      "q": "Which is NOT part of the civil service proper?",
+      "options": [
+        "Ministry of Finance staff",
+        "Armed forces",
+        "Ministry of Education staff",
+        "Cabinet Office staff"
+      ],
+      "answer": 1,
+      "solution": "Soldiers belong to the wider public service but not the civil service, which is civil in character."
+    },
+    {
+      "q": "The 1988 reform made the chief executive of a ministry the:",
+      "options": [
+        "Permanent Secretary",
+        "Minister",
+        "Director of Finance",
+        "Head of Service"
+      ],
+      "answer": 1,
+      "solution": "The reform designated the Minister as chief executive and accounting officer."
+    },
+    {
+      "q": "The Ayida Panel of 1994/95 recommended:",
+      "options": [
+        "Abolition of ministries",
+        "Restoration of the Permanent Secretary system",
+        "Sale of all parastatals",
+        "Creation of states"
+      ],
+      "answer": 1,
+      "solution": "It reversed key 1988 changes and restored the traditional career structure."
+    },
+    {
+      "q": "Payment of salaries through a central biometric database is achieved by:",
+      "options": [
+        "IPPIS",
+        "SERVICOM",
+        "NAPEP",
+        "NDE"
+      ],
+      "answer": 0,
+      "solution": "IPPIS centralises personnel and payroll data to eliminate ghost workers."
+    },
+    {
+      "q": "Anonymity of civil servants means they:",
+      "options": [
+        "Work without public credit or blame",
+        "Hide their identity cards",
+        "Never write reports",
+        "Are unknown to ministers"
+      ],
+      "answer": 0,
+      "solution": "They act in the minister's name and are shielded from public accountability."
+    },
+    {
+      "q": "Which class of the civil service handles routine record keeping?",
+      "options": [
+        "Administrative",
+        "Professional",
+        "Clerical",
+        "Executive"
+      ],
+      "answer": 2,
+      "solution": "The clerical class performs routine documentation and record duties."
+    },
+    {
+      "q": "Drafting of subsidiary rules under an Act is:",
+      "options": [
+        "Delegated legislation",
+        "Judicial review",
+        "Impeachment",
+        "Adjudication"
+      ],
+      "answer": 0,
+      "solution": "Officials make regulations under powers delegated by the legislature."
+    },
+    {
+      "q": "A key cause of low morale in the Nigerian civil service is:",
+      "options": [
+        "High salaries",
+        "Poor remuneration and welfare",
+        "Excess training",
+        "Merit promotion"
+      ],
+      "answer": 1,
+      "solution": "Inadequate pay and welfare drive brain drain and corruption."
+    },
+    {
+      "q": "SERVICOM was introduced to:",
+      "options": [
+        "Improve service delivery to citizens",
+        "Recruit soldiers",
+        "Conduct elections",
+        "Sell parastatals"
+      ],
+      "answer": 0,
+      "solution": "SERVICOM sets service charters and standards for public agencies."
+    }
+  ]
+}

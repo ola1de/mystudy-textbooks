@@ -1,0 +1,236 @@
+{
+  "subject": "Government",
+  "level": "SSS 1",
+  "title": "The State, Nation, and Society",
+  "slug": "state-nation-society",
+  "outline": [
+    "Meaning and features of a state",
+    "Population, territory, government and sovereignty",
+    "Distinction between state and nation",
+    "Nation-state and multi-national state",
+    "State versus society and association",
+    "Theories of the origin of the state",
+    "Functions and end of the state",
+    "Nigeria as a multi-ethnic state"
+  ],
+  "modules": [
+    {
+      "title": "The Four Essential Elements of a State",
+      "html": "<p>A <b>state</b> is a politically organised body of people occupying a definite territory, under a government, and free from\nexternal control. Four elements must be present together; the absence of any one means the entity is not a state.</p>\n<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Element</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Explanation</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Note</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Population</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">A permanent body of people living together.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">No minimum number is fixed; the Vatican has fewer than 1,000 citizens.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Territory</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">A defined geographical area including land, territorial waters and airspace.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Boundaries need not be undisputed, only identifiable.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Government</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The machinery that formulates and enforces the collective will.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Form is irrelevant &ndash; monarchy, republic or military regime.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Sovereignty</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Supreme legal authority internally and independence externally.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The decisive element; a colony has the first three but not this.</td></tr></tbody></table>\n<p><b>Permanence</b> is sometimes added as a fifth feature: the state outlives any particular government or generation.\nGovernments change every four years in Nigeria; the Nigerian state persists.</p>",
+      "examples": [
+        {
+          "q": "Why was colonial Nigeria (1914&ndash;1960) not a state?",
+          "a": "It had population, territory and a government, but sovereignty resided in Britain. Lacking independence, it was a dependency, not a state."
+        }
+      ]
+    },
+    {
+      "title": "State, Nation and Nation-State",
+      "html": "<p>A <b>nation</b> is a group of people bound together by a sense of common identity &mdash; shared language, culture, history,\nreligion or ancestry &mdash; and a will to live together. It is a <i>sociological and psychological</i> concept, whereas the state\nis a <i>legal and political</i> one.</p>\n<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Basis</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">State</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Nation</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Nature</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Legal and political entity.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Cultural and psychological entity.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Essential element</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Sovereignty.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Common consciousness and identity.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Territory</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Must have a defined territory.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">May have no territory (e.g. the Kurds).</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Membership</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">All who owe allegiance, including naturalised aliens.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Those who share the culture and sentiment.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Force</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Can lawfully compel obedience.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Relies on sentiment, not coercion.</td></tr></tbody></table>\n<p>Where the boundaries of the nation coincide with those of the state, we have a <b>nation-state</b> (Japan, Iceland, Somalia\napproximately). Where many nations live within one state we have a <b>multi-national or multi-ethnic state</b> &mdash; Nigeria,\nwith more than 250 ethnic groups, is the classic African example. Conversely one nation may be spread across several states,\nas with the Yoruba in Nigeria, Benin and Togo.</p>",
+      "examples": [
+        {
+          "q": "Is Nigeria a nation-state? Justify.",
+          "a": "Strictly, no. Nigeria is a multi-national state: over 250 ethnic nations (Hausa, Yoruba, Igbo, Ijaw, Tiv and others) live within one sovereign state. Nation-building policies such as NYSC and the federal character principle aim to forge a single Nigerian nation."
+        }
+      ]
+    },
+    {
+      "title": "Society, Association and the State",
+      "html": "<p><b>Society</b> is the widest grouping of human beings living together and interacting for the satisfaction of their needs.\nIt embraces the family, the school, the market, the church and the state itself. Society is therefore <i>older and wider</i>\nthan the state.</p>\n<p>An <b>association</b> is an organised group formed for a specific purpose &mdash; the Nigerian Bar Association, a cooperative\nsociety, a football club. Compare the three:</p>\n<ul>\n<li><b>Membership:</b> compulsory in the state; voluntary in an association; automatic in society.</li>\n<li><b>Purpose:</b> the state pursues the general welfare; an association pursues a limited aim; society covers the whole of\nsocial life.</li>\n<li><b>Sanction:</b> only the state may lawfully use force; an association may only expel a member.</li>\n</ul>\n<p>Because the state alone possesses the <b>monopoly of legitimate force</b> (Max Weber), it stands above all other associations\nwithin its territory.</p>",
+      "examples": [
+        {
+          "q": "Give one reason why membership of a state differs from membership of a club.",
+          "a": "Membership of a state is compulsory &ndash; one is born into it and cannot simply resign &ndash; while club membership is voluntary and may be ended at will."
+        }
+      ]
+    },
+    {
+      "title": "Theories of the Origin of the State",
+      "html": "<p>Four theories are examined at this level.</p>\n<ol>\n<li><b>Divine Right Theory:</b> the state was created by God and the ruler is God's deputy, answerable only to God. Popular in\nmedieval Europe (King James I of England, Louis XIV of France). Criticised as unverifiable and a licence for tyranny.</li>\n<li><b>Social Contract Theory:</b> the state arose from an agreement among people to escape the state of nature.\n<i>Thomas Hobbes</i> described life in the state of nature as “solitary, poor, nasty, brutish and short” and surrendered all\nrights to an absolute sovereign; <i>John Locke</i> saw the state of nature as tolerable and surrendered only limited powers,\nretaining life, liberty and property, with a right of revolt; <i>Jean-Jacques Rousseau</i> based the state on the\n<b>general will</b> of the people.</li>\n<li><b>Force Theory:</b> the state grew out of conquest &mdash; the strong subdued the weak. Explains the growth of empires such as\nthe Oyo and Sokoto, but cannot explain voluntary allegiance.</li>\n<li><b>Evolutionary (Natural/Patriarchal) Theory:</b> the state grew gradually from the family to the clan, the village and the\nkingdom. Aristotle's dictum that “man is by nature a political animal” supports this view, which most scholars accept.</li>\n</ol>",
+      "examples": [
+        {
+          "q": "Which social contract theorist justified the right of the people to overthrow a bad government?",
+          "a": "John Locke. Because the contract was limited and conditional, a ruler who violates natural rights breaks the trust and may lawfully be resisted."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which element distinguishes a state from a colony?",
+      "options": [
+        "Population",
+        "Territory",
+        "Sovereignty",
+        "Government"
+      ],
+      "answer": 2,
+      "solution": "A colony has the other three but its sovereignty lies elsewhere."
+    },
+    {
+      "q": "A nation is best described as",
+      "options": [
+        "A legal entity with sovereignty",
+        "A people bound by common culture and identity",
+        "A defined territory",
+        "An organ of government"
+      ],
+      "answer": 1,
+      "solution": "The nation is a cultural and psychological grouping."
+    },
+    {
+      "q": "Nigeria is best described as a",
+      "options": [
+        "Nation-state",
+        "City-state",
+        "Multi-national state",
+        "Confederation"
+      ],
+      "answer": 2,
+      "solution": "Over 250 ethnic nations live within one Nigerian state."
+    },
+    {
+      "q": "The state differs from other associations because it alone",
+      "options": [
+        "Has members",
+        "Has rules",
+        "Possesses the monopoly of legitimate force",
+        "Collects dues"
+      ],
+      "answer": 2,
+      "solution": "Max Weber's definition emphasises the monopoly of legitimate force."
+    },
+    {
+      "q": "'Man is by nature a political animal' was said by",
+      "options": [
+        "Plato",
+        "Aristotle",
+        "Hobbes",
+        "Rousseau"
+      ],
+      "answer": 1,
+      "solution": "Aristotle in <i>The Politics</i>."
+    },
+    {
+      "q": "Hobbes described life in the state of nature as",
+      "options": [
+        "Peaceful and free",
+        "Solitary, poor, nasty, brutish and short",
+        "Governed by the general will",
+        "Guided by natural law"
+      ],
+      "answer": 1,
+      "solution": "This is the famous phrase from <i>Leviathan</i> (1651)."
+    },
+    {
+      "q": "The theory that the state was created by God is the",
+      "options": [
+        "Force theory",
+        "Divine right theory",
+        "Social contract theory",
+        "Evolutionary theory"
+      ],
+      "answer": 1,
+      "solution": "Divine right theory holds the ruler to be God's deputy."
+    },
+    {
+      "q": "The concept of the general will is associated with",
+      "options": [
+        "Locke",
+        "Hobbes",
+        "Rousseau",
+        "Bodin"
+      ],
+      "answer": 2,
+      "solution": "Rousseau developed the general will in <i>The Social Contract</i>."
+    },
+    {
+      "q": "Which of these is NOT an element of a state?",
+      "options": [
+        "Sovereignty",
+        "Territory",
+        "Political party",
+        "Population"
+      ],
+      "answer": 2,
+      "solution": "Parties are voluntary associations, not elements of statehood."
+    },
+    {
+      "q": "Society differs from the state because society is",
+      "options": [
+        "Narrower",
+        "Wider and older",
+        "Sovereign",
+        "Territorially defined"
+      ],
+      "answer": 1,
+      "solution": "Society precedes and contains the state."
+    },
+    {
+      "q": "A nation without a state of its own is exemplified by the",
+      "options": [
+        "French",
+        "Kurds",
+        "Japanese",
+        "Ghanaians"
+      ],
+      "answer": 1,
+      "solution": "The Kurds are a nation spread across several states."
+    },
+    {
+      "q": "The most widely accepted theory of the origin of the state is the",
+      "options": [
+        "Divine right theory",
+        "Force theory",
+        "Evolutionary theory",
+        "Matriarchal theory"
+      ],
+      "answer": 2,
+      "solution": "Gradual evolution from family to state is the most defensible account."
+    },
+    {
+      "q": "Which theorist favoured an absolute sovereign?",
+      "options": [
+        "Locke",
+        "Rousseau",
+        "Hobbes",
+        "Montesquieu"
+      ],
+      "answer": 2,
+      "solution": "Hobbes surrendered all rights to an absolute sovereign."
+    },
+    {
+      "q": "Territory of a state includes all EXCEPT",
+      "options": [
+        "Land mass",
+        "Territorial waters",
+        "Airspace",
+        "Foreign embassies of other countries on its soil"
+      ],
+      "answer": 3,
+      "solution": "Foreign embassies enjoy extra-territorial status."
+    },
+    {
+      "q": "The permanence of the state means that",
+      "options": [
+        "Governments never change",
+        "The state survives changes of government",
+        "Boundaries never change",
+        "Citizens never change"
+      ],
+      "answer": 1,
+      "solution": "The state persists while governments come and go."
+    },
+    {
+      "q": "Membership of a state is",
+      "options": [
+        "Voluntary",
+        "Compulsory",
+        "By subscription",
+        "By election"
+      ],
+      "answer": 1,
+      "solution": "One is born into or naturalised into a state; it is not optional."
+    }
+  ]
+}

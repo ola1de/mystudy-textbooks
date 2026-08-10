@@ -1,0 +1,236 @@
+{
+  "subject": "Government",
+  "level": "SSS 1",
+  "title": "Constitutions and Constitutionalism",
+  "slug": "constitutions-constitutionalism",
+  "outline": [
+    "Meaning and purposes of a constitution",
+    "Sources of a constitution",
+    "Written and unwritten constitutions",
+    "Rigid and flexible constitutions",
+    "Unitary, federal and confederal constitutions",
+    "Meaning of constitutionalism",
+    "Constitutional amendment procedures",
+    "Nigerian constitutional experience in outline"
+  ],
+  "modules": [
+    {
+      "title": "Meaning, Sources and Purposes",
+      "html": "<p>A <b>constitution</b> is the body of fundamental rules &mdash; written or unwritten, legal and conventional &mdash; according to\nwhich a state is governed. It creates the organs of government, distributes powers among them, defines the relationship\nbetween government and citizen, and provides the procedure for its own amendment.</p>\n<p><b>Sources of a constitution:</b></p>\n<ul>\n<li><b>Statutes / Acts of parliament</b> &mdash; e.g. the Magna Carta 1215, the Bill of Rights 1689.</li>\n<li><b>Judicial precedent</b> &mdash; decisions of superior courts interpreting the constitution.</li>\n<li><b>Conventions</b> &mdash; unwritten practices regarded as binding, e.g. that the British monarch assents to bills.</li>\n<li><b>Customs and traditions</b> of the people.</li>\n<li><b>Constitutional conferences and commissions</b> &mdash; e.g. the 1957&ndash;58 London and Lagos conferences.</li>\n<li><b>Foreign constitutions and international treaties.</b></li>\n<li><b>Historical documents and past constitutions.</b></li>\n<li><b>Works of eminent jurists.</b></li>\n</ul>\n<p><b>Purposes:</b> to establish and limit government, guarantee fundamental rights, distribute powers between organs and\nlevels, provide legitimacy and stability, and supply an orderly method of change.</p>",
+      "examples": [
+        {
+          "q": "Give one Nigerian example of a convention.",
+          "a": "The practice of zoning the presidency between the North and the South, and the informal rotation of party offices, are political conventions: they are not written in the 1999 Constitution but are widely observed."
+        }
+      ]
+    },
+    {
+      "title": "Written and Unwritten Constitutions",
+      "html": "<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Basis</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Written constitution</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Unwritten constitution</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Form</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Provisions assembled in a single formal document.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Scattered across statutes, conventions, precedents and treatises.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Origin</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Usually the product of a deliberate act &ndash; a convention or assembly.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Grows gradually over centuries.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Examples</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Nigeria (1999), USA (1787), India.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">United Kingdom, Israel, New Zealand.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Amendment</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Normally rigid, needing a special procedure.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Normally flexible; ordinary legislation suffices.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Merits</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Clarity, certainty, safeguard for rights, suitable for federations.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Flexible, adaptable, avoids deadlock.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Demerits</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">May be rigid and outdated; legalistic disputes.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Uncertain, unsuitable for federations, weak protection for minorities.</td></tr></tbody></table>\n<p>Note carefully: <i>no constitution is wholly written or wholly unwritten</i>. Nigeria's written constitution operates\nalongside unwritten conventions; Britain's unwritten constitution includes many written statutes.</p>",
+      "examples": [
+        {
+          "q": "Why is a written constitution regarded as essential in a federation?",
+          "a": "Because the division of powers between the central and component governments must be clear, certain and beyond unilateral alteration; only a written, entrenched document can guarantee that."
+        }
+      ]
+    },
+    {
+      "title": "Rigid and Flexible Constitutions",
+      "html": "<p>A <b>rigid constitution</b> is one that can only be amended by a special, difficult procedure &mdash; a special majority,\napproval by component units, or a referendum. A <b>flexible constitution</b> can be amended by the ordinary law-making\nprocess.</p>\n<p>Nigeria's 1999 Constitution is rigid. Under section 9, an ordinary amendment requires:</p>\n<ol>\n<li>A resolution supported by at least <b>two-thirds majority</b> of all the members of each House of the National Assembly;\nand</li>\n<li>Approval by resolution of the Houses of Assembly of <b>not less than two-thirds of all the 36 states</b>.</li>\n</ol>\n<p>Amendments touching sections 8 (creation of states), 9 (the amendment procedure itself) and Chapter IV (fundamental\nrights) require a <b>four-fifths majority</b> of all members of each House of the National Assembly, plus the two-thirds of\nstate assemblies.</p>\n<p><b>Merits of rigidity:</b> stability, protection of minorities and rights, prevention of hasty change, safeguard of the\nfederal bargain. <b>Demerits:</b> difficulty of adapting to new needs; may provoke extra-constitutional change such as coups.</p>",
+      "examples": [
+        {
+          "q": "Which majority is required to alter the fundamental rights chapter of the 1999 Constitution?",
+          "a": "A four-fifths majority of all the members of each House of the National Assembly, together with the approval of at least two-thirds of the 36 state Houses of Assembly."
+        }
+      ]
+    },
+    {
+      "title": "Constitutionalism",
+      "html": "<p><b>Constitutionalism</b> is the doctrine that government must be conducted according to, and limited by, the constitution.\nThe mere existence of a constitution is not enough; constitutionalism requires that it be <i>obeyed</i>. As the saying goes,\n“every state has a constitution, but not every state practises constitutionalism.”</p>\n<p><b>Features of constitutionalism:</b></p>\n<ul>\n<li>Supremacy of the constitution &mdash; section 1(1) and 1(3) of the 1999 Constitution declare it supreme and void any\ninconsistent law.</li>\n<li>Rule of law and equality before the law.</li>\n<li>Separation of powers with checks and balances.</li>\n<li>Independent judiciary and judicial review.</li>\n<li>Guaranteed fundamental human rights.</li>\n<li>Periodic free elections and limited tenure.</li>\n<li>Accountability and transparency in government.</li>\n</ul>\n<p><b>Obstacles in Nigeria:</b> military interventions that suspended constitutions, executive lawlessness and disobedience of\ncourt orders, abuse of emergency powers, corruption, ethnic pressures and weak institutions.</p>",
+      "examples": [
+        {
+          "q": "A state governor refuses to obey a valid court judgment. Which principle is violated?",
+          "a": "Constitutionalism, and specifically the rule of law: government must act within the law and submit to the decisions of the courts."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "A constitution is best defined as",
+      "options": [
+        "A book of laws for criminals",
+        "The body of fundamental rules by which a state is governed",
+        "The manifesto of a party",
+        "A treaty between states"
+      ],
+      "answer": 1,
+      "solution": "It is the fundamental law establishing and limiting government."
+    },
+    {
+      "q": "Which country operates an unwritten constitution?",
+      "options": [
+        "Nigeria",
+        "United States",
+        "United Kingdom",
+        "India"
+      ],
+      "answer": 2,
+      "solution": "Britain's constitution is scattered and largely conventional."
+    },
+    {
+      "q": "A rigid constitution is one that",
+      "options": [
+        "Cannot be amended at all",
+        "Requires a special procedure to amend",
+        "Is amended by ordinary law",
+        "Is unwritten"
+      ],
+      "answer": 1,
+      "solution": "Rigidity refers to a special amendment procedure."
+    },
+    {
+      "q": "Section 9 of the 1999 Constitution deals with",
+      "options": [
+        "Fundamental rights",
+        "Citizenship",
+        "Alteration of the constitution",
+        "The judiciary"
+      ],
+      "answer": 2,
+      "solution": "It prescribes the amendment procedure."
+    },
+    {
+      "q": "Ordinary amendment of the 1999 Constitution requires the approval of",
+      "options": [
+        "A simple majority of the National Assembly",
+        "Two-thirds of each House plus two-thirds of state assemblies",
+        "The President alone",
+        "A national referendum"
+      ],
+      "answer": 1,
+      "solution": "That is the section 9(2) requirement."
+    },
+    {
+      "q": "Which is NOT a source of a constitution?",
+      "options": [
+        "Judicial precedent",
+        "Conventions",
+        "Weather patterns",
+        "Statutes"
+      ],
+      "answer": 2,
+      "solution": "Weather has no bearing on constitutional sources."
+    },
+    {
+      "q": "Conventions are",
+      "options": [
+        "Written laws passed by parliament",
+        "Unwritten practices regarded as binding",
+        "Court judgments",
+        "Treaties"
+      ],
+      "answer": 1,
+      "solution": "They are customary practices accepted as obligatory."
+    },
+    {
+      "q": "Constitutionalism means",
+      "options": [
+        "Having a constitution",
+        "Government limited by and conducted according to the constitution",
+        "Amending the constitution often",
+        "Military rule"
+      ],
+      "answer": 1,
+      "solution": "It is limited government under the constitution."
+    },
+    {
+      "q": "Supremacy of the Nigerian constitution is declared in",
+      "options": [
+        "Section 1",
+        "Section 14",
+        "Section 40",
+        "Section 305"
+      ],
+      "answer": 0,
+      "solution": "Section 1(1) and 1(3) establish supremacy."
+    },
+    {
+      "q": "A merit of a written constitution is",
+      "options": [
+        "Uncertainty",
+        "Clarity and certainty",
+        "Ease of frequent change",
+        "Absence of rights"
+      ],
+      "answer": 1,
+      "solution": "The rules are stated clearly in one document."
+    },
+    {
+      "q": "A federation requires a constitution that is",
+      "options": [
+        "Unwritten and flexible",
+        "Written and rigid",
+        "Oral",
+        "Temporary"
+      ],
+      "answer": 1,
+      "solution": "The federal bargain must be entrenched."
+    },
+    {
+      "q": "The Magna Carta of 1215 is a source of the constitution of",
+      "options": [
+        "Nigeria",
+        "The United Kingdom",
+        "France",
+        "Ghana"
+      ],
+      "answer": 1,
+      "solution": "It is a foundational British constitutional document."
+    },
+    {
+      "q": "Judicial review is best protected by",
+      "options": [
+        "An executive-controlled court",
+        "An independent judiciary",
+        "A single-party legislature",
+        "The armed forces"
+      ],
+      "answer": 1,
+      "solution": "Only an independent judiciary can check other organs."
+    },
+    {
+      "q": "Amendment of Chapter IV of the 1999 Constitution requires",
+      "options": [
+        "Simple majority",
+        "Two-thirds majority only",
+        "Four-fifths majority of each House plus two-thirds of states",
+        "Presidential decree"
+      ],
+      "answer": 2,
+      "solution": "Fundamental rights are specially entrenched."
+    },
+    {
+      "q": "A demerit of a rigid constitution is that it",
+      "options": [
+        "Protects minorities",
+        "May be difficult to adapt to change",
+        "Provides certainty",
+        "Suits federations"
+      ],
+      "answer": 1,
+      "solution": "Rigidity can frustrate needed reform."
+    },
+    {
+      "q": "Which statement is TRUE?",
+      "options": [
+        "Every constitution is entirely written",
+        "No constitution is wholly written or wholly unwritten",
+        "Unwritten constitutions have no statutes",
+        "Written constitutions have no conventions"
+      ],
+      "answer": 1,
+      "solution": "All constitutions mix written and unwritten elements."
+    }
+  ]
+}

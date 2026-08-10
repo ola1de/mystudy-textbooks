@@ -1,0 +1,223 @@
+{
+  "subject": "Government",
+  "level": "SSS 2",
+  "title": "Pressure Groups and Public Opinion",
+  "slug": "pressure-groups-public-opinion",
+  "outline": [
+    "Meaning and types of pressure groups",
+    "Methods and instruments of pressure groups",
+    "Factors determining pressure group effectiveness",
+    "Meaning and formation of public opinion",
+    "Measurement of public opinion and opinion polls",
+    "Functions and limitations of public opinion",
+    "The mass media in a democracy"
+  ],
+  "modules": [
+    {
+      "title": "Pressure Groups",
+      "html": "\n<h4>1. Meaning and Types</h4>\n<p>A <b>pressure group</b> (interest group) is an organised body of persons who seek to influence government policy in favour of their interest without seeking to control government themselves.</p>\n<table class=\"tb-table\">\n<tr><th>Type</th><th>Basis</th><th>Nigerian examples</th></tr>\n<tr><td>Occupational / economic</td><td>Work and income</td><td>NLC, TUC, NMA, NBA, NUT, MAN</td></tr>\n<tr><td>Promotional / attitude</td><td>A cause or belief</td><td>CLO, Transparency International chapters, SERAP</td></tr>\n<tr><td>Religious</td><td>Faith</td><td>CAN, JNI, NSCIA</td></tr>\n<tr><td>Ethnic / cultural</td><td>Identity</td><td>Afenifere, Ohanaeze Ndigbo, Arewa Consultative Forum</td></tr>\n<tr><td>Student / youth</td><td>Age and education</td><td>NANS, ASUU (also occupational)</td></tr>\n<tr><td>Anomic</td><td>Spontaneous, unorganised</td><td>Riots and spontaneous protests</td></tr>\n</table>\n<h4>2. Methods</h4>\n<ol><li>Lobbying legislators and officials.</li><li>Petitions, memoranda and delegations.</li><li>Public enlightenment through the media.</li><li>Strikes, boycotts, work-to-rule and picketing.</li><li>Peaceful demonstrations and rallies.</li><li>Litigation and public-interest suits.</li><li>Financial support to sympathetic candidates.</li><li>Research and expert advice to government.</li></ol>\n<h4>3. Determinants of Effectiveness</h4>\n<ul><li>Size and cohesion of membership.</li><li>Financial strength and organisation.</li><li>Quality of leadership and expertise.</li><li>Strategic importance of the group's function (doctors, oil workers).</li><li>Public sympathy for the cause.</li><li>Access to decision-makers and media.</li><li>Openness of the political system — groups are weakest under authoritarian rule.</li></ul>\n",
+      "examples": [
+        {
+          "q": "Explain the leverage that the Nigeria Labour Congress exerts during a fuel-price dispute.",
+          "a": "The NLC combines <b>size</b> (millions of affiliated workers), <b>strategic position</b> (transport, power, oil and public services), and <b>public sympathy</b> since price rises affect everyone. Its instruments are the general strike, mass rallies and negotiation at tripartite meetings. Government usually concedes partially because a national strike halts the economy, which converts industrial power into political influence."
+        },
+        {
+          "q": "Distinguish anomic from associational interest groups.",
+          "a": "<b>Anomic</b> groups are spontaneous, short-lived and unstructured — a crowd that riots after a police killing. <b>Associational</b> groups such as the NBA or NMA are formally organised with a constitution, officers, dues and continuous existence, and they influence policy through regular, institutionalised channels."
+        }
+      ]
+    },
+    {
+      "title": "Public Opinion and the Mass Media",
+      "html": "\n<h4>1. Public Opinion</h4>\n<p><b>Public opinion</b> is the aggregate of views held by a significant proportion of the community on a matter of public concern at a particular time. To count as public opinion the view must be widely shared, publicly expressed, and about a public issue.</p>\n<h4>2. How Public Opinion is Formed</h4>\n<ul><li>Family, school and religious teaching.</li><li>Mass media reporting and commentary.</li><li>Pressure groups and political parties.</li><li>Personal experience of government performance.</li><li>Opinion leaders — traditional rulers, clerics, celebrities, columnists.</li><li>Social media discussion and viral content.</li></ul>\n<h4>3. Measurement</h4>\n<ol><li>Election and referendum results.</li><li>Scientific opinion polls and surveys using representative samples.</li><li>Media content: letters to the editor, phone-in programmes, editorials.</li><li>Public rallies, protests and turnout at meetings.</li><li>Reports of intelligence and orientation agencies.</li></ol>\n<p><b>Limitations of polls:</b> unrepresentative samples, badly worded questions, respondents concealing true intentions, rapid change of mood, low literacy, and the bandwagon effect where a published poll itself alters behaviour.</p>\n<h4>4. Functions of the Mass Media</h4>\n<ul><li>Information and news dissemination.</li><li>Education and political socialisation.</li><li>Agenda-setting: deciding which issues matter.</li><li>Surveillance and watchdog role — exposing corruption.</li><li>Providing a forum for debate and feedback.</li><li>Entertainment and cultural transmission.</li><li>Mobilisation during elections and emergencies.</li></ul>\n<p>Section 22 of the 1999 Constitution charges the press with the duty of holding government accountable to the people, while section 39 guarantees freedom of expression. Constraints include ownership bias, sedition and defamation laws, commercial pressure from advertisers, insecurity of journalists, and 'brown envelope' corruption.</p>\n",
+      "examples": [
+        {
+          "q": "A poll predicts party X will win by 20% but party Y wins narrowly. Give three explanations.",
+          "a": "(i) <b>Sampling error or bias</b> — the sample may have over-represented urban or literate voters; (ii) <b>late swing</b> — opinion shifted after the poll due to a scandal or debate; (iii) <b>differential turnout</b> — party Y's supporters voted in greater proportion, or respondents concealed their true preference for fear of social disapproval."
+        },
+        {
+          "q": "How did the press aid nationalism in Nigeria?",
+          "a": "Newspapers such as Macaulay's <i>Lagos Daily News</i> (1925) and Azikiwe's <i>West African Pilot</i> (1937) exposed colonial injustice, publicised nationalist demands, created a shared political vocabulary across ethnic lines and mobilised the urban educated elite. They turned scattered grievances into an organised movement, showing the media's agenda-setting and mobilising functions."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "A pressure group differs from a party because it:",
+      "options": [
+        "Contests elections",
+        "Seeks to influence rather than control government",
+        "Has a manifesto",
+        "Is illegal"
+      ],
+      "answer": 1,
+      "solution": "Pressure groups influence policy without seeking to form government."
+    },
+    {
+      "q": "The NMA is best classified as a(n):",
+      "options": [
+        "Anomic group",
+        "Occupational pressure group",
+        "Political party",
+        "Religious group"
+      ],
+      "answer": 1,
+      "solution": "The Nigerian Medical Association organises members of a profession."
+    },
+    {
+      "q": "Spontaneous riots represent which type of interest group?",
+      "options": [
+        "Associational",
+        "Institutional",
+        "Anomic",
+        "Promotional"
+      ],
+      "answer": 2,
+      "solution": "Anomic groups are unorganised and spontaneous."
+    },
+    {
+      "q": "Lobbying means:",
+      "options": [
+        "Persuading decision-makers directly",
+        "Snatching ballot boxes",
+        "Printing newspapers",
+        "Registering voters"
+      ],
+      "answer": 0,
+      "solution": "Lobbying is direct persuasion of legislators and officials."
+    },
+    {
+      "q": "Public opinion is best measured scientifically by:",
+      "options": [
+        "Rumours",
+        "Representative sample surveys",
+        "Market gossip",
+        "Party claims"
+      ],
+      "answer": 1,
+      "solution": "Properly drawn samples allow inference about the whole population."
+    },
+    {
+      "q": "Which is a promotional pressure group?",
+      "options": [
+        "NLC",
+        "SERAP",
+        "MAN",
+        "NUT"
+      ],
+      "answer": 1,
+      "solution": "SERAP campaigns for a cause — socio-economic rights — rather than for members' occupational interests."
+    },
+    {
+      "q": "Section 22 of the 1999 Constitution charges the press with:",
+      "options": [
+        "Holding government accountable",
+        "Printing money",
+        "Conducting elections",
+        "Appointing ministers"
+      ],
+      "answer": 0,
+      "solution": "It makes the media responsible for monitoring governance and upholding constitutional objectives."
+    },
+    {
+      "q": "The media function of deciding which issues receive attention is:",
+      "options": [
+        "Agenda setting",
+        "Entertainment",
+        "Adjudication",
+        "Legislation"
+      ],
+      "answer": 0,
+      "solution": "By selecting and emphasising stories, media shape the public agenda."
+    },
+    {
+      "q": "Which weakens pressure group effectiveness?",
+      "options": [
+        "Strong finance",
+        "Internal division",
+        "Public sympathy",
+        "Good leadership"
+      ],
+      "answer": 1,
+      "solution": "A divided membership cannot bargain credibly."
+    },
+    {
+      "q": "The West African Pilot was founded by:",
+      "options": [
+        "Herbert Macaulay",
+        "Nnamdi Azikiwe",
+        "Obafemi Awolowo",
+        "Ernest Ikoli"
+      ],
+      "answer": 1,
+      "solution": "Azikiwe founded the Pilot in 1937 as a nationalist newspaper."
+    },
+    {
+      "q": "A bandwagon effect occurs when:",
+      "options": [
+        "Voters shift to a predicted winner",
+        "Ballots are destroyed",
+        "Parties merge",
+        "Turnout falls"
+      ],
+      "answer": 0,
+      "solution": "Published polls can attract voters to the leading candidate."
+    },
+    {
+      "q": "Ohanaeze Ndigbo is an example of a(n):",
+      "options": [
+        "Ethnic pressure group",
+        "Occupational group",
+        "Political party",
+        "Trade union"
+      ],
+      "answer": 0,
+      "solution": "It articulates the interests of an ethnic community."
+    },
+    {
+      "q": "A strike is a pressure group method belonging to:",
+      "options": [
+        "Direct action",
+        "Litigation",
+        "Lobbying",
+        "Research"
+      ],
+      "answer": 0,
+      "solution": "Withdrawal of labour is a form of direct industrial action."
+    },
+    {
+      "q": "Pressure groups are least effective under:",
+      "options": [
+        "Liberal democracy",
+        "Authoritarian rule",
+        "Federalism",
+        "Multi-party systems"
+      ],
+      "answer": 1,
+      "solution": "Authoritarian regimes restrict association, protest and free media."
+    },
+    {
+      "q": "Which limits the reliability of opinion polls in Nigeria?",
+      "options": [
+        "Universal literacy",
+        "Poor sampling and low literacy",
+        "Excess funding",
+        "Too many pollsters"
+      ],
+      "answer": 1,
+      "solution": "Unrepresentative samples and misunderstanding of questions distort results."
+    },
+    {
+      "q": "A newspaper exposing embezzlement performs the ____ role.",
+      "options": [
+        "Watchdog",
+        "Entertainment",
+        "Judicial",
+        "Executive"
+      ],
+      "answer": 0,
+      "solution": "Investigative reporting is the surveillance or watchdog function of the press."
+    }
+  ]
+}

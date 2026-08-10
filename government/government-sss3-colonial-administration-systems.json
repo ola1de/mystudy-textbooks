@@ -1,0 +1,223 @@
+{
+  "subject": "Government",
+  "level": "SSS 3",
+  "title": "Colonial Administration Systems",
+  "slug": "colonial-administration-systems",
+  "outline": [
+    "British colonial policy and Indirect Rule",
+    "Machinery of Indirect Rule in Nigeria",
+    "Successes and failures of Indirect Rule by region",
+    "French policy of Assimilation and Association",
+    "Comparison of British and French systems",
+    "Legacies of colonial administration",
+    "Amalgamation of 1914 and its consequences"
+  ],
+  "modules": [
+    {
+      "title": "British Indirect Rule",
+      "html": "\n<h4>1. Meaning</h4>\n<p><b>Indirect Rule</b> was the British system of administering colonies through existing traditional rulers and institutions, supervised by British officials. Introduced in Northern Nigeria by <b>Lord Frederick Lugard</b> from 1900 and extended to the South after the 1914 amalgamation.</p>\n<h4>2. Machinery</h4>\n<table class=\"tb-table\">\n<tr><th>Component</th><th>Role</th></tr>\n<tr><td>Governor-General</td><td>Overall head of the colony and protectorate</td></tr>\n<tr><td>Lieutenant-Governors / Chief Commissioners</td><td>Headed the groups of provinces (North, South)</td></tr>\n<tr><td>Residents</td><td>Supervised a province and advised the Emir/Native Authority</td></tr>\n<tr><td>District Officers</td><td>Supervised divisions and native courts</td></tr>\n<tr><td>Native Authority</td><td>Traditional ruler-in-council exercising local executive power</td></tr>\n<tr><td>Native Treasury (Beit-el-mal)</td><td>Kept a share of local revenue for local administration</td></tr>\n<tr><td>Native Courts</td><td>Applied customary and Islamic law in local disputes</td></tr>\n</table>\n<h4>3. Reasons for Adoption</h4>\n<ol><li>Shortage of British personnel and funds.</li><li>Vastness of territory and poor communications.</li><li>Existence of well-organised traditional authorities, especially in the North.</li><li>Desire to avoid resistance by preserving familiar institutions.</li><li>Language and cultural barriers.</li><li>Belief in gradual, evolutionary development of Africans.</li></ol>\n<h4>4. Regional Outcomes</h4>\n<ul><li><b>North:</b> highly successful — the emirate hierarchy, taxation and Alkali courts fitted the model. Christian missions and Western education were restricted, widening the North–South educational gap.</li><li><b>West:</b> partially successful — Obas existed but were constitutionally limited by chiefs and cults; educated elites and a vocal press resisted, and the 1918 Adubi war and Egba unrest showed strain.</li><li><b>East:</b> largely a failure — no centralised chiefs, so <b>warrant chiefs</b> were imposed. Their abuses provoked the <b>1929 Aba Women's Riot</b>, after which the system was reformed.</li></ul>\n<h4>5. Merits and Demerits</h4>\n<p><i>Merits:</i> cheap, preserved traditional institutions, minimised friction, trained locals in administration, maintained order. <i>Demerits:</i> strengthened autocratic chiefs beyond custom, excluded educated elites, retarded political development and education in the North, entrenched regional disparities, and made chiefs unpopular as agents of colonial taxation.</p>\n",
+      "examples": [
+        {
+          "q": "Why did educated Nigerians oppose Indirect Rule?",
+          "a": "Because it excluded them. The system reserved authority for hereditary chiefs whom the British could control, while lawyers, journalists and teachers — the very people equipped to demand representation — were kept out of the Native Authorities. Nationalists such as Herbert Macaulay and later Azikiwe therefore argued it was designed to divide the elite from the masses and delay self-government."
+        },
+        {
+          "q": "State two lasting consequences of the 1914 amalgamation.",
+          "a": "(i) It created a single Nigerian state out of the Northern and Southern Protectorates and Lagos Colony for administrative and financial convenience — using the South's surplus to fund the North — without integrating their peoples, leaving a legacy of North–South suspicion. (ii) It preserved separate administrative systems and educational policies, entrenching the developmental imbalance that later shaped constitutional bargaining, regionalism and revenue allocation disputes."
+        }
+      ]
+    },
+    {
+      "title": "French Assimilation and Association, and Comparison",
+      "html": "\n<h4>1. Assimilation</h4>\n<p>French policy from the late nineteenth century aimed to turn Africans into Frenchmen: French language, law, culture and citizenship were extended, and the colonies were treated as overseas extensions of France. <b>Four communes</b> of Senegal (Dakar, Goree, Rufisque and Saint-Louis) elected a deputy to the French Parliament in Paris. Africans who met the criteria became <b>evolues</b>, full citizens; others remained <b>sujets</b> subject to the harsh <i>indigenat</i> code and forced labour.</p>\n<p><b>Reasons for failure:</b> costly; cultural arrogance provoked resentment; the mass of Africans could never qualify; French settlers and businessmen opposed African equality; assimilation of millions would have swamped the French Parliament.</p>\n<h4>2. Association</h4>\n<p>After 1900 France shifted to <b>Association</b>: cooperation with African institutions while keeping ultimate French control, with more use of chiefs (though chiefs were appointed officials, not traditional rulers) and recognition of some African custom. It remained highly centralised through Governors-General at Dakar and Brazzaville.</p>\n<h4>3. Comparison</h4>\n<table class=\"tb-table\">\n<tr><th>Criterion</th><th>British Indirect Rule</th><th>French Assimilation/Association</th></tr>\n<tr><td>Philosophy</td><td>Preserve African institutions; gradual self-government</td><td>Absorb Africans into French civilisation; permanent union</td></tr>\n<tr><td>Administration</td><td>Decentralised; through traditional rulers</td><td>Highly centralised from Paris via Dakar</td></tr>\n<tr><td>Role of chiefs</td><td>Traditional rulers retained real authority</td><td>Chiefs were paid agents, removable at will</td></tr>\n<tr><td>Law</td><td>Customary and Islamic law retained in native courts</td><td>French law imposed; indigenat for subjects</td></tr>\n<tr><td>Citizenship</td><td>Colonial subjects; no British citizenship</td><td>Citizenship possible for evolues</td></tr>\n<tr><td>Representation</td><td>Legislative councils in the colony</td><td>Deputies in the French Parliament</td></tr>\n<tr><td>Outcome</td><td>Federal, English-speaking states with strong local identity</td><td>Unitary, French-oriented states tied closely to France</td></tr>\n</table>\n",
+      "examples": [
+        {
+          "q": "Why did the four communes matter in French colonial history?",
+          "a": "They were the only African territories where the assimilation ideal was substantially realised: their inhabitants were French citizens with the right to elect a deputy to the National Assembly in Paris. Blaise Diagne's election in 1914 as the first African deputy proved Africans could operate French institutions, and became a reference point for later demands for equality throughout French West Africa."
+        },
+        {
+          "q": "Which system better prepared colonies for independence?",
+          "a": "Indirect Rule preserved local institutions and produced legislative councils that evolved into national parliaments, giving Nigerians earlier experience of representative politics; but it neglected mass education and entrenched regionalism. Assimilation produced a small, highly trained elite closely tied to France with weak local institutions. Neither prepared colonies fully; the British model transferred more institutional machinery, the French model more administrative centralisation."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Indirect Rule in Nigeria is associated with:",
+      "options": [
+        "Lord Lugard",
+        "Sir Hugh Clifford",
+        "Sir Arthur Richards",
+        "Sir John Macpherson"
+      ],
+      "answer": 0,
+      "solution": "Lugard introduced and systematised Indirect Rule from 1900 in the North."
+    },
+    {
+      "q": "The colonial officer who supervised a province was the:",
+      "options": [
+        "Resident",
+        "District Officer",
+        "Governor",
+        "Consul"
+      ],
+      "answer": 0,
+      "solution": "Residents advised Native Authorities at provincial level."
+    },
+    {
+      "q": "Indirect Rule failed most in:",
+      "options": [
+        "Northern Nigeria",
+        "Western Nigeria",
+        "Eastern Nigeria",
+        "Lagos Colony"
+      ],
+      "answer": 2,
+      "solution": "The absence of centralised chiefs in Igboland led to the imposition of warrant chiefs."
+    },
+    {
+      "q": "The Aba Women's Riot took place in:",
+      "options": [
+        "1919",
+        "1929",
+        "1939",
+        "1945"
+      ],
+      "answer": 1,
+      "solution": "Women protested warrant chief abuses and rumoured taxation in 1929."
+    },
+    {
+      "q": "French policy that sought to turn Africans into Frenchmen was:",
+      "options": [
+        "Association",
+        "Assimilation",
+        "Indirect rule",
+        "Paternalism"
+      ],
+      "answer": 1,
+      "solution": "Assimilation aimed at cultural and legal absorption into France."
+    },
+    {
+      "q": "The four communes were located in:",
+      "options": [
+        "Ivory Coast",
+        "Senegal",
+        "Mali",
+        "Guinea"
+      ],
+      "answer": 1,
+      "solution": "Dakar, Goree, Rufisque and Saint-Louis were in Senegal."
+    },
+    {
+      "q": "Africans who qualified as French citizens were called:",
+      "options": [
+        "Sujets",
+        "Evolues",
+        "Vassals",
+        "Warrant chiefs"
+      ],
+      "answer": 1,
+      "solution": "Evolues were the assimilated elite with citizenship rights."
+    },
+    {
+      "q": "The harsh legal code applied to French colonial subjects was the:",
+      "options": [
+        "Indigenat",
+        "Magna Carta",
+        "Sharia",
+        "Common law"
+      ],
+      "answer": 0,
+      "solution": "The indigenat allowed summary punishment and forced labour on sujets."
+    },
+    {
+      "q": "Amalgamation of Northern and Southern Nigeria occurred in:",
+      "options": [
+        "1900",
+        "1906",
+        "1914",
+        "1922"
+      ],
+      "answer": 2,
+      "solution": "Lugard amalgamated the protectorates on 1 January 1914."
+    },
+    {
+      "q": "A major reason for Indirect Rule was:",
+      "options": [
+        "Shortage of British personnel and funds",
+        "Abundance of British staff",
+        "African demand for it",
+        "Absence of chiefs"
+      ],
+      "answer": 0,
+      "solution": "Ruling through existing rulers was cheap and manpower-efficient."
+    },
+    {
+      "q": "Native treasuries in the North were known as:",
+      "options": [
+        "Beit-el-mal",
+        "Alkali",
+        "Jangali",
+        "Hakimi"
+      ],
+      "answer": 0,
+      "solution": "The Beit-el-mal retained a share of local revenue for local administration."
+    },
+    {
+      "q": "French colonial administration was:",
+      "options": [
+        "Highly centralised",
+        "Fully federal",
+        "Confederal",
+        "Non-existent"
+      ],
+      "answer": 0,
+      "solution": "Power flowed from Paris through Governors-General at Dakar and Brazzaville."
+    },
+    {
+      "q": "A demerit of Indirect Rule was that it:",
+      "options": [
+        "Excluded the educated elite",
+        "Reduced taxation",
+        "Expanded universities",
+        "Abolished chieftaincy"
+      ],
+      "answer": 0,
+      "solution": "Authority was reserved to chiefs, alienating the Western-educated class."
+    },
+    {
+      "q": "Under Association, French-appointed chiefs were:",
+      "options": [
+        "Traditional rulers with security of tenure",
+        "Paid agents removable at will",
+        "Elected officials",
+        "Religious leaders"
+      ],
+      "answer": 1,
+      "solution": "They were administrative agents rather than legitimate traditional rulers."
+    },
+    {
+      "q": "The first African deputy elected to the French Parliament was:",
+      "options": [
+        "Blaise Diagne",
+        "Leopold Senghor",
+        "Felix Houphouet-Boigny",
+        "Sekou Toure"
+      ],
+      "answer": 0,
+      "solution": "Blaise Diagne was elected in 1914 from the four communes."
+    },
+    {
+      "q": "Indirect Rule widened the North-South gap mainly by:",
+      "options": [
+        "Restricting missionary education in the North",
+        "Building more schools in the North",
+        "Abolishing emirates",
+        "Banning trade"
+      ],
+      "answer": 0,
+      "solution": "Missions and Western education were restricted in the North, delaying elite formation there."
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "subject": "Government",
+  "level": "SSS 3",
+  "title": "Early Nigerian Constitutions (1922–1954)",
+  "slug": "early-constitutions",
+  "outline": [
+    "The Clifford Constitution of 1922",
+    "The Richards Constitution of 1946",
+    "The Macpherson Constitution of 1951",
+    "The Lyttelton Constitution of 1954",
+    "Features, merits and demerits of each",
+    "Growth of the elective principle and regionalism",
+    "Constitutional conferences of 1953 and 1954"
+  ],
+  "modules": [
+    {
+      "title": "Clifford (1922) and Richards (1946)",
+      "html": "\n<h4>1. Clifford Constitution, 1922</h4>\n<ul>\n<li>Introduced the <b>elective principle</b> for the first time in British West Africa.</li>\n<li>Legislative Council of 46 members with 4 elected Africans — 3 for Lagos and 1 for Calabar.</li>\n<li>Franchise restricted to adult males with a gross annual income of <b>£100</b> and twelve months' residence.</li>\n<li>Legislative Council legislated for the Colony and Southern Provinces only; the Governor legislated for the North by proclamation.</li>\n<li>Provided for a Nigerian Council abolition and encouraged party formation — the <b>NNDP (1923)</b> was formed to contest the seats.</li>\n</ul>\n<p><i>Merits:</i> birth of elective politics, parties and a nationalist press. <i>Demerits:</i> tiny franchise, North excluded, official majority, purely advisory African role.</p>\n<h4>2. Richards Constitution, 1946</h4>\n<ul>\n<li>Introduced <b>regionalism</b>: three regions — Northern, Western and Eastern — each with a Regional House of Assembly (and a House of Chiefs in the North).</li>\n<li>Brought the North into a single central Legislative Council for the first time, promoting unity in a formal sense.</li>\n<li>Increased unofficial African membership, but members were largely <b>nominated</b> by Native Authorities rather than elected.</li>\n<li>Regional houses were advisory, with no legislative power of their own.</li>\n</ul>\n<p><i>Merits:</i> unified North and South legislatively; recognised regional diversity; enlarged African participation. <i>Demerits:</i> imposed without consultation ('a constitution imposed by an autocrat', said the nationalists); retained official majority; nomination instead of election; sowed the seeds of divisive regionalism. Nationalist opposition led to its replacement after only a few years.</p>\n",
+      "examples": [
+        {
+          "q": "Why is 1922 regarded as the beginning of party politics in Nigeria?",
+          "a": "Because Clifford's four elective seats created, for the first time, an electoral prize worth organising for. Herbert Macaulay founded the <b>NNDP in 1923</b> to contest the Lagos seats, which it won repeatedly until 1938. Parties, campaigns and a partisan press (the <i>Lagos Daily News</i>) followed directly from the elective principle."
+        },
+        {
+          "q": "Assess the claim that the Richards Constitution 'united Nigeria to divide it'.",
+          "a": "It united the country by bringing the North into one central Legislative Council for the first time, ending the constitutional separation dating from 1914. Yet by creating three regions with their own houses and identities, and by using nominated Native Authority representatives, it institutionalised regional consciousness and gave ambitious politicians regional power bases — the structural root of the tripolar rivalry of the First Republic."
+        }
+      ]
+    },
+    {
+      "title": "Macpherson (1951) and Lyttelton (1954)",
+      "html": "\n<h4>1. Macpherson Constitution, 1951</h4>\n<ul>\n<li>Preceded by <b>wide consultation</b> from village to national level — the most participatory process to that date.</li>\n<li>Created a Central Council of Ministers with African members drawn from the regions.</li>\n<li>Regional Houses acquired <b>real legislative powers</b> subject to central assent, and regional executive councils were established.</li>\n<li>Central legislature: a 148-member House of Representatives, mainly elected indirectly through regional houses.</li>\n<li>Unofficial majority achieved; ministers had portfolios but no full responsibility.</li>\n</ul>\n<p><b>Reasons for collapse:</b> ministers lacked collective responsibility and could not control policy; regional members owed loyalty to their regions rather than the centre; the <b>1953 Anthony Enahoro motion</b> for self-government in 1956 was resisted by the North, provoking the walk-out of Northern members and the <b>Kano riots of May 1953</b>; the Eastern Region crisis of 1953 ('sit-tight ministers') paralysed the constitution.</p>\n<h4>2. The 1953 London and 1954 Lagos Conferences</h4>\n<p>Convened by Oliver Lyttelton, Secretary of State for the Colonies, they agreed on a federal structure, regional self-government for those regions that wanted it, and the separation of Lagos as federal territory.</p>\n<h4>3. Lyttelton Constitution, 1954</h4>\n<ul>\n<li>Established a genuine <b>federation</b> — the first true federal constitution in Nigeria.</li>\n<li>Divided powers into <b>exclusive, concurrent and residual</b> lists.</li>\n<li>Regions gained autonomy in their spheres and could become self-governing separately — the West and East did so in <b>1957</b>, the North in <b>1959</b>.</li>\n<li>Lagos became federal territory; the Southern Cameroons became a quasi-federal territory.</li>\n<li>Direct election to the House of Representatives (184 seats) in most regions; the Governor-General remained head of the central executive.</li>\n<li>Regionalised the public service, judiciary and marketing boards.</li>\n</ul>\n<p><i>Merits:</i> laid the federal foundation on which independence was built; reduced inter-regional friction; allowed differential pace of development. <i>Demerits:</i> strengthened regionalism and regional parties, weakened the centre, and left the minorities question unresolved — hence the Willink Commission of 1957.</p>\n",
+      "examples": [
+        {
+          "q": "Trace the events that destroyed the Macpherson Constitution.",
+          "a": "In March 1953 <b>Anthony Enahoro</b> of the Action Group moved that Nigeria attain self-government in 1956. Northern members, fearing domination by the more educated South, opposed it and tabled 'as soon as practicable'; AG and NCNC members jeered them, and Northern delegates were abused in Lagos. The North then tabled an eight-point programme close to confederation, and the <b>Kano riots</b> of May 1953 followed a Southern political tour. Simultaneously the Eastern Region crisis over ministers who refused to resign paralysed the regional executive. These deadlocks forced the London Conference of 1953 and the constitution's replacement in 1954."
+        },
+        {
+          "q": "Why is the Lyttelton Constitution regarded as Nigeria's first genuinely federal constitution?",
+          "a": "Because it did what its predecessors did not: it divided legislative power between the centre and the regions by an <b>exclusive, concurrent and residual list</b> scheme, gave each region its own executive, legislature, public service, judiciary and marketing board, and made neither level the creature of the other. Regions could attain internal self-government independently of one another — real constitutional autonomy rather than devolved advice."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "The elective principle was introduced in Nigeria by the:",
+      "options": [
+        "Clifford Constitution",
+        "Richards Constitution",
+        "Macpherson Constitution",
+        "Lyttelton Constitution"
+      ],
+      "answer": 0,
+      "solution": "Clifford's 1922 constitution created four elective seats."
+    },
+    {
+      "q": "Under the Clifford Constitution voters needed an annual income of:",
+      "options": [
+        "£50",
+        "£100",
+        "£200",
+        "£500"
+      ],
+      "answer": 1,
+      "solution": "The franchise was restricted to adult males earning £100 gross per annum."
+    },
+    {
+      "q": "The Richards Constitution came into force in:",
+      "options": [
+        "1922",
+        "1946",
+        "1951",
+        "1954"
+      ],
+      "answer": 1,
+      "solution": "Sir Arthur Richards's constitution took effect in 1946."
+    },
+    {
+      "q": "Regionalism was formally introduced by the:",
+      "options": [
+        "Clifford Constitution",
+        "Richards Constitution",
+        "Lyttelton Constitution",
+        "1963 Constitution"
+      ],
+      "answer": 1,
+      "solution": "Richards created three regions with advisory Houses of Assembly."
+    },
+    {
+      "q": "A major criticism of the Richards Constitution was that it was:",
+      "options": [
+        "Imposed without consultation",
+        "Too democratic",
+        "Too federal",
+        "Too short"
+      ],
+      "answer": 0,
+      "solution": "Nationalists condemned the absence of consultation and the nomination of members."
+    },
+    {
+      "q": "The most widely consulted of the early constitutions was the:",
+      "options": [
+        "Clifford",
+        "Richards",
+        "Macpherson",
+        "Lyttelton"
+      ],
+      "answer": 2,
+      "solution": "Macpherson's constitution followed consultation from village to national level."
+    },
+    {
+      "q": "The self-government motion of 1953 was moved by:",
+      "options": [
+        "Anthony Enahoro",
+        "Nnamdi Azikiwe",
+        "Ahmadu Bello",
+        "Tafawa Balewa"
+      ],
+      "answer": 0,
+      "solution": "Enahoro of the Action Group moved for self-government in 1956."
+    },
+    {
+      "q": "The Kano riots occurred in:",
+      "options": [
+        "1951",
+        "1953",
+        "1957",
+        "1959"
+      ],
+      "answer": 1,
+      "solution": "The riots of May 1953 followed the self-government motion crisis."
+    },
+    {
+      "q": "Nigeria's first genuinely federal constitution was the:",
+      "options": [
+        "Clifford",
+        "Richards",
+        "Macpherson",
+        "Lyttelton"
+      ],
+      "answer": 3,
+      "solution": "The 1954 Lyttelton Constitution established a federation with legislative lists."
+    },
+    {
+      "q": "Under the 1954 Constitution, Lagos became:",
+      "options": [
+        "Part of the West",
+        "Federal territory",
+        "Part of the East",
+        "An independent state"
+      ],
+      "answer": 1,
+      "solution": "Lagos was separated as federal territory."
+    },
+    {
+      "q": "The Western and Eastern Regions attained internal self-government in:",
+      "options": [
+        "1954",
+        "1957",
+        "1959",
+        "1960"
+      ],
+      "answer": 1,
+      "solution": "Both became self-governing in 1957; the North followed in 1959."
+    },
+    {
+      "q": "Powers in the 1954 Constitution were divided into:",
+      "options": [
+        "Two lists",
+        "Exclusive, concurrent and residual lists",
+        "Four lists",
+        "No lists"
+      ],
+      "answer": 1,
+      "solution": "This threefold division is the hallmark of Nigerian federalism."
+    },
+    {
+      "q": "The 1953 constitutional conference held in:",
+      "options": [
+        "Lagos",
+        "London",
+        "Ibadan",
+        "Kano"
+      ],
+      "answer": 1,
+      "solution": "The London conference of 1953 agreed on federal principles; Lagos followed in 1954."
+    },
+    {
+      "q": "The commission on minority fears set up in 1957 was the:",
+      "options": [
+        "Willink Commission",
+        "Foster-Sutton Tribunal",
+        "Coker Commission",
+        "Udoji Commission"
+      ],
+      "answer": 0,
+      "solution": "The Willink Commission examined and reported on minority fears in 1958."
+    },
+    {
+      "q": "Under the Clifford Constitution the North was:",
+      "options": [
+        "Fully represented",
+        "Legislated for by the Governor",
+        "Self-governing",
+        "Given a House of Chiefs"
+      ],
+      "answer": 1,
+      "solution": "The Legislative Council covered only the Colony and Southern Provinces."
+    },
+    {
+      "q": "A weakness of the Macpherson Constitution was:",
+      "options": [
+        "Absence of collective responsibility among ministers",
+        "Excessive central power",
+        "Total regional autonomy",
+        "Universal suffrage"
+      ],
+      "answer": 0,
+      "solution": "Ministers had portfolios but no collective responsibility, leading to deadlock."
+    }
+  ]
+}

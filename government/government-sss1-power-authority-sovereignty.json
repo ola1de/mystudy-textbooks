@@ -1,0 +1,236 @@
+{
+  "subject": "Government",
+  "level": "SSS 1",
+  "title": "Power, Authority, Legitimacy, and Sovereignty",
+  "slug": "power-authority-sovereignty",
+  "outline": [
+    "Meaning and sources of political power",
+    "Types and characteristics of authority",
+    "Weber's three types of legitimate authority",
+    "Meaning and attributes of legitimacy",
+    "Meaning and characteristics of sovereignty",
+    "Types of sovereignty: legal, political, internal, external, popular",
+    "Limitations on sovereignty",
+    "Relationship between power, authority and legitimacy"
+  ],
+  "modules": [
+    {
+      "title": "Power and Its Sources",
+      "html": "<p><b>Power</b> is the ability to influence or control the behaviour of others, with or without their consent. It is the raw\ncapacity to make people do what they would not otherwise do. Power may rest on persuasion, on reward, or ultimately on\ncoercion.</p>\n<p><b>Sources of political power</b> include:</p>\n<ul>\n<li><b>The constitution and law</b> &mdash; offices created by law carry defined powers.</li>\n<li><b>Coercion / control of the instruments of violence</b> &mdash; army, police.</li>\n<li><b>Wealth and control of economic resources.</b></li>\n<li><b>Knowledge, expertise and information</b> &mdash; the bureaucrat's file, the professional's advice.</li>\n<li><b>Charisma and personality</b> &mdash; the magnetic leader.</li>\n<li><b>Numbers</b> &mdash; the votes of a large following; the strength of a trade union.</li>\n<li><b>Tradition, religion and custom.</b></li>\n</ul>\n<p><b>Characteristics of power:</b> it is relational (always over someone), dynamic (it shifts), it may be legitimate or\nillegitimate, and it is exercised in every human organisation, not only in government.</p>",
+      "examples": [
+        {
+          "q": "A wealthy businessman funds a party and influences a minister's decision. Which source of power is at work?",
+          "a": "Economic power &ndash; control of wealth used to influence political decision-making."
+        }
+      ]
+    },
+    {
+      "title": "Authority and Legitimacy",
+      "html": "<p><b>Authority</b> is <i>rightful</i> power &mdash; power that is recognised as lawful by those over whom it is exercised. Power\nwithout authority is naked force; authority is power clothed in right.</p>\n<p>Max Weber identified three pure types of legitimate authority:</p>\n<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Type</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Basis of obedience</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Example</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Traditional</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Long-established custom and inherited status.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The Sultan of Sokoto; the Ooni of Ife.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Charismatic</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Exceptional personal qualities of the leader.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Nnamdi Azikiwe; Mahatma Gandhi.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Legal-rational</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Impersonal rules and formal office.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The President under the 1999 Constitution; a permanent secretary.</td></tr></tbody></table>\n<p>Other classifications include <b>coercive authority</b> (based on fear), <b>delegated authority</b> (transferred from a\nsuperior) and <b>political, administrative and judicial authority</b> depending on the office held.</p>\n<p><b>Legitimacy</b> is the popular belief that a government has the right to rule and ought to be obeyed. It is acquired\nthrough free and fair elections, constitutional procedure, effective performance, tradition and popular acceptance. A regime\nmay hold power (a coup-installed junta) yet lack legitimacy; and a legitimate government that loses its coercive capacity may\nlose power. Governments seek legitimacy because it makes obedience voluntary and cheap.</p>",
+      "examples": [
+        {
+          "q": "A military government organises a referendum which it wins overwhelmingly. What is it seeking?",
+          "a": "Legitimacy &ndash; popular endorsement that converts its de facto power into rightful authority."
+        }
+      ]
+    },
+    {
+      "title": "Sovereignty and Its Types",
+      "html": "<p><b>Sovereignty</b> is the supreme, ultimate and unlimited legal power of the state to make and enforce laws within its\nterritory, and its independence from external control. Jean Bodin (1576) first developed the concept systematically.</p>\n<p><b>Characteristics:</b> absoluteness, permanence, universality (it binds everyone in the territory), indivisibility,\ninalienability, and exclusiveness.</p>\n<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Type</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Meaning</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Internal sovereignty</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Supremacy over all persons and associations within the territory.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">External sovereignty</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Freedom from control by any other state; the basis of independence.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Legal sovereignty</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Resides in the body legally competent to make law &ndash; in Nigeria, the National Assembly acting under the constitution.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Political sovereignty</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Resides in the electorate, whose votes ultimately determine who makes the law.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Popular sovereignty</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The doctrine that ultimate power belongs to the people as a whole.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">De jure sovereignty</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Sovereignty recognised by law.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">De facto sovereignty</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Sovereignty actually exercised, e.g. by a successful coup leader before recognition.</td></tr></tbody></table>",
+      "examples": [
+        {
+          "q": "Which type of sovereignty does the Nigerian electorate exercise?",
+          "a": "Political (and popular) sovereignty &ndash; legal sovereignty belongs to the National Assembly, but its members hold office only by the votes of the electorate."
+        }
+      ]
+    },
+    {
+      "title": "Limitations on Sovereignty",
+      "html": "<p>Although sovereignty is theoretically absolute, in practice it is limited by:</p>\n<ul>\n<li><b>The constitution</b> &mdash; entrenched provisions and fundamental rights restrain the legislature.</li>\n<li><b>International law and treaties</b> &mdash; membership of the UN, AU and ECOWAS imposes obligations.</li>\n<li><b>Public opinion and the electorate</b> &mdash; no government can persistently defy the governed.</li>\n<li><b>Federalism</b> &mdash; powers are shared between the centre and the states.</li>\n<li><b>Economic dependence</b> &mdash; loan conditions from the IMF or World Bank restrict policy choice.</li>\n<li><b>Custom, religion and morality.</b></li>\n<li><b>Military and technological weakness</b> relative to great powers.</li>\n</ul>\n<p>Relationship summary: <b>power</b> is the capacity to compel; <b>authority</b> is power recognised as rightful;\n<b>legitimacy</b> is the belief that sustains authority; and <b>sovereignty</b> is the supreme form of authority claimed by the\nstate. Legitimate authority backed by sovereignty produces stable government.</p>",
+      "examples": [
+        {
+          "q": "How does ECOWAS membership limit Nigeria's sovereignty?",
+          "a": "Nigeria accepts protocols on free movement, trade and, at times, collective security decisions, so it cannot legislate freely on those matters without breaching treaty obligations."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Power that is accepted as rightful is called",
+      "options": [
+        "Force",
+        "Authority",
+        "Influence",
+        "Coercion"
+      ],
+      "answer": 1,
+      "solution": "Authority is legitimate or rightful power."
+    },
+    {
+      "q": "Max Weber's three types of authority are",
+      "options": [
+        "Legal, moral, social",
+        "Traditional, charismatic, legal-rational",
+        "Coercive, delegated, personal",
+        "Political, economic, religious"
+      ],
+      "answer": 1,
+      "solution": "Weber's classic triad."
+    },
+    {
+      "q": "The authority of an Emir rests mainly on",
+      "options": [
+        "Charisma",
+        "Legal-rational rules",
+        "Tradition",
+        "Coercion"
+      ],
+      "answer": 2,
+      "solution": "Inherited custom is the basis of traditional authority."
+    },
+    {
+      "q": "Sovereignty was first systematically developed by",
+      "options": [
+        "Aristotle",
+        "Jean Bodin",
+        "John Austin",
+        "Karl Marx"
+      ],
+      "answer": 1,
+      "solution": "Bodin, in <i>Six Books of the Commonwealth</i> (1576)."
+    },
+    {
+      "q": "Legal sovereignty in Nigeria resides in the",
+      "options": [
+        "Electorate",
+        "President",
+        "National Assembly acting under the constitution",
+        "Supreme Court"
+      ],
+      "answer": 2,
+      "solution": "The legislature is the legally competent law-making body."
+    },
+    {
+      "q": "Political sovereignty resides in the",
+      "options": [
+        "Army",
+        "Electorate",
+        "Judiciary",
+        "Civil service"
+      ],
+      "answer": 1,
+      "solution": "The voters ultimately determine who makes law."
+    },
+    {
+      "q": "Freedom of a state from external control is",
+      "options": [
+        "Internal sovereignty",
+        "External sovereignty",
+        "Legal sovereignty",
+        "De facto sovereignty"
+      ],
+      "answer": 1,
+      "solution": "External sovereignty is independence."
+    },
+    {
+      "q": "A coup leader exercising control before recognition holds",
+      "options": [
+        "De jure sovereignty",
+        "De facto sovereignty",
+        "Popular sovereignty",
+        "Legal sovereignty"
+      ],
+      "answer": 1,
+      "solution": "De facto means 'in fact' though not yet in law."
+    },
+    {
+      "q": "Which is NOT a characteristic of sovereignty?",
+      "options": [
+        "Absoluteness",
+        "Divisibility",
+        "Permanence",
+        "Inalienability"
+      ],
+      "answer": 1,
+      "solution": "Sovereignty is indivisible."
+    },
+    {
+      "q": "Legitimacy is best acquired through",
+      "options": [
+        "Military strength",
+        "Free and fair elections",
+        "Wealth",
+        "Propaganda alone"
+      ],
+      "answer": 1,
+      "solution": "Popular consent expressed in credible elections."
+    },
+    {
+      "q": "Charismatic authority depends on",
+      "options": [
+        "Written rules",
+        "Personal qualities of the leader",
+        "Inheritance",
+        "Seniority"
+      ],
+      "answer": 1,
+      "solution": "Exceptional personal appeal is its basis."
+    },
+    {
+      "q": "Which of the following limits sovereignty in practice?",
+      "options": [
+        "Public opinion",
+        "International treaties",
+        "The constitution",
+        "All of the above"
+      ],
+      "answer": 3,
+      "solution": "All three constrain the exercise of sovereign power."
+    },
+    {
+      "q": "Power based on the control of the army is",
+      "options": [
+        "Charismatic",
+        "Coercive",
+        "Traditional",
+        "Delegated"
+      ],
+      "answer": 1,
+      "solution": "Control of instruments of violence gives coercive power."
+    },
+    {
+      "q": "Popular sovereignty means that ultimate power belongs to",
+      "options": [
+        "The president",
+        "The people",
+        "The judiciary",
+        "The military"
+      ],
+      "answer": 1,
+      "solution": "The doctrine locates supreme power in the people."
+    },
+    {
+      "q": "A permanent secretary's authority is",
+      "options": [
+        "Traditional",
+        "Charismatic",
+        "Legal-rational",
+        "Coercive"
+      ],
+      "answer": 2,
+      "solution": "It derives from formal office and impersonal rules."
+    },
+    {
+      "q": "The chief difference between power and authority is that authority",
+      "options": [
+        "Is always violent",
+        "Carries the element of right",
+        "Is never obeyed",
+        "Belongs only to kings"
+      ],
+      "answer": 1,
+      "solution": "Authority is power recognised as rightful."
+    }
+  ]
+}

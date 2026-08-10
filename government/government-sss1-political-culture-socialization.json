@@ -1,0 +1,236 @@
+{
+  "subject": "Government",
+  "level": "SSS 1",
+  "title": "Political Culture and Socialization",
+  "slug": "political-culture-socialization",
+  "outline": [
+    "Meaning of political culture",
+    "Types: parochial, subject and participant",
+    "Elements of political culture",
+    "Meaning and importance of political socialization",
+    "Agents of political socialization",
+    "Political apathy: causes and remedies",
+    "Political participation and its forms",
+    "Political culture in Nigeria"
+  ],
+  "modules": [
+    {
+      "title": "Political Culture",
+      "html": "<p><b>Political culture</b> is the pattern of beliefs, attitudes, values, sentiments and orientations that a people hold towards\ntheir political system and their own role within it. It is, in short, the <i>political personality</i> of a society.\nThe concept was popularised by Gabriel Almond and Sidney Verba in <i>The Civic Culture</i> (1963).</p>\n<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Type</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Orientation of citizens</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Typical setting</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Parochial</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Little or no awareness of the national political system; loyalty to clan or village.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Remote traditional communities.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Subject</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Aware of government and its output, but passive &ndash; they obey rather than participate.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Authoritarian or military regimes.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Participant</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Aware, informed and actively involved in inputs (voting, party work, protest).</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Mature democracies.</td></tr></tbody></table>\n<p>Almond and Verba argued that stable democracy rests on a <b>civic culture</b>, a balanced mixture of all three in which\nparticipation is tempered by deference and trust. Political culture may also be described as <b>dominant</b> (shared by the\nmajority) or a <b>sub-culture</b> (held by an ethnic, regional or religious minority). Where sub-cultures conflict sharply,\nthe culture is called <b>fragmented</b>; Nigeria's ethnic and religious cleavages illustrate this.</p>",
+      "examples": [
+        {
+          "q": "A villager who has never heard of the National Assembly exhibits which political culture?",
+          "a": "A parochial political culture &ndash; there is no awareness of, or orientation towards, the national political system."
+        }
+      ]
+    },
+    {
+      "title": "Political Socialization and Its Agents",
+      "html": "<p><b>Political socialization</b> is the lifelong process by which individuals acquire their political values, attitudes and\npatterns of behaviour. It transmits political culture from one generation to the next.</p>\n<p><b>Agents of political socialization:</b></p>\n<ul>\n<li><b>The family</b> &mdash; the earliest and most enduring agent; children absorb party loyalties and attitudes to authority.</li>\n<li><b>The school</b> &mdash; civic education, debating societies, prefect elections, the national anthem and pledge.</li>\n<li><b>Peer groups</b> &mdash; friends and age-grades shape opinions, especially in adolescence.</li>\n<li><b>Religious institutions</b> &mdash; churches and mosques preach values of obedience, justice and communal duty.</li>\n<li><b>The mass media</b> &mdash; newspapers, radio, television and now social media set the agenda of public debate.</li>\n<li><b>Political parties and pressure groups</b> &mdash; rallies, manifestos and campaigns.</li>\n<li><b>Government agencies</b> &mdash; NYSC, National Orientation Agency, INEC voter education.</li>\n<li><b>The workplace and trade unions.</b></li>\n</ul>\n<p><b>Importance:</b> it produces loyal and informed citizens, promotes national integration, stabilises the political system,\nrecruits future leaders, and legitimises the regime.</p>",
+      "examples": [
+        {
+          "q": "Name two government agencies used for political socialization in Nigeria and state their contribution.",
+          "a": "The National Youth Service Corps posts graduates outside their state of origin to promote national unity; the National Orientation Agency runs campaigns on civic responsibility and values."
+        }
+      ]
+    },
+    {
+      "title": "Political Participation and Political Apathy",
+      "html": "<p><b>Political participation</b> covers all voluntary activities by which citizens influence the selection of rulers and the\nmaking of policy. Ranked from least to most demanding: discussing politics, voting, attending rallies, joining a party,\ncampaigning, contributing funds, contesting elections, holding office.</p>\n<p><b>Political apathy</b> is a lack of interest or indifference to political activity. <b>Causes</b> include:</p>\n<ul>\n<li>Illiteracy and ignorance of political processes.</li>\n<li>Electoral malpractice, rigging and violence, which convince voters that their vote does not count.</li>\n<li>Poverty and preoccupation with survival.</li>\n<li>Broken promises and corruption &mdash; loss of confidence in politicians.</li>\n<li>Long distances to polling units and cumbersome registration.</li>\n<li>Fear of victimisation; religious or cultural restrictions.</li>\n</ul>\n<p><b>Remedies:</b> mass civic education, free and fair elections, use of technology such as BVAS to protect the vote, decent\npolling arrangements, punishment of electoral offenders, and responsive government that visibly delivers services.</p>",
+      "examples": [
+        {
+          "q": "Suggest two practical measures to reduce voter apathy in Nigeria.",
+          "a": "(i) Sustained voter education by INEC and the National Orientation Agency, especially in rural areas. (ii) Credible, transparent elections with results transmitted electronically so citizens see that their votes count."
+        }
+      ]
+    },
+    {
+      "title": "Political Culture in Nigeria",
+      "html": "<p>Nigeria's political culture is best described as <b>fragmented and transitional</b>. Its main features are:</p>\n<ul>\n<li><b>Ethnicity and regionalism</b> &mdash; voters often support candidates from their own group, producing a politics of\nidentity rather than of issues.</li>\n<li><b>Godfatherism and patron&ndash;client politics</b> &mdash; sponsorship of candidates in exchange for patronage.</li>\n<li><b>Religion</b> as a strong political marker, especially along the northern&ndash;southern divide.</li>\n<li><b>The prebendal use of office</b> &mdash; public office treated as an opportunity for private gain.</li>\n<li><b>Militarised attitudes</b> inherited from long years of military rule: intolerance of opposition, command style.</li>\n<li>Growing <b>civic assertiveness</b> among urban youth, expressed through social media and mass protests.</li>\n</ul>\n<p>Nation-building instruments &mdash; the federal character principle, NYSC, unity schools, quota admissions and a national\nlanguage policy &mdash; are deliberate attempts to build a common participant culture out of these fragments.</p>",
+      "examples": [
+        {
+          "q": "Why is Nigeria's political culture called 'transitional'?",
+          "a": "Because it is moving from largely parochial and subject orientations, reinforced by decades of military rule, towards a participant culture, without having fully arrived; elements of all three co-exist."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Political culture was popularised by",
+      "options": [
+        "Almond and Verba",
+        "Hobbes and Locke",
+        "Marx and Engels",
+        "Weber and Bodin"
+      ],
+      "answer": 0,
+      "solution": "<i>The Civic Culture</i> (1963) by Gabriel Almond and Sidney Verba."
+    },
+    {
+      "q": "Citizens who are aware of government but do not participate display a",
+      "options": [
+        "Parochial culture",
+        "Subject culture",
+        "Participant culture",
+        "Civic culture"
+      ],
+      "answer": 1,
+      "solution": "Subject culture is passive awareness."
+    },
+    {
+      "q": "A political culture in which people are totally unaware of the national system is",
+      "options": [
+        "Participant",
+        "Subject",
+        "Parochial",
+        "Mixed"
+      ],
+      "answer": 2,
+      "solution": "Parochial orientation is limited to the local community."
+    },
+    {
+      "q": "Political socialization means",
+      "options": [
+        "Attending parties",
+        "Acquiring political values and attitudes",
+        "Winning elections",
+        "Making laws"
+      ],
+      "answer": 1,
+      "solution": "It is the learning process that transmits political culture."
+    },
+    {
+      "q": "The earliest agent of political socialization is the",
+      "options": [
+        "School",
+        "Family",
+        "Media",
+        "Party"
+      ],
+      "answer": 1,
+      "solution": "The family is first and most enduring."
+    },
+    {
+      "q": "Which is NOT an agent of political socialization?",
+      "options": [
+        "Peer group",
+        "Mass media",
+        "Territory",
+        "Religious body"
+      ],
+      "answer": 2,
+      "solution": "Territory is an element of the state, not an agent of socialization."
+    },
+    {
+      "q": "The NYSC contributes to political socialization mainly by",
+      "options": [
+        "Paying allowances",
+        "Promoting national integration",
+        "Recruiting soldiers",
+        "Conducting elections"
+      ],
+      "answer": 1,
+      "solution": "Cross-posting corps members promotes unity."
+    },
+    {
+      "q": "Political apathy means",
+      "options": [
+        "Active participation",
+        "Indifference to politics",
+        "Party loyalty",
+        "Voter registration"
+      ],
+      "answer": 1,
+      "solution": "Apathy is lack of interest in political activity."
+    },
+    {
+      "q": "A major cause of voter apathy in Nigeria is",
+      "options": [
+        "Free and fair elections",
+        "Electoral malpractice",
+        "Voter education",
+        "Short queues"
+      ],
+      "answer": 1,
+      "solution": "Rigging convinces voters their ballots do not count."
+    },
+    {
+      "q": "The highest form of political participation is",
+      "options": [
+        "Discussing politics",
+        "Voting",
+        "Holding public office",
+        "Reading newspapers"
+      ],
+      "answer": 2,
+      "solution": "Holding office is the most demanding form."
+    },
+    {
+      "q": "A blend of parochial, subject and participant orientations is called",
+      "options": [
+        "Fragmented culture",
+        "Civic culture",
+        "Sub-culture",
+        "Dominant culture"
+      ],
+      "answer": 1,
+      "solution": "Almond and Verba's civic culture."
+    },
+    {
+      "q": "Godfatherism in Nigerian politics is an example of",
+      "options": [
+        "Legal-rational authority",
+        "Patron-client political culture",
+        "Civic culture",
+        "Parochialism"
+      ],
+      "answer": 1,
+      "solution": "Sponsorship in exchange for patronage is clientelism."
+    },
+    {
+      "q": "Which agency conducts voter education in Nigeria?",
+      "options": [
+        "EFCC",
+        "INEC",
+        "NAFDAC",
+        "NNPC"
+      ],
+      "answer": 1,
+      "solution": "The Independent National Electoral Commission."
+    },
+    {
+      "q": "Sub-culture in politics refers to",
+      "options": [
+        "The dominant national values",
+        "Values held by a minority group",
+        "Foreign culture",
+        "Military culture"
+      ],
+      "answer": 1,
+      "solution": "A minority pattern differing from the dominant culture."
+    },
+    {
+      "q": "Political participation is best encouraged by",
+      "options": [
+        "Rigging",
+        "Civic education and credible elections",
+        "Banning parties",
+        "Raising taxes"
+      ],
+      "answer": 1,
+      "solution": "Education plus credible elections restore confidence."
+    },
+    {
+      "q": "The federal character principle is designed to",
+      "options": [
+        "Increase taxes",
+        "Ensure fair representation of all groups",
+        "Ban political parties",
+        "Reduce the size of government"
+      ],
+      "answer": 1,
+      "solution": "It spreads appointments across states and groups to build unity."
+    }
+  ]
+}

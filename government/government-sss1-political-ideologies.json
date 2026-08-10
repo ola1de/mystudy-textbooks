@@ -1,0 +1,236 @@
+{
+  "subject": "Government",
+  "level": "SSS 1",
+  "title": "Major Political Ideologies and Systems",
+  "slug": "political-ideologies",
+  "outline": [
+    "Meaning and functions of ideology",
+    "Communalism and feudalism",
+    "Capitalism: features, merits and demerits",
+    "Socialism and its variants",
+    "Communism and Marxist theory",
+    "Fascism and Nazism",
+    "Welfarism and the mixed economy",
+    "Ideology and practice in Nigeria"
+  ],
+  "modules": [
+    {
+      "title": "What an Ideology Is",
+      "html": "<p>An <b>ideology</b> is a coherent set of beliefs, ideas and ideals about how society should be organised, together with a\nprogramme for achieving that arrangement. Ideologies answer three questions: what is wrong with the present order, what an\nideal order looks like, and how to get from one to the other.</p>\n<p><b>Functions of ideology:</b> it provides identity and cohesion for a group, guides policy choice, legitimises a regime,\nmobilises the masses for action, and offers a yardstick for criticising government.</p>\n<p>Ideologies are commonly ranged from <b>left</b> (radical change, equality, collective ownership) through the\n<b>centre</b> (reform, mixed economy) to the <b>right</b> (order, hierarchy, private property).</p>",
+      "examples": [
+        {
+          "q": "State two functions of ideology in a political system.",
+          "a": "(i) It provides a guide for making and justifying public policy. (ii) It mobilises citizens and gives a regime legitimacy by explaining and defending its programme."
+        }
+      ]
+    },
+    {
+      "title": "Communalism and Feudalism",
+      "html": "<p><b>Communalism</b> is the earliest system of social organisation, found in pre-colonial African societies. Its features:</p>\n<ul>\n<li>Land and major resources are owned collectively by the community or lineage, not by individuals.</li>\n<li>Production is for use, not for profit; there is little or no surplus for exchange.</li>\n<li>Labour is cooperative &mdash; age grades and work parties.</li>\n<li>Absence of sharp class divisions; leadership by elders on behalf of all.</li>\n<li>Strong extended-family and kinship obligations; a rudimentary welfare net.</li>\n</ul>\n<p><b>Feudalism</b> is a hierarchical, land-based system that dominated medieval Europe and appeared in northern Nigeria\nbefore colonial rule. Its features:</p>\n<ul>\n<li>Ownership of land by a small class of lords; the serf or peasant works land he does not own.</li>\n<li>Payment of tribute, rent or labour service in exchange for protection.</li>\n<li>Rigid, hereditary social stratification: monarch &rarr; nobles &rarr; knights/vassals &rarr; serfs.</li>\n<li>Political authority attached to landholding rather than to office.</li>\n</ul>",
+      "examples": [
+        {
+          "q": "Identify one similarity and one difference between communalism and feudalism.",
+          "a": "Similarity: both are pre-industrial systems in which land is the central means of production. Difference: in communalism land is owned collectively with no exploiting class, while in feudalism land is monopolised by lords who extract tribute from serfs."
+        }
+      ]
+    },
+    {
+      "title": "Capitalism and Socialism Compared",
+      "html": "<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Basis</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Capitalism</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Socialism</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Ownership</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Private ownership of the means of production.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Public or collective ownership of the major means of production.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Motive</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Profit maximisation.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Social welfare and equality.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Allocation</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Market forces of demand and supply; the price mechanism.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Central planning by the state.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Competition</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Free competition among producers.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">State monopoly in key sectors.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Role of the state</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Minimal (laissez-faire).</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Extensive and directive.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Class structure</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Class division between owners (bourgeoisie) and workers (proletariat).</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Aims at a classless society.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Examples</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">USA, Japan, Britain.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Former USSR, Cuba, Tanzania under <i>ujamaa</i>.</td></tr></tbody></table>\n<p><b>Merits of capitalism:</b> efficiency, innovation, consumer choice, individual freedom, reward for enterprise.\n<b>Demerits:</b> gross inequality, exploitation of labour, unemployment, boom-and-bust cycles, neglect of unprofitable social\nservices.</p>\n<p><b>Merits of socialism:</b> reduction of inequality, security of employment, provision of welfare, planned use of resources.\n<b>Demerits:</b> bureaucratic inefficiency, absence of incentive, shortage of consumer goods, potential for political\nauthoritarianism.</p>",
+      "examples": [
+        {
+          "q": "Why is Nigeria described as operating a mixed economy?",
+          "a": "Because both private enterprise and public enterprise co-exist: individuals and companies own banks, factories and farms, while government owns or regulates strategic sectors such as petroleum, electricity transmission and the central bank."
+        }
+      ]
+    },
+    {
+      "title": "Communism, Fascism and Welfarism",
+      "html": "<p><b>Communism</b> is the extreme form of socialism developed by Karl Marx and Friedrich Engels in <i>The Communist Manifesto</i>\n(1848). Key ideas: history is a series of class struggles; capitalism creates its own gravediggers in the proletariat; a\nrevolution establishes a dictatorship of the proletariat; and eventually the state “withers away”, leaving a classless,\nstateless society governed by the principle “from each according to his ability, to each according to his needs.”</p>\n<p><b>Fascism</b> (Mussolini's Italy, 1922) and <b>Nazism</b> (Hitler's Germany, 1933) are extreme right-wing ideologies.\nFeatures: glorification of the state above the individual, one-party rule, an all-powerful leader, militarism and expansionism,\nsuppression of opposition and free press, racialism (in the Nazi form), and corporatist control of the economy.</p>\n<p><b>Welfarism</b> holds that the state is responsible for the basic well-being of its citizens &mdash; free or subsidised\neducation, health care, pensions, unemployment benefit &mdash; financed by progressive taxation while private enterprise\ncontinues. It is the middle way associated with Scandinavian countries and post-1945 Britain, and it underpins Chapter II of\nNigeria's 1999 Constitution (Fundamental Objectives and Directive Principles of State Policy).</p>",
+      "examples": [
+        {
+          "q": "According to Marx, what happens to the state under full communism?",
+          "a": "It withers away. Since the state is an instrument of class domination, once classes disappear the state loses its purpose and dissolves into an administration of things."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "An ideology is best defined as",
+      "options": [
+        "A political party",
+        "A set of beliefs about how society should be organised",
+        "A written constitution",
+        "An economic plan"
+      ],
+      "answer": 1,
+      "solution": "Ideology combines a diagnosis, an ideal and a programme."
+    },
+    {
+      "q": "Collective ownership of land in pre-colonial Africa illustrates",
+      "options": [
+        "Feudalism",
+        "Capitalism",
+        "Communalism",
+        "Fascism"
+      ],
+      "answer": 2,
+      "solution": "Communalism features communal ownership and production for use."
+    },
+    {
+      "q": "In feudalism, the class that works land it does not own is the",
+      "options": [
+        "Bourgeoisie",
+        "Serfs",
+        "Nobles",
+        "Clergy"
+      ],
+      "answer": 1,
+      "solution": "Serfs or peasants till the lord's land."
+    },
+    {
+      "q": "The chief motive of capitalism is",
+      "options": [
+        "Equality",
+        "Profit",
+        "Welfare",
+        "Planning"
+      ],
+      "answer": 1,
+      "solution": "Profit maximisation drives capitalist production."
+    },
+    {
+      "q": "Socialism advocates",
+      "options": [
+        "Private ownership of all industry",
+        "Public ownership of the major means of production",
+        "No government",
+        "Hereditary rule"
+      ],
+      "answer": 1,
+      "solution": "Collective ownership is the core socialist principle."
+    },
+    {
+      "q": "<i>The Communist Manifesto</i> was written by",
+      "options": [
+        "Lenin and Trotsky",
+        "Marx and Engels",
+        "Hobbes and Locke",
+        "Smith and Ricardo"
+      ],
+      "answer": 1,
+      "solution": "Published in 1848."
+    },
+    {
+      "q": "'From each according to his ability, to each according to his needs' describes",
+      "options": [
+        "Capitalism",
+        "Feudalism",
+        "Communism",
+        "Fascism"
+      ],
+      "answer": 2,
+      "solution": "It is the distributive principle of full communism."
+    },
+    {
+      "q": "Fascism is associated with",
+      "options": [
+        "Mussolini",
+        "Marx",
+        "Locke",
+        "Nyerere"
+      ],
+      "answer": 0,
+      "solution": "Benito Mussolini founded fascism in Italy in 1922."
+    },
+    {
+      "q": "A distinguishing feature of fascism is",
+      "options": [
+        "Multi-party democracy",
+        "Glorification of the state and one-party rule",
+        "Collective land ownership",
+        "Free press"
+      ],
+      "answer": 1,
+      "solution": "The individual is wholly subordinated to the state."
+    },
+    {
+      "q": "An economy combining private and public ownership is",
+      "options": [
+        "Command economy",
+        "Mixed economy",
+        "Subsistence economy",
+        "Barter economy"
+      ],
+      "answer": 1,
+      "solution": "Nigeria operates a mixed economy."
+    },
+    {
+      "q": "A major criticism of capitalism is",
+      "options": [
+        "Bureaucratic inefficiency",
+        "Wide inequality of income",
+        "Shortage of consumer goods",
+        "Absence of competition"
+      ],
+      "answer": 1,
+      "solution": "Capitalism concentrates wealth and widens inequality."
+    },
+    {
+      "q": "A major criticism of socialism is",
+      "options": [
+        "Excessive competition",
+        "Lack of incentive and bureaucratic delay",
+        "Unemployment cycles",
+        "Consumer sovereignty"
+      ],
+      "answer": 1,
+      "solution": "State planning can dull individual incentive."
+    },
+    {
+      "q": "Ujamaa was practised in",
+      "options": [
+        "Ghana",
+        "Tanzania",
+        "Kenya",
+        "Zambia"
+      ],
+      "answer": 1,
+      "solution": "Julius Nyerere's African socialism in Tanzania."
+    },
+    {
+      "q": "Welfarism means that the state",
+      "options": [
+        "Owns all property",
+        "Provides for the basic well-being of citizens",
+        "Abolishes taxation",
+        "Bans private business"
+      ],
+      "answer": 1,
+      "solution": "Welfare provision financed by taxation, alongside private enterprise."
+    },
+    {
+      "q": "Chapter II of the 1999 Constitution deals with",
+      "options": [
+        "Fundamental rights",
+        "Fundamental objectives and directive principles",
+        "Citizenship",
+        "The judiciary"
+      ],
+      "answer": 1,
+      "solution": "It sets out welfare-oriented state objectives."
+    },
+    {
+      "q": "Marx argued that history is essentially a record of",
+      "options": [
+        "Religious conflict",
+        "Class struggle",
+        "Racial conflict",
+        "Constitutional development"
+      ],
+      "answer": 1,
+      "solution": "Historical materialism sees class struggle as the engine of history."
+    }
+  ]
+}

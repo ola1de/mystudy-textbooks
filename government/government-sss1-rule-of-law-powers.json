@@ -1,0 +1,236 @@
+{
+  "subject": "Government",
+  "level": "SSS 1",
+  "title": "Rule of Law, Separation of Powers, and Human Rights",
+  "slug": "rule-of-law-powers",
+  "outline": [
+    "Meaning and principles of the rule of law",
+    "A.V. Dicey's three pillars",
+    "Conditions for and limitations on the rule of law",
+    "Separation of powers: meaning and purpose",
+    "Checks and balances in practice",
+    "Fundamental human rights in the 1999 Constitution",
+    "Enforcement and limitations of rights",
+    "Independence of the judiciary"
+  ],
+  "modules": [
+    {
+      "title": "The Rule of Law",
+      "html": "<p>The <b>rule of law</b> means the supremacy of law over all persons and authorities: no one is above the law, and government\nitself must act within the law. The doctrine was systematised by <b>A. V. Dicey</b> in <i>An Introduction to the Study of the\nLaw of the Constitution</i> (1885) under three pillars:</p>\n<ol>\n<li><b>Supremacy of the law</b> &mdash; no person may be punished except for a definite breach of law established in an ordinary\ncourt; there is no arbitrary or discretionary punishment.</li>\n<li><b>Equality before the law</b> &mdash; all persons, including public officials, are subject to the same law administered by\nthe same courts.</li>\n<li><b>The constitution as a consequence of individual rights</b> &mdash; in Britain, rights derive from decisions of the courts\nin actual cases rather than from a written declaration.</li>\n</ol>\n<p><b>Conditions necessary for the rule of law:</b> an independent judiciary; a free press; an enlightened citizenry;\ndemocratic government; separation of powers; a well-trained and disciplined police force; and legal aid so that the poor can\nenforce their rights.</p>\n<p><b>Limitations in practice:</b> diplomatic immunity; immunity of the President, Vice-President, Governors and their deputies\nunder section 308; parliamentary privileges; delegated legislation and administrative tribunals; states of emergency;\ndetention under security legislation; the cost and delay of litigation; and, historically, military decrees with ouster\nclauses.</p>",
+      "examples": [
+        {
+          "q": "A sitting governor cannot be sued for a civil wrong while in office. Which principle is limited and by what provision?",
+          "a": "Equality before the law is limited by section 308 of the 1999 Constitution, which confers immunity from civil and criminal proceedings on the President, Vice-President, Governors and Deputy Governors during their tenure."
+        }
+      ]
+    },
+    {
+      "title": "Separation of Powers",
+      "html": "<p><b>Separation of powers</b> requires that the three functions of government &mdash; legislative, executive and judicial &mdash;\nbe exercised by three separate sets of persons and bodies, so that no one organ becomes tyrannical. Montesquieu argued that\n“when the legislative and executive powers are united in the same person&hellip; there can be no liberty.”</p>\n<p>Complete separation is impossible; what modern constitutions adopt is separation plus <b>checks and balances</b>:</p>\n<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Checking organ</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Check exercised</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">On whom</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Legislature</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Impeachment; approval of appointments and budgets; override of veto; oversight and investigation.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Executive and judiciary</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Executive</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Veto of bills; appointment of judges (subject to confirmation); prerogative of mercy.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Legislature and judiciary</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Judiciary</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Judicial review; declaring laws or acts unconstitutional; interpreting the constitution.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Legislature and executive</td></tr></tbody></table>\n<p><b>Merits:</b> prevents dictatorship, protects liberty, promotes efficiency through specialisation, guarantees judicial\nindependence. <b>Demerits:</b> can cause deadlock and delay, encourages friction between organs, and is difficult to apply\nstrictly in a parliamentary system where the executive sits in the legislature.</p>",
+      "examples": [
+        {
+          "q": "The National Assembly refuses to confirm a ministerial nominee. Which doctrine is at work?",
+          "a": "Checks and balances &ndash; the legislature restrains the executive's power of appointment through the requirement of Senate confirmation."
+        }
+      ]
+    },
+    {
+      "title": "Fundamental Human Rights",
+      "html": "<p><b>Human rights</b> are the basic entitlements that belong to every person by virtue of being human. They are universal,\ninalienable and inherent. Chapter IV (sections 33&ndash;46) of Nigeria's 1999 Constitution guarantees:</p>\n<ul>\n<li>Right to life (s.33)</li>\n<li>Right to dignity of the human person &mdash; freedom from torture and slavery (s.34)</li>\n<li>Right to personal liberty (s.35)</li>\n<li>Right to fair hearing (s.36)</li>\n<li>Right to private and family life (s.37)</li>\n<li>Right to freedom of thought, conscience and religion (s.38)</li>\n<li>Right to freedom of expression and the press (s.39)</li>\n<li>Right to peaceful assembly and association (s.40)</li>\n<li>Right to freedom of movement (s.41)</li>\n<li>Right to freedom from discrimination (s.42)</li>\n<li>Right to acquire and own immovable property anywhere in Nigeria (s.43) and protection from compulsory acquisition (s.44)</li>\n</ul>\n<p>Rights are classified as <b>civil and political</b> (first generation, justiciable), <b>economic, social and cultural</b>\n(second generation, in Chapter II and non-justiciable in Nigeria), and <b>collective or solidarity rights</b> (third\ngeneration: development, peace, a clean environment).</p>\n<p><b>Limitations:</b> section 45 permits restrictions in the interest of defence, public safety, public order, public morality\nor public health, and to protect the rights of others. Rights may also be curtailed during a lawful state of emergency,\nthough the right to life and freedom from torture enjoy strong protection.</p>",
+      "examples": [
+        {
+          "q": "Can government lawfully ban a public procession? Explain.",
+          "a": "Yes, but only within limits. Section 40 guarantees peaceful assembly, yet section 45 allows a law reasonably justifiable in a democratic society to restrict it in the interest of public safety or order. A blanket, arbitrary ban would be unconstitutional."
+        }
+      ]
+    },
+    {
+      "title": "Enforcement of Rights and Judicial Independence",
+      "html": "<p>Section 46 gives any person who alleges that his rights are being or are likely to be infringed a direct right of access to\na High Court. The <b>Fundamental Rights (Enforcement Procedure) Rules</b> provide a speedy procedure. Remedies include\ndeclarations, injunctions, damages and the prerogative writs &mdash; notably <b>habeas corpus</b> (production of a detained\nperson), <b>mandamus</b> (compelling performance of a public duty), <b>certiorari</b> (quashing an unlawful decision) and\n<b>prohibition</b>.</p>\n<p>Other safeguards: the National Human Rights Commission, the Public Complaints Commission (ombudsman), a free press, civil\nsociety organisations, and regional bodies such as the ECOWAS Community Court of Justice and the African Commission on Human\nand Peoples' Rights.</p>\n<p><b>Independence of the judiciary</b> is guaranteed by: security of tenure (judges removable only for misconduct through a\nprescribed procedure involving the National Judicial Council); salaries charged on the Consolidated Revenue Fund so they\ncannot be reduced to the judges' disadvantage; appointment on the recommendation of the National Judicial Council; immunity\nfor judicial acts; and the contempt power.</p>",
+      "examples": [
+        {
+          "q": "Which prerogative writ would you use for a person unlawfully detained by the police?",
+          "a": "Habeas corpus &ndash; an order directing the detaining authority to produce the detainee before the court and justify the detention, failing which the person must be released."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "The rule of law was popularised by",
+      "options": [
+        "Montesquieu",
+        "A. V. Dicey",
+        "John Locke",
+        "Jean Bodin"
+      ],
+      "answer": 1,
+      "solution": "Dicey set out the doctrine in 1885."
+    },
+    {
+      "q": "Which is one of Dicey's pillars of the rule of law?",
+      "options": [
+        "Rule by decree",
+        "Equality before the law",
+        "Executive supremacy",
+        "Military justice"
+      ],
+      "answer": 1,
+      "solution": "Equality before the law is the second pillar."
+    },
+    {
+      "q": "Section 308 of the 1999 Constitution provides for",
+      "options": [
+        "Fair hearing",
+        "Immunity of certain office holders",
+        "State creation",
+        "Local government"
+      ],
+      "answer": 1,
+      "solution": "It grants immunity to the President, VP, Governors and their deputies."
+    },
+    {
+      "q": "Separation of powers is associated with",
+      "options": [
+        "Dicey",
+        "Montesquieu",
+        "Bodin",
+        "Marx"
+      ],
+      "answer": 1,
+      "solution": "Montesquieu, <i>The Spirit of the Laws</i>, 1748."
+    },
+    {
+      "q": "Impeachment of the President is a check exercised by the",
+      "options": [
+        "Judiciary",
+        "Legislature",
+        "Civil service",
+        "Electorate"
+      ],
+      "answer": 1,
+      "solution": "The legislature impeaches and removes."
+    },
+    {
+      "q": "The judiciary checks the legislature mainly through",
+      "options": [
+        "Veto",
+        "Judicial review",
+        "Impeachment",
+        "Budget approval"
+      ],
+      "answer": 1,
+      "solution": "Courts may declare a statute unconstitutional."
+    },
+    {
+      "q": "Chapter IV of the 1999 Constitution deals with",
+      "options": [
+        "Citizenship",
+        "Fundamental human rights",
+        "The executive",
+        "Revenue allocation"
+      ],
+      "answer": 1,
+      "solution": "Sections 33-46 guarantee fundamental rights."
+    },
+    {
+      "q": "The right to fair hearing is contained in",
+      "options": [
+        "Section 33",
+        "Section 35",
+        "Section 36",
+        "Section 42"
+      ],
+      "answer": 2,
+      "solution": "Section 36 guarantees fair hearing."
+    },
+    {
+      "q": "Rights in Chapter II of the Nigerian Constitution are",
+      "options": [
+        "Justiciable",
+        "Non-justiciable",
+        "Absolute",
+        "Reserved for aliens"
+      ],
+      "answer": 1,
+      "solution": "Fundamental objectives and directive principles are not directly enforceable."
+    },
+    {
+      "q": "The writ that secures the release of an unlawfully detained person is",
+      "options": [
+        "Mandamus",
+        "Certiorari",
+        "Habeas corpus",
+        "Prohibition"
+      ],
+      "answer": 2,
+      "solution": "Habeas corpus tests the legality of detention."
+    },
+    {
+      "q": "An order compelling a public officer to perform a duty is",
+      "options": [
+        "Habeas corpus",
+        "Mandamus",
+        "Certiorari",
+        "Injunction"
+      ],
+      "answer": 1,
+      "solution": "Mandamus commands performance of a public duty."
+    },
+    {
+      "q": "Section 45 of the 1999 Constitution provides for",
+      "options": [
+        "Creation of states",
+        "Restriction of certain rights in the public interest",
+        "Removal of judges",
+        "Electoral offences"
+      ],
+      "answer": 1,
+      "solution": "It permits derogation on grounds such as public order and safety."
+    },
+    {
+      "q": "Security of tenure for judges is designed to ensure",
+      "options": [
+        "Executive control",
+        "Judicial independence",
+        "Legislative supremacy",
+        "Party loyalty"
+      ],
+      "answer": 1,
+      "solution": "Judges must decide without fear of removal."
+    },
+    {
+      "q": "Which body recommends the appointment and discipline of judges in Nigeria?",
+      "options": [
+        "INEC",
+        "National Judicial Council",
+        "Federal Character Commission",
+        "Nigerian Bar Association"
+      ],
+      "answer": 1,
+      "solution": "The NJC handles judicial appointments and discipline."
+    },
+    {
+      "q": "A demerit of strict separation of powers is",
+      "options": [
+        "Dictatorship",
+        "Deadlock between organs",
+        "Loss of rights",
+        "Judicial dependence"
+      ],
+      "answer": 1,
+      "solution": "Rival organs may frustrate one another."
+    },
+    {
+      "q": "Third-generation rights include the right to",
+      "options": [
+        "Life",
+        "Fair hearing",
+        "A clean environment and development",
+        "Personal liberty"
+      ],
+      "answer": 2,
+      "solution": "Solidarity or collective rights are third generation."
+    }
+  ]
+}

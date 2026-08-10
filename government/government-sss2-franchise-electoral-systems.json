@@ -1,0 +1,237 @@
+{
+  "subject": "Government",
+  "level": "SSS 2",
+  "title": "Franchise and Electoral Systems",
+  "slug": "franchise-electoral-systems",
+  "outline": [
+    "Meaning and history of franchise",
+    "Types of franchise: restricted and universal adult suffrage",
+    "Electoral systems: simple majority, second ballot, proportional representation",
+    "Delimitation of constituencies and gerrymandering",
+    "The electoral process from registration to declaration",
+    "Electoral commissions and electoral offences",
+    "Problems of elections in Nigeria and reforms"
+  ],
+  "modules": [
+    {
+      "title": "Franchise and its Development",
+      "html": "\n<h4>1. Meaning</h4>\n<p><b>Franchise</b> (or suffrage) is the right to vote in public elections. <b>Universal adult suffrage</b> means every sane adult citizen who has reached the voting age may vote, irrespective of sex, religion, wealth, literacy or ethnicity.</p>\n<h4>2. Types of Franchise</h4>\n<ul>\n<li><b>Restricted/qualified franchise</b> — the vote is limited by property, income, tax payment, literacy, sex or race. Nigeria's 1922 Clifford Constitution gave the elective principle only to adult males in Lagos and Calabar with a gross income of £100 per annum.</li>\n<li><b>Universal adult suffrage</b> — all qualified adults vote. Introduced in Southern Nigeria in 1954 and extended to the North for women only in 1976/1979.</li>\n<li><b>Plural voting</b> — an elector votes more than once (e.g. by residence and by university seat); now abolished in most states.</li>\n</ul>\n<h4>3. Qualification and Disqualification of Voters in Nigeria</h4>\n<table class=\"tb-table\">\n<tr><th>Qualification</th><th>Disqualification</th></tr>\n<tr><td>Nigerian citizenship</td><td>Unsoundness of mind</td></tr>\n<tr><td>Aged 18 years and above</td><td>Conviction and imprisonment on election day</td></tr>\n<tr><td>Registration in the voters' register</td><td>Non-registration or absence of PVC</td></tr>\n<tr><td>Possession of a permanent voter's card</td><td>Alien status</td></tr>\n<tr><td>Ordinary residence in the constituency</td><td>Court-imposed electoral disqualification</td></tr>\n</table>\n",
+      "examples": [
+        {
+          "q": "Why is universal adult suffrage regarded as the basis of modern democracy?",
+          "a": "Because it makes political equality real: every adult counts as one and no more than one, so government rests on the consent of the whole community rather than a propertied minority. It legitimises the resulting government, widens participation, and forces parties to appeal to all segments of society rather than a narrow elite."
+        },
+        {
+          "q": "Northern Nigerian women were only enfranchised in 1976/1979. Comment on the implication.",
+          "a": "The delay produced an unequal franchise within one federation: the South practised universal adult suffrage from 1954 while the North retained male-only voting, inflating the relative weight of the North's registered electorate in some respects and denying half its population political voice. Full enfranchisement under the 1979 Constitution corrected the anomaly and expanded the national electorate substantially."
+        }
+      ]
+    },
+    {
+      "title": "Electoral Systems and Delimitation",
+      "html": "\n<h4>1. Types of Electoral System</h4>\n<table class=\"tb-table\">\n<tr><th>System</th><th>How it works</th><th>Merits</th><th>Demerits</th></tr>\n<tr><td>Simple majority (first-past-the-post)</td><td>Candidate with the highest votes wins, even without an absolute majority</td><td>Simple, cheap, produces clear winners and strong governments; close member–constituency link</td><td>Wastes votes; a party may win seats with a minority of votes; unfair to small parties</td></tr>\n<tr><td>Absolute majority / second ballot</td><td>Winner must poll over 50%; a run-off is held between the top two if not achieved</td><td>Winner has broad support; encourages alliances</td><td>Expensive, delays results, voter fatigue</td></tr>\n<tr><td>Proportional representation</td><td>Seats allocated to parties in proportion to votes (party list or single transferable vote)</td><td>Fair to minorities, few wasted votes, reflects national opinion</td><td>Complex, produces coalition instability, weakens member–constituency link</td></tr>\n</table>\n<p>Nigeria uses simple majority for legislative seats, and for the presidency a <b>modified majority</b>: the winner must have the highest votes <i>and</i> at least one-quarter of the votes cast in not less than two-thirds of the 36 states and the FCT — a rule designed to ensure a nationally spread mandate.</p>\n<h4>2. Delimitation of Constituencies</h4>\n<p><b>Delimitation</b> is the division of a country into electoral districts. Principles include roughly equal population, geographical contiguity, community of interest, administrative convenience and physical features. In Nigeria the Independent National Electoral Commission performs this function.</p>\n<p><b>Gerrymandering</b> is the deliberate drawing of constituency boundaries to favour a party or group. It distorts representation and is a form of electoral malpractice.</p>\n<h4>3. The Electoral Process</h4>\n<ol><li>Delimitation of constituencies.</li><li>Registration of voters and issuance of PVCs.</li><li>Registration of political parties.</li><li>Party primaries and nomination of candidates.</li><li>Campaigns within the legal period.</li><li>Polling: accreditation, voting, counting at the polling unit.</li><li>Collation and transmission of results.</li><li>Declaration of results and return of winners.</li><li>Election petitions before tribunals and appeals.</li></ol>\n",
+      "examples": [
+        {
+          "q": "In a presidential election, candidate A polls the highest votes but only reaches 25% in 20 states. What happens?",
+          "a": "Two-thirds of 36 states plus the FCT means the candidate must reach 25% in at least <b>24 states plus the FCT requirement</b>. Having achieved the spread in only 20 states, candidate A cannot be returned outright. The Electoral Act provides for a <b>run-off</b> within twenty-one days between candidate A and the candidate with the next highest votes in the greatest number of states; in the run-off a simple majority suffices."
+        },
+        {
+          "q": "Explain why proportional representation might reduce ethnic tension in a plural society.",
+          "a": "Under PR, seats reflect vote shares, so minority parties and dispersed minority groups win representation instead of being permanently shut out by regional majorities. This lowers the incentive to see elections as a zero-sum ethnic contest, encourages coalition government and bargaining, and gives losing groups a legitimate voice in the legislature."
+        }
+      ]
+    },
+    {
+      "title": "Electoral Commissions, Offences and Reform",
+      "html": "\n<h4>1. Nigeria's Electoral Bodies in History</h4>\n<ul><li>ECN (1959) — Electoral Commission of Nigeria.</li><li>FEC (1964), FEDECO (1976–1983).</li><li>NEC (1987) and NECON (1993).</li><li><b>INEC</b> (1998 to date), established under section 153 of the 1999 Constitution, with State Independent Electoral Commissions (SIECs) for local government elections.</li></ul>\n<h4>2. Functions of INEC</h4>\n<ol><li>Register and regulate political parties, and monitor their finances and conventions.</li><li>Compile and revise the register of voters.</li><li>Delimit constituencies.</li><li>Conduct federal and state elections and referenda.</li><li>Screen and accredit candidates and observers.</li><li>Announce results and issue certificates of return.</li><li>Prosecute electoral offenders.</li></ol>\n<h4>3. Electoral Offences</h4>\n<p>Multiple voting, impersonation, ballot-box snatching, vote buying, thuggery and intimidation, falsification of results, campaigning on election day, bribery of officials, destruction of electoral materials, and voting without accreditation.</p>\n<h4>4. Problems and Reforms</h4>\n<table class=\"tb-table\">\n<tr><th>Problem</th><th>Reform</th></tr>\n<tr><td>Rigging and result falsification</td><td>BVAS accreditation and electronic transmission of results</td></tr>\n<tr><td>Vote buying</td><td>Enforcement, cashless monitoring, voter education, screened polling cubicles</td></tr>\n<tr><td>Violence and thuggery</td><td>Adequate security deployment and prosecution of sponsors</td></tr>\n<tr><td>Late arrival of materials</td><td>Improved logistics and early deployment</td></tr>\n<tr><td>Weak sanction of offenders</td><td>Proposed National Electoral Offences Commission</td></tr>\n<tr><td>Godfatherism and money politics</td><td>Campaign finance limits and transparent party primaries</td></tr>\n</table>\n",
+      "examples": [
+        {
+          "q": "How does the BVAS improve the credibility of Nigerian elections?",
+          "a": "The Bimodal Voter Accreditation System verifies voters biometrically by fingerprint or facial recognition, so a card alone cannot be used by an impostor and the number accredited is captured electronically. It also uploads a photograph of the polling-unit result sheet to a public viewing portal, allowing parties and citizens to compare declared collated figures with unit-level results — which makes wholesale falsification easier to detect and challenge in tribunals."
+        },
+        {
+          "q": "A party wins 30% of the national vote but only 5% of seats. Which system produced this and how could it change?",
+          "a": "This is typical of the <b>simple majority (first-past-the-post)</b> system, where votes spread thinly across constituencies win nothing. Adopting <b>proportional representation</b>, or a mixed-member system that adds list seats to constituency seats, would translate the 30% vote share into roughly proportional representation."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Franchise means the right to:",
+      "options": [
+        "Own property",
+        "Vote at elections",
+        "Hold dual citizenship",
+        "Form a company"
+      ],
+      "answer": 1,
+      "solution": "Franchise or suffrage is the right to vote in public elections."
+    },
+    {
+      "q": "The elective principle was introduced into Nigeria by the:",
+      "options": [
+        "1914 amalgamation",
+        "1922 Clifford Constitution",
+        "1946 Richards Constitution",
+        "1951 Macpherson Constitution"
+      ],
+      "answer": 1,
+      "solution": "Clifford's constitution first allowed elections, though on a restricted £100 income franchise in Lagos and Calabar."
+    },
+    {
+      "q": "Universal adult suffrage was extended to women in Northern Nigeria in:",
+      "options": [
+        "1954",
+        "1959",
+        "1976/1979",
+        "1993"
+      ],
+      "answer": 2,
+      "solution": "Northern women were enfranchised under the local government reform era and fully under the 1979 Constitution."
+    },
+    {
+      "q": "Under first-past-the-post, the winner is the candidate with:",
+      "options": [
+        "Over 50% of votes",
+        "The highest number of votes",
+        "The most states",
+        "The oldest party"
+      ],
+      "answer": 1,
+      "solution": "A simple plurality suffices, even if below an absolute majority."
+    },
+    {
+      "q": "Deliberate manipulation of constituency boundaries is:",
+      "options": [
+        "Delimitation",
+        "Gerrymandering",
+        "Accreditation",
+        "Collation"
+      ],
+      "answer": 1,
+      "solution": "Gerrymandering redraws boundaries to favour a party or group."
+    },
+    {
+      "q": "Which system best guarantees minority representation?",
+      "options": [
+        "Simple majority",
+        "Proportional representation",
+        "Second ballot",
+        "Plural voting"
+      ],
+      "answer": 1,
+      "solution": "PR allocates seats in proportion to votes, so minorities gain seats."
+    },
+    {
+      "q": "A Nigerian presidential candidate must score at least 25% in:",
+      "options": [
+        "Half the states",
+        "Two-thirds of the states and the FCT requirement",
+        "All 36 states",
+        "One-third of states"
+      ],
+      "answer": 1,
+      "solution": "The spread rule requires a quarter of the votes in not less than two-thirds of the states plus the FCT provision."
+    },
+    {
+      "q": "The body that conducts local government elections in Nigeria is:",
+      "options": [
+        "INEC",
+        "SIEC",
+        "NECON",
+        "FEDECO"
+      ],
+      "answer": 1,
+      "solution": "State Independent Electoral Commissions conduct local council elections."
+    },
+    {
+      "q": "Which was the electoral body during the Second Republic?",
+      "options": [
+        "ECN",
+        "FEDECO",
+        "NECON",
+        "INEC"
+      ],
+      "answer": 1,
+      "solution": "The Federal Electoral Commission (FEDECO) conducted the 1979 and 1983 elections."
+    },
+    {
+      "q": "The voting age in Nigeria is:",
+      "options": [
+        "16",
+        "18",
+        "21",
+        "25"
+      ],
+      "answer": 1,
+      "solution": "Section 77(2) sets eighteen years as the voting age."
+    },
+    {
+      "q": "A run-off election is a feature of the:",
+      "options": [
+        "Second ballot system",
+        "Simple majority system",
+        "List system only",
+        "Plural voting"
+      ],
+      "answer": 0,
+      "solution": "The second ballot holds a run-off when no candidate secures an absolute majority."
+    },
+    {
+      "q": "Which is an electoral offence?",
+      "options": [
+        "Voting once with a PVC",
+        "Accreditation",
+        "Ballot box snatching",
+        "Counting at polling units"
+      ],
+      "answer": 2,
+      "solution": "Snatching ballot boxes is a criminal electoral offence."
+    },
+    {
+      "q": "The BVAS is used mainly for:",
+      "options": [
+        "Voter accreditation and result upload",
+        "Printing ballots",
+        "Delimiting constituencies",
+        "Registering parties"
+      ],
+      "answer": 0,
+      "solution": "It authenticates voters biometrically and uploads polling-unit results."
+    },
+    {
+      "q": "Delimitation of constituencies in Nigeria is the duty of:",
+      "options": [
+        "INEC",
+        "National Assembly",
+        "Supreme Court",
+        "NPC"
+      ],
+      "answer": 0,
+      "solution": "INEC delimits constituencies subject to constitutional principles."
+    },
+    {
+      "q": "A major demerit of proportional representation is:",
+      "options": [
+        "Wasted votes",
+        "Coalition instability",
+        "Exclusion of minorities",
+        "Simplicity"
+      ],
+      "answer": 1,
+      "solution": "PR often produces multi-party coalitions that may be unstable."
+    },
+    {
+      "q": "Disputes arising from an election are settled by:",
+      "options": [
+        "Election petition tribunals",
+        "INEC alone",
+        "The Police",
+        "The party executive"
+      ],
+      "answer": 0,
+      "solution": "Election petition tribunals, with appeals to higher courts, adjudicate election disputes."
+    }
+  ]
+}

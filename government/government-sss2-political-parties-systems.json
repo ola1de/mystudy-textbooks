@@ -1,0 +1,223 @@
+{
+  "subject": "Government",
+  "level": "SSS 2",
+  "title": "Political Parties and Party Systems",
+  "slug": "political-parties-systems",
+  "outline": [
+    "Meaning and features of a political party",
+    "Functions of political parties",
+    "Types of party systems: one, two and multi-party",
+    "Party organisation, discipline and finance",
+    "Manifestos and party ideology",
+    "History of political parties in Nigeria",
+    "Problems of political parties in Nigeria"
+  ],
+  "modules": [
+    {
+      "title": "Nature and Functions of Political Parties",
+      "html": "\n<h4>1. Definition and Features</h4>\n<p>A <b>political party</b> is an organised group of people sharing broadly similar political beliefs, whose principal aim is to capture and control the machinery of government through constitutional means, usually elections.</p>\n<p><b>Features:</b> organised structure from ward to national level; a constitution and manifesto; identifiable symbol, name and motto; voluntary membership; a broad programme covering national issues; commitment to winning power lawfully; sources of funds; discipline over members.</p>\n<h4>2. Functions</h4>\n<ol><li>Contesting elections and forming government.</li><li>Recruiting and grooming political leaders.</li><li>Aggregating and articulating interests into coherent programmes.</li><li>Political education and socialisation of the electorate.</li><li>Organising opposition and criticising government (the 'shadow' role).</li><li>Serving as a link between government and the people.</li><li>Promoting national integration where parties are nationwide.</li><li>Ensuring accountability through internal and inter-party competition.</li></ol>\n<h4>3. Party versus Pressure Group</h4>\n<table class=\"tb-table\">\n<tr><th>Criterion</th><th>Political party</th><th>Pressure group</th></tr>\n<tr><td>Aim</td><td>Capture government</td><td>Influence government</td></tr>\n<tr><td>Scope of interest</td><td>Broad, national</td><td>Narrow, sectional</td></tr>\n<tr><td>Elections</td><td>Sponsors candidates</td><td>Does not normally contest</td></tr>\n<tr><td>Responsibility</td><td>Accountable if it forms government</td><td>Bears no governmental responsibility</td></tr>\n</table>\n",
+      "examples": [
+        {
+          "q": "Why is a trade union not a political party even when it endorses a candidate?",
+          "a": "Its primary purpose is to protect the sectional interest of its members — wages and conditions — not to capture government. It does not present a comprehensive national programme, does not field candidates under its own name, and bears no responsibility for governing. Endorsement is a pressure tactic, not party competition. Where a union does form a party (as with the Labour Party's origins), the new body becomes a party in its own right."
+        },
+        {
+          "q": "Explain the function of a shadow cabinet.",
+          "a": "In parliamentary systems the main opposition party appoints spokesmen mirroring each government minister. They scrutinise the corresponding ministry, offer alternative policies and prepare to take office if their party wins. This institutionalises criticism, sharpens accountability, and trains future ministers."
+        }
+      ]
+    },
+    {
+      "title": "Party Systems and Party Organisation",
+      "html": "\n<h4>1. Types of Party System</h4>\n<table class=\"tb-table\">\n<tr><th>System</th><th>Description</th><th>Merits</th><th>Demerits</th><th>Example</th></tr>\n<tr><td>One-party</td><td>Only one legal party</td><td>National unity, avoids ethnic party rivalry, cheap</td><td>Dictatorship, no alternative, apathy, no accountability</td><td>Ghana under Nkrumah; Tanzania under Nyerere</td></tr>\n<tr><td>Two-party</td><td>Two dominant parties alternate in power</td><td>Clear choice, stable majority government, effective opposition</td><td>Limits choice, may exclude minorities, encourages polarisation</td><td>USA, UK; Nigeria 1989–1993 (SDP and NRC)</td></tr>\n<tr><td>Multi-party</td><td>Several parties compete</td><td>Wide choice, reflects diversity, protects minorities</td><td>Coalition instability, expensive, weak governments</td><td>Nigeria's Fourth Republic, India, Italy</td></tr>\n</table>\n<h4>2. Organisation</h4>\n<p>Nigerian parties are structured from the <b>ward</b> through the <b>local government</b> and <b>state</b> to the <b>national</b> level, with organs including the National Convention (supreme organ), National Executive Committee, National Working Committee, and caucuses. Candidates emerge through <b>primaries</b>, which may be direct (all members vote), indirect (delegates vote) or by consensus.</p>\n<h4>3. Party Finance and Discipline</h4>\n<ul><li>Sources: membership dues, nomination fees, levies on office holders, donations, fundraising, and (formerly) government grants.</li><li>Discipline: the whip system, the party constitution, suspension or expulsion, and denial of nomination. In Nigeria a legislator who defects without a division in his party may lose his seat under sections 68 and 109.</li></ul>\n<h4>4. Parties in Nigerian History</h4>\n<ol><li><b>1923</b> — Nigerian National Democratic Party (NNDP), Herbert Macaulay, Nigeria's first party.</li><li><b>1934/1936</b> — Nigerian Youth Movement (NYM).</li><li><b>1944</b> — NCNC (Azikiwe and Macaulay); <b>1951</b> — Action Group (Awolowo); <b>1951</b> — Northern People's Congress (Ahmadu Bello, Balewa).</li><li><b>Second Republic (1979–1983)</b> — NPN, UPN, NPP, GNPP, PRP, later NAP.</li><li><b>Third Republic (1989–1993)</b> — SDP and NRC, created by decree.</li><li><b>Fourth Republic (1999–)</b> — PDP, APP/ANPP, AD; later APC (2013 merger of ACN, CPC, ANPP and a faction of APGA), LP, NNPP and others.</li></ol>\n",
+      "examples": [
+        {
+          "q": "Why were the SDP and NRC described as government-created parties?",
+          "a": "After dissolving all associations in 1989, General Babangida's regime rejected the thirteen applicant associations and instead <b>decreed two parties into existence</b>, wrote their constitutions and manifestos, funded their secretariats and defined their ideologies as 'a little to the left' (SDP) and 'a little to the right' (NRC). They were therefore products of state engineering rather than spontaneous political association."
+        },
+        {
+          "q": "Identify two dangers of ethnic-based parties, using Nigeria's First Republic.",
+          "a": "(i) They convert elections into ethnic censuses: NPC (North), NCNC (East) and AG (West) each dominated a region, so national contests became regional confrontations. (ii) They make coalitions fragile and encourage regional rather than national policy — contributing to the 1962 Western Region crisis, the disputed 1964 federal election and ultimately the collapse of the First Republic in 1966."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "The primary aim of a political party is to:",
+      "options": [
+        "Influence policy from outside",
+        "Capture and control government",
+        "Organise trade fairs",
+        "Run a newspaper"
+      ],
+      "answer": 1,
+      "solution": "Parties seek to win governmental power through elections."
+    },
+    {
+      "q": "Nigeria's first political party was the:",
+      "options": [
+        "NCNC",
+        "NNDP (1923)",
+        "AG",
+        "NPC"
+      ],
+      "answer": 1,
+      "solution": "Herbert Macaulay founded the Nigerian National Democratic Party in 1923 after the Clifford Constitution introduced elections."
+    },
+    {
+      "q": "Which party was led by Obafemi Awolowo in the First Republic?",
+      "options": [
+        "NPC",
+        "AG",
+        "NCNC",
+        "UMBC"
+      ],
+      "answer": 1,
+      "solution": "Awolowo led the Action Group, formed in 1951 from the Egbe Omo Oduduwa."
+    },
+    {
+      "q": "A system with two dominant parties is a:",
+      "options": [
+        "One-party system",
+        "Two-party system",
+        "Multi-party system",
+        "No-party system"
+      ],
+      "answer": 1,
+      "solution": "Two major parties realistically alternate in power."
+    },
+    {
+      "q": "The SDP and NRC were created in:",
+      "options": [
+        "1979",
+        "1983",
+        "1989",
+        "1999"
+      ],
+      "answer": 2,
+      "solution": "The Babangida regime decreed the two parties into existence in 1989."
+    },
+    {
+      "q": "A document stating a party's programme is its:",
+      "options": [
+        "Manifesto",
+        "Writ",
+        "Gazette",
+        "Warrant"
+      ],
+      "answer": 0,
+      "solution": "The manifesto sets out promises and policies for the electorate."
+    },
+    {
+      "q": "The supreme organ of a Nigerian political party is normally the:",
+      "options": [
+        "National Convention",
+        "Ward committee",
+        "Board of trustees",
+        "Campaign council"
+      ],
+      "answer": 0,
+      "solution": "The National Convention is the highest decision-making body of the party."
+    },
+    {
+      "q": "Party discipline in the legislature is enforced by the:",
+      "options": [
+        "Whip",
+        "Clerk",
+        "Speaker's mace",
+        "Sergeant-at-arms"
+      ],
+      "answer": 0,
+      "solution": "The whip ensures members attend and vote along party lines."
+    },
+    {
+      "q": "A demerit of the one-party system is:",
+      "options": [
+        "National unity",
+        "Absence of alternative government",
+        "Cheap elections",
+        "Reduced ethnic rivalry"
+      ],
+      "answer": 1,
+      "solution": "With no legal opposition, citizens have no alternative and accountability weakens."
+    },
+    {
+      "q": "The APC was formed in 2013 by the merger of ACN, CPC, ANPP and a faction of:",
+      "options": [
+        "PDP",
+        "APGA",
+        "LP",
+        "NNPP"
+      ],
+      "answer": 1,
+      "solution": "A faction of the All Progressives Grand Alliance joined the merger."
+    },
+    {
+      "q": "Which is NOT a function of political parties?",
+      "options": [
+        "Political recruitment",
+        "Interest aggregation",
+        "Adjudication of criminal cases",
+        "Political education"
+      ],
+      "answer": 2,
+      "solution": "Adjudication belongs to the courts, not to parties."
+    },
+    {
+      "q": "Selection of candidates within a party is done through:",
+      "options": [
+        "Primaries",
+        "Referendum",
+        "Recall",
+        "Plebiscite"
+      ],
+      "answer": 0,
+      "solution": "Party primaries, direct or indirect, nominate candidates."
+    },
+    {
+      "q": "Sections 68 and 109 of the 1999 Constitution deal with:",
+      "options": [
+        "Loss of legislative seat on defection",
+        "Voting age",
+        "Party funding",
+        "State creation"
+      ],
+      "answer": 0,
+      "solution": "A legislator who defects without a division in his party may forfeit his seat."
+    },
+    {
+      "q": "The NCNC was founded in 1944 by Azikiwe and:",
+      "options": [
+        "Herbert Macaulay",
+        "Ahmadu Bello",
+        "Tafawa Balewa",
+        "Aminu Kano"
+      ],
+      "answer": 0,
+      "solution": "Macaulay was the first president of the NCNC, with Azikiwe as secretary."
+    },
+    {
+      "q": "A multi-party system is common in societies that are:",
+      "options": [
+        "Small and homogeneous",
+        "Large and diverse",
+        "Militarised",
+        "Monarchical"
+      ],
+      "answer": 1,
+      "solution": "Diversity of interests produces many parties seeking representation."
+    },
+    {
+      "q": "A party's ward-level structure exists mainly to:",
+      "options": [
+        "Mobilise grassroots members",
+        "Try election petitions",
+        "Print ballot papers",
+        "Appoint judges"
+      ],
+      "answer": 0,
+      "solution": "Wards are the base units for membership registration and grassroots mobilisation."
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "subject": "Government",
+  "level": "SSS 1",
+  "title": "Classical and Modern Forms of Government",
+  "slug": "forms-of-government",
+  "outline": [
+    "Classification of governments: Aristotle's typology",
+    "Monarchy: absolute and constitutional",
+    "Aristocracy, oligarchy and plutocracy",
+    "Autocracy, dictatorship and totalitarianism",
+    "Democracy: direct and representative",
+    "Presidential versus parliamentary systems",
+    "Unitary, federal and confederal structures",
+    "Merits and demerits of each form"
+  ],
+  "modules": [
+    {
+      "title": "Classical Classification of Governments",
+      "html": "<p>Aristotle classified governments by <b>who rules</b> and <b>in whose interest</b>. Each true form has a corrupt counterpart.</p>\n<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Number of rulers</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">True form (common interest)</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Perverted form (self-interest)</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">One</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Monarchy</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Tyranny</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Few</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Aristocracy</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Oligarchy</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Many</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Polity (constitutional rule)</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Democracy (mob rule, in Aristotle's usage)</td></tr></tbody></table>\n<p>Modern usage has reversed the last row: democracy is now the honoured term. Other classical forms include:</p>\n<ul>\n<li><b>Theocracy</b> &mdash; rule by religious leaders in the name of God (Iran, the Sokoto Caliphate).</li>\n<li><b>Plutocracy</b> &mdash; rule by the wealthy.</li>\n<li><b>Gerontocracy</b> &mdash; rule by elders, common in traditional Igbo and other African societies.</li>\n<li><b>Anarchy</b> &mdash; absence of government.</li>\n<li><b>Diarchy</b> &mdash; joint rule by two authorities, e.g. civilians and the military.</li>\n</ul>",
+      "examples": [
+        {
+          "q": "Under Aristotle's scheme, what is the perverted form of aristocracy and why?",
+          "a": "Oligarchy. Aristocracy is rule by the few best in the interest of all; when those few rule for their own benefit, it degenerates into oligarchy."
+        }
+      ]
+    },
+    {
+      "title": "Monarchy and Autocracy",
+      "html": "<p><b>Monarchy</b> is government headed by a king, queen or emir who normally holds office by hereditary right and for life.</p>\n<ul>\n<li><b>Absolute monarchy</b> &mdash; the monarch's powers are unlimited by any constitution; e.g. Saudi Arabia, or Louis XIV's\nFrance (“L'&eacute;tat, c'est moi”).</li>\n<li><b>Constitutional monarchy</b> &mdash; the monarch reigns but does not rule; real power lies with an elected prime minister\nand parliament; e.g. the United Kingdom, Japan, Lesotho, Morocco.</li>\n</ul>\n<p><b>Merits of monarchy:</b> continuity and stability, national symbol above party politics, quick decision-making in absolute\nform. <b>Demerits:</b> heredity may throw up an incompetent ruler, unaccountability, and in the absolute form, the risk of\ntyranny.</p>\n<p><b>Autocracy / dictatorship</b> is rule by one person whose power is unchecked and who is not accountable to the governed.\nWhere the regime seeks to control every aspect of life &mdash; economy, education, religion, private opinion &mdash; it becomes\n<b>totalitarian</b> (Nazi Germany, Stalin's USSR). Features include a single party, censorship, a secret police, a personality\ncult and the suppression of opposition.</p>",
+      "examples": [
+        {
+          "q": "Distinguish briefly between an absolute monarchy and a constitutional monarchy.",
+          "a": "In an absolute monarchy the king personally exercises unlimited governmental power. In a constitutional monarchy the king is a ceremonial head of state whose powers are defined and limited by a constitution, with real authority in an elected government."
+        }
+      ]
+    },
+    {
+      "title": "Democracy",
+      "html": "<p><b>Democracy</b>, from the Greek <i>demos</i> (people) and <i>kratos</i> (rule), was defined by Abraham Lincoln in the\nGettysburg Address (1863) as “government of the people, by the people, and for the people.”</p>\n<p><b>Types:</b></p>\n<ul>\n<li><b>Direct democracy</b> &mdash; citizens themselves make decisions in an assembly. Practised in ancient Athens and today in\nsome Swiss cantons, and through devices such as the <b>referendum</b>, <b>initiative</b>, <b>plebiscite</b> and <b>recall</b>.</li>\n<li><b>Indirect or representative democracy</b> &mdash; citizens elect representatives to act for them. Universal in modern\nlarge states, including Nigeria.</li>\n</ul>\n<p><b>Essential conditions:</b> universal adult suffrage; free, fair and periodic elections; multi-party competition; rule of\nlaw; independent judiciary; free press; respect for fundamental rights; an educated and tolerant electorate; and an\nindependent electoral commission.</p>\n<p><b>Merits:</b> popular participation, accountability, protection of rights, peaceful change of government, political\neducation. <b>Demerits:</b> slow decision-making, expense of elections, the risk that the majority is not always right,\npossible dominance of money and the manipulation of the ignorant.</p>",
+      "examples": [
+        {
+          "q": "Name and explain two devices of direct democracy.",
+          "a": "Referendum: a proposal (often a constitutional amendment) is submitted directly to the voters for approval or rejection. Recall: voters petition to remove an elected representative before the end of the term, as provided in section 69 of Nigeria's 1999 Constitution."
+        }
+      ]
+    },
+    {
+      "title": "Presidential, Parliamentary, Unitary, Federal and Confederal",
+      "html": "<p><b>Presidential versus parliamentary systems</b> &mdash; the standard comparison table:</p>\n<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Basis</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Presidential (Nigeria, USA)</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Parliamentary (UK, India)</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Headship</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">One person is both Head of State and Head of Government.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Separate: a ceremonial head of state and a prime minister as head of government.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Separation of powers</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Strict; the executive is not drawn from the legislature.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Fused; ministers are members of parliament.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Tenure</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Fixed term, e.g. four years.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Flexible; government falls on a vote of no confidence.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Responsibility</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">President responsible to the electorate; removable only by impeachment.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Cabinet collectively responsible to parliament.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Speed</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Slower, because of checks and balances.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Faster, because executive controls the legislature.</td></tr></tbody></table>\n<p><b>Territorial structures:</b></p>\n<ul>\n<li><b>Unitary</b> &mdash; all powers concentrated in one central government which may create or abolish local units;\ne.g. Ghana, France, Britain. Merits: cheap, uniform laws, strong centre. Demerits: remoteness, overload, unsuitable for\ndiverse societies.</li>\n<li><b>Federal</b> &mdash; powers constitutionally divided between a central government and component units, each supreme in its\nown sphere; e.g. Nigeria, USA, India. Requires a written and rigid constitution, a supreme court to arbitrate, and a\nbicameral legislature.</li>\n<li><b>Confederal</b> &mdash; a loose union of sovereign states with a weak central body whose decisions bind states only by\nconsent; e.g. the Senegambia Confederation (1982&ndash;1989), the USA under the Articles of Confederation.</li>\n</ul>",
+      "examples": [
+        {
+          "q": "Give two constitutional requirements of a federal system.",
+          "a": "(i) A written and rigid constitution setting out the division of powers between the centre and the units. (ii) An independent supreme court empowered to interpret the constitution and settle disputes between the levels of government."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Aristotle's perverted form of monarchy is",
+      "options": [
+        "Oligarchy",
+        "Tyranny",
+        "Polity",
+        "Theocracy"
+      ],
+      "answer": 1,
+      "solution": "Rule by one in his own interest is tyranny."
+    },
+    {
+      "q": "Rule by the wealthy few is called",
+      "options": [
+        "Aristocracy",
+        "Plutocracy",
+        "Gerontocracy",
+        "Theocracy"
+      ],
+      "answer": 1,
+      "solution": "Plutocracy is rule by the rich."
+    },
+    {
+      "q": "Government by religious leaders is",
+      "options": [
+        "Autocracy",
+        "Theocracy",
+        "Diarchy",
+        "Anarchy"
+      ],
+      "answer": 1,
+      "solution": "Theocracy claims divine authority."
+    },
+    {
+      "q": "'Government of the people, by the people and for the people' was said by",
+      "options": [
+        "Aristotle",
+        "Abraham Lincoln",
+        "Rousseau",
+        "Nelson Mandela"
+      ],
+      "answer": 1,
+      "solution": "Lincoln, Gettysburg Address, 1863."
+    },
+    {
+      "q": "A device of direct democracy is the",
+      "options": [
+        "Election of senators",
+        "Referendum",
+        "Impeachment",
+        "Budget"
+      ],
+      "answer": 1,
+      "solution": "A referendum puts a question directly to the voters."
+    },
+    {
+      "q": "In a constitutional monarchy the monarch",
+      "options": [
+        "Rules absolutely",
+        "Reigns but does not rule",
+        "Is elected",
+        "Heads the judiciary"
+      ],
+      "answer": 1,
+      "solution": "Real power lies with the elected government."
+    },
+    {
+      "q": "A system where one person is both Head of State and Head of Government is",
+      "options": [
+        "Parliamentary",
+        "Presidential",
+        "Confederal",
+        "Unitary"
+      ],
+      "answer": 1,
+      "solution": "That is the defining feature of a presidential system."
+    },
+    {
+      "q": "In a parliamentary system, ministers are",
+      "options": [
+        "Barred from parliament",
+        "Members of parliament",
+        "Appointed by the courts",
+        "Elected separately"
+      ],
+      "answer": 1,
+      "solution": "Fusion of powers requires ministers to sit in parliament."
+    },
+    {
+      "q": "A government can be removed by a vote of no confidence in a",
+      "options": [
+        "Presidential system",
+        "Parliamentary system",
+        "Military regime",
+        "Confederation"
+      ],
+      "answer": 1,
+      "solution": "The no-confidence motion is a parliamentary device."
+    },
+    {
+      "q": "Which system concentrates all powers in one central government?",
+      "options": [
+        "Federal",
+        "Confederal",
+        "Unitary",
+        "Presidential"
+      ],
+      "answer": 2,
+      "solution": "A unitary state has a single centre of authority."
+    },
+    {
+      "q": "A loose union of sovereign states with a weak centre is",
+      "options": [
+        "Federation",
+        "Confederation",
+        "Unitary state",
+        "Empire"
+      ],
+      "answer": 1,
+      "solution": "In a confederation the units retain sovereignty."
+    },
+    {
+      "q": "Which is essential to a federal system?",
+      "options": [
+        "An unwritten constitution",
+        "A written and rigid constitution",
+        "A single legislative chamber",
+        "A ceremonial president"
+      ],
+      "answer": 1,
+      "solution": "The division of powers must be entrenched in writing."
+    },
+    {
+      "q": "Totalitarianism is characterised by",
+      "options": [
+        "Multi-party competition",
+        "State control of all aspects of life",
+        "Independent judiciary",
+        "Free press"
+      ],
+      "answer": 1,
+      "solution": "Total control over society defines totalitarian rule."
+    },
+    {
+      "q": "Rule by elders is called",
+      "options": [
+        "Gerontocracy",
+        "Plutocracy",
+        "Meritocracy",
+        "Bureaucracy"
+      ],
+      "answer": 0,
+      "solution": "Gerontocracy derives from the Greek for 'old man'."
+    },
+    {
+      "q": "A major demerit of democracy is that it",
+      "options": [
+        "Prevents change of government",
+        "Is slow and expensive",
+        "Denies rights",
+        "Abolishes elections"
+      ],
+      "answer": 1,
+      "solution": "Consultation and elections cost time and money."
+    },
+    {
+      "q": "Joint rule by civilians and the military is called",
+      "options": [
+        "Anarchy",
+        "Diarchy",
+        "Autocracy",
+        "Polity"
+      ],
+      "answer": 1,
+      "solution": "Diarchy means rule by two authorities."
+    }
+  ]
+}

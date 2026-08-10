@@ -1,0 +1,223 @@
+{
+  "subject": "Government",
+  "level": "SSS 2",
+  "title": "Pre-Colonial Nigerian Political Systems",
+  "slug": "precolonial-political-systems",
+  "outline": [
+    "Features of pre-colonial political systems",
+    "The Hausa-Fulani centralised emirate system",
+    "The Yoruba monarchical system under the Oba and Alaafin",
+    "The Igbo segmentary/decentralised system",
+    "Comparison of the three systems",
+    "Checks on rulers in traditional societies",
+    "Impact of colonial rule on traditional systems"
+  ],
+  "modules": [
+    {
+      "title": "The Hausa-Fulani Emirate System",
+      "html": "\n<h4>1. Background</h4>\n<p>The Hausa states (Kano, Katsina, Zaria, Gobir and others) were centralised monarchies long before 1804. The <b>Sokoto Jihad</b> of Usman dan Fodio (1804–1810) unified them into the <b>Sokoto Caliphate</b>, an Islamic theocratic empire with the Sultan of Sokoto as <i>Sarkin Musulmi</i> (Commander of the Faithful) at its head.</p>\n<h4>2. Structure</h4>\n<table class=\"tb-table\">\n<tr><th>Level</th><th>Officer</th><th>Function</th></tr>\n<tr><td>Caliphate</td><td>Sultan of Sokoto</td><td>Spiritual and political head; appoints and disciplines emirs</td></tr>\n<tr><td>Emirate</td><td>Emir</td><td>Executive, legislative and judicial head of the emirate</td></tr>\n<tr><td>Advisory</td><td>Council of officials</td><td>Waziri (prime minister), Galadima (capital administration), Madawaki (army commander), Sarkin Dogari (police), Sarkin Fada (palace official), Maaji (treasurer)</td></tr>\n<tr><td>Judicial</td><td>Alkali courts</td><td>Administer Sharia law; the Grand Kadi heads the system</td></tr>\n<tr><td>District</td><td>Hakimi</td><td>District head, collects taxes and maintains order</td></tr>\n<tr><td>Village</td><td>Village head (Dagaci)</td><td>Local order and tax collection through ward heads</td></tr>\n</table>\n<h4>3. Taxation</h4>\n<p><b>Zakat</b> (alms on wealth), <b>Kharaj/Kudin Kasa</b> (land tax), <b>Jangali</b> (cattle tax), <b>Jizyah</b> (tax on non-Muslims) and <b>Gaisuwa</b> (gifts/homage).</p>\n<h4>4. Checks on the Emir</h4>\n<p>The Quran and Sharia law, the advisory council, the kingmakers who selected him, the Sultan's power of removal, and the influence of the ulama (scholars). In practice the emir was powerful, which is why the British found the system convenient for <b>Indirect Rule</b>.</p>\n",
+      "examples": [
+        {
+          "q": "Why was Indirect Rule most successful in Northern Nigeria?",
+          "a": "The emirate system already possessed everything Lugard needed: a recognised, hierarchical authority with the Emir at the apex, a functioning tax system (jangali, kudin kasa) capable of yielding revenue, an established judiciary in the Alkali courts, and a tradition of obedience reinforced by Islam. The British simply superimposed a Resident over the Emir, retained the structure and ruled through it cheaply."
+        },
+        {
+          "q": "Identify the roles of the Waziri and the Madawaki.",
+          "a": "The <b>Waziri</b> was the chief adviser or prime minister who coordinated the administration and mediated between the Emir and other officials. The <b>Madawaki</b> was the commander of the emirate's army, responsible for defence, military campaigns and internal security."
+        }
+      ]
+    },
+    {
+      "title": "The Yoruba and Igbo Systems, and Comparison",
+      "html": "\n<h4>1. The Yoruba System</h4>\n<p>The Yoruba operated a <b>constitutional monarchy</b> in which the Oba was sacred but checked. In the Oyo Empire:</p>\n<ul>\n<li><b>Alaafin</b> — the political head, regarded as the companion of the gods, but not absolute.</li>\n<li><b>Oyomesi</b> — council of seven kingmakers led by the <b>Bashorun</b>; they selected the Alaafin and could reject him. If they sent him an empty calabash or parrot's egg, he was obliged to commit suicide.</li>\n<li><b>Ogboni cult</b> — a powerful religious and judicial society that checked both the Alaafin and the Oyomesi and could veto the Oyomesi's decision.</li>\n<li><b>Are-Ona-Kakanfo</b> — generalissimo of the army, stationed outside the capital.</li>\n<li><b>Ilari</b> — palace messengers and tax officials representing the Alaafin in the provinces; <b>Baale</b> headed towns and villages.</li>\n</ul>\n<h4>2. The Igbo System</h4>\n<p>The Igbo were largely <b>segmentary and decentralised</b> — 'a republican society without kings' — organised around the village and village group.</p>\n<ul>\n<li><b>Ofo title holders / Okpara</b> — the eldest man of a lineage holding the ofo staff, symbol of authority and justice.</li>\n<li><b>Village assembly (Oha-na-eze / Ama-ala)</b> — all adult males debated matters; decisions were by consensus.</li>\n<li><b>Age grades</b> — performed public works, defence and enforcement of decisions.</li>\n<li><b>Council of elders</b> — deliberated and interpreted custom.</li>\n<li><b>Ozo title society</b> — conferred prestige and influence on wealthy, respected men.</li>\n<li><b>Umuada</b> — daughters of the lineage who settled disputes and enforced morality.</li>\n<li><b>Oracles and priests</b> — e.g. the Ibinukpabi (Long Juju) of Arochukwu, arbitrated grave disputes.</li>\n</ul>\n<h4>3. Comparison</h4>\n<table class=\"tb-table\">\n<tr><th>Criterion</th><th>Hausa-Fulani</th><th>Yoruba</th><th>Igbo</th></tr>\n<tr><td>Structure</td><td>Highly centralised</td><td>Centralised but checked</td><td>Decentralised, segmentary</td></tr>\n<tr><td>Head</td><td>Emir under the Sultan</td><td>Oba/Alaafin</td><td>No single ruler; council of elders</td></tr>\n<tr><td>Religion and state</td><td>Fused; Islamic theocracy</td><td>Sacred kingship, Ogboni influence</td><td>Oracles influential but no theocracy</td></tr>\n<tr><td>Succession</td><td>Hereditary within ruling houses, approved by Sultan</td><td>Rotational among ruling houses, chosen by kingmakers</td><td>Achieved status by age, wealth and title</td></tr>\n<tr><td>Judiciary</td><td>Alkali courts (Sharia)</td><td>Oba-in-council, Ogboni</td><td>Elders, age grades, oracles</td></tr>\n<tr><td>Response to Indirect Rule</td><td>Very successful</td><td>Partially successful</td><td>Largely failed — warrant chiefs resented; Aba Women's Riot 1929</td></tr>\n</table>\n",
+      "examples": [
+        {
+          "q": "Explain why Indirect Rule failed in Igboland.",
+          "a": "Igbo society had no centralised chiefs to rule through. The British therefore appointed <b>warrant chiefs</b> — men without traditional legitimacy — and gave them powers the culture had never vested in one person: tax collection, court judgments and forced labour. Their abuses, plus the rumour of taxing women, triggered the <b>Aba Women's Riot of 1929</b>, after which the system was reviewed and replaced with the Native Court and later massed-benches arrangements based on village groups."
+        },
+        {
+          "q": "How did the Oyomesi and Ogboni limit the Alaafin?",
+          "a": "The <b>Oyomesi</b>, seven kingmakers under the Bashorun, selected the Alaafin, advised him and could reject his policies; if he was tyrannical they sent him a symbolic empty calabash or parrot's egg, requiring him to take his own life. The <b>Ogboni</b>, a religious-judicial cult, checked the Oyomesi in turn: it had to confirm the rejection, preventing the kingmakers themselves from becoming tyrants. This mutual restraint approximated checks and balances."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "The spiritual and political head of the Sokoto Caliphate was the:",
+      "options": [
+        "Emir of Kano",
+        "Sultan of Sokoto",
+        "Waziri",
+        "Galadima"
+      ],
+      "answer": 1,
+      "solution": "The Sultan, as Sarkin Musulmi, headed the caliphate and appointed emirs."
+    },
+    {
+      "q": "The Sokoto Jihad was led in 1804 by:",
+      "options": [
+        "Usman dan Fodio",
+        "Muhammadu Bello",
+        "Yakubu Bauchi",
+        "El-Kanemi"
+      ],
+      "answer": 0,
+      "solution": "Shehu Usman dan Fodio launched the jihad that created the caliphate."
+    },
+    {
+      "q": "The council of kingmakers in Oyo was the:",
+      "options": [
+        "Ogboni",
+        "Oyomesi",
+        "Ilari",
+        "Ozo"
+      ],
+      "answer": 1,
+      "solution": "The Oyomesi, seven chiefs led by the Bashorun, selected and checked the Alaafin."
+    },
+    {
+      "q": "An empty calabash sent to the Alaafin meant:",
+      "options": [
+        "Congratulations",
+        "He must commit suicide",
+        "Tax was due",
+        "War had ended"
+      ],
+      "answer": 1,
+      "solution": "It signified rejection by the Oyomesi and obliged the Alaafin to take his life."
+    },
+    {
+      "q": "The Igbo political system is best described as:",
+      "options": [
+        "Centralised",
+        "Segmentary and decentralised",
+        "Theocratic empire",
+        "Feudal monarchy"
+      ],
+      "answer": 1,
+      "solution": "Authority was dispersed among lineages, elders and age grades."
+    },
+    {
+      "q": "The ofo staff symbolised:",
+      "options": [
+        "Wealth",
+        "Authority and justice in a lineage",
+        "Military rank",
+        "Trade rights"
+      ],
+      "answer": 1,
+      "solution": "The eldest man, the Okpara, held the ofo as emblem of legitimate authority."
+    },
+    {
+      "q": "The commander of the Oyo army was the:",
+      "options": [
+        "Bashorun",
+        "Are-Ona-Kakanfo",
+        "Madawaki",
+        "Baale"
+      ],
+      "answer": 1,
+      "solution": "The Are-Ona-Kakanfo was generalissimo and lived outside the capital."
+    },
+    {
+      "q": "Cattle tax in the emirate system was called:",
+      "options": [
+        "Zakat",
+        "Jangali",
+        "Jizyah",
+        "Kharaj"
+      ],
+      "answer": 1,
+      "solution": "Jangali was levied on herds, mainly on Fulani pastoralists."
+    },
+    {
+      "q": "Alkali courts administered:",
+      "options": [
+        "Sharia law",
+        "English common law",
+        "Customary Yoruba law",
+        "Roman law"
+      ],
+      "answer": 0,
+      "solution": "Alkali (qadi) courts applied Islamic law within the emirates."
+    },
+    {
+      "q": "The Aba Women's Riot occurred in:",
+      "options": [
+        "1914",
+        "1922",
+        "1929",
+        "1939"
+      ],
+      "answer": 2,
+      "solution": "The 1929 riot protested warrant chiefs' abuses and fear of taxing women."
+    },
+    {
+      "q": "Warrant chiefs were introduced because Igbo society lacked:",
+      "options": [
+        "Farmers",
+        "Centralised rulers",
+        "Markets",
+        "Age grades"
+      ],
+      "answer": 1,
+      "solution": "With no kings to rule through, the British created chiefs by warrant."
+    },
+    {
+      "q": "The Ogboni cult performed which key function?",
+      "options": [
+        "Judicial and religious check on rulers",
+        "Tax collection abroad",
+        "Command of cavalry",
+        "Trade with Europe"
+      ],
+      "answer": 0,
+      "solution": "It exercised religious and judicial authority and checked both Alaafin and Oyomesi."
+    },
+    {
+      "q": "Age grades in Igbo society were mainly responsible for:",
+      "options": [
+        "Public works and defence",
+        "Appointing the Sultan",
+        "Sharia adjudication",
+        "Foreign policy"
+      ],
+      "answer": 0,
+      "solution": "Age sets executed communal labour, security and enforcement of decisions."
+    },
+    {
+      "q": "The chief adviser or prime minister in an emirate was the:",
+      "options": [
+        "Waziri",
+        "Maaji",
+        "Dagaci",
+        "Hakimi"
+      ],
+      "answer": 0,
+      "solution": "The Waziri coordinated the emirate administration."
+    },
+    {
+      "q": "Which system fused religion most completely with government?",
+      "options": [
+        "Igbo",
+        "Yoruba",
+        "Hausa-Fulani",
+        "Tiv"
+      ],
+      "answer": 2,
+      "solution": "The caliphate was an Islamic theocracy in which Sharia was the law of state."
+    },
+    {
+      "q": "Umuada in Igbo society refers to:",
+      "options": [
+        "Daughters of the lineage who settle disputes",
+        "Palace messengers",
+        "Cavalry officers",
+        "Tax collectors"
+      ],
+      "answer": 0,
+      "solution": "Umuada, the married daughters of a lineage, mediated conflicts and enforced morality."
+    }
+  ]
+}

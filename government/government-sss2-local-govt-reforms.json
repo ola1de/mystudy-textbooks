@@ -1,0 +1,223 @@
+{
+  "subject": "Government",
+  "level": "SSS 2",
+  "title": "Local Government and the 1976 Reforms",
+  "slug": "local-govt-reforms",
+  "outline": [
+    "Meaning and characteristics of local government",
+    "Reasons for local government",
+    "Structure and organs of a local council",
+    "The 1976 Local Government Reforms",
+    "Sources of local government revenue",
+    "Inter-governmental relations and control",
+    "Problems of local government in Nigeria"
+  ],
+  "modules": [
+    {
+      "title": "Nature and Purpose of Local Government",
+      "html": "\n<h4>1. Meaning</h4>\n<p><b>Local government</b> is government at the grassroots, exercised through elected councils established by law, with substantial control over local affairs, staff and financial resources, within a defined area.</p>\n<h4>2. Characteristics</h4>\n<ol><li>Defined territorial jurisdiction.</li><li>Legal personality created by statute.</li><li>An elected council: chairman, vice-chairman and councillors.</li><li>Specified functions and byelaw-making powers.</li><li>Independent sources of revenue plus statutory allocation.</li><li>Own staff, recruited through a Local Government Service Commission.</li><li>Substantial autonomy, though subject to state supervision.</li></ol>\n<h4>3. Reasons for Local Government</h4>\n<ul><li>To bring government closer to the people and provide local services efficiently.</li><li>To promote political participation and grassroots democracy.</li><li>To serve as a training ground for national leadership.</li><li>To relieve central and state governments of purely local duties.</li><li>To mobilise local resources and human effort for development.</li><li>To respond to local peculiarities, needs and culture.</li><li>To act as a channel of communication between the people and higher governments.</li></ul>\n<h4>4. Functions (Fourth Schedule, 1999 Constitution)</h4>\n<p>Mandatory: collection of rates and radio/television licences; establishment and maintenance of markets, motor parks and public conveniences; construction and maintenance of roads, streets, drains and street lighting; naming of streets and numbering of houses; registration of births, deaths and marriages; licensing of bicycles, trucks, canoes and carts; refuse disposal; control of outdoor advertising, movement of animals, and shops and kiosks; sewage and cemeteries; homes for the destitute. Concurrent with the state: primary education, primary health care, agriculture and natural resources (excluding minerals).</p>\n",
+      "examples": [
+        {
+          "q": "Why is local government described as a training ground for democracy?",
+          "a": "Councils give ordinary citizens direct experience of election campaigns, budgeting, debate, committee work and accountability at a small, comprehensible scale. Many national leaders begin as councillors or council chairmen. Frequent contact with electors over tangible issues — markets, roads, refuse — builds civic competence and habits of participation that sustain democracy nationally."
+        },
+        {
+          "q": "A council builds a market without consulting traders and it remains empty. What principle was ignored?",
+          "a": "The principle of <b>participation and responsiveness to local needs</b>, which is the very justification for local government. Effective grassroots administration requires consultation with the community, feasibility assessment of siting and access, and inclusion of stakeholders in planning; otherwise resources are wasted on projects the people neither want nor can use."
+        }
+      ]
+    },
+    {
+      "title": "The 1976 Reforms, Finance and Problems",
+      "html": "\n<h4>1. Background</h4>\n<p>Before 1976, local administration was uneven: the North used the Native Authority system, the West a three-tier council system (1952), and the East a county/district system (1950). Councils differed in structure, powers and finance, many were dominated by traditional rulers or party interests, and most lacked funds and trained staff.</p>\n<h4>2. Provisions of the 1976 Local Government Reforms</h4>\n<ol>\n<li>Recognised local government as a <b>third tier</b> of government with defined functions.</li><li>Introduced a <b>uniform single-tier multi-purpose</b> council structure throughout the federation.</li><li>Guaranteed <b>statutory allocation</b> from the Federation Account and state governments.</li><li>Provided for <b>elected councils</b> with executive chairmen, and reduced traditional rulers to advisory roles through councils of chiefs.</li><li>Prescribed a population range (about 150,000 to 800,000) for each local government area.</li><li>Established <b>Local Government Service Boards/Commissions</b> for staff recruitment, discipline and career development.</li><li>Set out the functions of councils, later entrenched in the constitutional Fourth Schedule.</li></ol>\n<p>The reform's principles were carried into the 1979 Constitution (section 7) and repeated in the 1999 Constitution, which guarantees a democratically elected local government system and lists 774 local government areas.</p>\n<h4>3. Sources of Revenue</h4>\n<table class=\"tb-table\">\n<tr><th>Internal</th><th>External</th></tr>\n<tr><td>Tenement rates and property rates</td><td>Statutory allocation from the Federation Account</td></tr>\n<tr><td>Market and motor park fees</td><td>10% of state internally generated revenue</td></tr>\n<tr><td>Licences and permits (bicycles, kiosks, adverts)</td><td>Grants-in-aid from state and federal government</td></tr>\n<tr><td>Fines and court fees</td><td>Loans approved by the state</td></tr>\n<tr><td>Rents from council property and commercial ventures</td><td>Donations and international agency support</td></tr>\n</table>\n<h4>4. Problems</h4>\n<ul><li>Financial dependence and inadequate internally generated revenue.</li><li>Interference by state governments, especially through the <b>State/Local Government Joint Account</b> and appointment of caretaker committees instead of elections.</li><li>Corruption and misapplication of funds.</li><li>Shortage of qualified personnel and poor conditions of service.</li><li>Undue political influence and godfatherism.</li><li>Creation of too many councils on political rather than viability grounds.</li><li>Overlapping functions and conflicts with state agencies.</li><li>Poor record keeping and weak auditing.</li></ul>\n<p><b>Reform proposals:</b> abolition or reform of the joint account and direct payment of allocations, constitutional protection of council tenure, mandatory regular elections conducted by an independent body, improved internally generated revenue through digitised rate collection, and capacity building for council staff.</p>\n",
+      "examples": [
+        {
+          "q": "Explain how the State Joint Local Government Account undermines council autonomy.",
+          "a": "Section 162(6) requires each state to maintain a joint account into which federal allocations to its councils are paid. Because the state controls disbursement, it may deduct for projects the councils did not approve, delay releases, or use funds as leverage over chairmen. Councils therefore cannot plan reliably, and financial dependence translates into political subordination — the main reason for demands that allocations be paid directly to councils."
+        },
+        {
+          "q": "Why did the 1976 reform reduce the role of traditional rulers?",
+          "a": "Under the Native Authority system emirs and chiefs exercised executive, legislative and judicial powers, which was incompatible with elected democratic government and had produced arbitrary rule and resistance (as in the 1929 Aba riots and the 1950s tax protests). The reform confined traditional rulers to advisory councils of chiefs so that policy-making and finance would rest with elected representatives accountable to the people."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Local government is best described as:",
+      "options": [
+        "Government at the grassroots by elected councils",
+        "A department of the presidency",
+        "A private company",
+        "A pressure group"
+      ],
+      "answer": 0,
+      "solution": "It is a statutory tier exercising defined powers over a local area."
+    },
+    {
+      "q": "The landmark reform that made local government a third tier occurred in:",
+      "options": [
+        "1966",
+        "1976",
+        "1979",
+        "1999"
+      ],
+      "answer": 1,
+      "solution": "The 1976 Local Government Reforms created a uniform third tier."
+    },
+    {
+      "q": "Local government functions are contained in which schedule of the 1999 Constitution?",
+      "options": [
+        "Second",
+        "Third",
+        "Fourth",
+        "Fifth"
+      ],
+      "answer": 2,
+      "solution": "The Fourth Schedule lists mandatory and concurrent local government functions."
+    },
+    {
+      "q": "Nigeria currently has how many local government areas?",
+      "options": [
+        "589",
+        "774",
+        "36",
+        "301"
+      ],
+      "answer": 1,
+      "solution": "The 1999 Constitution's First Schedule lists 774 local government areas."
+    },
+    {
+      "q": "The 1976 reform recommended a population range of about:",
+      "options": [
+        "10,000 to 50,000",
+        "150,000 to 800,000",
+        "1m to 2m",
+        "5m and above"
+      ],
+      "answer": 1,
+      "solution": "Councils were to serve between 150,000 and 800,000 people for viability."
+    },
+    {
+      "q": "An internal source of local government revenue is:",
+      "options": [
+        "Statutory allocation",
+        "Tenement rates",
+        "Federal grant",
+        "Foreign aid"
+      ],
+      "answer": 1,
+      "solution": "Tenement rates are levied and collected by the council itself."
+    },
+    {
+      "q": "The State Joint Local Government Account is provided for in section:",
+      "options": [
+        "7",
+        "162(6)",
+        "153",
+        "214"
+      ],
+      "answer": 1,
+      "solution": "Section 162(6) mandates the joint account maintained by each state."
+    },
+    {
+      "q": "Before 1976, Northern Nigeria used the:",
+      "options": [
+        "Native Authority system",
+        "County council system",
+        "Three-tier system",
+        "Cabinet system"
+      ],
+      "answer": 0,
+      "solution": "The North operated Native Authorities under emirs."
+    },
+    {
+      "q": "Which is a mandatory local government function?",
+      "options": [
+        "Refuse disposal",
+        "Defence",
+        "Currency printing",
+        "Foreign policy"
+      ],
+      "answer": 0,
+      "solution": "Sanitation and refuse disposal are listed local functions."
+    },
+    {
+      "q": "Councils are staffed through the:",
+      "options": [
+        "Local Government Service Commission",
+        "INEC",
+        "Federal Character Commission",
+        "NNPC"
+      ],
+      "answer": 0,
+      "solution": "State Local Government Service Commissions handle recruitment and discipline."
+    },
+    {
+      "q": "Caretaker committees undermine local government because they are:",
+      "options": [
+        "Elected",
+        "Appointed rather than elected",
+        "Judicial bodies",
+        "Federal agencies"
+      ],
+      "answer": 1,
+      "solution": "Section 7 requires a democratically elected council; appointed caretakers lack a mandate."
+    },
+    {
+      "q": "A major problem of Nigerian local government is:",
+      "options": [
+        "Financial dependence on higher tiers",
+        "Excess qualified staff",
+        "Too much autonomy",
+        "Surplus revenue"
+      ],
+      "answer": 0,
+      "solution": "Weak internal revenue makes councils reliant on allocations they do not control."
+    },
+    {
+      "q": "Primary education and primary health care are:",
+      "options": [
+        "Exclusively federal",
+        "Concurrent functions of state and local government",
+        "Purely private",
+        "Judicial functions"
+      ],
+      "answer": 1,
+      "solution": "The Fourth Schedule makes them shared responsibilities with the state."
+    },
+    {
+      "q": "The head of an elected local council in Nigeria is the:",
+      "options": [
+        "Chairman",
+        "Governor",
+        "Emir",
+        "Permanent Secretary"
+      ],
+      "answer": 0,
+      "solution": "An executive chairman heads the council, deputised by a vice-chairman."
+    },
+    {
+      "q": "One justification for local government is:",
+      "options": [
+        "Bringing government closer to the people",
+        "Printing currency",
+        "Conducting foreign policy",
+        "Commanding the army"
+      ],
+      "answer": 0,
+      "solution": "Proximity allows services tailored to local needs and greater participation."
+    },
+    {
+      "q": "The 1976 reform reduced traditional rulers to:",
+      "options": [
+        "Executive heads",
+        "Advisory roles in councils of chiefs",
+        "Council chairmen",
+        "Auditors"
+      ],
+      "answer": 1,
+      "solution": "Policy and finance passed to elected councillors, leaving chiefs an advisory function."
+    }
+  ]
+}
