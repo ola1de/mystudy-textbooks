@@ -1,0 +1,236 @@
+{
+  "subject": "Government",
+  "level": "SSS 1",
+  "title": "Basic Concepts and Definitions of Government",
+  "slug": "basic-concepts-govt",
+  "outline": [
+    "Government as an institution of the state",
+    "Government as a process or art of governing",
+    "Government as an academic field of study",
+    "Functions of government",
+    "Organs of government: legislature, executive, judiciary",
+    "Levels of government: federal, state, local",
+    "Politics, policy and public administration",
+    "Why the study of government matters to the citizen"
+  ],
+  "modules": [
+    {
+      "title": "What Government Means",
+      "html": "<p><b>Government</b> is the machinery through which the will of the state is formulated, expressed and carried out.\nBecause the state is an abstract legal person, it cannot act on its own; it needs living human beings organised into\noffices and institutions. Those offices, taken together, are the government.</p>\n<p>Scholars use the word in three distinct senses, and every examination question turns on knowing which sense is meant:</p>\n<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Sense</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Meaning</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Illustration</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">As an <b>institution</b></td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The set of organs and offices established by the constitution to exercise state power.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The National Assembly, the Presidency and the Supreme Court of Nigeria.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">As a <b>process</b></td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The activity or art of governing &mdash; making, applying and enforcing rules.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The passage of the annual Appropriation Bill from first reading to presidential assent.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">As a <b>field of study</b></td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The academic discipline that examines political institutions and behaviour.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Government offered as a WASSCE subject; Political Science in a university.</td></tr></tbody></table>\n<p>Notice that the first sense answers <i>who</i>, the second answers <i>how</i>, and the third answers <i>what is studied</i>.\nA candidate who defines government only as “the people in power” captures just one third of the concept.</p>",
+      "examples": [
+        {
+          "q": "A student writes: 'Government is the President and his ministers.' Correct the answer.",
+          "a": "The statement is incomplete. It describes only part of the executive organ. Government as an institution includes the legislature and judiciary as well; and government also means the process of governing and an academic discipline."
+        }
+      ]
+    },
+    {
+      "title": "Functions of Government",
+      "html": "<p>Governments everywhere perform a recognisable core of functions. Learn them under two headings.</p>\n<p><b>Primary (traditional) functions</b> &mdash; the state cannot survive without them:</p>\n<ul>\n<li><b>Maintenance of law and order</b> through the police, courts and prisons.</li>\n<li><b>Defence of territory</b> from external aggression through the armed forces.</li>\n<li><b>Administration of justice</b> by an impartial judiciary.</li>\n<li><b>Conduct of external relations</b> &mdash; diplomacy, treaties, membership of the UN, AU and ECOWAS.</li>\n<li><b>Raising revenue</b> by taxation and spending it through a budget.</li>\n</ul>\n<p><b>Secondary (welfare or service) functions</b> &mdash; expanded greatly in the twentieth century:</p>\n<ul>\n<li>Provision of education, health care, water and electricity.</li>\n<li>Construction of roads, bridges, ports and other infrastructure.</li>\n<li>Regulation of the economy: monetary policy, price control, consumer protection.</li>\n<li>Social security, pensions and disaster relief.</li>\n</ul>\n<p>The balance between the two determines the character of a state. A state limited to primary functions is often called a\n<i>laissez-faire</i> or night-watchman state; one that carries heavy secondary functions is a <b>welfare state</b>.</p>",
+      "examples": [
+        {
+          "q": "Classify: (i) fighting Boko Haram; (ii) building the Lagos&ndash;Ibadan expressway.",
+          "a": "(i) A primary function &ndash; defence and maintenance of internal security. (ii) A secondary or welfare function &ndash; provision of infrastructure."
+        }
+      ]
+    },
+    {
+      "title": "The Three Organs of Government",
+      "html": "<p>Every modern government is analysed through three organs. The distinction was systematised by Baron de Montesquieu in\n<i>The Spirit of the Laws</i> (1748).</p>\n<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Organ</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Core duty</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Nigerian example</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Head</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Legislature</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Makes, amends and repeals laws; approves the budget; oversees the executive.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">National Assembly (Senate + House of Representatives)</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Senate President / Speaker</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Executive</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Implements and enforces laws; formulates policy; conducts foreign relations.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The President, Vice-President, ministers and the civil service</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The President</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Judiciary</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Interprets the law, settles disputes, protects fundamental rights, reviews legislation.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Supreme Court, Court of Appeal, Federal and State High Courts</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Chief Justice of Nigeria</td></tr></tbody></table>\n<p>The legislature is described as the <b>first estate of the realm</b> because law must exist before it can be executed or\ninterpreted. The judiciary is called the <b>watchdog of the constitution</b> because through judicial review it can declare an\nact of the legislature or the executive <i>ultra vires</i> (beyond its powers) and therefore null and void.</p>",
+      "examples": [
+        {
+          "q": "Which organ exercises the power of judicial review and what does it mean?",
+          "a": "The judiciary. Judicial review is the power of the courts to examine laws and executive acts and to nullify those that conflict with the constitution."
+        }
+      ]
+    },
+    {
+      "title": "Levels of Government and Related Concepts",
+      "html": "<p>In a federation such as Nigeria, government also exists at <b>levels</b>. The 1999 Constitution recognises the\n<b>federal</b> government (36 states plus the FCT), <b>state</b> governments, and <b>774 local government councils</b>.\nPowers are shared through the Exclusive Legislative List (federal only), the Concurrent List (federal and state) and the\nResidual List (state only).</p>\n<p>Three related words are often confused:</p>\n<ul>\n<li><b>Politics</b> &mdash; the struggle to acquire, retain and use governmental power; famously described by Harold Lasswell as\n“who gets what, when and how”.</li>\n<li><b>Policy</b> &mdash; a deliberate course of action adopted by government, e.g. the Universal Basic Education policy.</li>\n<li><b>Public administration</b> &mdash; the machinery, personnel and procedures by which policy is carried out day to day.</li>\n</ul>\n<p><b>Why study government?</b> It produces informed citizens who understand their rights and duties, trains future\nadministrators and leaders, promotes political stability by explaining institutions, and equips students for careers in law,\ndiplomacy, journalism and public service.</p>",
+      "examples": [
+        {
+          "q": "Distinguish between politics and public administration in one sentence each.",
+          "a": "Politics is the competitive struggle over who exercises state power and for what ends; public administration is the neutral, professional execution of the decisions that emerge from that struggle."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Government as an institution refers to",
+      "options": [
+        "The art of governing",
+        "The organs and offices that exercise state power",
+        "A school subject",
+        "The ruling political party"
+      ],
+      "answer": 1,
+      "solution": "As an institution, government is the set of established organs &ndash; legislature, executive, judiciary."
+    },
+    {
+      "q": "Which of the following is NOT an organ of government?",
+      "options": [
+        "Legislature",
+        "Executive",
+        "Electorate",
+        "Judiciary"
+      ],
+      "answer": 2,
+      "solution": "The electorate is the body of voters, not an organ of government."
+    },
+    {
+      "q": "The organ of government that interprets the law is the",
+      "options": [
+        "Executive",
+        "Legislature",
+        "Civil service",
+        "Judiciary"
+      ],
+      "answer": 3,
+      "solution": "Interpretation of law is the constitutional duty of the judiciary."
+    },
+    {
+      "q": "Montesquieu's doctrine of separation of powers appeared in",
+      "options": [
+        "The Social Contract",
+        "The Spirit of the Laws",
+        "Leviathan",
+        "Two Treatises of Government"
+      ],
+      "answer": 1,
+      "solution": "Montesquieu published <i>The Spirit of the Laws</i> in 1748."
+    },
+    {
+      "q": "The primary function of government is best illustrated by",
+      "options": [
+        "Building a stadium",
+        "Maintenance of law and order",
+        "Awarding scholarships",
+        "Subsidising fertiliser"
+      ],
+      "answer": 1,
+      "solution": "Law and order is a traditional or primary function."
+    },
+    {
+      "q": "A state that limits itself to defence, law and order is described as a",
+      "options": [
+        "Welfare state",
+        "Night-watchman state",
+        "Unitary state",
+        "Police state"
+      ],
+      "answer": 1,
+      "solution": "The laissez-faire or night-watchman state performs only minimal functions."
+    },
+    {
+      "q": "Government as a process means",
+      "options": [
+        "The buildings used by government",
+        "The activity of making and enforcing rules",
+        "The study of politics",
+        "The constitution"
+      ],
+      "answer": 1,
+      "solution": "As a process, government is the art or activity of governing."
+    },
+    {
+      "q": "Which body approves the annual budget in Nigeria?",
+      "options": [
+        "The Supreme Court",
+        "The National Assembly",
+        "The Federal Executive Council",
+        "INEC"
+      ],
+      "answer": 1,
+      "solution": "Approval of the Appropriation Bill is a legislative function."
+    },
+    {
+      "q": "The legislature is often called the",
+      "options": [
+        "Watchdog of the constitution",
+        "First estate of the realm",
+        "Fourth estate of the realm",
+        "Engine room of policy"
+      ],
+      "answer": 1,
+      "solution": "The legislature is the first estate because law precedes execution and interpretation."
+    },
+    {
+      "q": "Judicial review enables the courts to",
+      "options": [
+        "Make new laws",
+        "Nullify unconstitutional acts",
+        "Appoint ministers",
+        "Prepare the budget"
+      ],
+      "answer": 1,
+      "solution": "Judicial review nullifies acts that are ultra vires the constitution."
+    },
+    {
+      "q": "Harold Lasswell defined politics as",
+      "options": [
+        "The art of the possible",
+        "Who gets what, when and how",
+        "The science of the state",
+        "Government in action"
+      ],
+      "answer": 1,
+      "solution": "Lasswell's classic formulation is 'who gets what, when and how'."
+    },
+    {
+      "q": "Nigeria operates how many levels of government?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 2,
+      "solution": "Federal, state and local government make three levels."
+    },
+    {
+      "q": "Matters on which only the Federal Government may legislate are on the",
+      "options": [
+        "Residual list",
+        "Concurrent list",
+        "Exclusive list",
+        "Reserved list"
+      ],
+      "answer": 2,
+      "solution": "The Exclusive Legislative List is reserved to the Federal Government."
+    },
+    {
+      "q": "The number of local government councils recognised by the 1999 Constitution is",
+      "options": [
+        "360",
+        "469",
+        "774",
+        "776"
+      ],
+      "answer": 2,
+      "solution": "There are 774 constitutionally recognised local government areas."
+    },
+    {
+      "q": "A deliberate course of action adopted by government is called",
+      "options": [
+        "Politics",
+        "Policy",
+        "Sovereignty",
+        "Legislation"
+      ],
+      "answer": 1,
+      "solution": "That is the definition of a public policy."
+    },
+    {
+      "q": "Conduct of foreign relations belongs to which organ?",
+      "options": [
+        "Judiciary",
+        "Legislature",
+        "Executive",
+        "Local council"
+      ],
+      "answer": 2,
+      "solution": "Diplomacy and treaty-making are executive functions, though treaties may need legislative ratification."
+    }
+  ]
+}
