@@ -13,63 +13,63 @@
   "modules": [
     {
       "title": "Temperature and thermometers",
-      "html": "<p><b>Temperature</b> is a measure of the degree of hotness or coldness of a body. Scales: Celsius (°C), Kelvin (K).</p><p>Conversion: T(K) = θ(°C) + 273.<br>Fahrenheit: F = 9/5·C + 32.</p><h4>Types of thermometers</h4><ul><li><b>Liquid-in-glass</b>: mercury (−39 to 357 °C) or alcohol (−115 to 78 °C).</li><li><b>Gas thermometer</b>: uses constant-volume gas; wide range, very accurate.</li><li><b>Resistance (platinum) thermometer</b>: R depends on T; suits large ranges.</li><li><b>Thermoelectric (thermocouple)</b>: EMF vs T for two metals; measures rapid changes.</li></ul>",
+      "html": "<p><b>Temperature</b> is a measure of the degree of hotness or coldness of a body. Scales: Celsius (\u00b0C), Kelvin (K).</p><p>Conversion: T(K) = \u03b8(\u00b0C) + 273.<br>Fahrenheit: F = 9/5\u00b7C + 32.</p><h4>Types of thermometers</h4><ul><li><b>Liquid-in-glass</b>: mercury (\u221239 to 357 \u00b0C) or alcohol (\u2212115 to 78 \u00b0C).</li><li><b>Gas thermometer</b>: uses constant-volume gas; wide range, very accurate.</li><li><b>Resistance (platinum) thermometer</b>: R depends on T; suits large ranges.</li><li><b>Thermoelectric (thermocouple)</b>: EMF vs T for two metals; measures rapid changes.</li></ul><h4>Key points</h4><ul><li>Kelvin is SI base.</li><li>Uniform expansion, no wetting.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which of these is a fundamental unit of temperature?<br/><b>A:</b> K</p><p><b>Q:</b> Mercury is commonly used in thermometers because<br/><b>A:</b> it expands uniformly and does not wet glass</p>",
       "examples": [
         {
-          "q": "Convert 27 °C to K.",
+          "q": "Convert 27 \u00b0C to K.",
           "a": "27 + 273 = 300 K."
         },
         {
-          "q": "Convert 373 K to °C.",
-          "a": "100 °C."
+          "q": "Convert 373 K to \u00b0C.",
+          "a": "100 \u00b0C."
         }
       ]
     },
     {
       "title": "Expansivity",
-      "html": "<p>Linear expansion: ΔL = αLΔθ.<br>Area expansion: ΔA = βAΔθ, β ≈ 2α.<br>Volume (cubic) expansion: ΔV = γVΔθ, γ ≈ 3α.</p><p>Liquids expand more than solids; gases expand the most.</p><p>Anomalous expansion of water: from 0 to 4 °C water contracts; above 4 °C it expands. Maximum density at 4 °C.</p>",
+      "html": "<p>Linear expansion: \u0394L = \u03b1L\u0394\u03b8.<br>Area expansion: \u0394A = \u03b2A\u0394\u03b8, \u03b2 \u2248 2\u03b1.<br>Volume (cubic) expansion: \u0394V = \u03b3V\u0394\u03b8, \u03b3 \u2248 3\u03b1.</p><p>Liquids expand more than solids; gases expand the most.</p><p>Anomalous expansion of water: from 0 to 4 \u00b0C water contracts; above 4 \u00b0C it expands. Maximum density at 4 \u00b0C.</p><h4>Key points</h4><ul><li>\u03b1 = \u0394L/(L\u0394T) \u2192 1/K.</li><li>\u03b3 \u2248 3\u03b1.</li></ul><h4>Worked example</h4><p><b>Q:</b> Linear expansivity has units of<br/><b>A:</b> 1/K</p><p><b>Q:</b> If \u03b1 = 12\u00d710\u207b\u2076 /K, the cubic expansivity \u03b3 is about<br/><b>A:</b> 36\u00d710\u207b\u2076 /K</p><h4>More key points</h4><ul><li>Linear expansivity has units of \u2014 1/K.</li><li>If \u03b1 = 12\u00d710\u207b\u2076 /K, the cubic expansivity \u03b3 is about \u2014 36\u00d710\u207b\u2076 /K.</li><li>Area expansivity \u03b2 is about \u2014 2\u03b1.</li><li>A 2 m rod expands by 0.6 mm when heated by 50 K. Its linear expansivity: \u2014 6\u00d710\u207b\u2076 /K.</li></ul>",
       "examples": [
         {
-          "q": "A 1 m rod, α=12×10⁻⁶/K. Expansion for ΔT=50 K?",
-          "a": "ΔL=12×10⁻⁶·1·50=6×10⁻⁴ m."
+          "q": "A 1 m rod, \u03b1=12\u00d710\u207b\u2076/K. Expansion for \u0394T=50 K?",
+          "a": "\u0394L=12\u00d710\u207b\u2076\u00b71\u00b750=6\u00d710\u207b\u2074 m."
         },
         {
-          "q": "Why is water at bottom of a pond in winter always ≈4 °C?",
-          "a": "Water is densest at 4 °C, so denser water sinks."
+          "q": "Why is water at bottom of a pond in winter always \u22484 \u00b0C?",
+          "a": "Water is densest at 4 \u00b0C, so denser water sinks."
         }
       ]
     },
     {
       "title": "Gas laws",
-      "html": "<p><b>Boyle's law</b>: at constant T, PV = constant.<br><b>Charles's law</b>: at constant P, V/T = constant.<br><b>Pressure (Gay-Lussac) law</b>: at constant V, P/T = constant.<br><b>General gas law</b>: P₁V₁/T₁ = P₂V₂/T₂.</p><p>Ideal gas equation: PV = nRT (R = 8.314 J·mol⁻¹·K⁻¹).</p>",
+      "html": "<p><b>Boyle's law</b>: at constant T, PV = constant.<br><b>Charles's law</b>: at constant P, V/T = constant.<br><b>Pressure (Gay-Lussac) law</b>: at constant V, P/T = constant.<br><b>General gas law</b>: P\u2081V\u2081/T\u2081 = P\u2082V\u2082/T\u2082.</p><p>Ideal gas equation: PV = nRT (R = 8.314 J\u00b7mol\u207b\u00b9\u00b7K\u207b\u00b9).</p><h4>Key points</h4><ul><li>Gas thermometers give high accuracy.</li><li>P\u2081V\u2081=P\u2082V\u2082 \u2192 200\u00b7400/200=400.</li></ul><h4>Worked example</h4><p><b>Q:</b> A gas thermometer is preferred because<br/><b>A:</b> it is very accurate over a wide range</p><p><b>Q:</b> A gas at 200 kPa and 400 mL is compressed to 200 mL at constant T. New pressure:<br/><b>A:</b> 400 kPa</p><h4>More key points</h4><ul><li>A gas thermometer is preferred because \u2014 it is very accurate over a wide range.</li><li>A gas at 200 kPa and 400 mL is compressed to 200 mL at constant T. New pressure: \u2014 400 kPa.</li><li>300 mL of gas at 300 K is heated to 600 K at constant P. New volume: \u2014 600 mL.</li><li>A gas at 27\u00b0C, 1 atm, 200 cm\u00b3 becomes 500 cm\u00b3 at 227\u00b0C. New pressure: \u2014 0.67 atm.</li></ul>",
       "examples": [
         {
-          "q": "Gas at 27°C, 1 atm and 300 mL heated to 127°C at same P. New volume?",
-          "a": "V₂ = V₁·T₂/T₁ = 300·400/300 = 400 mL."
+          "q": "Gas at 27\u00b0C, 1 atm and 300 mL heated to 127\u00b0C at same P. New volume?",
+          "a": "V\u2082 = V\u2081\u00b7T\u2082/T\u2081 = 300\u00b7400/300 = 400 mL."
         },
         {
           "q": "Compress a gas from 400 mL to 200 mL at constant T; original pressure 100 kPa. New pressure?",
-          "a": "P₂ = 100·400/200 = 200 kPa."
+          "a": "P\u2082 = 100\u00b7400/200 = 200 kPa."
         }
       ]
     },
     {
       "title": "Specific heat and latent heat",
-      "html": "<p><b>Specific heat capacity</b> c = Q/(mΔT). Water: 4200 J·kg⁻¹·K⁻¹.</p><p><b>Method of mixtures</b>: heat lost by hot body = heat gained by cold body (assuming no losses).</p><p><b>Latent heat</b>: heat absorbed during change of state without change of temperature.<br>L_f (fusion) for ice: 3.36×10⁵ J/kg.<br>L_v (vaporisation) for water: 2.26×10⁶ J/kg.</p><p>Q = ml.</p>",
+      "html": "<p><b>Specific heat capacity</b> c = Q/(m\u0394T). Water: 4200 J\u00b7kg\u207b\u00b9\u00b7K\u207b\u00b9.</p><p><b>Method of mixtures</b>: heat lost by hot body = heat gained by cold body (assuming no losses).</p><p><b>Latent heat</b>: heat absorbed during change of state without change of temperature.<br>L_f (fusion) for ice: 3.36\u00d710\u2075 J/kg.<br>L_v (vaporisation) for water: 2.26\u00d710\u2076 J/kg.</p><p>Q = ml.</p><h4>Key points</h4><ul><li>Water c=4200.</li><li>0.5\u00b74200\u00b780 = 168 000.</li></ul><h4>Worked example</h4><p><b>Q:</b> Specific heat capacity of water is (J\u00b7kg\u207b\u00b9\u00b7K\u207b\u00b9)<br/><b>A:</b> 4200</p><p><b>Q:</b> Heat needed to raise 0.5 kg water from 20 to 100 \u00b0C (c=4200):<br/><b>A:</b> 168 000 J</p><h4>More key points</h4><ul><li>Specific heat capacity of water is (J\u00b7kg\u207b\u00b9\u00b7K\u207b\u00b9) \u2014 4200.</li><li>Heat needed to raise 0.5 kg water from 20 to 100 \u00b0C (c=4200): \u2014 168 000 J.</li><li>Heat to melt 0.2 kg of ice at 0\u00b0C (Lf=336 000 J/kg): \u2014 67 200 J.</li><li>Latent heat of vaporisation of water (J/kg): \u2014 2 260 000.</li></ul>",
       "examples": [
         {
-          "q": "Heat to warm 2 kg water from 20 to 80 °C (c=4200):",
-          "a": "Q = 2·4200·60 = 504 000 J."
+          "q": "Heat to warm 2 kg water from 20 to 80 \u00b0C (c=4200):",
+          "a": "Q = 2\u00b74200\u00b760 = 504 000 J."
         },
         {
-          "q": "Melt 0.5 kg ice at 0°C (L_f=336000 J/kg):",
-          "a": "Q = 0.5·336000 = 168 000 J."
+          "q": "Melt 0.5 kg ice at 0\u00b0C (L_f=336000 J/kg):",
+          "a": "Q = 0.5\u00b7336000 = 168 000 J."
         }
       ]
     },
     {
       "title": "Evaporation, humidity, heat transfer",
-      "html": "<p><b>Evaporation</b> happens at any temperature, only at the surface. <b>Boiling</b> occurs at a specific temperature, throughout the liquid.</p><p><b>Relative humidity</b> = mass of water vapour in air / mass required for saturation × 100%. Measured with a hygrometer.</p><h4>Heat transfer</h4><ul><li><b>Conduction</b>: through solids by particle vibration and (in metals) free electrons.</li><li><b>Convection</b>: in fluids by movement of warm particles.</li><li><b>Radiation</b>: by electromagnetic waves, needs no medium.</li></ul><p>Vacuum flasks reduce all three modes: silvered walls (radiation), vacuum (conduction/convection), tight cork (conduction/convection).</p>",
+      "html": "<p><b>Evaporation</b> happens at any temperature, only at the surface. <b>Boiling</b> occurs at a specific temperature, throughout the liquid.</p><p><b>Relative humidity</b> = mass of water vapour in air / mass required for saturation \u00d7 100%. Measured with a hygrometer.</p><h4>Heat transfer</h4><ul><li><b>Conduction</b>: through solids by particle vibration and (in metals) free electrons.</li><li><b>Convection</b>: in fluids by movement of warm particles.</li><li><b>Radiation</b>: by electromagnetic waves, needs no medium.</li></ul><p>Vacuum flasks reduce all three modes: silvered walls (radiation), vacuum (conduction/convection), tight cork (conduction/convection).</p><h4>Key points</h4><ul><li>Water c=4200.</li><li>0.5\u00b74200\u00b780 = 168 000.</li></ul><h4>Worked example</h4><p><b>Q:</b> Specific heat capacity of water is (J\u00b7kg\u207b\u00b9\u00b7K\u207b\u00b9)<br/><b>A:</b> 4200</p><p><b>Q:</b> Heat needed to raise 0.5 kg water from 20 to 100 \u00b0C (c=4200):<br/><b>A:</b> 168 000 J</p>",
       "examples": [
         {
           "q": "Give the mode of heat loss from the Sun to the Earth.",
@@ -80,11 +80,25 @@
           "a": "Evaporation absorbs latent heat from the skin."
         }
       ]
+    },
+    {
+      "title": "Linear, area, volume expansivity",
+      "html": "<p><b>Linear, area, volume expansivity</b> is a key part of Heat Energy (SSS 2, Physics). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Gas thermometer : uses constant-volume gas; wide range, very accurate.</li><li>Linear expansion: \u0394L = \u03b1L\u0394\u03b8.</li><li>Area expansion: \u0394A = \u03b2A\u0394\u03b8, \u03b2 \u2248 2\u03b1.</li><li>Volume (cubic) expansion: \u0394V = \u03b3V\u0394\u03b8, \u03b3 \u2248 3\u03b1.</li><li>Worked example Q: Linear expansivity has units of A: 1/K Q: If \u03b1 = 12\u00d710\u207b\u2076 /K, the cubic expansivity \u03b3 is about A: 36\u00d710\u207b\u2076 /K</li></ul><h4>Worked example</h4><p><b>Q:</b> Linear expansivity has units of<br/><b>A:</b> 1/K \u2014 \u03b1 = \u0394L/(L\u0394T) \u2192 1/K.</p><p><b>Q:</b> If \u03b1 = 12\u00d710\u207b\u2076 /K, the cubic expansivity \u03b3 is about<br/><b>A:</b> 36\u00d710\u207b\u2076 /K \u2014 \u03b3 \u2248 3\u03b1.</p>",
+      "examples": [
+        {
+          "q": "Linear expansivity has units of",
+          "a": "1/K \u2014 \u03b1 = \u0394L/(L\u0394T) \u2192 1/K."
+        },
+        {
+          "q": "If \u03b1 = 12\u00d710\u207b\u2076 /K, the cubic expansivity \u03b3 is about",
+          "a": "36\u00d710\u207b\u2076 /K \u2014 \u03b3 \u2248 3\u03b1."
+        }
+      ]
     }
   ],
   "quiz": [
     {
-      "q": "Convert 27 °C to kelvin:",
+      "q": "Convert 27 \u00b0C to kelvin:",
       "options": [
         "227 K",
         "273 K",
@@ -92,29 +106,35 @@
         "320 K"
       ],
       "answer": 2,
-      "solution": "27+273=300."
+      "solution": "27+273=300.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Convert 373 K to °C:",
+      "q": "Convert 373 K to \u00b0C:",
       "options": [
-        "73 °C",
-        "100 °C",
-        "127 °C",
-        "273 °C"
+        "73 \u00b0C",
+        "100 \u00b0C",
+        "127 \u00b0C",
+        "273 \u00b0C"
       ],
       "answer": 1,
-      "solution": "373-273=100."
+      "solution": "373-273=100.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these is a fundamental unit of temperature?",
       "options": [
-        "°C",
+        "\u00b0C",
         "K",
-        "°F",
+        "\u00b0F",
         "J"
       ],
       "answer": 1,
-      "solution": "Kelvin is SI base."
+      "solution": "Kelvin is SI base.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Mercury is commonly used in thermometers because",
@@ -125,7 +145,9 @@
         "it is safe"
       ],
       "answer": 1,
-      "solution": "Uniform expansion, no wetting."
+      "solution": "Uniform expansion, no wetting.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Alcohol is preferred over mercury for",
@@ -136,7 +158,9 @@
         "measuring volume"
       ],
       "answer": 1,
-      "solution": "Alcohol freezes at −115 °C, useful for cold regions."
+      "solution": "Alcohol freezes at \u2212115 \u00b0C, useful for cold regions.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A gas thermometer is preferred because",
@@ -147,7 +171,9 @@
         "it uses mercury"
       ],
       "answer": 1,
-      "solution": "Gas thermometers give high accuracy."
+      "solution": "Gas thermometers give high accuracy.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A resistance thermometer works because",
@@ -158,7 +184,9 @@
         "EMF is produced"
       ],
       "answer": 1,
-      "solution": "R(T) relation."
+      "solution": "R(T) relation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A thermocouple works on the principle of",
@@ -169,7 +197,9 @@
         "gas pressure"
       ],
       "answer": 1,
-      "solution": "Seebeck effect."
+      "solution": "Seebeck effect.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Linear expansivity has units of",
@@ -180,62 +210,74 @@
         "K"
       ],
       "answer": 2,
-      "solution": "α = ΔL/(LΔT) → 1/K."
+      "solution": "\u03b1 = \u0394L/(L\u0394T) \u2192 1/K.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "If α = 12×10⁻⁶ /K, the cubic expansivity γ is about",
+      "q": "If \u03b1 = 12\u00d710\u207b\u2076 /K, the cubic expansivity \u03b3 is about",
       "options": [
-        "12×10⁻⁶ /K",
-        "24×10⁻⁶ /K",
-        "36×10⁻⁶ /K",
-        "48×10⁻⁶ /K"
+        "12\u00d710\u207b\u2076 /K",
+        "24\u00d710\u207b\u2076 /K",
+        "36\u00d710\u207b\u2076 /K",
+        "48\u00d710\u207b\u2076 /K"
       ],
       "answer": 2,
-      "solution": "γ ≈ 3α."
+      "solution": "\u03b3 \u2248 3\u03b1.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Area expansivity β is about",
+      "q": "Area expansivity \u03b2 is about",
       "options": [
-        "α",
-        "2α",
-        "3α",
-        "α/2"
+        "\u03b1",
+        "2\u03b1",
+        "3\u03b1",
+        "\u03b1/2"
       ],
       "answer": 1,
-      "solution": "β ≈ 2α."
+      "solution": "\u03b2 \u2248 2\u03b1.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A 2 m rod expands by 0.6 mm when heated by 50 K. Its linear expansivity:",
       "options": [
-        "3×10⁻⁶ /K",
-        "6×10⁻⁶ /K",
-        "1×10⁻⁵ /K",
-        "1.2×10⁻⁵ /K"
+        "3\u00d710\u207b\u2076 /K",
+        "6\u00d710\u207b\u2076 /K",
+        "1\u00d710\u207b\u2075 /K",
+        "1.2\u00d710\u207b\u2075 /K"
       ],
       "answer": 1,
-      "solution": "0.0006/(2·50)=6×10⁻⁶."
+      "solution": "0.0006/(2\u00b750)=6\u00d710\u207b\u2076.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Water has maximum density at",
       "options": [
-        "0 °C",
-        "2 °C",
-        "4 °C",
-        "100 °C"
+        "0 \u00b0C",
+        "2 \u00b0C",
+        "4 \u00b0C",
+        "100 \u00b0C"
       ],
       "answer": 2,
-      "solution": "Anomalous expansion."
+      "solution": "Anomalous expansion.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Boyle's law states that at constant T,",
       "options": [
-        "V ∝ T",
-        "P ∝ T",
+        "V \u221d T",
+        "P \u221d T",
         "PV = constant",
         "P/V = constant"
       ],
       "answer": 2,
-      "solution": "Inverse relation."
+      "solution": "Inverse relation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Charles's law: V/T = constant at constant",
@@ -246,7 +288,9 @@
         "temperature"
       ],
       "answer": 2,
-      "solution": "Pressure held constant."
+      "solution": "Pressure held constant.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A gas at 200 kPa and 400 mL is compressed to 200 mL at constant T. New pressure:",
@@ -257,7 +301,9 @@
         "800 kPa"
       ],
       "answer": 2,
-      "solution": "P₁V₁=P₂V₂ → 200·400/200=400."
+      "solution": "P\u2081V\u2081=P\u2082V\u2082 \u2192 200\u00b7400/200=400.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "300 mL of gas at 300 K is heated to 600 K at constant P. New volume:",
@@ -268,10 +314,12 @@
         "900 mL"
       ],
       "answer": 2,
-      "solution": "V₁/T₁=V₂/T₂ → 300·600/300=600."
+      "solution": "V\u2081/T\u2081=V\u2082/T\u2082 \u2192 300\u00b7600/300=600.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "A gas at 27°C, 1 atm, 200 cm³ becomes 500 cm³ at 227°C. New pressure:",
+      "q": "A gas at 27\u00b0C, 1 atm, 200 cm\u00b3 becomes 500 cm\u00b3 at 227\u00b0C. New pressure:",
       "options": [
         "0.55 atm",
         "0.67 atm",
@@ -279,10 +327,12 @@
         "1.50 atm"
       ],
       "answer": 1,
-      "solution": "P₂ = P₁V₁T₂/(V₁T₂) sorry: P₂=P₁V₁T₂/(V₂T₁)=1·200·500/(500·300)=0.67 atm."
+      "solution": "P\u2082 = P\u2081V\u2081T\u2082/(V\u2081T\u2082) sorry: P\u2082=P\u2081V\u2081T\u2082/(V\u2082T\u2081)=1\u00b7200\u00b7500/(500\u00b7300)=0.67 atm.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Specific heat capacity of water is (J·kg⁻¹·K⁻¹)",
+      "q": "Specific heat capacity of water is (J\u00b7kg\u207b\u00b9\u00b7K\u207b\u00b9)",
       "options": [
         "336",
         "2260",
@@ -290,10 +340,12 @@
         "4.2"
       ],
       "answer": 2,
-      "solution": "Water c=4200."
+      "solution": "Water c=4200.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Heat needed to raise 0.5 kg water from 20 to 100 °C (c=4200):",
+      "q": "Heat needed to raise 0.5 kg water from 20 to 100 \u00b0C (c=4200):",
       "options": [
         "168 000 J",
         "336 000 J",
@@ -301,10 +353,12 @@
         "840 000 J"
       ],
       "answer": 0,
-      "solution": "0.5·4200·80 = 168 000."
+      "solution": "0.5\u00b74200\u00b780 = 168 000.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Heat to melt 0.2 kg of ice at 0°C (Lf=336 000 J/kg):",
+      "q": "Heat to melt 0.2 kg of ice at 0\u00b0C (Lf=336 000 J/kg):",
       "options": [
         "33 600 J",
         "67 200 J",
@@ -312,7 +366,9 @@
         "672 000 J"
       ],
       "answer": 1,
-      "solution": "0.2·336000=67200."
+      "solution": "0.2\u00b7336000=67200.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Latent heat of vaporisation of water (J/kg):",
@@ -323,7 +379,9 @@
         "4 200 000"
       ],
       "answer": 2,
-      "solution": "≈ 2.26×10⁶."
+      "solution": "\u2248 2.26\u00d710\u2076.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Heat lost = Heat gained is the principle behind",
@@ -334,7 +392,9 @@
         "Ohm's law"
       ],
       "answer": 1,
-      "solution": "Calorimetry."
+      "solution": "Calorimetry.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Evaporation occurs at",
@@ -345,7 +405,9 @@
         "any temperature throughout the liquid"
       ],
       "answer": 1,
-      "solution": "Surface phenomenon."
+      "solution": "Surface phenomenon.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Boiling occurs when",
@@ -356,7 +418,9 @@
         "evaporation stops"
       ],
       "answer": 1,
-      "solution": "Definition of boiling."
+      "solution": "Definition of boiling.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Relative humidity is measured with a",
@@ -367,7 +431,9 @@
         "manometer"
       ],
       "answer": 1,
-      "solution": "Hygrometer."
+      "solution": "Hygrometer.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which mode of heat transfer needs no medium?",
@@ -378,7 +444,9 @@
         "All"
       ],
       "answer": 2,
-      "solution": "Radiation via EM waves."
+      "solution": "Radiation via EM waves.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Heat travels through a solid mainly by",
@@ -389,7 +457,9 @@
         "evaporation"
       ],
       "answer": 0,
-      "solution": "Solids conduct."
+      "solution": "Solids conduct.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Convection currents form in",
@@ -400,7 +470,9 @@
         "only gases"
       ],
       "answer": 1,
-      "solution": "Fluid motion."
+      "solution": "Fluid motion.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A vacuum flask reduces heat loss by",
@@ -411,7 +483,9 @@
         "only convection"
       ],
       "answer": 2,
-      "solution": "All three."
+      "solution": "All three.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The silvered surface in a vacuum flask reduces",
@@ -422,7 +496,9 @@
         "evaporation"
       ],
       "answer": 2,
-      "solution": "Reflects radiation."
+      "solution": "Reflects radiation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a good conductor of heat?",
@@ -433,7 +509,9 @@
         "Water"
       ],
       "answer": 1,
-      "solution": "Metals like copper."
+      "solution": "Metals like copper.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A land breeze at night is due to",
@@ -444,7 +522,9 @@
         "radiation"
       ],
       "answer": 1,
-      "solution": "Air rises over warmer sea, cool air moves from land."
+      "solution": "Air rises over warmer sea, cool air moves from land.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Latent heat of fusion is the heat",
@@ -455,21 +535,25 @@
         "needed to boil"
       ],
       "answer": 1,
-      "solution": "Change of state without ΔT."
+      "solution": "Change of state without \u0394T.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A body absorbs 4200 J to raise 1 kg by 1 K. Its c is",
       "options": [
-        "1 J/kg·K",
-        "420 J/kg·K",
-        "4200 J/kg·K",
-        "42 000 J/kg·K"
+        "1 J/kg\u00b7K",
+        "420 J/kg\u00b7K",
+        "4200 J/kg\u00b7K",
+        "42 000 J/kg\u00b7K"
       ],
       "answer": 2,
-      "solution": "Definition."
+      "solution": "Definition.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "A copper block (c=400) mass 0.5 kg absorbs 4000 J. ΔT is",
+      "q": "A copper block (c=400) mass 0.5 kg absorbs 4000 J. \u0394T is",
       "options": [
         "10 K",
         "20 K",
@@ -477,7 +561,9 @@
         "50 K"
       ],
       "answer": 1,
-      "solution": "Q/(mc) = 4000/(0.5·400)=20."
+      "solution": "Q/(mc) = 4000/(0.5\u00b7400)=20.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Air conditioners cool because",
@@ -488,7 +574,9 @@
         "they radiate heat inward"
       ],
       "answer": 1,
-      "solution": "Phase change absorbs heat."
+      "solution": "Phase change absorbs heat.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Sublimation is the change from",
@@ -499,7 +587,9 @@
         "gas to solid"
       ],
       "answer": 2,
-      "solution": "Solid ⇌ gas."
+      "solution": "Solid \u21cc gas.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The pressure of a fixed mass of gas at constant volume is directly proportional to its",
@@ -510,10 +600,12 @@
         "mass"
       ],
       "answer": 1,
-      "solution": "P ∝ T (Kelvin)."
+      "solution": "P \u221d T (Kelvin).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Ice at 0°C is placed in warm water. Ice melts because",
+      "q": "Ice at 0\u00b0C is placed in warm water. Ice melts because",
       "options": [
         "it loses heat",
         "it absorbs latent heat from water",
@@ -521,7 +613,9 @@
         "it evaporates"
       ],
       "answer": 1,
-      "solution": "Ice absorbs Lf from water."
+      "solution": "Ice absorbs Lf from water.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Heat is measured in",
@@ -532,18 +626,22 @@
         "W"
       ],
       "answer": 2,
-      "solution": "Joule."
+      "solution": "Joule.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The unit of specific heat capacity is",
       "options": [
         "J",
         "J/kg",
-        "J/(kg·K)",
-        "J·K"
+        "J/(kg\u00b7K)",
+        "J\u00b7K"
       ],
       "answer": 2,
-      "solution": "c = Q/(mΔT)."
+      "solution": "c = Q/(m\u0394T).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is not a mode of heat transfer?",
@@ -554,10 +652,12 @@
         "Reflection"
       ],
       "answer": 3,
-      "solution": "Reflection is optical."
+      "solution": "Reflection is optical.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Iron heated from 20°C to 220°C. ΔT in K =",
+      "q": "Iron heated from 20\u00b0C to 220\u00b0C. \u0394T in K =",
       "options": [
         "200",
         "220",
@@ -565,40 +665,48 @@
         "473"
       ],
       "answer": 0,
-      "solution": "K-diff = C-diff = 200."
+      "solution": "K-diff = C-diff = 200.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "A gas at 27°C is heated at constant V so its pressure doubles. Final temperature:",
+      "q": "A gas at 27\u00b0C is heated at constant V so its pressure doubles. Final temperature:",
       "options": [
-        "54°C",
-        "300°C",
-        "327°C",
-        "600°C"
+        "54\u00b0C",
+        "300\u00b0C",
+        "327\u00b0C",
+        "600\u00b0C"
       ],
       "answer": 2,
-      "solution": "T2 = 2·300=600 K = 327 °C."
+      "solution": "T2 = 2\u00b7300=600 K = 327 \u00b0C.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Volume of 400 cm³ gas at 200 K becomes at 400 K at const P:",
+      "q": "Volume of 400 cm\u00b3 gas at 200 K becomes at 400 K at const P:",
       "options": [
-        "100 cm³",
-        "200 cm³",
-        "400 cm³",
-        "800 cm³"
+        "100 cm\u00b3",
+        "200 cm\u00b3",
+        "400 cm\u00b3",
+        "800 cm\u00b3"
       ],
       "answer": 3,
-      "solution": "Doubles."
+      "solution": "Doubles.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "An ice-water mixture at 0 °C has temperature",
+      "q": "An ice-water mixture at 0 \u00b0C has temperature",
       "options": [
         "dependent on amount",
-        "0 °C until ice fully melts",
-        "below 0 °C",
-        "above 0 °C"
+        "0 \u00b0C until ice fully melts",
+        "below 0 \u00b0C",
+        "above 0 \u00b0C"
       ],
       "answer": 1,
-      "solution": "Constant during melting."
+      "solution": "Constant during melting.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Relative humidity 100% means air is",
@@ -609,7 +717,9 @@
         "hot"
       ],
       "answer": 2,
-      "solution": "Saturation."
+      "solution": "Saturation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these best explains why metal handles feel colder than plastic ones at same T?",
@@ -620,18 +730,22 @@
         "Plastic radiates heat"
       ],
       "answer": 1,
-      "solution": "Higher conductivity."
+      "solution": "Higher conductivity.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Boiling point of water at sea level is",
       "options": [
-        "90 °C",
-        "100 °C",
-        "110 °C",
+        "90 \u00b0C",
+        "100 \u00b0C",
+        "110 \u00b0C",
         "273 K"
       ],
       "answer": 1,
-      "solution": "100 °C."
+      "solution": "100 \u00b0C.",
+      "source": "Chapter notes",
+      "practice": false
     }
   ]
 }

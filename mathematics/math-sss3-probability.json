@@ -1,598 +1,736 @@
 {
- "topic": "Probability",
- "ss_level": "SSS 3",
- "icon": "fa-dice",
- "color": "#2563eb",
- "outline": [
-  "Sample space and outcomes",
-  "Mutually exclusive, independent, dependent events",
-  "Addition and multiplication laws",
-  "Tree diagrams"
- ],
- "modules": [
-  {
-   "title": "Module 1 · Basic Definitions",
-   "html": "<p>Probability of an event $E$:</p>$$P(E) = \\dfrac{n(E)}{n(S)}$$<p>where $S$ is the sample space. Always $0 \\le P(E) \\le 1$. $P(\\text{not }E) = 1 - P(E)$.</p>",
-   "examples": [
+  "topic": "Probability",
+  "ss_level": "SSS 3",
+  "icon": "fa-dice",
+  "color": "#2563eb",
+  "outline": [
+    "Sample space and outcomes",
+    "Mutually exclusive, independent, dependent events",
+    "Addition and multiplication laws",
+    "Tree diagrams"
+  ],
+  "modules": [
     {
-     "q": "A fair die is thrown. Find P(getting a 4).",
-     "a": "$P = 1/6$."
-    }
-   ]
-  },
-  {
-   "title": "Module 2 · Laws of Probability",
-   "html": "<p><b>Addition law:</b> $P(A\\cup B) = P(A) + P(B) - P(A\\cap B)$. If $A,B$ are <b>mutually exclusive</b>: $P(A\\cup B) = P(A) + P(B)$.</p><p><b>Multiplication law:</b> If $A,B$ are <b>independent</b>: $P(A\\cap B) = P(A)P(B)$. If dependent: $P(A\\cap B) = P(A)P(B|A)$.</p>",
-   "examples": [
+      "title": "Module 1 \u00b7 Basic Definitions",
+      "html": "<p>Probability of an event $E$:</p>$$P(E) = \\dfrac{n(E)}{n(S)}$$<p>where $S$ is the sample space. Always $0 \\le P(E) \\le 1$. $P(\\text{not }E) = 1 - P(E)$.</p><h4>Key points</h4><ul><li>One favourable outcome out of 6.</li><li>Even: 2, 4, 6 \u2014 three outcomes out of 6.</li></ul><h4>Worked example</h4><p><b>Q:</b> A fair die is thrown. Find P(a 3).<br/><b>A:</b> \\dfrac{1}{6}</p><p><b>Q:</b> A fair die is thrown. Find P(an even number).<br/><b>A:</b> \\dfrac{1}{2}</p>",
+      "examples": [
+        {
+          "q": "A fair die is thrown. Find P(getting a 4).",
+          "a": "$P = 1/6$."
+        }
+      ]
+    },
     {
-     "q": "A card is drawn from a pack. Find P(King or Queen).",
-     "a": "$P = 4/52 + 4/52 = 8/52 = 2/13$."
-    }
-   ]
-  },
-  {
-   "title": "Module 3 · Tree Diagrams",
-   "html": "<p>Branches represent each possible outcome; multiply along branches, add between branches.</p>",
-   "examples": [
+      "title": "Module 2 \u00b7 Laws of Probability",
+      "html": "<p><b>Addition law:</b> $P(A\\cup B) = P(A) + P(B) - P(A\\cap B)$. If $A,B$ are <b>mutually exclusive</b>: $P(A\\cup B) = P(A) + P(B)$.</p><p><b>Multiplication law:</b> If $A,B$ are <b>independent</b>: $P(A\\cap B) = P(A)P(B)$. If dependent: $P(A\\cap B) = P(A)P(B|A)$.</p><h4>Key points</h4><ul><li>The complement's probability.</li></ul><h4>Worked example</h4><p><b>Q:</b> What is $P(\\text{not }E)$ in terms of $P(E)$?<br/><b>A:</b> 1-P(E)</p><h4>More key points</h4><ul><li>Probability of obtaining a head in a toss of a coin. \u2014 1/2.</li><li>The range of probability is: \u2014 0 to 1.</li><li>Find the probability of picking a queen from a standard deck of 52 cards. \u2014 1/13.</li><li>A bag contains 4 red and 6 black balls. If two balls are picked without replacement, find the probability both are red. \u2014 2/15.</li></ul>",
+      "examples": [
+        {
+          "q": "A card is drawn from a pack. Find P(King or Queen).",
+          "a": "$P = 4/52 + 4/52 = 8/52 = 2/13$."
+        }
+      ]
+    },
     {
-     "q": "A bag contains 3 red and 5 blue balls. Two balls are drawn without replacement. Find P(both red).",
-     "a": "$P = \\dfrac{3}{8}\\times \\dfrac{2}{7} = \\dfrac{6}{56} = \\dfrac{3}{28}$."
+      "title": "Module 3 \u00b7 Tree Diagrams",
+      "html": "<p>Branches represent each possible outcome; multiply along branches, add between branches.</p><h4>Key points</h4><ul><li>One favourable outcome out of 6.</li><li>Even: 2, 4, 6 \u2014 three outcomes out of 6.</li></ul><h4>Worked example</h4><p><b>Q:</b> A fair die is thrown. Find P(a 3).<br/><b>A:</b> \\dfrac{1}{6}</p><p><b>Q:</b> A fair die is thrown. Find P(an even number).<br/><b>A:</b> \\dfrac{1}{2}</p>",
+      "examples": [
+        {
+          "q": "A bag contains 3 red and 5 blue balls. Two balls are drawn without replacement. Find P(both red).",
+          "a": "$P = \\dfrac{3}{8}\\times \\dfrac{2}{7} = \\dfrac{6}{56} = \\dfrac{3}{28}$."
+        }
+      ]
+    },
+    {
+      "title": "Sample space and outcomes",
+      "html": "<p><b>Sample space and outcomes</b> is a key part of Probability (SSS 3, Mathematics). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Probability of an event $E$: $$P(E) = \\dfrac{n(E)}{n(S)}$$ where $S$ is the sample space.</li><li>Even: 2, 4, 6 \u2014 three outcomes out of 6.</li></ul><h4>Worked example</h4><p><b>Q:</b> A fair die is thrown. Find P(an even number).<br/><b>A:</b> \\dfrac{1}{2} \u2014 Even: 2, 4, 6 \u2014 three outcomes out of 6.</p>",
+      "examples": [
+        {
+          "q": "A fair die is thrown. Find P(an even number).",
+          "a": "\\dfrac{1}{2} \u2014 Even: 2, 4, 6 \u2014 three outcomes out of 6."
+        }
+      ]
+    },
+    {
+      "title": "Mutually exclusive, independent, dependent events",
+      "html": "<p><b>Mutually exclusive, independent, dependent events</b> is a key part of Probability (SSS 3, Mathematics). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>If $A,B$ are mutually exclusive : $P(A\\cup B) = P(A) + P(B)$.</li><li>Multiplication law: If $A,B$ are independent : $P(A\\cap B) = P(A)P(B)$.</li><li>If dependent: $P(A\\cap B) = P(A)P(B|A)$.</li></ul><h4>Worked example</h4><p><b>Q:</b> If $A$ and $B$ are mutually exclusive, $P(A\\cup B) =$ ?<br/><b>A:</b> P(A)+P(B) \u2014 No overlap, so probabilities add.</p><p><b>Q:</b> If $A$ and $B$ are independent, $P(A\\cap B) =$ ?<br/><b>A:</b> P(A)P(B) \u2014 Independence means multiply.</p>",
+      "examples": [
+        {
+          "q": "If $A$ and $B$ are mutually exclusive, $P(A\\cup B) =$ ?",
+          "a": "P(A)+P(B) \u2014 No overlap, so probabilities add."
+        },
+        {
+          "q": "If $A$ and $B$ are independent, $P(A\\cap B) =$ ?",
+          "a": "P(A)P(B) \u2014 Independence means multiply."
+        }
+      ]
+    },
+    {
+      "title": "Addition and multiplication laws",
+      "html": "<p><b>Addition and multiplication laws</b> is a key part of Probability (SSS 3, Mathematics). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Addition law: $P(A\\cup B) = P(A) + P(B) - P(A\\cap B)$.</li><li>Multiplication law: If $A,B$ are independent : $P(A\\cap B) = P(A)P(B)$.</li></ul><h4>Worked example</h4><p><b>Q:</b> A fair die is thrown. Find P(a 3).<br/><b>A:</b> \\dfrac{1}{6} \u2014 One favourable outcome out of 6.</p><p><b>Q:</b> A fair die is thrown. Find P(an even number).<br/><b>A:</b> \\dfrac{1}{2} \u2014 Even: 2, 4, 6 \u2014 three outcomes out of 6.</p>",
+      "examples": [
+        {
+          "q": "A fair die is thrown. Find P(a 3).",
+          "a": "\\dfrac{1}{6} \u2014 One favourable outcome out of 6."
+        },
+        {
+          "q": "A fair die is thrown. Find P(an even number).",
+          "a": "\\dfrac{1}{2} \u2014 Even: 2, 4, 6 \u2014 three outcomes out of 6."
+        }
+      ]
     }
-   ]
-  }
- ],
- "slug": "probability",
- "subject": "Mathematics",
- "quiz": [
-  {
-   "q": "A fair die is thrown. Find P(a 3).",
-   "options": [
-    "\\dfrac{1}{6}",
-    "\\dfrac{1}{4}",
-    "\\dfrac{1}{3}",
-    "\\dfrac{1}{2}"
-   ],
-   "answer": 0,
-   "solution": "One favourable outcome out of 6."
-  },
-  {
-   "q": "A fair die is thrown. Find P(an even number).",
-   "options": [
-    "\\dfrac{1}{2}",
-    "\\dfrac{2}{3}",
-    "\\dfrac{1}{6}",
-    "\\dfrac{1}{3}"
-   ],
-   "answer": 0,
-   "solution": "Even: 2, 4, 6 — three outcomes out of 6."
-  },
-  {
-   "q": "A fair die is thrown. Find P(an even number).",
-   "options": [
-    "\\dfrac{2}{3}",
-    "\\dfrac{1}{2}",
-    "\\dfrac{1}{3}",
-    "\\dfrac{1}{6}"
-   ],
-   "answer": 1,
-   "solution": "Even: 2, 4, 6 — three outcomes out of 6."
-  },
-  {
-   "q": "A fair die is thrown. Find P(an even number).",
-   "options": [
-    "\\dfrac{1}{6}",
-    "\\dfrac{1}{2}",
-    "\\dfrac{1}{3}",
-    "\\dfrac{2}{3}"
-   ],
-   "answer": 1,
-   "solution": "Even: 2, 4, 6 — three outcomes out of 6."
-  },
-  {
-   "q": "A fair die is thrown. Find P(a 3).",
-   "options": [
-    "\\dfrac{1}{3}",
-    "\\dfrac{1}{6}",
-    "\\dfrac{1}{2}",
-    "\\dfrac{1}{4}"
-   ],
-   "answer": 1,
-   "solution": "One favourable outcome out of 6."
-  },
-  {
-   "q": "A fair die is thrown. Find P(a 3).",
-   "options": [
-    "\\dfrac{1}{4}",
-    "\\dfrac{1}{2}",
-    "\\dfrac{1}{3}",
-    "\\dfrac{1}{6}"
-   ],
-   "answer": 3,
-   "solution": "One favourable outcome out of 6."
-  },
-  {
-   "q": "A fair die is thrown. Find P(a number greater than 4).",
-   "options": [
-    "\\dfrac{1}{3}",
-    "\\dfrac{1}{6}",
-    "\\dfrac{2}{3}",
-    "\\dfrac{1}{2}"
-   ],
-   "answer": 0,
-   "solution": "Favourable: 5, 6."
-  },
-  {
-   "q": "A fair die is thrown. Find P(a 3).",
-   "options": [
-    "\\dfrac{1}{4}",
-    "\\dfrac{1}{6}",
-    "\\dfrac{1}{3}",
-    "\\dfrac{1}{2}"
-   ],
-   "answer": 1,
-   "solution": "One favourable outcome out of 6."
-  },
-  {
-   "q": "A fair die is thrown. Find P(a number greater than 4).",
-   "options": [
-    "\\dfrac{2}{3}",
-    "\\dfrac{1}{6}",
-    "\\dfrac{1}{3}",
-    "\\dfrac{1}{2}"
-   ],
-   "answer": 2,
-   "solution": "Favourable: 5, 6."
-  },
-  {
-   "q": "A fair die is thrown. Find P(a number greater than 4).",
-   "options": [
-    "\\dfrac{1}{2}",
-    "\\dfrac{1}{3}",
-    "\\dfrac{1}{6}",
-    "\\dfrac{2}{3}"
-   ],
-   "answer": 1,
-   "solution": "Favourable: 5, 6."
-  },
-  {
-   "q": "A card is drawn from a well-shuffled pack of 52. Find P(King).",
-   "options": [
-    "\\dfrac{1}{52}",
-    "\\dfrac{1}{13}",
-    "\\dfrac{1}{4}",
-    "\\dfrac{4}{13}"
-   ],
-   "answer": 1,
-   "solution": "4 Kings in 52 cards."
-  },
-  {
-   "q": "A card is drawn. Find P(a red card).",
-   "options": [
-    "\\dfrac{1}{2}",
-    "\\dfrac{1}{26}",
-    "\\dfrac{1}{4}",
-    "\\dfrac{1}{13}"
-   ],
-   "answer": 0,
-   "solution": "26 red cards in 52."
-  },
-  {
-   "q": "A card is drawn. Find P(a red card).",
-   "options": [
-    "\\dfrac{1}{26}",
-    "\\dfrac{1}{13}",
-    "\\dfrac{1}{4}",
-    "\\dfrac{1}{2}"
-   ],
-   "answer": 3,
-   "solution": "26 red cards in 52."
-  },
-  {
-   "q": "A card is drawn. Find P(a face card).",
-   "options": [
-    "\\dfrac{4}{13}",
-    "\\dfrac{1}{13}",
-    "\\dfrac{1}{4}",
-    "\\dfrac{3}{13}"
-   ],
-   "answer": 3,
-   "solution": "12 face cards in 52."
-  },
-  {
-   "q": "A card is drawn from a well-shuffled pack of 52. Find P(King).",
-   "options": [
-    "\\dfrac{1}{4}",
-    "\\dfrac{1}{13}",
-    "\\dfrac{1}{52}",
-    "\\dfrac{4}{13}"
-   ],
-   "answer": 1,
-   "solution": "4 Kings in 52 cards."
-  },
-  {
-   "q": "A card is drawn from a well-shuffled pack of 52. Find P(King).",
-   "options": [
-    "\\dfrac{4}{13}",
-    "\\dfrac{1}{4}",
-    "\\dfrac{1}{13}",
-    "\\dfrac{1}{52}"
-   ],
-   "answer": 2,
-   "solution": "4 Kings in 52 cards."
-  },
-  {
-   "q": "A card is drawn. Find P(a diamond).",
-   "options": [
-    "\\dfrac{1}{13}",
-    "\\dfrac{1}{2}",
-    "\\dfrac{1}{4}",
-    "\\dfrac{4}{13}"
-   ],
-   "answer": 2,
-   "solution": "13 diamonds in 52."
-  },
-  {
-   "q": "A card is drawn. Find P(a diamond).",
-   "options": [
-    "\\dfrac{1}{13}",
-    "\\dfrac{1}{2}",
-    "\\dfrac{1}{4}",
-    "\\dfrac{4}{13}"
-   ],
-   "answer": 2,
-   "solution": "13 diamonds in 52."
-  },
-  {
-   "q": "A card is drawn. Find P(a diamond).",
-   "options": [
-    "\\dfrac{1}{2}",
-    "\\dfrac{4}{13}",
-    "\\dfrac{1}{4}",
-    "\\dfrac{1}{13}"
-   ],
-   "answer": 2,
-   "solution": "13 diamonds in 52."
-  },
-  {
-   "q": "A card is drawn. Find P(a face card).",
-   "options": [
-    "\\dfrac{4}{13}",
-    "\\dfrac{3}{13}",
-    "\\dfrac{1}{13}",
-    "\\dfrac{1}{4}"
-   ],
-   "answer": 1,
-   "solution": "12 face cards in 52."
-  },
-  {
-   "q": "A bag contains 3 red and 7 blue balls. A ball is drawn at random. Find P(red).",
-   "options": [
-    "\\dfrac{1}{10}",
-    "\\dfrac{7}{10}",
-    "\\dfrac{3}{10}",
-    "\\dfrac{3}{7}"
-   ],
-   "answer": 2,
-   "solution": "$P(\\text{red}) = \\dfrac{3}{10} = \\dfrac{3}{10}$."
-  },
-  {
-   "q": "A bag contains 2 red and 4 blue balls. A ball is drawn at random. Find P(red).",
-   "options": [
-    "\\dfrac{4}{6}",
-    "\\dfrac{1}{6}",
-    "\\dfrac{2}{4}",
-    "\\dfrac{1}{3}"
-   ],
-   "answer": 3,
-   "solution": "$P(\\text{red}) = \\dfrac{2}{6} = \\dfrac{1}{3}$."
-  },
-  {
-   "q": "A bag contains 2 red and 2 blue balls. A ball is drawn at random. Find P(red).",
-   "options": [
-    "\\dfrac{1}{2}",
-    "\\dfrac{2}{4}",
-    "\\dfrac{2}{2}",
-    "\\dfrac{1}{4}"
-   ],
-   "answer": 0,
-   "solution": "$P(\\text{red}) = \\dfrac{2}{4} = \\dfrac{1}{2}$."
-  },
-  {
-   "q": "A bag contains 3 red and 7 blue balls. A ball is drawn at random. Find P(red).",
-   "options": [
-    "\\dfrac{3}{7}",
-    "\\dfrac{1}{10}",
-    "\\dfrac{3}{10}",
-    "\\dfrac{7}{10}"
-   ],
-   "answer": 2,
-   "solution": "$P(\\text{red}) = \\dfrac{3}{10} = \\dfrac{3}{10}$."
-  },
-  {
-   "q": "A bag contains 2 red and 5 blue balls. A ball is drawn at random. Find P(red).",
-   "options": [
-    "\\dfrac{2}{5}",
-    "\\dfrac{5}{7}",
-    "\\dfrac{2}{7}",
-    "\\dfrac{1}{7}"
-   ],
-   "answer": 2,
-   "solution": "$P(\\text{red}) = \\dfrac{2}{7} = \\dfrac{2}{7}$."
-  },
-  {
-   "q": "A bag contains 5 red and 4 blue balls. A ball is drawn at random. Find P(red).",
-   "options": [
-    "\\dfrac{1}{9}",
-    "\\dfrac{5}{9}",
-    "\\dfrac{5}{4}",
-    "\\dfrac{4}{9}"
-   ],
-   "answer": 1,
-   "solution": "$P(\\text{red}) = \\dfrac{5}{9} = \\dfrac{5}{9}$."
-  },
-  {
-   "q": "A bag contains 5 red and 7 blue balls. A ball is drawn at random. Find P(red).",
-   "options": [
-    "\\dfrac{5}{7}",
-    "\\dfrac{7}{12}",
-    "\\dfrac{5}{12}",
-    "\\dfrac{1}{12}"
-   ],
-   "answer": 2,
-   "solution": "$P(\\text{red}) = \\dfrac{5}{12} = \\dfrac{5}{12}$."
-  },
-  {
-   "q": "A bag contains 4 red and 5 blue balls. A ball is drawn at random. Find P(red).",
-   "options": [
-    "\\dfrac{1}{9}",
-    "\\dfrac{4}{9}",
-    "\\dfrac{4}{5}",
-    "\\dfrac{5}{9}"
-   ],
-   "answer": 1,
-   "solution": "$P(\\text{red}) = \\dfrac{4}{9} = \\dfrac{4}{9}$."
-  },
-  {
-   "q": "A bag contains 7 red and 2 blue balls. A ball is drawn at random. Find P(red).",
-   "options": [
-    "\\dfrac{2}{9}",
-    "\\dfrac{1}{9}",
-    "\\dfrac{7}{9}",
-    "\\dfrac{7}{2}"
-   ],
-   "answer": 2,
-   "solution": "$P(\\text{red}) = \\dfrac{7}{9} = \\dfrac{7}{9}$."
-  },
-  {
-   "q": "A bag contains 7 red and 5 blue balls. A ball is drawn at random. Find P(red).",
-   "options": [
-    "\\dfrac{5}{12}",
-    "\\dfrac{7}{12}",
-    "\\dfrac{1}{12}",
-    "\\dfrac{7}{5}"
-   ],
-   "answer": 1,
-   "solution": "$P(\\text{red}) = \\dfrac{7}{12} = \\dfrac{7}{12}$."
-  },
-  {
-   "q": "A bag contains 6 red and 4 blue balls. A ball is drawn at random. Find P(red).",
-   "options": [
-    "\\dfrac{6}{4}",
-    "\\dfrac{4}{10}",
-    "\\dfrac{3}{5}",
-    "\\dfrac{1}{10}"
-   ],
-   "answer": 2,
-   "solution": "$P(\\text{red}) = \\dfrac{6}{10} = \\dfrac{3}{5}$."
-  },
-  {
-   "q": "A bag contains 5 red and 2 blue balls. A ball is drawn at random. Find P(red).",
-   "options": [
-    "\\dfrac{2}{7}",
-    "\\dfrac{5}{7}",
-    "\\dfrac{1}{7}",
-    "\\dfrac{5}{2}"
-   ],
-   "answer": 1,
-   "solution": "$P(\\text{red}) = \\dfrac{5}{7} = \\dfrac{5}{7}$."
-  },
-  {
-   "q": "A bag contains 3 red and 5 blue balls. A ball is drawn at random. Find P(red).",
-   "options": [
-    "\\dfrac{3}{5}",
-    "\\dfrac{3}{8}",
-    "\\dfrac{1}{8}",
-    "\\dfrac{5}{8}"
-   ],
-   "answer": 1,
-   "solution": "$P(\\text{red}) = \\dfrac{3}{8} = \\dfrac{3}{8}$."
-  },
-  {
-   "q": "A bag contains 4 red and 7 blue balls. A ball is drawn at random. Find P(red).",
-   "options": [
-    "\\dfrac{7}{11}",
-    "\\dfrac{4}{7}",
-    "\\dfrac{4}{11}",
-    "\\dfrac{1}{11}"
-   ],
-   "answer": 2,
-   "solution": "$P(\\text{red}) = \\dfrac{4}{11} = \\dfrac{4}{11}$."
-  },
-  {
-   "q": "A bag contains 7 red and 2 blue balls. A ball is drawn at random. Find P(red).",
-   "options": [
-    "\\dfrac{7}{9}",
-    "\\dfrac{2}{9}",
-    "\\dfrac{7}{2}",
-    "\\dfrac{1}{9}"
-   ],
-   "answer": 0,
-   "solution": "$P(\\text{red}) = \\dfrac{7}{9} = \\dfrac{7}{9}$."
-  },
-  {
-   "q": "What is $P(\\text{not }E)$ in terms of $P(E)$?",
-   "options": [
-    "P(E)-1",
-    "1-P(E)",
-    "0",
-    "-P(E)"
-   ],
-   "answer": 1,
-   "solution": "The complement's probability."
-  },
-  {
-   "q": "What is $P(\\text{not }E)$ in terms of $P(E)$?",
-   "options": [
-    "0",
-    "P(E)-1",
-    "1-P(E)",
-    "-P(E)"
-   ],
-   "answer": 2,
-   "solution": "The complement's probability."
-  },
-  {
-   "q": "If $A$ and $B$ are mutually exclusive, $P(A\\cup B) =$ ?",
-   "options": [
-    "1",
-    "P(A)-P(B)",
-    "P(A)P(B)",
-    "P(A)+P(B)"
-   ],
-   "answer": 3,
-   "solution": "No overlap, so probabilities add."
-  },
-  {
-   "q": "If $A$ and $B$ are independent, $P(A\\cap B) =$ ?",
-   "options": [
-    "0",
-    "P(A)P(B)",
-    "P(A|B)",
-    "P(A)+P(B)"
-   ],
-   "answer": 1,
-   "solution": "Independence means multiply."
-  },
-  {
-   "q": "Two coins are tossed. Find P(two heads).",
-   "options": [
-    "\\dfrac{1}{2}",
-    "\\dfrac{1}{8}",
-    "\\dfrac{1}{4}",
-    "1"
-   ],
-   "answer": 2,
-   "solution": "$1/2\\times 1/2 = 1/4$."
-  },
-  {
-   "q": "If $A$ and $B$ are mutually exclusive, $P(A\\cup B) =$ ?",
-   "options": [
-    "1",
-    "P(A)P(B)",
-    "P(A)-P(B)",
-    "P(A)+P(B)"
-   ],
-   "answer": 3,
-   "solution": "No overlap, so probabilities add."
-  },
-  {
-   "q": "If $A$ and $B$ are independent, $P(A\\cap B) =$ ?",
-   "options": [
-    "P(A)+P(B)",
-    "0",
-    "P(A|B)",
-    "P(A)P(B)"
-   ],
-   "answer": 3,
-   "solution": "Independence means multiply."
-  },
-  {
-   "q": "Two coins are tossed. Find P(two heads).",
-   "options": [
-    "1",
-    "\\dfrac{1}{8}",
-    "\\dfrac{1}{2}",
-    "\\dfrac{1}{4}"
-   ],
-   "answer": 3,
-   "solution": "$1/2\\times 1/2 = 1/4$."
-  },
-  {
-   "q": "What is $P(\\text{not }E)$ in terms of $P(E)$?",
-   "options": [
-    "P(E)-1",
-    "-P(E)",
-    "0",
-    "1-P(E)"
-   ],
-   "answer": 3,
-   "solution": "The complement's probability."
-  },
-  {
-   "q": "Two coins are tossed. Find P(two heads).",
-   "options": [
-    "1",
-    "\\dfrac{1}{2}",
-    "\\dfrac{1}{4}",
-    "\\dfrac{1}{8}"
-   ],
-   "answer": 2,
-   "solution": "$1/2\\times 1/2 = 1/4$."
-  },
-  {
-   "q": "What is $P(\\text{not }E)$ in terms of $P(E)$?",
-   "options": [
-    "1-P(E)",
-    "P(E)-1",
-    "0",
-    "-P(E)"
-   ],
-   "answer": 0,
-   "solution": "The complement's probability."
-  },
-  {
-   "q": "Two coins are tossed. Find P(two heads).",
-   "options": [
-    "\\dfrac{1}{4}",
-    "1",
-    "\\dfrac{1}{2}",
-    "\\dfrac{1}{8}"
-   ],
-   "answer": 0,
-   "solution": "$1/2\\times 1/2 = 1/4$."
-  },
-  {
-   "q": "Two coins are tossed. Find P(two heads).",
-   "options": [
-    "\\dfrac{1}{2}",
-    "1",
-    "\\dfrac{1}{8}",
-    "\\dfrac{1}{4}"
-   ],
-   "answer": 3,
-   "solution": "$1/2\\times 1/2 = 1/4$."
-  },
-  {
-   "q": "What is $P(\\text{not }E)$ in terms of $P(E)$?",
-   "options": [
-    "0",
-    "P(E)-1",
-    "-P(E)",
-    "1-P(E)"
-   ],
-   "answer": 3,
-   "solution": "The complement's probability."
-  },
-  {
-   "q": "If $A$ and $B$ are independent, $P(A\\cap B) =$ ?",
-   "options": [
-    "0",
-    "P(A)+P(B)",
-    "P(A)P(B)",
-    "P(A|B)"
-   ],
-   "answer": 2,
-   "solution": "Independence means multiply."
-  }
- ]
+  ],
+  "slug": "probability",
+  "subject": "Mathematics",
+  "quiz": [
+    {
+      "q": "A fair die is thrown. Find P(a 3).",
+      "options": [
+        "\\dfrac{1}{6}",
+        "\\dfrac{1}{4}",
+        "\\dfrac{1}{3}",
+        "\\dfrac{1}{2}"
+      ],
+      "answer": 0,
+      "solution": "One favourable outcome out of 6.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A fair die is thrown. Find P(an even number).",
+      "options": [
+        "\\dfrac{1}{2}",
+        "\\dfrac{2}{3}",
+        "\\dfrac{1}{6}",
+        "\\dfrac{1}{3}"
+      ],
+      "answer": 0,
+      "solution": "Even: 2, 4, 6 \u2014 three outcomes out of 6.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A fair die is thrown. Find P(a number greater than 4).",
+      "options": [
+        "\\dfrac{1}{3}",
+        "\\dfrac{1}{6}",
+        "\\dfrac{2}{3}",
+        "\\dfrac{1}{2}"
+      ],
+      "answer": 0,
+      "solution": "Favourable: 5, 6.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A card is drawn from a well-shuffled pack of 52. Find P(King).",
+      "options": [
+        "\\dfrac{1}{52}",
+        "\\dfrac{1}{13}",
+        "\\dfrac{1}{4}",
+        "\\dfrac{4}{13}"
+      ],
+      "answer": 1,
+      "solution": "4 Kings in 52 cards.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A card is drawn. Find P(a red card).",
+      "options": [
+        "\\dfrac{1}{2}",
+        "\\dfrac{1}{26}",
+        "\\dfrac{1}{4}",
+        "\\dfrac{1}{13}"
+      ],
+      "answer": 0,
+      "solution": "26 red cards in 52.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A card is drawn. Find P(a face card).",
+      "options": [
+        "\\dfrac{4}{13}",
+        "\\dfrac{1}{13}",
+        "\\dfrac{1}{4}",
+        "\\dfrac{3}{13}"
+      ],
+      "answer": 3,
+      "solution": "12 face cards in 52.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A card is drawn. Find P(a diamond).",
+      "options": [
+        "\\dfrac{1}{13}",
+        "\\dfrac{1}{2}",
+        "\\dfrac{1}{4}",
+        "\\dfrac{4}{13}"
+      ],
+      "answer": 2,
+      "solution": "13 diamonds in 52.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A bag contains 3 red and 7 blue balls. A ball is drawn at random. Find P(red).",
+      "options": [
+        "\\dfrac{1}{10}",
+        "\\dfrac{7}{10}",
+        "\\dfrac{3}{10}",
+        "\\dfrac{3}{7}"
+      ],
+      "answer": 2,
+      "solution": "$P(\\text{red}) = \\dfrac{3}{10} = \\dfrac{3}{10}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A bag contains 2 red and 4 blue balls. A ball is drawn at random. Find P(red).",
+      "options": [
+        "\\dfrac{4}{6}",
+        "\\dfrac{1}{6}",
+        "\\dfrac{2}{4}",
+        "\\dfrac{1}{3}"
+      ],
+      "answer": 3,
+      "solution": "$P(\\text{red}) = \\dfrac{2}{6} = \\dfrac{1}{3}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A bag contains 2 red and 2 blue balls. A ball is drawn at random. Find P(red).",
+      "options": [
+        "\\dfrac{1}{2}",
+        "\\dfrac{2}{4}",
+        "\\dfrac{2}{2}",
+        "\\dfrac{1}{4}"
+      ],
+      "answer": 0,
+      "solution": "$P(\\text{red}) = \\dfrac{2}{4} = \\dfrac{1}{2}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A bag contains 2 red and 5 blue balls. A ball is drawn at random. Find P(red).",
+      "options": [
+        "\\dfrac{2}{5}",
+        "\\dfrac{5}{7}",
+        "\\dfrac{2}{7}",
+        "\\dfrac{1}{7}"
+      ],
+      "answer": 2,
+      "solution": "$P(\\text{red}) = \\dfrac{2}{7} = \\dfrac{2}{7}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A bag contains 5 red and 4 blue balls. A ball is drawn at random. Find P(red).",
+      "options": [
+        "\\dfrac{1}{9}",
+        "\\dfrac{5}{9}",
+        "\\dfrac{5}{4}",
+        "\\dfrac{4}{9}"
+      ],
+      "answer": 1,
+      "solution": "$P(\\text{red}) = \\dfrac{5}{9} = \\dfrac{5}{9}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A bag contains 5 red and 7 blue balls. A ball is drawn at random. Find P(red).",
+      "options": [
+        "\\dfrac{5}{7}",
+        "\\dfrac{7}{12}",
+        "\\dfrac{5}{12}",
+        "\\dfrac{1}{12}"
+      ],
+      "answer": 2,
+      "solution": "$P(\\text{red}) = \\dfrac{5}{12} = \\dfrac{5}{12}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A bag contains 4 red and 5 blue balls. A ball is drawn at random. Find P(red).",
+      "options": [
+        "\\dfrac{1}{9}",
+        "\\dfrac{4}{9}",
+        "\\dfrac{4}{5}",
+        "\\dfrac{5}{9}"
+      ],
+      "answer": 1,
+      "solution": "$P(\\text{red}) = \\dfrac{4}{9} = \\dfrac{4}{9}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A bag contains 7 red and 2 blue balls. A ball is drawn at random. Find P(red).",
+      "options": [
+        "\\dfrac{2}{9}",
+        "\\dfrac{1}{9}",
+        "\\dfrac{7}{9}",
+        "\\dfrac{7}{2}"
+      ],
+      "answer": 2,
+      "solution": "$P(\\text{red}) = \\dfrac{7}{9} = \\dfrac{7}{9}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A bag contains 7 red and 5 blue balls. A ball is drawn at random. Find P(red).",
+      "options": [
+        "\\dfrac{5}{12}",
+        "\\dfrac{7}{12}",
+        "\\dfrac{1}{12}",
+        "\\dfrac{7}{5}"
+      ],
+      "answer": 1,
+      "solution": "$P(\\text{red}) = \\dfrac{7}{12} = \\dfrac{7}{12}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A bag contains 6 red and 4 blue balls. A ball is drawn at random. Find P(red).",
+      "options": [
+        "\\dfrac{6}{4}",
+        "\\dfrac{4}{10}",
+        "\\dfrac{3}{5}",
+        "\\dfrac{1}{10}"
+      ],
+      "answer": 2,
+      "solution": "$P(\\text{red}) = \\dfrac{6}{10} = \\dfrac{3}{5}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A bag contains 5 red and 2 blue balls. A ball is drawn at random. Find P(red).",
+      "options": [
+        "\\dfrac{2}{7}",
+        "\\dfrac{5}{7}",
+        "\\dfrac{1}{7}",
+        "\\dfrac{5}{2}"
+      ],
+      "answer": 1,
+      "solution": "$P(\\text{red}) = \\dfrac{5}{7} = \\dfrac{5}{7}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A bag contains 3 red and 5 blue balls. A ball is drawn at random. Find P(red).",
+      "options": [
+        "\\dfrac{3}{5}",
+        "\\dfrac{3}{8}",
+        "\\dfrac{1}{8}",
+        "\\dfrac{5}{8}"
+      ],
+      "answer": 1,
+      "solution": "$P(\\text{red}) = \\dfrac{3}{8} = \\dfrac{3}{8}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A bag contains 4 red and 7 blue balls. A ball is drawn at random. Find P(red).",
+      "options": [
+        "\\dfrac{7}{11}",
+        "\\dfrac{4}{7}",
+        "\\dfrac{4}{11}",
+        "\\dfrac{1}{11}"
+      ],
+      "answer": 2,
+      "solution": "$P(\\text{red}) = \\dfrac{4}{11} = \\dfrac{4}{11}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "What is $P(\\text{not }E)$ in terms of $P(E)$?",
+      "options": [
+        "P(E)-1",
+        "1-P(E)",
+        "0",
+        "-P(E)"
+      ],
+      "answer": 1,
+      "solution": "The complement's probability.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "If $A$ and $B$ are mutually exclusive, $P(A\\cup B) =$ ?",
+      "options": [
+        "1",
+        "P(A)-P(B)",
+        "P(A)P(B)",
+        "P(A)+P(B)"
+      ],
+      "answer": 3,
+      "solution": "No overlap, so probabilities add.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "If $A$ and $B$ are independent, $P(A\\cap B) =$ ?",
+      "options": [
+        "0",
+        "P(A)P(B)",
+        "P(A|B)",
+        "P(A)+P(B)"
+      ],
+      "answer": 1,
+      "solution": "Independence means multiply.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Two coins are tossed. Find P(two heads).",
+      "options": [
+        "\\dfrac{1}{2}",
+        "\\dfrac{1}{8}",
+        "\\dfrac{1}{4}",
+        "1"
+      ],
+      "answer": 2,
+      "solution": "$1/2\\times 1/2 = 1/4$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Probability of obtaining a head in a toss of a coin.",
+      "options": [
+        "1/2",
+        "1",
+        "0",
+        "1/4"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: 1/2.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The range of probability is:",
+      "options": [
+        "0 to 1",
+        "-1 to 1",
+        "0 to 100",
+        "1 to 10"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: 0 to 1.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the probability of picking a queen from a standard deck of 52 cards.",
+      "options": [
+        "1/52",
+        "1/13",
+        "4/13",
+        "1/4"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: 1/13.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A bag contains 4 red and 6 black balls. If two balls are picked without replacement, find the probability both are red.",
+      "options": [
+        "2/15",
+        "4/25",
+        "1/5",
+        "6/25"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 2/15.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A box contains 5 red and 3 white balls. What is the probability of picking a white ball?",
+      "options": [
+        "3/8",
+        "5/8",
+        "3/5",
+        "1/2"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: 3/8.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Probability sum equals:",
+      "options": [
+        "1",
+        "0",
+        "100",
+        "Infinite"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 1.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Probability of throwing a 6 with a die.",
+      "options": [
+        "1/2",
+        "1/6",
+        "1/3",
+        "1"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: 1/6.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Range of probability:",
+      "options": [
+        "0 to 1",
+        "-1 to 1",
+        "0 to 100",
+        "1 to 10"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 0 to 1.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Find the midpoint of (0,0) and (6,8).",
+      "options": [
+        "(3,4)",
+        "(6,8)",
+        "(3,8)",
+        "(6,4)"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: (3,4).",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Find the value of $$ \\cos 60^\\circ $$.",
+      "options": [
+        "0.5",
+        "0.866",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 0.5.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Solve $$ |x| = 4 $$.",
+      "options": [
+        "4",
+        "-4",
+        "$$ \\pm 4 $$",
+        "16"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ \\pm 4 $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Integral of $$ x^2 $$ is:",
+      "options": [
+        "$$ x^3/3 + c $$",
+        "$$ 2x + c $$",
+        "$$ x^3 + c $$",
+        "$$ x^2/2 + c $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ x^3/3 + c $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "If $$ f(x) = 2x $$, then $$ f^{-1}(x) $$ is:",
+      "options": [
+        "$$ x/2 $$",
+        "$$ 2x $$",
+        "$$ x-2 $$",
+        "$$ x+2 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ x/2 $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Find the value of $$ 4! $$",
+      "options": [
+        "24",
+        "12",
+        "4",
+        "20"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 24.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Simplify $$ \\frac{2\\sqrt{3} - \\sqrt{2}}{\\sqrt{3} + 2\\sqrt{2}} $$",
+      "options": [
+        "$$ \\frac{10-5\\sqrt{6}}{-5} $$",
+        "$$ -2 + \\sqrt{6} $$",
+        "$$ 2 - \\sqrt{6} $$",
+        "$$ \\sqrt{6} - 2 $$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$ -2 + \\sqrt{6} $$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Solve $$ 4^x = 1/64 $$",
+      "options": [
+        "-3",
+        "3",
+        "-2",
+        "2"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: -3.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first 20 terms of the AP: 2, 5, 8...",
+      "options": [
+        "610",
+        "590",
+        "600",
+        "620"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: 610.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "If $$ A = \\{1, 2, 3\\} $$ and $$ B = \\{2, 3, 4\\} $$, find $$ A \\cap B $$.",
+      "options": [
+        "$$ \\{2, 3\\} $$",
+        "$$ \\{1, 4\\} $$",
+        "$$ \\{1, 2, 3, 4\\} $$",
+        "$$ \\emptyset $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$ \\{2, 3\\} $$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Factorize $$ x^2 - 5x + 6 $$.",
+      "options": [
+        "$$ (x-2)(x-3) $$",
+        "$$ (x+2)(x+3) $$",
+        "$$ (x-1)(x-6) $$",
+        "$$ (x+1)(x-6) $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$ (x-2)(x-3) $$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "If $$ \\sin \\theta = 3/5 $$, find $$ \\cos \\theta $$.",
+      "options": [
+        "4/5",
+        "3/4",
+        "5/4",
+        "5/3"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: 4/5.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Solve $$ 2x - 3 > 5 $$.",
+      "options": [
+        "$$ x > 4 $$",
+        "$$ x < 4 $$",
+        "$$ x > 1 $$",
+        "$$ x < 1 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$ x > 4 $$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $$ y = x^3 - 2x^2 + 5 $$.",
+      "options": [
+        "$$ 3x^2 - 4x $$",
+        "$$ 3x^2 - 2x $$",
+        "$$ x^2 - 4x $$",
+        "$$ 3x^2 + 4x $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$ 3x^2 - 4x $$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Integrate $$ \\int 2x dx $$.",
+      "options": [
+        "$$ x^2 + c $$",
+        "$$ 2x^2 + c $$",
+        "$$ x + c $$",
+        "$$ 2 + c $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$ x^2 + c $$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the mode of 2, 3, 2, 4, 2, 5.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: 2.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Variation: If $$ y \\propto x $$ and $$ y=4 $$ when $$ x=2 $$, find $$ y $$ when $$ x=5 $$.",
+      "options": [
+        "10",
+        "8",
+        "12",
+        "5"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: 10.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$ {}^5P_2 $$",
+      "options": [
+        "20",
+        "10",
+        "60",
+        "12"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: 20.",
+      "source": "JAMB 2022",
+      "practice": false
+    }
+  ]
 }

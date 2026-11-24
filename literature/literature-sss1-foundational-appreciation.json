@@ -1,250 +1,740 @@
 {
- "subject": "Literature",
- "level": "SSS 1",
- "slug": "foundational-appreciation",
- "title": "Foundational Literary Appreciation",
- "outline": [
-  "What literary appreciation means and how it is examined",
-  "Reading an unseen prose passage: content, character, style",
-  "Reading an unseen short poem: subject, persona, form, devices",
-  "Setting: physical, temporal, social and its function",
-  "Theme, subject and moral lesson distinguished",
-  "Model answers and a step-by-step appreciation framework"
- ],
- "modules": [
-  {
-   "title": "Module 1: The Appreciation Framework",
-   "html": "\n<h4>1.1 Meaning of Literary Appreciation</h4>\n<p>Literary appreciation is the informed, evidence-based response to a text: understanding what it says, how it says it, and how well it achieves its purpose. It is not a summary and it is not personal opinion unsupported by the text.</p>\n\n<h4>1.2 The S-P-C-D-T Framework for Unseen Passages</h4>\n<ol>\n<li><strong>S &ndash; Subject/Situation:</strong> What is literally happening? Who is involved?</li>\n<li><strong>P &ndash; Persona/Point of view:</strong> Who is speaking or narrating, and to whom?</li>\n<li><strong>C &ndash; Context/Setting:</strong> Where, when, and in what social condition?</li>\n<li><strong>D &ndash; Devices and Diction:</strong> Which images, figures, sounds and word choices dominate?</li>\n<li><strong>T &ndash; Tone and Theme:</strong> What attitude is conveyed, and what larger idea emerges?</li>\n</ol>\n<p>Write each answer as: <em>point &rarr; textual evidence &rarr; effect</em>. Without the third step an answer earns only half credit.</p>\n\n<h4>1.3 Setting and Its Functions</h4>\n<table class=\"tb-table\">\n<tr><th>Type of Setting</th><th>Question It Answers</th><th>Example</th></tr>\n<tr><td>Physical/geographical</td><td>Where?</td><td>A dusty market square in a northern town</td></tr>\n<tr><td>Temporal</td><td>When?</td><td>The eve of independence; harmattan season; 1912</td></tr>\n<tr><td>Social/cultural</td><td>Among whom, under what values?</td><td>A rigid, class-conscious industrial family</td></tr>\n<tr><td>Psychological</td><td>In what state of mind?</td><td>A household paralysed by grief</td></tr>\n</table>\n<p>Functions of setting: creating atmosphere; shaping character; generating conflict; supporting theme; establishing credibility; and sometimes acting almost as a character in itself.</p>\n\n<h4>1.4 Subject, Theme and Moral</h4>\n<p>The <strong>subject</strong> is what the work is about on the surface (a trial, a marriage negotiation). The <strong>theme</strong> is the central idea explored (injustice, greed, integrity), best stated as a full statement: \"the corrupting power of poverty\". The <strong>moral</strong> is the practical lesson (\"one should not exploit one's child for money\"). Examiners penalise candidates who give a one-word subject where a theme is required.</p>\n",
-   "examples": [
+  "subject": "Literature",
+  "level": "SSS 1",
+  "slug": "foundational-appreciation",
+  "title": "Foundational Literary Appreciation",
+  "outline": [
+    "What literary appreciation means and how it is examined",
+    "Reading an unseen prose passage: content, character, style",
+    "Reading an unseen short poem: subject, persona, form, devices",
+    "Setting: physical, temporal, social and its function",
+    "Theme, subject and moral lesson distinguished",
+    "Model answers and a step-by-step appreciation framework"
+  ],
+  "modules": [
     {
-     "q": "Read the passage: \"The harmattan had cracked the earth into small brown plates. Mama Nkechi spread her wares under the mango tree, though no buyer had come since morning. Her son's school fees lay unpaid in her chest, folded with the letter she could not read.\" Attempt a brief appreciation using the S-P-C-D-T framework.",
-     "a": "<strong>Subject/Situation:</strong> A petty trader waits fruitlessly for customers while an unpaid school fee weighs on her. <strong>Persona/Point of view:</strong> Third-person limited narration anchored in Mama Nkechi's consciousness; the narrator knows the contents of her chest and her inability to read. <strong>Context/Setting:</strong> A rural or semi-urban Nigerian market during the dry harmattan season; a poor, semi-literate social world. <strong>Devices and diction:</strong> The image 'cracked the earth into small brown plates' is both visual and symbolic &mdash; the fractured land mirrors her fractured economic life; 'no buyer had come since morning' is understatement that conveys prolonged futility; the letter 'she could not read' is a symbol of exclusion by illiteracy. <strong>Tone and theme:</strong> The tone is quiet and sympathetic rather than angry; the theme is the burden of poverty and illiteracy on the rural woman who nevertheless persists for her child's education."
-    }
-   ]
-  },
-  {
-   "title": "Module 2: Appreciating an Unseen Poem",
-   "html": "\n<h4>2.1 Steps for a Short Unseen Poem</h4>\n<ol>\n<li>Read it twice: once for sense, once aloud for sound.</li>\n<li>Paraphrase each stanza in one sentence.</li>\n<li>Identify the persona and the addressee.</li>\n<li>Count lines per stanza and mark the rhyme scheme with letters.</li>\n<li>Underline images and group them (nature? war? decay? light?).</li>\n<li>Note the shift or turn (<em>volta</em>) &mdash; often marked by 'but', 'yet', 'now'.</li>\n<li>State tone, then theme, then overall effect.</li>\n</ol>\n\n<h4>2.2 Rhythm and Metre in Brief</h4>\n<p>Metre is the regular pattern of stressed (/) and unstressed (&times;) syllables. The commonest English foot is the <strong>iamb</strong> (&times; /). A line of five iambs is iambic pentameter:</p>\n$$ \\times\\, /\\ \\ \\times\\, /\\ \\ \\times\\, /\\ \\ \\times\\, /\\ \\ \\times\\, / $$\n<p>Other feet: trochee ( / &times; ), anapaest ( &times; &times; / ), dactyl ( / &times; &times; ), spondee ( / / ). Line lengths: monometer (1 foot), dimeter (2), trimeter (3), tetrameter (4), pentameter (5), hexameter (6). Free verse has no fixed metre or rhyme; blank verse is unrhymed iambic pentameter.</p>\n\n<h4>2.3 Imagery Types</h4>\n<ul>\n<li><strong>Visual</strong> &ndash; sight: \"a rust-red roof\".</li>\n<li><strong>Auditory</strong> &ndash; sound: \"the clatter of tin pans\".</li>\n<li><strong>Tactile</strong> &ndash; touch: \"the rasp of dry palm fronds\".</li>\n<li><strong>Olfactory</strong> &ndash; smell: \"the sour breath of the gutter\".</li>\n<li><strong>Gustatory</strong> &ndash; taste: \"the bitterness of unripe pawpaw\".</li>\n<li><strong>Kinaesthetic</strong> &ndash; movement: \"the market swelled and heaved\".</li>\n</ul>\n",
-   "examples": [
-    {
-     "q": "Scan and comment on the metre of the line: \"The cur-few tolls the knell of part-ing day.\"",
-     "a": "The line divides into five feet, each an unstressed syllable followed by a stressed one: The CUR | few TOLLS | the KNELL | of PART | ing DAY, that is \\( \\times / \\ \\times / \\ \\times / \\ \\times / \\ \\times / \\) &mdash; iambic pentameter. The steady, unhurried beat imitates the slow, regular tolling of the evening bell, and the heavy stresses on 'tolls', 'knell' and 'day' foreground death and ending, preparing the elegiac mood of the poem."
+      "title": "Module 1: The Appreciation Framework",
+      "html": "\n<h4>1.1 Meaning of Literary Appreciation</h4>\n<p>Literary appreciation is the informed, evidence-based response to a text: understanding what it says, how it says it, and how well it achieves its purpose. It is not a summary and it is not personal opinion unsupported by the text.</p>\n\n<h4>1.2 The S-P-C-D-T Framework for Unseen Passages</h4>\n<ol>\n<li><strong>S &ndash; Subject/Situation:</strong> What is literally happening? Who is involved?</li>\n<li><strong>P &ndash; Persona/Point of view:</strong> Who is speaking or narrating, and to whom?</li>\n<li><strong>C &ndash; Context/Setting:</strong> Where, when, and in what social condition?</li>\n<li><strong>D &ndash; Devices and Diction:</strong> Which images, figures, sounds and word choices dominate?</li>\n<li><strong>T &ndash; Tone and Theme:</strong> What attitude is conveyed, and what larger idea emerges?</li>\n</ol>\n<p>Write each answer as: <em>point &rarr; textual evidence &rarr; effect</em>. Without the third step an answer earns only half credit.</p>\n\n<h4>1.3 Setting and Its Functions</h4>\n<table class=\"tb-table\">\n<tr><th>Type of Setting</th><th>Question It Answers</th><th>Example</th></tr>\n<tr><td>Physical/geographical</td><td>Where?</td><td>A dusty market square in a northern town</td></tr>\n<tr><td>Temporal</td><td>When?</td><td>The eve of independence; harmattan season; 1912</td></tr>\n<tr><td>Social/cultural</td><td>Among whom, under what values?</td><td>A rigid, class-conscious industrial family</td></tr>\n<tr><td>Psychological</td><td>In what state of mind?</td><td>A household paralysed by grief</td></tr>\n</table>\n<p>Functions of setting: creating atmosphere; shaping character; generating conflict; supporting theme; establishing credibility; and sometimes acting almost as a character in itself.</p>\n\n<h4>1.4 Subject, Theme and Moral</h4>\n<p>The <strong>subject</strong> is what the work is about on the surface (a trial, a marriage negotiation). The <strong>theme</strong> is the central idea explored (injustice, greed, integrity), best stated as a full statement: \"the corrupting power of poverty\". The <strong>moral</strong> is the practical lesson (\"one should not exploit one's child for money\"). Examiners penalise candidates who give a one-word subject where a theme is required.</p>\n",
+      "examples": [
+        {
+          "q": "Read the passage: \"The harmattan had cracked the earth into small brown plates. Mama Nkechi spread her wares under the mango tree, though no buyer had come since morning. Her son's school fees lay unpaid in her chest, folded with the letter she could not read.\" Attempt a brief appreciation using the S-P-C-D-T framework.",
+          "a": "<strong>Subject/Situation:</strong> A petty trader waits fruitlessly for customers while an unpaid school fee weighs on her. <strong>Persona/Point of view:</strong> Third-person limited narration anchored in Mama Nkechi's consciousness; the narrator knows the contents of her chest and her inability to read. <strong>Context/Setting:</strong> A rural or semi-urban Nigerian market during the dry harmattan season; a poor, semi-literate social world. <strong>Devices and diction:</strong> The image 'cracked the earth into small brown plates' is both visual and symbolic &mdash; the fractured land mirrors her fractured economic life; 'no buyer had come since morning' is understatement that conveys prolonged futility; the letter 'she could not read' is a symbol of exclusion by illiteracy. <strong>Tone and theme:</strong> The tone is quiet and sympathetic rather than angry; the theme is the burden of poverty and illiteracy on the rural woman who nevertheless persists for her child's education."
+        }
+      ]
     },
     {
-     "q": "A four-line poem reads: 'They took the land, they took the name, / They left us songs to sing; / And in the songs, still burning, came / The morning of our spring.' Comment on structure, devices and theme.",
-     "a": "Structurally it is a single quatrain rhyming abab ('name/came' = a, 'sing/spring' = b), with a broadly iambic tetrameter and trimeter alternation that recalls the ballad measure of communal song &mdash; appropriate to a poem about songs. The repetition (anaphora) of 'they took' in line 1 stresses the completeness of colonial dispossession, while the antithesis of 'took' and 'left' turns loss into inheritance. 'Still burning' is a metaphor of preserved resistance, and 'the morning of our spring' is a double metaphor for rebirth and national awakening. The tone shifts at 'And' from lament to hope. The theme is cultural survival: material and political loss cannot destroy a people whose art keeps memory and hope alive."
-    }
-   ]
-  },
-  {
-   "title": "Module 3: Writing the Answer",
-   "html": "\n<h4>3.1 Structure of a Good Appreciation Answer</h4>\n<ol>\n<li><strong>Opening sentence:</strong> genre, situation and dominant impression in one line.</li>\n<li><strong>Body paragraph 1:</strong> content and character/persona.</li>\n<li><strong>Body paragraph 2:</strong> setting and structure.</li>\n<li><strong>Body paragraph 3:</strong> language, imagery and sound devices, each with a quotation.</li>\n<li><strong>Closing paragraph:</strong> tone, theme and evaluation.</li>\n</ol>\n\n<h4>3.2 Useful Analytical Vocabulary</h4>\n<p>The writer <em>suggests, evokes, juxtaposes, undercuts, foregrounds, dramatises, understates, heightens</em>; the effect is <em>ironic, elegiac, satirical, nostalgic, defiant, resigned, celebratory</em>. Avoid vague praise such as \"the poem is very interesting and the writer used good English\".</p>\n\n<h4>3.3 Common Errors</h4>\n<ul>\n<li>Retelling the passage instead of analysing it.</li>\n<li>Naming a device without quoting or explaining it.</li>\n<li>Confusing the poet with the persona.</li>\n<li>Confusing tone (writer's attitude) with mood (reader's feeling).</li>\n<li>Giving a one-word theme such as \"poverty\" instead of a full thematic statement.</li>\n<li>Ignoring the number of marks and writing three lines for a ten-mark question.</li>\n</ul>\n",
-   "examples": [
+      "title": "Module 2: Appreciating an Unseen Poem",
+      "html": "\n<h4>2.1 Steps for a Short Unseen Poem</h4>\n<ol>\n<li>Read it twice: once for sense, once aloud for sound.</li>\n<li>Paraphrase each stanza in one sentence.</li>\n<li>Identify the persona and the addressee.</li>\n<li>Count lines per stanza and mark the rhyme scheme with letters.</li>\n<li>Underline images and group them (nature? war? decay? light?).</li>\n<li>Note the shift or turn (<em>volta</em>) &mdash; often marked by 'but', 'yet', 'now'.</li>\n<li>State tone, then theme, then overall effect.</li>\n</ol>\n\n<h4>2.2 Rhythm and Metre in Brief</h4>\n<p>Metre is the regular pattern of stressed (/) and unstressed (&times;) syllables. The commonest English foot is the <strong>iamb</strong> (&times; /). A line of five iambs is iambic pentameter:</p>\n$$ \\times\\, /\\ \\ \\times\\, /\\ \\ \\times\\, /\\ \\ \\times\\, /\\ \\ \\times\\, / $$\n<p>Other feet: trochee ( / &times; ), anapaest ( &times; &times; / ), dactyl ( / &times; &times; ), spondee ( / / ). Line lengths: monometer (1 foot), dimeter (2), trimeter (3), tetrameter (4), pentameter (5), hexameter (6). Free verse has no fixed metre or rhyme; blank verse is unrhymed iambic pentameter.</p>\n\n<h4>2.3 Imagery Types</h4>\n<ul>\n<li><strong>Visual</strong> &ndash; sight: \"a rust-red roof\".</li>\n<li><strong>Auditory</strong> &ndash; sound: \"the clatter of tin pans\".</li>\n<li><strong>Tactile</strong> &ndash; touch: \"the rasp of dry palm fronds\".</li>\n<li><strong>Olfactory</strong> &ndash; smell: \"the sour breath of the gutter\".</li>\n<li><strong>Gustatory</strong> &ndash; taste: \"the bitterness of unripe pawpaw\".</li>\n<li><strong>Kinaesthetic</strong> &ndash; movement: \"the market swelled and heaved\".</li>\n</ul>\n",
+      "examples": [
+        {
+          "q": "Scan and comment on the metre of the line: \"The cur-few tolls the knell of part-ing day.\"",
+          "a": "The line divides into five feet, each an unstressed syllable followed by a stressed one: The CUR | few TOLLS | the KNELL | of PART | ing DAY, that is \\( \\times / \\ \\times / \\ \\times / \\ \\times / \\ \\times / \\) &mdash; iambic pentameter. The steady, unhurried beat imitates the slow, regular tolling of the evening bell, and the heavy stresses on 'tolls', 'knell' and 'day' foreground death and ending, preparing the elegiac mood of the poem."
+        },
+        {
+          "q": "A four-line poem reads: 'They took the land, they took the name, / They left us songs to sing; / And in the songs, still burning, came / The morning of our spring.' Comment on structure, devices and theme.",
+          "a": "Structurally it is a single quatrain rhyming abab ('name/came' = a, 'sing/spring' = b), with a broadly iambic tetrameter and trimeter alternation that recalls the ballad measure of communal song &mdash; appropriate to a poem about songs. The repetition (anaphora) of 'they took' in line 1 stresses the completeness of colonial dispossession, while the antithesis of 'took' and 'left' turns loss into inheritance. 'Still burning' is a metaphor of preserved resistance, and 'the morning of our spring' is a double metaphor for rebirth and national awakening. The tone shifts at 'And' from lament to hope. The theme is cultural survival: material and political loss cannot destroy a people whose art keeps memory and hope alive."
+        }
+      ]
+    },
     {
-     "q": "Turn the weak comment \"The poet used alliteration which makes the poem beautiful\" into a full-credit comment.",
-     "a": "\"The alliteration of the harsh /k/ sound in 'cracked, caked and cold' reproduces the brittle dryness of the drought-stricken land and makes the reader's mouth work as hard as the farmer's hoe, so that the sound pattern enacts the very hardship the stanza describes.\" The improved comment quotes the evidence, identifies the specific sound, and explains a precise effect linked to meaning."
+      "title": "Module 3: Writing the Answer",
+      "html": "\n<h4>3.1 Structure of a Good Appreciation Answer</h4>\n<ol>\n<li><strong>Opening sentence:</strong> genre, situation and dominant impression in one line.</li>\n<li><strong>Body paragraph 1:</strong> content and character/persona.</li>\n<li><strong>Body paragraph 2:</strong> setting and structure.</li>\n<li><strong>Body paragraph 3:</strong> language, imagery and sound devices, each with a quotation.</li>\n<li><strong>Closing paragraph:</strong> tone, theme and evaluation.</li>\n</ol>\n\n<h4>3.2 Useful Analytical Vocabulary</h4>\n<p>The writer <em>suggests, evokes, juxtaposes, undercuts, foregrounds, dramatises, understates, heightens</em>; the effect is <em>ironic, elegiac, satirical, nostalgic, defiant, resigned, celebratory</em>. Avoid vague praise such as \"the poem is very interesting and the writer used good English\".</p>\n\n<h4>3.3 Common Errors</h4>\n<ul>\n<li>Retelling the passage instead of analysing it.</li>\n<li>Naming a device without quoting or explaining it.</li>\n<li>Confusing the poet with the persona.</li>\n<li>Confusing tone (writer's attitude) with mood (reader's feeling).</li>\n<li>Giving a one-word theme such as \"poverty\" instead of a full thematic statement.</li>\n<li>Ignoring the number of marks and writing three lines for a ten-mark question.</li>\n</ul>\n",
+      "examples": [
+        {
+          "q": "Turn the weak comment \"The poet used alliteration which makes the poem beautiful\" into a full-credit comment.",
+          "a": "\"The alliteration of the harsh /k/ sound in 'cracked, caked and cold' reproduces the brittle dryness of the drought-stricken land and makes the reader's mouth work as hard as the farmer's hoe, so that the sound pattern enacts the very hardship the stanza describes.\" The improved comment quotes the evidence, identifies the specific sound, and explains a precise effect linked to meaning."
+        }
+      ]
+    },
+    {
+      "title": "What literary appreciation means and how it is examined",
+      "html": "<p><b>What literary appreciation means and how it is examined</b> is a key part of Foundational Literary Appreciation (SSS 1, Literature). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>1.1 Meaning of Literary Appreciation Literary appreciation is the informed, evidence-based response to a text: understanding what it says, how it says it, and how well it achieves its purpose.</li><li>3.1 Structure of a Good Appreciation Answer Opening sentence: genre, situation and dominant impression in one line.</li><li>Appreciation requires analysis of what a text says and how it says it, supported by textual evidence, not mere summary or praise.</li><li>Penta- means five, so pentameter is a five-foot line.</li></ul><h4>Worked example</h4><p><b>Q:</b> Literary appreciation is best described as<br/><b>A:</b> an evidence-based analysis of content and technique \u2014 Appreciation requires analysis of what a text says and how it says it, supported by textual evidence, not mere summary or praise.</p><p><b>Q:</b> A line of poetry containing five metrical feet is a<br/><b>A:</b> pentameter \u2014 Penta- means five, so pentameter is a five-foot line.</p>",
+      "examples": [
+        {
+          "q": "Literary appreciation is best described as",
+          "a": "an evidence-based analysis of content and technique \u2014 Appreciation requires analysis of what a text says and how it says it, supported by textual evidence, not mere summary or praise."
+        },
+        {
+          "q": "A line of poetry containing five metrical feet is a",
+          "a": "pentameter \u2014 Penta- means five, so pentameter is a five-foot line."
+        }
+      ]
+    },
+    {
+      "title": "Reading an unseen prose passage: content, character, style",
+      "html": "<p><b>Reading an unseen prose passage: content, character, style</b> is a key part of Foundational Literary Appreciation (SSS 1, Literature). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>1.2 The S-P-C-D-T Framework for Unseen Passages S &ndash; Subject/Situation: What is literally happening?</li><li>A household paralysed by grief Functions of setting: creating atmosphere; shaping character; generating conflict; supporting theme; establishing credibility; and sometimes acting almost as a character in itself.</li><li>2.1 Steps for a Short Unseen Poem Read it twice: once for sense, once aloud for sound.</li><li>Body paragraph 1: content and character/persona.</li><li>3.3 Common Errors Retelling the passage instead of analysing it.</li></ul><h4>Worked example</h4><p><b>Q:</b> In analysing an unseen passage, the most important final step is to<br/><b>A:</b> state the effect of the device on meaning \u2014 Marks are awarded chiefly for explaining how a device contributes to meaning or effect, not merely for identifying it.</p>",
+      "examples": [
+        {
+          "q": "In analysing an unseen passage, the most important final step is to",
+          "a": "state the effect of the device on meaning \u2014 Marks are awarded chiefly for explaining how a device contributes to meaning or effect, not merely for identifying it."
+        }
+      ]
+    },
+    {
+      "title": "Reading an unseen short poem: subject, persona, form, devices",
+      "html": "<p><b>Reading an unseen short poem: subject, persona, form, devices</b> is a key part of Foundational Literary Appreciation (SSS 1, Literature). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>1.1 Meaning of Literary Appreciation Literary appreciation is the informed, evidence-based response to a text: understanding what it says, how it says it, and how well it achieves its purpose.</li><li>It is not a summary and it is not personal opinion unsupported by the text.</li><li>1.2 The S-P-C-D-T Framework for Unseen Passages S &ndash; Subject/Situation: What is literally happening?</li><li>P &ndash; Persona/Point of view: Who is speaking or narrating, and to whom?</li><li>D &ndash; Devices and Diction: Which images, figures, sounds and word choices dominate?</li></ul><h4>Worked example</h4><p><b>Q:</b> Which of the following best expresses a THEME rather than a subject?<br/><b>A:</b> Greed corrupts family relationships \u2014 A theme should be stated as a complete idea or claim about life; single nouns like 'marriage' or 'poverty' are only subjects.</p><p><b>Q:</b> The emotional atmosphere a work creates in the reader is the<br/><b>A:</b> mood \u2014 Mood is the atmosphere felt by the reader; tone is the writer's or speaker's attitude to the subject.</p>",
+      "examples": [
+        {
+          "q": "Which of the following best expresses a THEME rather than a subject?",
+          "a": "Greed corrupts family relationships \u2014 A theme should be stated as a complete idea or claim about life; single nouns like 'marriage' or 'poverty' are only subjects."
+        },
+        {
+          "q": "The emotional atmosphere a work creates in the reader is the",
+          "a": "mood \u2014 Mood is the atmosphere felt by the reader; tone is the writer's or speaker's attitude to the subject."
+        }
+      ]
     }
-   ]
-  }
- ],
- "quiz": [
-  {
-   "q": "Literary appreciation is best described as",
-   "options": [
-    "retelling the story in one's own words",
-    "an evidence-based analysis of content and technique",
-    "praising the writer's language",
-    "memorising quotations"
-   ],
-   "answer": "1",
-   "solution": "Appreciation requires analysis of what a text says and how it says it, supported by textual evidence, not mere summary or praise."
-  },
-  {
-   "q": "The time and place in which the events of a work occur is the",
-   "options": [
-    "plot",
-    "setting",
-    "theme",
-    "style"
-   ],
-   "answer": "1",
-   "solution": "Setting covers the physical location, the historical time and the social environment of a work."
-  },
-  {
-   "q": "Which of the following best expresses a THEME rather than a subject?",
-   "options": [
-    "Marriage",
-    "Poverty",
-    "Greed corrupts family relationships",
-    "A village trial"
-   ],
-   "answer": "2",
-   "solution": "A theme should be stated as a complete idea or claim about life; single nouns like 'marriage' or 'poverty' are only subjects."
-  },
-  {
-   "q": "The emotional atmosphere a work creates in the reader is the",
-   "options": [
-    "tone",
-    "mood",
-    "diction",
-    "motif"
-   ],
-   "answer": "1",
-   "solution": "Mood is the atmosphere felt by the reader; tone is the writer's or speaker's attitude to the subject."
-  },
-  {
-   "q": "Unrhymed iambic pentameter is known as",
-   "options": [
-    "free verse",
-    "blank verse",
-    "doggerel",
-    "sprung rhythm"
-   ],
-   "answer": "1",
-   "solution": "Blank verse has regular iambic pentameter but no rhyme; free verse has neither fixed metre nor rhyme."
-  },
-  {
-   "q": "A line of poetry containing five metrical feet is a",
-   "options": [
-    "tetrameter",
-    "pentameter",
-    "hexameter",
-    "trimeter"
-   ],
-   "answer": "1",
-   "solution": "Penta- means five, so pentameter is a five-foot line."
-  },
-  {
-   "q": "The image 'the sour breath of the gutter' appeals mainly to the sense of",
-   "options": [
-    "sight",
-    "smell",
-    "taste",
-    "touch"
-   ],
-   "answer": "1",
-   "solution": "'Breath' and 'sour' here evoke odour, making this olfactory imagery."
-  },
-  {
-   "q": "The turning point or shift of thought in a poem is called the",
-   "options": [
-    "volta",
-    "caesura",
-    "enjambment",
-    "refrain"
-   ],
-   "answer": "0",
-   "solution": "The volta is the turn in argument or feeling, often signalled by words like 'but' or 'yet'."
-  },
-  {
-   "q": "When a sentence runs on from one line of verse to the next without pause, the device is",
-   "options": [
-    "caesura",
-    "enjambment",
-    "elision",
-    "inversion"
-   ],
-   "answer": "1",
-   "solution": "Enjambment carries the sense over the line break; a caesura is a pause within a line."
-  },
-  {
-   "q": "In analysing an unseen passage, the most important final step is to",
-   "options": [
-    "count the words",
-    "state the effect of the device on meaning",
-    "name the author",
-    "list all the verbs"
-   ],
-   "answer": "1",
-   "solution": "Marks are awarded chiefly for explaining how a device contributes to meaning or effect, not merely for identifying it."
-  },
-  {
-   "q": "The persona of a poem is",
-   "options": [
-    "always the poet himself",
-    "the voice created to speak the poem",
-    "the poem's main image",
-    "the reader"
-   ],
-   "answer": "1",
-   "solution": "The persona is a created speaker; identifying it with the poet is a common error."
-  },
-  {
-   "q": "Which type of setting refers to the values, class and customs surrounding the characters?",
-   "options": [
-    "Physical setting",
-    "Temporal setting",
-    "Social setting",
-    "Psychological setting"
-   ],
-   "answer": "2",
-   "solution": "Social setting describes the cultural norms, class structures and beliefs within which characters act."
-  },
-  {
-   "q": "A pause deliberately placed within a line of verse is a",
-   "options": [
-    "caesura",
-    "stanza break",
-    "volta",
-    "refrain"
-   ],
-   "answer": "0",
-   "solution": "The caesura is an internal pause, often marked by punctuation, which varies the rhythm."
-  },
-  {
-   "q": "Which of these is NOT a function of setting?",
-   "options": [
-    "Creating atmosphere",
-    "Shaping character",
-    "Providing the rhyme scheme",
-    "Generating conflict"
-   ],
-   "answer": "2",
-   "solution": "Rhyme scheme is a feature of poetic form, unconnected with setting."
-  },
-  {
-   "q": "Verse with no regular metre, rhyme or line length is",
-   "options": [
-    "blank verse",
-    "free verse",
-    "heroic couplet",
-    "terza rima"
-   ],
-   "answer": "1",
-   "solution": "Free verse abandons regular metre and rhyme, relying on natural speech rhythms and line arrangement."
-  },
-  {
-   "q": "'The clatter of tin pans' is an example of",
-   "options": [
-    "visual imagery",
-    "auditory imagery",
-    "gustatory imagery",
-    "tactile imagery"
-   ],
-   "answer": "1",
-   "solution": "'Clatter' appeals to the ear, making this auditory imagery."
-  },
-  {
-   "q": "The best opening for an appreciation answer should",
-   "options": [
-    "summarise the whole passage",
-    "state genre, situation and dominant impression",
-    "give the candidate's personal feelings",
-    "list all the devices used"
-   ],
-   "answer": "1",
-   "solution": "A focused opening naming genre, situation and dominant impression orients the examiner and sets up an argument."
-  },
-  {
-   "q": "A candidate who names a device but never quotes or explains it will",
-   "options": [
-    "gain full marks",
-    "lose the marks reserved for effect",
-    "gain marks for style only",
-    "be disqualified"
-   ],
-   "answer": "1",
-   "solution": "Identification alone earns limited credit; the marks for illustration and effect are lost."
-  }
- ]
+  ],
+  "quiz": [
+    {
+      "q": "Literary appreciation is best described as",
+      "options": [
+        "retelling the story in one's own words",
+        "an evidence-based analysis of content and technique",
+        "praising the writer's language",
+        "memorising quotations"
+      ],
+      "answer": 1,
+      "solution": "Appreciation requires analysis of what a text says and how it says it, supported by textual evidence, not mere summary or praise.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The time and place in which the events of a work occur is the",
+      "options": [
+        "plot",
+        "setting",
+        "theme",
+        "style"
+      ],
+      "answer": 1,
+      "solution": "Setting covers the physical location, the historical time and the social environment of a work.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of the following best expresses a THEME rather than a subject?",
+      "options": [
+        "Marriage",
+        "Poverty",
+        "Greed corrupts family relationships",
+        "A village trial"
+      ],
+      "answer": 2,
+      "solution": "A theme should be stated as a complete idea or claim about life; single nouns like 'marriage' or 'poverty' are only subjects.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The emotional atmosphere a work creates in the reader is the",
+      "options": [
+        "tone",
+        "mood",
+        "diction",
+        "motif"
+      ],
+      "answer": 1,
+      "solution": "Mood is the atmosphere felt by the reader; tone is the writer's or speaker's attitude to the subject.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Unrhymed iambic pentameter is known as",
+      "options": [
+        "free verse",
+        "blank verse",
+        "doggerel",
+        "sprung rhythm"
+      ],
+      "answer": 1,
+      "solution": "Blank verse has regular iambic pentameter but no rhyme; free verse has neither fixed metre nor rhyme.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A line of poetry containing five metrical feet is a",
+      "options": [
+        "tetrameter",
+        "pentameter",
+        "hexameter",
+        "trimeter"
+      ],
+      "answer": 1,
+      "solution": "Penta- means five, so pentameter is a five-foot line.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The image 'the sour breath of the gutter' appeals mainly to the sense of",
+      "options": [
+        "sight",
+        "smell",
+        "taste",
+        "touch"
+      ],
+      "answer": 1,
+      "solution": "'Breath' and 'sour' here evoke odour, making this olfactory imagery.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The turning point or shift of thought in a poem is called the",
+      "options": [
+        "volta",
+        "caesura",
+        "enjambment",
+        "refrain"
+      ],
+      "answer": 0,
+      "solution": "The volta is the turn in argument or feeling, often signalled by words like 'but' or 'yet'.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "When a sentence runs on from one line of verse to the next without pause, the device is",
+      "options": [
+        "caesura",
+        "enjambment",
+        "elision",
+        "inversion"
+      ],
+      "answer": 1,
+      "solution": "Enjambment carries the sense over the line break; a caesura is a pause within a line.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In analysing an unseen passage, the most important final step is to",
+      "options": [
+        "count the words",
+        "state the effect of the device on meaning",
+        "name the author",
+        "list all the verbs"
+      ],
+      "answer": 1,
+      "solution": "Marks are awarded chiefly for explaining how a device contributes to meaning or effect, not merely for identifying it.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The persona of a poem is",
+      "options": [
+        "always the poet himself",
+        "the voice created to speak the poem",
+        "the poem's main image",
+        "the reader"
+      ],
+      "answer": 1,
+      "solution": "The persona is a created speaker; identifying it with the poet is a common error.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which type of setting refers to the values, class and customs surrounding the characters?",
+      "options": [
+        "Physical setting",
+        "Temporal setting",
+        "Social setting",
+        "Psychological setting"
+      ],
+      "answer": 2,
+      "solution": "Social setting describes the cultural norms, class structures and beliefs within which characters act.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A pause deliberately placed within a line of verse is a",
+      "options": [
+        "caesura",
+        "stanza break",
+        "volta",
+        "refrain"
+      ],
+      "answer": 0,
+      "solution": "The caesura is an internal pause, often marked by punctuation, which varies the rhythm.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of these is NOT a function of setting?",
+      "options": [
+        "Creating atmosphere",
+        "Shaping character",
+        "Providing the rhyme scheme",
+        "Generating conflict"
+      ],
+      "answer": 2,
+      "solution": "Rhyme scheme is a feature of poetic form, unconnected with setting.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Verse with no regular metre, rhyme or line length is",
+      "options": [
+        "blank verse",
+        "free verse",
+        "heroic couplet",
+        "terza rima"
+      ],
+      "answer": 1,
+      "solution": "Free verse abandons regular metre and rhyme, relying on natural speech rhythms and line arrangement.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "'The clatter of tin pans' is an example of",
+      "options": [
+        "visual imagery",
+        "auditory imagery",
+        "gustatory imagery",
+        "tactile imagery"
+      ],
+      "answer": 1,
+      "solution": "'Clatter' appeals to the ear, making this auditory imagery.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The best opening for an appreciation answer should",
+      "options": [
+        "summarise the whole passage",
+        "state genre, situation and dominant impression",
+        "give the candidate's personal feelings",
+        "list all the devices used"
+      ],
+      "answer": 1,
+      "solution": "A focused opening naming genre, situation and dominant impression orients the examiner and sets up an argument.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A candidate who names a device but never quotes or explains it will",
+      "options": [
+        "gain full marks",
+        "lose the marks reserved for effect",
+        "gain marks for style only",
+        "be disqualified"
+      ],
+      "answer": 1,
+      "solution": "Identification alone earns limited credit; the marks for illustration and effect are lost.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The moral or message of a literary work is its _____.",
+      "options": [
+        "Theme",
+        "Motif",
+        "Style",
+        "Subject"
+      ],
+      "answer": 0,
+      "solution": "A theme is a central idea or underlying message that the author explores throughout the text.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The main character in a literary work is the:",
+      "options": [
+        "Antagonist",
+        "Protagonist",
+        "Villain",
+        "Narrator"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Protagonist.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "A literary work written in the form of letters is:",
+      "options": [
+        "Epistolary",
+        "Autobiographical",
+        "Historical",
+        "Pastoral"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: Epistolary.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The struggle between two opposing forces in a literary work is called _____.",
+      "options": [
+        "Climax",
+        "Conflict",
+        "Denouement",
+        "Exposition"
+      ],
+      "answer": 1,
+      "solution": "Conflict is the essence of plot; it can be internal (man vs self) or external (man vs man/nature/society).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The literary device used to give a hint of what is to happen later in a story is _____.",
+      "options": [
+        "Flashback",
+        "In media res",
+        "Foreshadowing",
+        "Juxtaposition"
+      ],
+      "answer": 2,
+      "solution": "Foreshadowing provides clues or hints to prepare the reader for future events in the plot.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A literary work that ridicules human folly or vice with the aim of correcting it is a _____.",
+      "options": [
+        "Comedy",
+        "Farce",
+        "Satire",
+        "Tragedy"
+      ],
+      "answer": 2,
+      "solution": "Satire uses humor, irony, and ridicule to expose and criticize people's stupidity or vices, particularly in the context of contemporary politics and other topical issues.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The central idea or underlying message of a literary work is its _____.",
+      "options": [
+        "Plot",
+        "Theme",
+        "Setting",
+        "Diction"
+      ],
+      "answer": 1,
+      "solution": "A theme is a universal idea, lesson, or message that an author explores through a story.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The central idea of a literary work is the:",
+      "options": [
+        "Plot",
+        "Theme",
+        "Setting",
+        "Style"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Theme.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "A literary work depicting the life of a shepherd is:",
+      "options": [
+        "Pastoral",
+        "Urban",
+        "Gothic",
+        "Historical"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Pastoral.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The central idea or message of a literary work is the:",
+      "options": [
+        "Plot",
+        "Theme",
+        "Setting",
+        "Subject matter"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Theme.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The feeling created in the reader by a literary work is:",
+      "options": [
+        "Tone",
+        "Mood",
+        "Style",
+        "Theme"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Mood.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The central idea or message in a literary work is the:",
+      "options": [
+        "Subject matter",
+        "Theme",
+        "Plot",
+        "Setting"
+      ],
+      "answer": 1,
+      "solution": "Past question (NECO 2025). Correct answer: Theme.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "A recurring image or idea in a literary work is a?",
+      "options": [
+        "Foot",
+        "Motif",
+        "Rhyme",
+        "Plot"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Motif.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which character in Unexpected Joy at Dawn represents the theme of identity crisis across borders?",
+      "options": [
+        "Nii Tackie",
+        "Mama Orojo",
+        "Massa",
+        "Marshak"
+      ],
+      "answer": 0,
+      "solution": "Nii Tackie is a Ghanaian by blood but lives in Nigeria, and later faces the 'alien' status in both countries during the deportation eras.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A story that teaches a moral lesson using animals as characters is a/an _____.",
+      "options": [
+        "Parable",
+        "Fable",
+        "Myth",
+        "Legend"
+      ],
+      "answer": 1,
+      "solution": "Fables, such as Aesop's, utilize anthropomorphized animals to deliver a moral truth.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "In prose, the method of describing a character's traits is _____.",
+      "options": [
+        "Plotting",
+        "Characterization",
+        "Setting",
+        "Narration"
+      ],
+      "answer": 1,
+      "solution": "Characterization is the process by which the writer reveals the personality of a character, either directly or indirectly.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A story in which animals are used as characters to teach a moral lesson is a _____.",
+      "options": [
+        "Legend",
+        "Myth",
+        "Fable",
+        "Epic"
+      ],
+      "answer": 2,
+      "solution": "A fable (like Aesop's Fables) is a short story that features animals, plants, or forces of nature which are anthropomorphized to deliver a moral truth.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The 'persona' in a poem refers to the _____.",
+      "options": [
+        "Author",
+        "Speaker",
+        "Audience",
+        "Antagonist"
+      ],
+      "answer": 1,
+      "solution": "The persona is the character or 'voice' assumed by the poet to speak the poem, which may or may not be the poet's own voice.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "A lyric poem with a complex stanzaic structure, typically addressing a serious subject, is a/an _____.",
+      "options": [
+        "Ballad",
+        "Ode",
+        "Epic",
+        "Limerick"
+      ],
+      "answer": 1,
+      "solution": "An ode is a formal, often ceremonial lyric poem that addresses and often celebrates a person, place, thing, or idea.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "A story with a moral lesson using animals:",
+      "options": [
+        "Fable",
+        "Myth",
+        "Legend",
+        "Epic"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Fable.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "A short story with animals as characters conveying a moral is a:",
+      "options": [
+        "Myth",
+        "Fable",
+        "Legend",
+        "Parable"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Fable.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "A story that teaches a moral lesson using animals is a?",
+      "options": [
+        "Fable",
+        "Myth",
+        "Epic",
+        "Legend"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Fable.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A speech made by a character alone on stage to reveal their inner thoughts is a/an _____.",
+      "options": [
+        "Aside",
+        "Prologue",
+        "Soliloquy",
+        "Epilogue"
+      ],
+      "answer": 2,
+      "solution": "A soliloquy is a dramatic convention where a character speaks to themselves, revealing thoughts that the audience hears but other characters do not.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A poem of fourteen lines with a strict rhyme scheme is a _____.",
+      "options": [
+        "Ode",
+        "Elegy",
+        "Ballad",
+        "Sonnet"
+      ],
+      "answer": 3,
+      "solution": "A sonnet is a fixed verse form of 14 lines, typically in iambic pentameter, common in Shakespearean or Petrarchan styles.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The error in judgment or character flaw that leads to the downfall of a tragic hero is _____.",
+      "options": [
+        "Hamartia",
+        "Catharsis",
+        "Hubris",
+        "Peripeteia"
+      ],
+      "answer": 0,
+      "solution": "Hamartia is the Greek term for 'tragic flaw'. While Hubris (excessive pride) is a type of hamartia, hamartia is the general term for the error.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A story in which characters and events represent abstract qualities or moral meanings is a/an _____.",
+      "options": [
+        "Fable",
+        "Allegory",
+        "Parody",
+        "Satire"
+      ],
+      "answer": 1,
+      "solution": "An allegory, like Bunyan's 'Pilgrim's Progress' or Orwell's 'Animal Farm', uses symbolic figures to convey a deeper message.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A mournful poem, typically a lament for the dead, is an _____.",
+      "options": [
+        "Ode",
+        "Elegy",
+        "Epic",
+        "Limerick"
+      ],
+      "answer": 1,
+      "solution": "An elegy is a poem of serious reflection, typically a lament for the deceased.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The character who provides a contrast to the protagonist is the _____.",
+      "options": [
+        "Antagonist",
+        "Foil",
+        "Confidant",
+        "Hero"
+      ],
+      "answer": 1,
+      "solution": "A foil is a character whose traits are the opposite of the protagonist's, thereby highlighting the protagonist\u2019s characteristics.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A long narrative poem celebrating the deeds of a legendary hero is an _____.",
+      "options": [
+        "Epic",
+        "Ode",
+        "Ballad",
+        "Lyric"
+      ],
+      "answer": 0,
+      "solution": "Epics like The Odyssey or Beowulf are grand in scale and focus on heroic figures and national myths.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A poem written in praise of a person, object, or event is a/an _____.",
+      "options": [
+        "Elegy",
+        "Ode",
+        "Sonnet",
+        "Satire"
+      ],
+      "answer": 1,
+      "solution": "An ode is a formal, often ceremonial lyric poem that addresses and often celebrates a person, place, thing, or idea.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "In Emily Bront\u00eb's Wuthering Heights, the primary setting represents _____.",
+      "options": [
+        "Urban chaos",
+        "The wildness of nature and human passion",
+        "Religious stability",
+        "Industrial progress"
+      ],
+      "answer": 1,
+      "solution": "The moors and the house 'Wuthering Heights' signify the stormy, untamed nature of Heathcliff and Catherine's love.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "In the poem 'The Grieved Lands', the tone is one of _____.",
+      "options": [
+        "Joy and celebration",
+        "Resilience and defiance",
+        "Indifference",
+        "Humor"
+      ],
+      "answer": 1,
+      "solution": "Agostinho Neto's poem speaks to the suffering and strength of the African people under colonial oppression.",
+      "source": "WAEC 2024",
+      "practice": false
+    }
+  ]
 }

@@ -1,601 +1,729 @@
 {
- "topic": "Logarithms",
- "ss_level": "SSS 1",
- "icon": "fa-chart-line",
- "color": "#ef4444",
- "outline": [
-  "Logarithms of numbers > 1",
-  "Log tables for ×, ÷, powers, roots",
-  "Characteristic and mantissa"
- ],
- "modules": [
-  {
-   "title": "Module 1 · Definition",
-   "html": "<p>A logarithm answers the question: <i>to what power must the base be raised to get this number?</i></p>$$\\log_b N = x \\iff b^x = N$$<p>Common logarithms use base 10. We write $\\log N$ meaning $\\log_{10} N$.</p><p><b>Laws of logarithms</b></p><ol><li>$\\log(MN)=\\log M+\\log N$</li><li>$\\log(M/N)=\\log M-\\log N$</li><li>$\\log(M^k)=k\\log M$</li><li>$\\log_b b = 1$, $\\log_b 1 = 0$</li></ol>",
-   "examples": [
+  "topic": "Logarithms",
+  "ss_level": "SSS 1",
+  "icon": "fa-chart-line",
+  "color": "#ef4444",
+  "outline": [
+    "Logarithms of numbers > 1",
+    "Log tables for \u00d7, \u00f7, powers, roots",
+    "Characteristic and mantissa",
+    "Module 1 \u00b7 Definition",
+    "Module 2 \u00b7 Characteristic and Mantissa",
+    "Module 3 \u00b7 Using Log Tables",
+    "Revision and exam focus"
+  ],
+  "modules": [
     {
-     "q": "Evaluate $\\log_2 32$.",
-     "a": "$32 = 2^5$, so $\\log_2 32 = 5$."
+      "title": "Module 1 \u00b7 Definition",
+      "html": "<p>A logarithm answers the question: <i>to what power must the base be raised to get this number?</i></p>$$\\log_b N = x \\iff b^x = N$$<p>Common logarithms use base 10. We write $\\log N$ meaning $\\log_{10} N$.</p><p><b>Laws of logarithms</b></p><ol><li>$\\log(MN)=\\log M+\\log N$</li><li>$\\log(M/N)=\\log M-\\log N$</li><li>$\\log(M^k)=k\\log M$</li><li>$\\log_b b = 1$, $\\log_b 1 = 0$</li></ol><h4>Key points</h4><ul><li>$1000000 = 10^{6}$, so $\\log_{10} 1000000 = 6$.</li><li>$4096 = 4^{6}$, so $\\log_{4} 4096 = 6$.</li></ul><h4>Worked example</h4><p><b>Q:</b> Evaluate $\\log_{10} 1000000$.<br/><b>A:</b> 6</p><p><b>Q:</b> Evaluate $\\log_{4} 4096$.<br/><b>A:</b> 6</p>",
+      "examples": [
+        {
+          "q": "Evaluate $\\log_2 32$.",
+          "a": "$32 = 2^5$, so $\\log_2 32 = 5$."
+        },
+        {
+          "q": "Express $\\log 6$ in terms of $\\log 2$ and $\\log 3$.",
+          "a": "$\\log 6 = \\log(2\\cdot 3) = \\log 2 + \\log 3$."
+        }
+      ]
     },
     {
-     "q": "Express $\\log 6$ in terms of $\\log 2$ and $\\log 3$.",
-     "a": "$\\log 6 = \\log(2\\cdot 3) = \\log 2 + \\log 3$."
-    }
-   ]
-  },
-  {
-   "title": "Module 2 · Characteristic and Mantissa",
-   "html": "<p>For $N>1$, $\\log_{10} N$ has two parts:</p><ul><li>The <b>characteristic</b> — the integer part — equals (number of digits before the decimal point) $-1$.</li><li>The <b>mantissa</b> — the decimal part — is read from the log table.</li></ul><p>Example: $\\log 350$ has characteristic $2$ (three digits), mantissa $0.5441$, so $\\log 350 \\approx 2.5441$.</p>",
-   "examples": [
+      "title": "Module 2 \u00b7 Characteristic and Mantissa",
+      "html": "<p>For $N>1$, $\\log_{10} N$ has two parts:</p><ul><li>The <b>characteristic</b> \u2014 the integer part \u2014 equals (number of digits before the decimal point) $-1$.</li><li>The <b>mantissa</b> \u2014 the decimal part \u2014 is read from the log table.</li></ul><p>Example: $\\log 350$ has characteristic $2$ (three digits), mantissa $0.5441$, so $\\log 350 \\approx 2.5441$.</p><h4>Key points</h4><ul><li>$1000000 = 10^{6}$, so $\\log_{10} 1000000 = 6$.</li><li>$4096 = 4^{6}$, so $\\log_{4} 4096 = 6$.</li></ul><h4>Worked example</h4><p><b>Q:</b> Evaluate $\\log_{10} 1000000$.<br/><b>A:</b> 6</p><p><b>Q:</b> Evaluate $\\log_{4} 4096$.<br/><b>A:</b> 6</p>",
+      "examples": [
+        {
+          "q": "State the characteristic of $\\log 4560$.",
+          "a": "$4560$ has 4 digits, so the characteristic is $4-1 = 3$."
+        }
+      ]
+    },
     {
-     "q": "State the characteristic of $\\log 4560$.",
-     "a": "$4560$ has 4 digits, so the characteristic is $4-1 = 3$."
-    }
-   ]
-  },
-  {
-   "title": "Module 3 · Using Log Tables",
-   "html": "<p>To compute products, quotients, powers and roots quickly:</p>$$\\log(MN)=\\log M+\\log N,\\quad \\log(M/N)=\\log M-\\log N$$$$\\log(M^k)=k\\log M,\\quad \\log(\\sqrt[n]{M})=\\tfrac{1}{n}\\log M$$<p>Take logs, add/subtract/multiply, then use the antilog table to convert back.</p>",
-   "examples": [
+      "title": "Module 3 \u00b7 Using Log Tables",
+      "html": "<p>To compute products, quotients, powers and roots quickly:</p>$$\\log(MN)=\\log M+\\log N,\\quad \\log(M/N)=\\log M-\\log N$$$$\\log(M^k)=k\\log M,\\quad \\log(\\sqrt[n]{M})=\\tfrac{1}{n}\\log M$$<p>Take logs, add/subtract/multiply, then use the antilog table to convert back.</p><h4>Key points</h4><ul><li>$1000000 = 10^{6}$, so $\\log_{10} 1000000 = 6$.</li><li>$4096 = 4^{6}$, so $\\log_{4} 4096 = 6$.</li></ul><h4>Worked example</h4><p><b>Q:</b> Evaluate $\\log_{10} 1000000$.<br/><b>A:</b> 6</p><p><b>Q:</b> Evaluate $\\log_{4} 4096$.<br/><b>A:</b> 6</p><h4>More key points</h4><ul><li>Evaluate $\\log_{10} 1000000$. \u2014 6.</li><li>Evaluate $\\log_{4} 4096$. \u2014 6.</li><li>Evaluate $\\log_{10} 1000$. \u2014 3.</li><li>Evaluate $\\log_{3} 243$. \u2014 5.</li></ul>",
+      "examples": [
+        {
+          "q": "Use logs to evaluate $23.4 \\times 5.62$.",
+          "a": "$\\log 23.4 \\approx 1.3692$; $\\log 5.62 \\approx 0.7497$. Sum $= 2.1189$. Antilog $= 131.5$."
+        }
+      ]
+    },
     {
-     "q": "Use logs to evaluate $23.4 \\times 5.62$.",
-     "a": "$\\log 23.4 \\approx 1.3692$; $\\log 5.62 \\approx 0.7497$. Sum $= 2.1189$. Antilog $= 131.5$."
+      "title": "Logarithms of numbers > 1",
+      "html": "<p><b>Logarithms of numbers > 1</b> is a key part of Logarithms (SSS 1, Mathematics). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>$$\\log_b N = x \\iff b^x = N$$ Common logarithms use base 10.</li><li>Laws of logarithms $\\log(MN)=\\log M+\\log N$ $\\log(M/N)=\\log M-\\log N$ $\\log(M^k)=k\\log M$ $\\log_b b = 1$, $\\log_b 1 = 0$ Key points $1000000 = 10^{6}$, so $\\log_{10} 1000000 = 6$.</li><li>By the product law of logarithms: $\\log(MN)=\\log M + \\log N$.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which is equal to $\\log(MN)$?<br/><b>A:</b> \\log M + \\log N \u2014 By the product law of logarithms: $\\log(MN)=\\log M + \\log N$.</p>",
+      "examples": [
+        {
+          "q": "Which is equal to $\\log(MN)$?",
+          "a": "\\log M + \\log N \u2014 By the product law of logarithms: $\\log(MN)=\\log M + \\log N$."
+        }
+      ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> Evaluate $\\log_{10} 1000000$.<br/><b>A:</b> 6 \u2014 $1000000 = 10^{6}$, so $\\log_{10} 1000000 = 6$.</p><p><b>Q:</b> Evaluate $\\log_{4} 4096$.<br/><b>A:</b> 6 \u2014 $4096 = 4^{6}$, so $\\log_{4} 4096 = 6$.</p><p><b>Q:</b> Evaluate $\\log_{10} 1000$.<br/><b>A:</b> 3 \u2014 $1000 = 10^{3}$, so $\\log_{10} 1000 = 3$.</p>",
+      "examples": [
+        {
+          "q": "Evaluate $\\log_{10} 1000000$.",
+          "a": "6"
+        },
+        {
+          "q": "Evaluate $\\log_{4} 4096$.",
+          "a": "6"
+        }
+      ]
     }
-   ]
-  }
- ],
- "slug": "logarithms",
- "subject": "Mathematics",
- "quiz": [
-  {
-   "q": "Evaluate $\\log_{3} 81$.",
-   "options": [
-    "3",
-    "4",
-    "5",
-    "3"
-   ],
-   "answer": 1,
-   "solution": "$81 = 3^{4}$, so $\\log_{3} 81 = 4$."
-  },
-  {
-   "q": "Evaluate $\\log_{10} 1000000$.",
-   "options": [
-    "7",
-    "5",
-    "6",
-    "10"
-   ],
-   "answer": 2,
-   "solution": "$1000000 = 10^{6}$, so $\\log_{10} 1000000 = 6$."
-  },
-  {
-   "q": "Evaluate $\\log_{4} 4096$.",
-   "options": [
-    "4",
-    "7",
-    "6",
-    "5"
-   ],
-   "answer": 2,
-   "solution": "$4096 = 4^{6}$, so $\\log_{4} 4096 = 6$."
-  },
-  {
-   "q": "Evaluate $\\log_{10} 1000$.",
-   "options": [
-    "10",
-    "4",
-    "3",
-    "2"
-   ],
-   "answer": 2,
-   "solution": "$1000 = 10^{3}$, so $\\log_{10} 1000 = 3$."
-  },
-  {
-   "q": "Evaluate $\\log_{3} 243$.",
-   "options": [
-    "4",
-    "5",
-    "3",
-    "6"
-   ],
-   "answer": 1,
-   "solution": "$243 = 3^{5}$, so $\\log_{3} 243 = 5$."
-  },
-  {
-   "q": "Evaluate $\\log_{3} 81$.",
-   "options": [
-    "4",
-    "3",
-    "3",
-    "5"
-   ],
-   "answer": 0,
-   "solution": "$81 = 3^{4}$, so $\\log_{3} 81 = 4$."
-  },
-  {
-   "q": "Evaluate $\\log_{5} 25$.",
-   "options": [
-    "2",
-    "3",
-    "1",
-    "5"
-   ],
-   "answer": 0,
-   "solution": "$25 = 5^{2}$, so $\\log_{5} 25 = 2$."
-  },
-  {
-   "q": "Evaluate $\\log_{5} 25$.",
-   "options": [
-    "3",
-    "5",
-    "2",
-    "1"
-   ],
-   "answer": 2,
-   "solution": "$25 = 5^{2}$, so $\\log_{5} 25 = 2$."
-  },
-  {
-   "q": "Evaluate $\\log_{10} 10000$.",
-   "options": [
-    "4",
-    "10",
-    "5",
-    "3"
-   ],
-   "answer": 0,
-   "solution": "$10000 = 10^{4}$, so $\\log_{10} 10000 = 4$."
-  },
-  {
-   "q": "Evaluate $\\log_{2} 8$.",
-   "options": [
-    "2",
-    "4",
-    "3",
-    "2"
-   ],
-   "answer": 2,
-   "solution": "$8 = 2^{3}$, so $\\log_{2} 8 = 3$."
-  },
-  {
-   "q": "Evaluate $\\log_{10} 100000$.",
-   "options": [
-    "5",
-    "4",
-    "6",
-    "10"
-   ],
-   "answer": 0,
-   "solution": "$100000 = 10^{5}$, so $\\log_{10} 100000 = 5$."
-  },
-  {
-   "q": "Evaluate $\\log_{10} 1000$.",
-   "options": [
-    "4",
-    "10",
-    "3",
-    "2"
-   ],
-   "answer": 2,
-   "solution": "$1000 = 10^{3}$, so $\\log_{10} 1000 = 3$."
-  },
-  {
-   "q": "Evaluate $\\log_{5} 15625$.",
-   "options": [
-    "7",
-    "5",
-    "6",
-    "5"
-   ],
-   "answer": 2,
-   "solution": "$15625 = 5^{6}$, so $\\log_{5} 15625 = 6$."
-  },
-  {
-   "q": "Evaluate $\\log_{10} 1000$.",
-   "options": [
-    "4",
-    "2",
-    "10",
-    "3"
-   ],
-   "answer": 3,
-   "solution": "$1000 = 10^{3}$, so $\\log_{10} 1000 = 3$."
-  },
-  {
-   "q": "Evaluate $\\log_{10} 1000000$.",
-   "options": [
-    "6",
-    "5",
-    "7",
-    "10"
-   ],
-   "answer": 0,
-   "solution": "$1000000 = 10^{6}$, so $\\log_{10} 1000000 = 6$."
-  },
-  {
-   "q": "Evaluate $\\log_{3} 9$.",
-   "options": [
-    "1",
-    "3",
-    "3",
-    "2"
-   ],
-   "answer": 3,
-   "solution": "$9 = 3^{2}$, so $\\log_{3} 9 = 2$."
-  },
-  {
-   "q": "Evaluate $\\log_{10} 1000000$.",
-   "options": [
-    "10",
-    "7",
-    "5",
-    "6"
-   ],
-   "answer": 3,
-   "solution": "$1000000 = 10^{6}$, so $\\log_{10} 1000000 = 6$."
-  },
-  {
-   "q": "Evaluate $\\log_{5} 3125$.",
-   "options": [
-    "5",
-    "6",
-    "4",
-    "5"
-   ],
-   "answer": 0,
-   "solution": "$3125 = 5^{5}$, so $\\log_{5} 3125 = 5$."
-  },
-  {
-   "q": "Evaluate $\\log_{5} 15625$.",
-   "options": [
-    "5",
-    "7",
-    "6",
-    "5"
-   ],
-   "answer": 2,
-   "solution": "$15625 = 5^{6}$, so $\\log_{5} 15625 = 6$."
-  },
-  {
-   "q": "Evaluate $\\log_{2} 32$.",
-   "options": [
-    "5",
-    "2",
-    "6",
-    "4"
-   ],
-   "answer": 0,
-   "solution": "$32 = 2^{5}$, so $\\log_{2} 32 = 5$."
-  },
-  {
-   "q": "Which is equal to $\\log(MN)$?",
-   "options": [
-    "\\log M - \\log N",
-    "M\\log N",
-    "\\log M \\cdot \\log N",
-    "\\log M + \\log N"
-   ],
-   "answer": 3,
-   "solution": "By the product law of logarithms: $\\log(MN)=\\log M + \\log N$."
-  },
-  {
-   "q": "Which is equal to $\\log(M^k)$?",
-   "options": [
-    "\\log M + k",
-    "k\\log M",
-    "\\log M / k",
-    "(\\log M)^k"
-   ],
-   "answer": 1,
-   "solution": "Power law: $\\log(M^k)=k\\log M$."
-  },
-  {
-   "q": "Which is equal to $\\log(MN)$?",
-   "options": [
-    "\\log M + \\log N",
-    "M\\log N",
-    "\\log M - \\log N",
-    "\\log M \\cdot \\log N"
-   ],
-   "answer": 0,
-   "solution": "By the product law of logarithms: $\\log(MN)=\\log M + \\log N$."
-  },
-  {
-   "q": "Which is equal to $\\log(M^k)$?",
-   "options": [
-    "\\log M / k",
-    "(\\log M)^k",
-    "k\\log M",
-    "\\log M + k"
-   ],
-   "answer": 2,
-   "solution": "Power law: $\\log(M^k)=k\\log M$."
-  },
-  {
-   "q": "Which is equal to $\\log(MN)$?",
-   "options": [
-    "\\log M + \\log N",
-    "M\\log N",
-    "\\log M - \\log N",
-    "\\log M \\cdot \\log N"
-   ],
-   "answer": 0,
-   "solution": "By the product law of logarithms: $\\log(MN)=\\log M + \\log N$."
-  },
-  {
-   "q": "Which is equal to $\\log(M^k)$?",
-   "options": [
-    "\\log M + k",
-    "k\\log M",
-    "\\log M / k",
-    "(\\log M)^k"
-   ],
-   "answer": 1,
-   "solution": "Power law: $\\log(M^k)=k\\log M$."
-  },
-  {
-   "q": "Which is equal to $\\log(MN)$?",
-   "options": [
-    "\\log M - \\log N",
-    "M\\log N",
-    "\\log M + \\log N",
-    "\\log M \\cdot \\log N"
-   ],
-   "answer": 2,
-   "solution": "By the product law of logarithms: $\\log(MN)=\\log M + \\log N$."
-  },
-  {
-   "q": "Which is equal to $\\log(M^k)$?",
-   "options": [
-    "\\log M + k",
-    "(\\log M)^k",
-    "k\\log M",
-    "\\log M / k"
-   ],
-   "answer": 2,
-   "solution": "Power law: $\\log(M^k)=k\\log M$."
-  },
-  {
-   "q": "Which is equal to $\\log(MN)$?",
-   "options": [
-    "\\log M \\cdot \\log N",
-    "\\log M - \\log N",
-    "M\\log N",
-    "\\log M + \\log N"
-   ],
-   "answer": 3,
-   "solution": "By the product law of logarithms: $\\log(MN)=\\log M + \\log N$."
-  },
-  {
-   "q": "Which is equal to $\\log(M^k)$?",
-   "options": [
-    "\\log M / k",
-    "\\log M + k",
-    "(\\log M)^k",
-    "k\\log M"
-   ],
-   "answer": 3,
-   "solution": "Power law: $\\log(M^k)=k\\log M$."
-  },
-  {
-   "q": "State the characteristic of $\\log 792$.",
-   "options": [
-    "1",
-    "3",
-    "2",
-    "3"
-   ],
-   "answer": 2,
-   "solution": "$792$ has 3 digits before the decimal point, so its characteristic is $ 3-1 = 2$."
-  },
-  {
-   "q": "State the characteristic of $\\log 403056$.",
-   "options": [
-    "6",
-    "4",
-    "5",
-    "6"
-   ],
-   "answer": 2,
-   "solution": "$403056$ has 6 digits before the decimal point, so its characteristic is $ 6-1 = 5$."
-  },
-  {
-   "q": "State the characteristic of $\\log 466883$.",
-   "options": [
-    "4",
-    "5",
-    "6",
-    "6"
-   ],
-   "answer": 1,
-   "solution": "$466883$ has 6 digits before the decimal point, so its characteristic is $ 6-1 = 5$."
-  },
-  {
-   "q": "State the characteristic of $\\log 999230$.",
-   "options": [
-    "6",
-    "5",
-    "4",
-    "6"
-   ],
-   "answer": 1,
-   "solution": "$999230$ has 6 digits before the decimal point, so its characteristic is $ 6-1 = 5$."
-  },
-  {
-   "q": "State the characteristic of $\\log 256641$.",
-   "options": [
-    "4",
-    "6",
-    "6",
-    "5"
-   ],
-   "answer": 3,
-   "solution": "$256641$ has 6 digits before the decimal point, so its characteristic is $ 6-1 = 5$."
-  },
-  {
-   "q": "State the characteristic of $\\log 17$.",
-   "options": [
-    "2",
-    "1",
-    "2",
-    "0"
-   ],
-   "answer": 1,
-   "solution": "$17$ has 2 digits before the decimal point, so its characteristic is $ 2-1 = 1$."
-  },
-  {
-   "q": "State the characteristic of $\\log 756$.",
-   "options": [
-    "1",
-    "3",
-    "3",
-    "2"
-   ],
-   "answer": 3,
-   "solution": "$756$ has 3 digits before the decimal point, so its characteristic is $ 3-1 = 2$."
-  },
-  {
-   "q": "State the characteristic of $\\log 81467$.",
-   "options": [
-    "4",
-    "5",
-    "3",
-    "5"
-   ],
-   "answer": 0,
-   "solution": "$81467$ has 5 digits before the decimal point, so its characteristic is $ 5-1 = 4$."
-  },
-  {
-   "q": "State the characteristic of $\\log 56753$.",
-   "options": [
-    "5",
-    "4",
-    "5",
-    "3"
-   ],
-   "answer": 1,
-   "solution": "$56753$ has 5 digits before the decimal point, so its characteristic is $ 5-1 = 4$."
-  },
-  {
-   "q": "State the characteristic of $\\log 16667$.",
-   "options": [
-    "5",
-    "4",
-    "5",
-    "3"
-   ],
-   "answer": 1,
-   "solution": "$16667$ has 5 digits before the decimal point, so its characteristic is $ 5-1 = 4$."
-  },
-  {
-   "q": "Solve $\\log_{2} x = 4$.",
-   "options": [
-    "15",
-    "8",
-    "17",
-    "16"
-   ],
-   "answer": 3,
-   "solution": "Rewrite in index form: $x = 2^{4} = 16$."
-  },
-  {
-   "q": "Solve $\\log_{3} x = 5$.",
-   "options": [
-    "242",
-    "244",
-    "243",
-    "15"
-   ],
-   "answer": 2,
-   "solution": "Rewrite in index form: $x = 3^{5} = 243$."
-  },
-  {
-   "q": "Solve $\\log_{3} x = 2$.",
-   "options": [
-    "8",
-    "6",
-    "10",
-    "9"
-   ],
-   "answer": 3,
-   "solution": "Rewrite in index form: $x = 3^{2} = 9$."
-  },
-  {
-   "q": "Solve $\\log_{2} x = 2$.",
-   "options": [
-    "4",
-    "3",
-    "5",
-    "4"
-   ],
-   "answer": 0,
-   "solution": "Rewrite in index form: $x = 2^{2} = 4$."
-  },
-  {
-   "q": "Solve $\\log_{10} x = 2$.",
-   "options": [
-    "101",
-    "100",
-    "20",
-    "99"
-   ],
-   "answer": 1,
-   "solution": "Rewrite in index form: $x = 10^{2} = 100$."
-  },
-  {
-   "q": "Solve $\\log_{10} x = 5$.",
-   "options": [
-    "100001",
-    "100000",
-    "50",
-    "99999"
-   ],
-   "answer": 1,
-   "solution": "Rewrite in index form: $x = 10^{5} = 100000$."
-  },
-  {
-   "q": "Solve $\\log_{5} x = 2$.",
-   "options": [
-    "25",
-    "26",
-    "10",
-    "24"
-   ],
-   "answer": 0,
-   "solution": "Rewrite in index form: $x = 5^{2} = 25$."
-  },
-  {
-   "q": "Solve $\\log_{5} x = 5$.",
-   "options": [
-    "25",
-    "3124",
-    "3126",
-    "3125"
-   ],
-   "answer": 3,
-   "solution": "Rewrite in index form: $x = 5^{5} = 3125$."
-  },
-  {
-   "q": "Solve $\\log_{3} x = 4$.",
-   "options": [
-    "12",
-    "80",
-    "81",
-    "82"
-   ],
-   "answer": 2,
-   "solution": "Rewrite in index form: $x = 3^{4} = 81$."
-  },
-  {
-   "q": "Solve $\\log_{5} x = 5$.",
-   "options": [
-    "3126",
-    "3125",
-    "25",
-    "3124"
-   ],
-   "answer": 1,
-   "solution": "Rewrite in index form: $x = 5^{5} = 3125$."
-  }
- ]
+  ],
+  "slug": "logarithms",
+  "subject": "Mathematics",
+  "quiz": [
+    {
+      "q": "Evaluate $\\log_{10} 1000000$.",
+      "options": [
+        "7",
+        "5",
+        "6",
+        "10"
+      ],
+      "answer": 2,
+      "solution": "$1000000 = 10^{6}$, so $\\log_{10} 1000000 = 6$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $\\log_{4} 4096$.",
+      "options": [
+        "4",
+        "7",
+        "6",
+        "5"
+      ],
+      "answer": 2,
+      "solution": "$4096 = 4^{6}$, so $\\log_{4} 4096 = 6$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $\\log_{10} 1000$.",
+      "options": [
+        "10",
+        "4",
+        "3",
+        "2"
+      ],
+      "answer": 2,
+      "solution": "$1000 = 10^{3}$, so $\\log_{10} 1000 = 3$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $\\log_{3} 243$.",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "answer": 1,
+      "solution": "$243 = 3^{5}$, so $\\log_{3} 243 = 5$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $\\log_{5} 25$.",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "5"
+      ],
+      "answer": 0,
+      "solution": "$25 = 5^{2}$, so $\\log_{5} 25 = 2$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $\\log_{10} 10000$.",
+      "options": [
+        "4",
+        "10",
+        "5",
+        "3"
+      ],
+      "answer": 0,
+      "solution": "$10000 = 10^{4}$, so $\\log_{10} 10000 = 4$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $\\log_{10} 100000$.",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "10"
+      ],
+      "answer": 0,
+      "solution": "$100000 = 10^{5}$, so $\\log_{10} 100000 = 5$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $\\log_{2} 32$.",
+      "options": [
+        "5",
+        "2",
+        "6",
+        "4"
+      ],
+      "answer": 0,
+      "solution": "$32 = 2^{5}$, so $\\log_{2} 32 = 5$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which is equal to $\\log(MN)$?",
+      "options": [
+        "\\log M - \\log N",
+        "M\\log N",
+        "\\log M \\cdot \\log N",
+        "\\log M + \\log N"
+      ],
+      "answer": 3,
+      "solution": "By the product law of logarithms: $\\log(MN)=\\log M + \\log N$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which is equal to $\\log(M^k)$?",
+      "options": [
+        "\\log M + k",
+        "k\\log M",
+        "\\log M / k",
+        "(\\log M)^k"
+      ],
+      "answer": 1,
+      "solution": "Power law: $\\log(M^k)=k\\log M$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Solve $\\log_{2} x = 4$.",
+      "options": [
+        "15",
+        "8",
+        "17",
+        "16"
+      ],
+      "answer": 3,
+      "solution": "Rewrite in index form: $x = 2^{4} = 16$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Solve $\\log_{3} x = 5$.",
+      "options": [
+        "242",
+        "244",
+        "243",
+        "15"
+      ],
+      "answer": 2,
+      "solution": "Rewrite in index form: $x = 3^{5} = 243$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Solve $\\log_{3} x = 2$.",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "9"
+      ],
+      "answer": 3,
+      "solution": "Rewrite in index form: $x = 3^{2} = 9$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Solve $\\log_{10} x = 2$.",
+      "options": [
+        "101",
+        "100",
+        "20",
+        "99"
+      ],
+      "answer": 1,
+      "solution": "Rewrite in index form: $x = 10^{2} = 100$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Solve $\\log_{10} x = 5$.",
+      "options": [
+        "100001",
+        "100000",
+        "50",
+        "99999"
+      ],
+      "answer": 1,
+      "solution": "Rewrite in index form: $x = 10^{5} = 100000$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Solve $\\log_{5} x = 2$.",
+      "options": [
+        "25",
+        "26",
+        "10",
+        "24"
+      ],
+      "answer": 0,
+      "solution": "Rewrite in index form: $x = 5^{2} = 25$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Solve $\\log_{5} x = 5$.",
+      "options": [
+        "25",
+        "3124",
+        "3126",
+        "3125"
+      ],
+      "answer": 3,
+      "solution": "Rewrite in index form: $x = 5^{5} = 3125$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Solve $\\log_{3} x = 4$.",
+      "options": [
+        "12",
+        "80",
+        "81",
+        "82"
+      ],
+      "answer": 2,
+      "solution": "Rewrite in index form: $x = 3^{4} = 81$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the roots of the equation $2x^2 - 5x + 3 = 0$.",
+      "options": [
+        "$-\\frac{5}{2}$",
+        "$\\frac{3}{2}$",
+        "$-\\frac{3}{2}$",
+        "$\\frac{5}{2}$"
+      ],
+      "answer": 3,
+      "solution": "For $ax^2 + bx + c = 0$, the sum of roots $\\alpha + \\beta = -\\frac{b}{a}$. Here, $a=2, b=-5$. Sum = $-(\\frac{-5}{2}) = \\frac{5}{2}$.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the mean of the numbers: 2, 4, 6, 8, 10.",
+      "options": [
+        "5",
+        "7",
+        "8",
+        "6"
+      ],
+      "answer": 3,
+      "solution": "Mean = $\\frac{\\text{Sum}}{\\text{Count}} = \\frac{2+4+6+8+10}{5} = \\frac{30}{5} = 6$.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the range of the following set of numbers: 12, 5, 18, 3, 9.",
+      "options": [
+        "15",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": 0,
+      "solution": "Range = Maximum value - Minimum value = $18 - 3 = 15$.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "If $$ \\log_{10} x = 3 $$, find x.",
+      "options": [
+        "30",
+        "100",
+        "1000",
+        "10"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: 1000.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$ \\log_2 16 $$",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: 4.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "If $$ \\log_x 2 = 0.5 $$, find x.",
+      "options": [
+        "2",
+        "4",
+        "1",
+        "0.25"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: 4.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Solve $$ \\log_2 8 $$",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "8"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: 3.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Sum of roots of $$ x^2 - 4x + 3 = 0 $$.",
+      "options": [
+        "4",
+        "-4",
+        "3",
+        "-3"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: 4.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Product of roots of $$ x^2 - 4x + 3 = 0 $$.",
+      "options": [
+        "3",
+        "-3",
+        "4",
+        "-4"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: 3.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "If $$ \\log_{10} x = 2 $$, find x.",
+      "options": [
+        "10",
+        "20",
+        "100",
+        "1000"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: 100.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The sum of roots of $$ x^2 - 3x + 2 = 0 $$ is:",
+      "options": [
+        "3",
+        "-3",
+        "2",
+        "-2"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: 3.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Simplify $$ \\log_2 8 $$",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "8"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: 3.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "If $\\\\log_{10} 2 = 0.3010$ and $\\\\log_{10} 3 = 0.4771$, find $\\\\log_{10} 18$.",
+      "options": [
+        "1.2552",
+        "0.7781",
+        "1.0791",
+        "1.3010"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 1.2552.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Solve for $x$: $$ \\\\log_2 x + \\\\log_2 (x-2) = 3 $$",
+      "options": [
+        "4",
+        "2",
+        "-2",
+        "8"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 4.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Evaluate: $$ \\\\log_{2} 8 + \\\\log_{2} 4 - \\\\log_{2} 16 $$",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: 1.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "If $$ \\log_x 8 = 3 $$, find x.",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "1"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 2.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$ \\log_3 27 $$.",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "9"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 3.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Product of roots of $$ x^2 - 5x + 6 = 0 $$ is:",
+      "options": [
+        "6",
+        "5",
+        "-6",
+        "-5"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 6.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Roots of $$ x^2 - 1 = 0 $$:",
+      "options": [
+        "1, -1",
+        "1, 1",
+        "-1, -1",
+        "0, 1"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 1, -1.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$ \\log_2 8 $$.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "8"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: 3.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Sum of roots of $$ x^2 - 4x + 3 = 0 $$ is:",
+      "options": [
+        "4",
+        "-4",
+        "3",
+        "-3"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 4.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Find the value of x if log base 2 of x equals 5.",
+      "options": [
+        "25",
+        "32",
+        "64",
+        "10"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 32.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Simplify log base 10 of 4 plus log base 10 of 25.",
+      "options": [
+        "10",
+        "100",
+        "1",
+        "2"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 2.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "If log base 10 of 2 equals 0.3010, find log base 10 of 8.",
+      "options": [
+        "0.6020",
+        "0.3010",
+        "0.9030",
+        "1.2040"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 0.9030.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "If log base a of a equals 1, what is log base a of 1?",
+      "options": [
+        "1",
+        "a",
+        "-1",
+        "0"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 0.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Simplify (log 8) divided by (log 2).",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 3.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Factorize completely: $2x^2 - 8$.",
+      "options": [
+        "$(2x-4)(2x+4)$",
+        "$2(x-4)(x+4)$",
+        "$2(x-2)(x+2)$",
+        "$(x-2)(x+2)$"
+      ],
+      "answer": 2,
+      "solution": "First factor out 2: $2(x^2 - 4)$. Then factor the difference of two squares: $2(x-2)(x+2)$.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Solve the equation: $3(x - 2) = 15$.",
+      "options": [
+        "5",
+        "7",
+        "3",
+        "9"
+      ],
+      "answer": 1,
+      "solution": "Divide both sides by 3: $x - 2 = 5$. Add 2 to both sides: $x = 7$.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Solve simultaneously: $x+y=5$ and $x-y=1$.",
+      "options": [
+        "$(2,3)$",
+        "$(4,1)$",
+        "$(3,2)$",
+        "$(1,4)$"
+      ],
+      "answer": 2,
+      "solution": "Adding both equations: $2x = 6 \\implies x = 3$. Substitute $x=3$ into $x+y=5$, giving $3+y=5 \\implies y=2$.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Solve the inequality: $2x - 5 < 7$.",
+      "options": [
+        "$x < 6$",
+        "$x > 6$",
+        "$x \\leq 6$",
+        "$x \\geq 6$"
+      ],
+      "answer": 0,
+      "solution": "Add 5 to both sides: $2x < 12$. Divide by 2: $x < 6$.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the remainder when $x^3 - 2x^2 + x - 5$ is divided by $x-1$.",
+      "options": [
+        "5",
+        "-5",
+        "-3",
+        "3"
+      ],
+      "answer": 1,
+      "solution": "Using the remainder theorem, substitute $x=1$ into the polynomial: $f(1) = 1^3 - 2(1)^2 + 1 - 5 = 1 - 2 + 1 - 5 = -5$.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the 5th term of the Arithmetic Progression: 2, 5, 8, ...",
+      "options": [
+        "11",
+        "17",
+        "14",
+        "20"
+      ],
+      "answer": 2,
+      "solution": "The formula is $u_n = a + (n-1)d$. Here $a=2, d=3, n=5$. $u_5 = 2 + 4(3) = 2 + 12 = 14$.",
+      "source": "WAEC 2024",
+      "practice": false
+    }
+  ]
 }

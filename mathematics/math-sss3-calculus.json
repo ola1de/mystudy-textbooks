@@ -1,601 +1,733 @@
 {
- "topic": "Introductory Calculus",
- "ss_level": "SSS 3",
- "icon": "fa-infinity",
- "color": "#db2777",
- "outline": [
-  "Differentiation from first principles",
-  "Differentiation of algebraic functions",
-  "Integration and area under a curve"
- ],
- "modules": [
-  {
-   "title": "Module 1 · Differentiation from First Principles",
-   "html": "$$f'(x)=\\lim_{h\\to 0}\\dfrac{f(x+h)-f(x)}{h}$$<p>Apply the formula, simplify, then let $h\\to 0$.</p>",
-   "examples": [
+  "topic": "Introductory Calculus",
+  "ss_level": "SSS 3",
+  "icon": "fa-infinity",
+  "color": "#db2777",
+  "outline": [
+    "Differentiation from first principles",
+    "Differentiation of algebraic functions",
+    "Integration and area under a curve",
+    "Module 1 \u00b7 Differentiation from First Principles",
+    "Module 2 \u00b7 Rules of Differentiation",
+    "Module 3 \u00b7 Integration & Area",
+    "Revision and exam focus"
+  ],
+  "modules": [
     {
-     "q": "Find $f'(x)$ if $f(x)=x^2$ from first principles.",
-     "a": "$\\dfrac{(x+h)^2 - x^2}{h} = \\dfrac{2xh + h^2}{h} = 2x + h$. As $h\\to 0$: $f'(x)=2x$."
-    }
-   ]
-  },
-  {
-   "title": "Module 2 · Rules of Differentiation",
-   "html": "<ul><li>Power rule: $\\dfrac{d}{dx}(x^n) = nx^{n-1}$.</li><li>Constant rule: $\\dfrac{d}{dx}(c) = 0$.</li><li>Sum rule: derivative of a sum is the sum of the derivatives.</li></ul>",
-   "examples": [
-    {
-     "q": "Differentiate $y=3x^4 - 5x^2 + 7$.",
-     "a": "$\\dfrac{dy}{dx} = 12x^3 - 10x$."
-    }
-   ]
-  },
-  {
-   "title": "Module 3 · Integration & Area",
-   "html": "$$\\int x^n\\,dx = \\dfrac{x^{n+1}}{n+1} + C\\ (n\\ne -1)$$<p>The area under $y=f(x)$ between $x=a$ and $x=b$ (where $f\\ge 0$) is $\\int_a^b f(x)\\,dx$.</p>",
-   "examples": [
-    {
-     "q": "Evaluate $\\int (2x+3)\\,dx$.",
-     "a": "$x^2 + 3x + C$."
+      "title": "Module 1 \u00b7 Differentiation from First Principles",
+      "html": "$$f'(x)=\\lim_{h\\to 0}\\dfrac{f(x+h)-f(x)}{h}$$<p>Apply the formula, simplify, then let $h\\to 0$.</p><h4>Key points</h4><ul><li>Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 2x^{1}$.</li><li>Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 3x^{2}$.</li></ul><h4>Worked example</h4><p><b>Q:</b> Differentiate $y = x^{2}$ with respect to $x$.<br/><b>A:</b> 2x^{1}</p><p><b>Q:</b> Differentiate $y = x^{3}$ with respect to $x$.<br/><b>A:</b> 3x^{2}</p>",
+      "examples": [
+        {
+          "q": "Find $f'(x)$ if $f(x)=x^2$ from first principles.",
+          "a": "$\\dfrac{(x+h)^2 - x^2}{h} = \\dfrac{2xh + h^2}{h} = 2x + h$. As $h\\to 0$: $f'(x)=2x$."
+        }
+      ]
     },
     {
-     "q": "Find the area under $y=x^2$ from $x=0$ to $x=2$.",
-     "a": "$\\int_0^2 x^2 dx = [x^3/3]_0^2 = 8/3$ square units."
+      "title": "Module 2 \u00b7 Rules of Differentiation",
+      "html": "<ul><li>Power rule: $\\dfrac{d}{dx}(x^n) = nx^{n-1}$.</li><li>Constant rule: $\\dfrac{d}{dx}(c) = 0$.</li><li>Sum rule: derivative of a sum is the sum of the derivatives.</li></ul><h4>Key points</h4><ul><li>Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 2x^{1}$.</li><li>Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 3x^{2}$.</li></ul><h4>Worked example</h4><p><b>Q:</b> Differentiate $y = x^{2}$ with respect to $x$.<br/><b>A:</b> 2x^{1}</p><p><b>Q:</b> Differentiate $y = x^{3}$ with respect to $x$.<br/><b>A:</b> 3x^{2}</p>",
+      "examples": [
+        {
+          "q": "Differentiate $y=3x^4 - 5x^2 + 7$.",
+          "a": "$\\dfrac{dy}{dx} = 12x^3 - 10x$."
+        }
+      ]
+    },
+    {
+      "title": "Module 3 \u00b7 Integration & Area",
+      "html": "$$\\int x^n\\,dx = \\dfrac{x^{n+1}}{n+1} + C\\ (n\\ne -1)$$<p>The area under $y=f(x)$ between $x=a$ and $x=b$ (where $f\\ge 0$) is $\\int_a^b f(x)\\,dx$.</p><h4>Key points</h4><ul><li>$\\int_0^5 x^2 dx = \\left[\\dfrac{x^{3}}{3}\\right]_0^5 = \\dfrac{5^{3}}{3} = 125/3$.</li><li>$\\int_0^5 x^3 dx = \\left[\\dfrac{x^{4}}{4}\\right]_0^5 = \\dfrac{5^{4}}{4} = 625/4$.</li></ul><h4>Worked example</h4><p><b>Q:</b> Find the area under $y = x^{2}$ from $x = 0$ to $x = 5$.<br/><b>A:</b> \\dfrac{125}{3} \\text{ sq units}</p><p><b>Q:</b> Find the area under $y = x^{3}$ from $x = 0$ to $x = 5$.<br/><b>A:</b> \\dfrac{625}{4} \\text{ sq units}</p><h4>More key points</h4><ul><li>Find the area under $y = x^{2}$ from $x = 0$ to $x = 5$. \u2014 \\dfrac{125}{3} \\text{ sq units}.</li><li>Find the area under $y = x^{3}$ from $x = 0$ to $x = 5$. \u2014 \\dfrac{625}{4} \\text{ sq units}.</li><li>Find the area under $y = x^{2}$ from $x = 0$ to $x = 4$. \u2014 \\dfrac{64}{3} \\text{ sq units}.</li><li>Find the area under $y = x^{1}$ from $x = 0$ to $x = 4$. \u2014 8 \\text{ sq units}.</li></ul>",
+      "examples": [
+        {
+          "q": "Evaluate $\\int (2x+3)\\,dx$.",
+          "a": "$x^2 + 3x + C$."
+        },
+        {
+          "q": "Find the area under $y=x^2$ from $x=0$ to $x=2$.",
+          "a": "$\\int_0^2 x^2 dx = [x^3/3]_0^2 = 8/3$ square units."
+        }
+      ]
+    },
+    {
+      "title": "Differentiation of algebraic functions",
+      "html": "<p><b>Differentiation of algebraic functions</b> is a key part of Introductory Calculus (SSS 3, Mathematics). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Learn the meaning of differentiation of algebraic functions and the terms used with it.</li><li>Know the main types, features or steps involved in differentiation of algebraic functions.</li><li>Be able to give an example of differentiation of algebraic functions and explain why it matters in introductory calculus.</li><li>Practise past questions on differentiation of algebraic functions until you can answer them without notes.</li></ul><h4>Worked example</h4><p><b>Q:</b> Differentiate $y = x^{2}$ with respect to $x$.<br/><b>A:</b> 2x^{1} \u2014 Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 2x^{1}$.</p><p><b>Q:</b> Differentiate $y = x^{3}$ with respect to $x$.<br/><b>A:</b> 3x^{2} \u2014 Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 3x^{2}$.</p>",
+      "examples": [
+        {
+          "q": "Differentiate $y = x^{2}$ with respect to $x$.",
+          "a": "2x^{1} \u2014 Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 2x^{1}$."
+        },
+        {
+          "q": "Differentiate $y = x^{3}$ with respect to $x$.",
+          "a": "3x^{2} \u2014 Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 3x^{2}$."
+        }
+      ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> Differentiate $y = x^{2}$ with respect to $x$.<br/><b>A:</b> 2x^{1} \u2014 Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 2x^{1}$.</p><p><b>Q:</b> Differentiate $y = x^{3}$ with respect to $x$.<br/><b>A:</b> 3x^{2} \u2014 Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 3x^{2}$.</p><p><b>Q:</b> Differentiate $y = x^{5}$ with respect to $x$.<br/><b>A:</b> 5x^{4} \u2014 Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 5x^{4}$.</p>",
+      "examples": [
+        {
+          "q": "Differentiate $y = x^{2}$ with respect to $x$.",
+          "a": "2x^{1}"
+        },
+        {
+          "q": "Differentiate $y = x^{3}$ with respect to $x$.",
+          "a": "3x^{2}"
+        }
+      ]
     }
-   ]
-  }
- ],
- "slug": "calculus",
- "subject": "Mathematics",
- "quiz": [
-  {
-   "q": "Differentiate $y = x^{2}$ with respect to $x$.",
-   "options": [
-    "2x^{1}",
-    "x^{1}",
-    "3x^{2}",
-    "1x^{2}"
-   ],
-   "answer": 0,
-   "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 2x^{1}$."
-  },
-  {
-   "q": "Differentiate $y = x^{3}$ with respect to $x$.",
-   "options": [
-    "x^{2}",
-    "3x^{2}",
-    "2x^{3}",
-    "4x^{3}"
-   ],
-   "answer": 1,
-   "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 3x^{2}$."
-  },
-  {
-   "q": "Differentiate $y = x^{2}$ with respect to $x$.",
-   "options": [
-    "x^{1}",
-    "1x^{2}",
-    "2x^{1}",
-    "3x^{2}"
-   ],
-   "answer": 2,
-   "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 2x^{1}$."
-  },
-  {
-   "q": "Differentiate $y = x^{2}$ with respect to $x$.",
-   "options": [
-    "x^{1}",
-    "3x^{2}",
-    "1x^{2}",
-    "2x^{1}"
-   ],
-   "answer": 3,
-   "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 2x^{1}$."
-  },
-  {
-   "q": "Differentiate $y = x^{5}$ with respect to $x$.",
-   "options": [
-    "4x^{5}",
-    "6x^{5}",
-    "5x^{4}",
-    "x^{4}"
-   ],
-   "answer": 2,
-   "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 5x^{4}$."
-  },
-  {
-   "q": "Differentiate $y = x^{8}$ with respect to $x$.",
-   "options": [
-    "8x^{7}",
-    "9x^{8}",
-    "7x^{8}",
-    "x^{7}"
-   ],
-   "answer": 0,
-   "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 8x^{7}$."
-  },
-  {
-   "q": "Differentiate $y = x^{2}$ with respect to $x$.",
-   "options": [
-    "3x^{2}",
-    "2x^{1}",
-    "1x^{2}",
-    "x^{1}"
-   ],
-   "answer": 1,
-   "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 2x^{1}$."
-  },
-  {
-   "q": "Differentiate $y = x^{6}$ with respect to $x$.",
-   "options": [
-    "6x^{5}",
-    "5x^{6}",
-    "7x^{6}",
-    "x^{5}"
-   ],
-   "answer": 0,
-   "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 6x^{5}$."
-  },
-  {
-   "q": "Differentiate $y = x^{3}$ with respect to $x$.",
-   "options": [
-    "4x^{3}",
-    "x^{2}",
-    "2x^{3}",
-    "3x^{2}"
-   ],
-   "answer": 3,
-   "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 3x^{2}$."
-  },
-  {
-   "q": "Differentiate $y = x^{5}$ with respect to $x$.",
-   "options": [
-    "x^{4}",
-    "6x^{5}",
-    "4x^{5}",
-    "5x^{4}"
-   ],
-   "answer": 3,
-   "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 5x^{4}$."
-  },
-  {
-   "q": "Differentiate $y = x^{4}$ with respect to $x$.",
-   "options": [
-    "4x^{3}",
-    "3x^{4}",
-    "x^{3}",
-    "5x^{4}"
-   ],
-   "answer": 0,
-   "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 4x^{3}$."
-  },
-  {
-   "q": "Differentiate $y = x^{4}$ with respect to $x$.",
-   "options": [
-    "4x^{3}",
-    "5x^{4}",
-    "x^{3}",
-    "3x^{4}"
-   ],
-   "answer": 0,
-   "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 4x^{3}$."
-  },
-  {
-   "q": "Differentiate $y = x^{4}$ with respect to $x$.",
-   "options": [
-    "x^{3}",
-    "4x^{3}",
-    "3x^{4}",
-    "5x^{4}"
-   ],
-   "answer": 1,
-   "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 4x^{3}$."
-  },
-  {
-   "q": "Differentiate $y = x^{7}$ with respect to $x$.",
-   "options": [
-    "8x^{7}",
-    "6x^{7}",
-    "7x^{6}",
-    "x^{6}"
-   ],
-   "answer": 2,
-   "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 7x^{6}$."
-  },
-  {
-   "q": "Differentiate $y = x^{5}$ with respect to $x$.",
-   "options": [
-    "6x^{5}",
-    "4x^{5}",
-    "x^{4}",
-    "5x^{4}"
-   ],
-   "answer": 3,
-   "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 5x^{4}$."
-  },
-  {
-   "q": "Differentiate $y = 6x^{4} + 5x^{2} + 7$.",
-   "options": [
-    "24x^{3} + 10x^{1} + 7",
-    "6x^{3} + 5x^{1}",
-    "24x^{4} + 10x^{2}",
-    "24x^{3} + 10x^{1}"
-   ],
-   "answer": 3,
-   "solution": "Differentiate term-by-term using power rule; constants become 0."
-  },
-  {
-   "q": "Differentiate $y = 2x^{2} + 2x^{3} + 6$.",
-   "options": [
-    "2x^{1} + 2x^{2}",
-    "4x^{2} + 6x^{3}",
-    "4x^{1} + 6x^{2}",
-    "4x^{1} + 6x^{2} + 6"
-   ],
-   "answer": 2,
-   "solution": "Differentiate term-by-term using power rule; constants become 0."
-  },
-  {
-   "q": "Differentiate $y = 4x^{2} + 5x^{1} + 7$.",
-   "options": [
-    "4x^{1} + 5x^{0}",
-    "8x^{1} + 5",
-    "8x^{2} + 5x^{1}",
-    "8x^{1} + 5x^{0} + 7"
-   ],
-   "answer": 1,
-   "solution": "Differentiate term-by-term using power rule; constants become 0."
-  },
-  {
-   "q": "Differentiate $y = 2x^{3} + 3x^{2} + 6$.",
-   "options": [
-    "2x^{2} + 3x^{1}",
-    "6x^{3} + 6x^{2}",
-    "6x^{2} + 6x^{1} + 6",
-    "6x^{2} + 6x^{1}"
-   ],
-   "answer": 3,
-   "solution": "Differentiate term-by-term using power rule; constants become 0."
-  },
-  {
-   "q": "Differentiate $y = 5x^{2} + 5x^{1} + 8$.",
-   "options": [
-    "5x^{1} + 5x^{0}",
-    "10x^{1} + 5x^{0} + 8",
-    "10x^{2} + 5x^{1}",
-    "10x^{1} + 5"
-   ],
-   "answer": 3,
-   "solution": "Differentiate term-by-term using power rule; constants become 0."
-  },
-  {
-   "q": "Differentiate $y = 3x^{3} + 3x^{1} + 5$.",
-   "options": [
-    "9x^{3} + 3x^{1}",
-    "3x^{2} + 3x^{0}",
-    "9x^{2} + 3x^{0} + 5",
-    "9x^{2} + 3"
-   ],
-   "answer": 3,
-   "solution": "Differentiate term-by-term using power rule; constants become 0."
-  },
-  {
-   "q": "Differentiate $y = 4x^{2} + 2x^{1} + 10$.",
-   "options": [
-    "8x^{1} + 2x^{0} + 10",
-    "4x^{1} + 2x^{0}",
-    "8x^{2} + 2x^{1}",
-    "8x^{1} + 2"
-   ],
-   "answer": 3,
-   "solution": "Differentiate term-by-term using power rule; constants become 0."
-  },
-  {
-   "q": "Differentiate $y = 7x^{4} + 6x^{2} + 8$.",
-   "options": [
-    "28x^{3} + 12x^{1} + 8",
-    "28x^{3} + 12x^{1}",
-    "7x^{3} + 6x^{1}",
-    "28x^{4} + 12x^{2}"
-   ],
-   "answer": 1,
-   "solution": "Differentiate term-by-term using power rule; constants become 0."
-  },
-  {
-   "q": "Differentiate $y = 7x^{4} + 2x^{3} + 8$.",
-   "options": [
-    "28x^{4} + 6x^{3}",
-    "28x^{3} + 6x^{2} + 8",
-    "7x^{3} + 2x^{2}",
-    "28x^{3} + 6x^{2}"
-   ],
-   "answer": 3,
-   "solution": "Differentiate term-by-term using power rule; constants become 0."
-  },
-  {
-   "q": "Differentiate $y = 3x^{4} + 7x^{1} + 6$.",
-   "options": [
-    "3x^{3} + 7x^{0}",
-    "12x^{3} + 7",
-    "12x^{4} + 7x^{1}",
-    "12x^{3} + 7x^{0} + 6"
-   ],
-   "answer": 1,
-   "solution": "Differentiate term-by-term using power rule; constants become 0."
-  },
-  {
-   "q": "Differentiate $y = 3x^{4} + 2x^{1} + 10$.",
-   "options": [
-    "3x^{3} + 2x^{0}",
-    "12x^{3} + 2",
-    "12x^{4} + 2x^{1}",
-    "12x^{3} + 2x^{0} + 10"
-   ],
-   "answer": 1,
-   "solution": "Differentiate term-by-term using power rule; constants become 0."
-  },
-  {
-   "q": "Differentiate $y = 6x^{3} + 2x^{3} + 1$.",
-   "options": [
-    "18x^{3} + 6x^{3}",
-    "18x^{2} + 6x^{2} + 1",
-    "18x^{2} + 6x^{2}",
-    "6x^{2} + 2x^{2}"
-   ],
-   "answer": 2,
-   "solution": "Differentiate term-by-term using power rule; constants become 0."
-  },
-  {
-   "q": "Differentiate $y = 3x^{4} + 7x^{3} + 5$.",
-   "options": [
-    "3x^{3} + 7x^{2}",
-    "12x^{3} + 21x^{2}",
-    "12x^{4} + 21x^{3}",
-    "12x^{3} + 21x^{2} + 5"
-   ],
-   "answer": 1,
-   "solution": "Differentiate term-by-term using power rule; constants become 0."
-  },
-  {
-   "q": "Evaluate $\\int x^{7} dx$.",
-   "options": [
-    "\\dfrac{x^{6}}{6} + C",
-    "7x^{6} + C",
-    "\\dfrac{x^{8}}{8} + C",
-    "x^{8} + C"
-   ],
-   "answer": 2,
-   "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$."
-  },
-  {
-   "q": "Evaluate $\\int x^{3} dx$.",
-   "options": [
-    "\\dfrac{x^{2}}{2} + C",
-    "\\dfrac{x^{4}}{4} + C",
-    "x^{4} + C",
-    "3x^{2} + C"
-   ],
-   "answer": 1,
-   "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$."
-  },
-  {
-   "q": "Evaluate $\\int x^{2} dx$.",
-   "options": [
-    "\\dfrac{x^{3}}{3} + C",
-    "2x^{1} + C",
-    "x^{3} + C",
-    "\\dfrac{x^{1}}{1} + C"
-   ],
-   "answer": 0,
-   "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$."
-  },
-  {
-   "q": "Evaluate $\\int x^{6} dx$.",
-   "options": [
-    "6x^{5} + C",
-    "\\dfrac{x^{7}}{7} + C",
-    "\\dfrac{x^{5}}{5} + C",
-    "x^{7} + C"
-   ],
-   "answer": 1,
-   "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$."
-  },
-  {
-   "q": "Evaluate $\\int x^{4} dx$.",
-   "options": [
-    "\\dfrac{x^{3}}{3} + C",
-    "\\dfrac{x^{5}}{5} + C",
-    "x^{5} + C",
-    "4x^{3} + C"
-   ],
-   "answer": 1,
-   "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$."
-  },
-  {
-   "q": "Evaluate $\\int x^{3} dx$.",
-   "options": [
-    "3x^{2} + C",
-    "x^{4} + C",
-    "\\dfrac{x^{4}}{4} + C",
-    "\\dfrac{x^{2}}{2} + C"
-   ],
-   "answer": 2,
-   "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$."
-  },
-  {
-   "q": "Evaluate $\\int x^{1} dx$.",
-   "options": [
-    "x^{2} + C",
-    "1x^{0} + C",
-    "\\dfrac{x^{0}}{1} + C",
-    "\\dfrac{x^{2}}{2} + C"
-   ],
-   "answer": 3,
-   "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$."
-  },
-  {
-   "q": "Evaluate $\\int x^{6} dx$.",
-   "options": [
-    "\\dfrac{x^{7}}{7} + C",
-    "\\dfrac{x^{5}}{5} + C",
-    "6x^{5} + C",
-    "x^{7} + C"
-   ],
-   "answer": 0,
-   "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$."
-  },
-  {
-   "q": "Evaluate $\\int x^{1} dx$.",
-   "options": [
-    "\\dfrac{x^{0}}{1} + C",
-    "1x^{0} + C",
-    "x^{2} + C",
-    "\\dfrac{x^{2}}{2} + C"
-   ],
-   "answer": 3,
-   "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$."
-  },
-  {
-   "q": "Evaluate $\\int x^{1} dx$.",
-   "options": [
-    "x^{2} + C",
-    "\\dfrac{x^{0}}{1} + C",
-    "1x^{0} + C",
-    "\\dfrac{x^{2}}{2} + C"
-   ],
-   "answer": 3,
-   "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$."
-  },
-  {
-   "q": "Evaluate $\\int x^{5} dx$.",
-   "options": [
-    "5x^{4} + C",
-    "\\dfrac{x^{4}}{4} + C",
-    "x^{6} + C",
-    "\\dfrac{x^{6}}{6} + C"
-   ],
-   "answer": 3,
-   "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$."
-  },
-  {
-   "q": "Evaluate $\\int x^{4} dx$.",
-   "options": [
-    "\\dfrac{x^{5}}{5} + C",
-    "4x^{3} + C",
-    "\\dfrac{x^{3}}{3} + C",
-    "x^{5} + C"
-   ],
-   "answer": 0,
-   "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$."
-  },
-  {
-   "q": "Find the area under $y = x^{2}$ from $x = 0$ to $x = 5$.",
-   "options": [
-    "\\dfrac{126}{3} \\text{ sq units}",
-    "\\dfrac{3}{125} \\text{ sq units}",
-    "\\dfrac{125}{3} \\text{ sq units}",
-    "25 \\text{ sq units}"
-   ],
-   "answer": 2,
-   "solution": "$\\int_0^5 x^2 dx = \\left[\\dfrac{x^{3}}{3}\\right]_0^5 = \\dfrac{5^{3}}{3} = 125/3$."
-  },
-  {
-   "q": "Find the area under $y = x^{1}$ from $x = 0$ to $x = 2$.",
-   "options": [
-    "2 \\text{ sq units}",
-    "3 \\text{ sq units}",
-    "2 \\text{ sq units}",
-    "4 \\text{ sq units}"
-   ],
-   "answer": 0,
-   "solution": "$\\int_0^2 x^1 dx = \\left[\\dfrac{x^{2}}{2}\\right]_0^2 = \\dfrac{2^{2}}{2} = 2$."
-  },
-  {
-   "q": "Find the area under $y = x^{3}$ from $x = 0$ to $x = 2$.",
-   "options": [
-    "8 \\text{ sq units}",
-    "5 \\text{ sq units}",
-    "4 \\text{ sq units}",
-    "8 \\text{ sq units}"
-   ],
-   "answer": 2,
-   "solution": "$\\int_0^2 x^3 dx = \\left[\\dfrac{x^{4}}{4}\\right]_0^2 = \\dfrac{2^{4}}{4} = 4$."
-  },
-  {
-   "q": "Find the area under $y = x^{3}$ from $x = 0$ to $x = 4$.",
-   "options": [
-    "64 \\text{ sq units}",
-    "65 \\text{ sq units}",
-    "64 \\text{ sq units}",
-    "128 \\text{ sq units}"
-   ],
-   "answer": 0,
-   "solution": "$\\int_0^4 x^3 dx = \\left[\\dfrac{x^{4}}{4}\\right]_0^4 = \\dfrac{4^{4}}{4} = 64$."
-  },
-  {
-   "q": "Find the area under $y = x^{3}$ from $x = 0$ to $x = 5$.",
-   "options": [
-    "\\dfrac{4}{625} \\text{ sq units}",
-    "\\dfrac{625}{4} \\text{ sq units}",
-    "125 \\text{ sq units}",
-    "\\dfrac{626}{4} \\text{ sq units}"
-   ],
-   "answer": 1,
-   "solution": "$\\int_0^5 x^3 dx = \\left[\\dfrac{x^{4}}{4}\\right]_0^5 = \\dfrac{5^{4}}{4} = 625/4$."
-  },
-  {
-   "q": "Find the area under $y = x^{1}$ from $x = 0$ to $x = 2$.",
-   "options": [
-    "2 \\text{ sq units}",
-    "4 \\text{ sq units}",
-    "3 \\text{ sq units}",
-    "2 \\text{ sq units}"
-   ],
-   "answer": 0,
-   "solution": "$\\int_0^2 x^1 dx = \\left[\\dfrac{x^{2}}{2}\\right]_0^2 = \\dfrac{2^{2}}{2} = 2$."
-  },
-  {
-   "q": "Find the area under $y = x^{2}$ from $x = 0$ to $x = 4$.",
-   "options": [
-    "\\dfrac{65}{3} \\text{ sq units}",
-    "\\dfrac{64}{3} \\text{ sq units}",
-    "16 \\text{ sq units}",
-    "\\dfrac{3}{64} \\text{ sq units}"
-   ],
-   "answer": 1,
-   "solution": "$\\int_0^4 x^2 dx = \\left[\\dfrac{x^{3}}{3}\\right]_0^4 = \\dfrac{4^{3}}{3} = 64/3$."
-  },
-  {
-   "q": "Find the area under $y = x^{1}$ from $x = 0$ to $x = 4$.",
-   "options": [
-    "9 \\text{ sq units}",
-    "16 \\text{ sq units}",
-    "4 \\text{ sq units}",
-    "8 \\text{ sq units}"
-   ],
-   "answer": 3,
-   "solution": "$\\int_0^4 x^1 dx = \\left[\\dfrac{x^{2}}{2}\\right]_0^4 = \\dfrac{4^{2}}{2} = 8$."
-  },
-  {
-   "q": "Find the area under $y = x^{1}$ from $x = 0$ to $x = 4$.",
-   "options": [
-    "9 \\text{ sq units}",
-    "4 \\text{ sq units}",
-    "8 \\text{ sq units}",
-    "16 \\text{ sq units}"
-   ],
-   "answer": 2,
-   "solution": "$\\int_0^4 x^1 dx = \\left[\\dfrac{x^{2}}{2}\\right]_0^4 = \\dfrac{4^{2}}{2} = 8$."
-  },
-  {
-   "q": "Find the area under $y = x^{1}$ from $x = 0$ to $x = 5$.",
-   "options": [
-    "5 \\text{ sq units}",
-    "\\dfrac{2}{25} \\text{ sq units}",
-    "\\dfrac{26}{2} \\text{ sq units}",
-    "\\dfrac{25}{2} \\text{ sq units}"
-   ],
-   "answer": 3,
-   "solution": "$\\int_0^5 x^1 dx = \\left[\\dfrac{x^{2}}{2}\\right]_0^5 = \\dfrac{5^{2}}{2} = 25/2$."
-  }
- ]
+  ],
+  "slug": "calculus",
+  "subject": "Mathematics",
+  "quiz": [
+    {
+      "q": "Differentiate $y = x^{2}$ with respect to $x$.",
+      "options": [
+        "2x^{1}",
+        "x^{1}",
+        "3x^{2}",
+        "1x^{2}"
+      ],
+      "answer": 0,
+      "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 2x^{1}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = x^{3}$ with respect to $x$.",
+      "options": [
+        "x^{2}",
+        "3x^{2}",
+        "2x^{3}",
+        "4x^{3}"
+      ],
+      "answer": 1,
+      "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 3x^{2}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = x^{5}$ with respect to $x$.",
+      "options": [
+        "4x^{5}",
+        "6x^{5}",
+        "5x^{4}",
+        "x^{4}"
+      ],
+      "answer": 2,
+      "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 5x^{4}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = x^{8}$ with respect to $x$.",
+      "options": [
+        "8x^{7}",
+        "9x^{8}",
+        "7x^{8}",
+        "x^{7}"
+      ],
+      "answer": 0,
+      "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 8x^{7}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = x^{6}$ with respect to $x$.",
+      "options": [
+        "6x^{5}",
+        "5x^{6}",
+        "7x^{6}",
+        "x^{5}"
+      ],
+      "answer": 0,
+      "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 6x^{5}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = x^{4}$ with respect to $x$.",
+      "options": [
+        "4x^{3}",
+        "3x^{4}",
+        "x^{3}",
+        "5x^{4}"
+      ],
+      "answer": 0,
+      "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 4x^{3}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = x^{7}$ with respect to $x$.",
+      "options": [
+        "8x^{7}",
+        "6x^{7}",
+        "7x^{6}",
+        "x^{6}"
+      ],
+      "answer": 2,
+      "solution": "Power rule: $\\dfrac{dy}{dx} = n\\cdot x^{n-1} = 7x^{6}$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = 6x^{4} + 5x^{2} + 7$.",
+      "options": [
+        "24x^{3} + 10x^{1} + 7",
+        "6x^{3} + 5x^{1}",
+        "24x^{4} + 10x^{2}",
+        "24x^{3} + 10x^{1}"
+      ],
+      "answer": 3,
+      "solution": "Differentiate term-by-term using power rule; constants become 0.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = 2x^{2} + 2x^{3} + 6$.",
+      "options": [
+        "2x^{1} + 2x^{2}",
+        "4x^{2} + 6x^{3}",
+        "4x^{1} + 6x^{2}",
+        "4x^{1} + 6x^{2} + 6"
+      ],
+      "answer": 2,
+      "solution": "Differentiate term-by-term using power rule; constants become 0.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = 4x^{2} + 5x^{1} + 7$.",
+      "options": [
+        "4x^{1} + 5x^{0}",
+        "8x^{1} + 5",
+        "8x^{2} + 5x^{1}",
+        "8x^{1} + 5x^{0} + 7"
+      ],
+      "answer": 1,
+      "solution": "Differentiate term-by-term using power rule; constants become 0.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = 2x^{3} + 3x^{2} + 6$.",
+      "options": [
+        "2x^{2} + 3x^{1}",
+        "6x^{3} + 6x^{2}",
+        "6x^{2} + 6x^{1} + 6",
+        "6x^{2} + 6x^{1}"
+      ],
+      "answer": 3,
+      "solution": "Differentiate term-by-term using power rule; constants become 0.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = 5x^{2} + 5x^{1} + 8$.",
+      "options": [
+        "5x^{1} + 5x^{0}",
+        "10x^{1} + 5x^{0} + 8",
+        "10x^{2} + 5x^{1}",
+        "10x^{1} + 5"
+      ],
+      "answer": 3,
+      "solution": "Differentiate term-by-term using power rule; constants become 0.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = 3x^{3} + 3x^{1} + 5$.",
+      "options": [
+        "9x^{3} + 3x^{1}",
+        "3x^{2} + 3x^{0}",
+        "9x^{2} + 3x^{0} + 5",
+        "9x^{2} + 3"
+      ],
+      "answer": 3,
+      "solution": "Differentiate term-by-term using power rule; constants become 0.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = 4x^{2} + 2x^{1} + 10$.",
+      "options": [
+        "8x^{1} + 2x^{0} + 10",
+        "4x^{1} + 2x^{0}",
+        "8x^{2} + 2x^{1}",
+        "8x^{1} + 2"
+      ],
+      "answer": 3,
+      "solution": "Differentiate term-by-term using power rule; constants become 0.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = 7x^{4} + 6x^{2} + 8$.",
+      "options": [
+        "28x^{3} + 12x^{1} + 8",
+        "28x^{3} + 12x^{1}",
+        "7x^{3} + 6x^{1}",
+        "28x^{4} + 12x^{2}"
+      ],
+      "answer": 1,
+      "solution": "Differentiate term-by-term using power rule; constants become 0.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = 7x^{4} + 2x^{3} + 8$.",
+      "options": [
+        "28x^{4} + 6x^{3}",
+        "28x^{3} + 6x^{2} + 8",
+        "7x^{3} + 2x^{2}",
+        "28x^{3} + 6x^{2}"
+      ],
+      "answer": 3,
+      "solution": "Differentiate term-by-term using power rule; constants become 0.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = 3x^{4} + 7x^{1} + 6$.",
+      "options": [
+        "3x^{3} + 7x^{0}",
+        "12x^{3} + 7",
+        "12x^{4} + 7x^{1}",
+        "12x^{3} + 7x^{0} + 6"
+      ],
+      "answer": 1,
+      "solution": "Differentiate term-by-term using power rule; constants become 0.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = 3x^{4} + 2x^{1} + 10$.",
+      "options": [
+        "3x^{3} + 2x^{0}",
+        "12x^{3} + 2",
+        "12x^{4} + 2x^{1}",
+        "12x^{3} + 2x^{0} + 10"
+      ],
+      "answer": 1,
+      "solution": "Differentiate term-by-term using power rule; constants become 0.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = 6x^{3} + 2x^{3} + 1$.",
+      "options": [
+        "18x^{3} + 6x^{3}",
+        "18x^{2} + 6x^{2} + 1",
+        "18x^{2} + 6x^{2}",
+        "6x^{2} + 2x^{2}"
+      ],
+      "answer": 2,
+      "solution": "Differentiate term-by-term using power rule; constants become 0.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = 3x^{4} + 7x^{3} + 5$.",
+      "options": [
+        "3x^{3} + 7x^{2}",
+        "12x^{3} + 21x^{2}",
+        "12x^{4} + 21x^{3}",
+        "12x^{3} + 21x^{2} + 5"
+      ],
+      "answer": 1,
+      "solution": "Differentiate term-by-term using power rule; constants become 0.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $\\int x^{7} dx$.",
+      "options": [
+        "\\dfrac{x^{6}}{6} + C",
+        "7x^{6} + C",
+        "\\dfrac{x^{8}}{8} + C",
+        "x^{8} + C"
+      ],
+      "answer": 2,
+      "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $\\int x^{3} dx$.",
+      "options": [
+        "\\dfrac{x^{2}}{2} + C",
+        "\\dfrac{x^{4}}{4} + C",
+        "x^{4} + C",
+        "3x^{2} + C"
+      ],
+      "answer": 1,
+      "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $\\int x^{2} dx$.",
+      "options": [
+        "\\dfrac{x^{3}}{3} + C",
+        "2x^{1} + C",
+        "x^{3} + C",
+        "\\dfrac{x^{1}}{1} + C"
+      ],
+      "answer": 0,
+      "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $\\int x^{6} dx$.",
+      "options": [
+        "6x^{5} + C",
+        "\\dfrac{x^{7}}{7} + C",
+        "\\dfrac{x^{5}}{5} + C",
+        "x^{7} + C"
+      ],
+      "answer": 1,
+      "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $\\int x^{4} dx$.",
+      "options": [
+        "\\dfrac{x^{3}}{3} + C",
+        "\\dfrac{x^{5}}{5} + C",
+        "x^{5} + C",
+        "4x^{3} + C"
+      ],
+      "answer": 1,
+      "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $\\int x^{1} dx$.",
+      "options": [
+        "x^{2} + C",
+        "1x^{0} + C",
+        "\\dfrac{x^{0}}{1} + C",
+        "\\dfrac{x^{2}}{2} + C"
+      ],
+      "answer": 3,
+      "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $\\int x^{5} dx$.",
+      "options": [
+        "5x^{4} + C",
+        "\\dfrac{x^{4}}{4} + C",
+        "x^{6} + C",
+        "\\dfrac{x^{6}}{6} + C"
+      ],
+      "answer": 3,
+      "solution": "$\\int x^n dx = \\dfrac{x^{n+1}}{n+1} + C$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the area under $y = x^{2}$ from $x = 0$ to $x = 5$.",
+      "options": [
+        "\\dfrac{126}{3} \\text{ sq units}",
+        "\\dfrac{3}{125} \\text{ sq units}",
+        "\\dfrac{125}{3} \\text{ sq units}",
+        "25 \\text{ sq units}"
+      ],
+      "answer": 2,
+      "solution": "$\\int_0^5 x^2 dx = \\left[\\dfrac{x^{3}}{3}\\right]_0^5 = \\dfrac{5^{3}}{3} = 125/3$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the area under $y = x^{3}$ from $x = 0$ to $x = 5$.",
+      "options": [
+        "\\dfrac{4}{625} \\text{ sq units}",
+        "\\dfrac{625}{4} \\text{ sq units}",
+        "125 \\text{ sq units}",
+        "\\dfrac{626}{4} \\text{ sq units}"
+      ],
+      "answer": 1,
+      "solution": "$\\int_0^5 x^3 dx = \\left[\\dfrac{x^{4}}{4}\\right]_0^5 = \\dfrac{5^{4}}{4} = 625/4$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the area under $y = x^{2}$ from $x = 0$ to $x = 4$.",
+      "options": [
+        "\\dfrac{65}{3} \\text{ sq units}",
+        "\\dfrac{64}{3} \\text{ sq units}",
+        "16 \\text{ sq units}",
+        "\\dfrac{3}{64} \\text{ sq units}"
+      ],
+      "answer": 1,
+      "solution": "$\\int_0^4 x^2 dx = \\left[\\dfrac{x^{3}}{3}\\right]_0^4 = \\dfrac{4^{3}}{3} = 64/3$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the area under $y = x^{1}$ from $x = 0$ to $x = 4$.",
+      "options": [
+        "9 \\text{ sq units}",
+        "16 \\text{ sq units}",
+        "4 \\text{ sq units}",
+        "8 \\text{ sq units}"
+      ],
+      "answer": 3,
+      "solution": "$\\int_0^4 x^1 dx = \\left[\\dfrac{x^{2}}{2}\\right]_0^4 = \\dfrac{4^{2}}{2} = 8$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the area under $y = x^{1}$ from $x = 0$ to $x = 5$.",
+      "options": [
+        "5 \\text{ sq units}",
+        "\\dfrac{2}{25} \\text{ sq units}",
+        "\\dfrac{26}{2} \\text{ sq units}",
+        "\\dfrac{25}{2} \\text{ sq units}"
+      ],
+      "answer": 3,
+      "solution": "$\\int_0^5 x^1 dx = \\left[\\dfrac{x^{2}}{2}\\right]_0^5 = \\dfrac{5^{2}}{2} = 25/2$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Integration is the reverse of:",
+      "options": [
+        "Differentiation",
+        "Limits",
+        "Algebra",
+        "Geometry"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Differentiation.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the stationary point of the curve $$ y = x^2 - 4x + 5 $$",
+      "options": [
+        "(2, 1)",
+        "(2, 5)",
+        "(0, 5)",
+        "(4, 5)"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: (2, 1).",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Area of rectangle 5cm by 2cm.",
+      "options": [
+        "$$ 10cm^2 $$",
+        "$$ 14cm^2 $$",
+        "$$ 7cm^2 $$",
+        "$$ 25cm^2 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: $$ 10cm^2 $$.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$ {}^5P_3 $$",
+      "options": [
+        "60",
+        "20",
+        "10",
+        "120"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 60.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "If $$ f(x) = x^2 - 1 $$, find $$ f(3) $$.",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 3,
+      "solution": "Past question (JAMB 2021). Correct answer: 8.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Solve $$ 3(x-1) = 2x + 5 $$.",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 3,
+      "solution": "Past question (JAMB 2021). Correct answer: 8.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The gradient of the line $$ y = 3x + 2 $$ is:",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "0"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: 3.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Rationalize $$ \\frac{1}{2+\\sqrt{3}} $$",
+      "options": [
+        "$$ 2-\\sqrt{3} $$",
+        "$$ 2+\\sqrt{3} $$",
+        "$$ \\sqrt{3}-2 $$",
+        "$$ 1 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ 2-\\sqrt{3} $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "If $$ y \\propto x $$ and $$ y=6 $$ when $$ x=2 $$, find $$ y $$ when $$ x=4 $$.",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: 12.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$ \\lim_{x \\to 1} \\frac{x^2-1}{x-1} $$",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "Undefined"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: 2.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "If $$ \\mathbf{a} = 2\\mathbf{i} + 3\\mathbf{j} $$ and $$ \\mathbf{b} = \\mathbf{i} - \\mathbf{j} $$, find $$ \\mathbf{a} + \\mathbf{b} $$.",
+      "options": [
+        "$$ 3\\mathbf{i} + 2\\mathbf{j} $$",
+        "$$ 3\\mathbf{i} + 4\\mathbf{j} $$",
+        "$$ \\mathbf{i} + 4\\mathbf{j} $$",
+        "$$ 2\\mathbf{i} + 2\\mathbf{j} $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ 3\\mathbf{i} + 2\\mathbf{j} $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Simple Interest on N2000 for 3 years at 5% is:",
+      "options": [
+        "N300",
+        "N200",
+        "N100",
+        "N500"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: N300.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Find $$ x $$ if $$ 3^x = 81 $$.",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: 4.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The mode of 1, 2, 2, 3, 4 is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: 2.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Expand $$ (x+3)(x-3) $$",
+      "options": [
+        "$$ x^2 - 9 $$",
+        "$$ x^2 + 9 $$",
+        "$$ x^2 - 6x + 9 $$",
+        "$$ x^2 + 6x + 9 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ x^2 - 9 $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Find the derivative of a constant.",
+      "options": [
+        "0",
+        "1",
+        "x",
+        "Undefined"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 0.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "If $$ P(\\text{success}) = 0.6 $$, then $$ P(\\text{failure}) $$ is:",
+      "options": [
+        "0.4",
+        "0.6",
+        "0.5",
+        "0.0"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 0.4.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Calculate $$ 20\\% $$ of 500.",
+      "options": [
+        "50",
+        "100",
+        "20",
+        "200"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: 100.",
+      "source": "JAMB 2021",
+      "practice": false
+    }
+  ]
 }

@@ -12,43 +12,71 @@
   "modules": [
     {
       "title": "AC values",
-      "html": "<p>An alternating voltage V = V₀ sin(ωt) has:</p><ul><li><b>Peak value</b> V₀.</li><li><b>RMS value</b> V_rms = V₀/√2 ≈ 0.707 V₀.</li><li><b>Average over full cycle</b>: 0. Mean over half cycle = 2V₀/π ≈ 0.637 V₀.</li><li><b>Angular frequency</b> ω = 2πf. Period T = 1/f.</li></ul><p>Household meters read RMS; e.g. 240 V mains has V₀ ≈ 340 V.</p>",
+      "html": "<p>An alternating voltage V = V\u2080 sin(\u03c9t) has:</p><ul><li><b>Peak value</b> V\u2080.</li><li><b>RMS value</b> V_rms = V\u2080/\u221a2 \u2248 0.707 V\u2080.</li><li><b>Average over full cycle</b>: 0. Mean over half cycle = 2V\u2080/\u03c0 \u2248 0.637 V\u2080.</li><li><b>Angular frequency</b> \u03c9 = 2\u03c0f. Period T = 1/f.</li></ul><p>Household meters read RMS; e.g. 240 V mains has V\u2080 \u2248 340 V.</p><h4>Key points</h4><ul><li>100\u00b7\u221a2 \u2248 141.</li><li>200/\u221a2 \u2248 141.</li></ul><h4>Worked example</h4><p><b>Q:</b> Peak of a 100 V rms supply:<br/><b>A:</b> 141 V</p><p><b>Q:</b> RMS of a 200 V peak AC:<br/><b>A:</b> 141 V</p>",
       "examples": [
         {
           "q": "RMS of a 100 V peak AC?",
-          "a": "100/√2 ≈ 70.7 V."
+          "a": "100/\u221a2 \u2248 70.7 V."
         },
         {
           "q": "Peak of a 220 V rms supply?",
-          "a": "220·√2 ≈ 311 V."
+          "a": "220\u00b7\u221a2 \u2248 311 V."
         }
       ]
     },
     {
       "title": "Pure resistor, inductor, capacitor",
-      "html": "<p><b>Pure resistor</b>: V and I in phase. Power dissipated = V_rms · I_rms.</p><p><b>Pure inductor</b>: V leads I by 90°. Inductive reactance X_L = 2πfL.</p><p><b>Pure capacitor</b>: I leads V by 90°. Capacitive reactance X_C = 1/(2πfC).</p><p>Pure L and C dissipate no real power on average.</p>",
+      "html": "<p><b>Pure resistor</b>: V and I in phase. Power dissipated = V_rms \u00b7 I_rms.</p><p><b>Pure inductor</b>: V leads I by 90\u00b0. Inductive reactance X_L = 2\u03c0fL.</p><p><b>Pure capacitor</b>: I leads V by 90\u00b0. Capacitive reactance X_C = 1/(2\u03c0fC).</p><p>Pure L and C dissipate no real power on average.</p><h4>Key points</h4><ul><li>R has no phase shift.</li><li>V leads I by 90\u00b0.</li></ul><h4>Worked example</h4><p><b>Q:</b> In a pure resistor, current and voltage are<br/><b>A:</b> in phase</p><p><b>Q:</b> In a pure inductor, voltage<br/><b>A:</b> leads current by 90\u00b0</p><h4>More key points</h4><ul><li>In a pure resistor, current and voltage are \u2014 in phase.</li><li>In a pure inductor, voltage \u2014 leads current by 90\u00b0.</li><li>In a pure capacitor, current \u2014 leads voltage by 90\u00b0.</li><li>A 10 \u03a9 resistor across 100 V rms carries current \u2014 10 A.</li></ul>",
       "examples": [
         {
           "q": "Reactance of a 0.1 H inductor at 50 Hz?",
-          "a": "X_L = 2π·50·0.1 ≈ 31.4 Ω."
+          "a": "X_L = 2\u03c0\u00b750\u00b70.1 \u2248 31.4 \u03a9."
         },
         {
-          "q": "Reactance of a 10 μF capacitor at 50 Hz?",
-          "a": "X_C = 1/(2π·50·10⁻⁵) ≈ 318 Ω."
+          "q": "Reactance of a 10 \u03bcF capacitor at 50 Hz?",
+          "a": "X_C = 1/(2\u03c0\u00b750\u00b710\u207b\u2075) \u2248 318 \u03a9."
         }
       ]
     },
     {
       "title": "Impedance and R-L-C circuits",
-      "html": "<p>Series R-L-C impedance Z = √(R² + (X_L − X_C)²).</p><p>Phase angle: tan φ = (X_L − X_C)/R. Current I = V/Z.</p><p><b>Resonance</b> occurs when X_L = X_C → f₀ = 1/(2π√(LC)). At resonance Z = R (minimum), current maximum, and voltage across L and C cancel.</p><p>Power factor = cos φ = R/Z. Real power P = V_rms · I_rms · cos φ.</p>",
+      "html": "<p>Series R-L-C impedance Z = \u221a(R\u00b2 + (X_L \u2212 X_C)\u00b2).</p><p>Phase angle: tan \u03c6 = (X_L \u2212 X_C)/R. Current I = V/Z.</p><p><b>Resonance</b> occurs when X_L = X_C \u2192 f\u2080 = 1/(2\u03c0\u221a(LC)). At resonance Z = R (minimum), current maximum, and voltage across L and C cancel.</p><p>Power factor = cos \u03c6 = R/Z. Real power P = V_rms \u00b7 I_rms \u00b7 cos \u03c6.</p><h4>Key points</h4><ul><li>Vector sum.</li><li>Impedance triangle.</li></ul><h4>Worked example</h4><p><b>Q:</b> Impedance of series R-L-C:<br/><b>A:</b> \u221a(R\u00b2+(X_L\u2212X_C)\u00b2)</p><p><b>Q:</b> Impedance triangle sides are<br/><b>A:</b> R, X_L\u2212X_C, Z</p><h4>More key points</h4><ul><li>Impedance of series R-L-C: \u2014 \u221a(R\u00b2+(X_L\u2212X_C)\u00b2).</li><li>Impedance triangle sides are \u2014 R, X_L\u2212X_C, Z.</li><li>The reciprocal of impedance is \u2014 admittance.</li></ul>",
       "examples": [
         {
-          "q": "R=8 Ω, X_L=10 Ω, X_C=4 Ω. Impedance?",
-          "a": "Z = √(64+36)=10 Ω."
+          "q": "R=8 \u03a9, X_L=10 \u03a9, X_C=4 \u03a9. Impedance?",
+          "a": "Z = \u221a(64+36)=10 \u03a9."
         },
         {
-          "q": "Resonant frequency of L=0.1 H, C=10 μF?",
-          "a": "f₀ = 1/(2π√(10⁻⁶)) = 159 Hz."
+          "q": "Resonant frequency of L=0.1 H, C=10 \u03bcF?",
+          "a": "f\u2080 = 1/(2\u03c0\u221a(10\u207b\u2076)) = 159 Hz."
+        }
+      ]
+    },
+    {
+      "title": "Peak, RMS and average values",
+      "html": "<p><b>Peak, RMS and average values</b> is a key part of AC Circuits (SSS 3, Physics). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>An alternating voltage V = V\u2080 sin(\u03c9t) has: Peak value V\u2080.</li><li>RMS value V_rms = V\u2080/\u221a2 \u2248 0.707 V\u2080.</li><li>Average over full cycle : 0.</li><li>Household meters read RMS; e.g.</li><li>Worked example Q: Peak of a 100 V rms supply: A: 141 V Q: RMS of a 200 V peak AC: A: 141 V</li></ul><h4>Worked example</h4><p><b>Q:</b> Peak of a 100 V rms supply:<br/><b>A:</b> 141 V \u2014 100\u00b7\u221a2 \u2248 141.</p><p><b>Q:</b> RMS of a 200 V peak AC:<br/><b>A:</b> 141 V \u2014 200/\u221a2 \u2248 141.</p>",
+      "examples": [
+        {
+          "q": "Peak of a 100 V rms supply:",
+          "a": "141 V \u2014 100\u00b7\u221a2 \u2248 141."
+        },
+        {
+          "q": "RMS of a 200 V peak AC:",
+          "a": "141 V \u2014 200/\u221a2 \u2248 141."
+        }
+      ]
+    },
+    {
+      "title": "Pure resistive, inductive, capacitive AC circuits",
+      "html": "<p><b>Pure resistive, inductive, capacitive AC circuits</b> is a key part of AC Circuits (SSS 3, Physics). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Pure resistor : V and I in phase.</li><li>Pure inductor : V leads I by 90\u00b0.</li><li>Inductive reactance X_L = 2\u03c0fL.</li><li>Pure capacitor : I leads V by 90\u00b0.</li><li>Capacitive reactance X_C = 1/(2\u03c0fC).</li></ul><h4>Worked example</h4><p><b>Q:</b> In a pure resistor, current and voltage are<br/><b>A:</b> in phase \u2014 R has no phase shift.</p><p><b>Q:</b> In a pure inductor, voltage<br/><b>A:</b> leads current by 90\u00b0 \u2014 V leads I by 90\u00b0.</p>",
+      "examples": [
+        {
+          "q": "In a pure resistor, current and voltage are",
+          "a": "in phase \u2014 R has no phase shift."
+        },
+        {
+          "q": "In a pure inductor, voltage",
+          "a": "leads current by 90\u00b0 \u2014 V leads I by 90\u00b0."
         }
       ]
     }
@@ -63,7 +91,9 @@
         "200 V"
       ],
       "answer": 1,
-      "solution": "100·√2 ≈ 141."
+      "solution": "100\u00b7\u221a2 \u2248 141.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "RMS of a 200 V peak AC:",
@@ -74,7 +104,9 @@
         "283 V"
       ],
       "answer": 1,
-      "solution": "200/√2 ≈ 141."
+      "solution": "200/\u221a2 \u2248 141.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Mains 240 V rms has peak of about",
@@ -85,73 +117,87 @@
         "340 V"
       ],
       "answer": 3,
-      "solution": "240·√2 ≈ 339."
+      "solution": "240\u00b7\u221a2 \u2248 339.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Angular frequency at 50 Hz:",
       "options": [
         "50",
-        "100π",
-        "2π",
+        "100\u03c0",
+        "2\u03c0",
         "314 rad/s"
       ],
       "answer": 3,
-      "solution": "ω=2π·50 ≈ 314."
+      "solution": "\u03c9=2\u03c0\u00b750 \u2248 314.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "In a pure resistor, current and voltage are",
       "options": [
-        "90° out of phase",
+        "90\u00b0 out of phase",
         "in phase",
-        "180° apart",
-        "45° apart"
+        "180\u00b0 apart",
+        "45\u00b0 apart"
       ],
       "answer": 1,
-      "solution": "R has no phase shift."
+      "solution": "R has no phase shift.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "In a pure inductor, voltage",
       "options": [
-        "lags current by 90°",
-        "leads current by 90°",
+        "lags current by 90\u00b0",
+        "leads current by 90\u00b0",
         "in phase",
-        "180°"
+        "180\u00b0"
       ],
       "answer": 1,
-      "solution": "V leads I by 90°."
+      "solution": "V leads I by 90\u00b0.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "In a pure capacitor, current",
       "options": [
-        "leads voltage by 90°",
-        "lags voltage by 90°",
+        "leads voltage by 90\u00b0",
+        "lags voltage by 90\u00b0",
         "in phase",
-        "180°"
+        "180\u00b0"
       ],
       "answer": 0,
-      "solution": "I leads V by 90°."
+      "solution": "I leads V by 90\u00b0.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Inductive reactance X_L =",
       "options": [
-        "1/(ωL)",
-        "ωL",
-        "ωC",
-        "1/(ωC)"
+        "1/(\u03c9L)",
+        "\u03c9L",
+        "\u03c9C",
+        "1/(\u03c9C)"
       ],
       "answer": 1,
-      "solution": "2πfL."
+      "solution": "2\u03c0fL.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Capacitive reactance X_C =",
       "options": [
-        "ωC",
-        "1/(ωC)",
-        "ωL",
-        "1/(ωL)"
+        "\u03c9C",
+        "1/(\u03c9C)",
+        "\u03c9L",
+        "1/(\u03c9L)"
       ],
       "answer": 1,
-      "solution": "1/(2πfC)."
+      "solution": "1/(2\u03c0fC).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "As frequency increases, X_L",
@@ -162,7 +208,9 @@
         "becomes negative"
       ],
       "answer": 2,
-      "solution": "X_L ∝ f."
+      "solution": "X_L \u221d f.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "As frequency increases, X_C",
@@ -173,62 +221,74 @@
         "zero"
       ],
       "answer": 1,
-      "solution": "X_C ∝ 1/f."
+      "solution": "X_C \u221d 1/f.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Reactance of 0.2 H at 50 Hz:",
       "options": [
-        "≈ 6.3 Ω",
-        "≈ 31.4 Ω",
-        "≈ 62.8 Ω",
-        "≈ 100 Ω"
+        "\u2248 6.3 \u03a9",
+        "\u2248 31.4 \u03a9",
+        "\u2248 62.8 \u03a9",
+        "\u2248 100 \u03a9"
       ],
       "answer": 2,
-      "solution": "2π·50·0.2 ≈ 62.8."
+      "solution": "2\u03c0\u00b750\u00b70.2 \u2248 62.8.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Reactance of 100 μF at 50 Hz:",
+      "q": "Reactance of 100 \u03bcF at 50 Hz:",
       "options": [
-        "≈ 15.9 Ω",
-        "≈ 31.8 Ω",
-        "≈ 100 Ω",
-        "≈ 200 Ω"
+        "\u2248 15.9 \u03a9",
+        "\u2248 31.8 \u03a9",
+        "\u2248 100 \u03a9",
+        "\u2248 200 \u03a9"
       ],
       "answer": 1,
-      "solution": "1/(2π·50·1e-4)≈31.8."
+      "solution": "1/(2\u03c0\u00b750\u00b71e-4)\u224831.8.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Impedance of series R-L-C:",
       "options": [
         "R+X_L+X_C",
-        "√(R²+(X_L−X_C)²)",
-        "R−X_L+X_C",
-        "R²+X_L²+X_C²"
+        "\u221a(R\u00b2+(X_L\u2212X_C)\u00b2)",
+        "R\u2212X_L+X_C",
+        "R\u00b2+X_L\u00b2+X_C\u00b2"
       ],
       "answer": 1,
-      "solution": "Vector sum."
+      "solution": "Vector sum.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "R=6, X_L=10, X_C=2. Z equals",
       "options": [
-        "8 Ω",
-        "10 Ω",
-        "12 Ω",
-        "14 Ω"
+        "8 \u03a9",
+        "10 \u03a9",
+        "12 \u03a9",
+        "14 \u03a9"
       ],
       "answer": 1,
-      "solution": "√(36+64)=10."
+      "solution": "\u221a(36+64)=10.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "R=3, X_L=4, X_C=0. Z equals",
       "options": [
-        "3 Ω",
-        "4 Ω",
-        "5 Ω",
-        "7 Ω"
+        "3 \u03a9",
+        "4 \u03a9",
+        "5 \u03a9",
+        "7 \u03a9"
       ],
       "answer": 2,
-      "solution": "√(9+16)=5."
+      "solution": "\u221a(9+16)=5.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "At resonance in R-L-C:",
@@ -239,62 +299,74 @@
         "V_L is zero"
       ],
       "answer": 2,
-      "solution": "Reactances cancel."
+      "solution": "Reactances cancel.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Resonant frequency of series R-L-C:",
       "options": [
-        "1/(2π√LC)",
-        "2π√LC",
-        "1/(2πLC)",
+        "1/(2\u03c0\u221aLC)",
+        "2\u03c0\u221aLC",
+        "1/(2\u03c0LC)",
         "LC"
       ],
       "answer": 0,
-      "solution": "f₀=1/(2π√LC)."
+      "solution": "f\u2080=1/(2\u03c0\u221aLC).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "f₀ for L=0.01 H, C=1 μF:",
+      "q": "f\u2080 for L=0.01 H, C=1 \u03bcF:",
       "options": [
-        "≈ 1.59 kHz",
-        "≈ 15.9 kHz",
-        "≈ 159 Hz",
-        "≈ 500 Hz"
+        "\u2248 1.59 kHz",
+        "\u2248 15.9 kHz",
+        "\u2248 159 Hz",
+        "\u2248 500 Hz"
       ],
       "answer": 0,
-      "solution": "1/(2π√(1e-8))≈1592 Hz."
+      "solution": "1/(2\u03c0\u221a(1e-8))\u22481592 Hz.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Power factor is defined as",
       "options": [
         "V/I",
-        "cos φ",
-        "tan φ",
+        "cos \u03c6",
+        "tan \u03c6",
         "Z/R"
       ],
       "answer": 1,
-      "solution": "cos φ."
+      "solution": "cos \u03c6.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Real power in AC:",
       "options": [
         "VI",
-        "VI cos φ",
-        "VI tan φ",
-        "VI²"
+        "VI cos \u03c6",
+        "VI tan \u03c6",
+        "VI\u00b2"
       ],
       "answer": 1,
-      "solution": "P = VI cos φ."
+      "solution": "P = VI cos \u03c6.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Apparent power is",
       "options": [
-        "V·I",
-        "V·I·cos φ",
-        "V·I·sin φ",
-        "I²R"
+        "V\u00b7I",
+        "V\u00b7I\u00b7cos \u03c6",
+        "V\u00b7I\u00b7sin \u03c6",
+        "I\u00b2R"
       ],
       "answer": 0,
-      "solution": "VA rating."
+      "solution": "VA rating.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which does not dissipate real power on average?",
@@ -305,10 +377,12 @@
         "Both inductor and capacitor"
       ],
       "answer": 3,
-      "solution": "Ideal L and C store and return energy."
+      "solution": "Ideal L and C store and return energy.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "A 10 Ω resistor across 100 V rms carries current",
+      "q": "A 10 \u03a9 resistor across 100 V rms carries current",
       "options": [
         "5 A",
         "10 A",
@@ -316,18 +390,22 @@
         "20 A"
       ],
       "answer": 1,
-      "solution": "I=V/R=10 A."
+      "solution": "I=V/R=10 A.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Power dissipated in a resistor R at V_rms:",
       "options": [
-        "V·I",
-        "V²/R",
-        "V²R",
-        "V·I²"
+        "V\u00b7I",
+        "V\u00b2/R",
+        "V\u00b2R",
+        "V\u00b7I\u00b2"
       ],
       "answer": 1,
-      "solution": "P=V²/R."
+      "solution": "P=V\u00b2/R.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Series R-L-C with R=10, X_L=X_C=10 (resonance). Current from 100 V rms source:",
@@ -335,54 +413,64 @@
         "1 A",
         "5 A",
         "10 A",
-        "∞"
+        "\u221e"
       ],
       "answer": 2,
-      "solution": "Z=R=10 → I=10."
+      "solution": "Z=R=10 \u2192 I=10.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Phase angle tan φ = ",
+      "q": "Phase angle tan \u03c6 = ",
       "options": [
-        "R/(X_L−X_C)",
-        "(X_L−X_C)/R",
-        "X_L·X_C/R",
-        "R·X_L·X_C"
+        "R/(X_L\u2212X_C)",
+        "(X_L\u2212X_C)/R",
+        "X_L\u00b7X_C/R",
+        "R\u00b7X_L\u00b7X_C"
       ],
       "answer": 1,
-      "solution": "Standard result."
+      "solution": "Standard result.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Voltage across an inductor in a series R-L circuit is",
       "options": [
         "in phase with current",
-        "leading current by 90°",
-        "lagging current by 90°",
+        "leading current by 90\u00b0",
+        "lagging current by 90\u00b0",
         "in phase with V_R"
       ],
       "answer": 1,
-      "solution": "V_L leads I."
+      "solution": "V_L leads I.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Voltage across a capacitor in series R-C circuit",
       "options": [
-        "leads current by 90°",
-        "lags current by 90°",
+        "leads current by 90\u00b0",
+        "lags current by 90\u00b0",
         "in phase",
         "opposite polarity"
       ],
       "answer": 1,
-      "solution": "V_C lags I."
+      "solution": "V_C lags I.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Impedance triangle sides are",
       "options": [
         "R, X_L, X_C",
-        "R, X_L−X_C, Z",
+        "R, X_L\u2212X_C, Z",
         "V, I, P",
         "V_R, V_L, V_C"
       ],
       "answer": 1,
-      "solution": "Impedance triangle."
+      "solution": "Impedance triangle.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A transformer of turn ratio 1:10 steps up voltage by",
@@ -393,7 +481,9 @@
         "100"
       ],
       "answer": 2,
-      "solution": "V_s/V_p=N_s/N_p."
+      "solution": "V_s/V_p=N_s/N_p.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An AC ammeter measures",
@@ -404,7 +494,9 @@
         "instantaneous current"
       ],
       "answer": 2,
-      "solution": "RMS is the useful DC-equivalent."
+      "solution": "RMS is the useful DC-equivalent.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Inductance is measured in",
@@ -415,7 +507,9 @@
         "volt"
       ],
       "answer": 2,
-      "solution": "Henry."
+      "solution": "Henry.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Capacitance is measured in",
@@ -426,7 +520,9 @@
         "tesla"
       ],
       "answer": 2,
-      "solution": "Farad."
+      "solution": "Farad.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The reciprocal of impedance is",
@@ -437,7 +533,9 @@
         "susceptance"
       ],
       "answer": 1,
-      "solution": "Admittance Y = 1/Z."
+      "solution": "Admittance Y = 1/Z.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "If X_L > X_C in a series R-L-C circuit, the circuit is",
@@ -448,7 +546,9 @@
         "at resonance"
       ],
       "answer": 1,
-      "solution": "Inductive dominance."
+      "solution": "Inductive dominance.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "At very low frequency, a capacitor behaves like",
@@ -459,7 +559,9 @@
         "inductor"
       ],
       "answer": 1,
-      "solution": "X_C→∞ so open."
+      "solution": "X_C\u2192\u221e so open.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "At very high frequency, an inductor behaves like",
@@ -470,18 +572,22 @@
         "capacitor"
       ],
       "answer": 1,
-      "solution": "X_L→∞ so open."
+      "solution": "X_L\u2192\u221e so open.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Rms value of I = 4 sin(ωt) A:",
+      "q": "Rms value of I = 4 sin(\u03c9t) A:",
       "options": [
         "4 A",
-        "2√2 A",
+        "2\u221a2 A",
         "2 A",
         "1 A"
       ],
       "answer": 1,
-      "solution": "4/√2 ≈ 2.83 A."
+      "solution": "4/\u221a2 \u2248 2.83 A.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The frequency of Nigerian mains is",
@@ -492,18 +598,22 @@
         "240 Hz"
       ],
       "answer": 0,
-      "solution": "50 Hz."
+      "solution": "50 Hz.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Average power in a pure inductor over a full cycle is",
       "options": [
-        "V·I",
-        "V·I/2",
+        "V\u00b7I",
+        "V\u00b7I/2",
         "0",
-        "V²/R"
+        "V\u00b2/R"
       ],
       "answer": 2,
-      "solution": "No dissipation."
+      "solution": "No dissipation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A tuned radio circuit uses",
@@ -514,7 +624,9 @@
         "photoelectric effect"
       ],
       "answer": 1,
-      "solution": "Selects station frequency."
+      "solution": "Selects station frequency.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A choke reduces AC current by",
@@ -525,40 +637,48 @@
         "being capacitive"
       ],
       "answer": 1,
-      "solution": "Inductive reactance limits current."
+      "solution": "Inductive reactance limits current.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Two capacitors 2 μF and 3 μF in parallel:",
+      "q": "Two capacitors 2 \u03bcF and 3 \u03bcF in parallel:",
       "options": [
-        "1.2 μF",
-        "2 μF",
-        "3 μF",
-        "5 μF"
+        "1.2 \u03bcF",
+        "2 \u03bcF",
+        "3 \u03bcF",
+        "5 \u03bcF"
       ],
       "answer": 3,
-      "solution": "Add: 5 μF."
+      "solution": "Add: 5 \u03bcF.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Two capacitors 6 μF and 3 μF in series:",
+      "q": "Two capacitors 6 \u03bcF and 3 \u03bcF in series:",
       "options": [
-        "1 μF",
-        "2 μF",
-        "3 μF",
-        "9 μF"
+        "1 \u03bcF",
+        "2 \u03bcF",
+        "3 \u03bcF",
+        "9 \u03bcF"
       ],
       "answer": 1,
-      "solution": "6·3/9=2."
+      "solution": "6\u00b73/9=2.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Current in a pure C leads the voltage by",
       "options": [
-        "0°",
-        "45°",
-        "90°",
-        "180°"
+        "0\u00b0",
+        "45\u00b0",
+        "90\u00b0",
+        "180\u00b0"
       ],
       "answer": 2,
-      "solution": "Standard result."
+      "solution": "Standard result.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Peak-to-peak of a 100 V rms AC is about",
@@ -569,10 +689,12 @@
         "283 V"
       ],
       "answer": 3,
-      "solution": "2·√2·100 ≈ 283."
+      "solution": "2\u00b7\u221a2\u00b7100 \u2248 283.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "An RLC circuit resonates at 500 Hz. If L is doubled, new f₀:",
+      "q": "An RLC circuit resonates at 500 Hz. If L is doubled, new f\u2080:",
       "options": [
         "500 Hz",
         "354 Hz",
@@ -580,10 +702,12 @@
         "1000 Hz"
       ],
       "answer": 1,
-      "solution": "f₀ ∝ 1/√L → factor 1/√2."
+      "solution": "f\u2080 \u221d 1/\u221aL \u2192 factor 1/\u221a2.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "An RLC circuit resonates at 500 Hz. If C is quadrupled, new f₀:",
+      "q": "An RLC circuit resonates at 500 Hz. If C is quadrupled, new f\u2080:",
       "options": [
         "1000 Hz",
         "500 Hz",
@@ -591,7 +715,9 @@
         "125 Hz"
       ],
       "answer": 2,
-      "solution": "f₀ ∝ 1/√C → half."
+      "solution": "f\u2080 \u221d 1/\u221aC \u2192 half.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Ohm's law is strictly valid in AC for",
@@ -602,7 +728,9 @@
         "all"
       ],
       "answer": 0,
-      "solution": "V=IR at any instant only for R."
+      "solution": "V=IR at any instant only for R.",
+      "source": "Chapter notes",
+      "practice": false
     }
   ]
 }

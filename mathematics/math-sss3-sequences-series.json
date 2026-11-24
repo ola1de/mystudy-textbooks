@@ -1,596 +1,728 @@
 {
- "topic": "Sequences and Series",
- "ss_level": "SSS 3",
- "icon": "fa-list-ol",
- "color": "#f59e0b",
- "outline": [
-  "Arithmetic Progression: n-th term, sum",
-  "Geometric Progression: n-th term, sum, sum to infinity"
- ],
- "modules": [
-  {
-   "title": "Module 1 · Arithmetic Progression",
-   "html": "<p>An AP has a common difference $d$ added each term: $a, a+d, a+2d, \\ldots$</p>$$T_n = a + (n-1)d,\\qquad S_n = \\dfrac{n}{2}\\bigl[2a+(n-1)d\\bigr] = \\dfrac{n}{2}(a+l)$$<p>where $l$ is the last term.</p>",
-   "examples": [
+  "topic": "Sequences and Series",
+  "ss_level": "SSS 3",
+  "icon": "fa-list-ol",
+  "color": "#f59e0b",
+  "outline": [
+    "Arithmetic Progression: n-th term, sum",
+    "Geometric Progression: n-th term, sum, sum to infinity",
+    "Module 1 \u00b7 Arithmetic Progression",
+    "Module 2 \u00b7 Geometric Progression",
+    "Module 3 \u00b7 Sum to Infinity",
+    "Revision and exam focus"
+  ],
+  "modules": [
     {
-     "q": "Find the 12th term of AP: 3, 7, 11, ...",
-     "a": "$a=3, d=4$. $T_{12}=3+11\\cdot 4=47$."
-    }
-   ]
-  },
-  {
-   "title": "Module 2 · Geometric Progression",
-   "html": "<p>A GP has a common ratio $r$ multiplied each term: $a, ar, ar^2, \\ldots$</p>$$T_n = ar^{n-1},\\qquad S_n = \\dfrac{a(r^n - 1)}{r-1}\\ (r\\ne 1)$$",
-   "examples": [
+      "title": "Module 1 \u00b7 Arithmetic Progression",
+      "html": "<p>An AP has a common difference $d$ added each term: $a, a+d, a+2d, \\ldots$</p>$$T_n = a + (n-1)d,\\qquad S_n = \\dfrac{n}{2}\\bigl[2a+(n-1)d\\bigr] = \\dfrac{n}{2}(a+l)$$<p>where $l$ is the last term.</p><h4>Key points</h4><ul><li>$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{7}{2}(20+6\\cdot 4) = 154$.</li><li>$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{10}{2}(10+9\\cdot 4) = 230$.</li></ul><h4>Worked example</h4><p><b>Q:</b> Find the sum of the first $7$ terms of AP with first term $10$ and common difference $4$.<br/><b>A:</b> 154</p><p><b>Q:</b> Find the sum of the first $10$ terms of AP with first term $5$ and common difference $4$.<br/><b>A:</b> 230</p>",
+      "examples": [
+        {
+          "q": "Find the 12th term of AP: 3, 7, 11, ...",
+          "a": "$a=3, d=4$. $T_{12}=3+11\\cdot 4=47$."
+        }
+      ]
+    },
     {
-     "q": "Find the 5th term of GP: 2, 6, 18, ...",
-     "a": "$a=2, r=3$. $T_5 = 2\\cdot 3^4 = 162$."
-    }
-   ]
-  },
-  {
-   "title": "Module 3 · Sum to Infinity",
-   "html": "<p>When $|r|<1$, the infinite sum converges:</p>$$S_\\infty = \\dfrac{a}{1-r}$$",
-   "examples": [
+      "title": "Module 2 \u00b7 Geometric Progression",
+      "html": "<p>A GP has a common ratio $r$ multiplied each term: $a, ar, ar^2, \\ldots$</p>$$T_n = ar^{n-1},\\qquad S_n = \\dfrac{a(r^n - 1)}{r-1}\\ (r\\ne 1)$$<h4>Key points</h4><ul><li>$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{7}{2}(20+6\\cdot 4) = 154$.</li><li>$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{10}{2}(10+9\\cdot 4) = 230$.</li></ul><h4>Worked example</h4><p><b>Q:</b> Find the sum of the first $7$ terms of AP with first term $10$ and common difference $4$.<br/><b>A:</b> 154</p><p><b>Q:</b> Find the sum of the first $10$ terms of AP with first term $5$ and common difference $4$.<br/><b>A:</b> 230</p>",
+      "examples": [
+        {
+          "q": "Find the 5th term of GP: 2, 6, 18, ...",
+          "a": "$a=2, r=3$. $T_5 = 2\\cdot 3^4 = 162$."
+        }
+      ]
+    },
     {
-     "q": "Sum to infinity of $6 + 3 + 1.5 + \\ldots$",
-     "a": "$a=6, r=0.5$. $S_\\infty = 6/(1-0.5) = 12$."
+      "title": "Module 3 \u00b7 Sum to Infinity",
+      "html": "<p>When $|r|<1$, the infinite sum converges:</p>$$S_\\infty = \\dfrac{a}{1-r}$$<h4>Key points</h4><ul><li>$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{7}{2}(20+6\\cdot 4) = 154$.</li><li>$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{10}{2}(10+9\\cdot 4) = 230$.</li></ul><h4>Worked example</h4><p><b>Q:</b> Find the sum of the first $7$ terms of AP with first term $10$ and common difference $4$.<br/><b>A:</b> 154</p><p><b>Q:</b> Find the sum of the first $10$ terms of AP with first term $5$ and common difference $4$.<br/><b>A:</b> 230</p><h4>More key points</h4><ul><li>Find the sum of the first $7$ terms of AP with first term $10$ and common difference $4$. \u2014 154.</li><li>Find the sum of the first $10$ terms of AP with first term $5$ and common difference $4$. \u2014 230.</li><li>Find the sum of the first $16$ terms of AP with first term $5$ and common difference $2$. \u2014 320.</li><li>Find the sum of the first $9$ terms of AP with first term $3$ and common difference $5$. \u2014 207.</li></ul>",
+      "examples": [
+        {
+          "q": "Sum to infinity of $6 + 3 + 1.5 + \\ldots$",
+          "a": "$a=6, r=0.5$. $S_\\infty = 6/(1-0.5) = 12$."
+        }
+      ]
+    },
+    {
+      "title": "Geometric Progression: n-th term, sum, sum to infinity",
+      "html": "<p><b>Geometric Progression: n-th term, sum, sum to infinity</b> is a key part of Sequences and Series (SSS 3, Mathematics). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>An AP has a common difference $d$ added each term: $a, a+d, a+2d, \\ldots$ $$T_n = a + (n-1)d,\\qquad S_n = \\dfrac{n}{2}\\bigl[2a+(n-1)d\\bigr] = \\dfrac{n}{2}(a+l)$$ where $l$ is the last term.</li><li>Worked example Q: Find the sum of the first $7$ terms of AP with first term $10$ and common difference $4$.</li><li>A: 154 Q: Find the sum of the first $10$ terms of AP with first term $5$ and common difference $4$.</li><li>A GP has a common ratio $r$ multiplied each term: $a, ar, ar^2, \\ldots$ $$T_n = ar^{n-1},\\qquad S_n = \\dfrac{a(r^n - 1)}{r-1}\\ (r\\ne 1)$$ Key points $S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{7}{2}(20+6\\cdot 4) = 154$.</li></ul><h4>Worked example</h4><p><b>Q:</b> Find the sum of the first $7$ terms of AP with first term $10$ and common difference $4$.<br/><b>A:</b> 154 \u2014 $S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{7}{2}(20+6\\cdot 4) = 154$.</p><p><b>Q:</b> Find the sum of the first $10$ terms of AP with first term $5$ and common difference $4$.<br/><b>A:</b> 230 \u2014 $S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{10}{2}(10+9\\cdot 4) = 230$.</p>",
+      "examples": [
+        {
+          "q": "Find the sum of the first $7$ terms of AP with first term $10$ and common difference $4$.",
+          "a": "154 \u2014 $S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{7}{2}(20+6\\cdot 4) = 154$."
+        },
+        {
+          "q": "Find the sum of the first $10$ terms of AP with first term $5$ and common difference $4$.",
+          "a": "230 \u2014 $S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{10}{2}(10+9\\cdot 4) = 230$."
+        }
+      ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> Find the sum of the first $7$ terms of AP with first term $10$ and common difference $4$.<br/><b>A:</b> 154 \u2014 $S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{7}{2}(20+6\\cdot 4) = 154$.</p><p><b>Q:</b> Find the sum of the first $10$ terms of AP with first term $5$ and common difference $4$.<br/><b>A:</b> 230 \u2014 $S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{10}{2}(10+9\\cdot 4) = 230$.</p><p><b>Q:</b> Find the sum of the first $16$ terms of AP with first term $5$ and common difference $2$.<br/><b>A:</b> 320 \u2014 $S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{16}{2}(10+15\\cdot 2) = 320$.</p>",
+      "examples": [
+        {
+          "q": "Find the sum of the first $7$ terms of AP with first term $10$ and common difference $4$.",
+          "a": "154"
+        },
+        {
+          "q": "Find the sum of the first $10$ terms of AP with first term $5$ and common difference $4$.",
+          "a": "230"
+        }
+      ]
     }
-   ]
-  }
- ],
- "slug": "sequences-series",
- "subject": "Mathematics",
- "quiz": [
-  {
-   "q": "Find the $6$th term of the AP with first term $10$ and common difference $1$.",
-   "options": [
-    "16",
-    "16",
-    "14",
-    "15"
-   ],
-   "answer": 3,
-   "solution": "$T_n = a + (n-1)d = 10 + (6-1)\\cdot 1 = 15$."
-  },
-  {
-   "q": "Find the $7$th term of the AP with first term $10$ and common difference $2$.",
-   "options": [
-    "22",
-    "24",
-    "20",
-    "24"
-   ],
-   "answer": 0,
-   "solution": "$T_n = a + (n-1)d = 10 + (7-1)\\cdot 2 = 22$."
-  },
-  {
-   "q": "Find the $4$th term of the AP with first term $2$ and common difference $3$.",
-   "options": [
-    "11",
-    "14",
-    "8",
-    "14"
-   ],
-   "answer": 0,
-   "solution": "$T_n = a + (n-1)d = 2 + (4-1)\\cdot 3 = 11$."
-  },
-  {
-   "q": "Find the $5$th term of the AP with first term $4$ and common difference $7$.",
-   "options": [
-    "39",
-    "32",
-    "39",
-    "25"
-   ],
-   "answer": 1,
-   "solution": "$T_n = a + (n-1)d = 4 + (5-1)\\cdot 7 = 32$."
-  },
-  {
-   "q": "Find the $12$th term of the AP with first term $6$ and common difference $3$.",
-   "options": [
-    "39",
-    "36",
-    "42",
-    "42"
-   ],
-   "answer": 0,
-   "solution": "$T_n = a + (n-1)d = 6 + (12-1)\\cdot 3 = 39$."
-  },
-  {
-   "q": "Find the $10$th term of the AP with first term $7$ and common difference $1$.",
-   "options": [
-    "17",
-    "16",
-    "15",
-    "17"
-   ],
-   "answer": 1,
-   "solution": "$T_n = a + (n-1)d = 7 + (10-1)\\cdot 1 = 16$."
-  },
-  {
-   "q": "Find the $12$th term of the AP with first term $5$ and common difference $5$.",
-   "options": [
-    "65",
-    "55",
-    "65",
-    "60"
-   ],
-   "answer": 3,
-   "solution": "$T_n = a + (n-1)d = 5 + (12-1)\\cdot 5 = 60$."
-  },
-  {
-   "q": "Find the $9$th term of the AP with first term $4$ and common difference $4$.",
-   "options": [
-    "40",
-    "32",
-    "36",
-    "40"
-   ],
-   "answer": 2,
-   "solution": "$T_n = a + (n-1)d = 4 + (9-1)\\cdot 4 = 36$."
-  },
-  {
-   "q": "Find the $12$th term of the AP with first term $3$ and common difference $6$.",
-   "options": [
-    "63",
-    "69",
-    "75",
-    "75"
-   ],
-   "answer": 1,
-   "solution": "$T_n = a + (n-1)d = 3 + (12-1)\\cdot 6 = 69$."
-  },
-  {
-   "q": "Find the $6$th term of the AP with first term $10$ and common difference $2$.",
-   "options": [
-    "20",
-    "22",
-    "22",
-    "18"
-   ],
-   "answer": 0,
-   "solution": "$T_n = a + (n-1)d = 10 + (6-1)\\cdot 2 = 20$."
-  },
-  {
-   "q": "Find the $13$th term of the AP with first term $8$ and common difference $3$.",
-   "options": [
-    "47",
-    "41",
-    "47",
-    "44"
-   ],
-   "answer": 3,
-   "solution": "$T_n = a + (n-1)d = 8 + (13-1)\\cdot 3 = 44$."
-  },
-  {
-   "q": "Find the $6$th term of the AP with first term $6$ and common difference $7$.",
-   "options": [
-    "48",
-    "41",
-    "48",
-    "34"
-   ],
-   "answer": 1,
-   "solution": "$T_n = a + (n-1)d = 6 + (6-1)\\cdot 7 = 41$."
-  },
-  {
-   "q": "Find the $14$th term of the AP with first term $3$ and common difference $7$.",
-   "options": [
-    "101",
-    "94",
-    "87",
-    "101"
-   ],
-   "answer": 1,
-   "solution": "$T_n = a + (n-1)d = 3 + (14-1)\\cdot 7 = 94$."
-  },
-  {
-   "q": "Find the $12$th term of the AP with first term $7$ and common difference $5$.",
-   "options": [
-    "62",
-    "57",
-    "67",
-    "67"
-   ],
-   "answer": 0,
-   "solution": "$T_n = a + (n-1)d = 7 + (12-1)\\cdot 5 = 62$."
-  },
-  {
-   "q": "Find the $8$th term of the AP with first term $8$ and common difference $2$.",
-   "options": [
-    "20",
-    "22",
-    "24",
-    "24"
-   ],
-   "answer": 1,
-   "solution": "$T_n = a + (n-1)d = 8 + (8-1)\\cdot 2 = 22$."
-  },
-  {
-   "q": "Find the sum of the first $7$ terms of AP with first term $10$ and common difference $4$.",
-   "options": [
-    "161",
-    "34",
-    "154",
-    "147"
-   ],
-   "answer": 2,
-   "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{7}{2}(20+6\\cdot 4) = 154$."
-  },
-  {
-   "q": "Find the sum of the first $10$ terms of AP with first term $5$ and common difference $4$.",
-   "options": [
-    "230",
-    "41",
-    "240",
-    "220"
-   ],
-   "answer": 0,
-   "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{10}{2}(10+9\\cdot 4) = 230$."
-  },
-  {
-   "q": "Find the sum of the first $16$ terms of AP with first term $5$ and common difference $2$.",
-   "options": [
-    "35",
-    "336",
-    "304",
-    "320"
-   ],
-   "answer": 3,
-   "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{16}{2}(10+15\\cdot 2) = 320$."
-  },
-  {
-   "q": "Find the sum of the first $9$ terms of AP with first term $3$ and common difference $5$.",
-   "options": [
-    "207",
-    "43",
-    "216",
-    "198"
-   ],
-   "answer": 0,
-   "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{9}{2}(6+8\\cdot 5) = 207$."
-  },
-  {
-   "q": "Find the sum of the first $7$ terms of AP with first term $1$ and common difference $3$.",
-   "options": [
-    "77",
-    "63",
-    "70",
-    "19"
-   ],
-   "answer": 2,
-   "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{7}{2}(2+6\\cdot 3) = 70$."
-  },
-  {
-   "q": "Find the sum of the first $19$ terms of AP with first term $8$ and common difference $4$.",
-   "options": [
-    "836",
-    "817",
-    "80",
-    "855"
-   ],
-   "answer": 0,
-   "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{19}{2}(16+18\\cdot 4) = 836$."
-  },
-  {
-   "q": "Find the sum of the first $13$ terms of AP with first term $8$ and common difference $3$.",
-   "options": [
-    "351",
-    "338",
-    "325",
-    "44"
-   ],
-   "answer": 1,
-   "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{13}{2}(16+12\\cdot 3) = 338$."
-  },
-  {
-   "q": "Find the sum of the first $18$ terms of AP with first term $3$ and common difference $5$.",
-   "options": [
-    "837",
-    "819",
-    "88",
-    "801"
-   ],
-   "answer": 1,
-   "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{18}{2}(6+17\\cdot 5) = 819$."
-  },
-  {
-   "q": "Find the sum of the first $20$ terms of AP with first term $6$ and common difference $3$.",
-   "options": [
-    "710",
-    "670",
-    "63",
-    "690"
-   ],
-   "answer": 3,
-   "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{20}{2}(12+19\\cdot 3) = 690$."
-  },
-  {
-   "q": "Find the sum of the first $20$ terms of AP with first term $2$ and common difference $3$.",
-   "options": [
-    "610",
-    "630",
-    "59",
-    "590"
-   ],
-   "answer": 0,
-   "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{20}{2}(4+19\\cdot 3) = 610$."
-  },
-  {
-   "q": "Find the $6$th term of the GP with first term $1$ and common ratio $5$.",
-   "options": [
-    "15625",
-    "3125",
-    "30",
-    "625"
-   ],
-   "answer": 1,
-   "solution": "$T_n = ar^{n-1} = 1\\cdot 5^{5} = 3125$."
-  },
-  {
-   "q": "Find the $3$th term of the GP with first term $4$ and common ratio $5$.",
-   "options": [
-    "500",
-    "20",
-    "100",
-    "60"
-   ],
-   "answer": 2,
-   "solution": "$T_n = ar^{n-1} = 4\\cdot 5^{2} = 100$."
-  },
-  {
-   "q": "Find the $4$th term of the GP with first term $2$ and common ratio $3$.",
-   "options": [
-    "24",
-    "54",
-    "162",
-    "18"
-   ],
-   "answer": 1,
-   "solution": "$T_n = ar^{n-1} = 2\\cdot 3^{3} = 54$."
-  },
-  {
-   "q": "Find the $3$th term of the GP with first term $4$ and common ratio $4$.",
-   "options": [
-    "64",
-    "256",
-    "48",
-    "16"
-   ],
-   "answer": 0,
-   "solution": "$T_n = ar^{n-1} = 4\\cdot 4^{2} = 64$."
-  },
-  {
-   "q": "Find the $3$th term of the GP with first term $1$ and common ratio $2$.",
-   "options": [
-    "2",
-    "4",
-    "8",
-    "6"
-   ],
-   "answer": 1,
-   "solution": "$T_n = ar^{n-1} = 1\\cdot 2^{2} = 4$."
-  },
-  {
-   "q": "Find the $6$th term of the GP with first term $5$ and common ratio $4$.",
-   "options": [
-    "20480",
-    "120",
-    "1280",
-    "5120"
-   ],
-   "answer": 3,
-   "solution": "$T_n = ar^{n-1} = 5\\cdot 4^{5} = 5120$."
-  },
-  {
-   "q": "Find the $4$th term of the GP with first term $3$ and common ratio $5$.",
-   "options": [
-    "75",
-    "60",
-    "1875",
-    "375"
-   ],
-   "answer": 3,
-   "solution": "$T_n = ar^{n-1} = 3\\cdot 5^{3} = 375$."
-  },
-  {
-   "q": "Find the $5$th term of the GP with first term $5$ and common ratio $3$.",
-   "options": [
-    "75",
-    "1215",
-    "405",
-    "135"
-   ],
-   "answer": 2,
-   "solution": "$T_n = ar^{n-1} = 5\\cdot 3^{4} = 405$."
-  },
-  {
-   "q": "Find the $4$th term of the GP with first term $3$ and common ratio $4$.",
-   "options": [
-    "192",
-    "48",
-    "48",
-    "768"
-   ],
-   "answer": 0,
-   "solution": "$T_n = ar^{n-1} = 3\\cdot 4^{3} = 192$."
-  },
-  {
-   "q": "Find the $6$th term of the GP with first term $4$ and common ratio $5$.",
-   "options": [
-    "12500",
-    "2500",
-    "62500",
-    "120"
-   ],
-   "answer": 0,
-   "solution": "$T_n = ar^{n-1} = 4\\cdot 5^{5} = 12500$."
-  },
-  {
-   "q": "Find the sum of the first $6$ terms of GP with first term $1$ and common ratio $3$.",
-   "options": [
-    "243",
-    "363",
-    "364",
-    "365"
-   ],
-   "answer": 2,
-   "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{1(3^{6}-1)}{3-1} = 364$."
-  },
-  {
-   "q": "Find the sum of the first $5$ terms of GP with first term $4$ and common ratio $3$.",
-   "options": [
-    "480",
-    "484",
-    "488",
-    "324"
-   ],
-   "answer": 1,
-   "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{4(3^{5}-1)}{3-1} = 484$."
-  },
-  {
-   "q": "Find the sum of the first $4$ terms of GP with first term $1$ and common ratio $2$.",
-   "options": [
-    "14",
-    "15",
-    "8",
-    "16"
-   ],
-   "answer": 1,
-   "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{1(2^{4}-1)}{2-1} = 15$."
-  },
-  {
-   "q": "Find the sum of the first $6$ terms of GP with first term $3$ and common ratio $2$.",
-   "options": [
-    "186",
-    "96",
-    "192",
-    "189"
-   ],
-   "answer": 3,
-   "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{3(2^{6}-1)}{2-1} = 189$."
-  },
-  {
-   "q": "Find the sum of the first $6$ terms of GP with first term $4$ and common ratio $2$.",
-   "options": [
-    "252",
-    "128",
-    "256",
-    "248"
-   ],
-   "answer": 0,
-   "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{4(2^{6}-1)}{2-1} = 252$."
-  },
-  {
-   "q": "Find the sum of the first $5$ terms of GP with first term $2$ and common ratio $3$.",
-   "options": [
-    "242",
-    "162",
-    "244",
-    "240"
-   ],
-   "answer": 0,
-   "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{2(3^{5}-1)}{3-1} = 242$."
-  },
-  {
-   "q": "Find the sum of the first $4$ terms of GP with first term $2$ and common ratio $3$.",
-   "options": [
-    "80",
-    "54",
-    "82",
-    "78"
-   ],
-   "answer": 0,
-   "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{2(3^{4}-1)}{3-1} = 80$."
-  },
-  {
-   "q": "Find the sum of the first $5$ terms of GP with first term $1$ and common ratio $2$.",
-   "options": [
-    "16",
-    "32",
-    "30",
-    "31"
-   ],
-   "answer": 3,
-   "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{1(2^{5}-1)}{2-1} = 31$."
-  },
-  {
-   "q": "Find the sum of the first $3$ terms of GP with first term $2$ and common ratio $3$.",
-   "options": [
-    "28",
-    "26",
-    "24",
-    "18"
-   ],
-   "answer": 1,
-   "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{2(3^{3}-1)}{3-1} = 26$."
-  },
-  {
-   "q": "Find the sum of the first $3$ terms of GP with first term $3$ and common ratio $3$.",
-   "options": [
-    "27",
-    "39",
-    "36",
-    "42"
-   ],
-   "answer": 1,
-   "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{3(3^{3}-1)}{3-1} = 39$."
-  },
-  {
-   "q": "Find the sum to infinity of a GP with first term $1$ and common ratio $\\dfrac{1}{4}$.",
-   "options": [
-    "\\dfrac{5}{3}",
-    "\\dfrac{4}{4}",
-    "1",
-    "\\dfrac{4}{3}"
-   ],
-   "answer": 3,
-   "solution": "$S_\\infty = \\dfrac{a}{1-r} = \\dfrac{1}{1-\\tfrac{1}{4}} = 4/3$."
-  },
-  {
-   "q": "Find the sum to infinity of a GP with first term $16$ and common ratio $\\dfrac{1}{2}$.",
-   "options": [
-    "31",
-    "32",
-    "33",
-    "32"
-   ],
-   "answer": 1,
-   "solution": "$S_\\infty = \\dfrac{a}{1-r} = \\dfrac{16}{1-\\tfrac{1}{2}} = 32$."
-  },
-  {
-   "q": "Find the sum to infinity of a GP with first term $1$ and common ratio $\\dfrac{3}{4}$.",
-   "options": [
-    "4",
-    "1",
-    "3",
-    "5"
-   ],
-   "answer": 0,
-   "solution": "$S_\\infty = \\dfrac{a}{1-r} = \\dfrac{1}{1-\\tfrac{3}{4}} = 4$."
-  },
-  {
-   "q": "Find the sum to infinity of a GP with first term $18$ and common ratio $\\dfrac{1}{2}$.",
-   "options": [
-    "36",
-    "36",
-    "35",
-    "37"
-   ],
-   "answer": 0,
-   "solution": "$S_\\infty = \\dfrac{a}{1-r} = \\dfrac{18}{1-\\tfrac{1}{2}} = 36$."
-  },
-  {
-   "q": "Find the sum to infinity of a GP with first term $9$ and common ratio $\\dfrac{1}{2}$.",
-   "options": [
-    "18",
-    "17",
-    "18",
-    "19"
-   ],
-   "answer": 0,
-   "solution": "$S_\\infty = \\dfrac{a}{1-r} = \\dfrac{9}{1-\\tfrac{1}{2}} = 18$."
-  }
- ]
+  ],
+  "slug": "sequences-series",
+  "subject": "Mathematics",
+  "quiz": [
+    {
+      "q": "Find the sum of the first $7$ terms of AP with first term $10$ and common difference $4$.",
+      "options": [
+        "161",
+        "34",
+        "154",
+        "147"
+      ],
+      "answer": 2,
+      "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{7}{2}(20+6\\cdot 4) = 154$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $10$ terms of AP with first term $5$ and common difference $4$.",
+      "options": [
+        "230",
+        "41",
+        "240",
+        "220"
+      ],
+      "answer": 0,
+      "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{10}{2}(10+9\\cdot 4) = 230$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $16$ terms of AP with first term $5$ and common difference $2$.",
+      "options": [
+        "35",
+        "336",
+        "304",
+        "320"
+      ],
+      "answer": 3,
+      "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{16}{2}(10+15\\cdot 2) = 320$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $9$ terms of AP with first term $3$ and common difference $5$.",
+      "options": [
+        "207",
+        "43",
+        "216",
+        "198"
+      ],
+      "answer": 0,
+      "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{9}{2}(6+8\\cdot 5) = 207$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $7$ terms of AP with first term $1$ and common difference $3$.",
+      "options": [
+        "77",
+        "63",
+        "70",
+        "19"
+      ],
+      "answer": 2,
+      "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{7}{2}(2+6\\cdot 3) = 70$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $19$ terms of AP with first term $8$ and common difference $4$.",
+      "options": [
+        "836",
+        "817",
+        "80",
+        "855"
+      ],
+      "answer": 0,
+      "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{19}{2}(16+18\\cdot 4) = 836$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $13$ terms of AP with first term $8$ and common difference $3$.",
+      "options": [
+        "351",
+        "338",
+        "325",
+        "44"
+      ],
+      "answer": 1,
+      "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{13}{2}(16+12\\cdot 3) = 338$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $18$ terms of AP with first term $3$ and common difference $5$.",
+      "options": [
+        "837",
+        "819",
+        "88",
+        "801"
+      ],
+      "answer": 1,
+      "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{18}{2}(6+17\\cdot 5) = 819$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $20$ terms of AP with first term $6$ and common difference $3$.",
+      "options": [
+        "710",
+        "670",
+        "63",
+        "690"
+      ],
+      "answer": 3,
+      "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{20}{2}(12+19\\cdot 3) = 690$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $20$ terms of AP with first term $2$ and common difference $3$.",
+      "options": [
+        "610",
+        "630",
+        "59",
+        "590"
+      ],
+      "answer": 0,
+      "solution": "$S_n = \\tfrac{n}{2}(2a+(n-1)d) = \\tfrac{20}{2}(4+19\\cdot 3) = 610$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the $6$th term of the GP with first term $1$ and common ratio $5$.",
+      "options": [
+        "15625",
+        "3125",
+        "30",
+        "625"
+      ],
+      "answer": 1,
+      "solution": "$T_n = ar^{n-1} = 1\\cdot 5^{5} = 3125$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the $3$th term of the GP with first term $4$ and common ratio $5$.",
+      "options": [
+        "500",
+        "20",
+        "100",
+        "60"
+      ],
+      "answer": 2,
+      "solution": "$T_n = ar^{n-1} = 4\\cdot 5^{2} = 100$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the $4$th term of the GP with first term $2$ and common ratio $3$.",
+      "options": [
+        "24",
+        "54",
+        "162",
+        "18"
+      ],
+      "answer": 1,
+      "solution": "$T_n = ar^{n-1} = 2\\cdot 3^{3} = 54$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the $3$th term of the GP with first term $4$ and common ratio $4$.",
+      "options": [
+        "64",
+        "256",
+        "48",
+        "16"
+      ],
+      "answer": 0,
+      "solution": "$T_n = ar^{n-1} = 4\\cdot 4^{2} = 64$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the $3$th term of the GP with first term $1$ and common ratio $2$.",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "6"
+      ],
+      "answer": 1,
+      "solution": "$T_n = ar^{n-1} = 1\\cdot 2^{2} = 4$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the $6$th term of the GP with first term $5$ and common ratio $4$.",
+      "options": [
+        "20480",
+        "120",
+        "1280",
+        "5120"
+      ],
+      "answer": 3,
+      "solution": "$T_n = ar^{n-1} = 5\\cdot 4^{5} = 5120$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the $4$th term of the GP with first term $3$ and common ratio $5$.",
+      "options": [
+        "75",
+        "60",
+        "1875",
+        "375"
+      ],
+      "answer": 3,
+      "solution": "$T_n = ar^{n-1} = 3\\cdot 5^{3} = 375$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the $5$th term of the GP with first term $5$ and common ratio $3$.",
+      "options": [
+        "75",
+        "1215",
+        "405",
+        "135"
+      ],
+      "answer": 2,
+      "solution": "$T_n = ar^{n-1} = 5\\cdot 3^{4} = 405$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the $6$th term of the GP with first term $4$ and common ratio $5$.",
+      "options": [
+        "12500",
+        "2500",
+        "62500",
+        "120"
+      ],
+      "answer": 0,
+      "solution": "$T_n = ar^{n-1} = 4\\cdot 5^{5} = 12500$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $6$ terms of GP with first term $1$ and common ratio $3$.",
+      "options": [
+        "243",
+        "363",
+        "364",
+        "365"
+      ],
+      "answer": 2,
+      "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{1(3^{6}-1)}{3-1} = 364$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $5$ terms of GP with first term $4$ and common ratio $3$.",
+      "options": [
+        "480",
+        "484",
+        "488",
+        "324"
+      ],
+      "answer": 1,
+      "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{4(3^{5}-1)}{3-1} = 484$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $4$ terms of GP with first term $1$ and common ratio $2$.",
+      "options": [
+        "14",
+        "15",
+        "8",
+        "16"
+      ],
+      "answer": 1,
+      "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{1(2^{4}-1)}{2-1} = 15$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $6$ terms of GP with first term $3$ and common ratio $2$.",
+      "options": [
+        "186",
+        "96",
+        "192",
+        "189"
+      ],
+      "answer": 3,
+      "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{3(2^{6}-1)}{2-1} = 189$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $6$ terms of GP with first term $4$ and common ratio $2$.",
+      "options": [
+        "252",
+        "128",
+        "256",
+        "248"
+      ],
+      "answer": 0,
+      "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{4(2^{6}-1)}{2-1} = 252$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $5$ terms of GP with first term $2$ and common ratio $3$.",
+      "options": [
+        "242",
+        "162",
+        "244",
+        "240"
+      ],
+      "answer": 0,
+      "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{2(3^{5}-1)}{3-1} = 242$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $4$ terms of GP with first term $2$ and common ratio $3$.",
+      "options": [
+        "80",
+        "54",
+        "82",
+        "78"
+      ],
+      "answer": 0,
+      "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{2(3^{4}-1)}{3-1} = 80$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $5$ terms of GP with first term $1$ and common ratio $2$.",
+      "options": [
+        "16",
+        "32",
+        "30",
+        "31"
+      ],
+      "answer": 3,
+      "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{1(2^{5}-1)}{2-1} = 31$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $3$ terms of GP with first term $2$ and common ratio $3$.",
+      "options": [
+        "28",
+        "26",
+        "24",
+        "18"
+      ],
+      "answer": 1,
+      "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{2(3^{3}-1)}{3-1} = 26$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of the first $3$ terms of GP with first term $3$ and common ratio $3$.",
+      "options": [
+        "27",
+        "39",
+        "36",
+        "42"
+      ],
+      "answer": 1,
+      "solution": "$S_n = \\dfrac{a(r^n-1)}{r-1} = \\dfrac{3(3^{3}-1)}{3-1} = 39$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum to infinity of a GP with first term $1$ and common ratio $\\dfrac{1}{4}$.",
+      "options": [
+        "\\dfrac{5}{3}",
+        "\\dfrac{4}{4}",
+        "1",
+        "\\dfrac{4}{3}"
+      ],
+      "answer": 3,
+      "solution": "$S_\\infty = \\dfrac{a}{1-r} = \\dfrac{1}{1-\\tfrac{1}{4}} = 4/3$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Find the sum to infinity of a GP with first term $1$ and common ratio $\\dfrac{3}{4}$.",
+      "options": [
+        "4",
+        "1",
+        "3",
+        "5"
+      ],
+      "answer": 0,
+      "solution": "$S_\\infty = \\dfrac{a}{1-r} = \\dfrac{1}{1-\\tfrac{3}{4}} = 4$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The sum to infinity of a GP is 12. If the first term is 8, find the common ratio.",
+      "options": [
+        "1/3",
+        "2/3",
+        "1/2",
+        "1/4"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: 1/3.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The sum of the first 20 terms of an AP is 400. If the first term is 1, find the common difference.",
+      "options": [
+        "2",
+        "1.5",
+        "1.9",
+        "2.1"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 2.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the sum of infinity of the GP: 1, 1/2, 1/4, ...",
+      "options": [
+        "1.5",
+        "2",
+        "3",
+        "$\\\\infty$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: 2.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the 5th term of the G.P: 2, 6, 18...",
+      "options": [
+        "54",
+        "162",
+        "48",
+        "108"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: 162.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the $n^{th}$ term of the sequence $5, 10, 20, 40, ...$",
+      "options": [
+        "$5n$",
+        "$5(2^{n-1})$",
+        "$5(2^n)$",
+        "$n^2 + 4$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: $5(2^{n-1})$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The third term of a GP is 18 and the fourth term is 54. Find the first term.",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "9"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 2.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the $8^{th}$ term of the AP: $-3, -1, 1, 3, ...$",
+      "options": [
+        "11",
+        "13",
+        "15",
+        "17"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: 11.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "20th term of AP: 1, 3, 5...",
+      "options": [
+        "39",
+        "40",
+        "38",
+        "41"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 39.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Sum of AP: 2, 4, 6 (n=3).",
+      "options": [
+        "12",
+        "10",
+        "8",
+        "6"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 12.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Find the 10th term of the A.P: 2, 4, 6...",
+      "options": [
+        "18",
+        "20",
+        "22",
+        "24"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: 20.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Sum of first n terms of AP:",
+      "options": [
+        "$$ n/2(2a + (n-1)d) $$",
+        "$$ a + (n-1)d $$",
+        "$$ ar^{n-1} $$",
+        "$$ a/1-r $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ n/2(2a + (n-1)d) $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Solve the binary sum 111 base 2 plus 101 base 2.",
+      "options": [
+        "1010 base 2",
+        "1100 base 2",
+        "1000 base 2",
+        "1110 base 2"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 1100 base 2.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The sum of 1/2 and 1/3 is?",
+      "options": [
+        "2/5",
+        "1/6",
+        "5/6",
+        "1/5"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 5/6.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$ {}^5C_2 $$",
+      "options": [
+        "10",
+        "20",
+        "5",
+        "15"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: 10.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Standard form of 0.0025 is:",
+      "options": [
+        "$$ 2.5 \\times 10^{-3} $$",
+        "$$ 2.5 \\times 10^3 $$",
+        "$$ 25 \\times 10^{-4} $$",
+        "$$ 0.25 \\times 10^{-2} $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$ 2.5 \\times 10^{-3} $$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Simple Interest on N1000 for 2 years at 5% is:",
+      "options": [
+        "N100",
+        "N10",
+        "N50",
+        "N200"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: N100.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "If $$ f(x) = 2x - 3 $$, find $$ f(4) $$.",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "11"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: 5.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find $$ x $$ if $$ 27^x = 9 $$.",
+      "options": [
+        "2/3",
+        "3/2",
+        "2",
+        "3"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: 2/3.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "If $$ \\tan \\theta = 1 $$, find $$ \\theta $$.",
+      "options": [
+        "$$ 45^\\circ $$",
+        "$$ 30^\\circ $$",
+        "$$ 60^\\circ $$",
+        "$$ 90^\\circ $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$ 45^\\circ $$.",
+      "source": "JAMB 2022",
+      "practice": false
+    }
+  ]
 }

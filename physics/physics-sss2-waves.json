@@ -6,18 +6,18 @@
   "outline": [
     "Wave production and propagation",
     "Transverse vs longitudinal waves",
-    "Wave equation v = fλ",
+    "Wave equation v = f\u03bb",
     "Wave properties (reflection, refraction, diffraction, interference, polarisation)",
     "Sound waves and air columns"
   ],
   "modules": [
     {
       "title": "What is a wave?",
-      "html": "<p>A <b>wave</b> is a disturbance that transfers energy through a medium (or space, for EM waves) without net movement of the medium itself.</p><h4>Terms</h4><ul><li><b>Amplitude (A)</b>: maximum displacement.</li><li><b>Wavelength (λ)</b>: distance between two successive similar points.</li><li><b>Period (T)</b>: time for one complete cycle.</li><li><b>Frequency (f)</b>: cycles per second, Hz, f = 1/T.</li><li><b>Speed</b>: v = fλ.</li></ul>",
+      "html": "<p>A <b>wave</b> is a disturbance that transfers energy through a medium (or space, for EM waves) without net movement of the medium itself.</p><h4>Terms</h4><ul><li><b>Amplitude (A)</b>: maximum displacement.</li><li><b>Wavelength (\u03bb)</b>: distance between two successive similar points.</li><li><b>Period (T)</b>: time for one complete cycle.</li><li><b>Frequency (f)</b>: cycles per second, Hz, f = 1/T.</li><li><b>Speed</b>: v = f\u03bb.</li></ul><h4>Key points</h4><ul><li>Waves carry energy, not matter.</li><li>T=1/f=4 ms.</li></ul><h4>Worked example</h4><p><b>Q:</b> A wave transfers<br/><b>A:</b> energy only</p><p><b>Q:</b> Period of a 250 Hz wave:<br/><b>A:</b> 4 ms</p><h4>More key points</h4><ul><li>A wave transfers \u2014 energy only.</li><li>Period of a 250 Hz wave: \u2014 4 ms.</li><li>Frequency of a wave with T = 0.02 s: \u2014 50 Hz.</li><li>Amplitude of a wave affects its \u2014 loudness/intensity.</li></ul>",
       "examples": [
         {
-          "q": "A wave: f=50 Hz, λ=6 m. Speed?",
-          "a": "v = 50·6 = 300 m/s."
+          "q": "A wave: f=50 Hz, \u03bb=6 m. Speed?",
+          "a": "v = 50\u00b76 = 300 m/s."
         },
         {
           "q": "Period of a 200 Hz wave?",
@@ -27,7 +27,7 @@
     },
     {
       "title": "Transverse and longitudinal waves",
-      "html": "<p><b>Transverse</b>: particles vibrate perpendicular to the direction of propagation. Examples: water waves, waves on strings, all electromagnetic waves.</p><p><b>Longitudinal</b>: particles vibrate parallel to the direction of propagation, producing compressions and rarefactions. Example: sound waves in air.</p>",
+      "html": "<p><b>Transverse</b>: particles vibrate perpendicular to the direction of propagation. Examples: water waves, waves on strings, all electromagnetic waves.</p><p><b>Longitudinal</b>: particles vibrate parallel to the direction of propagation, producing compressions and rarefactions. Example: sound waves in air.</p><h4>Key points</h4><ul><li>Waves carry energy, not matter.</li><li>Light is transverse.</li></ul><h4>Worked example</h4><p><b>Q:</b> A wave transfers<br/><b>A:</b> energy only</p><p><b>Q:</b> Which is transverse?<br/><b>A:</b> Light</p><h4>More key points</h4><ul><li>Which is transverse \u2014 Light.</li><li>Which is longitudinal \u2014 Sound in air.</li><li>Which property is unique to transverse waves \u2014 Polarisation.</li><li>Two coherent waves out of phase by \u03c0 at a point produce \u2014 destructive interference.</li></ul>",
       "examples": [
         {
           "q": "Sound is which type of wave?",
@@ -41,7 +41,7 @@
     },
     {
       "title": "Wave properties",
-      "html": "<ul><li><b>Reflection</b>: bouncing off a surface; angle of incidence = angle of reflection.</li><li><b>Refraction</b>: change of direction when wave enters a new medium; caused by change in speed. n₁ sin θ₁ = n₂ sin θ₂.</li><li><b>Diffraction</b>: bending around obstacles or through openings, most obvious when the opening ≈ wavelength.</li><li><b>Interference</b>: superposition of two coherent waves — constructive (crest + crest) or destructive (crest + trough).</li><li><b>Polarisation</b>: restricting vibrations to a single plane; only transverse waves can be polarised.</li></ul>",
+      "html": "<ul><li><b>Reflection</b>: bouncing off a surface; angle of incidence = angle of reflection.</li><li><b>Refraction</b>: change of direction when wave enters a new medium; caused by change in speed. n\u2081 sin \u03b8\u2081 = n\u2082 sin \u03b8\u2082.</li><li><b>Diffraction</b>: bending around obstacles or through openings, most obvious when the opening \u2248 wavelength.</li><li><b>Interference</b>: superposition of two coherent waves \u2014 constructive (crest + crest) or destructive (crest + trough).</li><li><b>Polarisation</b>: restricting vibrations to a single plane; only transverse waves can be polarised.</li></ul><h4>Key points</h4><ul><li>Waves carry energy, not matter.</li><li>T=1/f=4 ms.</li></ul><h4>Worked example</h4><p><b>Q:</b> A wave transfers<br/><b>A:</b> energy only</p><p><b>Q:</b> Period of a 250 Hz wave:<br/><b>A:</b> 4 ms</p>",
       "examples": [
         {
           "q": "Which property proves that light is transverse?",
@@ -55,15 +55,43 @@
     },
     {
       "title": "Sound waves and air columns",
-      "html": "<p>Sound needs a material medium; cannot travel through a vacuum. Speed in air ≈ 340 m/s at 20 °C; faster in liquids and solids.</p><h4>Pitch, quality, intensity</h4><ul><li><b>Pitch</b>: how high/low a note sounds; depends on frequency.</li><li><b>Loudness/Intensity</b>: depends on amplitude.</li><li><b>Quality/Timbre</b>: distinguishes notes of same pitch from different instruments; depends on overtones.</li></ul><h4>Air columns</h4><p>Closed pipe (one end closed): fundamental frequency f = v/(4L); harmonics: odd multiples.<br>Open pipe: f = v/(2L); all harmonics present.</p>",
+      "html": "<p>Sound needs a material medium; cannot travel through a vacuum. Speed in air \u2248 340 m/s at 20 \u00b0C; faster in liquids and solids.</p><h4>Pitch, quality, intensity</h4><ul><li><b>Pitch</b>: how high/low a note sounds; depends on frequency.</li><li><b>Loudness/Intensity</b>: depends on amplitude.</li><li><b>Quality/Timbre</b>: distinguishes notes of same pitch from different instruments; depends on overtones.</li></ul><h4>Air columns</h4><p>Closed pipe (one end closed): fundamental frequency f = v/(4L); harmonics: odd multiples.<br>Open pipe: f = v/(2L); all harmonics present.</p><h4>Key points</h4><ul><li>Waves carry energy, not matter.</li><li>Sound is longitudinal.</li></ul><h4>Worked example</h4><p><b>Q:</b> A wave transfers<br/><b>A:</b> energy only</p><p><b>Q:</b> Which is longitudinal?<br/><b>A:</b> Sound in air</p>",
       "examples": [
         {
           "q": "Fundamental frequency of a 0.5 m open pipe, v=340 m/s?",
-          "a": "f = 340/(2·0.5) = 340 Hz."
+          "a": "f = 340/(2\u00b70.5) = 340 Hz."
         },
         {
           "q": "Same length closed pipe?",
-          "a": "f = 340/(4·0.5) = 170 Hz."
+          "a": "f = 340/(4\u00b70.5) = 170 Hz."
+        }
+      ]
+    },
+    {
+      "title": "Wave production and propagation",
+      "html": "<p><b>Wave production and propagation</b> is a key part of Waves (SSS 2, Physics). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>A wave is a disturbance that transfers energy through a medium (or space, for EM waves) without net movement of the medium itself.</li><li>Wavelength (\u03bb) : distance between two successive similar points.</li><li>Key points Waves carry energy, not matter.</li><li>Worked example Q: A wave transfers A: energy only Q: Period of a 250 Hz wave: A: 4 ms</li><li>Transverse : particles vibrate perpendicular to the direction of propagation.</li></ul><h4>Worked example</h4><p><b>Q:</b> A wave transfers<br/><b>A:</b> energy only \u2014 Waves carry energy, not matter.</p><p><b>Q:</b> Period of a 250 Hz wave:<br/><b>A:</b> 4 ms \u2014 T=1/f=4 ms.</p>",
+      "examples": [
+        {
+          "q": "A wave transfers",
+          "a": "energy only \u2014 Waves carry energy, not matter."
+        },
+        {
+          "q": "Period of a 250 Hz wave:",
+          "a": "4 ms \u2014 T=1/f=4 ms."
+        }
+      ]
+    },
+    {
+      "title": "Wave properties (reflection, refraction, diffraction, interference, polarisation)",
+      "html": "<p><b>Wave properties (reflection, refraction, diffraction, interference, polarisation)</b> is a key part of Waves (SSS 2, Physics). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>A wave is a disturbance that transfers energy through a medium (or space, for EM waves) without net movement of the medium itself.</li><li>Wavelength (\u03bb) : distance between two successive similar points.</li><li>Key points Waves carry energy, not matter.</li><li>Worked example Q: A wave transfers A: energy only Q: Period of a 250 Hz wave: A: 4 ms</li><li>Examples: water waves, waves on strings, all electromagnetic waves.</li></ul><h4>Worked example</h4><p><b>Q:</b> A wave transfers<br/><b>A:</b> energy only \u2014 Waves carry energy, not matter.</p><p><b>Q:</b> Period of a 250 Hz wave:<br/><b>A:</b> 4 ms \u2014 T=1/f=4 ms.</p>",
+      "examples": [
+        {
+          "q": "A wave transfers",
+          "a": "energy only \u2014 Waves carry energy, not matter."
+        },
+        {
+          "q": "Period of a 250 Hz wave:",
+          "a": "4 ms \u2014 T=1/f=4 ms."
         }
       ]
     }
@@ -78,7 +106,9 @@
         "neither"
       ],
       "answer": 1,
-      "solution": "Waves carry energy, not matter."
+      "solution": "Waves carry energy, not matter.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is transverse?",
@@ -89,7 +119,9 @@
         "Ultrasound in air"
       ],
       "answer": 1,
-      "solution": "Light is transverse."
+      "solution": "Light is transverse.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is longitudinal?",
@@ -100,10 +132,12 @@
         "Radio waves"
       ],
       "answer": 2,
-      "solution": "Sound is longitudinal."
+      "solution": "Sound is longitudinal.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "v = fλ. If f = 100 Hz, λ = 3 m, then v =",
+      "q": "v = f\u03bb. If f = 100 Hz, \u03bb = 3 m, then v =",
       "options": [
         "30 m/s",
         "100 m/s",
@@ -111,7 +145,9 @@
         "300 m/s"
       ],
       "answer": 3,
-      "solution": "100·3 = 300."
+      "solution": "100\u00b73 = 300.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Wavelength of a 500 Hz sound (v=340 m/s):",
@@ -122,7 +158,9 @@
         "2 m"
       ],
       "answer": 0,
-      "solution": "340/500=0.68."
+      "solution": "340/500=0.68.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Period of a 250 Hz wave:",
@@ -133,7 +171,9 @@
         "5 ms"
       ],
       "answer": 2,
-      "solution": "T=1/f=4 ms."
+      "solution": "T=1/f=4 ms.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The distance between two consecutive crests is",
@@ -144,7 +184,9 @@
         "period"
       ],
       "answer": 2,
-      "solution": "Definition."
+      "solution": "Definition.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Number of cycles per second is",
@@ -155,7 +197,9 @@
         "wavelength"
       ],
       "answer": 1,
-      "solution": "Hz."
+      "solution": "Hz.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Frequency of a wave with T = 0.02 s:",
@@ -166,7 +210,9 @@
         "200 Hz"
       ],
       "answer": 1,
-      "solution": "1/0.02=50."
+      "solution": "1/0.02=50.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Amplitude of a wave affects its",
@@ -177,7 +223,9 @@
         "wavelength"
       ],
       "answer": 2,
-      "solution": "Bigger A = louder sound."
+      "solution": "Bigger A = louder sound.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Pitch of a note depends on",
@@ -188,7 +236,9 @@
         "medium"
       ],
       "answer": 1,
-      "solution": "Higher f, higher pitch."
+      "solution": "Higher f, higher pitch.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Quality/timbre of a musical note depends on",
@@ -199,7 +249,9 @@
         "medium"
       ],
       "answer": 2,
-      "solution": "Harmonics content."
+      "solution": "Harmonics content.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which property is unique to transverse waves?",
@@ -210,7 +262,9 @@
         "Diffraction"
       ],
       "answer": 2,
-      "solution": "Only transverse waves can be polarised."
+      "solution": "Only transverse waves can be polarised.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Two coherent crests meeting cause",
@@ -221,10 +275,12 @@
         "diffraction"
       ],
       "answer": 1,
-      "solution": "Reinforcement."
+      "solution": "Reinforcement.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Two coherent waves out of phase by π at a point produce",
+      "q": "Two coherent waves out of phase by \u03c0 at a point produce",
       "options": [
         "constructive interference",
         "destructive interference",
@@ -232,7 +288,9 @@
         "dispersion"
       ],
       "answer": 1,
-      "solution": "Cancellation."
+      "solution": "Cancellation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A wave bends when it enters a new medium because",
@@ -243,18 +301,22 @@
         "wavelength stays same"
       ],
       "answer": 1,
-      "solution": "Speed change → refraction."
+      "solution": "Speed change \u2192 refraction.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Diffraction is best observed when opening size is",
       "options": [
-        "much greater than λ",
-        "much smaller than λ",
-        "comparable to λ",
+        "much greater than \u03bb",
+        "much smaller than \u03bb",
+        "comparable to \u03bb",
         "zero"
       ],
       "answer": 2,
-      "solution": "Comparable to wavelength."
+      "solution": "Comparable to wavelength.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Sound waves cannot travel through",
@@ -265,10 +327,12 @@
         "vacuum"
       ],
       "answer": 3,
-      "solution": "No medium in a vacuum."
+      "solution": "No medium in a vacuum.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Speed of sound in air at 20 °C is about",
+      "q": "Speed of sound in air at 20 \u00b0C is about",
       "options": [
         "150 m/s",
         "340 m/s",
@@ -276,7 +340,9 @@
         "5000 m/s"
       ],
       "answer": 1,
-      "solution": "~340 m/s."
+      "solution": "~340 m/s.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Sound travels fastest in",
@@ -287,7 +353,9 @@
         "vacuum"
       ],
       "answer": 2,
-      "solution": "Denser bonded medium."
+      "solution": "Denser bonded medium.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Fundamental frequency of an open pipe of length L, speed v:",
@@ -298,7 +366,9 @@
         "2v/L"
       ],
       "answer": 1,
-      "solution": "Open pipe."
+      "solution": "Open pipe.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Fundamental frequency of a closed pipe:",
@@ -309,7 +379,9 @@
         "4v/L"
       ],
       "answer": 1,
-      "solution": "Closed pipe."
+      "solution": "Closed pipe.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A closed pipe supports which harmonics?",
@@ -320,7 +392,9 @@
         "Only fundamental"
       ],
       "answer": 2,
-      "solution": "Odd only."
+      "solution": "Odd only.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An open pipe supports which harmonics?",
@@ -331,29 +405,35 @@
         "Only fundamental"
       ],
       "answer": 0,
-      "solution": "All harmonics."
+      "solution": "All harmonics.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "The equation v = fλ shows v ∝ f when",
+      "q": "The equation v = f\u03bb shows v \u221d f when",
       "options": [
-        "λ constant",
+        "\u03bb constant",
         "f constant",
         "both varying",
-        "λ = 0"
+        "\u03bb = 0"
       ],
       "answer": 0,
-      "solution": "Straight relation."
+      "solution": "Straight relation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Speed of light in vacuum (m/s):",
       "options": [
-        "3×10⁵",
-        "3×10⁶",
-        "3×10⁷",
-        "3×10⁸"
+        "3\u00d710\u2075",
+        "3\u00d710\u2076",
+        "3\u00d710\u2077",
+        "3\u00d710\u2078"
       ],
       "answer": 3,
-      "solution": "≈ 3×10⁸ m/s."
+      "solution": "\u2248 3\u00d710\u2078 m/s.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is an electromagnetic wave?",
@@ -364,7 +444,9 @@
         "Waves on a string"
       ],
       "answer": 2,
-      "solution": "X-rays are EM."
+      "solution": "X-rays are EM.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The echo of a sound is due to",
@@ -375,7 +457,9 @@
         "diffraction"
       ],
       "answer": 1,
-      "solution": "Reflection."
+      "solution": "Reflection.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A person hears an echo 2 s after shouting toward a cliff (v=340). Distance to cliff:",
@@ -386,7 +470,9 @@
         "1000 m"
       ],
       "answer": 1,
-      "solution": "340·2/2 = 340."
+      "solution": "340\u00b72/2 = 340.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Sonar uses",
@@ -397,7 +483,9 @@
         "x-rays"
       ],
       "answer": 1,
-      "solution": "Ultrasound in water."
+      "solution": "Ultrasound in water.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Two identical loudspeakers produce a soft point due to",
@@ -408,7 +496,9 @@
         "polarisation"
       ],
       "answer": 1,
-      "solution": "Superposition cancels."
+      "solution": "Superposition cancels.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Beat frequency between 300 Hz and 304 Hz:",
@@ -419,7 +509,9 @@
         "304 Hz"
       ],
       "answer": 2,
-      "solution": "|Δf|=4."
+      "solution": "|\u0394f|=4.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A stationary wave results when",
@@ -430,40 +522,48 @@
         "light is polarised"
       ],
       "answer": 1,
-      "solution": "Superposition of identical waves."
+      "solution": "Superposition of identical waves.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The distance between two consecutive nodes in a stationary wave is",
       "options": [
-        "λ",
-        "λ/2",
-        "λ/4",
-        "2λ"
+        "\u03bb",
+        "\u03bb/2",
+        "\u03bb/4",
+        "2\u03bb"
       ],
       "answer": 1,
-      "solution": "Half a wavelength."
+      "solution": "Half a wavelength.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Ultrasound frequency is generally",
       "options": [
         "< 20 Hz",
-        "20–20 000 Hz",
+        "20\u201320 000 Hz",
         "> 20 kHz",
         "exactly 1 MHz"
       ],
       "answer": 2,
-      "solution": "Above human hearing."
+      "solution": "Above human hearing.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Human audible range is approximately",
       "options": [
-        "1–1000 Hz",
-        "20–20 000 Hz",
-        "1–100 kHz",
-        "0–20 Hz"
+        "1\u20131000 Hz",
+        "20\u201320 000 Hz",
+        "1\u2013100 kHz",
+        "0\u201320 Hz"
       ],
       "answer": 1,
-      "solution": "20 Hz–20 kHz."
+      "solution": "20 Hz\u201320 kHz.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Loudness of a sound depends on",
@@ -474,7 +574,9 @@
         "speed"
       ],
       "answer": 1,
-      "solution": "Bigger amplitude = louder."
+      "solution": "Bigger amplitude = louder.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Doppler effect refers to change in observed",
@@ -485,7 +587,9 @@
         "phase"
       ],
       "answer": 1,
-      "solution": "Definition."
+      "solution": "Definition.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "As a source moves toward observer, the observed frequency",
@@ -496,7 +600,9 @@
         "becomes zero"
       ],
       "answer": 0,
-      "solution": "Waves compressed."
+      "solution": "Waves compressed.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The wavelength of a 5 m/s water wave with T=0.5 s is",
@@ -507,7 +613,9 @@
         "10 m"
       ],
       "answer": 1,
-      "solution": "v = λ/T → λ=v·T=2.5 m."
+      "solution": "v = \u03bb/T \u2192 \u03bb=v\u00b7T=2.5 m.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A closed pipe of 0.85 m and v=340 m/s has fundamental frequency",
@@ -518,7 +626,9 @@
         "340 Hz"
       ],
       "answer": 1,
-      "solution": "v/4L=100."
+      "solution": "v/4L=100.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An open pipe of 0.85 m and v=340 m/s has fundamental frequency",
@@ -529,7 +639,9 @@
         "680 Hz"
       ],
       "answer": 1,
-      "solution": "v/2L=200."
+      "solution": "v/2L=200.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is not a property common to sound and light?",
@@ -540,7 +652,9 @@
         "Polarisation"
       ],
       "answer": 3,
-      "solution": "Sound (longitudinal) cannot be polarised."
+      "solution": "Sound (longitudinal) cannot be polarised.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A wave has speed 300 m/s and wavelength 2 m. Its frequency:",
@@ -551,7 +665,9 @@
         "600 Hz"
       ],
       "answer": 2,
-      "solution": "v/λ=150."
+      "solution": "v/\u03bb=150.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A wave has period 0.01 s and wavelength 4 m. Speed:",
@@ -562,7 +678,9 @@
         "800 m/s"
       ],
       "answer": 2,
-      "solution": "λ/T=400."
+      "solution": "\u03bb/T=400.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which wave has the highest frequency?",
@@ -573,7 +691,9 @@
         "Gamma"
       ],
       "answer": 3,
-      "solution": "Gamma rays."
+      "solution": "Gamma rays.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Order of EM spectrum with increasing wavelength:",
@@ -584,7 +704,9 @@
         "IR, UV, X, visible"
       ],
       "answer": 2,
-      "solution": "Standard order."
+      "solution": "Standard order.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A wave slows in a denser medium; its wavelength",
@@ -595,18 +717,22 @@
         "becomes zero"
       ],
       "answer": 1,
-      "solution": "f unchanged, so λ decreases."
+      "solution": "f unchanged, so \u03bb decreases.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Total energy in a wave is proportional to",
       "options": [
         "A",
-        "A²",
+        "A\u00b2",
         "1/A",
         "f only"
       ],
       "answer": 1,
-      "solution": "Intensity ∝ A²."
+      "solution": "Intensity \u221d A\u00b2.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is coherent light?",
@@ -617,7 +743,9 @@
         "Firelight"
       ],
       "answer": 2,
-      "solution": "Laser is monochromatic and coherent."
+      "solution": "Laser is monochromatic and coherent.",
+      "source": "Chapter notes",
+      "practice": false
     }
   ]
 }

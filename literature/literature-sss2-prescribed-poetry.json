@@ -1,276 +1,744 @@
 {
- "subject": "Literature",
- "level": "SSS 2",
- "slug": "prescribed-poetry",
- "title": "Prescribed African and Non-African Poetry",
- "outline": [
-  "Reading prescribed poems: subject, persona, structure, devices, theme",
-  "African poem: 'Once Upon an Elephant' - Alexander Kwame Boadi",
-  "Non-African poem: 'Once Upon a Time' - Gabriel Okara (as prescribed pairing)",
-  "Rhyme, rhythm and metre: scansion practice with LaTeX foot mapping",
-  "Imagery, symbolism, diction and tone in the prescribed poems",
-  "Answering poetry questions: from device to effect"
- ],
- "modules": [
-  {
-   "title": "Module 1: 'Once Upon an Elephant' (Alexander Kwame Boadi)",
-   "html": "\n<h4>1.1 Subject and Summary</h4>\n<p>The Ghanaian poem <em>Once Upon an Elephant</em> uses the figure of a once-mighty elephant to comment on the rise and fall of power. In the poem's world the elephant is the acknowledged giant of the forest &mdash; huge, feared, deferred to by every other creature. Yet with the passage of time the elephant declines, and the animals that once cowered before it now approach, mock or feed upon it. The narrative frame 'once upon a...' borrows the opening of the folktale, signalling that this is a fable with a moral rather than a report of fact.</p>\n\n<h4>1.2 Structure and Form</h4>\n<ul>\n<li>Free verse organised in stanzas of varying length, in the manner of a modern African oral-derived poem.</li>\n<li>Repetition of the folktale formula and of the elephant's attributes builds an incantatory, story-telling rhythm.</li>\n<li>The movement is chronological: greatness &rarr; decline &rarr; humiliation, producing the shape of a fall.</li>\n</ul>\n\n<h4>1.3 Devices and Their Effects</h4>\n<table class=\"tb-table\">\n<tr><th>Device</th><th>Illustration</th><th>Effect</th></tr>\n<tr><td>Allegory / fable</td><td>The elephant as a ruler or a nation</td><td>Allows political criticism at a safe distance</td></tr>\n<tr><td>Symbolism</td><td>The elephant = power, size, authority</td><td>Concentrates the theme in one image</td></tr>\n<tr><td>Personification</td><td>Animals that scheme, mock and celebrate</td><td>Turns the forest into a human society</td></tr>\n<tr><td>Repetition</td><td>The 'once upon' formula</td><td>Oral texture; insists on pastness and loss</td></tr>\n<tr><td>Irony</td><td>The feared giant becomes food and jest</td><td>Underlines the reversal of fortune</td></tr>\n<tr><td>Imagery</td><td>Visual bulk, forest sounds, decay</td><td>Makes the abstract idea of decline concrete</td></tr>\n</table>\n\n<h4>1.4 Themes</h4>\n<ol>\n<li><strong>The transience of power</strong> &ndash; no greatness is permanent.</li>\n<li><strong>Pride and its consequences</strong> &ndash; those who trust in strength alone are exposed when strength fails.</li>\n<li><strong>Political allegory</strong> &ndash; the fall of despots and the fickleness of followers.</li>\n<li><strong>Time and change in nature and society</strong>.</li>\n<li><strong>Communal memory</strong> &ndash; the story is told so that the lesson survives.</li>\n</ol>\n\n<h4>1.5 Tone and Mood</h4>\n<p>The tone is reflective and gently ironic rather than triumphant; the mood moves from awe to pity mixed with satisfaction. This mixture is important: the poem neither simply mourns nor simply celebrates the elephant's fall, and a good answer must recognise that ambivalence.</p>\n",
-   "examples": [
+  "subject": "Literature",
+  "level": "SSS 2",
+  "slug": "prescribed-poetry",
+  "title": "Prescribed African and Non-African Poetry",
+  "outline": [
+    "Reading prescribed poems: subject, persona, structure, devices, theme",
+    "African poem: 'Once Upon an Elephant' - Alexander Kwame Boadi",
+    "Non-African poem: 'Once Upon a Time' - Gabriel Okara (as prescribed pairing)",
+    "Rhyme, rhythm and metre: scansion practice with LaTeX foot mapping",
+    "Imagery, symbolism, diction and tone in the prescribed poems",
+    "Answering poetry questions: from device to effect"
+  ],
+  "modules": [
     {
-     "q": "Discuss the elephant as a symbol in 'Once Upon an Elephant'.",
-     "a": "The elephant is the poem's controlling symbol. Physically it stands for sheer size and force: it is the largest animal of the forest, before whom all others give way, and its every movement commands space. Politically it represents authority &mdash; the chief, the dictator, the dominant nation &mdash; whose position seems as immovable as its bulk. Because the poem is cast as a fable ('once upon a...'), the symbol carries a moral charge: the elephant's later helplessness, when smaller creatures approach without fear, dramatises the truth that power resting on physical dominance rather than on affection or justice cannot endure. The symbol also works temporally: an elephant is proverbially long-lived and long-remembered, so that even in decline it stands for the memory a community keeps of former greatness. The effect is to allow sharp political comment without naming any ruler, exactly as the traditional animal tale does."
+      "title": "Module 1: 'Once Upon an Elephant' (Alexander Kwame Boadi)",
+      "html": "\n<h4>1.1 Subject and Summary</h4>\n<p>The Ghanaian poem <em>Once Upon an Elephant</em> uses the figure of a once-mighty elephant to comment on the rise and fall of power. In the poem's world the elephant is the acknowledged giant of the forest &mdash; huge, feared, deferred to by every other creature. Yet with the passage of time the elephant declines, and the animals that once cowered before it now approach, mock or feed upon it. The narrative frame 'once upon a...' borrows the opening of the folktale, signalling that this is a fable with a moral rather than a report of fact.</p>\n\n<h4>1.2 Structure and Form</h4>\n<ul>\n<li>Free verse organised in stanzas of varying length, in the manner of a modern African oral-derived poem.</li>\n<li>Repetition of the folktale formula and of the elephant's attributes builds an incantatory, story-telling rhythm.</li>\n<li>The movement is chronological: greatness &rarr; decline &rarr; humiliation, producing the shape of a fall.</li>\n</ul>\n\n<h4>1.3 Devices and Their Effects</h4>\n<table class=\"tb-table\">\n<tr><th>Device</th><th>Illustration</th><th>Effect</th></tr>\n<tr><td>Allegory / fable</td><td>The elephant as a ruler or a nation</td><td>Allows political criticism at a safe distance</td></tr>\n<tr><td>Symbolism</td><td>The elephant = power, size, authority</td><td>Concentrates the theme in one image</td></tr>\n<tr><td>Personification</td><td>Animals that scheme, mock and celebrate</td><td>Turns the forest into a human society</td></tr>\n<tr><td>Repetition</td><td>The 'once upon' formula</td><td>Oral texture; insists on pastness and loss</td></tr>\n<tr><td>Irony</td><td>The feared giant becomes food and jest</td><td>Underlines the reversal of fortune</td></tr>\n<tr><td>Imagery</td><td>Visual bulk, forest sounds, decay</td><td>Makes the abstract idea of decline concrete</td></tr>\n</table>\n\n<h4>1.4 Themes</h4>\n<ol>\n<li><strong>The transience of power</strong> &ndash; no greatness is permanent.</li>\n<li><strong>Pride and its consequences</strong> &ndash; those who trust in strength alone are exposed when strength fails.</li>\n<li><strong>Political allegory</strong> &ndash; the fall of despots and the fickleness of followers.</li>\n<li><strong>Time and change in nature and society</strong>.</li>\n<li><strong>Communal memory</strong> &ndash; the story is told so that the lesson survives.</li>\n</ol>\n\n<h4>1.5 Tone and Mood</h4>\n<p>The tone is reflective and gently ironic rather than triumphant; the mood moves from awe to pity mixed with satisfaction. This mixture is important: the poem neither simply mourns nor simply celebrates the elephant's fall, and a good answer must recognise that ambivalence.</p>\n",
+      "examples": [
+        {
+          "q": "Discuss the elephant as a symbol in 'Once Upon an Elephant'.",
+          "a": "The elephant is the poem's controlling symbol. Physically it stands for sheer size and force: it is the largest animal of the forest, before whom all others give way, and its every movement commands space. Politically it represents authority &mdash; the chief, the dictator, the dominant nation &mdash; whose position seems as immovable as its bulk. Because the poem is cast as a fable ('once upon a...'), the symbol carries a moral charge: the elephant's later helplessness, when smaller creatures approach without fear, dramatises the truth that power resting on physical dominance rather than on affection or justice cannot endure. The symbol also works temporally: an elephant is proverbially long-lived and long-remembered, so that even in decline it stands for the memory a community keeps of former greatness. The effect is to allow sharp political comment without naming any ruler, exactly as the traditional animal tale does."
+        },
+        {
+          "q": "Comment on the significance of the fairy-tale opening formula in the poem.",
+          "a": "The phrase 'once upon a...' immediately signals folktale, and with it the whole apparatus of oral narration: a storyteller, a listening community, animal characters standing for human types, and an expected moral. Three effects follow. It creates distance in time, insisting that the elephant's greatness belongs irretrievably to the past, which is the poem's central claim. It creates political safety, since a fable about animals cannot easily be prosecuted as an attack on a named ruler. And it creates intimacy of voice: the reader is placed in the position of a child at the storyteller's feet, ready to be instructed, so the poem's moral about the transience of power arrives as inherited communal wisdom rather than as private opinion."
+        }
+      ]
     },
     {
-     "q": "Comment on the significance of the fairy-tale opening formula in the poem.",
-     "a": "The phrase 'once upon a...' immediately signals folktale, and with it the whole apparatus of oral narration: a storyteller, a listening community, animal characters standing for human types, and an expected moral. Three effects follow. It creates distance in time, insisting that the elephant's greatness belongs irretrievably to the past, which is the poem's central claim. It creates political safety, since a fable about animals cannot easily be prosecuted as an attack on a named ruler. And it creates intimacy of voice: the reader is placed in the position of a child at the storyteller's feet, ready to be instructed, so the poem's moral about the transience of power arrives as inherited communal wisdom rather than as private opinion."
-    }
-   ]
-  },
-  {
-   "title": "Module 2: 'Once Upon a Time' (Gabriel Okara)",
-   "html": "\n<h4>2.1 The Poet and the Situation</h4>\n<p>Gabriel Okara (1921&ndash;2019), Nigerian poet and novelist from the Niger Delta, is celebrated for the transliteration of Ijaw thought-patterns into English. In <em>Once Upon a Time</em> a father speaks to his son, contrasting the sincerity of an earlier age with the hypocrisy of modern, westernised urban society, and begs the child to teach him how to be genuine again.</p>\n\n<h4>2.2 Stanza-by-Stanza Movement</h4>\n<ol>\n<li>People once laughed 'with their hearts' and 'with their eyes'; now they laugh only 'with their teeth' while their eyes 'search behind my shadow'.</li>\n<li>Handshakes were once warm; now they are given 'without hearts', the left hand searching the speaker's empty pockets.</li>\n<li>'Feel at home', 'come again' are spoken, but a third visit finds the door closed.</li>\n<li>The speaker confesses that he too has learnt these faces: 'homeface, officeface, streetface, hostface, cocktailface', conforming with 'fixed portrait smile'.</li>\n<li>He has learnt to say 'Goodbye' when he means 'Good-riddance', 'Glad to meet you' without gladness, 'It's been nice talking to you' after boredom.</li>\n<li>He asks the son to show him how to laugh as he used to when he was like the child.</li>\n<li>He wants to unlearn these things: 'I want to be what I used to be... I want to relearn how to laugh, for my laugh in the mirror shows only my teeth like a snake's bare fangs!'</li>\n</ol>\n\n<h4>2.3 Devices</h4>\n<ul>\n<li><strong>Refrain and repetition</strong> &ndash; 'once upon a time' recurs, framing lost sincerity in fairy-tale terms; 'they used to' and 'I have learned' set past against present.</li>\n<li><strong>Contrast/antithesis</strong> &ndash; heart-laughter versus teeth-laughter; warm handshake versus searching hand.</li>\n<li><strong>Metaphor</strong> &ndash; the many 'faces' as masks; 'muting things' hidden in speech.</li>\n<li><strong>Simile</strong> &ndash; 'like a fixed portrait smile'; 'like a snake's bare fangs'.</li>\n<li><strong>Synecdoche</strong> &ndash; teeth, eyes, hands standing for the whole insincere person.</li>\n<li><strong>Symbolism</strong> &ndash; the child as innocence and the mirror as self-knowledge.</li>\n<li><strong>Free verse</strong> with conversational rhythm, enjambment and irregular stanza length, imitating a father's confiding speech.</li>\n</ul>\n\n<h4>2.4 Themes</h4>\n<ol>\n<li>Loss of innocence and sincerity in modern society.</li>\n<li>Hypocrisy, pretence and the mask.</li>\n<li>Childhood as moral standard.</li>\n<li>Cultural change: the corrosive effects of westernisation and urban materialism.</li>\n<li>Self-criticism and the wish for regeneration.</li>\n</ol>\n\n<h4>2.5 Comparing the Two 'Once Upon' Poems</h4>\n<table class=\"tb-table\">\n<tr><th>Point</th><th>Once Upon an Elephant</th><th>Once Upon a Time</th></tr>\n<tr><td>Form</td><td>Fable in free verse</td><td>Dramatic address in free verse</td></tr>\n<tr><td>Persona</td><td>Communal storyteller</td><td>A father speaking to his son</td></tr>\n<tr><td>Subject of loss</td><td>Power and greatness</td><td>Sincerity and innocence</td></tr>\n<tr><td>Chief device</td><td>Allegory and symbolism</td><td>Contrast and repetition</td></tr>\n<tr><td>Tone</td><td>Ironic, reflective</td><td>Regretful, self-accusing, hopeful</td></tr>\n<tr><td>Shared feature</td><td colspan=\"2\">The fairy-tale formula that places value in an irrecoverable past</td></tr>\n</table>\n",
-   "examples": [
-    {
-     "q": "Comment on the use of the word 'faces' in 'Once Upon a Time'.",
-     "a": "Okara turns 'face' into a metaphor for the social mask. The catalogue &mdash; 'homeface, officeface, streetface, hostface, cocktailface' &mdash; is presented as a series of compound coinages, and the very act of coining new words enacts the multiplication of false selves: modern life has produced so many roles that the language must stretch to name them. The list is unpunctuated and cumulative, so the reader feels the speaker changing masks rapidly, like a performer. Each face is 'like a fixed portrait smile' &mdash; the simile drains it of life and movement, making it an object rather than an expression. The device is doubly effective because the speaker accuses himself as well as others: he has 'learned to wear' these faces, so hypocrisy is presented as a contagious skill acquired in adulthood, not a vice belonging to strangers."
+      "title": "Module 2: 'Once Upon a Time' (Gabriel Okara)",
+      "html": "\n<h4>2.1 The Poet and the Situation</h4>\n<p>Gabriel Okara (1921&ndash;2019), Nigerian poet and novelist from the Niger Delta, is celebrated for the transliteration of Ijaw thought-patterns into English. In <em>Once Upon a Time</em> a father speaks to his son, contrasting the sincerity of an earlier age with the hypocrisy of modern, westernised urban society, and begs the child to teach him how to be genuine again.</p>\n\n<h4>2.2 Stanza-by-Stanza Movement</h4>\n<ol>\n<li>People once laughed 'with their hearts' and 'with their eyes'; now they laugh only 'with their teeth' while their eyes 'search behind my shadow'.</li>\n<li>Handshakes were once warm; now they are given 'without hearts', the left hand searching the speaker's empty pockets.</li>\n<li>'Feel at home', 'come again' are spoken, but a third visit finds the door closed.</li>\n<li>The speaker confesses that he too has learnt these faces: 'homeface, officeface, streetface, hostface, cocktailface', conforming with 'fixed portrait smile'.</li>\n<li>He has learnt to say 'Goodbye' when he means 'Good-riddance', 'Glad to meet you' without gladness, 'It's been nice talking to you' after boredom.</li>\n<li>He asks the son to show him how to laugh as he used to when he was like the child.</li>\n<li>He wants to unlearn these things: 'I want to be what I used to be... I want to relearn how to laugh, for my laugh in the mirror shows only my teeth like a snake's bare fangs!'</li>\n</ol>\n\n<h4>2.3 Devices</h4>\n<ul>\n<li><strong>Refrain and repetition</strong> &ndash; 'once upon a time' recurs, framing lost sincerity in fairy-tale terms; 'they used to' and 'I have learned' set past against present.</li>\n<li><strong>Contrast/antithesis</strong> &ndash; heart-laughter versus teeth-laughter; warm handshake versus searching hand.</li>\n<li><strong>Metaphor</strong> &ndash; the many 'faces' as masks; 'muting things' hidden in speech.</li>\n<li><strong>Simile</strong> &ndash; 'like a fixed portrait smile'; 'like a snake's bare fangs'.</li>\n<li><strong>Synecdoche</strong> &ndash; teeth, eyes, hands standing for the whole insincere person.</li>\n<li><strong>Symbolism</strong> &ndash; the child as innocence and the mirror as self-knowledge.</li>\n<li><strong>Free verse</strong> with conversational rhythm, enjambment and irregular stanza length, imitating a father's confiding speech.</li>\n</ul>\n\n<h4>2.4 Themes</h4>\n<ol>\n<li>Loss of innocence and sincerity in modern society.</li>\n<li>Hypocrisy, pretence and the mask.</li>\n<li>Childhood as moral standard.</li>\n<li>Cultural change: the corrosive effects of westernisation and urban materialism.</li>\n<li>Self-criticism and the wish for regeneration.</li>\n</ol>\n\n<h4>2.5 Comparing the Two 'Once Upon' Poems</h4>\n<table class=\"tb-table\">\n<tr><th>Point</th><th>Once Upon an Elephant</th><th>Once Upon a Time</th></tr>\n<tr><td>Form</td><td>Fable in free verse</td><td>Dramatic address in free verse</td></tr>\n<tr><td>Persona</td><td>Communal storyteller</td><td>A father speaking to his son</td></tr>\n<tr><td>Subject of loss</td><td>Power and greatness</td><td>Sincerity and innocence</td></tr>\n<tr><td>Chief device</td><td>Allegory and symbolism</td><td>Contrast and repetition</td></tr>\n<tr><td>Tone</td><td>Ironic, reflective</td><td>Regretful, self-accusing, hopeful</td></tr>\n<tr><td>Shared feature</td><td colspan=\"2\">The fairy-tale formula that places value in an irrecoverable past</td></tr>\n</table>\n",
+      "examples": [
+        {
+          "q": "Comment on the use of the word 'faces' in 'Once Upon a Time'.",
+          "a": "Okara turns 'face' into a metaphor for the social mask. The catalogue &mdash; 'homeface, officeface, streetface, hostface, cocktailface' &mdash; is presented as a series of compound coinages, and the very act of coining new words enacts the multiplication of false selves: modern life has produced so many roles that the language must stretch to name them. The list is unpunctuated and cumulative, so the reader feels the speaker changing masks rapidly, like a performer. Each face is 'like a fixed portrait smile' &mdash; the simile drains it of life and movement, making it an object rather than an expression. The device is doubly effective because the speaker accuses himself as well as others: he has 'learned to wear' these faces, so hypocrisy is presented as a contagious skill acquired in adulthood, not a vice belonging to strangers."
+        },
+        {
+          "q": "Scan the rhythm of the line 'They laugh with their teeth' and comment briefly on Okara's rhythmic choices.",
+          "a": "The line is short and speech-based rather than metrically regular; stressing it naturally gives \\( \\times\\ /\\ \\times\\ \\times\\ /\\ \\) &mdash; 'they LAUGH with their TEETH' &mdash; two strong beats framing the line, so that 'laugh' and 'teeth' collide and the reader hears the contradiction between the two words. Okara writes in free verse throughout, avoiding rhyme and fixed feet, because his subject is genuine speech between a father and a child; a regular metre such as iambic pentameter, $$ \\times / \\ \\times / \\ \\times / \\ \\times / \\ \\times / $$ would sound formal and 'portrait-like', the very artificiality he attacks. Instead he uses repetition, parallel structure and enjambment to create rhythm, which allows the plainness of the final wish, 'I want to be what I used to be', to fall with unforced sincerity."
+        }
+      ]
     },
     {
-     "q": "Scan the rhythm of the line 'They laugh with their teeth' and comment briefly on Okara's rhythmic choices.",
-     "a": "The line is short and speech-based rather than metrically regular; stressing it naturally gives \\( \\times\\ /\\ \\times\\ \\times\\ /\\ \\) &mdash; 'they LAUGH with their TEETH' &mdash; two strong beats framing the line, so that 'laugh' and 'teeth' collide and the reader hears the contradiction between the two words. Okara writes in free verse throughout, avoiding rhyme and fixed feet, because his subject is genuine speech between a father and a child; a regular metre such as iambic pentameter, $$ \\times / \\ \\times / \\ \\times / \\ \\times / \\ \\times / $$ would sound formal and 'portrait-like', the very artificiality he attacks. Instead he uses repetition, parallel structure and enjambment to create rhythm, which allows the plainness of the final wish, 'I want to be what I used to be', to fall with unforced sincerity."
-    }
-   ]
-  },
-  {
-   "title": "Module 3: Metre, Scansion and Poetry Answering Skills",
-   "html": "\n<h4>3.1 Basic Scansion</h4>\n<p>To scan a line, mark unstressed (&times;) and stressed (/) syllables, divide into feet and count them.</p>\n<table class=\"tb-table\">\n<tr><th>Foot</th><th>Pattern</th><th>Example word</th></tr>\n<tr><td>Iamb</td><td>&times; /</td><td>be-LIEVE</td></tr>\n<tr><td>Trochee</td><td>/ &times;</td><td>GAR-den</td></tr>\n<tr><td>Anapaest</td><td>&times; &times; /</td><td>in-ter-VENE</td></tr>\n<tr><td>Dactyl</td><td>/ &times; &times;</td><td>MUR-mur-ing</td></tr>\n<tr><td>Spondee</td><td>/ /</td><td>HEART-BREAK</td></tr>\n</table>\n<p>Iambic pentameter is mapped as $$ \\times / \\;\\times / \\;\\times / \\;\\times / \\;\\times / $$ and iambic tetrameter as \\( \\times / \\ \\times / \\ \\times / \\ \\times / \\).</p>\n\n<h4>3.2 Rhyme Schemes to Recognise</h4>\n<ul>\n<li>Couplet: \\( aa\\ bb\\ cc \\)</li>\n<li>Alternate/cross rhyme: \\( abab \\)</li>\n<li>Enclosed rhyme: \\( abba \\)</li>\n<li>Ballad measure: \\( abcb \\), alternating tetrameter and trimeter</li>\n<li>Shakespearean sonnet: \\( abab\\ cdcd\\ efef\\ gg \\)</li>\n<li>Petrarchan sonnet: \\( abbaabba \\) + \\( cdecde \\) or \\( cdcdcd \\)</li>\n<li>Terza rima: \\( aba\\ bcb\\ cdc \\)</li>\n</ul>\n\n<h4>3.3 The Poetry Answer</h4>\n<ol>\n<li>Begin by identifying poem, poet and central concern in one sentence.</li>\n<li>Move through the poem in order, but organise by argument, not by line-by-line paraphrase.</li>\n<li>Quote no more than a line at a time and always comment on effect.</li>\n<li>Link form to meaning: why free verse? why a refrain? why a short final line?</li>\n<li>Conclude with theme and overall evaluation.</li>\n</ol>\n",
-   "examples": [
+      "title": "Module 3: Metre, Scansion and Poetry Answering Skills",
+      "html": "\n<h4>3.1 Basic Scansion</h4>\n<p>To scan a line, mark unstressed (&times;) and stressed (/) syllables, divide into feet and count them.</p>\n<table class=\"tb-table\">\n<tr><th>Foot</th><th>Pattern</th><th>Example word</th></tr>\n<tr><td>Iamb</td><td>&times; /</td><td>be-LIEVE</td></tr>\n<tr><td>Trochee</td><td>/ &times;</td><td>GAR-den</td></tr>\n<tr><td>Anapaest</td><td>&times; &times; /</td><td>in-ter-VENE</td></tr>\n<tr><td>Dactyl</td><td>/ &times; &times;</td><td>MUR-mur-ing</td></tr>\n<tr><td>Spondee</td><td>/ /</td><td>HEART-BREAK</td></tr>\n</table>\n<p>Iambic pentameter is mapped as $$ \\times / \\;\\times / \\;\\times / \\;\\times / \\;\\times / $$ and iambic tetrameter as \\( \\times / \\ \\times / \\ \\times / \\ \\times / \\).</p>\n\n<h4>3.2 Rhyme Schemes to Recognise</h4>\n<ul>\n<li>Couplet: \\( aa\\ bb\\ cc \\)</li>\n<li>Alternate/cross rhyme: \\( abab \\)</li>\n<li>Enclosed rhyme: \\( abba \\)</li>\n<li>Ballad measure: \\( abcb \\), alternating tetrameter and trimeter</li>\n<li>Shakespearean sonnet: \\( abab\\ cdcd\\ efef\\ gg \\)</li>\n<li>Petrarchan sonnet: \\( abbaabba \\) + \\( cdecde \\) or \\( cdcdcd \\)</li>\n<li>Terza rima: \\( aba\\ bcb\\ cdc \\)</li>\n</ul>\n\n<h4>3.3 The Poetry Answer</h4>\n<ol>\n<li>Begin by identifying poem, poet and central concern in one sentence.</li>\n<li>Move through the poem in order, but organise by argument, not by line-by-line paraphrase.</li>\n<li>Quote no more than a line at a time and always comment on effect.</li>\n<li>Link form to meaning: why free verse? why a refrain? why a short final line?</li>\n<li>Conclude with theme and overall evaluation.</li>\n</ol>\n",
+      "examples": [
+        {
+          "q": "A stanza rhymes: 'crown / fell / down / tell'. Name the rhyme scheme and comment on its suitability for a poem about a fallen ruler.",
+          "a": "The scheme is \\( abab \\) (crown/down = a; fell/tell = b). Alternate rhyme keeps two sound-chains running against each other, so that 'crown' is answered by 'down' and 'fell' by 'tell'. The pairing itself carries the meaning: the emblem of authority is rhymed with its collapse, and the act of falling is rhymed with the act of narration, suggesting that a ruler's fall exists chiefly as a story afterwards told. The interlacing also delays completion &mdash; the reader must wait a line for each answering sound &mdash; which suits a poem about the slow working-out of time upon greatness."
+        }
+      ]
+    },
     {
-     "q": "A stanza rhymes: 'crown / fell / down / tell'. Name the rhyme scheme and comment on its suitability for a poem about a fallen ruler.",
-     "a": "The scheme is \\( abab \\) (crown/down = a; fell/tell = b). Alternate rhyme keeps two sound-chains running against each other, so that 'crown' is answered by 'down' and 'fell' by 'tell'. The pairing itself carries the meaning: the emblem of authority is rhymed with its collapse, and the act of falling is rhymed with the act of narration, suggesting that a ruler's fall exists chiefly as a story afterwards told. The interlacing also delays completion &mdash; the reader must wait a line for each answering sound &mdash; which suits a poem about the slow working-out of time upon greatness."
+      "title": "Reading prescribed poems: subject, persona, structure, devices, theme",
+      "html": "<p><b>Reading prescribed poems: subject, persona, structure, devices, theme</b> is a key part of Prescribed African and Non-African Poetry (SSS 2, Literature). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>1.1 Subject and Summary The Ghanaian poem Once Upon an Elephant uses the figure of a once-mighty elephant to comment on the rise and fall of power.</li><li>1.2 Structure and Form Free verse organised in stanzas of varying length, in the manner of a modern African oral-derived poem.</li><li>1.3 Devices and Their Effects Device Illustration Effect Allegory / fable The elephant as a ruler or a nation Allows political criticism at a safe distance Symbolism The elephant = power, size, authority Concentrates the theme in one image Personification Animals that scheme, mock and celebrate Turns the forest into a human society Repetition The 'once upon' formula Oral texture; insists on pastness and loss Irony The feared giant becomes food and jest Underlines the reversal of fortune Imagery Visual bulk, forest sounds, decay Makes the abstract idea of decline concrete 1.4 Themes The transience of power &ndash; no greatness is permanent.</li><li>I want to relearn how to laugh, for my laugh in the mirror shows only my teeth like a snake's bare fangs!' 2.3 Devices Refrain and repetition &ndash; 'once upon a time' recurs, framing lost sincerity in fairy-tale terms; 'they used to' and 'I have learned' set past against present.</li><li>2.4 Themes Loss of innocence and sincerity in modern society.</li></ul><h4>Worked example</h4><p><b>Q:</b> In Okara's poem, the speaker addresses<br/><b>A:</b> his son \u2014 The persona is a father confiding in and appealing to his young son.</p><p><b>Q:</b> Both prescribed 'Once Upon' poems are written in<br/><b>A:</b> free verse \u2014 Neither poem uses a fixed metre or rhyme scheme; both rely on repetition, parallelism and speech rhythm.</p>",
+      "examples": [
+        {
+          "q": "In Okara's poem, the speaker addresses",
+          "a": "his son \u2014 The persona is a father confiding in and appealing to his young son."
+        },
+        {
+          "q": "Both prescribed 'Once Upon' poems are written in",
+          "a": "free verse \u2014 Neither poem uses a fixed metre or rhyme scheme; both rely on repetition, parallelism and speech rhythm."
+        }
+      ]
+    },
+    {
+      "title": "Rhyme, rhythm and metre: scansion practice with LaTeX foot mapping",
+      "html": "<p><b>Rhyme, rhythm and metre: scansion practice with LaTeX foot mapping</b> is a key part of Prescribed African and Non-African Poetry (SSS 2, Literature). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Repetition of the folktale formula and of the elephant's attributes builds an incantatory, story-telling rhythm.</li><li>Free verse with conversational rhythm, enjambment and irregular stanza length, imitating a father's confiding speech.</li><li>3.1 Basic Scansion To scan a line, mark unstressed (&times;) and stressed (/) syllables, divide into feet and count them.</li><li>Foot Pattern Example word Iamb &times; / be-LIEVE Trochee / &times; GAR-den Anapaest &times; &times; / in-ter-VENE Dactyl / &times; &times; MUR-mur-ing Spondee / / HEART-BREAK Iambic pentameter is mapped as $$ \\times / \\;\\times / \\;\\times / \\;\\times / \\;\\times / $$ and iambic tetrameter as \\( \\times / \\ \\times / \\ \\times / \\ \\times / \\).</li><li>3.2 Rhyme Schemes to Recognise Couplet: \\( aa\\ bb\\ cc \\) Alternate/cross rhyme: \\( abab \\) Enclosed rhyme: \\( abba \\) Ballad measure: \\( abcb \\), alternating tetrameter and trimeter Shakespearean sonnet: \\( abab\\ cdcd\\ efef\\ gg \\) Petrarchan sonnet: \\( abbaabba \\) + \\( cdecde \\) or \\( cdcdcd \\) Terza rima: \\( aba\\ bcb\\ cdc \\) 3.3 The Poetry Answer Begin by identifying poem, poet and central concern in one sentence.</li></ul><h4>Worked example</h4><p><b>Q:</b> Both prescribed 'Once Upon' poems are written in<br/><b>A:</b> free verse \u2014 Neither poem uses a fixed metre or rhyme scheme; both rely on repetition, parallelism and speech rhythm.</p><p><b>Q:</b> The metrical foot consisting of an unstressed syllable followed by a stressed one is the<br/><b>A:</b> iamb \u2014 The iamb is \u00d7 / , as in 'be-LIEVE'; the trochee is its reverse.</p>",
+      "examples": [
+        {
+          "q": "Both prescribed 'Once Upon' poems are written in",
+          "a": "free verse \u2014 Neither poem uses a fixed metre or rhyme scheme; both rely on repetition, parallelism and speech rhythm."
+        },
+        {
+          "q": "The metrical foot consisting of an unstressed syllable followed by a stressed one is the",
+          "a": "iamb \u2014 The iamb is \u00d7 / , as in 'be-LIEVE'; the trochee is its reverse."
+        }
+      ]
+    },
+    {
+      "title": "Imagery, symbolism, diction and tone in the prescribed poems",
+      "html": "<p><b>Imagery, symbolism, diction and tone in the prescribed poems</b> is a key part of Prescribed African and Non-African Poetry (SSS 2, Literature). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>1.3 Devices and Their Effects Device Illustration Effect Allegory / fable The elephant as a ruler or a nation Allows political criticism at a safe distance Symbolism The elephant = power, size, authority Concentrates the theme in one image Personification Animals that scheme, mock and celebrate Turns the forest into a human society Repetition The 'once upon' formula Oral texture; insists on pastness and loss Irony The feared giant becomes food and jest Underlines the reversal of fortune Imagery Visual bulk, forest sounds, decay Makes the abstract idea of decline concrete 1.4 Themes The transience of power &ndash; no greatness is permanent.</li><li>1.5 Tone and Mood The tone is reflective and gently ironic rather than triumphant; the mood moves from awe to pity mixed with satisfaction.</li><li>Symbolism &ndash; the child as innocence and the mirror as self-knowledge.</li><li>2.5 Comparing the Two 'Once Upon' Poems Point Once Upon an Elephant Once Upon a Time Form Fable in free verse Dramatic address in free verse Persona Communal storyteller A father speaking to his son Subject of loss Power and greatness Sincerity and innocence Chief device Allegory and symbolism Contrast and repetition Tone Ironic, reflective Regretful, self-accusing, hopeful Shared feature The fairy-tale formula that places value in an irrecoverable past</li><li>Reading prescribed poems: subject, persona, structure, devices, theme is a key part of Prescribed African and Non-African Poetry (SSS 2, Literature).</li></ul><h4>Worked example</h4><p><b>Q:</b> Both prescribed 'Once Upon' poems are written in<br/><b>A:</b> free verse \u2014 Neither poem uses a fixed metre or rhyme scheme; both rely on repetition, parallelism and speech rhythm.</p>",
+      "examples": [
+        {
+          "q": "Both prescribed 'Once Upon' poems are written in",
+          "a": "free verse \u2014 Neither poem uses a fixed metre or rhyme scheme; both rely on repetition, parallelism and speech rhythm."
+        }
+      ]
     }
-   ]
-  }
- ],
- "quiz": [
-  {
-   "q": "'Once Upon an Elephant' is a poem by",
-   "options": [
-    "Kofi Awoonor",
-    "Alexander Kwame Boadi",
-    "Gabriel Okara",
-    "Lenrie Peters"
-   ],
-   "answer": "1",
-   "solution": "The poem is by the Ghanaian poet Alexander Kwame Boadi."
-  },
-  {
-   "q": "The elephant in the poem principally symbolises",
-   "options": [
-    "wisdom",
-    "power and its transience",
-    "wealth",
-    "the forest itself"
-   ],
-   "answer": "1",
-   "solution": "The once-feared giant that later becomes helpless embodies power and the certainty of its decline."
-  },
-  {
-   "q": "The opening formula 'once upon a...' places the poem in the tradition of",
-   "options": [
-    "the sonnet",
-    "the folktale/fable",
-    "the ode",
-    "the dirge"
-   ],
-   "answer": "1",
-   "solution": "The formula is the traditional opening of the oral tale, signalling a fable with a moral."
-  },
-  {
-   "q": "A poem in which animals stand for human types and society is called",
-   "options": [
-    "an allegory or fable",
-    "an elegy",
-    "a lyric",
-    "an epigram"
-   ],
-   "answer": "0",
-   "solution": "Fable and allegory use animal figures to convey moral or political meaning about human affairs."
-  },
-  {
-   "q": "'Once Upon a Time' was written by",
-   "options": [
-    "Christopher Okigbo",
-    "Gabriel Okara",
-    "Wole Soyinka",
-    "David Diop"
-   ],
-   "answer": "1",
-   "solution": "Gabriel Okara, the Nigerian poet from the Niger Delta, wrote 'Once Upon a Time'."
-  },
-  {
-   "q": "In Okara's poem, the speaker addresses",
-   "options": [
-    "his wife",
-    "his son",
-    "his ancestors",
-    "the government"
-   ],
-   "answer": "1",
-   "solution": "The persona is a father confiding in and appealing to his young son."
-  },
-  {
-   "q": "'They only laugh with their teeth' implies that people's laughter is",
-   "options": [
-    "loud",
-    "insincere and superficial",
-    "childish",
-    "musical"
-   ],
-   "answer": "1",
-   "solution": "Laughter confined to the teeth, with cold searching eyes, signifies a mechanical, heartless social performance."
-  },
-  {
-   "q": "The catalogue 'homeface, officeface, streetface, hostface, cocktailface' illustrates",
-   "options": [
-    "alliteration",
-    "the metaphor of the social mask",
-    "onomatopoeia",
-    "personification"
-   ],
-   "answer": "1",
-   "solution": "Each compound names a different mask worn for a different social role, dramatising multiplied hypocrisy."
-  },
-  {
-   "q": "The simile 'like a snake's bare fangs' expresses the speaker's",
-   "options": [
-    "pride in his success",
-    "disgust at his own falseness",
-    "fear of animals",
-    "anger at his son"
-   ],
-   "answer": "1",
-   "solution": "Looking in the mirror, the speaker sees his own smile as predatory and false, provoking self-disgust and the desire to change."
-  },
-  {
-   "q": "What does the speaker in 'Once Upon a Time' ask his son to teach him?",
-   "options": [
-    "How to make money",
-    "How to laugh and be sincere again",
-    "How to speak English",
-    "How to forget the past"
-   ],
-   "answer": "1",
-   "solution": "He asks to be shown how to laugh as he once did, taking the child as the standard of sincerity."
-  },
-  {
-   "q": "Both prescribed 'Once Upon' poems are written in",
-   "options": [
-    "heroic couplets",
-    "free verse",
-    "blank verse",
-    "terza rima"
-   ],
-   "answer": "1",
-   "solution": "Neither poem uses a fixed metre or rhyme scheme; both rely on repetition, parallelism and speech rhythm."
-  },
-  {
-   "q": "The metrical foot consisting of an unstressed syllable followed by a stressed one is the",
-   "options": [
-    "trochee",
-    "iamb",
-    "dactyl",
-    "spondee"
-   ],
-   "answer": "1",
-   "solution": "The iamb is × / , as in 'be-LIEVE'; the trochee is its reverse."
-  },
-  {
-   "q": "A rhyme scheme of abba is described as",
-   "options": [
-    "alternate rhyme",
-    "enclosed rhyme",
-    "couplet rhyme",
-    "chain rhyme"
-   ],
-   "answer": "1",
-   "solution": "In enclosed rhyme the outer lines rhyme with each other and enclose an inner rhyming pair."
-  },
-  {
-   "q": "In poetry, deliberately repeated lines at intervals are called a",
-   "options": [
-    "refrain",
-    "caesura",
-    "cadence",
-    "conceit"
-   ],
-   "answer": "0",
-   "solution": "The refrain is a repeated line or group of lines, common in ballads, songs and dirges."
-  },
-  {
-   "q": "The mood of 'Once Upon an Elephant' is best described as",
-   "options": [
-    "celebratory and triumphant",
-    "reflective with irony and pity",
-    "angry and bitter",
-    "light and humorous"
-   ],
-   "answer": "1",
-   "solution": "The poem reflects on greatness lost; it neither purely mourns nor purely rejoices, and irony tempers pity."
-  },
-  {
-   "q": "Okara's chief structural device for contrasting past and present is",
-   "options": [
-    "rhyme",
-    "repetition of 'once upon a time' and 'I have learned'",
-    "the sonnet form",
-    "the refrain of a song"
-   ],
-   "answer": "1",
-   "solution": "The repeated time markers set the sincere past against the learned hypocrisy of the present."
-  },
-  {
-   "q": "Which figure of speech is present in 'the hands search my empty pockets'?",
-   "options": [
-    "Synecdoche and personification",
-    "Litotes",
-    "Apostrophe",
-    "Oxymoron"
-   ],
-   "answer": "0",
-   "solution": "The hands stand for the greedy person (synecdoche) and are given the human intention of searching, dramatising interest in wealth rather than friendship."
-  },
-  {
-   "q": "A line of verse containing four metrical feet is called",
-   "options": [
-    "trimeter",
-    "tetrameter",
-    "pentameter",
-    "hexameter"
-   ],
-   "answer": "1",
-   "solution": "Tetra- means four, so tetrameter is a four-foot line."
-  },
-  {
-   "q": "The child in 'Once Upon a Time' functions as a symbol of",
-   "options": [
-    "ignorance",
-    "innocence and authentic feeling",
-    "the future generation of hypocrites",
-    "poverty"
-   ],
-   "answer": "1",
-   "solution": "The son has not yet learned the social masks, so he embodies the sincerity the father wishes to recover."
-  },
-  {
-   "q": "The best way to gain full marks when discussing a poetic device is to",
-   "options": [
-    "name it",
-    "name it, quote it and explain its effect",
-    "quote the whole stanza",
-    "compare it with another poem"
-   ],
-   "answer": "1",
-   "solution": "Examiners reward the three-part move from identification through illustration to explanation of effect on meaning."
-  }
- ]
+  ],
+  "quiz": [
+    {
+      "q": "'Once Upon an Elephant' is a poem by",
+      "options": [
+        "Kofi Awoonor",
+        "Alexander Kwame Boadi",
+        "Gabriel Okara",
+        "Lenrie Peters"
+      ],
+      "answer": 1,
+      "solution": "The poem is by the Ghanaian poet Alexander Kwame Boadi.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The elephant in the poem principally symbolises",
+      "options": [
+        "wisdom",
+        "power and its transience",
+        "wealth",
+        "the forest itself"
+      ],
+      "answer": 1,
+      "solution": "The once-feared giant that later becomes helpless embodies power and the certainty of its decline.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The opening formula 'once upon a...' places the poem in the tradition of",
+      "options": [
+        "the sonnet",
+        "the folktale/fable",
+        "the ode",
+        "the dirge"
+      ],
+      "answer": 1,
+      "solution": "The formula is the traditional opening of the oral tale, signalling a fable with a moral.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A poem in which animals stand for human types and society is called",
+      "options": [
+        "an allegory or fable",
+        "an elegy",
+        "a lyric",
+        "an epigram"
+      ],
+      "answer": 0,
+      "solution": "Fable and allegory use animal figures to convey moral or political meaning about human affairs.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "'Once Upon a Time' was written by",
+      "options": [
+        "Christopher Okigbo",
+        "Gabriel Okara",
+        "Wole Soyinka",
+        "David Diop"
+      ],
+      "answer": 1,
+      "solution": "Gabriel Okara, the Nigerian poet from the Niger Delta, wrote 'Once Upon a Time'.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In Okara's poem, the speaker addresses",
+      "options": [
+        "his wife",
+        "his son",
+        "his ancestors",
+        "the government"
+      ],
+      "answer": 1,
+      "solution": "The persona is a father confiding in and appealing to his young son.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "'They only laugh with their teeth' implies that people's laughter is",
+      "options": [
+        "loud",
+        "insincere and superficial",
+        "childish",
+        "musical"
+      ],
+      "answer": 1,
+      "solution": "Laughter confined to the teeth, with cold searching eyes, signifies a mechanical, heartless social performance.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The catalogue 'homeface, officeface, streetface, hostface, cocktailface' illustrates",
+      "options": [
+        "alliteration",
+        "the metaphor of the social mask",
+        "onomatopoeia",
+        "personification"
+      ],
+      "answer": 1,
+      "solution": "Each compound names a different mask worn for a different social role, dramatising multiplied hypocrisy.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The simile 'like a snake's bare fangs' expresses the speaker's",
+      "options": [
+        "pride in his success",
+        "disgust at his own falseness",
+        "fear of animals",
+        "anger at his son"
+      ],
+      "answer": 1,
+      "solution": "Looking in the mirror, the speaker sees his own smile as predatory and false, provoking self-disgust and the desire to change.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "What does the speaker in 'Once Upon a Time' ask his son to teach him?",
+      "options": [
+        "How to make money",
+        "How to laugh and be sincere again",
+        "How to speak English",
+        "How to forget the past"
+      ],
+      "answer": 1,
+      "solution": "He asks to be shown how to laugh as he once did, taking the child as the standard of sincerity.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Both prescribed 'Once Upon' poems are written in",
+      "options": [
+        "heroic couplets",
+        "free verse",
+        "blank verse",
+        "terza rima"
+      ],
+      "answer": 1,
+      "solution": "Neither poem uses a fixed metre or rhyme scheme; both rely on repetition, parallelism and speech rhythm.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The metrical foot consisting of an unstressed syllable followed by a stressed one is the",
+      "options": [
+        "trochee",
+        "iamb",
+        "dactyl",
+        "spondee"
+      ],
+      "answer": 1,
+      "solution": "The iamb is \u00d7 / , as in 'be-LIEVE'; the trochee is its reverse.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A rhyme scheme of abba is described as",
+      "options": [
+        "alternate rhyme",
+        "enclosed rhyme",
+        "couplet rhyme",
+        "chain rhyme"
+      ],
+      "answer": 1,
+      "solution": "In enclosed rhyme the outer lines rhyme with each other and enclose an inner rhyming pair.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In poetry, deliberately repeated lines at intervals are called a",
+      "options": [
+        "refrain",
+        "caesura",
+        "cadence",
+        "conceit"
+      ],
+      "answer": 0,
+      "solution": "The refrain is a repeated line or group of lines, common in ballads, songs and dirges.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The mood of 'Once Upon an Elephant' is best described as",
+      "options": [
+        "celebratory and triumphant",
+        "reflective with irony and pity",
+        "angry and bitter",
+        "light and humorous"
+      ],
+      "answer": 1,
+      "solution": "The poem reflects on greatness lost; it neither purely mourns nor purely rejoices, and irony tempers pity.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Okara's chief structural device for contrasting past and present is",
+      "options": [
+        "rhyme",
+        "repetition of 'once upon a time' and 'I have learned'",
+        "the sonnet form",
+        "the refrain of a song"
+      ],
+      "answer": 1,
+      "solution": "The repeated time markers set the sincere past against the learned hypocrisy of the present.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which figure of speech is present in 'the hands search my empty pockets'?",
+      "options": [
+        "Synecdoche and personification",
+        "Litotes",
+        "Apostrophe",
+        "Oxymoron"
+      ],
+      "answer": 0,
+      "solution": "The hands stand for the greedy person (synecdoche) and are given the human intention of searching, dramatising interest in wealth rather than friendship.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A line of verse containing four metrical feet is called",
+      "options": [
+        "trimeter",
+        "tetrameter",
+        "pentameter",
+        "hexameter"
+      ],
+      "answer": 1,
+      "solution": "Tetra- means four, so tetrameter is a four-foot line.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The child in 'Once Upon a Time' functions as a symbol of",
+      "options": [
+        "ignorance",
+        "innocence and authentic feeling",
+        "the future generation of hypocrites",
+        "poverty"
+      ],
+      "answer": 1,
+      "solution": "The son has not yet learned the social masks, so he embodies the sincerity the father wishes to recover.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The best way to gain full marks when discussing a poetic device is to",
+      "options": [
+        "name it",
+        "name it, quote it and explain its effect",
+        "quote the whole stanza",
+        "compare it with another poem"
+      ],
+      "answer": 1,
+      "solution": "Examiners reward the three-part move from identification through illustration to explanation of effect on meaning.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In poetry, the \"persona\" is the?",
+      "options": [
+        "Publisher",
+        "Reader",
+        "Speaker",
+        "Author"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Speaker.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "In poetry, the repetition of vowel sounds in a line is known as...",
+      "options": [
+        "Alliteration",
+        "Assonance",
+        "Onomatopoeia",
+        "Consonance"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Assonance.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A pause within a line of poetry is called:",
+      "options": [
+        "Enjambment",
+        "Caesura",
+        "Stanza",
+        "Meter"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Caesura.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The running over of a sentence from one line of poetry to the next without punctuation is:",
+      "options": [
+        "Enjambment",
+        "Caesura",
+        "End-stop",
+        "Rhyme"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: Enjambment.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The repetition of vowel sounds in a line of poetry is:",
+      "options": [
+        "Alliteration",
+        "Assonance",
+        "Consonance",
+        "Onomatopoeia"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Assonance.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "In poetry, a 'run-on line' is called:",
+      "options": [
+        "Enjambment",
+        "Caesura",
+        "End-stop",
+        "Stanza"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Enjambment.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "In poetry, a four-line stanza is called a?",
+      "options": [
+        "Octave",
+        "Quatrain",
+        "Sestet",
+        "Couplet"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Quatrain.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A poem with no regular rhyme or rhythm is called?",
+      "options": [
+        "Sonnet",
+        "Blank verse",
+        "Ballad",
+        "Free verse"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Free verse.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A poem of three lines with a 5-7-5 syllable structure is a _____.",
+      "options": [
+        "Sonnet",
+        "Haiku",
+        "Limerick",
+        "Epic"
+      ],
+      "answer": 1,
+      "solution": "A Haiku is a traditional form of Japanese poetry consisting of three lines with a syllable count of 5, 7, 5.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The tone of the poem 'Binsey Poplars' by Gerard Manley Hopkins is...",
+      "options": [
+        "Joyful",
+        "Sarcastic",
+        "Mournful/Elegaic",
+        "Aggressive"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Mournful/Elegaic.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A poem of fourteen lines with a specific rhyme scheme is a:",
+      "options": [
+        "Ballad",
+        "Sonnet",
+        "Ode",
+        "Elegy"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Sonnet.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "A poem of 14 lines with a specific rhyme scheme is a:",
+      "options": [
+        "Ballad",
+        "Sonnet",
+        "Ode",
+        "Elegy"
+      ],
+      "answer": 1,
+      "solution": "Past question (NECO 2025). Correct answer: Sonnet.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The main theme of 'Caged Bird' by Maya Angelou is _____.",
+      "options": [
+        "The beauty of nature",
+        "The struggle for freedom vs oppression",
+        "The importance of singing",
+        "The history of aviation"
+      ],
+      "answer": 1,
+      "solution": "The poem contrasts a free bird with a caged bird to illustrate the African American experience of captivity and longing for liberty.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A poem that tells a story, often meant to be sung, is a _____.",
+      "options": [
+        "Limerick",
+        "Ballad",
+        "Haiku",
+        "Elegy"
+      ],
+      "answer": 1,
+      "solution": "A ballad is a type of narrative poem that is typically structured with four-line stanzas and tells a folk tale or legend.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The pattern of end rhymes in a poem is the _____.",
+      "options": [
+        "Rhythm",
+        "Meter",
+        "Rhyme Scheme",
+        "Stanza"
+      ],
+      "answer": 2,
+      "solution": "The rhyme scheme is labeled with letters (e.g., AABB) to represent the sounds at the end of each line.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The 'voice' in a poem is the _____.",
+      "options": [
+        "Author",
+        "Persona",
+        "Audience",
+        "Narrator"
+      ],
+      "answer": 1,
+      "solution": "In poetry, the speaker or 'persona' is the character assumed by the poet.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Identify the device in 'He is no fool'.",
+      "options": [
+        "Hyperbole",
+        "Litotes",
+        "Simile",
+        "Sarcasm"
+      ],
+      "answer": 1,
+      "solution": "Litotes is an ironical understatement in which an affirmative is expressed by the negative of its contrary (stating 'no fool' to mean 'wise').",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A poem that laments the death of a particular person is a/an _____.",
+      "options": [
+        "Ode",
+        "Elegy",
+        "Ballad",
+        "Limerick"
+      ],
+      "answer": 1,
+      "solution": "An elegy is a mournful, melancholic, or plaintive poem, especially a funeral song or a lament for the dead.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The main theme of John Donne's 'The Good-Morrow' is _____.",
+      "options": [
+        "Death",
+        "The spiritual and physical awakening of love",
+        "War",
+        "Loneliness"
+      ],
+      "answer": 1,
+      "solution": "This metaphysical poem celebrates the transition from the 'childish' pleasures of the world to the mature, all-encompassing love shared by two people.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Identify the device in: 'Parting is such sweet sorrow'.",
+      "options": [
+        "Hyperbole",
+        "Oxymoron",
+        "Litotes",
+        "Simile"
+      ],
+      "answer": 1,
+      "solution": "An oxymoron combines two contradictory terms ('sweet' and 'sorrow') to create a paradoxical effect.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Identify the device in: 'The pen is mightier than the sword'.",
+      "options": [
+        "Synecdoche",
+        "Metonymy",
+        "Simile",
+        "Irony"
+      ],
+      "answer": 1,
+      "solution": "Metonymy replaces the name of an object with the name of something else with which it is closely connected (the 'pen' for writing/diplomacy and the 'sword' for violence/war).",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Identify the device in: 'He is as brave as a lion'.",
+      "options": [
+        "Metaphor",
+        "Personification",
+        "Simile",
+        "Hyperbole"
+      ],
+      "answer": 2,
+      "solution": "A simile is a direct comparison between two things using 'as' or 'like'.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Identify the device in: 'The world is a stage'.",
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Personification",
+        "Irony"
+      ],
+      "answer": 1,
+      "solution": "A metaphor is an implicit comparison between two unlike things (world and stage) without using 'like' or 'as'.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "In Fences, Troy's brother Gabriel believes he is _____.",
+      "options": [
+        "A soldier",
+        "The Archangel Gabriel",
+        "The President",
+        "A doctor"
+      ],
+      "answer": 1,
+      "solution": "Gabriel suffered a head injury in WWII and now believes he is the Archangel Gabriel, carrying a trumpet to blow on Judgment Day.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "A poem mourning the dead is an:",
+      "options": [
+        "Elegy",
+        "Ode",
+        "Epic",
+        "Ballad"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Elegy.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Theme refers to:",
+      "options": [
+        "Central idea",
+        "Setting",
+        "Character",
+        "Style"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Central idea.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Imagery creates:",
+      "options": [
+        "Mental pictures",
+        "Sound",
+        "Confusion",
+        "Length"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Mental pictures.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "A poem of fourteen lines is called a:",
+      "options": [
+        "Ballad",
+        "Sonnet",
+        "Ode",
+        "Elegy"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Sonnet.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The time and place of action in a story is the:",
+      "options": [
+        "Plot",
+        "Setting",
+        "Theme",
+        "Mood"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Setting.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "A lyrical poem usually expressing intense emotion is:",
+      "options": [
+        "Ballad",
+        "Lyric",
+        "Epic",
+        "Didactic"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Lyric.",
+      "source": "JAMB 2022",
+      "practice": false
+    }
+  ]
 }

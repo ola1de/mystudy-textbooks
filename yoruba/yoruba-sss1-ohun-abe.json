@@ -1,0 +1,737 @@
+{
+  "subject": "Yoruba",
+  "level": "SSS 1",
+  "slug": "ohun-abe",
+  "title": "Ohun ati Abidi (Sounds and Alphabet)",
+  "outline": [
+    "Introduction to Ohun ati Abidi (Sounds and Alphabet)",
+    "Key facts about Ohun ati Abidi (Sounds and Alphabet)",
+    "Important terms and examples in Ohun ati Abidi (Sounds and Alphabet)",
+    "Importance and application of Ohun ati Abidi (Sounds and Alphabet)",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Ohun ati Abidi (Sounds and Alphabet)",
+      "html": "<p>The Yoruba alphabet, vowels, consonants and tones. This section covers introduction to ohun ati abidi (sounds and alphabet).</p><h4>Key points</h4><ul><li>In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.</li><li>K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1 \u2014 K\u00f2 s\u00ed \u00e0m\u00ec.</li><li>K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 n\u00edn\u00fa \u00ecs\u1ecdm\u1ecdl\u00f3r\u00fak\u1ecd l\u00e1ti d\u00far\u00f3 f\u00fan '\u00cctura' \u2014 Omi.</li><li>\u00c8wo n\u00edn\u00fa \u00e0w\u1ecdn w\u1ecd\u0300ny\u00ed ni ohun \u00e8l\u00f2 k\u1ecd\u0300n\u0300p\u00fat\u00e0 n\u00edn\u00fa \u00e8d\u00e8 Yor\u00f9b\u00e1 \u2014 Gbogbo r\u1eb9\u0300.</li><li>K\u00ed ni '\u1eb8\u0300m\u00ed' n\u00edn\u00fa ohun t\u00ed \u00f3 w\u00e0 l\u00f3r\u00ed il\u1eb9\u0300 \u2014 \u00c8\u00e8y\u00e0n.</li></ul><h4>Worked examples</h4><p><b>Q:</b> In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____.<br/><b>A:</b> \u00c0\u00ecr\u00e1nm\u00fa \u2014 'e' and '\u1eb9' are oral vowels (f\u1ecd\u0301w\u1eb9\u0301l\u00ec \u00e0\u00ecr\u00e1nm\u00fa) because air flows only through the mouth during their production.</p><p><b>Q:</b> K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1?<br/><b>A:</b> K\u00f2 s\u00ed \u00e0m\u00ec \u2014 The mid-tone (re) is typically left unmarked in Yoruba orthography.</p>",
+      "examples": [
+        {
+          "q": "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____.",
+          "a": "\u00c0\u00ecr\u00e1nm\u00fa"
+        },
+        {
+          "q": "K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1?",
+          "a": "K\u00f2 s\u00ed \u00e0m\u00ec"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Ohun ati Abidi (Sounds and Alphabet)",
+      "html": "<p>The Yoruba alphabet, vowels, consonants and tones. This section covers key facts about ohun ati abidi (sounds and alphabet).</p><h4>Key points</h4><ul><li>In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.</li><li>K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1 \u2014 K\u00f2 s\u00ed \u00e0m\u00ec.</li><li>K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 n\u00edn\u00fa \u00ecs\u1ecdm\u1ecdl\u00f3r\u00fak\u1ecd l\u00e1ti d\u00far\u00f3 f\u00fan '\u00cctura' \u2014 Omi.</li><li>\u00c8wo n\u00edn\u00fa \u00e0w\u1ecdn w\u1ecd\u0300ny\u00ed ni ohun \u00e8l\u00f2 k\u1ecd\u0300n\u0300p\u00fat\u00e0 n\u00edn\u00fa \u00e8d\u00e8 Yor\u00f9b\u00e1 \u2014 Gbogbo r\u1eb9\u0300.</li><li>K\u00ed ni '\u1eb8\u0300m\u00ed' n\u00edn\u00fa ohun t\u00ed \u00f3 w\u00e0 l\u00f3r\u00ed il\u1eb9\u0300 \u2014 \u00c8\u00e8y\u00e0n.</li></ul><h4>Worked examples</h4><p><b>Q:</b> In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____.<br/><b>A:</b> \u00c0\u00ecr\u00e1nm\u00fa \u2014 'e' and '\u1eb9' are oral vowels (f\u1ecd\u0301w\u1eb9\u0301l\u00ec \u00e0\u00ecr\u00e1nm\u00fa) because air flows only through the mouth during their production.</p><p><b>Q:</b> K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1?<br/><b>A:</b> K\u00f2 s\u00ed \u00e0m\u00ec \u2014 The mid-tone (re) is typically left unmarked in Yoruba orthography.</p>",
+      "examples": [
+        {
+          "q": "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____.",
+          "a": "\u00c0\u00ecr\u00e1nm\u00fa"
+        },
+        {
+          "q": "K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1?",
+          "a": "K\u00f2 s\u00ed \u00e0m\u00ec"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Ohun ati Abidi (Sounds and Alphabet)",
+      "html": "<p>The Yoruba alphabet, vowels, consonants and tones. This section covers important terms and examples in ohun ati abidi (sounds and alphabet).</p><h4>Key points</h4><ul><li>In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.</li><li>K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1 \u2014 K\u00f2 s\u00ed \u00e0m\u00ec.</li><li>K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 n\u00edn\u00fa \u00ecs\u1ecdm\u1ecdl\u00f3r\u00fak\u1ecd l\u00e1ti d\u00far\u00f3 f\u00fan '\u00cctura' \u2014 Omi.</li><li>\u00c8wo n\u00edn\u00fa \u00e0w\u1ecdn w\u1ecd\u0300ny\u00ed ni ohun \u00e8l\u00f2 k\u1ecd\u0300n\u0300p\u00fat\u00e0 n\u00edn\u00fa \u00e8d\u00e8 Yor\u00f9b\u00e1 \u2014 Gbogbo r\u1eb9\u0300.</li><li>K\u00ed ni '\u1eb8\u0300m\u00ed' n\u00edn\u00fa ohun t\u00ed \u00f3 w\u00e0 l\u00f3r\u00ed il\u1eb9\u0300 \u2014 \u00c8\u00e8y\u00e0n.</li></ul><h4>Worked examples</h4><p><b>Q:</b> In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____.<br/><b>A:</b> \u00c0\u00ecr\u00e1nm\u00fa \u2014 'e' and '\u1eb9' are oral vowels (f\u1ecd\u0301w\u1eb9\u0301l\u00ec \u00e0\u00ecr\u00e1nm\u00fa) because air flows only through the mouth during their production.</p><p><b>Q:</b> K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1?<br/><b>A:</b> K\u00f2 s\u00ed \u00e0m\u00ec \u2014 The mid-tone (re) is typically left unmarked in Yoruba orthography.</p>",
+      "examples": [
+        {
+          "q": "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____.",
+          "a": "\u00c0\u00ecr\u00e1nm\u00fa"
+        },
+        {
+          "q": "K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1?",
+          "a": "K\u00f2 s\u00ed \u00e0m\u00ec"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Ohun ati Abidi (Sounds and Alphabet)",
+      "html": "<p>The Yoruba alphabet, vowels, consonants and tones. This section covers importance and application of ohun ati abidi (sounds and alphabet).</p><h4>Key points</h4><ul><li>In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.</li><li>K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1 \u2014 K\u00f2 s\u00ed \u00e0m\u00ec.</li><li>K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 n\u00edn\u00fa \u00ecs\u1ecdm\u1ecdl\u00f3r\u00fak\u1ecd l\u00e1ti d\u00far\u00f3 f\u00fan '\u00cctura' \u2014 Omi.</li><li>\u00c8wo n\u00edn\u00fa \u00e0w\u1ecdn w\u1ecd\u0300ny\u00ed ni ohun \u00e8l\u00f2 k\u1ecd\u0300n\u0300p\u00fat\u00e0 n\u00edn\u00fa \u00e8d\u00e8 Yor\u00f9b\u00e1 \u2014 Gbogbo r\u1eb9\u0300.</li><li>K\u00ed ni '\u1eb8\u0300m\u00ed' n\u00edn\u00fa ohun t\u00ed \u00f3 w\u00e0 l\u00f3r\u00ed il\u1eb9\u0300 \u2014 \u00c8\u00e8y\u00e0n.</li></ul><h4>Worked examples</h4><p><b>Q:</b> In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____.<br/><b>A:</b> \u00c0\u00ecr\u00e1nm\u00fa \u2014 'e' and '\u1eb9' are oral vowels (f\u1ecd\u0301w\u1eb9\u0301l\u00ec \u00e0\u00ecr\u00e1nm\u00fa) because air flows only through the mouth during their production.</p><p><b>Q:</b> K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1?<br/><b>A:</b> K\u00f2 s\u00ed \u00e0m\u00ec \u2014 The mid-tone (re) is typically left unmarked in Yoruba orthography.</p>",
+      "examples": [
+        {
+          "q": "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____.",
+          "a": "\u00c0\u00ecr\u00e1nm\u00fa"
+        },
+        {
+          "q": "K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1?",
+          "a": "K\u00f2 s\u00ed \u00e0m\u00ec"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>The Yoruba alphabet, vowels, consonants and tones. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.</li><li>K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1 \u2014 K\u00f2 s\u00ed \u00e0m\u00ec.</li><li>K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 n\u00edn\u00fa \u00ecs\u1ecdm\u1ecdl\u00f3r\u00fak\u1ecd l\u00e1ti d\u00far\u00f3 f\u00fan '\u00cctura' \u2014 Omi.</li><li>\u00c8wo n\u00edn\u00fa \u00e0w\u1ecdn w\u1ecd\u0300ny\u00ed ni ohun \u00e8l\u00f2 k\u1ecd\u0300n\u0300p\u00fat\u00e0 n\u00edn\u00fa \u00e8d\u00e8 Yor\u00f9b\u00e1 \u2014 Gbogbo r\u1eb9\u0300.</li><li>K\u00ed ni '\u1eb8\u0300m\u00ed' n\u00edn\u00fa ohun t\u00ed \u00f3 w\u00e0 l\u00f3r\u00ed il\u1eb9\u0300 \u2014 \u00c8\u00e8y\u00e0n.</li></ul><h4>Worked examples</h4><p><b>Q:</b> In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____.<br/><b>A:</b> \u00c0\u00ecr\u00e1nm\u00fa \u2014 'e' and '\u1eb9' are oral vowels (f\u1ecd\u0301w\u1eb9\u0301l\u00ec \u00e0\u00ecr\u00e1nm\u00fa) because air flows only through the mouth during their production.</p><p><b>Q:</b> K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1?<br/><b>A:</b> K\u00f2 s\u00ed \u00e0m\u00ec \u2014 The mid-tone (re) is typically left unmarked in Yoruba orthography.</p>",
+      "examples": [
+        {
+          "q": "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____.",
+          "a": "\u00c0\u00ecr\u00e1nm\u00fa"
+        },
+        {
+          "q": "K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1?",
+          "a": "K\u00f2 s\u00ed \u00e0m\u00ec"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____.",
+      "options": [
+        "Ar\u00e1np\u00fap\u00f2",
+        "\u00c0r\u00e1nm\u00fa",
+        "\u00c0\u00ecr\u00e1nm\u00fa",
+        "At\u1eb9nu"
+      ],
+      "answer": 2,
+      "solution": "'e' and '\u1eb9' are oral vowels (f\u1ecd\u0301w\u1eb9\u0301l\u00ec \u00e0\u00ecr\u00e1nm\u00fa) because air flows only through the mouth during their production.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1?",
+      "options": [
+        "\u00c0m\u00ec-\u00f2k\u00e8",
+        "\u00c0m\u00ec-\u00ecs\u00e0l\u1eb9\u0300",
+        "K\u00f2 s\u00ed \u00e0m\u00ec",
+        "\u00c0m\u00ec-\u1eb9y\u1eb9"
+      ],
+      "answer": 2,
+      "solution": "The mid-tone (re) is typically left unmarked in Yoruba orthography.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 n\u00edn\u00fa \u00ecs\u1ecdm\u1ecdl\u00f3r\u00fak\u1ecd l\u00e1ti d\u00far\u00f3 f\u00fan '\u00cctura'?",
+      "options": [
+        "Iy\u1ecd\u0300",
+        "Oyin",
+        "Omi",
+        "Atare"
+      ],
+      "answer": 2,
+      "solution": "Water (Omi) is used in ceremonies to symbolize coolness and comfort (\u00ectura).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "\u00c8wo n\u00edn\u00fa \u00e0w\u1ecdn w\u1ecd\u0300ny\u00ed ni ohun \u00e8l\u00f2 k\u1ecd\u0300n\u0300p\u00fat\u00e0 n\u00edn\u00fa \u00e8d\u00e8 Yor\u00f9b\u00e1?",
+      "options": [
+        "\u00ccp\u00e0t\u1eb9",
+        "P\u1eb9\u0301n-\u0144-r\u1eb9\u0301n-r\u1eb9\u0301n",
+        "B\u1ecd\u0301t\u00ecnn\u00ec",
+        "Gbogbo r\u1eb9\u0300"
+      ],
+      "answer": 3,
+      "solution": "These are Yoruba terms for screen, mouse/pen, and buttons.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "K\u00ed ni '\u1eb8\u0300m\u00ed' n\u00edn\u00fa ohun t\u00ed \u00f3 w\u00e0 l\u00f3r\u00ed il\u1eb9\u0300?",
+      "options": [
+        "Er\u00f9p\u1eb9\u0300",
+        "\u00c8r\u00f2",
+        "\u00c8\u00e8y\u00e0n",
+        "Gbogbo r\u1eb9\u0300"
+      ],
+      "answer": 2,
+      "solution": "A person (\u00c8\u00e8y\u00e0n) is the primary vessel for '\u1eb8\u0300m\u00ed' in human context.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "K\u00ed ni ohun t\u00ed Yor\u00f9b\u00e1 \u0144 p\u00e8 n\u00ed 'Family'?",
+      "options": [
+        "\u1eb8\u0300b\u00ed",
+        "\u00ccl\u00fa",
+        "\u1eccj\u00e0",
+        "Ay\u00e9"
+      ],
+      "answer": 0,
+      "solution": "Family is '\u1eb8\u0300b\u00ed'.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "\u00c0m\u00ec ohun m\u00e9l\u00f2\u00f3 ni \u00f3 w\u00e0 n\u00edn\u00fa \u00e8d\u00e8 Yor\u00f9b\u00e1?",
+      "options": [
+        "M\u00e9j\u00ec",
+        "M\u1eb9\u0301rin",
+        "M\u1eb9\u0301ta",
+        "M\u00e1r\u00f9\u00fan"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: M\u1eb9\u0301ta.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "K\u00ed ni ohun \u00e8l\u00f2 orin 'G\u00e1ngan'?",
+      "options": [
+        "Drum",
+        "Flute",
+        "Guitar",
+        "Piano"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: Drum.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "K\u00ed ni '\u1ecc\u0300p\u1eb9' n\u00edn\u00fa ohun \u1ecd\u0300gb\u00ecn Yor\u00f9b\u00e1?",
+      "options": [
+        "Palm tree",
+        "Cocoa tree",
+        "Maize",
+        "Cassava"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: Palm tree.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "\u00ccd\u00e0kej\u00ec 'Pupa' ni:",
+      "options": [
+        "D\u00fad\u00fa",
+        "Funfun",
+        "\u00c0w\u1ecd\u0300",
+        "Gialle"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2024). Correct answer: D\u00fad\u00fa.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "\u00d2we: 'Ad\u00ecy\u1eb9 funfun...'",
+      "options": [
+        "K\u00f2 m\u1ecd ara r\u1eb9\u0300 l\u00e1gb\u00e0",
+        "K\u00f2 m\u1ecd il\u00e9",
+        "K\u00f2 m\u1ecd \u1ecd\u0300n\u00e0",
+        "K\u00f2 m\u1ecd i\u1e63\u1eb9\u0301"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2024). Correct answer: K\u00f2 m\u1ecd ara r\u1eb9\u0300 l\u00e1gb\u00e0.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "K\u00ed ni 'King'?",
+      "options": [
+        "\u1eccba",
+        "\u00ccj\u00f2y\u00e8",
+        "B\u00e0b\u00e1",
+        "\u1eccm\u1ecd"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2024). Correct answer: \u1eccba.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "K\u00ed ni \u00ectum\u1ecd\u0300 \u00e0m\u00ec oh\u00f9n t\u00ed \u00f3 w\u00e0 l\u00f3r\u00ed \u1ecd\u0300r\u1ecd\u0300 'b\u00e0b\u00e1'?",
+      "options": [
+        "Do-Do",
+        "Mi-Mi",
+        "Do-Mi",
+        "Re-Re"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: Do-Do.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "\u00c8wo ni k\u1ecdnsonanti t\u00ed a m\u00e1a \u0144 p\u00e8 n\u00ed 'Syllabic Nasal'?",
+      "options": [
+        "m, n",
+        "p, b",
+        "s, \u1e63",
+        "h, w"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: m, n.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "\u00c8wo ni \u1eb9ranko t\u00ed a fi \u0144 \u1e63e \u00e0p\u00e8j\u00fawe 'Agb\u00e1ra'?",
+      "options": [
+        "K\u00ecnn\u00ec\u00fan",
+        "Ew\u00fare",
+        "Aj\u00e1",
+        "Eku"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: K\u00ecnn\u00ec\u00fan.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "\u1eccba wo ni \u00f3 k\u1ecd\u0301k\u1ecd\u0301 j\u1eb9 n\u00ed \u1ecc\u0300y\u1ecd\u0301?",
+      "options": [
+        "\u1ecc\u0300r\u00e1\u0144y\u00e0n",
+        "\u1e62\u00e0ng\u00f3",
+        "\u00c0j\u00e0k\u00e1",
+        "Ab\u00ed\u1ecd\u0301d\u00fan"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: \u1ecc\u0300r\u00e1\u0144y\u00e0n.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Iru a\u1e63\u1ecd wo ni \u00e0w\u1ecdn Yor\u00f9b\u00e1 m\u00e1a \u0144 w\u1ecd\u0300 f\u00fan ay\u1eb9y\u1eb9 p\u00e0t\u00e0k\u00ec?",
+      "options": [
+        "A\u1e63\u1ecd \u00d2k\u00e8",
+        "Jalamia",
+        "S\u00f9\u00fat\u00f9",
+        "T-shirt"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: A\u1e63\u1ecd \u00d2k\u00e8.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Or\u00fak\u1ecd wo ni a \u0144 pe \u1ecdm\u1ecd t\u00ed a b\u00ed l\u1eb9\u0301y\u00ecn \u00ecbej\u00ec?",
+      "options": [
+        "\u00ccd\u00f2w\u00fa",
+        "\u00c0l\u00e0b\u00e1",
+        "Olu",
+        "Kehinde"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: \u00ccd\u00f2w\u00fa.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "\u1ecc\u0300r\u1ecd\u0300 t\u00ed \u00f3 l\u00f2d\u00ec s\u00ed 'M\u00edm\u1ecd\u0301' ni...",
+      "options": [
+        "D\u00edd\u00e1ra",
+        "L\u00edle",
+        "\u00c8\u00e9r\u00ed",
+        "Gb\u00edgbe"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: \u00c8\u00e9r\u00ed.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "\u00c0\u1e63\u00e0 '\u00ccr\u00e1g\u00fan' w\u00e0 f\u00fan...",
+      "options": [
+        "Ik\u00fa",
+        "\u00ccgb\u00e9y\u00e0w\u00f3",
+        "\u00ccm\u00e1r\u00e0",
+        "\u00cct\u00fas\u00edl\u1eb9\u0300"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: \u00ccgb\u00e9y\u00e0w\u00f3.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "\u00c0\u1e63\u00e0 '\u00ccbor\u00ed' j\u1eb9\u0301 f\u00fan...",
+      "options": [
+        "\u1eb8\u0300s\u00ecn Krist\u1eb9ni",
+        "\u1eb8\u0300s\u00ecn \u00ccb\u00edl\u1eb9\u0300",
+        "\u1eb8\u0300s\u00ecn M\u00f9s\u00f9l\u00f9m\u00ed",
+        "\u1eb8\u0300s\u00ecn \u00f2k\u00e8\u00e8r\u00e8"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: \u1eb8\u0300s\u00ecn \u00ccb\u00edl\u1eb9\u0300.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Iye f\u00e1w\u1eb9\u0300l\u00ec \u00e0r\u00e1nm\u00fa n\u00ed \u00e8d\u00e8 Yor\u00f9b\u00e1 j\u1eb9\u0301:",
+      "options": [
+        "M\u1eb9\u0301ta",
+        "M\u1eb9\u0301rin",
+        "M\u00e1r\u00f9n-\u00fan",
+        "M\u00e9j\u00ec"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: M\u00e1r\u00f9n-\u00fan.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "K\u00ed ni 'Plural' n\u00ed \u00e8d\u00e8 Yor\u00f9b\u00e1?",
+      "options": [
+        "\u1eb8y\u1ecd",
+        "\u1ecc\u0300p\u1ecd\u0300",
+        "\u00ccs\u1ecddip\u00fap\u1ecd\u0300",
+        "\u00ccy\u00e0t\u1ecd\u0300"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: \u1ecc\u0300p\u1ecd\u0300.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "K\u00ed ni \u00ecd\u00e0kej\u00ec 'D\u00fad\u00fa'?",
+      "options": [
+        "Pupa",
+        "Funfun",
+        "\u00c0w\u1ecd\u0300",
+        "Blue"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Funfun.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "\u00c8wo ni \u00f3 pinnu \u00e0\u1e63\u00e0 Yor\u00f9b\u00e1?",
+      "options": [
+        "\u00c8d\u00e8",
+        "\u00ccw\u00e0",
+        "\u00ccm\u00fara",
+        "Gbogbo w\u1ecdn"
+      ],
+      "answer": 3,
+      "solution": "Past question (JAMB 2025). Correct answer: Gbogbo w\u1ecdn.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Ohun ati Abidi (Sounds and Alphabet) in Ohun ati Abidi (Sounds and Alphabet)?",
+      "options": [
+        "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde."
+      ],
+      "answer": 0,
+      "solution": "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Ohun ati Abidi (Sounds and Alphabet) in Ohun ati Abidi (Sounds and Alphabet)?",
+      "options": [
+        "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed."
+      ],
+      "answer": 0,
+      "solution": "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Ohun ati Abidi (Sounds and Alphabet) in Ohun ati Abidi (Sounds and Alphabet)?",
+      "options": [
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.",
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed."
+      ],
+      "answer": 2,
+      "solution": "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Ohun ati Abidi (Sounds and Alphabet) in Ohun ati Abidi (Sounds and Alphabet)?",
+      "options": [
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa."
+      ],
+      "answer": 3,
+      "solution": "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Ohun ati Abidi (Sounds and Alphabet)?",
+      "options": [
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9."
+      ],
+      "answer": 1,
+      "solution": "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'inu'?",
+      "options": [
+        "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.",
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde."
+      ],
+      "answer": 0,
+      "solution": "In\u00fa f\u1ecd\u0301n\u1eb9\u0301t\u00ed\u00eck\u00ec, 'e' ati '\u1eb9' j\u1eb9\u0301 f\u1ecd\u0301w\u1eb9\u0301l\u00ec _____. \u2014 \u00c0\u00ecr\u00e1nm\u00fa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'ohu'?",
+      "options": [
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1 \u2014 K\u00f2 s\u00ed \u00e0m\u00ec.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9."
+      ],
+      "answer": 2,
+      "solution": "K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 l\u00e1ti fi k\u1ecd \u00e0m\u00ec oh\u00f9n 're' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 Yor\u00f9b\u00e1 \u2014 K\u00f2 s\u00ed \u00e0m\u00ec.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'tura'?",
+      "options": [
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 n\u00edn\u00fa \u00ecs\u1ecdm\u1ecdl\u00f3r\u00fak\u1ecd l\u00e1ti d\u00far\u00f3 f\u00fan '\u00cctura' \u2014 Omi.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde."
+      ],
+      "answer": 2,
+      "solution": "K\u00ed ni ohun t\u00ed a \u0144 l\u00f2 n\u00edn\u00fa \u00ecs\u1ecdm\u1ecdl\u00f3r\u00fak\u1ecd l\u00e1ti d\u00far\u00f3 f\u00fan '\u00cctura' \u2014 Omi.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'nyi'?",
+      "options": [
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "\u00c8wo n\u00edn\u00fa \u00e0w\u1ecdn w\u1ecd\u0300ny\u00ed ni ohun \u00e8l\u00f2 k\u1ecd\u0300n\u0300p\u00fat\u00e0 n\u00edn\u00fa \u00e8d\u00e8 Yor\u00f9b\u00e1 \u2014 Gbogbo r\u1eb9\u0300.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed."
+      ],
+      "answer": 1,
+      "solution": "\u00c8wo n\u00edn\u00fa \u00e0w\u1ecdn w\u1ecd\u0300ny\u00ed ni ohun \u00e8l\u00f2 k\u1ecd\u0300n\u0300p\u00fat\u00e0 n\u00edn\u00fa \u00e8d\u00e8 Yor\u00f9b\u00e1 \u2014 Gbogbo r\u1eb9\u0300.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'ile'?",
+      "options": [
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "K\u00ed ni '\u1eb8\u0300m\u00ed' n\u00edn\u00fa ohun t\u00ed \u00f3 w\u00e0 l\u00f3r\u00ed il\u1eb9\u0300 \u2014 \u00c8\u00e8y\u00e0n.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde."
+      ],
+      "answer": 1,
+      "solution": "K\u00ed ni '\u1eb8\u0300m\u00ed' n\u00edn\u00fa ohun t\u00ed \u00f3 w\u00e0 l\u00f3r\u00ed il\u1eb9\u0300 \u2014 \u00c8\u00e8y\u00e0n.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'yoru'?",
+      "options": [
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "K\u00ed ni ohun t\u00ed Yor\u00f9b\u00e1 \u0144 p\u00e8 n\u00ed 'Family' \u2014 \u1eb8\u0300b\u00ed.",
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed."
+      ],
+      "answer": 2,
+      "solution": "K\u00ed ni ohun t\u00ed Yor\u00f9b\u00e1 \u0144 p\u00e8 n\u00ed 'Family' \u2014 \u1eb8\u0300b\u00ed.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'orin'?",
+      "options": [
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "K\u00ed ni ohun \u00e8l\u00f2 orin 'G\u00e1ngan' \u2014 Drum.",
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9."
+      ],
+      "answer": 1,
+      "solution": "K\u00ed ni ohun \u00e8l\u00f2 orin 'G\u00e1ngan' \u2014 Drum.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'gbi'?",
+      "options": [
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "K\u00ed ni '\u1ecc\u0300p\u1eb9' n\u00edn\u00fa ohun \u1ecd\u0300gb\u00ecn Yor\u00f9b\u00e1 \u2014 Palm tree.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9."
+      ],
+      "answer": 2,
+      "solution": "K\u00ed ni '\u1ecc\u0300p\u1eb9' n\u00edn\u00fa ohun \u1ecd\u0300gb\u00ecn Yor\u00f9b\u00e1 \u2014 Palm tree.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'keji'?",
+      "options": [
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "\u00ccd\u00e0kej\u00ec 'Pupa' ni: \u2014 D\u00fad\u00fa.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed."
+      ],
+      "answer": 1,
+      "solution": "\u00ccd\u00e0kej\u00ec 'Pupa' ni: \u2014 D\u00fad\u00fa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'adi'?",
+      "options": [
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "\u00d2we: 'Ad\u00ecy\u1eb9 funfun...' \u2014 K\u00f2 m\u1ecd ara r\u1eb9\u0300 l\u00e1gb\u00e0.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9."
+      ],
+      "answer": 2,
+      "solution": "\u00d2we: 'Ad\u00ecy\u1eb9 funfun...' \u2014 K\u00f2 m\u1ecd ara r\u1eb9\u0300 l\u00e1gb\u00e0.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'king'?",
+      "options": [
+        "K\u00ed ni 'King' \u2014 \u1eccba.",
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde."
+      ],
+      "answer": 0,
+      "solution": "K\u00ed ni 'King' \u2014 \u1eccba.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'tumo'?",
+      "options": [
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "K\u00ed ni \u00ectum\u1ecd\u0300 \u00e0m\u00ec oh\u00f9n t\u00ed \u00f3 w\u00e0 l\u00f3r\u00ed \u1ecd\u0300r\u1ecd\u0300 'b\u00e0b\u00e1' \u2014 Do-Do.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed."
+      ],
+      "answer": 1,
+      "solution": "K\u00ed ni \u00ectum\u1ecd\u0300 \u00e0m\u00ec oh\u00f9n t\u00ed \u00f3 w\u00e0 l\u00f3r\u00ed \u1ecd\u0300r\u1ecd\u0300 'b\u00e0b\u00e1' \u2014 Do-Do.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'nsonanti'?",
+      "options": [
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "\u00c8wo ni k\u1ecdnsonanti t\u00ed a m\u00e1a \u0144 p\u00e8 n\u00ed 'Syllabic Nasal' \u2014 m, n.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9."
+      ],
+      "answer": 1,
+      "solution": "\u00c8wo ni k\u1ecdnsonanti t\u00ed a m\u00e1a \u0144 p\u00e8 n\u00ed 'Syllabic Nasal' \u2014 m, n.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'ranko'?",
+      "options": [
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "\u00c8wo ni \u1eb9ranko t\u00ed a fi \u0144 \u1e63e \u00e0p\u00e8j\u00fawe 'Agb\u00e1ra' \u2014 K\u00ecnn\u00ec\u00fan."
+      ],
+      "answer": 3,
+      "solution": "\u00c8wo ni \u1eb9ranko t\u00ed a fi \u0144 \u1e63e \u00e0p\u00e8j\u00fawe 'Agb\u00e1ra' \u2014 K\u00ecnn\u00ec\u00fan.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'iru'?",
+      "options": [
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "Iru a\u1e63\u1ecd wo ni \u00e0w\u1ecdn Yor\u00f9b\u00e1 m\u00e1a \u0144 w\u1ecd\u0300 f\u00fan ay\u1eb9y\u1eb9 p\u00e0t\u00e0k\u00ec \u2014 A\u1e63\u1ecd \u00d2k\u00e8.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9."
+      ],
+      "answer": 1,
+      "solution": "Iru a\u1e63\u1ecd wo ni \u00e0w\u1ecdn Yor\u00f9b\u00e1 m\u00e1a \u0144 w\u1ecd\u0300 f\u00fan ay\u1eb9y\u1eb9 p\u00e0t\u00e0k\u00ec \u2014 A\u1e63\u1ecd \u00d2k\u00e8.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'oru'?",
+      "options": [
+        "K\u00ed ni \u00ect\u00fam\u1ecd\u0300 \u00f2we 'Il\u00e9 l\u00e0 \u00e1 w\u00f2 k\u00ed \u00e1 t\u00f3 s\u1ecd \u1ecdm\u1ecd l\u00f3r\u00fak\u1ecd' \u2014 Consider background before naming.",
+        "Or\u00fak\u1ecd wo ni a \u0144 pe \u1ecdm\u1ecd t\u00ed a b\u00ed l\u1eb9\u0301y\u00ecn \u00ecbej\u00ec \u2014 \u00ccd\u00f2w\u00fa.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde."
+      ],
+      "answer": 1,
+      "solution": "Or\u00fak\u1ecd wo ni a \u0144 pe \u1ecdm\u1ecd t\u00ed a b\u00ed l\u1eb9\u0301y\u00ecn \u00ecbej\u00ec \u2014 \u00ccd\u00f2w\u00fa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'gbe'?",
+      "options": [
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "\u00c0\u1e63\u00e0 '\u00ccr\u00e1g\u00fan' w\u00e0 f\u00fan... \u2014 \u00ccgb\u00e9y\u00e0w\u00f3."
+      ],
+      "answer": 3,
+      "solution": "\u00c0\u1e63\u00e0 '\u00ccr\u00e1g\u00fan' w\u00e0 f\u00fan... \u2014 \u00ccgb\u00e9y\u00e0w\u00f3.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'bori'?",
+      "options": [
+        "\u00c0\u1e63\u00e0 '\u00ccbor\u00ed' j\u1eb9\u0301 f\u00fan... \u2014 \u1eb8\u0300s\u00ecn \u00ccb\u00edl\u1eb9\u0300.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed."
+      ],
+      "answer": 0,
+      "solution": "\u00c0\u1e63\u00e0 '\u00ccbor\u00ed' j\u1eb9\u0301 f\u00fan... \u2014 \u1eb8\u0300s\u00ecn \u00ccb\u00edl\u1eb9\u0300.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'iye'?",
+      "options": [
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "Iye f\u00e1w\u1eb9\u0300l\u00ec \u00e0r\u00e1nm\u00fa n\u00ed \u00e8d\u00e8 Yor\u00f9b\u00e1 j\u1eb9\u0301: \u2014 M\u00e1r\u00f9n-\u00fan.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde."
+      ],
+      "answer": 1,
+      "solution": "Iye f\u00e1w\u1eb9\u0300l\u00ec \u00e0r\u00e1nm\u00fa n\u00ed \u00e8d\u00e8 Yor\u00f9b\u00e1 j\u1eb9\u0301: \u2014 M\u00e1r\u00f9n-\u00fan.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Ohun ati Abidi (Sounds and Alphabet) \u2014 'plural'?",
+      "options": [
+        "K\u00ed ni i\u1e63\u1eb9\u0301 '\u1eb9\u0300m\u00ed' n\u00edn\u00fa g\u00edr\u00e1m\u00e0 n\u00edgb\u00e0 t\u00ed a b\u00e1 \u0144 s\u1ecd\u0300r\u1ecd\u0300 n\u00edpa 'I' \u2014 L\u00e1ti j\u1eb9\u0301 \u1ecd\u0300r\u1ecd\u0300-asoj\u00fa-or\u00fak\u1ecd \u1eb9ni k\u00ecn-\u00edn-n\u00ed.",
+        "N\u00edn\u00fa \u00ecw\u00e9 Fagunwa, ta ni 'Ak\u00e0np\u00f3' \u2014 Od\u1eb9.",
+        "K\u00ed ni 'Stand' \u2014 D\u00ecde.",
+        "K\u00ed ni 'Plural' n\u00ed \u00e8d\u00e8 Yor\u00f9b\u00e1 \u2014 \u1ecc\u0300p\u1ecd\u0300."
+      ],
+      "answer": 3,
+      "solution": "K\u00ed ni 'Plural' n\u00ed \u00e8d\u00e8 Yor\u00f9b\u00e1 \u2014 \u1ecc\u0300p\u1ecd\u0300.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

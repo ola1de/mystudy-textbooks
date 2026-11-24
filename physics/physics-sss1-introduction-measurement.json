@@ -14,7 +14,7 @@
   "modules": [
     {
       "title": "What is Physics?",
-      "html": "<p><b>Physics</b> is the branch of science that studies matter, energy and their interactions.</p><h4>Main branches</h4><ul><li><b>Mechanics</b> — motion and forces.</li><li><b>Thermodynamics / Heat</b> — energy transfer.</li><li><b>Optics</b> — behaviour of light.</li><li><b>Electricity &amp; Magnetism</b> — charges, currents, fields.</li><li><b>Modern physics</b> — atoms, nuclei, semiconductors.</li></ul><h4>Careers</h4><p>Engineering (mechanical, electrical, civil, petroleum), medicine (radiology, medical physics), aviation, telecommunications, teaching, research, meteorology, astronomy.</p>",
+      "html": "<p><b>Physics</b> is the branch of science that studies matter, energy and their interactions.</p><h4>Main branches</h4><ul><li><b>Mechanics</b> \u2014 motion and forces.</li><li><b>Thermodynamics / Heat</b> \u2014 energy transfer.</li><li><b>Optics</b> \u2014 behaviour of light.</li><li><b>Electricity &amp; Magnetism</b> \u2014 charges, currents, fields.</li><li><b>Modern physics</b> \u2014 atoms, nuclei, semiconductors.</li></ul><h4>Careers</h4><p>Engineering (mechanical, electrical, civil, petroleum), medicine (radiology, medical physics), aviation, telecommunications, teaching, research, meteorology, astronomy.</p><h4>Key points</h4><ul><li>Optometry deals with vision and optical corrections.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which career relies most on physics of light?<br/><b>A:</b> Optometry</p><h4>More key points</h4><ul><li>Which career relies most on physics of light \u2014 Optometry.</li></ul>",
       "examples": [
         {
           "q": "Which branch studies electric charges?",
@@ -28,35 +28,35 @@
     },
     {
       "title": "Fundamental &amp; Derived Quantities",
-      "html": "<p>A <b>fundamental (base) quantity</b> is defined independently. There are seven SI base quantities:</p><table><tr><th>Quantity</th><th>Symbol</th><th>SI Unit</th></tr><tr><td>Length</td><td>L</td><td>metre (m)</td></tr><tr><td>Mass</td><td>M</td><td>kilogram (kg)</td></tr><tr><td>Time</td><td>T</td><td>second (s)</td></tr><tr><td>Electric current</td><td>I</td><td>ampere (A)</td></tr><tr><td>Temperature</td><td>Θ</td><td>kelvin (K)</td></tr><tr><td>Amount of substance</td><td>N</td><td>mole (mol)</td></tr><tr><td>Luminous intensity</td><td>J</td><td>candela (cd)</td></tr></table><p><b>Derived quantities</b> are combinations of base quantities, e.g. area (m²), velocity (m/s), force (N = kg·m/s²), energy (J), power (W).</p>",
+      "html": "<p>A <b>fundamental (base) quantity</b> is defined independently. There are seven SI base quantities:</p><table><tr><th>Quantity</th><th>Symbol</th><th>SI Unit</th></tr><tr><td>Length</td><td>L</td><td>metre (m)</td></tr><tr><td>Mass</td><td>M</td><td>kilogram (kg)</td></tr><tr><td>Time</td><td>T</td><td>second (s)</td></tr><tr><td>Electric current</td><td>I</td><td>ampere (A)</td></tr><tr><td>Temperature</td><td>\u0398</td><td>kelvin (K)</td></tr><tr><td>Amount of substance</td><td>N</td><td>mole (mol)</td></tr><tr><td>Luminous intensity</td><td>J</td><td>candela (cd)</td></tr></table><p><b>Derived quantities</b> are combinations of base quantities, e.g. area (m\u00b2), velocity (m/s), force (N = kg\u00b7m/s\u00b2), energy (J), power (W).</p><h4>Key points</h4><ul><li>Time is a base SI quantity.</li><li>Pressure = force/area, so it is derived.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which of the following is a fundamental quantity?<br/><b>A:</b> Time</p><p><b>Q:</b> Which is a derived quantity?<br/><b>A:</b> Pressure</p>",
       "examples": [
         {
           "q": "Is <i>velocity</i> fundamental or derived?",
-          "a": "Derived — length ÷ time."
+          "a": "Derived \u2014 length \u00f7 time."
         },
         {
           "q": "Give the SI unit of force.",
-          "a": "newton (N) = kg·m·s⁻²."
+          "a": "newton (N) = kg\u00b7m\u00b7s\u207b\u00b2."
         }
       ]
     },
     {
       "title": "Dimensional Analysis",
-      "html": "<p>The <b>dimension</b> of a quantity shows its dependence on base quantities. Length = [L], Mass = [M], Time = [T].</p><ul><li>Velocity: [L T⁻¹]</li><li>Acceleration: [L T⁻²]</li><li>Force: [M L T⁻²]</li><li>Energy / Work: [M L² T⁻²]</li><li>Power: [M L² T⁻³]</li><li>Pressure: [M L⁻¹ T⁻²]</li></ul><p><b>Uses of dimensional analysis</b>: (i) test whether an equation is dimensionally correct, (ii) convert units, (iii) derive relations up to a constant.</p><p><b>Example</b>: check <i>v² = u² + 2as</i>. LHS: [L² T⁻²]. RHS: [L² T⁻²] + [L T⁻²][L] = [L² T⁻²]. ✔</p>",
+      "html": "<p>The <b>dimension</b> of a quantity shows its dependence on base quantities. Length = [L], Mass = [M], Time = [T].</p><ul><li>Velocity: [L T\u207b\u00b9]</li><li>Acceleration: [L T\u207b\u00b2]</li><li>Force: [M L T\u207b\u00b2]</li><li>Energy / Work: [M L\u00b2 T\u207b\u00b2]</li><li>Power: [M L\u00b2 T\u207b\u00b3]</li><li>Pressure: [M L\u207b\u00b9 T\u207b\u00b2]</li></ul><p><b>Uses of dimensional analysis</b>: (i) test whether an equation is dimensionally correct, (ii) convert units, (iii) derive relations up to a constant.</p><p><b>Example</b>: check <i>v\u00b2 = u\u00b2 + 2as</i>. LHS: [L\u00b2 T\u207b\u00b2]. RHS: [L\u00b2 T\u207b\u00b2] + [L T\u207b\u00b2][L] = [L\u00b2 T\u207b\u00b2]. \u2714</p><h4>Key points</h4><ul><li>Time is a base SI quantity.</li><li>Mass in SI is the kilogram.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which of the following is a fundamental quantity?<br/><b>A:</b> Time</p><p><b>Q:</b> The SI unit of mass is the<br/><b>A:</b> kilogram</p>",
       "examples": [
         {
           "q": "Dimension of density?",
-          "a": "[M L⁻³]."
+          "a": "[M L\u207b\u00b3]."
         },
         {
-          "q": "Is <i>s = ut + ½at³</i> dimensionally correct?",
-          "a": "No — ½at³ has [L T], not [L]."
+          "q": "Is <i>s = ut + \u00bdat\u00b3</i> dimensionally correct?",
+          "a": "No \u2014 \u00bdat\u00b3 has [L T], not [L]."
         }
       ]
     },
     {
       "title": "Measuring instruments",
-      "html": "<ul><li><b>Metre rule</b> — length to 1 mm.</li><li><b>Vernier caliper</b> — length to 0.01 cm (0.1 mm).</li><li><b>Micrometer screw gauge</b> — length to 0.01 mm.</li><li><b>Beam / lever balance / electronic balance</b> — mass.</li><li><b>Stopwatch</b> — time.</li><li><b>Measuring cylinder / eureka can</b> — volume of liquids and irregular solids.</li></ul><h4>Errors</h4><p><b>Systematic errors</b>: repeatable — zero error of instrument, wrongly calibrated scale. Remove by correcting the zero error.</p><p><b>Random errors</b>: unpredictable — parallax, reaction time. Reduce by repeating and averaging.</p><p><b>Accuracy</b> = closeness to true value. <b>Precision</b> = closeness of repeated readings.</p>",
+      "html": "<ul><li><b>Metre rule</b> \u2014 length to 1 mm.</li><li><b>Vernier caliper</b> \u2014 length to 0.01 cm (0.1 mm).</li><li><b>Micrometer screw gauge</b> \u2014 length to 0.01 mm.</li><li><b>Beam / lever balance / electronic balance</b> \u2014 mass.</li><li><b>Stopwatch</b> \u2014 time.</li><li><b>Measuring cylinder / eureka can</b> \u2014 volume of liquids and irregular solids.</li></ul><h4>Errors</h4><p><b>Systematic errors</b>: repeatable \u2014 zero error of instrument, wrongly calibrated scale. Remove by correcting the zero error.</p><p><b>Random errors</b>: unpredictable \u2014 parallax, reaction time. Reduce by repeating and averaging.</p><p><b>Accuracy</b> = closeness to true value. <b>Precision</b> = closeness of repeated readings.</p><h4>Key points</h4><ul><li>Time is a base SI quantity.</li><li>Mass in SI is the kilogram.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which of the following is a fundamental quantity?<br/><b>A:</b> Time</p><p><b>Q:</b> The SI unit of mass is the<br/><b>A:</b> kilogram</p>",
       "examples": [
         {
           "q": "Which instrument reads to 0.01 mm?",
@@ -65,6 +65,30 @@
         {
           "q": "How do you find the volume of a stone?",
           "a": "Displacement method with a measuring cylinder or eureka can."
+        }
+      ]
+    },
+    {
+      "title": "Branches of physics and careers",
+      "html": "<p><b>Branches of physics and careers</b> is a key part of Introduction & Measurement (SSS 1, Physics). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Physics is the branch of science that studies matter, energy and their interactions.</li><li>Main branches Mechanics \u2014 motion and forces.</li><li>Modern physics \u2014 atoms, nuclei, semiconductors.</li><li>Careers Engineering (mechanical, electrical, civil, petroleum), medicine (radiology, medical physics), aviation, telecommunications, teaching, research, meteorology, astronomy.</li><li>Worked example Q: Which career relies most on physics of light?</li></ul><h4>Worked example</h4><p><b>Q:</b> Which career relies most on physics of light?<br/><b>A:</b> Optometry \u2014 Optometry deals with vision and optical corrections.</p>",
+      "examples": [
+        {
+          "q": "Which career relies most on physics of light?",
+          "a": "Optometry \u2014 Optometry deals with vision and optical corrections."
+        }
+      ]
+    },
+    {
+      "title": "SI units and prefixes",
+      "html": "<p><b>SI units and prefixes</b> is a key part of Introduction & Measurement (SSS 1, Physics). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Velocity: [L T\u207b\u00b9] Acceleration: [L T\u207b\u00b2] Force: [M L T\u207b\u00b2] Energy / Work: [M L\u00b2 T\u207b\u00b2] Power: [M L\u00b2 T\u207b\u00b3] Pressure: [M L\u207b\u00b9 T\u207b\u00b2] Uses of dimensional analysis : (i) test whether an equation is dimensionally correct, (ii) convert units, (iii) derive relations up to a constant.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which of the following is a fundamental quantity?<br/><b>A:</b> Time \u2014 Time is a base SI quantity.</p><p><b>Q:</b> The SI unit of mass is the<br/><b>A:</b> kilogram \u2014 Mass in SI is the kilogram.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is a fundamental quantity?",
+          "a": "Time \u2014 Time is a base SI quantity."
+        },
+        {
+          "q": "The SI unit of mass is the",
+          "a": "kilogram \u2014 Mass in SI is the kilogram."
         }
       ]
     }
@@ -79,7 +103,9 @@
         "Density"
       ],
       "answer": 2,
-      "solution": "Time is a base SI quantity."
+      "solution": "Time is a base SI quantity.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The SI unit of mass is the",
@@ -90,7 +116,9 @@
         "newton"
       ],
       "answer": 1,
-      "solution": "Mass in SI is the kilogram."
+      "solution": "Mass in SI is the kilogram.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The SI unit of force is the",
@@ -101,7 +129,9 @@
         "pascal"
       ],
       "answer": 2,
-      "solution": "Force = mass × acceleration → kg·m·s⁻² = newton."
+      "solution": "Force = mass \u00d7 acceleration \u2192 kg\u00b7m\u00b7s\u207b\u00b2 = newton.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a derived quantity?",
@@ -112,76 +142,90 @@
         "Pressure"
       ],
       "answer": 3,
-      "solution": "Pressure = force/area, so it is derived."
+      "solution": "Pressure = force/area, so it is derived.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The dimension of velocity is",
       "options": [
         "[LT]",
-        "[LT⁻¹]",
-        "[L²T⁻¹]",
-        "[LT⁻²]"
+        "[LT\u207b\u00b9]",
+        "[L\u00b2T\u207b\u00b9]",
+        "[LT\u207b\u00b2]"
       ],
       "answer": 1,
-      "solution": "Velocity = length/time."
+      "solution": "Velocity = length/time.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The dimension of acceleration is",
       "options": [
-        "[LT⁻¹]",
-        "[LT⁻²]",
-        "[L²T⁻²]",
-        "[MLT⁻²]"
+        "[LT\u207b\u00b9]",
+        "[LT\u207b\u00b2]",
+        "[L\u00b2T\u207b\u00b2]",
+        "[MLT\u207b\u00b2]"
       ],
       "answer": 1,
-      "solution": "Acceleration = velocity/time."
+      "solution": "Acceleration = velocity/time.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The dimension of force is",
       "options": [
-        "[MLT⁻¹]",
-        "[MLT⁻²]",
-        "[ML²T⁻²]",
-        "[ML⁻¹T⁻²]"
+        "[MLT\u207b\u00b9]",
+        "[MLT\u207b\u00b2]",
+        "[ML\u00b2T\u207b\u00b2]",
+        "[ML\u207b\u00b9T\u207b\u00b2]"
       ],
       "answer": 1,
-      "solution": "F = ma → M·L·T⁻²."
+      "solution": "F = ma \u2192 M\u00b7L\u00b7T\u207b\u00b2.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The dimension of energy is",
       "options": [
-        "[ML²T⁻²]",
-        "[MLT⁻²]",
-        "[ML²T⁻³]",
-        "[ML⁻¹T⁻²]"
+        "[ML\u00b2T\u207b\u00b2]",
+        "[MLT\u207b\u00b2]",
+        "[ML\u00b2T\u207b\u00b3]",
+        "[ML\u207b\u00b9T\u207b\u00b2]"
       ],
       "answer": 0,
-      "solution": "Energy = force × distance."
+      "solution": "Energy = force \u00d7 distance.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The dimension of power is",
       "options": [
-        "[ML²T⁻²]",
-        "[ML²T⁻³]",
-        "[MLT⁻³]",
-        "[ML⁻¹T⁻²]"
+        "[ML\u00b2T\u207b\u00b2]",
+        "[ML\u00b2T\u207b\u00b3]",
+        "[MLT\u207b\u00b3]",
+        "[ML\u207b\u00b9T\u207b\u00b2]"
       ],
       "answer": 1,
-      "solution": "Power = energy/time."
+      "solution": "Power = energy/time.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The dimension of pressure is",
       "options": [
-        "[MLT⁻²]",
-        "[ML²T⁻²]",
-        "[ML⁻¹T⁻²]",
-        "[ML⁻³]"
+        "[MLT\u207b\u00b2]",
+        "[ML\u00b2T\u207b\u00b2]",
+        "[ML\u207b\u00b9T\u207b\u00b2]",
+        "[ML\u207b\u00b3]"
       ],
       "answer": 2,
-      "solution": "Pressure = force/area = MLT⁻²/L² = ML⁻¹T⁻²."
+      "solution": "Pressure = force/area = MLT\u207b\u00b2/L\u00b2 = ML\u207b\u00b9T\u207b\u00b2.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which prefix means 10⁻⁶?",
+      "q": "Which prefix means 10\u207b\u2076?",
       "options": [
         "milli",
         "micro",
@@ -189,10 +233,12 @@
         "pico"
       ],
       "answer": 1,
-      "solution": "Micro = 10⁻⁶."
+      "solution": "Micro = 10\u207b\u2076.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which prefix means 10⁹?",
+      "q": "Which prefix means 10\u2079?",
       "options": [
         "mega",
         "giga",
@@ -200,10 +246,12 @@
         "kilo"
       ],
       "answer": 1,
-      "solution": "Giga = 10⁹."
+      "solution": "Giga = 10\u2079.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which prefix means 10³?",
+      "q": "Which prefix means 10\u00b3?",
       "options": [
         "kilo",
         "hecto",
@@ -211,7 +259,9 @@
         "deca"
       ],
       "answer": 0,
-      "solution": "Kilo = 10³."
+      "solution": "Kilo = 10\u00b3.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A micrometer screw gauge measures length to",
@@ -222,7 +272,9 @@
         "0.1 cm"
       ],
       "answer": 2,
-      "solution": "Least count is 0.01 mm."
+      "solution": "Least count is 0.01 mm.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A vernier caliper measures to",
@@ -233,7 +285,9 @@
         "1 cm"
       ],
       "answer": 1,
-      "solution": "0.1 mm = 0.01 cm."
+      "solution": "0.1 mm = 0.01 cm.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An error that occurs equally in every reading is a",
@@ -244,7 +298,9 @@
         "parallax error"
       ],
       "answer": 1,
-      "solution": "Systematic error is reproducible."
+      "solution": "Systematic error is reproducible.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Random errors are best reduced by",
@@ -255,7 +311,9 @@
         "using bigger units"
       ],
       "answer": 2,
-      "solution": "Averaging reduces the effect of random error."
+      "solution": "Averaging reduces the effect of random error.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A ruler is 0.2 cm too long. This will give",
@@ -266,7 +324,9 @@
         "no error"
       ],
       "answer": 1,
-      "solution": "Instrument miscalibration is a zero/systematic error."
+      "solution": "Instrument miscalibration is a zero/systematic error.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Accuracy refers to closeness of measured value to the",
@@ -277,7 +337,9 @@
         "instrument scale"
       ],
       "answer": 1,
-      "solution": "Definition of accuracy."
+      "solution": "Definition of accuracy.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The volume of an irregular stone is best measured with a",
@@ -288,7 +350,9 @@
         "stopwatch"
       ],
       "answer": 2,
-      "solution": "Displacement method."
+      "solution": "Displacement method.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The SI unit of temperature is the",
@@ -299,7 +363,9 @@
         "joule"
       ],
       "answer": 1,
-      "solution": "Kelvin is the SI base unit."
+      "solution": "Kelvin is the SI base unit.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The SI unit of electric current is the",
@@ -310,7 +376,9 @@
         "ohm"
       ],
       "answer": 2,
-      "solution": "Ampere is the base SI unit for current."
+      "solution": "Ampere is the base SI unit for current.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Amount of substance is measured in",
@@ -321,7 +389,9 @@
         "mole"
       ],
       "answer": 3,
-      "solution": "The mole is the SI unit of amount of substance."
+      "solution": "The mole is the SI unit of amount of substance.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Luminous intensity is measured in",
@@ -332,18 +402,22 @@
         "watt"
       ],
       "answer": 2,
-      "solution": "Candela is the SI unit."
+      "solution": "Candela is the SI unit.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "1 nanometre equals",
       "options": [
-        "10⁻³ m",
-        "10⁻⁶ m",
-        "10⁻⁹ m",
-        "10⁻¹² m"
+        "10\u207b\u00b3 m",
+        "10\u207b\u2076 m",
+        "10\u207b\u2079 m",
+        "10\u207b\u00b9\u00b2 m"
       ],
       "answer": 2,
-      "solution": "Nano = 10⁻⁹."
+      "solution": "Nano = 10\u207b\u2079.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Convert 72 km/h to m/s.",
@@ -354,7 +428,9 @@
         "72 m/s"
       ],
       "answer": 2,
-      "solution": "72 × 1000/3600 = 20 m/s."
+      "solution": "72 \u00d7 1000/3600 = 20 m/s.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Convert 36 km/h to m/s.",
@@ -365,7 +441,9 @@
         "12 m/s"
       ],
       "answer": 2,
-      "solution": "36000/3600 = 10 m/s."
+      "solution": "36000/3600 = 10 m/s.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Convert 5 m/s to km/h.",
@@ -376,29 +454,35 @@
         "20 km/h"
       ],
       "answer": 2,
-      "solution": "5 × 3.6 = 18."
+      "solution": "5 \u00d7 3.6 = 18.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "The area of a 5 cm × 4 cm rectangle in m² is",
+      "q": "The area of a 5 cm \u00d7 4 cm rectangle in m\u00b2 is",
       "options": [
-        "0.020 m²",
-        "0.0020 m²",
-        "2.0 m²",
-        "0.2 m²"
+        "0.020 m\u00b2",
+        "0.0020 m\u00b2",
+        "2.0 m\u00b2",
+        "0.2 m\u00b2"
       ],
       "answer": 1,
-      "solution": "5cm×4cm = 20 cm² = 20 × 10⁻⁴ m² = 0.0020 m²."
+      "solution": "5cm\u00d74cm = 20 cm\u00b2 = 20 \u00d7 10\u207b\u2074 m\u00b2 = 0.0020 m\u00b2.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "The volume of a 2 cm cube in m³ is",
+      "q": "The volume of a 2 cm cube in m\u00b3 is",
       "options": [
-        "8×10⁻⁶ m³",
-        "8×10⁻³ m³",
-        "8×10⁻⁹ m³",
-        "8×10⁻²"
+        "8\u00d710\u207b\u2076 m\u00b3",
+        "8\u00d710\u207b\u00b3 m\u00b3",
+        "8\u00d710\u207b\u2079 m\u00b3",
+        "8\u00d710\u207b\u00b2"
       ],
       "answer": 0,
-      "solution": "8 cm³ = 8×10⁻⁶ m³."
+      "solution": "8 cm\u00b3 = 8\u00d710\u207b\u2076 m\u00b3.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these is NOT an SI base unit?",
@@ -409,7 +493,9 @@
         "kelvin"
       ],
       "answer": 2,
-      "solution": "Litre is not an SI base unit (m³ is)."
+      "solution": "Litre is not an SI base unit (m\u00b3 is).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A physical quantity that has magnitude only is called",
@@ -420,7 +506,9 @@
         "phasor"
       ],
       "answer": 1,
-      "solution": "Scalars have magnitude only."
+      "solution": "Scalars have magnitude only.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which pair is dimensionally the same?",
@@ -431,18 +519,22 @@
         "Velocity and Acceleration"
       ],
       "answer": 1,
-      "solution": "Both work and torque have dimension ML²T⁻²."
+      "solution": "Both work and torque have dimension ML\u00b2T\u207b\u00b2.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which equation is dimensionally correct?",
       "options": [
         "v = u + a",
         "v = u + at",
-        "v² = u² + at",
-        "s = ut + ½a"
+        "v\u00b2 = u\u00b2 + at",
+        "s = ut + \u00bda"
       ],
       "answer": 1,
-      "solution": "Only v = u + at has consistent [LT⁻¹] on both sides."
+      "solution": "Only v = u + at has consistent [LT\u207b\u00b9] on both sides.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The zero error of an instrument is best classified as",
@@ -453,7 +545,9 @@
         "parallax"
       ],
       "answer": 2,
-      "solution": "A repeatable offset is systematic."
+      "solution": "A repeatable offset is systematic.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The reading of a burette is best taken with the eye",
@@ -464,7 +558,9 @@
         "behind the burette"
       ],
       "answer": 2,
-      "solution": "This avoids parallax."
+      "solution": "This avoids parallax.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Parallax is a type of",
@@ -475,7 +571,9 @@
         "calibration error"
       ],
       "answer": 2,
-      "solution": "Parallax varies from reading to reading."
+      "solution": "Parallax varies from reading to reading.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An electronic balance is used to measure",
@@ -486,40 +584,48 @@
         "temperature"
       ],
       "answer": 2,
-      "solution": "Balances measure mass."
+      "solution": "Balances measure mass.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The dimension of density is",
       "options": [
-        "[ML⁻³]",
-        "[ML³]",
-        "[M⁻¹L³]",
-        "[ML⁻¹]"
+        "[ML\u207b\u00b3]",
+        "[ML\u00b3]",
+        "[M\u207b\u00b9L\u00b3]",
+        "[ML\u207b\u00b9]"
       ],
       "answer": 0,
-      "solution": "Density = mass/volume."
+      "solution": "Density = mass/volume.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The dimension of frequency is",
       "options": [
         "[T]",
-        "[T⁻¹]",
-        "[LT⁻¹]",
-        "[T²]"
+        "[T\u207b\u00b9]",
+        "[LT\u207b\u00b9]",
+        "[T\u00b2]"
       ],
       "answer": 1,
-      "solution": "Frequency = 1/period."
+      "solution": "Frequency = 1/period.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The dimension of impulse is",
       "options": [
-        "[MLT⁻²]",
-        "[MLT⁻¹]",
-        "[ML²T⁻²]",
+        "[MLT\u207b\u00b2]",
+        "[MLT\u207b\u00b9]",
+        "[ML\u00b2T\u207b\u00b2]",
         "[MLT]"
       ],
       "answer": 1,
-      "solution": "Impulse = force × time = MLT⁻²·T = MLT⁻¹."
+      "solution": "Impulse = force \u00d7 time = MLT\u207b\u00b2\u00b7T = MLT\u207b\u00b9.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A pendulum bob is used to measure",
@@ -530,7 +636,9 @@
         "temperature"
       ],
       "answer": 2,
-      "solution": "Pendulums determine time (period)."
+      "solution": "Pendulums determine time (period).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is the largest?",
@@ -541,7 +649,9 @@
         "1 picometre"
       ],
       "answer": 1,
-      "solution": "1 mm = 10⁻³ m is largest."
+      "solution": "1 mm = 10\u207b\u00b3 m is largest.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "How many milligrams are in 1 gram?",
@@ -552,7 +662,9 @@
         "10000"
       ],
       "answer": 2,
-      "solution": "1 g = 1000 mg."
+      "solution": "1 g = 1000 mg.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "How many seconds are in one hour?",
@@ -563,7 +675,9 @@
         "6000"
       ],
       "answer": 2,
-      "solution": "60 × 60 = 3600."
+      "solution": "60 \u00d7 60 = 3600.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The SI unit of frequency is the",
@@ -574,7 +688,9 @@
         "watt"
       ],
       "answer": 0,
-      "solution": "Hertz = 1/second."
+      "solution": "Hertz = 1/second.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The SI unit of pressure is the",
@@ -585,7 +701,9 @@
         "joule"
       ],
       "answer": 0,
-      "solution": "Pascal = N/m²."
+      "solution": "Pascal = N/m\u00b2.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which career relies most on physics of light?",
@@ -596,7 +714,9 @@
         "Journalism"
       ],
       "answer": 1,
-      "solution": "Optometry deals with vision and optical corrections."
+      "solution": "Optometry deals with vision and optical corrections.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Random errors can be minimised by",
@@ -607,7 +727,9 @@
         "tightening the instrument"
       ],
       "answer": 1,
-      "solution": "Averaging reduces random error."
+      "solution": "Averaging reduces random error.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is the correct order from smallest to largest?",
@@ -618,7 +740,9 @@
         "m, cm, km, mm"
       ],
       "answer": 1,
-      "solution": "1 mm < 1 cm < 1 m < 1 km."
+      "solution": "1 mm < 1 cm < 1 m < 1 km.",
+      "source": "Chapter notes",
+      "practice": false
     }
   ]
 }

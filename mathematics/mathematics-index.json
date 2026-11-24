@@ -7,7 +7,7 @@
       "file": "math-sss1-number-bases.json",
       "topic": "Number Bases",
       "questions": 50,
-      "modules": 5
+      "modules": 6
     },
     {
       "level": "SSS 1",
@@ -15,7 +15,7 @@
       "file": "math-sss1-modular-arithmetic.json",
       "topic": "Modular Arithmetic",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 1",
@@ -23,7 +23,7 @@
       "file": "math-sss1-indices.json",
       "topic": "Indices",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 1",
@@ -31,7 +31,7 @@
       "file": "math-sss1-logarithms.json",
       "topic": "Logarithms",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 1",
@@ -39,7 +39,7 @@
       "file": "math-sss1-sets.json",
       "topic": "Sets",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 1",
@@ -47,7 +47,7 @@
       "file": "math-sss1-algebraic-processes.json",
       "topic": "Algebraic Processes",
       "questions": 50,
-      "modules": 4
+      "modules": 6
     },
     {
       "level": "SSS 1",
@@ -55,7 +55,7 @@
       "file": "math-sss1-plane-geometry.json",
       "topic": "Plane Geometry & Mensuration",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 1",
@@ -63,7 +63,7 @@
       "file": "math-sss1-statistics.json",
       "topic": "Statistics",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 2",
@@ -71,7 +71,7 @@
       "file": "math-sss2-logarithms-2.json",
       "topic": "Logarithms (Part II)",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 2",
@@ -79,7 +79,7 @@
       "file": "math-sss2-algebraic-processes-2.json",
       "topic": "Algebraic Processes (Part II)",
       "questions": 50,
-      "modules": 4
+      "modules": 5
     },
     {
       "level": "SSS 2",
@@ -87,7 +87,7 @@
       "file": "math-sss2-circle-theorems.json",
       "topic": "Circle Theorems",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 2",
@@ -95,7 +95,7 @@
       "file": "math-sss2-mensuration-solids.json",
       "topic": "Mensuration of Solids",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 2",
@@ -103,7 +103,7 @@
       "file": "math-sss2-trigonometry.json",
       "topic": "Trigonometry",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 2",
@@ -111,7 +111,7 @@
       "file": "math-sss2-statistics-2.json",
       "topic": "Statistics (Part II)",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 3",
@@ -119,7 +119,7 @@
       "file": "math-sss3-surds.json",
       "topic": "Surds",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 3",
@@ -127,7 +127,7 @@
       "file": "math-sss3-sequences-series.json",
       "topic": "Sequences and Series",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 3",
@@ -135,7 +135,7 @@
       "file": "math-sss3-matrices.json",
       "topic": "Matrices and Determinants",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 3",
@@ -143,7 +143,7 @@
       "file": "math-sss3-coordinate-geometry.json",
       "topic": "Coordinate Geometry",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 3",
@@ -151,7 +151,7 @@
       "file": "math-sss3-calculus.json",
       "topic": "Introductory Calculus",
       "questions": 50,
-      "modules": 3
+      "modules": 5
     },
     {
       "level": "SSS 3",
@@ -159,7 +159,7 @@
       "file": "math-sss3-probability.json",
       "topic": "Probability",
       "questions": 50,
-      "modules": 3
+      "modules": 6
     }
   ]
 }

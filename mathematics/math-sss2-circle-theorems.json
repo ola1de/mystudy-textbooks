@@ -1,597 +1,729 @@
 {
- "topic": "Circle Theorems",
- "ss_level": "SSS 2",
- "icon": "fa-circle-nodes",
- "color": "#0d9488",
- "outline": [
-  "Angle properties of circles",
-  "Cyclic quadrilaterals",
-  "Tangent properties"
- ],
- "modules": [
-  {
-   "title": "Module 1 · Angles in a Circle",
-   "html": "<ol><li><b>Angle at centre</b> is twice the angle at circumference subtended by the same arc.</li><li><b>Angles in the same segment</b> are equal.</li><li><b>Angle in a semicircle</b> is a right angle ($90°$).</li></ol>",
-   "examples": [
+  "topic": "Circle Theorems",
+  "ss_level": "SSS 2",
+  "icon": "fa-circle-nodes",
+  "color": "#0d9488",
+  "outline": [
+    "Angle properties of circles",
+    "Cyclic quadrilaterals",
+    "Tangent properties",
+    "Module 1 \u00b7 Angles in a Circle",
+    "Module 2 \u00b7 Cyclic Quadrilaterals",
+    "Module 3 \u00b7 Tangent Properties",
+    "Revision and exam focus"
+  ],
+  "modules": [
     {
-     "q": "The angle subtended by an arc at the centre is $84°$. Find the angle at the circumference.",
-     "a": "$84°/2 = 42°$."
-    }
-   ]
-  },
-  {
-   "title": "Module 2 · Cyclic Quadrilaterals",
-   "html": "<p>A quadrilateral whose vertices lie on a circle. Its <b>opposite angles are supplementary</b>: $A + C = 180°$ and $B + D = 180°$. The exterior angle equals the interior opposite angle.</p>",
-   "examples": [
+      "title": "Module 1 \u00b7 Angles in a Circle",
+      "html": "<ol><li><b>Angle at centre</b> is twice the angle at circumference subtended by the same arc.</li><li><b>Angles in the same segment</b> are equal.</li><li><b>Angle in a semicircle</b> is a right angle ($90\u00b0$).</li></ol><h4>Key points</h4><ul><li>Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 125\u00b0 = 55\u00b0$.</li><li>Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 88\u00b0 = 92\u00b0$.</li></ul><h4>Worked example</h4><p><b>Q:</b> In cyclic quadrilateral $ABCD$, $\\angle A = 125\u00b0$. Find $\\angle C$.<br/><b>A:</b> 55\u00b0</p><p><b>Q:</b> In cyclic quadrilateral $ABCD$, $\\angle A = 88\u00b0$. Find $\\angle C$.<br/><b>A:</b> 92\u00b0</p><h4>More key points</h4><ul><li>Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 7$ cm, find $PB$. \u2014 7 cm.</li><li>Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 19$ cm, find $PB$. \u2014 19 cm.</li><li>Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 9$ cm, find $PB$. \u2014 9 cm.</li><li>Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 18$ cm, find $PB$. \u2014 18 cm.</li></ul>",
+      "examples": [
+        {
+          "q": "The angle subtended by an arc at the centre is $84\u00b0$. Find the angle at the circumference.",
+          "a": "$84\u00b0/2 = 42\u00b0$."
+        }
+      ]
+    },
     {
-     "q": "In a cyclic quadrilateral $ABCD$, $\\angle A = 110°$. Find $\\angle C$.",
-     "a": "$\\angle C = 180° - 110° = 70°$."
-    }
-   ]
-  },
-  {
-   "title": "Module 3 · Tangent Properties",
-   "html": "<ul><li>A tangent to a circle is <b>perpendicular</b> to the radius at the point of contact.</li><li>Two tangents from an external point are equal in length.</li><li><b>Alternate segment theorem:</b> the angle between a tangent and a chord equals the angle in the alternate segment.</li></ul>",
-   "examples": [
+      "title": "Module 2 \u00b7 Cyclic Quadrilaterals",
+      "html": "<p>A quadrilateral whose vertices lie on a circle. Its <b>opposite angles are supplementary</b>: $A + C = 180\u00b0$ and $B + D = 180\u00b0$. The exterior angle equals the interior opposite angle.</p><h4>Key points</h4><ul><li>Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 125\u00b0 = 55\u00b0$.</li><li>Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 88\u00b0 = 92\u00b0$.</li></ul><h4>Worked example</h4><p><b>Q:</b> In cyclic quadrilateral $ABCD$, $\\angle A = 125\u00b0$. Find $\\angle C$.<br/><b>A:</b> 55\u00b0</p><p><b>Q:</b> In cyclic quadrilateral $ABCD$, $\\angle A = 88\u00b0$. Find $\\angle C$.<br/><b>A:</b> 92\u00b0</p><h4>More key points</h4><ul><li>In cyclic quadrilateral $ABCD$, $\\angle A = 125\u00b0$. Find $\\angle C$. \u2014 55\u00b0.</li><li>In cyclic quadrilateral $ABCD$, $\\angle A = 88\u00b0$. Find $\\angle C$. \u2014 92\u00b0.</li><li>In cyclic quadrilateral $ABCD$, $\\angle A = 103\u00b0$. Find $\\angle C$. \u2014 77\u00b0.</li><li>In cyclic quadrilateral $ABCD$, $\\angle A = 106\u00b0$. Find $\\angle C$. \u2014 74\u00b0.</li></ul>",
+      "examples": [
+        {
+          "q": "In a cyclic quadrilateral $ABCD$, $\\angle A = 110\u00b0$. Find $\\angle C$.",
+          "a": "$\\angle C = 180\u00b0 - 110\u00b0 = 70\u00b0$."
+        }
+      ]
+    },
     {
-     "q": "Two tangents $PA$ and $PB$ are drawn from external point $P$. If $PA = 8$ cm, find $PB$.",
-     "a": "$PB = 8$ cm (equal tangents)."
+      "title": "Module 3 \u00b7 Tangent Properties",
+      "html": "<ul><li>A tangent to a circle is <b>perpendicular</b> to the radius at the point of contact.</li><li>Two tangents from an external point are equal in length.</li><li><b>Alternate segment theorem:</b> the angle between a tangent and a chord equals the angle in the alternate segment.</li></ul><h4>Key points</h4><ul><li>A tangent to a circle is perpendicular to the radius at the point of tangency.</li></ul><h4>Worked example</h4><p><b>Q:</b> What is the angle between a tangent and the radius drawn to the point of contact?<br/><b>A:</b> 90\u00b0</p><h4>More key points</h4><ul><li>What is the angle between a tangent and the radius drawn to the point of contact \u2014 90\u00b0.</li></ul>",
+      "examples": [
+        {
+          "q": "Two tangents $PA$ and $PB$ are drawn from external point $P$. If $PA = 8$ cm, find $PB$.",
+          "a": "$PB = 8$ cm (equal tangents)."
+        }
+      ]
+    },
+    {
+      "title": "Angle properties of circles",
+      "html": "<p><b>Angle properties of circles</b> is a key part of Circle Theorems (SSS 2, Mathematics). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Angle at centre is twice the angle at circumference subtended by the same arc.</li><li>Angles in the same segment are equal.</li><li>Angle in a semicircle is a right angle ($90\u00b0$).</li><li>Key points Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 125\u00b0 = 55\u00b0$.</li><li>Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 88\u00b0 = 92\u00b0$.</li></ul><h4>Worked example</h4><p><b>Q:</b> An arc subtends an angle of $110\u00b0$ at the centre. What angle does it subtend at the circumference?<br/><b>A:</b> 55\u00b0 \u2014 Angle at centre is twice the angle at the circumference: $110\u00b0 \\div 2 = 55\u00b0$.</p><p><b>Q:</b> An arc subtends an angle of $140\u00b0$ at the centre. What angle does it subtend at the circumference?<br/><b>A:</b> 70\u00b0 \u2014 Angle at centre is twice the angle at the circumference: $140\u00b0 \\div 2 = 70\u00b0$.</p>",
+      "examples": [
+        {
+          "q": "An arc subtends an angle of $110\u00b0$ at the centre. What angle does it subtend at the circumference?",
+          "a": "55\u00b0 \u2014 Angle at centre is twice the angle at the circumference: $110\u00b0 \\div 2 = 55\u00b0$."
+        },
+        {
+          "q": "An arc subtends an angle of $140\u00b0$ at the centre. What angle does it subtend at the circumference?",
+          "a": "70\u00b0 \u2014 Angle at centre is twice the angle at the circumference: $140\u00b0 \\div 2 = 70\u00b0$."
+        }
+      ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> An arc subtends an angle of $110\u00b0$ at the centre. What angle does it subtend at the circumference?<br/><b>A:</b> 55\u00b0 \u2014 Angle at centre is twice the angle at the circumference: $110\u00b0 \\div 2 = 55\u00b0$.</p><p><b>Q:</b> An arc subtends an angle of $140\u00b0$ at the centre. What angle does it subtend at the circumference?<br/><b>A:</b> 70\u00b0 \u2014 Angle at centre is twice the angle at the circumference: $140\u00b0 \\div 2 = 70\u00b0$.</p><p><b>Q:</b> An arc subtends an angle of $50\u00b0$ at the centre. What angle does it subtend at the circumference?<br/><b>A:</b> 25\u00b0 \u2014 Angle at centre is twice the angle at the circumference: $50\u00b0 \\div 2 = 25\u00b0$.</p>",
+      "examples": [
+        {
+          "q": "An arc subtends an angle of $110\u00b0$ at the centre. What angle does it subtend at the circumference?",
+          "a": "55\u00b0"
+        },
+        {
+          "q": "An arc subtends an angle of $140\u00b0$ at the centre. What angle does it subtend at the circumference?",
+          "a": "70\u00b0"
+        }
+      ]
     }
-   ]
-  }
- ],
- "slug": "circle-theorems",
- "subject": "Mathematics",
- "quiz": [
-  {
-   "q": "An arc subtends an angle of $110°$ at the centre. What angle does it subtend at the circumference?",
-   "options": [
-    "110°",
-    "55°",
-    "120°",
-    "50°"
-   ],
-   "answer": 1,
-   "solution": "Angle at centre is twice the angle at the circumference: $110° \\div 2 = 55°$."
-  },
-  {
-   "q": "An arc subtends an angle of $140°$ at the centre. What angle does it subtend at the circumference?",
-   "options": [
-    "140°",
-    "65°",
-    "70°",
-    "150°"
-   ],
-   "answer": 2,
-   "solution": "Angle at centre is twice the angle at the circumference: $140° \\div 2 = 70°$."
-  },
-  {
-   "q": "An arc subtends an angle of $50°$ at the centre. What angle does it subtend at the circumference?",
-   "options": [
-    "25°",
-    "60°",
-    "20°",
-    "50°"
-   ],
-   "answer": 0,
-   "solution": "Angle at centre is twice the angle at the circumference: $50° \\div 2 = 25°$."
-  },
-  {
-   "q": "An arc subtends an angle of $70°$ at the centre. What angle does it subtend at the circumference?",
-   "options": [
-    "70°",
-    "30°",
-    "80°",
-    "35°"
-   ],
-   "answer": 3,
-   "solution": "Angle at centre is twice the angle at the circumference: $70° \\div 2 = 35°$."
-  },
-  {
-   "q": "An arc subtends an angle of $90°$ at the centre. What angle does it subtend at the circumference?",
-   "options": [
-    "90°",
-    "100°",
-    "40°",
-    "45°"
-   ],
-   "answer": 3,
-   "solution": "Angle at centre is twice the angle at the circumference: $90° \\div 2 = 45°$."
-  },
-  {
-   "q": "An arc subtends an angle of $50°$ at the centre. What angle does it subtend at the circumference?",
-   "options": [
-    "25°",
-    "50°",
-    "60°",
-    "20°"
-   ],
-   "answer": 0,
-   "solution": "Angle at centre is twice the angle at the circumference: $50° \\div 2 = 25°$."
-  },
-  {
-   "q": "An arc subtends an angle of $110°$ at the centre. What angle does it subtend at the circumference?",
-   "options": [
-    "55°",
-    "50°",
-    "110°",
-    "120°"
-   ],
-   "answer": 0,
-   "solution": "Angle at centre is twice the angle at the circumference: $110° \\div 2 = 55°$."
-  },
-  {
-   "q": "An arc subtends an angle of $70°$ at the centre. What angle does it subtend at the circumference?",
-   "options": [
-    "80°",
-    "30°",
-    "70°",
-    "35°"
-   ],
-   "answer": 3,
-   "solution": "Angle at centre is twice the angle at the circumference: $70° \\div 2 = 35°$."
-  },
-  {
-   "q": "An arc subtends an angle of $120°$ at the centre. What angle does it subtend at the circumference?",
-   "options": [
-    "120°",
-    "60°",
-    "130°",
-    "55°"
-   ],
-   "answer": 1,
-   "solution": "Angle at centre is twice the angle at the circumference: $120° \\div 2 = 60°$."
-  },
-  {
-   "q": "An arc subtends an angle of $60°$ at the centre. What angle does it subtend at the circumference?",
-   "options": [
-    "30°",
-    "70°",
-    "60°",
-    "25°"
-   ],
-   "answer": 0,
-   "solution": "Angle at centre is twice the angle at the circumference: $60° \\div 2 = 30°$."
-  },
-  {
-   "q": "An arc subtends an angle of $110°$ at the centre. What angle does it subtend at the circumference?",
-   "options": [
-    "120°",
-    "50°",
-    "55°",
-    "110°"
-   ],
-   "answer": 2,
-   "solution": "Angle at centre is twice the angle at the circumference: $110° \\div 2 = 55°$."
-  },
-  {
-   "q": "An arc subtends an angle of $140°$ at the centre. What angle does it subtend at the circumference?",
-   "options": [
-    "150°",
-    "140°",
-    "70°",
-    "65°"
-   ],
-   "answer": 2,
-   "solution": "Angle at centre is twice the angle at the circumference: $140° \\div 2 = 70°$."
-  },
-  {
-   "q": "An arc subtends an angle of $70°$ at the centre. What angle does it subtend at the circumference?",
-   "options": [
-    "30°",
-    "35°",
-    "80°",
-    "70°"
-   ],
-   "answer": 1,
-   "solution": "Angle at centre is twice the angle at the circumference: $70° \\div 2 = 35°$."
-  },
-  {
-   "q": "An arc subtends an angle of $80°$ at the centre. What angle does it subtend at the circumference?",
-   "options": [
-    "35°",
-    "40°",
-    "80°",
-    "90°"
-   ],
-   "answer": 1,
-   "solution": "Angle at centre is twice the angle at the circumference: $80° \\div 2 = 40°$."
-  },
-  {
-   "q": "An arc subtends an angle of $60°$ at the centre. What angle does it subtend at the circumference?",
-   "options": [
-    "25°",
-    "60°",
-    "30°",
-    "70°"
-   ],
-   "answer": 2,
-   "solution": "Angle at centre is twice the angle at the circumference: $60° \\div 2 = 30°$."
-  },
-  {
-   "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 125°$. Find $\\angle C$.",
-   "options": [
-    "65°",
-    "55°",
-    "305°",
-    "125°"
-   ],
-   "answer": 1,
-   "solution": "Opposite angles of a cyclic quadrilateral sum to $180°$: $\\angle C = 180° - 125° = 55°$."
-  },
-  {
-   "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 88°$. Find $\\angle C$.",
-   "options": [
-    "92°",
-    "88°",
-    "102°",
-    "268°"
-   ],
-   "answer": 0,
-   "solution": "Opposite angles of a cyclic quadrilateral sum to $180°$: $\\angle C = 180° - 88° = 92°$."
-  },
-  {
-   "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 103°$. Find $\\angle C$.",
-   "options": [
-    "77°",
-    "87°",
-    "103°",
-    "283°"
-   ],
-   "answer": 0,
-   "solution": "Opposite angles of a cyclic quadrilateral sum to $180°$: $\\angle C = 180° - 103° = 77°$."
-  },
-  {
-   "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 106°$. Find $\\angle C$.",
-   "options": [
-    "84°",
-    "286°",
-    "106°",
-    "74°"
-   ],
-   "answer": 3,
-   "solution": "Opposite angles of a cyclic quadrilateral sum to $180°$: $\\angle C = 180° - 106° = 74°$."
-  },
-  {
-   "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 77°$. Find $\\angle C$.",
-   "options": [
-    "103°",
-    "77°",
-    "113°",
-    "257°"
-   ],
-   "answer": 0,
-   "solution": "Opposite angles of a cyclic quadrilateral sum to $180°$: $\\angle C = 180° - 77° = 103°$."
-  },
-  {
-   "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 99°$. Find $\\angle C$.",
-   "options": [
-    "99°",
-    "279°",
-    "81°",
-    "91°"
-   ],
-   "answer": 2,
-   "solution": "Opposite angles of a cyclic quadrilateral sum to $180°$: $\\angle C = 180° - 99° = 81°$."
-  },
-  {
-   "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 102°$. Find $\\angle C$.",
-   "options": [
-    "282°",
-    "88°",
-    "102°",
-    "78°"
-   ],
-   "answer": 3,
-   "solution": "Opposite angles of a cyclic quadrilateral sum to $180°$: $\\angle C = 180° - 102° = 78°$."
-  },
-  {
-   "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 112°$. Find $\\angle C$.",
-   "options": [
-    "292°",
-    "68°",
-    "112°",
-    "78°"
-   ],
-   "answer": 1,
-   "solution": "Opposite angles of a cyclic quadrilateral sum to $180°$: $\\angle C = 180° - 112° = 68°$."
-  },
-  {
-   "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 103°$. Find $\\angle C$.",
-   "options": [
-    "103°",
-    "87°",
-    "283°",
-    "77°"
-   ],
-   "answer": 3,
-   "solution": "Opposite angles of a cyclic quadrilateral sum to $180°$: $\\angle C = 180° - 103° = 77°$."
-  },
-  {
-   "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 108°$. Find $\\angle C$.",
-   "options": [
-    "82°",
-    "288°",
-    "108°",
-    "72°"
-   ],
-   "answer": 3,
-   "solution": "Opposite angles of a cyclic quadrilateral sum to $180°$: $\\angle C = 180° - 108° = 72°$."
-  },
-  {
-   "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 63°$. Find $\\angle C$.",
-   "options": [
-    "63°",
-    "127°",
-    "243°",
-    "117°"
-   ],
-   "answer": 3,
-   "solution": "Opposite angles of a cyclic quadrilateral sum to $180°$: $\\angle C = 180° - 63° = 117°$."
-  },
-  {
-   "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 87°$. Find $\\angle C$.",
-   "options": [
-    "103°",
-    "267°",
-    "87°",
-    "93°"
-   ],
-   "answer": 3,
-   "solution": "Opposite angles of a cyclic quadrilateral sum to $180°$: $\\angle C = 180° - 87° = 93°$."
-  },
-  {
-   "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 80°$. Find $\\angle C$.",
-   "options": [
-    "110°",
-    "260°",
-    "100°",
-    "80°"
-   ],
-   "answer": 2,
-   "solution": "Opposite angles of a cyclic quadrilateral sum to $180°$: $\\angle C = 180° - 80° = 100°$."
-  },
-  {
-   "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 69°$. Find $\\angle C$.",
-   "options": [
-    "111°",
-    "69°",
-    "121°",
-    "249°"
-   ],
-   "answer": 0,
-   "solution": "Opposite angles of a cyclic quadrilateral sum to $180°$: $\\angle C = 180° - 69° = 111°$."
-  },
-  {
-   "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 111°$. Find $\\angle C$.",
-   "options": [
-    "111°",
-    "69°",
-    "291°",
-    "79°"
-   ],
-   "answer": 1,
-   "solution": "Opposite angles of a cyclic quadrilateral sum to $180°$: $\\angle C = 180° - 111° = 69°$."
-  },
-  {
-   "q": "The angle in a semicircle is:",
-   "options": [
-    "45°",
-    "60°",
-    "180°",
-    "90°"
-   ],
-   "answer": 3,
-   "solution": "The angle subtended by a diameter at the circumference is a right angle."
-  },
-  {
-   "q": "The angle in a semicircle is:",
-   "options": [
-    "60°",
-    "90°",
-    "180°",
-    "45°"
-   ],
-   "answer": 1,
-   "solution": "The angle subtended by a diameter at the circumference is a right angle."
-  },
-  {
-   "q": "The angle in a semicircle is:",
-   "options": [
-    "45°",
-    "90°",
-    "60°",
-    "180°"
-   ],
-   "answer": 1,
-   "solution": "The angle subtended by a diameter at the circumference is a right angle."
-  },
-  {
-   "q": "The angle in a semicircle is:",
-   "options": [
-    "90°",
-    "45°",
-    "180°",
-    "60°"
-   ],
-   "answer": 0,
-   "solution": "The angle subtended by a diameter at the circumference is a right angle."
-  },
-  {
-   "q": "The angle in a semicircle is:",
-   "options": [
-    "90°",
-    "60°",
-    "180°",
-    "45°"
-   ],
-   "answer": 0,
-   "solution": "The angle subtended by a diameter at the circumference is a right angle."
-  },
-  {
-   "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 7$ cm, find $PB$.",
-   "options": [
-    "14 cm",
-    "6 cm",
-    "7 cm",
-    "8 cm"
-   ],
-   "answer": 2,
-   "solution": "Tangents drawn to a circle from an external point are equal in length."
-  },
-  {
-   "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 19$ cm, find $PB$.",
-   "options": [
-    "18 cm",
-    "20 cm",
-    "19 cm",
-    "38 cm"
-   ],
-   "answer": 2,
-   "solution": "Tangents drawn to a circle from an external point are equal in length."
-  },
-  {
-   "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 9$ cm, find $PB$.",
-   "options": [
-    "8 cm",
-    "9 cm",
-    "10 cm",
-    "18 cm"
-   ],
-   "answer": 1,
-   "solution": "Tangents drawn to a circle from an external point are equal in length."
-  },
-  {
-   "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 18$ cm, find $PB$.",
-   "options": [
-    "36 cm",
-    "17 cm",
-    "18 cm",
-    "19 cm"
-   ],
-   "answer": 2,
-   "solution": "Tangents drawn to a circle from an external point are equal in length."
-  },
-  {
-   "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 9$ cm, find $PB$.",
-   "options": [
-    "10 cm",
-    "9 cm",
-    "18 cm",
-    "8 cm"
-   ],
-   "answer": 1,
-   "solution": "Tangents drawn to a circle from an external point are equal in length."
-  },
-  {
-   "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 7$ cm, find $PB$.",
-   "options": [
-    "14 cm",
-    "7 cm",
-    "8 cm",
-    "6 cm"
-   ],
-   "answer": 1,
-   "solution": "Tangents drawn to a circle from an external point are equal in length."
-  },
-  {
-   "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 15$ cm, find $PB$.",
-   "options": [
-    "16 cm",
-    "14 cm",
-    "15 cm",
-    "30 cm"
-   ],
-   "answer": 2,
-   "solution": "Tangents drawn to a circle from an external point are equal in length."
-  },
-  {
-   "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 14$ cm, find $PB$.",
-   "options": [
-    "28 cm",
-    "13 cm",
-    "15 cm",
-    "14 cm"
-   ],
-   "answer": 3,
-   "solution": "Tangents drawn to a circle from an external point are equal in length."
-  },
-  {
-   "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 4$ cm, find $PB$.",
-   "options": [
-    "4 cm",
-    "5 cm",
-    "3 cm",
-    "8 cm"
-   ],
-   "answer": 0,
-   "solution": "Tangents drawn to a circle from an external point are equal in length."
-  },
-  {
-   "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 10$ cm, find $PB$.",
-   "options": [
-    "11 cm",
-    "10 cm",
-    "20 cm",
-    "9 cm"
-   ],
-   "answer": 1,
-   "solution": "Tangents drawn to a circle from an external point are equal in length."
-  },
-  {
-   "q": "What is the angle between a tangent and the radius drawn to the point of contact?",
-   "options": [
-    "45°",
-    "90°",
-    "180°",
-    "60°"
-   ],
-   "answer": 1,
-   "solution": "A tangent to a circle is perpendicular to the radius at the point of tangency."
-  },
-  {
-   "q": "What is the angle between a tangent and the radius drawn to the point of contact?",
-   "options": [
-    "60°",
-    "180°",
-    "90°",
-    "45°"
-   ],
-   "answer": 2,
-   "solution": "A tangent to a circle is perpendicular to the radius at the point of tangency."
-  },
-  {
-   "q": "What is the angle between a tangent and the radius drawn to the point of contact?",
-   "options": [
-    "60°",
-    "180°",
-    "90°",
-    "45°"
-   ],
-   "answer": 2,
-   "solution": "A tangent to a circle is perpendicular to the radius at the point of tangency."
-  },
-  {
-   "q": "What is the angle between a tangent and the radius drawn to the point of contact?",
-   "options": [
-    "90°",
-    "180°",
-    "45°",
-    "60°"
-   ],
-   "answer": 0,
-   "solution": "A tangent to a circle is perpendicular to the radius at the point of tangency."
-  },
-  {
-   "q": "What is the angle between a tangent and the radius drawn to the point of contact?",
-   "options": [
-    "180°",
-    "60°",
-    "90°",
-    "45°"
-   ],
-   "answer": 2,
-   "solution": "A tangent to a circle is perpendicular to the radius at the point of tangency."
-  }
- ]
+  ],
+  "slug": "circle-theorems",
+  "subject": "Mathematics",
+  "quiz": [
+    {
+      "q": "An arc subtends an angle of $110\u00b0$ at the centre. What angle does it subtend at the circumference?",
+      "options": [
+        "110\u00b0",
+        "55\u00b0",
+        "120\u00b0",
+        "50\u00b0"
+      ],
+      "answer": 1,
+      "solution": "Angle at centre is twice the angle at the circumference: $110\u00b0 \\div 2 = 55\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "An arc subtends an angle of $140\u00b0$ at the centre. What angle does it subtend at the circumference?",
+      "options": [
+        "140\u00b0",
+        "65\u00b0",
+        "70\u00b0",
+        "150\u00b0"
+      ],
+      "answer": 2,
+      "solution": "Angle at centre is twice the angle at the circumference: $140\u00b0 \\div 2 = 70\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "An arc subtends an angle of $50\u00b0$ at the centre. What angle does it subtend at the circumference?",
+      "options": [
+        "25\u00b0",
+        "60\u00b0",
+        "20\u00b0",
+        "50\u00b0"
+      ],
+      "answer": 0,
+      "solution": "Angle at centre is twice the angle at the circumference: $50\u00b0 \\div 2 = 25\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "An arc subtends an angle of $70\u00b0$ at the centre. What angle does it subtend at the circumference?",
+      "options": [
+        "70\u00b0",
+        "30\u00b0",
+        "80\u00b0",
+        "35\u00b0"
+      ],
+      "answer": 3,
+      "solution": "Angle at centre is twice the angle at the circumference: $70\u00b0 \\div 2 = 35\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "An arc subtends an angle of $90\u00b0$ at the centre. What angle does it subtend at the circumference?",
+      "options": [
+        "90\u00b0",
+        "100\u00b0",
+        "40\u00b0",
+        "45\u00b0"
+      ],
+      "answer": 3,
+      "solution": "Angle at centre is twice the angle at the circumference: $90\u00b0 \\div 2 = 45\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "An arc subtends an angle of $120\u00b0$ at the centre. What angle does it subtend at the circumference?",
+      "options": [
+        "120\u00b0",
+        "60\u00b0",
+        "130\u00b0",
+        "55\u00b0"
+      ],
+      "answer": 1,
+      "solution": "Angle at centre is twice the angle at the circumference: $120\u00b0 \\div 2 = 60\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "An arc subtends an angle of $60\u00b0$ at the centre. What angle does it subtend at the circumference?",
+      "options": [
+        "30\u00b0",
+        "70\u00b0",
+        "60\u00b0",
+        "25\u00b0"
+      ],
+      "answer": 0,
+      "solution": "Angle at centre is twice the angle at the circumference: $60\u00b0 \\div 2 = 30\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "An arc subtends an angle of $80\u00b0$ at the centre. What angle does it subtend at the circumference?",
+      "options": [
+        "35\u00b0",
+        "40\u00b0",
+        "80\u00b0",
+        "90\u00b0"
+      ],
+      "answer": 1,
+      "solution": "Angle at centre is twice the angle at the circumference: $80\u00b0 \\div 2 = 40\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 125\u00b0$. Find $\\angle C$.",
+      "options": [
+        "65\u00b0",
+        "55\u00b0",
+        "305\u00b0",
+        "125\u00b0"
+      ],
+      "answer": 1,
+      "solution": "Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 125\u00b0 = 55\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 88\u00b0$. Find $\\angle C$.",
+      "options": [
+        "92\u00b0",
+        "88\u00b0",
+        "102\u00b0",
+        "268\u00b0"
+      ],
+      "answer": 0,
+      "solution": "Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 88\u00b0 = 92\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 103\u00b0$. Find $\\angle C$.",
+      "options": [
+        "77\u00b0",
+        "87\u00b0",
+        "103\u00b0",
+        "283\u00b0"
+      ],
+      "answer": 0,
+      "solution": "Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 103\u00b0 = 77\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 106\u00b0$. Find $\\angle C$.",
+      "options": [
+        "84\u00b0",
+        "286\u00b0",
+        "106\u00b0",
+        "74\u00b0"
+      ],
+      "answer": 3,
+      "solution": "Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 106\u00b0 = 74\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 77\u00b0$. Find $\\angle C$.",
+      "options": [
+        "103\u00b0",
+        "77\u00b0",
+        "113\u00b0",
+        "257\u00b0"
+      ],
+      "answer": 0,
+      "solution": "Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 77\u00b0 = 103\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 99\u00b0$. Find $\\angle C$.",
+      "options": [
+        "99\u00b0",
+        "279\u00b0",
+        "81\u00b0",
+        "91\u00b0"
+      ],
+      "answer": 2,
+      "solution": "Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 99\u00b0 = 81\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 102\u00b0$. Find $\\angle C$.",
+      "options": [
+        "282\u00b0",
+        "88\u00b0",
+        "102\u00b0",
+        "78\u00b0"
+      ],
+      "answer": 3,
+      "solution": "Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 102\u00b0 = 78\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 112\u00b0$. Find $\\angle C$.",
+      "options": [
+        "292\u00b0",
+        "68\u00b0",
+        "112\u00b0",
+        "78\u00b0"
+      ],
+      "answer": 1,
+      "solution": "Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 112\u00b0 = 68\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 108\u00b0$. Find $\\angle C$.",
+      "options": [
+        "82\u00b0",
+        "288\u00b0",
+        "108\u00b0",
+        "72\u00b0"
+      ],
+      "answer": 3,
+      "solution": "Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 108\u00b0 = 72\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 63\u00b0$. Find $\\angle C$.",
+      "options": [
+        "63\u00b0",
+        "127\u00b0",
+        "243\u00b0",
+        "117\u00b0"
+      ],
+      "answer": 3,
+      "solution": "Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 63\u00b0 = 117\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 87\u00b0$. Find $\\angle C$.",
+      "options": [
+        "103\u00b0",
+        "267\u00b0",
+        "87\u00b0",
+        "93\u00b0"
+      ],
+      "answer": 3,
+      "solution": "Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 87\u00b0 = 93\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 80\u00b0$. Find $\\angle C$.",
+      "options": [
+        "110\u00b0",
+        "260\u00b0",
+        "100\u00b0",
+        "80\u00b0"
+      ],
+      "answer": 2,
+      "solution": "Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 80\u00b0 = 100\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 69\u00b0$. Find $\\angle C$.",
+      "options": [
+        "111\u00b0",
+        "69\u00b0",
+        "121\u00b0",
+        "249\u00b0"
+      ],
+      "answer": 0,
+      "solution": "Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 69\u00b0 = 111\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In cyclic quadrilateral $ABCD$, $\\angle A = 111\u00b0$. Find $\\angle C$.",
+      "options": [
+        "111\u00b0",
+        "69\u00b0",
+        "291\u00b0",
+        "79\u00b0"
+      ],
+      "answer": 1,
+      "solution": "Opposite angles of a cyclic quadrilateral sum to $180\u00b0$: $\\angle C = 180\u00b0 - 111\u00b0 = 69\u00b0$.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The angle in a semicircle is:",
+      "options": [
+        "45\u00b0",
+        "60\u00b0",
+        "180\u00b0",
+        "90\u00b0"
+      ],
+      "answer": 3,
+      "solution": "The angle subtended by a diameter at the circumference is a right angle.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 7$ cm, find $PB$.",
+      "options": [
+        "14 cm",
+        "6 cm",
+        "7 cm",
+        "8 cm"
+      ],
+      "answer": 2,
+      "solution": "Tangents drawn to a circle from an external point are equal in length.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 19$ cm, find $PB$.",
+      "options": [
+        "18 cm",
+        "20 cm",
+        "19 cm",
+        "38 cm"
+      ],
+      "answer": 2,
+      "solution": "Tangents drawn to a circle from an external point are equal in length.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 9$ cm, find $PB$.",
+      "options": [
+        "8 cm",
+        "9 cm",
+        "10 cm",
+        "18 cm"
+      ],
+      "answer": 1,
+      "solution": "Tangents drawn to a circle from an external point are equal in length.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 18$ cm, find $PB$.",
+      "options": [
+        "36 cm",
+        "17 cm",
+        "18 cm",
+        "19 cm"
+      ],
+      "answer": 2,
+      "solution": "Tangents drawn to a circle from an external point are equal in length.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 15$ cm, find $PB$.",
+      "options": [
+        "16 cm",
+        "14 cm",
+        "15 cm",
+        "30 cm"
+      ],
+      "answer": 2,
+      "solution": "Tangents drawn to a circle from an external point are equal in length.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 14$ cm, find $PB$.",
+      "options": [
+        "28 cm",
+        "13 cm",
+        "15 cm",
+        "14 cm"
+      ],
+      "answer": 3,
+      "solution": "Tangents drawn to a circle from an external point are equal in length.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 4$ cm, find $PB$.",
+      "options": [
+        "4 cm",
+        "5 cm",
+        "3 cm",
+        "8 cm"
+      ],
+      "answer": 0,
+      "solution": "Tangents drawn to a circle from an external point are equal in length.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle. If $PA = 10$ cm, find $PB$.",
+      "options": [
+        "11 cm",
+        "10 cm",
+        "20 cm",
+        "9 cm"
+      ],
+      "answer": 1,
+      "solution": "Tangents drawn to a circle from an external point are equal in length.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "What is the angle between a tangent and the radius drawn to the point of contact?",
+      "options": [
+        "45\u00b0",
+        "90\u00b0",
+        "180\u00b0",
+        "60\u00b0"
+      ],
+      "answer": 1,
+      "solution": "A tangent to a circle is perpendicular to the radius at the point of tangency.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A sector angle is $$ 90^\\circ $$. Fraction of circle?",
+      "options": [
+        "1/4",
+        "1/2",
+        "1/3",
+        "1/8"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: 1/4.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Angle in a semi-circle is:",
+      "options": [
+        "$$ 90^\\circ $$",
+        "$$ 180^\\circ $$",
+        "$$ 360^\\circ $$",
+        "$$ 45^\\circ $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: $$ 90^\\circ $$.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Calculate the area of a circle of radius 7cm (Take $\\pi = \\frac{22}{7}$).",
+      "options": [
+        "$44\\text{ cm}^2$",
+        "$154\\text{ cm}^2$",
+        "$308\\text{ cm}^2$",
+        "$616\\text{ cm}^2$"
+      ],
+      "answer": 1,
+      "solution": "Area $A = \\pi r^2 = \\frac{22}{7} \\times 7^2 = \\frac{22}{7} \\times 49 = 154\\text{ cm}^2$.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the radius of the circle $$ x^2 + y^2 = 16 $$.",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: 4.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "A sector of $$ 60^\\circ $$ is what fraction of a circle?",
+      "options": [
+        "1/6",
+        "1/4",
+        "1/3",
+        "1/2"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 1/6.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Calculate the area of a circle with radius 7cm ($$ \\pi = 22/7 $$).",
+      "options": [
+        "$$ 154cm^2 $$",
+        "$$ 44cm^2 $$",
+        "$$ 22cm^2 $$",
+        "$$ 144cm^2 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$ 154cm^2 $$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the equation of a circle with center (0,0) and radius 3.",
+      "options": [
+        "$$ x^2+y^2=3 $$",
+        "$$ x^2+y^2=9 $$",
+        "$$ x^2+y^2=6 $$",
+        "$$ x^2-y^2=9 $$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: $$ x^2+y^2=9 $$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The radius of a circle is increasing at 2cm/s. Find the rate of increase of the area when r=5cm.",
+      "options": [
+        "$10\\\\pi$",
+        "$20\\\\pi$",
+        "$40\\\\pi$",
+        "$5\\\\pi$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: $20\\\\pi$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the coordinate of the center of the circle $$ x^2 + y^2 - 4x + 6y - 12 = 0 $$",
+      "options": [
+        "(2, -3)",
+        "(-2, 3)",
+        "(4, -6)",
+        "(-4, 6)"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: (2, -3).",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the area of a circle with diameter 14cm. ($\\\\pi = 22/7$)",
+      "options": [
+        "$154 cm^2$",
+        "$616 cm^2$",
+        "$44 cm^2$",
+        "$14 cm^2$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $154 cm^2$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Circumference of a circle with radius 7cm ($$ \\pi=22/7 $$):",
+      "options": [
+        "44cm",
+        "22cm",
+        "154cm",
+        "88cm"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 44cm.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Equation of circle center (0,0) radius 5.",
+      "options": [
+        "$$ x^2 + y^2 = 25 $$",
+        "$$ x^2 + y^2 = 5 $$",
+        "$$ x + y = 5 $$",
+        "$$ x^2 - y^2 = 25 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: $$ x^2 + y^2 = 25 $$.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The radius of a circle with Area $$ 154cm^2 $$ is ($$ \\pi=22/7 $$):",
+      "options": [
+        "7cm",
+        "14cm",
+        "3.5cm",
+        "21cm"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 7cm.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The sum of interior angles of a pentagon is:",
+      "options": [
+        "$$ 540^\\circ $$",
+        "$$ 360^\\circ $$",
+        "$$ 720^\\circ $$",
+        "$$ 180^\\circ $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ 540^\\circ $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The sum of interior angles of a hexagon is:",
+      "options": [
+        "$$ 720^\\circ $$",
+        "$$ 540^\\circ $$",
+        "$$ 360^\\circ $$",
+        "$$ 180^\\circ $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$ 720^\\circ $$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The sum of the interior angles of a regular polygon is $1080^\\\\circ$. How many sides has the polygon?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: 8.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The sum of angles in a quadrilateral is...",
+      "options": [
+        "$360^\\\\circ$",
+        "$180^\\\\circ$",
+        "$540^\\\\circ$",
+        "$720^\\\\circ$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $360^\\\\circ$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Find the third angle of a triangle if two are $45^\\\\circ$ and $75^\\\\circ$.",
+      "options": [
+        "$60^\\\\circ$",
+        "$90^\\\\circ$",
+        "$45^\\\\circ$",
+        "$180^\\\\circ$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $60^\\\\circ$.",
+      "source": "JAMB 2025",
+      "practice": false
+    }
+  ]
 }
