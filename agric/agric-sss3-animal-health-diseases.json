@@ -16,7 +16,7 @@
   "modules": [
     {
       "title": "Concepts of Animal Health, Disease and Immunity",
-      "html": "<h4>Animal Health and Disease</h4>\n<p>Animal health refers to a state in which an animal's body systems function normally, allowing it to grow, reproduce and produce economically at optimum levels. Disease, on the other hand, is any deviation from this normal physiological state caused by pathogens, nutritional deficiency, physical injury or genetic defects. A healthy animal is alert, has a shiny coat, normal appetite, normal body temperature, and produces expected yields of meat, milk, eggs or wool.</p>\n<p>Diseases in livestock can be classified based on their causal agents into infectious diseases (caused by bacteria, viruses, fungi and protozoa) and non-infectious diseases (caused by nutritional deficiency, metabolic disorders, poisoning and genetic abnormalities). Infectious diseases are further grouped as contagious (spread by direct contact, e.g. foot-and-mouth disease) and non-contagious (not spread by contact, e.g. tetanus).</p>\n<h4>Immunity and Resistance</h4>\n<p>Immunity is the ability of an animal's body to resist or overcome infection by disease-causing organisms. It may be natural (innate), acquired through exposure to disease, or induced artificially through vaccination. Natural immunity is inherited and species-specific; for example, cattle do not contract diseases peculiar to poultry. Acquired immunity develops after an animal survives an infection, while artificial active immunity is stimulated by vaccines that contain weakened or dead pathogens, prompting the body to produce antibodies without causing full-blown disease.</p>\n<h4>Signs of a Healthy versus Sick Animal</h4>\n<ul>\n<li>Healthy: bright eyes, normal temperature (cattle 38.0–39.3°C), good appetite, normal dung and urine, active movement.</li>\n<li>Sick: dull eyes, rough coat, fever or subnormal temperature, loss of appetite, diarrhoea, isolation from the herd, reduced production.</li>\n</ul>\n<h4>Factors Predisposing Animals to Disease</h4>\n<ol>\n<li>Poor nutrition and deficiency of vitamins/minerals.</li>\n<li>Overcrowding and poor housing/ventilation.</li>\n<li>Poor sanitation and contaminated water or feed.</li>\n<li>Stress from transportation, extreme weather or handling.</li>\n<li>Introduction of new animals without quarantine.</li>\n</ol>\n<p>Understanding these basic concepts helps farmers and veterinary officers design appropriate management, feeding and preventive health programmes to minimise economic losses in livestock production.</p>",
+      "html": "<h4>Animal Health and Disease</h4>\n<p>Animal health refers to a state in which an animal's body systems function normally, allowing it to grow, reproduce and produce economically at optimum levels. Disease, on the other hand, is any deviation from this normal physiological state caused by pathogens, nutritional deficiency, physical injury or genetic defects. A healthy animal is alert, has a shiny coat, normal appetite, normal body temperature, and produces expected yields of meat, milk, eggs or wool.</p>\n<p>Diseases in livestock can be classified based on their causal agents into infectious diseases (caused by bacteria, viruses, fungi and protozoa) and non-infectious diseases (caused by nutritional deficiency, metabolic disorders, poisoning and genetic abnormalities). Infectious diseases are further grouped as contagious (spread by direct contact, e.g. foot-and-mouth disease) and non-contagious (not spread by contact, e.g. tetanus).</p>\n<h4>Immunity and Resistance</h4>\n<p>Immunity is the ability of an animal's body to resist or overcome infection by disease-causing organisms. It may be natural (innate), acquired through exposure to disease, or induced artificially through vaccination. Natural immunity is inherited and species-specific; for example, cattle do not contract diseases peculiar to poultry. Acquired immunity develops after an animal survives an infection, while artificial active immunity is stimulated by vaccines that contain weakened or dead pathogens, prompting the body to produce antibodies without causing full-blown disease.</p>\n<h4>Signs of a Healthy versus Sick Animal</h4>\n<ul>\n<li>Healthy: bright eyes, normal temperature (cattle 38.0\u201339.3\u00b0C), good appetite, normal dung and urine, active movement.</li>\n<li>Sick: dull eyes, rough coat, fever or subnormal temperature, loss of appetite, diarrhoea, isolation from the herd, reduced production.</li>\n</ul>\n<h4>Factors Predisposing Animals to Disease</h4>\n<ol>\n<li>Poor nutrition and deficiency of vitamins/minerals.</li>\n<li>Overcrowding and poor housing/ventilation.</li>\n<li>Poor sanitation and contaminated water or feed.</li>\n<li>Stress from transportation, extreme weather or handling.</li>\n<li>Introduction of new animals without quarantine.</li>\n</ol>\n<p>Understanding these basic concepts helps farmers and veterinary officers design appropriate management, feeding and preventive health programmes to minimise economic losses in livestock production.</p>",
       "examples": [
         {
           "q": "State three signs used to differentiate a healthy animal from a sick animal.",
@@ -44,7 +44,7 @@
     },
     {
       "title": "Disease Control, Prevention and Farm Biosecurity",
-      "html": "<h4>Principles of Disease Control</h4>\n<p>Disease control in livestock production involves preventing the entry, spread and establishment of disease-causing organisms on the farm. This is achieved through a combination of good management practices, sanitation, vaccination and strategic treatment of animals.</p>\n<h4>Methods of Disease Prevention and Control</h4>\n<ol>\n<li><strong>Vaccination:</strong> Administration of vaccines to stimulate active immunity against specific diseases such as Newcastle disease, foot-and-mouth disease and anthrax.</li>\n<li><strong>Quarantine:</strong> Isolating newly purchased or sick animals for a period (usually 2–4 weeks) before mixing with the main herd/flock.</li>\n<li><strong>Sanitation and hygiene:</strong> Regular cleaning and disinfection of pens, drinkers, feeders and equipment.</li>\n<li><strong>Proper nutrition:</strong> Feeding balanced rations to boost natural resistance to disease.</li>\n<li><strong>Strategic deworming and dipping:</strong> Routine administration of anthelmintics and acaricides to control internal and external parasites.</li>\n<li><strong>Culling:</strong> Removal and destruction of chronically infected animals to prevent spread.</li>\n<li><strong>Vector control:</strong> Controlling ticks, mosquitoes and tsetse flies that transmit diseases.</li>\n</ol>\n<h4>Farm Biosecurity</h4>\n<p>Biosecurity refers to a set of management practices designed to prevent the introduction and spread of infectious agents onto a farm. Key biosecurity measures include: restricting visitor access, providing foot dips and hand-washing points at entry points, using dedicated protective clothing, proper disposal of dead animals and litter, controlling movement of vehicles, and preventing contact with wild birds and rodents that may act as disease carriers.</p>\n<table class=\"tb-table\">\n<tr><th>Biosecurity Measure</th><th>Purpose</th></tr>\n<tr><td>Foot dips at entrance</td><td>Disinfect footwear to prevent pathogen entry</td></tr>\n<tr><td>Quarantine of new stock</td><td>Detect and isolate hidden infections</td></tr>\n<tr><td>All-in-all-out system</td><td>Break disease cycle between batches</td></tr>\n<tr><td>Pest and rodent control</td><td>Reduce disease vectors and carriers</td></tr>\n</table>\n<h4>Vaccination Programme</h4>\n<p>An effective vaccination programme follows a schedule based on the type of animal, age, and prevalent diseases in the locality. For instance, poultry are vaccinated against Newcastle disease at day-old, 2 weeks and periodically thereafter, while cattle are vaccinated against anthrax and blackleg annually before the rainy season when disease incidence is highest.</p>\n<p>Combining these preventive strategies reduces morbidity and mortality, lowers treatment costs, and improves overall farm profitability and food security.</p>",
+      "html": "<h4>Principles of Disease Control</h4>\n<p>Disease control in livestock production involves preventing the entry, spread and establishment of disease-causing organisms on the farm. This is achieved through a combination of good management practices, sanitation, vaccination and strategic treatment of animals.</p>\n<h4>Methods of Disease Prevention and Control</h4>\n<ol>\n<li><strong>Vaccination:</strong> Administration of vaccines to stimulate active immunity against specific diseases such as Newcastle disease, foot-and-mouth disease and anthrax.</li>\n<li><strong>Quarantine:</strong> Isolating newly purchased or sick animals for a period (usually 2\u20134 weeks) before mixing with the main herd/flock.</li>\n<li><strong>Sanitation and hygiene:</strong> Regular cleaning and disinfection of pens, drinkers, feeders and equipment.</li>\n<li><strong>Proper nutrition:</strong> Feeding balanced rations to boost natural resistance to disease.</li>\n<li><strong>Strategic deworming and dipping:</strong> Routine administration of anthelmintics and acaricides to control internal and external parasites.</li>\n<li><strong>Culling:</strong> Removal and destruction of chronically infected animals to prevent spread.</li>\n<li><strong>Vector control:</strong> Controlling ticks, mosquitoes and tsetse flies that transmit diseases.</li>\n</ol>\n<h4>Farm Biosecurity</h4>\n<p>Biosecurity refers to a set of management practices designed to prevent the introduction and spread of infectious agents onto a farm. Key biosecurity measures include: restricting visitor access, providing foot dips and hand-washing points at entry points, using dedicated protective clothing, proper disposal of dead animals and litter, controlling movement of vehicles, and preventing contact with wild birds and rodents that may act as disease carriers.</p>\n<table class=\"tb-table\">\n<tr><th>Biosecurity Measure</th><th>Purpose</th></tr>\n<tr><td>Foot dips at entrance</td><td>Disinfect footwear to prevent pathogen entry</td></tr>\n<tr><td>Quarantine of new stock</td><td>Detect and isolate hidden infections</td></tr>\n<tr><td>All-in-all-out system</td><td>Break disease cycle between batches</td></tr>\n<tr><td>Pest and rodent control</td><td>Reduce disease vectors and carriers</td></tr>\n</table>\n<h4>Vaccination Programme</h4>\n<p>An effective vaccination programme follows a schedule based on the type of animal, age, and prevalent diseases in the locality. For instance, poultry are vaccinated against Newcastle disease at day-old, 2 weeks and periodically thereafter, while cattle are vaccinated against anthrax and blackleg annually before the rainy season when disease incidence is highest.</p>\n<p>Combining these preventive strategies reduces morbidity and mortality, lowers treatment costs, and improves overall farm profitability and food security.</p>",
       "examples": [
         {
           "q": "List four biosecurity measures a poultry farmer can adopt to prevent disease outbreak.",
@@ -52,7 +52,49 @@
         },
         {
           "q": "Explain why quarantine is an important disease control measure when introducing new animals to a farm.",
-          "a": "Quarantine involves isolating newly acquired animals for 2–4 weeks before mixing them with the existing herd/flock. This allows time to observe the animals for signs of disease, treat or vaccinate them if necessary, and prevents the introduction of hidden infections that could spread rapidly through the whole farm."
+          "a": "Quarantine involves isolating newly acquired animals for 2\u20134 weeks before mixing them with the existing herd/flock. This allows time to observe the animals for signs of disease, treat or vaccinate them if necessary, and prevents the introduction of hidden infections that could spread rapidly through the whole farm."
+        }
+      ]
+    },
+    {
+      "title": "Classification of animal diseases",
+      "html": "<p><b>Classification of animal diseases</b> is a key part of Animal Health and Parasitology (SSS 3, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Animal Health and Disease Animal health refers to a state in which an animal's body systems function normally, allowing it to grow, reproduce and produce economically at optimum levels.</li><li>A healthy animal is alert, has a shiny coat, normal appetite, normal body temperature, and produces expected yields of meat, milk, eggs or wool.</li><li>Diseases in livestock can be classified based on their causal agents into infectious diseases (caused by bacteria, viruses, fungi and protozoa) and non-infectious diseases (caused by nutritional deficiency, metabolic disorders, poisoning and genetic abnormalities).</li><li>Infectious diseases are further grouped as contagious (spread by direct contact, e.g.</li><li>Immunity and Resistance Immunity is the ability of an animal's body to resist or overcome infection by disease-causing organisms.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which of the following best defines animal health?<br/><b>A:</b> A state of normal physiological function enabling growth and production \u2014 Animal health is a state in which the body systems function normally, allowing growth, reproduction and production, hence option B.</p><p><b>Q:</b> Ticks are important in livestock disease because they:<br/><b>A:</b> transmit diseases such as babesiosis \u2014 Ticks are vectors that transmit blood parasites causing diseases such as babesiosis and East Coast fever.</p>",
+      "examples": [
+        {
+          "q": "Which of the following best defines animal health?",
+          "a": "A state of normal physiological function enabling growth and production \u2014 Animal health is a state in which the body systems function normally, allowing growth, reproduction and production, hence option B."
+        },
+        {
+          "q": "Ticks are important in livestock disease because they:",
+          "a": "transmit diseases such as babesiosis \u2014 Ticks are vectors that transmit blood parasites causing diseases such as babesiosis and East Coast fever."
+        }
+      ]
+    },
+    {
+      "title": "Life cycles of common livestock parasites",
+      "html": "<p><b>Life cycles of common livestock parasites</b> is a key part of Animal Health and Parasitology (SSS 3, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Diseases in livestock can be classified based on their causal agents into infectious diseases (caused by bacteria, viruses, fungi and protozoa) and non-infectious diseases (caused by nutritional deficiency, metabolic disorders, poisoning and genetic abnormalities).</li><li>Understanding these basic concepts helps farmers and veterinary officers design appropriate management, feeding and preventive health programmes to minimise economic losses in livestock production.</li><li>Livestock parasites are broadly classified into endoparasites, which live inside the host's body, and ectoparasites, which live on the external surface of the host.</li><li>Endoparasites Endoparasites include helminths (worms) and protozoa.</li><li>Common examples are roundworms (Ascaris spp.), tapeworms (Taenia spp.), liver flukes (Fasciola spp.) and coccidia.</li></ul><h4>Worked example</h4><p><b>Q:</b> Ticks are important in livestock disease because they:<br/><b>A:</b> transmit diseases such as babesiosis \u2014 Ticks are vectors that transmit blood parasites causing diseases such as babesiosis and East Coast fever.</p><p><b>Q:</b> Trypanosomiasis in cattle is transmitted mainly by:<br/><b>A:</b> tsetse flies \u2014 Tsetse flies transmit Trypanosoma parasites that cause trypanosomiasis (nagana) in cattle.</p>",
+      "examples": [
+        {
+          "q": "Ticks are important in livestock disease because they:",
+          "a": "transmit diseases such as babesiosis \u2014 Ticks are vectors that transmit blood parasites causing diseases such as babesiosis and East Coast fever."
+        },
+        {
+          "q": "Trypanosomiasis in cattle is transmitted mainly by:",
+          "a": "tsetse flies \u2014 Tsetse flies transmit Trypanosoma parasites that cause trypanosomiasis (nagana) in cattle."
+        }
+      ]
+    },
+    {
+      "title": "Signs, transmission and control of livestock diseases",
+      "html": "<p><b>Signs, transmission and control of livestock diseases</b> is a key part of Animal Health and Parasitology (SSS 3, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Diseases in livestock can be classified based on their causal agents into infectious diseases (caused by bacteria, viruses, fungi and protozoa) and non-infectious diseases (caused by nutritional deficiency, metabolic disorders, poisoning and genetic abnormalities).</li><li>Infectious diseases are further grouped as contagious (spread by direct contact, e.g.</li><li>Natural immunity is inherited and species-specific; for example, cattle do not contract diseases peculiar to poultry.</li><li>Signs of a Healthy versus Sick Animal Healthy: bright eyes, normal temperature (cattle 38.0\u201339.3\u00b0C), good appetite, normal dung and urine, active movement.</li><li>Understanding these basic concepts helps farmers and veterinary officers design appropriate management, feeding and preventive health programmes to minimise economic losses in livestock production.</li></ul><h4>Worked example</h4><p><b>Q:</b> Ticks are important in livestock disease because they:<br/><b>A:</b> transmit diseases such as babesiosis \u2014 Ticks are vectors that transmit blood parasites causing diseases such as babesiosis and East Coast fever.</p><p><b>Q:</b> A major economic effect of heavy parasite infestation in livestock is:<br/><b>A:</b> reduced growth rate and productivity \u2014 Parasites compete for nutrients and damage tissues, leading to reduced growth rate, productivity and farm income.</p>",
+      "examples": [
+        {
+          "q": "Ticks are important in livestock disease because they:",
+          "a": "transmit diseases such as babesiosis \u2014 Ticks are vectors that transmit blood parasites causing diseases such as babesiosis and East Coast fever."
+        },
+        {
+          "q": "A major economic effect of heavy parasite infestation in livestock is:",
+          "a": "reduced growth rate and productivity \u2014 Parasites compete for nutrients and damage tissues, leading to reduced growth rate, productivity and farm income."
         }
       ]
     }
@@ -66,8 +108,10 @@
         "The presence of parasites in an animal",
         "The cost of veterinary drugs"
       ],
-      "answer": "1",
-      "solution": "Animal health is a state in which the body systems function normally, allowing growth, reproduction and production, hence option B."
+      "answer": 1,
+      "solution": "Animal health is a state in which the body systems function normally, allowing growth, reproduction and production, hence option B.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Foot-and-mouth disease is an example of a __________ disease.",
@@ -77,8 +121,10 @@
         "genetic",
         "metabolic"
       ],
-      "answer": "1",
-      "solution": "Foot-and-mouth disease spreads by direct/indirect contact between animals, making it contagious."
+      "answer": 1,
+      "solution": "Foot-and-mouth disease spreads by direct/indirect contact between animals, making it contagious.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which organism causes coccidiosis in poultry?",
@@ -88,8 +134,10 @@
         "Taenia",
         "Trypanosoma"
       ],
-      "answer": "1",
-      "solution": "Coccidiosis is caused by protozoa of the genus Eimeria which infect the intestinal lining."
+      "answer": 1,
+      "solution": "Coccidiosis is caused by protozoa of the genus Eimeria which infect the intestinal lining.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An ectoparasite is best described as one that:",
@@ -99,8 +147,10 @@
         "only affects plants",
         "cannot be controlled"
       ],
-      "answer": "1",
-      "solution": "Ectoparasites such as ticks and lice live on the external body surface of the host, unlike endoparasites."
+      "answer": 1,
+      "solution": "Ectoparasites such as ticks and lice live on the external body surface of the host, unlike endoparasites.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Ticks are important in livestock disease because they:",
@@ -110,8 +160,10 @@
         "are a source of protein",
         "only live in water"
       ],
-      "answer": "1",
-      "solution": "Ticks are vectors that transmit blood parasites causing diseases such as babesiosis and East Coast fever."
+      "answer": 1,
+      "solution": "Ticks are vectors that transmit blood parasites causing diseases such as babesiosis and East Coast fever.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The liver fluke belongs to which parasite location group?",
@@ -121,8 +173,10 @@
         "Vector only",
         "Non-parasitic organism"
       ],
-      "answer": "1",
-      "solution": "Fasciola (liver fluke) lives inside the host's bile ducts, making it an endoparasite."
+      "answer": 1,
+      "solution": "Fasciola (liver fluke) lives inside the host's bile ducts, making it an endoparasite.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Vaccination works by:",
@@ -132,8 +186,10 @@
         "increasing body temperature permanently",
         "replacing balanced feeding"
       ],
-      "answer": "1",
-      "solution": "Vaccines contain weakened/dead pathogens that stimulate the immune system to produce antibodies, giving active immunity."
+      "answer": 1,
+      "solution": "Vaccines contain weakened/dead pathogens that stimulate the immune system to produce antibodies, giving active immunity.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which practice helps prevent introduction of disease from newly purchased animals?",
@@ -143,8 +199,10 @@
         "Selling old stock",
         "Increasing stocking density"
       ],
-      "answer": "1",
-      "solution": "Quarantine isolates new animals for observation before mixing, preventing spread of hidden infections."
+      "answer": 1,
+      "solution": "Quarantine isolates new animals for observation before mixing, preventing spread of hidden infections.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these is a sign of a sick animal?",
@@ -154,8 +212,10 @@
         "Dull eyes and rough coat",
         "Normal appetite"
       ],
-      "answer": "2",
-      "solution": "Sick animals typically show dull eyes, rough coat, fever and reduced appetite."
+      "answer": 2,
+      "solution": "Sick animals typically show dull eyes, rough coat, fever and reduced appetite.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Trypanosomiasis in cattle is transmitted mainly by:",
@@ -165,8 +225,10 @@
         "houseflies",
         "earthworms"
       ],
-      "answer": "1",
-      "solution": "Tsetse flies transmit Trypanosoma parasites that cause trypanosomiasis (nagana) in cattle."
+      "answer": 1,
+      "solution": "Tsetse flies transmit Trypanosoma parasites that cause trypanosomiasis (nagana) in cattle.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An example of a non-infectious disease is:",
@@ -176,8 +238,10 @@
         "Vitamin A deficiency",
         "Foot-and-mouth disease"
       ],
-      "answer": "2",
-      "solution": "Vitamin A deficiency is a nutritional disorder, not caused by a pathogen, hence non-infectious."
+      "answer": 2,
+      "solution": "Vitamin A deficiency is a nutritional disorder, not caused by a pathogen, hence non-infectious.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The 'all-in-all-out' system in poultry farming helps to:",
@@ -187,8 +251,10 @@
         "reduce egg production",
         "eliminate the need for vaccination"
       ],
-      "answer": "1",
-      "solution": "This system removes an entire batch before introducing a new one, disinfecting the house in between to break disease cycles."
+      "answer": 1,
+      "solution": "This system removes an entire batch before introducing a new one, disinfecting the house in between to break disease cycles.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of the following is an ectoparasite?",
@@ -198,8 +264,10 @@
         "Louse",
         "Coccidia"
       ],
-      "answer": "2",
-      "solution": "The louse lives on the skin/feathers of the host externally, unlike the others which are internal parasites."
+      "answer": 2,
+      "solution": "The louse lives on the skin/feathers of the host externally, unlike the others which are internal parasites.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A major economic effect of heavy parasite infestation in livestock is:",
@@ -209,8 +277,10 @@
         "improved immunity",
         "reduced feed requirement"
       ],
-      "answer": "1",
-      "solution": "Parasites compete for nutrients and damage tissues, leading to reduced growth rate, productivity and farm income."
+      "answer": 1,
+      "solution": "Parasites compete for nutrients and damage tissues, leading to reduced growth rate, productivity and farm income.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which measure is NOT part of farm biosecurity?",
@@ -220,8 +290,465 @@
         "Allowing free contact with wild birds",
         "Quarantine of new stock"
       ],
-      "answer": "2",
-      "solution": "Allowing free contact with wild birds increases disease risk and is contrary to biosecurity principles."
+      "answer": 2,
+      "solution": "Allowing free contact with wild birds increases disease risk and is contrary to biosecurity principles.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A fungal disease of groundnut is?",
+      "options": [
+        "Tikka leaf spot.",
+        "Blight.",
+        "Smut.",
+        "Rust."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Tikka leaf spot..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Biological control of pests involves?",
+      "options": [
+        "Use of natural enemies.",
+        "Use of chemicals.",
+        "Handpicking.",
+        "Burning."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Use of natural enemies..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \"black pod\" disease of cocoa is caused by?",
+      "options": [
+        "Virus.",
+        "Fungus (Phytophthora).",
+        "Bacteria.",
+        "Insect."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Fungus (Phytophthora)..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Mulching can control?",
+      "options": [
+        "Insects.",
+        "Birds.",
+        "Weeds and soil moisture.",
+        "Sunlight."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Weeds and soil moisture..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Foot and Mouth disease is caused by a?",
+      "options": [
+        "Virus.",
+        "Bacteria.",
+        "Fungus.",
+        "Worm."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Virus..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Dipping and Spraying are used to control?",
+      "options": [
+        "Ectoparasites.",
+        "Endoparasites.",
+        "Bacteria.",
+        "Viruses."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Ectoparasites..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The vector of the Cocoa swollen shoot virus is?",
+      "options": [
+        "Whitefly.",
+        "Aphid.",
+        "Mealybug.",
+        "Beetle."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Mealybug..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Storage of grains is best done at?",
+      "options": [
+        "50% moisture.",
+        "0% moisture.",
+        "12-14% moisture.",
+        "90% moisture."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 12-14% moisture..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A silo is used for storing?",
+      "options": [
+        "Meat.",
+        "Tubers.",
+        "Grains.",
+        "Fruits."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Grains..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Yam barn is used for?",
+      "options": [
+        "Planting yam.",
+        "Boiling yam.",
+        "Storing yam tubers.",
+        "Peeling yam."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Storing yam tubers..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Cereals are stored in?",
+      "options": [
+        "Rhumbus.",
+        "Cribs.",
+        "Silos.",
+        "All of the above."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: All of the above..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Nematodes are?",
+      "options": [
+        "Insects.",
+        "Microscopic worms.",
+        "Bacteria.",
+        "Fungi."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Microscopic worms..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A systemic herbicide?",
+      "options": [
+        "Kills on contact.",
+        "Only kills roots.",
+        "Travels through the plant.",
+        "Is gas."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Travels through the plant..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Grafting involves?",
+      "options": [
+        "Planting seeds.",
+        "Joining two plants together.",
+        "Cutting stems.",
+        "Using chemicals."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Joining two plants together..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The upper part of a graft is the?",
+      "options": [
+        "Scion.",
+        "Stock.",
+        "Root.",
+        "Branch."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Scion..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The lower part of a graft is the?",
+      "options": [
+        "Scion.",
+        "Leaf.",
+        "Bud.",
+        "Stock."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Stock..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Forcing flowering in pineapple can be done using?",
+      "options": [
+        "Water.",
+        "Acetylene/Ethylene.",
+        "Nitrogen.",
+        "Heat."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Acetylene/Ethylene..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Fermentation is a key step in processing?",
+      "options": [
+        "Rice.",
+        "Maize.",
+        "Cocoa.",
+        "Cotton."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Cocoa..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Decortication is the process of?",
+      "options": [
+        "Removing the hull from groundnuts.",
+        "Killing insects.",
+        "Planting.",
+        "Watering."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Removing the hull from groundnuts..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Parboiling rice helps to?",
+      "options": [
+        "Cook it.",
+        "Make it white.",
+        "Kill it.",
+        "Reduce breakage and preserve vitamins."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Reduce breakage and preserve vitamins..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Sugarcane is propagated by?",
+      "options": [
+        "Seeds.",
+        "Leaves.",
+        "Roots.",
+        "Stem cuttings (Setts)."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Stem cuttings (Setts)..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Citrus is best propagated by?",
+      "options": [
+        "Seeds.",
+        "Budding.",
+        "Leaves.",
+        "Roots."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Budding..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Ginger is a?",
+      "options": [
+        "Cereal.",
+        "Legume.",
+        "Spice.",
+        "Fiber."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Spice..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Cattle, Sheep, and Goats are?",
+      "options": [
+        "Non-ruminants.",
+        "Birds.",
+        "Ruminants.",
+        "Fishes."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Ruminants..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Ruminants have?",
+      "options": [
+        "Four stomach compartments.",
+        "One stomach.",
+        "No stomach.",
+        "Two hearts."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Four stomach compartments..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Rabbits and Pigs are?",
+      "options": [
+        "Ruminants.",
+        "Insects.",
+        "Parasites.",
+        "Non-ruminants."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Non-ruminants..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A male pig is called a?",
+      "options": [
+        "Boar.",
+        "Bull.",
+        "Ram.",
+        "Buck."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Boar..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A female sheep is called an?",
+      "options": [
+        "Sow.",
+        "Ewe.",
+        "Doe.",
+        "Cow."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Ewe..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Gestation period for cattle is about?",
+      "options": [
+        "114 days.",
+        "280 days.",
+        "31 days.",
+        "150 days."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 280 days..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Gestation period for pigs is?",
+      "options": [
+        "30 days.",
+        "200 days.",
+        "114 days (3-3-3).",
+        "9 months."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 114 days (3-3-3)..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Colostrum is?",
+      "options": [
+        "Yellow paint.",
+        "Dry grass.",
+        "Medicine.",
+        "The first milk after birth."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: The first milk after birth..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A castrated male cattle is a?",
+      "options": [
+        "Bull.",
+        "Heifer.",
+        "Calf.",
+        "Steer/Bullock."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Steer/Bullock..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A young female cattle that hasn't calved is a?",
+      "options": [
+        "Heifer.",
+        "Cow.",
+        "Steer.",
+        "Bull."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Heifer..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The poultry house for egg-laying birds is a?",
+      "options": [
+        "Sty.",
+        "Battery cage.",
+        "Pen.",
+        "Stable."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Battery cage..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Candling is the process of?",
+      "options": [
+        "Making candles.",
+        "Boiling eggs.",
+        "Checking egg fertility using light.",
+        "Killing chickens."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Checking egg fertility using light..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
     }
   ]
 }

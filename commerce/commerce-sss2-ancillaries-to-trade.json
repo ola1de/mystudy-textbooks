@@ -17,8 +17,8 @@
       "html": "\n<h4>Transportation</h4>\n<p>Transport creates <strong>place utility</strong> by moving goods and people from where they are less needed to where they are more needed.</p>\n<table class=\"tb-table\"><tr><th>Mode</th><th>Advantages</th><th>Disadvantages</th></tr><tr><td>Road</td><td>Flexible, door-to-door, cheap for short distance</td><td>Accidents, congestion, small loads</td></tr><tr><td>Rail</td><td>Cheap for heavy bulky goods over long distance, safe</td><td>Inflexible, fixed routes, high capital cost</td></tr><tr><td>Water</td><td>Cheapest for very bulky international cargo</td><td>Very slow; ports required</td></tr><tr><td>Air</td><td>Fastest; ideal for perishables and valuables</td><td>Most expensive; limited capacity; weather-dependent</td></tr><tr><td>Pipeline</td><td>Continuous, low running cost for liquids and gas</td><td>Only for fluids; vandalism; high initial cost</td></tr></table>\n<h5>Factors Determining Choice of Transport</h5>\n<ol><li>Nature and value of the goods</li><li>Urgency and perishability</li><li>Distance and route availability</li><li>Cost of carriage relative to value</li><li>Safety and level of risk</li></ol>\n<h4>Communication</h4>\n<p>Communication removes the barrier of <em>ignorance</em>. Types: oral, written, visual and electronic. Modern services include mobile telephony, e-mail, video conferencing, internet banking, courier services and the postal system (registered mail, PO Box, money order).</p>\n<h5>Importance</h5>\n<ul><li>Speeds up orders, quotations and payment.</li><li>Links branches and enables management control.</li><li>Provides market information and price data.</li><li>Supports e-commerce and remote work.</li></ul>\n",
       "examples": [
         {
-          "q": "A trader must move 20 tonnes of tomatoes from Jos to Lagos. Road haulage costs ₦320,000 with 12% spoilage; air freight costs ₦900,000 with 1% spoilage. Tomatoes sell for ₦120,000 per tonne. Which is better?",
-          "a": "Road: revenue \\(=20\\times0.88\\times120{,}000=₦2{,}112{,}000\\); less ₦320,000 → ₦1,792,000. Air: revenue \\(=20\\times0.99\\times120{,}000=₦2{,}376{,}000\\); less ₦900,000 → ₦1,476,000. Road transport yields ₦316,000 more, so it is preferable despite higher spoilage."
+          "q": "A trader must move 20 tonnes of tomatoes from Jos to Lagos. Road haulage costs \u20a6320,000 with 12% spoilage; air freight costs \u20a6900,000 with 1% spoilage. Tomatoes sell for \u20a6120,000 per tonne. Which is better?",
+          "a": "Road: revenue \\(=20\\times0.88\\times120{,}000=\u20a62{,}112{,}000\\); less \u20a6320,000 \u2192 \u20a61,792,000. Air: revenue \\(=20\\times0.99\\times120{,}000=\u20a62{,}376{,}000\\); less \u20a6900,000 \u2192 \u20a61,476,000. Road transport yields \u20a6316,000 more, so it is preferable despite higher spoilage."
         },
         {
           "q": "State three ways ICT has changed Nigerian commerce.",
@@ -28,11 +28,11 @@
     },
     {
       "title": "Warehousing",
-      "html": "\n<h4>Meaning</h4>\n<p><strong>Warehousing</strong> is the holding and storing of goods from the time of production until they are needed, creating <strong>time utility</strong> and steadying prices.</p>\n<h4>Types of Warehouse</h4>\n<ol><li><strong>Wholesaler's warehouse</strong> – stores bulk goods for breaking down.</li><li><strong>Retailer's warehouse</strong> – small stockroom attached to a shop.</li><li><strong>Manufacturer's warehouse</strong> – raw materials and finished goods.</li><li><strong>Bonded warehouse</strong> – dutiable imports held under customs control.</li><li><strong>Public/dock warehouse</strong> – rented space, often at ports.</li><li><strong>Cold store</strong> – refrigerated storage for perishables.</li></ol>\n<h4>Functions</h4>\n<ul><li>Protects goods from theft, weather and deterioration.</li><li>Ensures steady supply and stable prices throughout the year.</li><li>Allows grading, blending, packaging and branding.</li><li>Enables bulk purchase and quantity discounts.</li><li>Facilitates deferment of import duty (bonded).</li></ul>\n<h4>Factors in Siting a Warehouse</h4>\n<p>Nearness to market and to transport routes, security, cost of land, availability of power and labour, nature of goods, and expansion possibilities.</p>\n<h4>Storage Cost Illustration</h4>\n<p>Total storage cost \\( = \\text{Fixed rent} + (\\text{Rate per unit per month} \\times \\text{units} \\times \\text{months}) \\).</p>\n",
+      "html": "\n<h4>Meaning</h4>\n<p><strong>Warehousing</strong> is the holding and storing of goods from the time of production until they are needed, creating <strong>time utility</strong> and steadying prices.</p>\n<h4>Types of Warehouse</h4>\n<ol><li><strong>Wholesaler's warehouse</strong> \u2013 stores bulk goods for breaking down.</li><li><strong>Retailer's warehouse</strong> \u2013 small stockroom attached to a shop.</li><li><strong>Manufacturer's warehouse</strong> \u2013 raw materials and finished goods.</li><li><strong>Bonded warehouse</strong> \u2013 dutiable imports held under customs control.</li><li><strong>Public/dock warehouse</strong> \u2013 rented space, often at ports.</li><li><strong>Cold store</strong> \u2013 refrigerated storage for perishables.</li></ol>\n<h4>Functions</h4>\n<ul><li>Protects goods from theft, weather and deterioration.</li><li>Ensures steady supply and stable prices throughout the year.</li><li>Allows grading, blending, packaging and branding.</li><li>Enables bulk purchase and quantity discounts.</li><li>Facilitates deferment of import duty (bonded).</li></ul>\n<h4>Factors in Siting a Warehouse</h4>\n<p>Nearness to market and to transport routes, security, cost of land, availability of power and labour, nature of goods, and expansion possibilities.</p>\n<h4>Storage Cost Illustration</h4>\n<p>Total storage cost \\( = \\text{Fixed rent} + (\\text{Rate per unit per month} \\times \\text{units} \\times \\text{months}) \\).</p>\n",
       "examples": [
         {
-          "q": "A warehouse charges ₦80,000 fixed monthly rent plus ₦150 per bag per month. A trader stores 900 bags for 3 months. Find the total cost and cost per bag.",
-          "a": "Variable \\(=150\\times900\\times3=₦405{,}000\\); fixed \\(=80{,}000\\times3=₦240{,}000\\). Total \\(=₦645{,}000\\). Cost per bag \\(=\\dfrac{645{,}000}{900}=₦716.67\\) for the three months."
+          "q": "A warehouse charges \u20a680,000 fixed monthly rent plus \u20a6150 per bag per month. A trader stores 900 bags for 3 months. Find the total cost and cost per bag.",
+          "a": "Variable \\(=150\\times900\\times3=\u20a6405{,}000\\); fixed \\(=80{,}000\\times3=\u20a6240{,}000\\). Total \\(=\u20a6645{,}000\\). Cost per bag \\(=\\dfrac{645{,}000}{900}=\u20a6716.67\\) for the three months."
         },
         {
           "q": "Explain how warehousing stabilises prices of seasonal produce.",
@@ -42,15 +42,53 @@
     },
     {
       "title": "Advertising and Other Aids",
-      "html": "\n<h4>Meaning and Types</h4>\n<p><strong>Advertising</strong> is any paid, non-personal presentation of goods, services or ideas by an identified sponsor.</p>\n<ul><li><strong>Informative advertising</strong> – gives facts about a new product.</li><li><strong>Persuasive/competitive advertising</strong> – urges the buyer to prefer one brand.</li><li><strong>Collective/generic advertising</strong> – sponsored by an industry to promote a whole product class.</li></ul>\n<h4>Media</h4>\n<table class=\"tb-table\"><tr><th>Medium</th><th>Strength</th><th>Weakness</th></tr><tr><td>Television</td><td>Sight, sound and motion; wide reach</td><td>Very expensive</td></tr><tr><td>Radio</td><td>Cheap; reaches rural and local-language audiences</td><td>No visual impact</td></tr><tr><td>Newspaper/magazine</td><td>Detailed, can be kept for reference</td><td>Only literate audience</td></tr><tr><td>Outdoor (billboards)</td><td>Repeated exposure; low cost per view</td><td>Brief message only</td></tr><tr><td>Social media/internet</td><td>Targeted, measurable, interactive</td><td>Requires data access; ad fatigue</td></tr></table>\n<h4>Advantages and Criticisms</h4>\n<p><em>Advantages:</em> creates awareness and demand, supports mass production and lower unit cost, finances the media, aids new product launches, informs about prices and quality.<br/><em>Criticisms:</em> raises the price of goods, may mislead, encourages wasteful/impulse buying, promotes materialism, and can create harmful brand monopoly.</p>\n<h4>Other Aids to Trade</h4>\n<ul><li><strong>Banking</strong> – finance, payment and safekeeping.</li><li><strong>Insurance</strong> – transfer of risk.</li><li><strong>Tourism</strong> – earns foreign exchange, creates employment and markets local products.</li></ul>\n",
+      "html": "\n<h4>Meaning and Types</h4>\n<p><strong>Advertising</strong> is any paid, non-personal presentation of goods, services or ideas by an identified sponsor.</p>\n<ul><li><strong>Informative advertising</strong> \u2013 gives facts about a new product.</li><li><strong>Persuasive/competitive advertising</strong> \u2013 urges the buyer to prefer one brand.</li><li><strong>Collective/generic advertising</strong> \u2013 sponsored by an industry to promote a whole product class.</li></ul>\n<h4>Media</h4>\n<table class=\"tb-table\"><tr><th>Medium</th><th>Strength</th><th>Weakness</th></tr><tr><td>Television</td><td>Sight, sound and motion; wide reach</td><td>Very expensive</td></tr><tr><td>Radio</td><td>Cheap; reaches rural and local-language audiences</td><td>No visual impact</td></tr><tr><td>Newspaper/magazine</td><td>Detailed, can be kept for reference</td><td>Only literate audience</td></tr><tr><td>Outdoor (billboards)</td><td>Repeated exposure; low cost per view</td><td>Brief message only</td></tr><tr><td>Social media/internet</td><td>Targeted, measurable, interactive</td><td>Requires data access; ad fatigue</td></tr></table>\n<h4>Advantages and Criticisms</h4>\n<p><em>Advantages:</em> creates awareness and demand, supports mass production and lower unit cost, finances the media, aids new product launches, informs about prices and quality.<br/><em>Criticisms:</em> raises the price of goods, may mislead, encourages wasteful/impulse buying, promotes materialism, and can create harmful brand monopoly.</p>\n<h4>Other Aids to Trade</h4>\n<ul><li><strong>Banking</strong> \u2013 finance, payment and safekeeping.</li><li><strong>Insurance</strong> \u2013 transfer of risk.</li><li><strong>Tourism</strong> \u2013 earns foreign exchange, creates employment and markets local products.</li></ul>\n",
       "examples": [
         {
-          "q": "A firm spends ₦3,000,000 on adverts and sales rise from ₦40,000,000 to ₦52,000,000 with a gross margin of 30%. Was the campaign worthwhile?",
-          "a": "Additional sales \\(=₦12{,}000{,}000\\); additional gross profit \\(=30\\%\\times12{,}000{,}000=₦3{,}600{,}000\\). Since ₦3,600,000 > ₦3,000,000 advertising cost, the campaign added ₦600,000 net – it was worthwhile, though other causes of the sales rise should be checked."
+          "q": "A firm spends \u20a63,000,000 on adverts and sales rise from \u20a640,000,000 to \u20a652,000,000 with a gross margin of 30%. Was the campaign worthwhile?",
+          "a": "Additional sales \\(=\u20a612{,}000{,}000\\); additional gross profit \\(=30\\%\\times12{,}000{,}000=\u20a63{,}600{,}000\\). Since \u20a63,600,000 > \u20a63,000,000 advertising cost, the campaign added \u20a6600,000 net \u2013 it was worthwhile, though other causes of the sales rise should be checked."
         },
         {
           "q": "Distinguish informative from persuasive advertising with examples.",
-          "a": "Informative advertising states facts – e.g. a bank announcing new USSD codes and branch addresses. Persuasive advertising appeals to emotion and comparison – e.g. a soft-drink advert claiming its taste is superior and showing happy young celebrities."
+          "a": "Informative advertising states facts \u2013 e.g. a bank announcing new USSD codes and branch addresses. Persuasive advertising appeals to emotion and comparison \u2013 e.g. a soft-drink advert claiming its taste is superior and showing happy young celebrities."
+        }
+      ]
+    },
+    {
+      "title": "Transportation: modes, merits, demerits and factors of choice",
+      "html": "<p><b>Transportation: modes, merits, demerits and factors of choice</b> is a key part of Ancillaries to Trade (SSS 2, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Transportation Transport creates place utility by moving goods and people from where they are less needed to where they are more needed.</li><li>Mode Advantages Disadvantages Road Flexible, door-to-door, cheap for short distance Accidents, congestion, small loads Rail Cheap for heavy bulky goods over long distance, safe Inflexible, fixed routes, high capital cost Water Cheapest for very bulky international cargo Very slow; ports required Air Fastest; ideal for perishables and valuables Most expensive; limited capacity; weather-dependent Pipeline Continuous, low running cost for liquids and gas Only for fluids; vandalism; high initial cost Factors Determining Choice of Transport Nature and value of the goods Urgency and perishability Distance and route availability Cost of carriage relative to value Safety and level of risk Communication Communication removes the barrier of ignorance .</li><li>Factors in Siting a Warehouse Nearness to market and to transport routes, security, cost of land, availability of power and labour, nature of goods, and expansion possibilities.</li></ul><h4>Worked example</h4><p><b>Q:</b> Transport creates<br/><b>A:</b> Place utility \u2014 Moving goods to where they are needed creates place utility.</p><p><b>Q:</b> The cheapest means of carrying very bulky goods over long international distances is<br/><b>A:</b> Water \u2014 Sea transport has the lowest cost per tonne-kilometre for bulk cargo.</p>",
+      "examples": [
+        {
+          "q": "Transport creates",
+          "a": "Place utility \u2014 Moving goods to where they are needed creates place utility."
+        },
+        {
+          "q": "The cheapest means of carrying very bulky goods over long international distances is",
+          "a": "Water \u2014 Sea transport has the lowest cost per tonne-kilometre for bulk cargo."
+        }
+      ]
+    },
+    {
+      "title": "Communication: types, modern ICT and importance",
+      "html": "<p><b>Communication: types, modern ICT and importance</b> is a key part of Ancillaries to Trade (SSS 2, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Mode Advantages Disadvantages Road Flexible, door-to-door, cheap for short distance Accidents, congestion, small loads Rail Cheap for heavy bulky goods over long distance, safe Inflexible, fixed routes, high capital cost Water Cheapest for very bulky international cargo Very slow; ports required Air Fastest; ideal for perishables and valuables Most expensive; limited capacity; weather-dependent Pipeline Continuous, low running cost for liquids and gas Only for fluids; vandalism; high initial cost Factors Determining Choice of Transport Nature and value of the goods Urgency and perishability Distance and route availability Cost of carriage relative to value Safety and level of risk Communication Communication removes the barrier of ignorance .</li><li>Types: oral, written, visual and electronic.</li><li>Modern services include mobile telephony, e-mail, video conferencing, internet banking, courier services and the postal system (registered mail, PO Box, money order).</li><li>Importance Speeds up orders, quotations and payment.</li><li>Types of Warehouse Wholesaler's warehouse \u2013 stores bulk goods for breaking down.</li></ul><h4>Worked example</h4><p><b>Q:</b> Communication in business is important because it<br/><b>A:</b> Speeds up orders and payments \u2014 Fast information flow shortens the order-to-payment cycle.</p>",
+      "examples": [
+        {
+          "q": "Communication in business is important because it",
+          "a": "Speeds up orders and payments \u2014 Fast information flow shortens the order-to-payment cycle."
+        }
+      ]
+    },
+    {
+      "title": "Warehousing: types, functions and location",
+      "html": "<p><b>Warehousing: types, functions and location</b> is a key part of Ancillaries to Trade (SSS 2, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Types: oral, written, visual and electronic.</li><li>Meaning Warehousing is the holding and storing of goods from the time of production until they are needed, creating time utility and steadying prices.</li><li>Types of Warehouse Wholesaler's warehouse \u2013 stores bulk goods for breaking down.</li><li>Functions Protects goods from theft, weather and deterioration.</li><li>Meaning and Types Advertising is any paid, non-personal presentation of goods, services or ideas by an identified sponsor.</li></ul><h4>Worked example</h4><p><b>Q:</b> Warehousing mainly creates<br/><b>A:</b> Time utility \u2014 Holding goods until they are needed creates time utility.</p><p><b>Q:</b> Which factor is LEAST important in siting a warehouse?<br/><b>A:</b> Colour of the roof \u2014 Aesthetics of the roof have no economic bearing on warehouse location.</p>",
+      "examples": [
+        {
+          "q": "Warehousing mainly creates",
+          "a": "Time utility \u2014 Holding goods until they are needed creates time utility."
+        },
+        {
+          "q": "Which factor is LEAST important in siting a warehouse?",
+          "a": "Colour of the roof \u2014 Aesthetics of the roof have no economic bearing on warehouse location."
         }
       ]
     }
@@ -64,8 +102,10 @@
         "Time utility",
         "Possession utility"
       ],
-      "answer": "1",
-      "solution": "Moving goods to where they are needed creates place utility."
+      "answer": 1,
+      "solution": "Moving goods to where they are needed creates place utility.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The cheapest means of carrying very bulky goods over long international distances is",
@@ -75,8 +115,10 @@
         "Road",
         "Pipeline"
       ],
-      "answer": "1",
-      "solution": "Sea transport has the lowest cost per tonne-kilometre for bulk cargo."
+      "answer": 1,
+      "solution": "Sea transport has the lowest cost per tonne-kilometre for bulk cargo.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Pipeline transport is most suitable for",
@@ -86,8 +128,10 @@
         "Live animals",
         "Textiles"
       ],
-      "answer": "1",
-      "solution": "Only fluids and gases can flow through pipelines."
+      "answer": 1,
+      "solution": "Only fluids and gases can flow through pipelines.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Warehousing mainly creates",
@@ -97,8 +141,10 @@
         "Form utility",
         "Legal utility"
       ],
-      "answer": "1",
-      "solution": "Holding goods until they are needed creates time utility."
+      "answer": 1,
+      "solution": "Holding goods until they are needed creates time utility.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A warehouse under customs control is called",
@@ -108,8 +154,10 @@
         "Retailer's warehouse",
         "Dock office"
       ],
-      "answer": "1",
-      "solution": "Dutiable goods stay there until duty is paid or they are re-exported."
+      "answer": 1,
+      "solution": "Dutiable goods stay there until duty is paid or they are re-exported.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which factor is LEAST important in siting a warehouse?",
@@ -119,8 +167,10 @@
         "Colour of the roof",
         "Transport links"
       ],
-      "answer": "2",
-      "solution": "Aesthetics of the roof have no economic bearing on warehouse location."
+      "answer": 2,
+      "solution": "Aesthetics of the roof have no economic bearing on warehouse location.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Advertising removes the barrier of",
@@ -130,8 +180,10 @@
         "Risk",
         "Finance"
       ],
-      "answer": "1",
-      "solution": "It informs buyers about goods, prices and where to find them."
+      "answer": 1,
+      "solution": "It informs buyers about goods, prices and where to find them.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An advert sponsored by an entire industry is",
@@ -141,8 +193,10 @@
         "Informative only",
         "Classified"
       ],
-      "answer": "1",
-      "solution": "Generic adverts promote a product class, e.g. 'Drink more milk'."
+      "answer": 1,
+      "solution": "Generic adverts promote a product class, e.g. 'Drink more milk'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A major criticism of advertising is that it",
@@ -152,8 +206,10 @@
         "Finances the media",
         "Supports mass production"
       ],
-      "answer": "1",
-      "solution": "Advertising costs are recovered in the selling price."
+      "answer": 1,
+      "solution": "Advertising costs are recovered in the selling price.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which medium reaches rural, non-literate audiences best?",
@@ -163,8 +219,10 @@
         "Magazine",
         "Trade journal"
       ],
-      "answer": "1",
-      "solution": "Radio needs no literacy and is inexpensive and widespread."
+      "answer": 1,
+      "solution": "Radio needs no literacy and is inexpensive and widespread.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Air transport is preferred for",
@@ -174,8 +232,10 @@
         "Crude oil",
         "Gravel"
       ],
-      "answer": "1",
-      "solution": "Speed suits perishables and high-value light goods."
+      "answer": 1,
+      "solution": "Speed suits perishables and high-value light goods.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Communication in business is important because it",
@@ -185,8 +245,10 @@
         "Raises transport cost",
         "Reduces market information"
       ],
-      "answer": "1",
-      "solution": "Fast information flow shortens the order-to-payment cycle."
+      "answer": 1,
+      "solution": "Fast information flow shortens the order-to-payment cycle.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Storing goods at harvest and releasing them later helps to",
@@ -196,8 +258,10 @@
         "Destroy quality",
         "Reduce demand"
       ],
-      "answer": "1",
-      "solution": "Even distribution across the year prevents extreme price swings."
+      "answer": 1,
+      "solution": "Even distribution across the year prevents extreme price swings.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Tourism aids trade by",
@@ -207,8 +271,10 @@
         "Increasing import duty",
         "Discouraging travel"
       ],
-      "answer": "1",
-      "solution": "Visitors spend foreign currency and create local employment."
+      "answer": 1,
+      "solution": "Visitors spend foreign currency and create local employment.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which mode is most flexible for door-to-door delivery?",
@@ -218,19 +284,465 @@
         "Water",
         "Pipeline"
       ],
-      "answer": "1",
-      "solution": "Road vehicles can reach almost any address."
+      "answer": 1,
+      "solution": "Road vehicles can reach almost any address.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Total storage cost of 500 units for 2 months at ₦100 per unit per month plus ₦50,000 fixed monthly rent is",
+      "q": "Total storage cost of 500 units for 2 months at \u20a6100 per unit per month plus \u20a650,000 fixed monthly rent is",
       "options": [
-        "₦150,000",
-        "₦200,000",
-        "₦250,000",
-        "₦100,000"
+        "\u20a6150,000",
+        "\u20a6200,000",
+        "\u20a6250,000",
+        "\u20a6100,000"
       ],
-      "answer": "1",
-      "solution": "Variable = 100×500×2 = ₦100,000; fixed = 50,000×2 = ₦100,000; total = ₦200,000."
+      "answer": 1,
+      "solution": "Variable = 100\u00d7500\u00d72 = \u20a6100,000; fixed = 50,000\u00d72 = \u20a6100,000; total = \u20a6200,000.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Trade is simply defined as?",
+      "options": [
+        "Moving goods",
+        "Buying and selling of goods",
+        "Storing goods",
+        "Insuring goods"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Buying and selling of goods.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A trade in which a country buys from another is?",
+      "options": [
+        "Export trade",
+        "Import trade",
+        "Retail trade",
+        "Local trade"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Import trade.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Trade discount is given for?",
+      "options": [
+        "Loyalty",
+        "Prompt payment",
+        "Errors",
+        "Large quantity"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Large quantity.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The balance of trade is the difference between?",
+      "options": [
+        "Total wealth",
+        "Visible imports and exports",
+        "Tax and spending",
+        "Men and women"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Visible imports and exports.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A trade surplus occurs when?",
+      "options": [
+        "Imports exceed exports",
+        "Trade stops",
+        "Exports exceed imports",
+        "Debt is paid"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Exports exceed imports.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "ECOWAS promotes trade in?",
+      "options": [
+        "East Africa",
+        "Asia",
+        "West Africa",
+        "Europe"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: West Africa.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \"Greatest Aid to Trade\" is?",
+      "options": [
+        "Banking",
+        "Transport",
+        "Insurance",
+        "Advertising"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Transport.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Trade Union protects?",
+      "options": [
+        "Employers",
+        "Workers' rights",
+        "Buyers",
+        "Banks"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Workers' rights.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a form of oral communication?",
+      "options": [
+        "Telex",
+        "Teleconferencing",
+        "Memorandum",
+        "Letter"
+      ],
+      "answer": 1,
+      "solution": "Teleconferencing involves spoken interaction between people in different locations, making it a form of oral communication.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a function of advertising?",
+      "options": [
+        "To increase the cost of production",
+        "To inform the public about new products",
+        "To create a shortage of goods",
+        "To discourage competition"
+      ],
+      "answer": 1,
+      "solution": "Advertising serves to create awareness and provide information to potential customers about the features and benefits of a product.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The most suitable mode of transport for bulky and heavy goods over long distances across the ocean is _____.",
+      "options": [
+        "Air",
+        "Rail",
+        "Sea",
+        "Pipeline"
+      ],
+      "answer": 2,
+      "solution": "Sea transport is cost-effective for large volumes of cargo that do not require rapid delivery.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Advertising that aims at building a company's reputation rather than selling a specific product is _____ advertising.",
+      "options": [
+        "persuasive",
+        "informative",
+        "institutional",
+        "competitive"
+      ],
+      "answer": 2,
+      "solution": "Institutional or corporate advertising focuses on the image and goodwill of the organization.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a medium of outdoor advertising?",
+      "options": [
+        "Radio",
+        "Newspapers",
+        "Billboards",
+        "Magazines"
+      ],
+      "answer": 2,
+      "solution": "Billboards are placed in public areas to capture the attention of people while they are outside their homes.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The method of communication where many people participate in a discussion across different locations via video is _____.",
+      "options": [
+        "telex",
+        "teleconferencing",
+        "e-mail",
+        "paging"
+      ],
+      "answer": 1,
+      "solution": "Teleconferencing allows for real-time visual and audio interaction between groups in diverse geographic areas.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which transport mode is most affected by weather conditions like fog and storms?",
+      "options": [
+        "Rail",
+        "Road",
+        "Air",
+        "Pipeline"
+      ],
+      "answer": 2,
+      "solution": "Air transport is highly sensitive to visibility and atmospheric turbulence, leading to delays or cancellations.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which type of communication involves the use of facial expressions and body language?",
+      "options": [
+        "Written",
+        "Oral",
+        "Non-verbal",
+        "Visual"
+      ],
+      "answer": 2,
+      "solution": "Non-verbal communication conveys messages without using spoken or written words.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The fastest means of communication is:",
+      "options": [
+        "Letter",
+        "Telegram",
+        "Email/Internet",
+        "Fax"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: Email/Internet.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Mass media includes:",
+      "options": [
+        "Radio and Television",
+        "Letter and Fax",
+        "Telephone and Intercom",
+        "Telex"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Radio and Television.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Tourism is classified as:",
+      "options": [
+        "Visible trade",
+        "Invisible trade",
+        "Internal trade",
+        "Import trade"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Invisible trade.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Communication process involves:",
+      "options": [
+        "Sender -> Message -> Receiver",
+        "Message -> Sender -> Noise",
+        "Receiver -> Sender -> Channel",
+        "None of above"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Sender -> Message -> Receiver.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which mode of transport is best for heavy and bulky goods over long distances?",
+      "options": [
+        "Road",
+        "Air",
+        "Rail",
+        "Pipeline"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Rail.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Advertising aimed at persuading consumers to buy a specific brand is:",
+      "options": [
+        "Informative advertising",
+        "Persuasive/Competitive advertising",
+        "Institutional advertising",
+        "Mass advertising"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Persuasive/Competitive advertising.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Warehousing creates:",
+      "options": [
+        "Form utility",
+        "Place utility",
+        "Time utility",
+        "Possession utility"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Time utility.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which marketing mix element deals with communication?",
+      "options": [
+        "Product",
+        "Price",
+        "Place",
+        "Promotion"
+      ],
+      "answer": 3,
+      "solution": "Past question (JAMB 2022). Correct answer: Promotion.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Fastest means of communication:",
+      "options": [
+        "Letter",
+        "Telegram",
+        "Email/Internet",
+        "Fax"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: Email/Internet.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Tourism is:",
+      "options": [
+        "Visible trade",
+        "Invisible trade",
+        "Internal trade",
+        "Import"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Invisible trade.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Communication process ends with:",
+      "options": [
+        "Sender",
+        "Message",
+        "Feedback",
+        "Channel"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: Feedback.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The most flexible mode of transport for 'door-to-door' delivery is...",
+      "options": [
+        "Rail",
+        "Road",
+        "Air",
+        "Sea"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Road.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Advertising that aims at creating a favorable image for a company rather than a specific product is...",
+      "options": [
+        "Persuasive advertising",
+        "Institutional advertising",
+        "Informative advertising",
+        "Competitive advertising"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Institutional advertising.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Communication is the transfer of information from a sender to a...",
+      "options": [
+        "Bank",
+        "Receiver",
+        "Middleman",
+        "Producer"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Receiver.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Which mode of transport is best for bulky goods?",
+      "options": [
+        "Air",
+        "Road",
+        "Rail",
+        "Pipeline"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: Rail.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Tourism is an example of:",
+      "options": [
+        "Visible trade",
+        "Invisible trade",
+        "Internal trade",
+        "Retail trade"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Invisible trade.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Advertising aimed at persuasion is:",
+      "options": [
+        "Informative",
+        "Competitive",
+        "Mass",
+        "Specific"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Competitive.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Communication between two people is:",
+      "options": [
+        "Mass",
+        "Interpersonal",
+        "Intrapersonal",
+        "Public"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Interpersonal.",
+      "source": "JAMB 2025",
+      "practice": false
     }
   ]
 }

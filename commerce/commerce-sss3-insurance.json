@@ -14,43 +14,85 @@
   "modules": [
     {
       "title": "Meaning, Terms and Principles",
-      "html": "\n<h4>Meaning</h4>\n<p><strong>Insurance</strong> is a contract in which the insurer, for a consideration called the <em>premium</em>, undertakes to indemnify the insured against loss arising from a specified risk. It works by <strong>pooling risks</strong>: the contributions of many meet the misfortunes of a few.</p>\n<h4>Basic Terms</h4>\n<table class=\"tb-table\"><tr><th>Term</th><th>Meaning</th></tr><tr><td>Insurer</td><td>The company that accepts the risk</td></tr><tr><td>Insured/assured</td><td>The person whose risk is covered</td></tr><tr><td>Premium</td><td>Periodic payment for cover</td></tr><tr><td>Policy</td><td>Written contract of insurance</td></tr><tr><td>Proposal form</td><td>Application giving material facts</td></tr><tr><td>Cover note</td><td>Temporary evidence of insurance</td></tr><tr><td>Surrender value</td><td>Amount paid if a life policy is discontinued early</td></tr><tr><td>Actuary</td><td>Expert who calculates risk and premium</td></tr></table>\n<h4>Principles of Insurance</h4>\n<ol><li><strong>Utmost good faith (uberrimae fidei)</strong> – both parties must disclose all material facts.</li><li><strong>Insurable interest</strong> – the insured must stand to lose financially if the event occurs.</li><li><strong>Indemnity</strong> – the insured is restored to his former position, no more; does not apply to life and personal accident.</li><li><strong>Subrogation</strong> – after full settlement the insurer takes over the remains/rights of the insured.</li><li><strong>Contribution</strong> – where several insurers cover the same risk, each pays a proportionate share.</li><li><strong>Proximate cause</strong> – the nearest, most effective cause of loss must be an insured peril.</li></ol>\n<h4>Insurable vs Non-insurable Risks</h4>\n<p><em>Insurable:</em> fire, theft, motor accident, death, marine perils – they are measurable and occur to many. <em>Non-insurable:</em> loss from bad management, changes in fashion, fall in demand, gambling losses, war (usually), and deliberate acts of the insured.</p>\n",
+      "html": "\n<h4>Meaning</h4>\n<p><strong>Insurance</strong> is a contract in which the insurer, for a consideration called the <em>premium</em>, undertakes to indemnify the insured against loss arising from a specified risk. It works by <strong>pooling risks</strong>: the contributions of many meet the misfortunes of a few.</p>\n<h4>Basic Terms</h4>\n<table class=\"tb-table\"><tr><th>Term</th><th>Meaning</th></tr><tr><td>Insurer</td><td>The company that accepts the risk</td></tr><tr><td>Insured/assured</td><td>The person whose risk is covered</td></tr><tr><td>Premium</td><td>Periodic payment for cover</td></tr><tr><td>Policy</td><td>Written contract of insurance</td></tr><tr><td>Proposal form</td><td>Application giving material facts</td></tr><tr><td>Cover note</td><td>Temporary evidence of insurance</td></tr><tr><td>Surrender value</td><td>Amount paid if a life policy is discontinued early</td></tr><tr><td>Actuary</td><td>Expert who calculates risk and premium</td></tr></table>\n<h4>Principles of Insurance</h4>\n<ol><li><strong>Utmost good faith (uberrimae fidei)</strong> \u2013 both parties must disclose all material facts.</li><li><strong>Insurable interest</strong> \u2013 the insured must stand to lose financially if the event occurs.</li><li><strong>Indemnity</strong> \u2013 the insured is restored to his former position, no more; does not apply to life and personal accident.</li><li><strong>Subrogation</strong> \u2013 after full settlement the insurer takes over the remains/rights of the insured.</li><li><strong>Contribution</strong> \u2013 where several insurers cover the same risk, each pays a proportionate share.</li><li><strong>Proximate cause</strong> \u2013 the nearest, most effective cause of loss must be an insured peril.</li></ol>\n<h4>Insurable vs Non-insurable Risks</h4>\n<p><em>Insurable:</em> fire, theft, motor accident, death, marine perils \u2013 they are measurable and occur to many. <em>Non-insurable:</em> loss from bad management, changes in fashion, fall in demand, gambling losses, war (usually), and deliberate acts of the insured.</p>\n",
       "examples": [
         {
           "q": "A man insures his neighbour's house against fire. Is the contract valid?",
-          "a": "No. He has no <strong>insurable interest</strong> – he suffers no direct financial loss if the house burns. The contract is void and amounts to a wager; premiums may simply be refunded."
+          "a": "No. He has no <strong>insurable interest</strong> \u2013 he suffers no direct financial loss if the house burns. The contract is void and amounts to a wager; premiums may simply be refunded."
         },
         {
-          "q": "A trader insures goods worth ₦4,000,000 with Insurer A for ₦3,000,000 and Insurer B for ₦1,000,000. A total loss occurs. How much does each pay?",
-          "a": "By the principle of contribution, A pays \\( \\dfrac{3}{4}\\times4{,}000{,}000 = ₦3{,}000{,}000 \\) and B pays \\( \\dfrac{1}{4}\\times4{,}000{,}000 = ₦1{,}000{,}000 \\). Together they indemnify, but the insured cannot recover more than his actual loss."
+          "q": "A trader insures goods worth \u20a64,000,000 with Insurer A for \u20a63,000,000 and Insurer B for \u20a61,000,000. A total loss occurs. How much does each pay?",
+          "a": "By the principle of contribution, A pays \\( \\dfrac{3}{4}\\times4{,}000{,}000 = \u20a63{,}000{,}000 \\) and B pays \\( \\dfrac{1}{4}\\times4{,}000{,}000 = \u20a61{,}000{,}000 \\). Together they indemnify, but the insured cannot recover more than his actual loss."
         }
       ]
     },
     {
       "title": "Classes of Insurance",
-      "html": "\n<h4>1. Life Assurance</h4>\n<ul><li><strong>Whole life</strong> – premiums until death; sum paid to beneficiaries.</li><li><strong>Endowment</strong> – payable at a fixed date or earlier death; combines saving and protection.</li><li><strong>Term assurance</strong> – pays only if death occurs within the stated term.</li><li><strong>Annuity</strong> – regular income paid for life in exchange for a lump sum.</li></ul>\n<p>It is called <em>assurance</em> because the event (death) is certain; only its timing is uncertain. Indemnity does not apply.</p>\n<h4>2. Marine Insurance</h4>\n<p>Covers hull, cargo, freight and shipowner's liability. Types of loss:</p>\n<ul><li><strong>Total loss</strong> – actual or constructive.</li><li><strong>Particular average</strong> – partial loss borne by the owner of the damaged goods alone.</li><li><strong>General average</strong> – deliberate sacrifice (e.g. jettison) for the common safety; shared by all interests.</li><li><strong>Salvage charges</strong> – cost of saving the ship or cargo.</li></ul>\n<h4>3. Fire, Motor and Accident Insurance</h4>\n<table class=\"tb-table\"><tr><th>Class</th><th>Cover</th></tr><tr><td>Fire</td><td>Damage by fire, lightning, explosion; extensions for riot and flood</td></tr><tr><td>Motor – third party</td><td>Compulsory; injury/damage to third parties only</td></tr><tr><td>Motor – third party fire &amp; theft</td><td>Third party plus fire/theft of own vehicle</td></tr><tr><td>Motor – comprehensive</td><td>All the above plus own damage</td></tr><tr><td>Employers' liability / workmen's compensation</td><td>Injury to employees at work</td></tr><tr><td>Fidelity guarantee</td><td>Dishonesty of employees</td></tr><tr><td>Burglary, consequential loss (business interruption), professional indemnity</td><td>Other accident classes</td></tr></table>\n<h4>Reinsurance, Co-insurance and Double Insurance</h4>\n<ul><li><strong>Reinsurance</strong> – an insurer passes part of a very large risk to another insurer (e.g. Nigeria Reinsurance Corporation).</li><li><strong>Co-insurance</strong> – two or more insurers share one risk from the outset, each on its own share.</li><li><strong>Double insurance</strong> – the same risk insured with more than one insurer by the insured; contribution applies.</li></ul>\n",
+      "html": "\n<h4>1. Life Assurance</h4>\n<ul><li><strong>Whole life</strong> \u2013 premiums until death; sum paid to beneficiaries.</li><li><strong>Endowment</strong> \u2013 payable at a fixed date or earlier death; combines saving and protection.</li><li><strong>Term assurance</strong> \u2013 pays only if death occurs within the stated term.</li><li><strong>Annuity</strong> \u2013 regular income paid for life in exchange for a lump sum.</li></ul>\n<p>It is called <em>assurance</em> because the event (death) is certain; only its timing is uncertain. Indemnity does not apply.</p>\n<h4>2. Marine Insurance</h4>\n<p>Covers hull, cargo, freight and shipowner's liability. Types of loss:</p>\n<ul><li><strong>Total loss</strong> \u2013 actual or constructive.</li><li><strong>Particular average</strong> \u2013 partial loss borne by the owner of the damaged goods alone.</li><li><strong>General average</strong> \u2013 deliberate sacrifice (e.g. jettison) for the common safety; shared by all interests.</li><li><strong>Salvage charges</strong> \u2013 cost of saving the ship or cargo.</li></ul>\n<h4>3. Fire, Motor and Accident Insurance</h4>\n<table class=\"tb-table\"><tr><th>Class</th><th>Cover</th></tr><tr><td>Fire</td><td>Damage by fire, lightning, explosion; extensions for riot and flood</td></tr><tr><td>Motor \u2013 third party</td><td>Compulsory; injury/damage to third parties only</td></tr><tr><td>Motor \u2013 third party fire &amp; theft</td><td>Third party plus fire/theft of own vehicle</td></tr><tr><td>Motor \u2013 comprehensive</td><td>All the above plus own damage</td></tr><tr><td>Employers' liability / workmen's compensation</td><td>Injury to employees at work</td></tr><tr><td>Fidelity guarantee</td><td>Dishonesty of employees</td></tr><tr><td>Burglary, consequential loss (business interruption), professional indemnity</td><td>Other accident classes</td></tr></table>\n<h4>Reinsurance, Co-insurance and Double Insurance</h4>\n<ul><li><strong>Reinsurance</strong> \u2013 an insurer passes part of a very large risk to another insurer (e.g. Nigeria Reinsurance Corporation).</li><li><strong>Co-insurance</strong> \u2013 two or more insurers share one risk from the outset, each on its own share.</li><li><strong>Double insurance</strong> \u2013 the same risk insured with more than one insurer by the insured; contribution applies.</li></ul>\n",
       "examples": [
         {
-          "q": "During a storm, cargo worth ₦8,000,000 is jettisoned to save a ship and its remaining cargo worth ₦72,000,000. Explain the settlement.",
-          "a": "This is a <strong>general average</strong> loss because the sacrifice was deliberate and for the common safety. The ₦8,000,000 is shared rateably by all interests saved. If the ship and cargo saved total ₦72,000,000, each party contributes \\( \\dfrac{8{,}000{,}000}{72{,}000{,}000} \\approx 11.1\\% \\) of its saved value."
+          "q": "During a storm, cargo worth \u20a68,000,000 is jettisoned to save a ship and its remaining cargo worth \u20a672,000,000. Explain the settlement.",
+          "a": "This is a <strong>general average</strong> loss because the sacrifice was deliberate and for the common safety. The \u20a68,000,000 is shared rateably by all interests saved. If the ship and cargo saved total \u20a672,000,000, each party contributes \\( \\dfrac{8{,}000{,}000}{72{,}000{,}000} \\approx 11.1\\% \\) of its saved value."
         },
         {
-          "q": "Goods worth ₦10,000,000 are insured for only ₦6,000,000 (average clause applies). A fire destroys ₦4,500,000 worth. How much is paid?",
-          "a": "Under-insurance triggers the average clause: \\( \\text{Claim} = \\dfrac{\\text{Sum Insured}}{\\text{Value of Property}} \\times \\text{Loss} = \\dfrac{6{,}000{,}000}{10{,}000{,}000}\\times4{,}500{,}000 = ₦2{,}700{,}000 \\). The insured bears the remaining ₦1,800,000 as his own insurer."
+          "q": "Goods worth \u20a610,000,000 are insured for only \u20a66,000,000 (average clause applies). A fire destroys \u20a64,500,000 worth. How much is paid?",
+          "a": "Under-insurance triggers the average clause: \\( \\text{Claim} = \\dfrac{\\text{Sum Insured}}{\\text{Value of Property}} \\times \\text{Loss} = \\dfrac{6{,}000{,}000}{10{,}000{,}000}\\times4{,}500{,}000 = \u20a62{,}700{,}000 \\). The insured bears the remaining \u20a61,800,000 as his own insurer."
         }
       ]
     },
     {
       "title": "Premiums, Claims and the Role of Insurance in Commerce",
-      "html": "\n<h4>Computing Premium</h4>\n$$\\text{Premium} = \\text{Sum Insured} \\times \\text{Rate}$$\n<p>Rates reflect the degree of risk, the record of the insured, the value of the property and any no-claim discount.</p>\n<h4>Average Clause</h4>\n$$\\text{Claim Payable} = \\dfrac{\\text{Sum Insured}}{\\text{Value of Property}} \\times \\text{Actual Loss}$$\n<h4>Contribution</h4>\n$$\\text{Share of Insurer A} = \\dfrac{\\text{Policy A}}{\\text{Total Policies}} \\times \\text{Loss}$$\n<h4>Importance of Insurance to Business</h4>\n<ol><li>Transfers risk, giving confidence to invest and expand.</li><li>Makes credit possible – lenders insist on cover.</li><li>Provides a pool of investible funds for the economy.</li><li>Encourages international trade through marine and credit insurance.</li><li>Provides social security and employment.</li></ol>\n<h4>Regulation in Nigeria</h4>\n<p>Insurance business is supervised by <strong>NAICOM</strong> (National Insurance Commission). Compulsory covers in Nigeria include motor third-party, group life for employers, builders' liability and occupiers' liability.</p>\n",
+      "html": "\n<h4>Computing Premium</h4>\n$$\\text{Premium} = \\text{Sum Insured} \\times \\text{Rate}$$\n<p>Rates reflect the degree of risk, the record of the insured, the value of the property and any no-claim discount.</p>\n<h4>Average Clause</h4>\n$$\\text{Claim Payable} = \\dfrac{\\text{Sum Insured}}{\\text{Value of Property}} \\times \\text{Actual Loss}$$\n<h4>Contribution</h4>\n$$\\text{Share of Insurer A} = \\dfrac{\\text{Policy A}}{\\text{Total Policies}} \\times \\text{Loss}$$\n<h4>Importance of Insurance to Business</h4>\n<ol><li>Transfers risk, giving confidence to invest and expand.</li><li>Makes credit possible \u2013 lenders insist on cover.</li><li>Provides a pool of investible funds for the economy.</li><li>Encourages international trade through marine and credit insurance.</li><li>Provides social security and employment.</li></ol>\n<h4>Regulation in Nigeria</h4>\n<p>Insurance business is supervised by <strong>NAICOM</strong> (National Insurance Commission). Compulsory covers in Nigeria include motor third-party, group life for employers, builders' liability and occupiers' liability.</p>\n",
       "examples": [
         {
-          "q": "A factory worth ₦80,000,000 is insured at a rate of 1.5% with a 20% no-claim discount. Calculate the annual premium.",
-          "a": "Basic premium \\( = 1.5\\% \\times 80{,}000{,}000 = ₦1{,}200{,}000 \\). No-claim discount \\( = 20\\% \\times 1{,}200{,}000 = ₦240{,}000 \\). Premium payable \\( = ₦960{,}000 \\)."
+          "q": "A factory worth \u20a680,000,000 is insured at a rate of 1.5% with a 20% no-claim discount. Calculate the annual premium.",
+          "a": "Basic premium \\( = 1.5\\% \\times 80{,}000{,}000 = \u20a61{,}200{,}000 \\). No-claim discount \\( = 20\\% \\times 1{,}200{,}000 = \u20a6240{,}000 \\). Premium payable \\( = \u20a6960{,}000 \\)."
         },
         {
           "q": "Explain how insurance supports a bank's willingness to grant a business loan.",
-          "a": "The bank's security – stock, buildings or the borrower's life – may be destroyed. With a fire or life policy assigned to the bank, loss is compensated and the loan can still be repaid. Insurance therefore converts an uncertain risk into a fixed, small cost, and makes lending safer and cheaper."
+          "a": "The bank's security \u2013 stock, buildings or the borrower's life \u2013 may be destroyed. With a fire or life policy assigned to the bank, loss is compensated and the loan can still be repaid. Insurance therefore converts an uncertain risk into a fixed, small cost, and makes lending safer and cheaper."
+        }
+      ]
+    },
+    {
+      "title": "Insurable and non-insurable risks",
+      "html": "<p><b>Insurable and non-insurable risks</b> is a key part of Insurance (SSS 3, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>It works by pooling risks : the contributions of many meet the misfortunes of a few.</li><li>Insurable interest \u2013 the insured must stand to lose financially if the event occurs.</li><li>Insurable vs Non-insurable Risks Insurable: fire, theft, motor accident, death, marine perils \u2013 they are measurable and occur to many.</li><li>Non-insurable: loss from bad management, changes in fashion, fall in demand, gambling losses, war (usually), and deliberate acts of the insured.</li><li>For property insurance, insurable interest must exist at inception and at the time of loss.</li></ul><h4>Worked example</h4><p><b>Q:</b> The person who calculates insurance risks and premiums is a(n)<br/><b>A:</b> Actuary \u2014 An actuary uses statistics and probability to fix premiums.</p><p><b>Q:</b> Insurable interest in a fire policy must exist<br/><b>A:</b> At the time of taking the policy and at loss \u2014 For property insurance, insurable interest must exist at inception and at the time of loss.</p>",
+      "examples": [
+        {
+          "q": "The person who calculates insurance risks and premiums is a(n)",
+          "a": "Actuary \u2014 An actuary uses statistics and probability to fix premiums."
+        },
+        {
+          "q": "Insurable interest in a fire policy must exist",
+          "a": "At the time of taking the policy and at loss \u2014 For property insurance, insurable interest must exist at inception and at the time of loss."
+        }
+      ]
+    },
+    {
+      "title": "Classes of insurance: life, marine, fire, motor, accident",
+      "html": "<p><b>Classes of insurance: life, marine, fire, motor, accident</b> is a key part of Insurance (SSS 3, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Insurance is a contract in which the insurer, for a consideration called the premium , undertakes to indemnify the insured against loss arising from a specified risk.</li><li>Basic Terms Term Meaning Insurer The company that accepts the risk Insured/assured The person whose risk is covered Premium Periodic payment for cover Policy Written contract of insurance Proposal form Application giving material facts Cover note Temporary evidence of insurance Surrender value Amount paid if a life policy is discontinued early Actuary Expert who calculates risk and premium Principles of Insurance Utmost good faith (uberrimae fidei) \u2013 both parties must disclose all material facts.</li><li>Indemnity \u2013 the insured is restored to his former position, no more; does not apply to life and personal accident.</li><li>Insurable vs Non-insurable Risks Insurable: fire, theft, motor accident, death, marine perils \u2013 they are measurable and occur to many.</li><li>Life Assurance Whole life \u2013 premiums until death; sum paid to beneficiaries.</li></ul><h4>Worked example</h4><p><b>Q:</b> Insurance operates on the principle of<br/><b>A:</b> Pooling of risks \u2014 Contributions of many insured persons meet the losses of the unfortunate few.</p><p><b>Q:</b> Indemnity does NOT apply to<br/><b>A:</b> Life assurance \u2014 Human life cannot be valued in money, so life assurance is not a contract of indemnity.</p>",
+      "examples": [
+        {
+          "q": "Insurance operates on the principle of",
+          "a": "Pooling of risks \u2014 Contributions of many insured persons meet the losses of the unfortunate few."
+        },
+        {
+          "q": "Indemnity does NOT apply to",
+          "a": "Life assurance \u2014 Human life cannot be valued in money, so life assurance is not a contract of indemnity."
+        }
+      ]
+    },
+    {
+      "title": "Reinsurance, co-insurance and double insurance",
+      "html": "<p><b>Reinsurance, co-insurance and double insurance</b> is a key part of Insurance (SSS 3, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Insurance is a contract in which the insurer, for a consideration called the premium , undertakes to indemnify the insured against loss arising from a specified risk.</li><li>Basic Terms Term Meaning Insurer The company that accepts the risk Insured/assured The person whose risk is covered Premium Periodic payment for cover Policy Written contract of insurance Proposal form Application giving material facts Cover note Temporary evidence of insurance Surrender value Amount paid if a life policy is discontinued early Actuary Expert who calculates risk and premium Principles of Insurance Utmost good faith (uberrimae fidei) \u2013 both parties must disclose all material facts.</li><li>Marine Insurance Covers hull, cargo, freight and shipowner's liability.</li><li>Fire, Motor and Accident Insurance Class Cover Fire Damage by fire, lightning, explosion; extensions for riot and flood Motor \u2013 third party Compulsory; injury/damage to third parties only Motor \u2013 third party fire &amp; theft Third party plus fire/theft of own vehicle Motor \u2013 comprehensive All the above plus own damage Employers' liability / workmen's compensation Injury to employees at work Fidelity guarantee Dishonesty of employees Burglary, consequential loss (business interruption), professional indemnity Other accident classes Reinsurance, Co-insurance and Double Insurance Reinsurance \u2013 an insurer passes part of a very large risk to another insurer (e.g.</li><li>Nigeria Reinsurance Corporation).</li></ul><h4>Worked example</h4><p><b>Q:</b> Insurance operates on the principle of<br/><b>A:</b> Pooling of risks \u2014 Contributions of many insured persons meet the losses of the unfortunate few.</p><p><b>Q:</b> Motor insurance that is compulsory in Nigeria is<br/><b>A:</b> Third party \u2014 Third-party motor cover is required by law.</p>",
+      "examples": [
+        {
+          "q": "Insurance operates on the principle of",
+          "a": "Pooling of risks \u2014 Contributions of many insured persons meet the losses of the unfortunate few."
+        },
+        {
+          "q": "Motor insurance that is compulsory in Nigeria is",
+          "a": "Third party \u2014 Third-party motor cover is required by law."
         }
       ]
     }
@@ -64,8 +106,10 @@
         "Gambling",
         "Taxation"
       ],
-      "answer": "1",
-      "solution": "Contributions of many insured persons meet the losses of the unfortunate few."
+      "answer": 1,
+      "solution": "Contributions of many insured persons meet the losses of the unfortunate few.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which principle requires full disclosure of material facts?",
@@ -75,8 +119,10 @@
         "Subrogation",
         "Contribution"
       ],
-      "answer": "1",
-      "solution": "Uberrimae fidei obliges both parties to disclose all material facts."
+      "answer": 1,
+      "solution": "Uberrimae fidei obliges both parties to disclose all material facts.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Indemnity does NOT apply to",
@@ -86,8 +132,10 @@
         "Life assurance",
         "Motor insurance"
       ],
-      "answer": "2",
-      "solution": "Human life cannot be valued in money, so life assurance is not a contract of indemnity."
+      "answer": 2,
+      "solution": "Human life cannot be valued in money, so life assurance is not a contract of indemnity.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The right of the insurer to take over damaged property after full payment is",
@@ -97,19 +145,23 @@
         "Proximate cause",
         "Insurable interest"
       ],
-      "answer": "1",
-      "solution": "Subrogation prevents the insured from profiting twice from one loss."
+      "answer": 1,
+      "solution": "Subrogation prevents the insured from profiting twice from one loss.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "If property worth ₦10m is insured for ₦5m and a loss of ₦2m occurs, the average clause gives a claim of",
+      "q": "If property worth \u20a610m is insured for \u20a65m and a loss of \u20a62m occurs, the average clause gives a claim of",
       "options": [
-        "₦2,000,000",
-        "₦1,000,000",
-        "₦500,000",
-        "₦5,000,000"
+        "\u20a62,000,000",
+        "\u20a61,000,000",
+        "\u20a6500,000",
+        "\u20a65,000,000"
       ],
-      "answer": "1",
-      "solution": "Claim = (5/10) × 2,000,000 = ₦1,000,000."
+      "answer": 1,
+      "solution": "Claim = (5/10) \u00d7 2,000,000 = \u20a61,000,000.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Deliberate sacrifice of cargo for the safety of a ship is",
@@ -119,8 +171,10 @@
         "Total loss",
         "Salvage"
       ],
-      "answer": "1",
-      "solution": "General average loss is shared by all interests benefiting from the sacrifice."
+      "answer": 1,
+      "solution": "General average loss is shared by all interests benefiting from the sacrifice.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A risk that CANNOT be insured is",
@@ -130,8 +184,10 @@
         "Loss from bad management",
         "Motor accident"
       ],
-      "answer": "2",
-      "solution": "Losses arising from poor management or changes in fashion are not measurable or fortuitous."
+      "answer": 2,
+      "solution": "Losses arising from poor management or changes in fashion are not measurable or fortuitous.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Motor insurance that is compulsory in Nigeria is",
@@ -141,8 +197,10 @@
         "Fire and theft",
         "Fidelity guarantee"
       ],
-      "answer": "1",
-      "solution": "Third-party motor cover is required by law."
+      "answer": 1,
+      "solution": "Third-party motor cover is required by law.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A temporary document issued before the policy is prepared is a",
@@ -152,8 +210,10 @@
         "Certificate of origin",
         "Debit note"
       ],
-      "answer": "1",
-      "solution": "The cover note gives interim evidence of insurance."
+      "answer": 1,
+      "solution": "The cover note gives interim evidence of insurance.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Where an insurer passes part of a large risk to another insurer, this is",
@@ -163,19 +223,23 @@
         "Co-insurance",
         "Under-insurance"
       ],
-      "answer": "1",
-      "solution": "Reinsurance spreads a risk that is too large for one company."
+      "answer": 1,
+      "solution": "Reinsurance spreads a risk that is too large for one company.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Premium on a ₦40,000,000 property at 2% is",
+      "q": "Premium on a \u20a640,000,000 property at 2% is",
       "options": [
-        "₦400,000",
-        "₦800,000",
-        "₦80,000",
-        "₦4,000,000"
+        "\u20a6400,000",
+        "\u20a6800,000",
+        "\u20a680,000",
+        "\u20a64,000,000"
       ],
-      "answer": "1",
-      "solution": "Premium = 2% × 40,000,000 = ₦800,000."
+      "answer": 1,
+      "solution": "Premium = 2% \u00d7 40,000,000 = \u20a6800,000.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The person who calculates insurance risks and premiums is a(n)",
@@ -185,8 +249,10 @@
         "Underwriter's clerk",
         "Auditor"
       ],
-      "answer": "1",
-      "solution": "An actuary uses statistics and probability to fix premiums."
+      "answer": 1,
+      "solution": "An actuary uses statistics and probability to fix premiums.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Insurable interest in a fire policy must exist",
@@ -196,8 +262,10 @@
         "Never",
         "Only after the claim"
       ],
-      "answer": "1",
-      "solution": "For property insurance, insurable interest must exist at inception and at the time of loss."
+      "answer": 1,
+      "solution": "For property insurance, insurable interest must exist at inception and at the time of loss.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The amount paid when a life policy is discontinued early is the",
@@ -207,8 +275,10 @@
         "Bonus",
         "Annuity"
       ],
-      "answer": "1",
-      "solution": "Surrender value is the cash payable on early termination."
+      "answer": 1,
+      "solution": "Surrender value is the cash payable on early termination.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Insurance in Nigeria is regulated by",
@@ -218,19 +288,465 @@
         "SEC",
         "NDIC"
       ],
-      "answer": "1",
-      "solution": "The National Insurance Commission supervises insurers and brokers."
+      "answer": 1,
+      "solution": "The National Insurance Commission supervises insurers and brokers.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Two insurers each cover the same ₦8m risk equally; a loss of ₦3m occurs. Each pays",
+      "q": "Two insurers each cover the same \u20a68m risk equally; a loss of \u20a63m occurs. Each pays",
       "options": [
-        "₦3,000,000",
-        "₦1,500,000",
-        "₦800,000",
+        "\u20a63,000,000",
+        "\u20a61,500,000",
+        "\u20a6800,000",
         "Nothing"
       ],
-      "answer": "1",
-      "solution": "By contribution each bears half of the ₦3m loss = ₦1.5m; the insured is indemnified once."
+      "answer": 1,
+      "solution": "By contribution each bears half of the \u20a63m loss = \u20a61.5m; the insured is indemnified once.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Insurance premium is the?",
+      "options": [
+        "Compensation",
+        "Loss",
+        "Profit",
+        "Cost of insurance"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Cost of insurance.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Marine insurance covers?",
+      "options": [
+        "Fire risks",
+        "Sea risks",
+        "Life risks",
+        "Theft risks"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Sea risks.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The fee paid to an insurance company for cover against a risk is the _____.",
+      "options": [
+        "Commission",
+        "Dividend",
+        "Premium",
+        "Interest"
+      ],
+      "answer": 2,
+      "solution": "The premium is the periodic payment made by the insured to the insurer in exchange for the promise of compensation.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "In insurance, the principle of 'Indemnity' means _____.",
+      "options": [
+        "the insured must tell the truth",
+        "the insured must not make a profit from a loss",
+        "only the owner can insure a property",
+        "the cause of loss must be direct"
+      ],
+      "answer": 1,
+      "solution": "Indemnity ensures the insured is restored to their pre-loss financial position without gaining any extra benefit.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The principle of 'Indemnity' in insurance means:",
+      "options": [
+        "Making a profit from loss",
+        "Restoring the insured to the former position",
+        "Sharing the loss",
+        "Acting in good faith"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Restoring the insured to the former position.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Subrogation in insurance means:",
+      "options": [
+        "Insurer takes over rights to the scrap",
+        "Sharing the loss",
+        "Insured makes profit",
+        "Policy is cancelled"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Insurer takes over rights to the scrap.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Indemnity in insurance means:",
+      "options": [
+        "Profit",
+        "Restoration to former position",
+        "Loss",
+        "Sharing"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Restoration to former position.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Insurance is based on the principle of 'Indemnity', which means...",
+      "options": [
+        "Profit making",
+        "Restoring the insured to their former financial position",
+        "Paying twice the value of loss",
+        "Ignoring small losses"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Restoring the insured to their former financial position.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The insurance principle 'Indemnity' means:",
+      "options": [
+        "Making profit from loss",
+        "Restoring to former position",
+        "Utmost good faith",
+        "Sharing the loss"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Restoring to former position.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Indemnity in insurance:",
+      "options": [
+        "Restore to former position",
+        "Profit",
+        "Loss",
+        "Sharing"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Restore to former position.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The main function of insurance is?",
+      "options": [
+        "Risk spreading",
+        "Profit making",
+        "Lending money",
+        "Tax evasion"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Risk spreading.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\"Utmost Good Faith\" in insurance is?",
+      "options": [
+        "Indemnity",
+        "Insurable Interest",
+        "Subrogation",
+        "Uberrimae Fidei"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Uberrimae Fidei.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Insurance policy is the?",
+      "options": [
+        "Payment",
+        "Contract document",
+        "Company name",
+        "Agent"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Contract document.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Contribution in insurance prevents?",
+      "options": [
+        "Profiting from loss",
+        "Paying premium",
+        "Buying goods",
+        "Selling shops"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Profiting from loss.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Hull insurance is for?",
+      "options": [
+        "The cargo",
+        "The crew",
+        "The ship itself",
+        "The passengers"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: The ship itself.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Third party insurance is?",
+      "options": [
+        "For the driver only",
+        "For the car only",
+        "Compulsory for vehicles",
+        "For the engine"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Compulsory for vehicles.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A person cannot insure the life of a stranger because they lack...",
+      "options": [
+        "Money",
+        "Insurable Interest",
+        "Indemnity",
+        "Proximate Cause"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Insurable Interest.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Commerce:",
+      "options": [
+        "Trade + Aids to Trade",
+        "Buying + Selling",
+        "Production",
+        "Marketing"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Trade + Aids to Trade.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Insurable Interest:",
+      "options": [
+        "Financial loss if damaged",
+        "Ownership",
+        "Profit",
+        "Premium"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Financial loss if damaged.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Product Life Cycle:",
+      "options": [
+        "Stages of product",
+        "Expiry",
+        "Production",
+        "Sale"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Stages of product.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Chamber of Commerce:",
+      "options": [
+        "Business association",
+        "Govt dept",
+        "Bank",
+        "Court"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Business association.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "E-commerce:",
+      "options": [
+        "Internet trading",
+        "Barter",
+        "Road trade",
+        "Sea trade"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Internet trading.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The two main branches of Commerce are?",
+      "options": [
+        "Buying and selling",
+        "Home and Foreign trade",
+        "Wholesale and Retail",
+        "Trade and Aids to Trade"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Trade and Aids to Trade.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Commerce helps to improve the?",
+      "options": [
+        "Size of the population",
+        "Number of schools",
+        "Weather conditions",
+        "Standard of living"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Standard of living.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Commerce bridges the gap between?",
+      "options": [
+        "Banks and Insurers",
+        "Teachers and Students",
+        "Producers and Consumers",
+        "Parents and Children"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Producers and Consumers.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Life assurance is a form of?",
+      "options": [
+        "Fire insurance",
+        "Saving and protection",
+        "Marine insurance",
+        "Gambling"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Saving and protection.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The product life cycle stages are?",
+      "options": [
+        "Birth, Life, Death",
+        "Start, Middle, End",
+        "Intro, Growth, Maturity, Decline",
+        "Fast, Slow, Stop"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Intro, Growth, Maturity, Decline.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \"Lungs of Commerce\" is?",
+      "options": [
+        "Transportation",
+        "Banking",
+        "Advertising",
+        "Insurance"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Transportation.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Insurable interest means?",
+      "options": [
+        "You like the item",
+        "You must suffer loss from an event",
+        "It is expensive",
+        "You stole it"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: You must suffer loss from an event.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Double entry principle says?",
+      "options": [
+        "Pay twice",
+        "Every debit has a credit",
+        "Get two receipts",
+        "Use two pens"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Every debit has a credit.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "JAMB Commerce is?",
+      "options": [
+        "Very easy",
+        "Hard",
+        "Not needed",
+        "Essential for success"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Essential for success.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A 'Crossing' on a cheque is intended to _____.",
+      "options": [
+        "make the cheque invalid",
+        "ensure the money is paid into a bank account",
+        "allow the cheque to be cashed over the counter",
+        "indicate that the cheque is a gift"
+      ],
+      "answer": 1,
+      "solution": "A crossed cheque cannot be cashed over the counter; it must be paid into a bank account, which provides security against theft.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The process of a manufacturer selling directly to the consumer is an example of _____.",
+      "options": [
+        "indirect distribution",
+        "direct distribution",
+        "wholesale trade",
+        "retail trade"
+      ],
+      "answer": 1,
+      "solution": "Direct distribution eliminates middlemen like wholesalers and retailers, allowing the producer to sell directly to the end user.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a disadvantage of a partnership?",
+      "options": [
+        "Shared decision making",
+        "Privacy of accounts",
+        "Unlimited liability for general partners",
+        "More capital than sole proprietorship"
+      ],
+      "answer": 2,
+      "solution": "In a general partnership, partners are personally responsible for all the debts of the business, which can put their private assets at risk.",
+      "source": "WAEC 2024",
+      "practice": false
     }
   ]
 }

@@ -34,11 +34,11 @@
       "examples": [
         {
           "q": "Calculate the quantity of NPK 15-15-15 fertilizer required to supply 45 kg of nitrogen per hectare.",
-          "a": "Quantity = (Nutrient required / % nutrient content) × 100 = (45/15) × 100 = 300 kg of NPK 15-15-15 per hectare."
+          "a": "Quantity = (Nutrient required / % nutrient content) \u00d7 100 = (45/15) \u00d7 100 = 300 kg of NPK 15-15-15 per hectare."
         },
         {
           "q": "A farmer wants to supply 90 kg K2O/ha using Muriate of Potash (60% K2O). How many kilograms of MOP are required per hectare, and for a 4-hectare farm?",
-          "a": "Quantity per hectare = (90/60) × 100 = 150 kg/ha. For 4 hectares: 150 × 4 = 600 kg of Muriate of Potash."
+          "a": "Quantity per hectare = (90/60) \u00d7 100 = 150 kg/ha. For 4 hectares: 150 \u00d7 4 = 600 kg of Muriate of Potash."
         }
       ]
     },
@@ -55,6 +55,48 @@
           "a": "Excess nitrogen not taken up by crops can be washed off by runoff or leached into the nearby river, leading to eutrophication. This causes excessive growth of algae, which upon decomposition depletes dissolved oxygen in the water, leading to fish kills and loss of aquatic biodiversity."
         }
       ]
+    },
+    {
+      "title": "Essential plant nutrients and their functions",
+      "html": "<p><b>Essential plant nutrients and their functions</b> is a key part of Soil Fertility and Plant Nutrition (SSS 2, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning of Soil Fertility Soil fertility is the inherent capacity of a soil to supply essential nutrients in adequate quantity and proper balance for plant growth, in the absence of toxic substances that would hinder plant growth.</li><li>Essential Plant Nutrients Plants require sixteen to seventeen essential elements, classified as macronutrients (required in large amounts) and micronutrients (required in trace amounts).</li><li>Category Elements Primary macronutrients Nitrogen (N), Phosphorus (P), Potassium (K) Secondary macronutrients Calcium (Ca), Magnesium (Mg), Sulphur (S) Micronutrients Iron, Manganese, Zinc, Copper, Boron, Molybdenum, Chlorine Non-mineral elements Carbon, Hydrogen, Oxygen (from air and water) Functions of Major Nutrients Nitrogen: Promotes vegetative growth, is a component of chlorophyll, proteins and enzymes.</li><li>Phosphorus: Essential for root development, energy transfer (ATP), flowering and seed formation.</li><li>Organic Manures Organic manures are derived from plant and animal residues and improve both the physical and chemical properties of soil.</li></ul><h4>Worked example</h4><p><b>Q:</b> Soil fertility is best defined as<br/><b>A:</b> the capacity of soil to supply nutrients adequately for plant growth \u2014 Soil fertility refers to a soil's inherent capacity to supply essential nutrients in the right amounts and balance for plant growth.</p><p><b>Q:</b> Magnesium is a key component of which plant molecule?<br/><b>A:</b> Chlorophyll \u2014 Magnesium forms the central atom of the chlorophyll molecule essential for photosynthesis.</p>",
+      "examples": [
+        {
+          "q": "Soil fertility is best defined as",
+          "a": "the capacity of soil to supply nutrients adequately for plant growth \u2014 Soil fertility refers to a soil's inherent capacity to supply essential nutrients in the right amounts and balance for plant growth."
+        },
+        {
+          "q": "Magnesium is a key component of which plant molecule?",
+          "a": "Chlorophyll \u2014 Magnesium forms the central atom of the chlorophyll molecule essential for photosynthesis."
+        }
+      ]
+    },
+    {
+      "title": "Nutrient deficiency symptoms",
+      "html": "<p><b>Nutrient deficiency symptoms</b> is a key part of Soil Fertility and Plant Nutrition (SSS 2, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning of Soil Fertility Soil fertility is the inherent capacity of a soil to supply essential nutrients in adequate quantity and proper balance for plant growth, in the absence of toxic substances that would hinder plant growth.</li><li>Essential Plant Nutrients Plants require sixteen to seventeen essential elements, classified as macronutrients (required in large amounts) and micronutrients (required in trace amounts).</li><li>Category Elements Primary macronutrients Nitrogen (N), Phosphorus (P), Potassium (K) Secondary macronutrients Calcium (Ca), Magnesium (Mg), Sulphur (S) Micronutrients Iron, Manganese, Zinc, Copper, Boron, Molybdenum, Chlorine Non-mineral elements Carbon, Hydrogen, Oxygen (from air and water) Functions of Major Nutrients Nitrogen: Promotes vegetative growth, is a component of chlorophyll, proteins and enzymes.</li><li>Deficiency Symptoms Nitrogen deficiency causes general yellowing (chlorosis) of older leaves and stunted growth.</li><li>Phosphorus deficiency causes stunted growth with purplish leaves.</li></ul><h4>Worked example</h4><p><b>Q:</b> Nitrogen deficiency in plants typically shows first as<br/><b>A:</b> yellowing of older leaves \u2014 Nitrogen is mobile within the plant and is remobilised to younger tissues, so older leaves show chlorosis first.</p><p><b>Q:</b> Which fertilizer application method involves spraying nutrient solution on leaves?<br/><b>A:</b> Foliar application \u2014 Foliar application involves spraying dissolved fertilizer directly onto plant leaves for quick absorption.</p>",
+      "examples": [
+        {
+          "q": "Nitrogen deficiency in plants typically shows first as",
+          "a": "yellowing of older leaves \u2014 Nitrogen is mobile within the plant and is remobilised to younger tissues, so older leaves show chlorosis first."
+        },
+        {
+          "q": "Which fertilizer application method involves spraying nutrient solution on leaves?",
+          "a": "Foliar application \u2014 Foliar application involves spraying dissolved fertilizer directly onto plant leaves for quick absorption."
+        }
+      ]
+    },
+    {
+      "title": "Sources of soil nutrients: organic manures and inorganic fertilizers",
+      "html": "<p><b>Sources of soil nutrients: organic manures and inorganic fertilizers</b> is a key part of Soil Fertility and Plant Nutrition (SSS 2, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning of Soil Fertility Soil fertility is the inherent capacity of a soil to supply essential nutrients in adequate quantity and proper balance for plant growth, in the absence of toxic substances that would hinder plant growth.</li><li>A fertile soil must also possess favourable physical conditions (good structure, aeration, drainage) and a healthy population of beneficial micro-organisms.</li><li>Fertility is different from productivity: a soil can be fertile yet unproductive if other factors, such as poor rainfall or pests, limit yield.</li><li>Essential Plant Nutrients Plants require sixteen to seventeen essential elements, classified as macronutrients (required in large amounts) and micronutrients (required in trace amounts).</li><li>Category Elements Primary macronutrients Nitrogen (N), Phosphorus (P), Potassium (K) Secondary macronutrients Calcium (Ca), Magnesium (Mg), Sulphur (S) Micronutrients Iron, Manganese, Zinc, Copper, Boron, Molybdenum, Chlorine Non-mineral elements Carbon, Hydrogen, Oxygen (from air and water) Functions of Major Nutrients Nitrogen: Promotes vegetative growth, is a component of chlorophyll, proteins and enzymes.</li></ul><h4>Worked example</h4><p><b>Q:</b> Soil fertility is best defined as<br/><b>A:</b> the capacity of soil to supply nutrients adequately for plant growth \u2014 Soil fertility refers to a soil's inherent capacity to supply essential nutrients in the right amounts and balance for plant growth.</p><p><b>Q:</b> Which practice helps restore soil nitrogen naturally through biological fixation?<br/><b>A:</b> Crop rotation with legumes \u2014 Legumes fix atmospheric nitrogen via Rhizobium bacteria, enriching soil nitrogen when rotated with other crops.</p>",
+      "examples": [
+        {
+          "q": "Soil fertility is best defined as",
+          "a": "the capacity of soil to supply nutrients adequately for plant growth \u2014 Soil fertility refers to a soil's inherent capacity to supply essential nutrients in the right amounts and balance for plant growth."
+        },
+        {
+          "q": "Which practice helps restore soil nitrogen naturally through biological fixation?",
+          "a": "Crop rotation with legumes \u2014 Legumes fix atmospheric nitrogen via Rhizobium bacteria, enriching soil nitrogen when rotated with other crops."
+        }
+      ]
     }
   ],
   "quiz": [
@@ -66,8 +108,10 @@
         "the amount of water a soil can hold",
         "the colour of the topsoil"
       ],
-      "answer": "1",
-      "solution": "Soil fertility refers to a soil's inherent capacity to supply essential nutrients in the right amounts and balance for plant growth."
+      "answer": 1,
+      "solution": "Soil fertility refers to a soil's inherent capacity to supply essential nutrients in the right amounts and balance for plant growth.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of the following is a primary macronutrient?",
@@ -77,8 +121,10 @@
         "Nitrogen",
         "Boron"
       ],
-      "answer": "2",
-      "solution": "Nitrogen, phosphorus and potassium are the primary macronutrients required in the largest amounts."
+      "answer": 2,
+      "solution": "Nitrogen, phosphorus and potassium are the primary macronutrients required in the largest amounts.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Magnesium is a key component of which plant molecule?",
@@ -88,8 +134,10 @@
         "Cellulose",
         "Starch"
       ],
-      "answer": "1",
-      "solution": "Magnesium forms the central atom of the chlorophyll molecule essential for photosynthesis."
+      "answer": 1,
+      "solution": "Magnesium forms the central atom of the chlorophyll molecule essential for photosynthesis.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nitrogen deficiency in plants typically shows first as",
@@ -99,8 +147,10 @@
         "scorched leaf margins",
         "stunted root growth only"
       ],
-      "answer": "1",
-      "solution": "Nitrogen is mobile within the plant and is remobilised to younger tissues, so older leaves show chlorosis first."
+      "answer": 1,
+      "solution": "Nitrogen is mobile within the plant and is remobilised to younger tissues, so older leaves show chlorosis first.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "NPK 15-15-15 fertilizer contains what percentage of potassium (as K2O)?",
@@ -110,8 +160,10 @@
         "15%",
         "20%"
       ],
-      "answer": "2",
-      "solution": "The third number in an NPK grade represents the percentage of K2O, which is 15% in NPK 15-15-15."
+      "answer": 2,
+      "solution": "The third number in an NPK grade represents the percentage of K2O, which is 15% in NPK 15-15-15.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "How many kilograms of urea (46% N) are needed to supply 46 kg of nitrogen per hectare?",
@@ -121,8 +173,10 @@
         "150 kg",
         "200 kg"
       ],
-      "answer": "1",
-      "solution": "Quantity = (46/46) × 100 = 100 kg of urea."
+      "answer": 1,
+      "solution": "Quantity = (46/46) \u00d7 100 = 100 kg of urea.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which fertilizer application method involves spraying nutrient solution on leaves?",
@@ -132,8 +186,10 @@
         "Foliar application",
         "Top dressing"
       ],
-      "answer": "2",
-      "solution": "Foliar application involves spraying dissolved fertilizer directly onto plant leaves for quick absorption."
+      "answer": 2,
+      "solution": "Foliar application involves spraying dissolved fertilizer directly onto plant leaves for quick absorption.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Phosphorus is especially important for",
@@ -143,8 +199,10 @@
         "leaf colour only",
         "water regulation only"
       ],
-      "answer": "1",
-      "solution": "Phosphorus promotes strong root development, energy transfer and flowering/seed formation."
+      "answer": 1,
+      "solution": "Phosphorus promotes strong root development, energy transfer and flowering/seed formation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which practice helps restore soil nitrogen naturally through biological fixation?",
@@ -154,8 +212,10 @@
         "Deep ploughing",
         "Irrigation"
       ],
-      "answer": "1",
-      "solution": "Legumes fix atmospheric nitrogen via Rhizobium bacteria, enriching soil nitrogen when rotated with other crops."
+      "answer": 1,
+      "solution": "Legumes fix atmospheric nitrogen via Rhizobium bacteria, enriching soil nitrogen when rotated with other crops.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Excess fertilizer nutrients washed into rivers commonly cause",
@@ -165,8 +225,10 @@
         "increased soil pH only",
         "improved fish yield"
       ],
-      "answer": "1",
-      "solution": "Nutrient runoff, especially nitrogen and phosphorus, leads to eutrophication, causing algal blooms and oxygen depletion in water bodies."
+      "answer": 1,
+      "solution": "Nutrient runoff, especially nitrogen and phosphorus, leads to eutrophication, causing algal blooms and oxygen depletion in water bodies.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Organic manures are generally advantageous because they",
@@ -176,8 +238,10 @@
         "act instantly like inorganic fertilizer",
         "always eliminate the need for soil testing"
       ],
-      "answer": "1",
-      "solution": "Organic manures release nutrients gradually and improve the physical properties of soil, unlike concentrated inorganic fertilizers."
+      "answer": 1,
+      "solution": "Organic manures release nutrients gradually and improve the physical properties of soil, unlike concentrated inorganic fertilizers.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Single Super Phosphate (SSP) typically contains what percentage of P2O5?",
@@ -187,8 +251,10 @@
         "28%",
         "38%"
       ],
-      "answer": "1",
-      "solution": "SSP contains approximately 18% P2O5."
+      "answer": 1,
+      "solution": "SSP contains approximately 18% P2O5.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The best time to apply phosphorus fertilizer is",
@@ -198,8 +264,10 @@
         "only during flowering",
         "after harvest"
       ],
-      "answer": "1",
-      "solution": "Phosphorus is immobile in soil, so it should be applied close to the root zone at planting for effective uptake."
+      "answer": 1,
+      "solution": "Phosphorus is immobile in soil, so it should be applied close to the root zone at planting for effective uptake.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Muriate of Potash (MOP) contains approximately what percentage of K2O?",
@@ -209,8 +277,10 @@
         "60%",
         "75%"
       ],
-      "answer": "2",
-      "solution": "MOP typically contains about 60% K2O."
+      "answer": 2,
+      "solution": "MOP typically contains about 60% K2O.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which soil fertility maintenance practice involves resting land to allow natural regeneration?",
@@ -220,8 +290,10 @@
         "Continuous cropping",
         "Deep tillage"
       ],
-      "answer": "0",
-      "solution": "Fallowing allows the land to rest, permitting natural vegetation regrowth and nutrient replenishment through decomposition."
+      "answer": 0,
+      "solution": "Fallowing allows the land to rest, permitting natural vegetation regrowth and nutrient replenishment through decomposition.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A quantity of 45 kg N/ha is needed using NPK 15-15-15. What quantity of fertilizer (kg/ha) is required?",
@@ -231,8 +303,10 @@
         "300 kg",
         "450 kg"
       ],
-      "answer": "2",
-      "solution": "Quantity = (45/15) × 100 = 300 kg/ha."
+      "answer": 2,
+      "solution": "Quantity = (45/15) \u00d7 100 = 300 kg/ha.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Soil testing before fertilizer application is important mainly because it",
@@ -242,8 +316,10 @@
         "eliminates the need for crop rotation",
         "guarantees higher rainfall"
       ],
-      "answer": "1",
-      "solution": "Soil testing reveals nutrient status and pH, enabling precise, cost-effective fertilizer recommendations."
+      "answer": 1,
+      "solution": "Soil testing reveals nutrient status and pH, enabling precise, cost-effective fertilizer recommendations.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Continuous use of ammonium-based fertilizers tends to make soil become",
@@ -253,8 +329,426 @@
         "more saline only",
         "unaffected in pH"
       ],
-      "answer": "1",
-      "solution": "Ammonium-based fertilizers release hydrogen ions during nitrification, gradually lowering soil pH (increasing acidity)."
+      "answer": 1,
+      "solution": "Ammonium-based fertilizers release hydrogen ions during nitrification, gradually lowering soil pH (increasing acidity).",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The part of the plant usually attacked by the stem borer is the?",
+      "options": [
+        "Root.",
+        "Leaf.",
+        "Stem.",
+        "Flower."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Stem..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which nutrient is essential for chlorophyll formation?",
+      "options": [
+        "Magnesium.",
+        "Phosphorus.",
+        "Potassium.",
+        "Calcium."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Magnesium..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Protein synthesis nutrient:",
+      "options": [
+        "Nitrogen",
+        "Potassium",
+        "Calcium",
+        "Iron"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Nitrogen.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Limestone nutrient:",
+      "options": [
+        "Calcium",
+        "Nitrogen",
+        "Potassium",
+        "Sulphur"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Calcium.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Nitrogen deficiency in plants causes?",
+      "options": [
+        "Purple leaves.",
+        "Small roots.",
+        "Yellowing of leaves (Chlorosis).",
+        "Fruit drop."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Yellowing of leaves (Chlorosis)..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "An example of a micro-nutrient is?",
+      "options": [
+        "Nitrogen.",
+        "Zinc.",
+        "Phosphorus.",
+        "Potassium."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Zinc..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which nutrient is a \"mobile\" nutrient in plants?",
+      "options": [
+        "Calcium.",
+        "Nitrogen.",
+        "Iron.",
+        "Boron."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Nitrogen..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which fertilizer is most explosive?",
+      "options": [
+        "Urea.",
+        "NPK.",
+        "Ammonium Nitrate.",
+        "Lime."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Ammonium Nitrate..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Nursery is essential for?",
+      "options": [
+        "Maize.",
+        "Yam.",
+        "Cocoa and Tomato.",
+        "Cassava."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Cocoa and Tomato..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Tapeworm is:",
+      "options": [
+        "Endoparasite",
+        "Ectoparasite",
+        "Free living",
+        "Symbiont"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Endoparasite.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Rinderpest affects:",
+      "options": [
+        "Cattle",
+        "Poultry",
+        "Fish",
+        "Bees"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Cattle.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "NAIC deals with:",
+      "options": [
+        "Insurance",
+        "Fertilizer",
+        "Seed",
+        "Export"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Insurance.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Igneous rocks are formed from...",
+      "options": [
+        "Deposition of sediments",
+        "Cooling of molten magma",
+        "High pressure and temperature",
+        "Decay of organic matter"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Cooling of molten magma.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The symbiotic relationship between a fungus and the roots of higher plants is...",
+      "options": [
+        "Nitrogen fixation",
+        "Mycorrhiza",
+        "Nematode infestation",
+        "Rhizobium"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Mycorrhiza.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a forage legume?",
+      "options": [
+        "Maize",
+        "Centrosema",
+        "Guinea grass",
+        "Elephant grass"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Centrosema.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The stomach compartment of a ruminant that is known as the 'true stomach' is the...",
+      "options": [
+        "Rumen",
+        "Reticulum",
+        "Omasum",
+        "Abomasum"
+      ],
+      "answer": 3,
+      "solution": "Past question (JAMB 2024). Correct answer: Abomasum.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The practice of fish farming in ponds is called...",
+      "options": [
+        "Apiculture",
+        "Silviculture",
+        "Aquaculture",
+        "Floriculture"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Aquaculture.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The middleman who buys goods in bulk and sells in smaller quantities to retailers is a...",
+      "options": [
+        "Wholesaler",
+        "Consumer",
+        "Processor",
+        "Agent"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: Wholesaler.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The male bee in a colony is called a...",
+      "options": [
+        "Worker",
+        "Queen",
+        "Drone",
+        "King"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Drone.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The main reason for parboiling rice is to...",
+      "options": [
+        "Increase the size",
+        "Reduce breakage during milling",
+        "Make it cook faster",
+        "Change the color"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Reduce breakage during milling.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Calculated the percentage of Nitrogen in Urea ($$ (NH_2)_2CO $$). (N=14, C=12, O=16, H=1)",
+      "options": [
+        "20%",
+        "46%",
+        "50%",
+        "35%"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: 46%.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Afforestation helps to prevent:",
+      "options": [
+        "Soil erosion",
+        "Plant diseases",
+        "Pest infestation",
+        "Weed growth"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: Soil erosion.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "A castrated male fowl is called a:",
+      "options": [
+        "Bullock",
+        "Capon",
+        "Steer",
+        "Wether"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Capon.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The removal of the tail of a sheep is called:",
+      "options": [
+        "Castration",
+        "Docking",
+        "Dehorning",
+        "Culling"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Docking.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Subsistence farming is characterized by:",
+      "options": [
+        "Use of heavy machinery",
+        "Large scale production",
+        "Use of crude tools",
+        "Export orientation"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: Use of crude tools.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The causal organism of Trypanosomiasis is transmitted by:",
+      "options": [
+        "Tsetse fly",
+        "House fly",
+        "Tick",
+        "Louse"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: Tsetse fly.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Colostrum is important to newborn animals because it provides:",
+      "options": [
+        "Water",
+        "Antibodies",
+        "Roughage",
+        "Hormones"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Antibodies.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a metamorphic rock?",
+      "options": [
+        "Granite",
+        "Marble",
+        "Limestone",
+        "Sandstone"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Marble.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Nematodes primarily attack the:",
+      "options": [
+        "Leaves",
+        "Roots",
+        "Flowers",
+        "Fruits"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Roots.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The process of shedding exoskeleton in insects is:",
+      "options": [
+        "Metamorphosis",
+        "Molting (Ecdysis)",
+        "Incubation",
+        "Hibernation"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Molting (Ecdysis).",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Silage is conserved fodder kept in a:",
+      "options": [
+        "Barn",
+        "Silo",
+        "Crib",
+        "Paddock"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Silo.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The term 'harrowing' refers to:",
+      "options": [
+        "Cutting trees",
+        "Pulverizing soil lumps",
+        "Harvesting",
+        "Watering"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Pulverizing soil lumps.",
+      "source": "JAMB 2025",
+      "practice": false
     }
   ]
 }

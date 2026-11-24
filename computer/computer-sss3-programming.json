@@ -1,0 +1,737 @@
+{
+  "subject": "Computer Studies",
+  "level": "SSS 3",
+  "slug": "programming",
+  "title": "Introduction to Programming",
+  "outline": [
+    "Introduction to Introduction to Programming",
+    "Key facts about Introduction to Programming",
+    "Important terms and examples in Introduction to Programming",
+    "Importance and application of Introduction to Programming",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Introduction to Programming",
+      "html": "<p>Algorithms, flowcharts, and the basics of writing a program. This section covers introduction to introduction to programming.</p><h4>Key points</h4><ul><li>Which of the following is a high-level programming language \u2014 Python.</li><li>In programming, an error is called a: \u2014 Bug.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which of the following is a high-level programming language?<br/><b>A:</b> Python \u2014 Past question (JAMB 2024). Correct answer: Python.</p><p><b>Q:</b> In programming, an error is called a:<br/><b>A:</b> Bug \u2014 Past question (JAMB 2025). Correct answer: Bug.</p><h4>More key points</h4><ul><li>Which of the following is a high-level programming language \u2014 Python.</li><li>In programming, an error is called a: \u2014 Bug.</li></ul>",
+      "examples": [
+        {
+          "q": "Which of the following is a high-level programming language?",
+          "a": "Python"
+        },
+        {
+          "q": "In programming, an error is called a:",
+          "a": "Bug"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Introduction to Programming",
+      "html": "<p>Algorithms, flowcharts, and the basics of writing a program. This section covers key facts about introduction to programming.</p><h4>Key points</h4><ul><li>Which of the following is a high-level programming language \u2014 Python.</li><li>In programming, an error is called a: \u2014 Bug.</li><li>Which key captures the screen \u2014 Print Screen.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which of the following is a high-level programming language?<br/><b>A:</b> Python \u2014 Past question (JAMB 2024). Correct answer: Python.</p><p><b>Q:</b> In programming, an error is called a:<br/><b>A:</b> Bug \u2014 Past question (JAMB 2025). Correct answer: Bug.</p><h4>More key points</h4><ul><li>Which of the following is a high-level programming language \u2014 Python.</li><li>In programming, an error is called a: \u2014 Bug.</li><li>Which key captures the screen \u2014 Print Screen.</li></ul>",
+      "examples": [
+        {
+          "q": "Which of the following is a high-level programming language?",
+          "a": "Python"
+        },
+        {
+          "q": "In programming, an error is called a:",
+          "a": "Bug"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Introduction to Programming",
+      "html": "<p>Algorithms, flowcharts, and the basics of writing a program. This section covers important terms and examples in introduction to programming.</p><h4>Key points</h4><ul><li>Which of the following is a high-level programming language \u2014 Python.</li><li>In programming, an error is called a: \u2014 Bug.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which of the following is a high-level programming language?<br/><b>A:</b> Python \u2014 Past question (JAMB 2024). Correct answer: Python.</p><p><b>Q:</b> In programming, an error is called a:<br/><b>A:</b> Bug \u2014 Past question (JAMB 2025). Correct answer: Bug.</p><h4>More key points</h4><ul><li>Which of the following is a high-level programming language \u2014 Python.</li><li>In programming, an error is called a: \u2014 Bug.</li></ul>",
+      "examples": [
+        {
+          "q": "Which of the following is a high-level programming language?",
+          "a": "Python"
+        },
+        {
+          "q": "In programming, an error is called a:",
+          "a": "Bug"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Introduction to Programming",
+      "html": "<p>Algorithms, flowcharts, and the basics of writing a program. This section covers importance and application of introduction to programming.</p><h4>Key points</h4><ul><li>Which of the following is a high-level programming language \u2014 Python.</li><li>In programming, an error is called a: \u2014 Bug.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which of the following is a high-level programming language?<br/><b>A:</b> Python \u2014 Past question (JAMB 2024). Correct answer: Python.</p><p><b>Q:</b> In programming, an error is called a:<br/><b>A:</b> Bug \u2014 Past question (JAMB 2025). Correct answer: Bug.</p><h4>More key points</h4><ul><li>Which of the following is a high-level programming language \u2014 Python.</li><li>In programming, an error is called a: \u2014 Bug.</li></ul>",
+      "examples": [
+        {
+          "q": "Which of the following is a high-level programming language?",
+          "a": "Python"
+        },
+        {
+          "q": "In programming, an error is called a:",
+          "a": "Bug"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Algorithms, flowcharts, and the basics of writing a program. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>Which of the following is a high-level programming language \u2014 Python.</li><li>In programming, an error is called a: \u2014 Bug.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which of the following is a high-level programming language?<br/><b>A:</b> Python \u2014 Past question (JAMB 2024). Correct answer: Python.</p><p><b>Q:</b> In programming, an error is called a:<br/><b>A:</b> Bug \u2014 Past question (JAMB 2025). Correct answer: Bug.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is a high-level programming language?",
+          "a": "Python"
+        },
+        {
+          "q": "In programming, an error is called a:",
+          "a": "Bug"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which of the following is a high-level programming language?",
+      "options": [
+        "Machine Language",
+        "Assembly Language",
+        "Python",
+        "Binary"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Python.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "In programming, an error is called a:",
+      "options": [
+        "Insect",
+        "Bug",
+        "Fault",
+        "Mistake"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Bug.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Which key captures the screen?",
+      "options": [
+        "Shift",
+        "Print Screen",
+        "Esc",
+        "Tab"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Print Screen.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "A collection of 8 bits is known as a _____.",
+      "options": [
+        "Nibble",
+        "Byte",
+        "Word",
+        "Kilobyte"
+      ],
+      "answer": 1,
+      "solution": "A byte is a unit of data that is eight binary digits long. A nibble is 4 bits.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "HTTP stands for _____.",
+      "options": [
+        "Hypertext Transfer Protocol",
+        "Hyperlink Text Technical Program",
+        "High Tech Transfer Protocol",
+        "Hypertext Total Process"
+      ],
+      "answer": 0,
+      "solution": "HTTP is the standard protocol used to transfer data over the World Wide Web.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The software that translates high-level code into machine code line by line is a/an _____.",
+      "options": [
+        "Compiler",
+        "Interpreter",
+        "Assembler",
+        "Linker"
+      ],
+      "answer": 1,
+      "solution": "An interpreter translates and executes code one statement at a time, whereas a compiler translates the whole program at once.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The most widely used input device on a laptop is a _____.",
+      "options": [
+        "Joystick",
+        "Touchpad",
+        "Light pen",
+        "Trackball"
+      ],
+      "answer": 1,
+      "solution": "A touchpad is a pointing device featuring a tactile sensor that translates the motion and position of a user's fingers.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "WWW stands for _____.",
+      "options": [
+        "World Wide Web",
+        "Web Wide World",
+        "Work Wide Web",
+        "Word Wide Web"
+      ],
+      "answer": 0,
+      "solution": "The World Wide Web is an information system where documents are identified by URLs.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "What is the primary function of an Assembler?",
+      "options": [
+        "Convert high-level language to machine code",
+        "Convert assembly language to machine code",
+        "Execute code line by line",
+        "Design web pages"
+      ],
+      "answer": 1,
+      "solution": "Assemblers are translators for low-level assembly language programs.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The binary equivalent of 10 is:",
+      "options": [
+        "1010",
+        "1001",
+        "1100",
+        "1110"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 1010.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "ALU stands for:",
+      "options": [
+        "Arithmetic Logic Unit",
+        "All Logic Unit",
+        "Access Logic Unit",
+        "Arithmetic Local Unit"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Arithmetic Logic Unit.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Email means:",
+      "options": [
+        "Electronic Mail",
+        "Electric Mail",
+        "Engine Mail",
+        "Easy Mail"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Electronic Mail.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "1 GB equals:",
+      "options": [
+        "1024 MB",
+        "1000 MB",
+        "100 MB",
+        "1024 KB"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 1024 MB.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Ctrl + C is used for:",
+      "options": [
+        "Cut",
+        "Copy",
+        "Paste",
+        "Undo"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Copy.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a spreadsheet program?",
+      "options": [
+        "MS Word",
+        "MS Excel",
+        "PowerPoint",
+        "Access"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: MS Excel.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "1 KB equals:",
+      "options": [
+        "1024 bytes",
+        "1000 bytes",
+        "100 bytes",
+        "8 bytes"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: 1024 bytes.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Second generation used:",
+      "options": [
+        "Transistors",
+        "Vacuum Tubes",
+        "IC",
+        "AI"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Transistors.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Permanent storage:",
+      "options": [
+        "Hard Disk",
+        "RAM",
+        "Register",
+        "Cache"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Hard Disk.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The first generation of computers used which of the following technologies?",
+      "options": [
+        "Transistors",
+        "Integrated Circuits",
+        "Vacuum Tubes",
+        "Microprocessors"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Vacuum Tubes.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A collection of related web pages identified by a common domain name is a...",
+      "options": [
+        "Browser",
+        "Website",
+        "Search Engine",
+        "Hyperlink"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Website.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A 'bit' is a contraction of...",
+      "options": [
+        "Binary digit",
+        "Binary unit",
+        "Big digit",
+        "Basic information tool"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: Binary digit.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The blinking symbol on the screen is called:",
+      "options": [
+        "Pointer",
+        "Cursor",
+        "Icon",
+        "Menu"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Cursor.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Booting is the process of:",
+      "options": [
+        "Shutting down",
+        "Starting the computer",
+        "Saving data",
+        "Formatting"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Starting the computer.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "LAN:",
+      "options": [
+        "Local Area Network",
+        "Large",
+        "Long",
+        "Land"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Local Area Network.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "AND Gate:",
+      "options": [
+        "Both 1 -> 1",
+        "One 1 -> 1",
+        "Both 0 -> 1",
+        "Any 0 -> 1"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Both 1 -> 1.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "HTML:",
+      "options": [
+        "Web Design",
+        "Calc",
+        "DB",
+        "OS"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Web Design.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Fastest Mem:",
+      "options": [
+        "Cache",
+        "RAM",
+        "HDD",
+        "USB"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Cache.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "First generation computers used:",
+      "options": [
+        "Vacuum Tubes",
+        "Transistors",
+        "IC",
+        "Microprocessors"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Vacuum Tubes.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Spreadsheet rows are labeled with:",
+      "options": [
+        "Numbers",
+        "Letters",
+        "Symbols",
+        "Colors"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Numbers.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Introduction to Programming in Introduction to Programming?",
+      "options": [
+        "Which component performs calculations \u2014 ALU.",
+        "NOT Gate: \u2014 Invert.",
+        "Which of the following is a high-level programming language \u2014 Python.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem."
+      ],
+      "answer": 2,
+      "solution": "Which of the following is a high-level programming language \u2014 Python.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Introduction to Programming in Introduction to Programming?",
+      "options": [
+        "Which of the following is a high-level programming language \u2014 Python.",
+        "NOT Gate: \u2014 Invert.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "Which component performs calculations \u2014 ALU."
+      ],
+      "answer": 0,
+      "solution": "Which of the following is a high-level programming language \u2014 Python.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Introduction to Programming in Introduction to Programming?",
+      "options": [
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "Which of the following is a high-level programming language \u2014 Python.",
+        "NOT Gate: \u2014 Invert.",
+        "Which component performs calculations \u2014 ALU."
+      ],
+      "answer": 1,
+      "solution": "Which of the following is a high-level programming language \u2014 Python.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Introduction to Programming in Introduction to Programming?",
+      "options": [
+        "NOT Gate: \u2014 Invert.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "Which of the following is a high-level programming language \u2014 Python.",
+        "Which component performs calculations \u2014 ALU."
+      ],
+      "answer": 2,
+      "solution": "Which of the following is a high-level programming language \u2014 Python.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Introduction to Programming?",
+      "options": [
+        "Which component performs calculations \u2014 ALU.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "NOT Gate: \u2014 Invert.",
+        "Which of the following is a high-level programming language \u2014 Python."
+      ],
+      "answer": 3,
+      "solution": "Which of the following is a high-level programming language \u2014 Python.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'following'?",
+      "options": [
+        "Which of the following is a high-level programming language \u2014 Python.",
+        "NOT Gate: \u2014 Invert.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "Which component performs calculations \u2014 ALU."
+      ],
+      "answer": 0,
+      "solution": "Which of the following is a high-level programming language \u2014 Python.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'error'?",
+      "options": [
+        "In programming, an error is called a: \u2014 Bug.",
+        "NOT Gate: \u2014 Invert.",
+        "Which component performs calculations \u2014 ALU.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem."
+      ],
+      "answer": 0,
+      "solution": "In programming, an error is called a: \u2014 Bug.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'key'?",
+      "options": [
+        "NOT Gate: \u2014 Invert.",
+        "Which component performs calculations \u2014 ALU.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "Which key captures the screen \u2014 Print Screen."
+      ],
+      "answer": 3,
+      "solution": "Which key captures the screen \u2014 Print Screen.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'collection'?",
+      "options": [
+        "A collection of 8 bits is known as a _____. \u2014 Byte.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "Which component performs calculations \u2014 ALU.",
+        "NOT Gate: \u2014 Invert."
+      ],
+      "answer": 0,
+      "solution": "A collection of 8 bits is known as a _____. \u2014 Byte.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'http'?",
+      "options": [
+        "NOT Gate: \u2014 Invert.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "Which component performs calculations \u2014 ALU.",
+        "HTTP stands for _____. \u2014 Hypertext Transfer Protocol."
+      ],
+      "answer": 3,
+      "solution": "HTTP stands for _____. \u2014 Hypertext Transfer Protocol.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'software'?",
+      "options": [
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "NOT Gate: \u2014 Invert.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter.",
+        "Which component performs calculations \u2014 ALU."
+      ],
+      "answer": 2,
+      "solution": "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'widely'?",
+      "options": [
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "NOT Gate: \u2014 Invert.",
+        "The most widely used input device on a laptop is a _____. \u2014 Touchpad.",
+        "Which component performs calculations \u2014 ALU."
+      ],
+      "answer": 2,
+      "solution": "The most widely used input device on a laptop is a _____. \u2014 Touchpad.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'www'?",
+      "options": [
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "NOT Gate: \u2014 Invert.",
+        "Which component performs calculations \u2014 ALU.",
+        "WWW stands for _____. \u2014 World Wide Web."
+      ],
+      "answer": 3,
+      "solution": "WWW stands for _____. \u2014 World Wide Web.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'primary'?",
+      "options": [
+        "NOT Gate: \u2014 Invert.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "Which component performs calculations \u2014 ALU.",
+        "What is the primary function of an Assembler \u2014 Convert assembly language to machine code."
+      ],
+      "answer": 3,
+      "solution": "What is the primary function of an Assembler \u2014 Convert assembly language to machine code.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'binary'?",
+      "options": [
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "The binary equivalent of 10 is: \u2014 1010.",
+        "NOT Gate: \u2014 Invert.",
+        "Which component performs calculations \u2014 ALU."
+      ],
+      "answer": 1,
+      "solution": "The binary equivalent of 10 is: \u2014 1010.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'alu'?",
+      "options": [
+        "In a spreadsheet, the intersection of a row and a column is called a... \u2014 Cell.",
+        "NOT Gate: \u2014 Invert.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "ALU stands for: \u2014 Arithmetic Logic Unit."
+      ],
+      "answer": 3,
+      "solution": "ALU stands for: \u2014 Arithmetic Logic Unit.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'email'?",
+      "options": [
+        "Email means: \u2014 Electronic Mail.",
+        "NOT Gate: \u2014 Invert.",
+        "Which component performs calculations \u2014 ALU.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem."
+      ],
+      "answer": 0,
+      "solution": "Email means: \u2014 Electronic Mail.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'equals'?",
+      "options": [
+        "Which component performs calculations \u2014 ALU.",
+        "1 GB equals: \u2014 1024 MB.",
+        "NOT Gate: \u2014 Invert.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem."
+      ],
+      "answer": 1,
+      "solution": "1 GB equals: \u2014 1024 MB.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'ctrl'?",
+      "options": [
+        "Ctrl + C is used for: \u2014 Copy.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "NOT Gate: \u2014 Invert.",
+        "Which component performs calculations \u2014 ALU."
+      ],
+      "answer": 0,
+      "solution": "Ctrl + C is used for: \u2014 Copy.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'spreadsheet'?",
+      "options": [
+        "NOT Gate: \u2014 Invert.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "Which component performs calculations \u2014 ALU."
+      ],
+      "answer": 2,
+      "solution": "Which of these is a spreadsheet program \u2014 MS Excel.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Programming \u2014 'generation'?",
+      "options": [
+        "NOT Gate: \u2014 Invert.",
+        "Which device converts digital signals to analog for telephone lines \u2014 Modem.",
+        "Second generation used: \u2014 Transistors.",
+        "Which component performs calculations \u2014 ALU."
+      ],
+      "answer": 2,
+      "solution": "Second generation used: \u2014 Transistors.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

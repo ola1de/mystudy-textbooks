@@ -1,227 +1,754 @@
 {
- "subject": "Agricultural Science",
- "level": "SSS 1",
- "slug": "soil-formation-profile",
- "title": "Soil Formation and Soil Profile",
- "outline": [
-  "Meaning of soil and pedogenesis",
-  "Factors of soil formation: parent material, climate, organisms, relief, time",
-  "Types of weathering: physical, chemical, biological",
-  "Meaning and importance of soil profile",
-  "Description of soil horizons (O, A, E, B, C, R)",
-  "Soil texture and structure",
-  "Bulk density, particle density and porosity",
-  "Agricultural significance of soil profile properties"
- ],
- "modules": [
-  {
-   "title": "Soil Formation (Pedogenesis)",
-   "html": "<h4>Meaning of Soil</h4>\n<p>Soil is the loose, unconsolidated top layer of the earth's crust composed of weathered rock materials (minerals), organic matter, water, air and living organisms, which supports plant growth. The study of soil formation is called pedogenesis.</p>\n<h4>Factors of Soil Formation</h4>\n<p>Soil formation is influenced by five major factors, often summarised as: $$Soil = f(Parent\\ material, Climate, Organisms, Relief, Time)$$</p>\n<ul>\n<li><strong>Parent material:</strong> the rock or deposited material from which soil is formed; determines initial mineral composition and texture.</li>\n<li><strong>Climate:</strong> temperature and rainfall control the rate of weathering; hot, wet climates like Nigeria's rainforest zone favour rapid chemical weathering.</li>\n<li><strong>Organisms (living things):</strong> plants, animals and microorganisms contribute organic matter, aid nutrient cycling and mix soil layers (bioturbation).</li>\n<li><strong>Relief (topography):</strong> slope and elevation affect drainage, erosion and soil depth; steep slopes tend to have thinner soils due to erosion.</li>\n<li><strong>Time:</strong> the duration over which weathering and soil development processes have acted; older soils are generally more developed and weathered.</li>\n</ul>\n<h4>Weathering: The First Stage of Soil Formation</h4>\n<ol>\n<li><strong>Physical (mechanical) weathering:</strong> breakdown of rocks into smaller particles without chemical change, caused by temperature fluctuation, frost action, and abrasion by wind or water.</li>\n<li><strong>Chemical weathering:</strong> decomposition of rock minerals through reactions such as hydrolysis, oxidation, carbonation and hydration, common in Nigeria's humid tropical climate.</li>\n<li><strong>Biological weathering:</strong> breakdown of rocks by the action of living organisms, e.g. plant roots penetrating cracks and burrowing animals.</li>\n</ol>\n<h4>Processes Following Weathering</h4>\n<p>After weathering produces regolith (loose rock fragments), further processes such as humification (formation of humus from decomposed organic matter), leaching (downward movement of soluble materials) and translocation of clay contribute to full soil development into distinct horizons.</p>\n<table class=\"tb-table\"><tr><th>Weathering Type</th><th>Agent/Process</th><th>Example</th></tr>\n<tr><td>Physical</td><td>Temperature change</td><td>Exfoliation of granite</td></tr>\n<tr><td>Chemical</td><td>Hydrolysis, oxidation</td><td>Rusting of iron minerals</td></tr>\n<tr><td>Biological</td><td>Root action</td><td>Root wedging in rock cracks</td></tr>\n</table>\n<p>The rate of weathering in tropical Nigeria is generally higher than in temperate regions because high temperature and rainfall accelerate both chemical and biological weathering processes.</p>",
-   "examples": [
+  "subject": "Agricultural Science",
+  "level": "SSS 1",
+  "slug": "soil-formation-profile",
+  "title": "Soil Formation and Soil Profile",
+  "outline": [
+    "Meaning of soil and pedogenesis",
+    "Factors of soil formation: parent material, climate, organisms, relief, time",
+    "Types of weathering: physical, chemical, biological",
+    "Meaning and importance of soil profile",
+    "Description of soil horizons (O, A, E, B, C, R)",
+    "Soil texture and structure",
+    "Bulk density, particle density and porosity",
+    "Agricultural significance of soil profile properties"
+  ],
+  "modules": [
     {
-     "q": "Explain why soils in Nigeria's rainforest zone are generally more deeply weathered than soils in temperate regions.",
-     "a": "Nigeria's rainforest zone has high rainfall and high temperature throughout most of the year. These climatic conditions accelerate chemical weathering reactions (hydrolysis, oxidation) and support abundant biological activity (roots, microorganisms), both of which occur much more slowly in cooler, drier temperate climates. Consequently, over time this leads to deeper and more intensely weathered soils in the rainforest zone."
+      "title": "Soil Formation (Pedogenesis)",
+      "html": "<h4>Meaning of Soil</h4>\n<p>Soil is the loose, unconsolidated top layer of the earth's crust composed of weathered rock materials (minerals), organic matter, water, air and living organisms, which supports plant growth. The study of soil formation is called pedogenesis.</p>\n<h4>Factors of Soil Formation</h4>\n<p>Soil formation is influenced by five major factors, often summarised as: $$Soil = f(Parent\\ material, Climate, Organisms, Relief, Time)$$</p>\n<ul>\n<li><strong>Parent material:</strong> the rock or deposited material from which soil is formed; determines initial mineral composition and texture.</li>\n<li><strong>Climate:</strong> temperature and rainfall control the rate of weathering; hot, wet climates like Nigeria's rainforest zone favour rapid chemical weathering.</li>\n<li><strong>Organisms (living things):</strong> plants, animals and microorganisms contribute organic matter, aid nutrient cycling and mix soil layers (bioturbation).</li>\n<li><strong>Relief (topography):</strong> slope and elevation affect drainage, erosion and soil depth; steep slopes tend to have thinner soils due to erosion.</li>\n<li><strong>Time:</strong> the duration over which weathering and soil development processes have acted; older soils are generally more developed and weathered.</li>\n</ul>\n<h4>Weathering: The First Stage of Soil Formation</h4>\n<ol>\n<li><strong>Physical (mechanical) weathering:</strong> breakdown of rocks into smaller particles without chemical change, caused by temperature fluctuation, frost action, and abrasion by wind or water.</li>\n<li><strong>Chemical weathering:</strong> decomposition of rock minerals through reactions such as hydrolysis, oxidation, carbonation and hydration, common in Nigeria's humid tropical climate.</li>\n<li><strong>Biological weathering:</strong> breakdown of rocks by the action of living organisms, e.g. plant roots penetrating cracks and burrowing animals.</li>\n</ol>\n<h4>Processes Following Weathering</h4>\n<p>After weathering produces regolith (loose rock fragments), further processes such as humification (formation of humus from decomposed organic matter), leaching (downward movement of soluble materials) and translocation of clay contribute to full soil development into distinct horizons.</p>\n<table class=\"tb-table\"><tr><th>Weathering Type</th><th>Agent/Process</th><th>Example</th></tr>\n<tr><td>Physical</td><td>Temperature change</td><td>Exfoliation of granite</td></tr>\n<tr><td>Chemical</td><td>Hydrolysis, oxidation</td><td>Rusting of iron minerals</td></tr>\n<tr><td>Biological</td><td>Root action</td><td>Root wedging in rock cracks</td></tr>\n</table>\n<p>The rate of weathering in tropical Nigeria is generally higher than in temperate regions because high temperature and rainfall accelerate both chemical and biological weathering processes.</p>",
+      "examples": [
+        {
+          "q": "Explain why soils in Nigeria's rainforest zone are generally more deeply weathered than soils in temperate regions.",
+          "a": "Nigeria's rainforest zone has high rainfall and high temperature throughout most of the year. These climatic conditions accelerate chemical weathering reactions (hydrolysis, oxidation) and support abundant biological activity (roots, microorganisms), both of which occur much more slowly in cooler, drier temperate climates. Consequently, over time this leads to deeper and more intensely weathered soils in the rainforest zone."
+        },
+        {
+          "q": "Differentiate between physical and chemical weathering, giving one example of each.",
+          "a": "Physical weathering is the mechanical breakdown of rock into smaller fragments without any change in chemical composition, e.g. exfoliation of granite due to alternating heating and cooling. Chemical weathering involves a change in the chemical composition of rock minerals through reactions such as oxidation, e.g. the rusting (oxidation) of iron-bearing minerals in rock to form iron oxide."
+        }
+      ]
     },
     {
-     "q": "Differentiate between physical and chemical weathering, giving one example of each.",
-     "a": "Physical weathering is the mechanical breakdown of rock into smaller fragments without any change in chemical composition, e.g. exfoliation of granite due to alternating heating and cooling. Chemical weathering involves a change in the chemical composition of rock minerals through reactions such as oxidation, e.g. the rusting (oxidation) of iron-bearing minerals in rock to form iron oxide."
-    }
-   ]
-  },
-  {
-   "title": "Soil Profile and Soil Horizons",
-   "html": "<h4>Meaning of Soil Profile</h4>\n<p>A soil profile is a vertical section or cross-section of soil from the surface down to the unweathered parent rock, showing a sequence of distinct layers called horizons. Studying the soil profile helps agriculturists understand soil fertility, drainage and suitability for various crops.</p>\n<h4>The Major Soil Horizons</h4>\n<ul>\n<li><strong>O horizon (organic layer):</strong> the topmost layer composed of fresh and decomposing organic matter such as leaf litter.</li>\n<li><strong>A horizon (topsoil):</strong> dark-coloured layer rich in humus and organic matter, most fertile and biologically active; where most plant roots and soil organisms are concentrated.</li>\n<li><strong>E horizon (eluviation layer):</strong> a zone (not always distinct in tropical soils) where clay, minerals and organic matter are leached downward.</li>\n<li><strong>B horizon (subsoil):</strong> a zone of accumulation (illuviation) where materials leached from above (clay, iron and aluminium oxides) are deposited; generally less fertile, more compact, with less organic matter.</li>\n<li><strong>C horizon (regolith/parent material):</strong> partially weathered parent rock material from which the soil above developed.</li>\n<li><strong>R horizon (bedrock):</strong> the unweathered solid rock underlying the soil profile.</li>\n</ul>\n<h4>Characteristics Distinguishing the Horizons</h4>\n<table class=\"tb-table\"><tr><th>Horizon</th><th>Colour</th><th>Organic Matter</th><th>Texture/Structure</th></tr>\n<tr><td>A (Topsoil)</td><td>Dark brown/black</td><td>High</td><td>Loose, granular</td></tr>\n<tr><td>B (Subsoil)</td><td>Reddish/yellowish brown</td><td>Low</td><td>Compact, blocky</td></tr>\n<tr><td>C (Parent material)</td><td>Variable, rock-like</td><td>Very low/none</td><td>Partially weathered rock</td></tr>\n</table>\n<h4>Depth Measurements in Soil Profile Study</h4>\n<p>Soil scientists dig a soil pit (profile pit) and measure the thickness of each horizon from the surface downward. If the depth to the top of horizon B is \\(d_A\\) and the depth to the top of horizon C is \\(d_B\\), then the thickness of horizon B, \\(T_B\\), is given by: $$T_B = d_B - d_A$$</p>\n<p>Total soil depth is important agriculturally because it determines the volume of soil available for root penetration and the amount of water and nutrients the soil can hold for crop use.</p>",
-   "examples": [
-    {
-     "q": "In a soil profile pit, horizon A extends from 0 cm to 25 cm, and horizon B extends from 25 cm to 70 cm. Calculate the thickness of horizon B.",
-     "a": "Using \\(T_B = d_B - d_A\\), where \\(d_A = 25\\,cm\\) (depth to top of B) and \\(d_B = 70\\,cm\\) (depth to top of C): \\(T_B = 70 - 25 = 45\\,cm\\). Horizon B (the subsoil) is 45 cm thick."
+      "title": "Soil Profile and Soil Horizons",
+      "html": "<h4>Meaning of Soil Profile</h4>\n<p>A soil profile is a vertical section or cross-section of soil from the surface down to the unweathered parent rock, showing a sequence of distinct layers called horizons. Studying the soil profile helps agriculturists understand soil fertility, drainage and suitability for various crops.</p>\n<h4>The Major Soil Horizons</h4>\n<ul>\n<li><strong>O horizon (organic layer):</strong> the topmost layer composed of fresh and decomposing organic matter such as leaf litter.</li>\n<li><strong>A horizon (topsoil):</strong> dark-coloured layer rich in humus and organic matter, most fertile and biologically active; where most plant roots and soil organisms are concentrated.</li>\n<li><strong>E horizon (eluviation layer):</strong> a zone (not always distinct in tropical soils) where clay, minerals and organic matter are leached downward.</li>\n<li><strong>B horizon (subsoil):</strong> a zone of accumulation (illuviation) where materials leached from above (clay, iron and aluminium oxides) are deposited; generally less fertile, more compact, with less organic matter.</li>\n<li><strong>C horizon (regolith/parent material):</strong> partially weathered parent rock material from which the soil above developed.</li>\n<li><strong>R horizon (bedrock):</strong> the unweathered solid rock underlying the soil profile.</li>\n</ul>\n<h4>Characteristics Distinguishing the Horizons</h4>\n<table class=\"tb-table\"><tr><th>Horizon</th><th>Colour</th><th>Organic Matter</th><th>Texture/Structure</th></tr>\n<tr><td>A (Topsoil)</td><td>Dark brown/black</td><td>High</td><td>Loose, granular</td></tr>\n<tr><td>B (Subsoil)</td><td>Reddish/yellowish brown</td><td>Low</td><td>Compact, blocky</td></tr>\n<tr><td>C (Parent material)</td><td>Variable, rock-like</td><td>Very low/none</td><td>Partially weathered rock</td></tr>\n</table>\n<h4>Depth Measurements in Soil Profile Study</h4>\n<p>Soil scientists dig a soil pit (profile pit) and measure the thickness of each horizon from the surface downward. If the depth to the top of horizon B is \\(d_A\\) and the depth to the top of horizon C is \\(d_B\\), then the thickness of horizon B, \\(T_B\\), is given by: $$T_B = d_B - d_A$$</p>\n<p>Total soil depth is important agriculturally because it determines the volume of soil available for root penetration and the amount of water and nutrients the soil can hold for crop use.</p>",
+      "examples": [
+        {
+          "q": "In a soil profile pit, horizon A extends from 0 cm to 25 cm, and horizon B extends from 25 cm to 70 cm. Calculate the thickness of horizon B.",
+          "a": "Using \\(T_B = d_B - d_A\\), where \\(d_A = 25\\,cm\\) (depth to top of B) and \\(d_B = 70\\,cm\\) (depth to top of C): \\(T_B = 70 - 25 = 45\\,cm\\). Horizon B (the subsoil) is 45 cm thick."
+        },
+        {
+          "q": "Explain why the A horizon (topsoil) is generally more fertile than the B horizon (subsoil).",
+          "a": "The A horizon is more fertile because it contains a higher concentration of organic matter (humus) derived from decomposed plant and animal residues, supports greater biological activity from soil organisms that release nutrients, and has a loose, granular structure that favours root penetration, aeration and water infiltration, unlike the compact, organic-matter-poor B horizon where materials are mainly deposited by leaching from above."
+        }
+      ]
     },
     {
-     "q": "Explain why the A horizon (topsoil) is generally more fertile than the B horizon (subsoil).",
-     "a": "The A horizon is more fertile because it contains a higher concentration of organic matter (humus) derived from decomposed plant and animal residues, supports greater biological activity from soil organisms that release nutrients, and has a loose, granular structure that favours root penetration, aeration and water infiltration, unlike the compact, organic-matter-poor B horizon where materials are mainly deposited by leaching from above."
-    }
-   ]
-  },
-  {
-   "title": "Physical Properties of Soil Related to Formation and Profile",
-   "html": "<h4>Soil Texture</h4>\n<p>Soil texture refers to the relative proportion of sand, silt and clay particles in a soil, and is determined largely by the parent material and degree of weathering. Texture affects water-holding capacity, aeration, drainage and nutrient retention. Soils are classified using the textural triangle into classes such as sandy, loamy and clayey soils.</p>\n<h4>Soil Structure</h4>\n<p>Soil structure describes the arrangement of soil particles into aggregates called peds. Common structural types include granular (common in fertile topsoil), blocky (common in subsoil), platy and columnar structures. Good granular structure improves aeration, root penetration and water infiltration.</p>\n<h4>Soil Bulk Density and Porosity</h4>\n<p>Bulk density is a key physical property that varies across soil horizons and reflects compaction and organic matter content. It is defined as: $$\\rho_b = \\frac{M_s}{V_t}$$ where \\(M_s\\) is the mass of oven-dried soil solids and \\(V_t\\) is the total volume of the soil sample (including pore spaces). Topsoil (A horizon) typically has a lower bulk density than compacted subsoil (B horizon) due to higher organic matter content and looser structure.</p>\n<p>Total porosity, \\(f\\), the fraction of soil volume occupied by pore spaces, is related to bulk density and particle density, \\(\\rho_p\\) (commonly taken as 2.65 g/cm³ for mineral soils), by: $$f = \\left(1 - \\frac{\\rho_b}{\\rho_p}\\right) \\times 100\\%$$</p>\n<h4>Significance of Physical Properties in Agriculture</h4>\n<ol>\n<li>Soils with lower bulk density and higher porosity allow better root penetration, aeration and water infiltration, favouring crop growth.</li>\n<li>Heavily compacted subsoils (high bulk density) restrict root growth and drainage, often limiting crop yield.</li>\n<li>Understanding the texture and structure of each horizon helps farmers decide tillage methods and depth of ploughing.</li>\n</ol>\n<table class=\"tb-table\"><tr><th>Property</th><th>Topsoil (A)</th><th>Subsoil (B)</th></tr>\n<tr><td>Bulk density</td><td>Lower (~1.1-1.3 g/cm³)</td><td>Higher (~1.4-1.6 g/cm³)</td></tr>\n<tr><td>Organic matter</td><td>High</td><td>Low</td></tr>\n<tr><td>Structure</td><td>Granular</td><td>Blocky/compact</td></tr>\n</table>\n<p>Field measurement of bulk density typically uses the core sampling method, where a known volume of undisturbed soil is extracted, oven-dried and weighed to compute \\(\\rho_b\\).</p>",
-   "examples": [
-    {
-     "q": "A core sample of topsoil has a volume of 100 cm³ and an oven-dry mass of 125 g. Calculate the bulk density of the soil.",
-     "a": "Using \\(\\rho_b = M_s/V_t\\): \\(\\rho_b = 125\\,g / 100\\,cm^3 = 1.25\\,g/cm^3\\). This is a typical bulk density for a well-structured, organic-matter-rich topsoil."
+      "title": "Physical Properties of Soil Related to Formation and Profile",
+      "html": "<h4>Soil Texture</h4>\n<p>Soil texture refers to the relative proportion of sand, silt and clay particles in a soil, and is determined largely by the parent material and degree of weathering. Texture affects water-holding capacity, aeration, drainage and nutrient retention. Soils are classified using the textural triangle into classes such as sandy, loamy and clayey soils.</p>\n<h4>Soil Structure</h4>\n<p>Soil structure describes the arrangement of soil particles into aggregates called peds. Common structural types include granular (common in fertile topsoil), blocky (common in subsoil), platy and columnar structures. Good granular structure improves aeration, root penetration and water infiltration.</p>\n<h4>Soil Bulk Density and Porosity</h4>\n<p>Bulk density is a key physical property that varies across soil horizons and reflects compaction and organic matter content. It is defined as: $$\\rho_b = \\frac{M_s}{V_t}$$ where \\(M_s\\) is the mass of oven-dried soil solids and \\(V_t\\) is the total volume of the soil sample (including pore spaces). Topsoil (A horizon) typically has a lower bulk density than compacted subsoil (B horizon) due to higher organic matter content and looser structure.</p>\n<p>Total porosity, \\(f\\), the fraction of soil volume occupied by pore spaces, is related to bulk density and particle density, \\(\\rho_p\\) (commonly taken as 2.65 g/cm\u00b3 for mineral soils), by: $$f = \\left(1 - \\frac{\\rho_b}{\\rho_p}\\right) \\times 100\\%$$</p>\n<h4>Significance of Physical Properties in Agriculture</h4>\n<ol>\n<li>Soils with lower bulk density and higher porosity allow better root penetration, aeration and water infiltration, favouring crop growth.</li>\n<li>Heavily compacted subsoils (high bulk density) restrict root growth and drainage, often limiting crop yield.</li>\n<li>Understanding the texture and structure of each horizon helps farmers decide tillage methods and depth of ploughing.</li>\n</ol>\n<table class=\"tb-table\"><tr><th>Property</th><th>Topsoil (A)</th><th>Subsoil (B)</th></tr>\n<tr><td>Bulk density</td><td>Lower (~1.1-1.3 g/cm\u00b3)</td><td>Higher (~1.4-1.6 g/cm\u00b3)</td></tr>\n<tr><td>Organic matter</td><td>High</td><td>Low</td></tr>\n<tr><td>Structure</td><td>Granular</td><td>Blocky/compact</td></tr>\n</table>\n<p>Field measurement of bulk density typically uses the core sampling method, where a known volume of undisturbed soil is extracted, oven-dried and weighed to compute \\(\\rho_b\\).</p>",
+      "examples": [
+        {
+          "q": "A core sample of topsoil has a volume of 100 cm\u00b3 and an oven-dry mass of 125 g. Calculate the bulk density of the soil.",
+          "a": "Using \\(\\rho_b = M_s/V_t\\): \\(\\rho_b = 125\\,g / 100\\,cm^3 = 1.25\\,g/cm^3\\). This is a typical bulk density for a well-structured, organic-matter-rich topsoil."
+        },
+        {
+          "q": "Using a bulk density of 1.325 g/cm\u00b3 and particle density of 2.65 g/cm\u00b3, calculate the total porosity of the soil sample.",
+          "a": "Using \\(f = (1 - \\rho_b/\\rho_p)\\times 100\\%\\): \\(f = (1 - 1.325/2.65)\\times 100\\% = (1 - 0.5)\\times 100\\% = 50\\%\\). The soil has a total porosity of 50%, meaning half its volume is occupied by pore spaces (air and water)."
+        }
+      ]
     },
     {
-     "q": "Using a bulk density of 1.325 g/cm³ and particle density of 2.65 g/cm³, calculate the total porosity of the soil sample.",
-     "a": "Using \\(f = (1 - \\rho_b/\\rho_p)\\times 100\\%\\): \\(f = (1 - 1.325/2.65)\\times 100\\% = (1 - 0.5)\\times 100\\% = 50\\%\\). The soil has a total porosity of 50%, meaning half its volume is occupied by pore spaces (air and water)."
+      "title": "Factors of soil formation: parent material, climate, organisms, relief, time",
+      "html": "<p><b>Factors of soil formation: parent material, climate, organisms, relief, time</b> is a key part of Soil Formation and Soil Profile (SSS 1, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning of Soil Soil is the loose, unconsolidated top layer of the earth's crust composed of weathered rock materials (minerals), organic matter, water, air and living organisms, which supports plant growth.</li><li>The study of soil formation is called pedogenesis.</li><li>Factors of Soil Formation Soil formation is influenced by five major factors, often summarised as: $$Soil = f(Parent\\ material, Climate, Organisms, Relief, Time)$$ Parent material: the rock or deposited material from which soil is formed; determines initial mineral composition and texture.</li><li>Climate: temperature and rainfall control the rate of weathering; hot, wet climates like Nigeria's rainforest zone favour rapid chemical weathering.</li><li>Organisms (living things): plants, animals and microorganisms contribute organic matter, aid nutrient cycling and mix soil layers (bioturbation).</li></ul><h4>Worked example</h4><p><b>Q:</b> The scientific study of soil formation is known as<br/><b>A:</b> pedogenesis \u2014 Pedogenesis is specifically the process/study of soil formation, while pedology is the broader study of soils in general.</p><p><b>Q:</b> Which of the following is NOT one of the five major factors of soil formation?<br/><b>A:</b> Market price of crops \u2014 The five soil-forming factors are parent material, climate, organisms, relief and time; market price of crops is an economic factor, not a soil-forming factor.</p>",
+      "examples": [
+        {
+          "q": "The scientific study of soil formation is known as",
+          "a": "pedogenesis \u2014 Pedogenesis is specifically the process/study of soil formation, while pedology is the broader study of soils in general."
+        },
+        {
+          "q": "Which of the following is NOT one of the five major factors of soil formation?",
+          "a": "Market price of crops \u2014 The five soil-forming factors are parent material, climate, organisms, relief and time; market price of crops is an economic factor, not a soil-forming factor."
+        }
+      ]
+    },
+    {
+      "title": "Types of weathering: physical, chemical, biological",
+      "html": "<p><b>Types of weathering: physical, chemical, biological</b> is a key part of Soil Formation and Soil Profile (SSS 1, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Climate: temperature and rainfall control the rate of weathering; hot, wet climates like Nigeria's rainforest zone favour rapid chemical weathering.</li><li>Time: the duration over which weathering and soil development processes have acted; older soils are generally more developed and weathered.</li><li>Weathering: The First Stage of Soil Formation Physical (mechanical) weathering: breakdown of rocks into smaller particles without chemical change, caused by temperature fluctuation, frost action, and abrasion by wind or water.</li><li>Chemical weathering: decomposition of rock minerals through reactions such as hydrolysis, oxidation, carbonation and hydration, common in Nigeria's humid tropical climate.</li><li>Biological weathering: breakdown of rocks by the action of living organisms, e.g.</li></ul><h4>Worked example</h4><p><b>Q:</b> The type of weathering that breaks down rock through temperature fluctuations without changing its chemical composition is called<br/><b>A:</b> physical weathering \u2014 Physical (mechanical) weathering breaks rocks into smaller fragments through processes like temperature change, without altering chemical composition.</p><p><b>Q:</b> The rusting (oxidation) of iron-bearing minerals in rocks is an example of<br/><b>A:</b> chemical weathering \u2014 Oxidation, which changes the chemical composition of the mineral (forming iron oxide), is a form of chemical weathering.</p>",
+      "examples": [
+        {
+          "q": "The type of weathering that breaks down rock through temperature fluctuations without changing its chemical composition is called",
+          "a": "physical weathering \u2014 Physical (mechanical) weathering breaks rocks into smaller fragments through processes like temperature change, without altering chemical composition."
+        },
+        {
+          "q": "The rusting (oxidation) of iron-bearing minerals in rocks is an example of",
+          "a": "chemical weathering \u2014 Oxidation, which changes the chemical composition of the mineral (forming iron oxide), is a form of chemical weathering."
+        }
+      ]
+    },
+    {
+      "title": "Soil texture and structure",
+      "html": "<p><b>Soil texture and structure</b> is a key part of Soil Formation and Soil Profile (SSS 1, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning of Soil Soil is the loose, unconsolidated top layer of the earth's crust composed of weathered rock materials (minerals), organic matter, water, air and living organisms, which supports plant growth.</li><li>The study of soil formation is called pedogenesis.</li><li>Factors of Soil Formation Soil formation is influenced by five major factors, often summarised as: $$Soil = f(Parent\\ material, Climate, Organisms, Relief, Time)$$ Parent material: the rock or deposited material from which soil is formed; determines initial mineral composition and texture.</li><li>Organisms (living things): plants, animals and microorganisms contribute organic matter, aid nutrient cycling and mix soil layers (bioturbation).</li><li>Relief (topography): slope and elevation affect drainage, erosion and soil depth; steep slopes tend to have thinner soils due to erosion.</li></ul><h4>Worked example</h4><p><b>Q:</b> The scientific study of soil formation is known as<br/><b>A:</b> pedogenesis \u2014 Pedogenesis is specifically the process/study of soil formation, while pedology is the broader study of soils in general.</p><p><b>Q:</b> Which of the following is NOT one of the five major factors of soil formation?<br/><b>A:</b> Market price of crops \u2014 The five soil-forming factors are parent material, climate, organisms, relief and time; market price of crops is an economic factor, not a soil-forming factor.</p>",
+      "examples": [
+        {
+          "q": "The scientific study of soil formation is known as",
+          "a": "pedogenesis \u2014 Pedogenesis is specifically the process/study of soil formation, while pedology is the broader study of soils in general."
+        },
+        {
+          "q": "Which of the following is NOT one of the five major factors of soil formation?",
+          "a": "Market price of crops \u2014 The five soil-forming factors are parent material, climate, organisms, relief and time; market price of crops is an economic factor, not a soil-forming factor."
+        }
+      ]
     }
-   ]
-  }
- ],
- "quiz": [
-  {
-   "q": "The scientific study of soil formation is known as",
-   "options": [
-    "pedology",
-    "pedogenesis",
-    "agronomy",
-    "hydrology"
-   ],
-   "answer": "1",
-   "solution": "Pedogenesis is specifically the process/study of soil formation, while pedology is the broader study of soils in general."
-  },
-  {
-   "q": "Which of the following is NOT one of the five major factors of soil formation?",
-   "options": [
-    "Parent material",
-    "Climate",
-    "Market price of crops",
-    "Time"
-   ],
-   "answer": "2",
-   "solution": "The five soil-forming factors are parent material, climate, organisms, relief and time; market price of crops is an economic factor, not a soil-forming factor."
-  },
-  {
-   "q": "The type of weathering that breaks down rock through temperature fluctuations without changing its chemical composition is called",
-   "options": [
-    "chemical weathering",
-    "physical weathering",
-    "biological weathering",
-    "none of the above"
-   ],
-   "answer": "1",
-   "solution": "Physical (mechanical) weathering breaks rocks into smaller fragments through processes like temperature change, without altering chemical composition."
-  },
-  {
-   "q": "The rusting (oxidation) of iron-bearing minerals in rocks is an example of",
-   "options": [
-    "physical weathering",
-    "chemical weathering",
-    "biological weathering",
-    "erosion"
-   ],
-   "answer": "1",
-   "solution": "Oxidation, which changes the chemical composition of the mineral (forming iron oxide), is a form of chemical weathering."
-  },
-  {
-   "q": "Nigeria's rainforest soils tend to be more deeply weathered than temperate soils mainly because of",
-   "options": [
-    "lower temperature and rainfall",
-    "higher temperature and rainfall accelerating weathering",
-    "absence of living organisms",
-    "younger parent material"
-   ],
-   "answer": "1",
-   "solution": "High temperature and rainfall in the rainforest zone accelerate both chemical and biological weathering processes, leading to deeper weathering."
-  },
-  {
-   "q": "A vertical section of soil from the surface to the parent rock, showing distinct layers, is called a",
-   "options": [
-    "soil texture",
-    "soil profile",
-    "soil structure",
-    "soil colloid"
-   ],
-   "answer": "1",
-   "solution": "A soil profile is the vertical cross-section of soil revealing the sequence of horizons from surface to bedrock."
-  },
-  {
-   "q": "Which soil horizon is generally the most fertile and richest in organic matter?",
-   "options": [
-    "A horizon (topsoil)",
-    "B horizon (subsoil)",
-    "C horizon (parent material)",
-    "R horizon (bedrock)"
-   ],
-   "answer": "0",
-   "solution": "The A horizon (topsoil) has the highest organic matter (humus) content and biological activity, making it the most fertile horizon."
-  },
-  {
-   "q": "The B horizon is also referred to as the zone of",
-   "options": [
-    "eluviation only",
-    "illuviation (accumulation)",
-    "bedrock",
-    "organic litter"
-   ],
-   "answer": "1",
-   "solution": "The B horizon (subsoil) is the zone of illuviation where materials leached from the A horizon above (clay, oxides) accumulate."
-  },
-  {
-   "q": "The unweathered solid rock underlying the soil profile is called the",
-   "options": [
-    "A horizon",
-    "C horizon",
-    "R horizon (bedrock)",
-    "O horizon"
-   ],
-   "answer": "2",
-   "solution": "The R horizon represents the unweathered bedrock lying beneath all other soil horizons."
-  },
-  {
-   "q": "In a soil pit, horizon A extends from 0-20 cm and horizon B extends from 20-60 cm. The thickness of horizon B is",
-   "options": [
-    "20 cm",
-    "40 cm",
-    "60 cm",
-    "80 cm"
-   ],
-   "answer": "1",
-   "solution": "Using \\(T_B = d_B - d_A = 60 - 20 = 40\\,cm\\)."
-  },
-  {
-   "q": "Soil texture refers to the",
-   "options": [
-    "arrangement of soil particles into aggregates",
-    "relative proportion of sand, silt and clay particles",
-    "colour of the soil",
-    "depth of the soil profile"
-   ],
-   "answer": "1",
-   "solution": "Soil texture is defined by the relative proportions of sand, silt and clay particles present in a soil sample."
-  },
-  {
-   "q": "Soil bulk density is calculated using the formula",
-   "options": [
-    "\\(\\rho_b = V_t/M_s\\)",
-    "\\(\\rho_b = M_s \\times V_t\\)",
-    "\\(\\rho_b = M_s/V_t\\)",
-    "\\(\\rho_b = M_s - V_t\\)"
-   ],
-   "answer": "2",
-   "solution": "Bulk density is defined as the mass of oven-dried soil solids divided by the total volume of the soil sample: \\(\\rho_b = M_s/V_t\\)."
-  },
-  {
-   "q": "A core sample has volume 80 cm³ and dry mass 104 g. Its bulk density is",
-   "options": [
-    "0.77 g/cm³",
-    "1.30 g/cm³",
-    "1.50 g/cm³",
-    "2.08 g/cm³"
-   ],
-   "answer": "1",
-   "solution": "\\(\\rho_b = 104/80 = 1.30\\,g/cm^3\\)."
-  },
-  {
-   "q": "If bulk density is 1.06 g/cm³ and particle density is 2.65 g/cm³, the total porosity is approximately",
-   "options": [
-    "20%",
-    "40%",
-    "60%",
-    "80%"
-   ],
-   "answer": "2",
-   "solution": "\\(f = (1 - 1.06/2.65)\\times100\\% = (1-0.4)\\times100\\% = 60\\%\\)."
-  },
-  {
-   "q": "Compared to the B horizon, the A horizon typically has",
-   "options": [
-    "higher bulk density and lower organic matter",
-    "lower bulk density and higher organic matter",
-    "the same bulk density and organic matter",
-    "no measurable organic matter"
-   ],
-   "answer": "1",
-   "solution": "The A horizon (topsoil) generally has lower bulk density (looser, granular structure) and higher organic matter content than the more compact B horizon."
-  }
- ]
+  ],
+  "quiz": [
+    {
+      "q": "The scientific study of soil formation is known as",
+      "options": [
+        "pedology",
+        "pedogenesis",
+        "agronomy",
+        "hydrology"
+      ],
+      "answer": 1,
+      "solution": "Pedogenesis is specifically the process/study of soil formation, while pedology is the broader study of soils in general.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is NOT one of the five major factors of soil formation?",
+      "options": [
+        "Parent material",
+        "Climate",
+        "Market price of crops",
+        "Time"
+      ],
+      "answer": 2,
+      "solution": "The five soil-forming factors are parent material, climate, organisms, relief and time; market price of crops is an economic factor, not a soil-forming factor.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The type of weathering that breaks down rock through temperature fluctuations without changing its chemical composition is called",
+      "options": [
+        "chemical weathering",
+        "physical weathering",
+        "biological weathering",
+        "none of the above"
+      ],
+      "answer": 1,
+      "solution": "Physical (mechanical) weathering breaks rocks into smaller fragments through processes like temperature change, without altering chemical composition.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The rusting (oxidation) of iron-bearing minerals in rocks is an example of",
+      "options": [
+        "physical weathering",
+        "chemical weathering",
+        "biological weathering",
+        "erosion"
+      ],
+      "answer": 1,
+      "solution": "Oxidation, which changes the chemical composition of the mineral (forming iron oxide), is a form of chemical weathering.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Nigeria's rainforest soils tend to be more deeply weathered than temperate soils mainly because of",
+      "options": [
+        "lower temperature and rainfall",
+        "higher temperature and rainfall accelerating weathering",
+        "absence of living organisms",
+        "younger parent material"
+      ],
+      "answer": 1,
+      "solution": "High temperature and rainfall in the rainforest zone accelerate both chemical and biological weathering processes, leading to deeper weathering.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A vertical section of soil from the surface to the parent rock, showing distinct layers, is called a",
+      "options": [
+        "soil texture",
+        "soil profile",
+        "soil structure",
+        "soil colloid"
+      ],
+      "answer": 1,
+      "solution": "A soil profile is the vertical cross-section of soil revealing the sequence of horizons from surface to bedrock.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which soil horizon is generally the most fertile and richest in organic matter?",
+      "options": [
+        "A horizon (topsoil)",
+        "B horizon (subsoil)",
+        "C horizon (parent material)",
+        "R horizon (bedrock)"
+      ],
+      "answer": 0,
+      "solution": "The A horizon (topsoil) has the highest organic matter (humus) content and biological activity, making it the most fertile horizon.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The B horizon is also referred to as the zone of",
+      "options": [
+        "eluviation only",
+        "illuviation (accumulation)",
+        "bedrock",
+        "organic litter"
+      ],
+      "answer": 1,
+      "solution": "The B horizon (subsoil) is the zone of illuviation where materials leached from the A horizon above (clay, oxides) accumulate.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The unweathered solid rock underlying the soil profile is called the",
+      "options": [
+        "A horizon",
+        "C horizon",
+        "R horizon (bedrock)",
+        "O horizon"
+      ],
+      "answer": 2,
+      "solution": "The R horizon represents the unweathered bedrock lying beneath all other soil horizons.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In a soil pit, horizon A extends from 0-20 cm and horizon B extends from 20-60 cm. The thickness of horizon B is",
+      "options": [
+        "20 cm",
+        "40 cm",
+        "60 cm",
+        "80 cm"
+      ],
+      "answer": 1,
+      "solution": "Using \\(T_B = d_B - d_A = 60 - 20 = 40\\,cm\\).",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Soil texture refers to the",
+      "options": [
+        "arrangement of soil particles into aggregates",
+        "relative proportion of sand, silt and clay particles",
+        "colour of the soil",
+        "depth of the soil profile"
+      ],
+      "answer": 1,
+      "solution": "Soil texture is defined by the relative proportions of sand, silt and clay particles present in a soil sample.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Soil bulk density is calculated using the formula",
+      "options": [
+        "\\(\\rho_b = V_t/M_s\\)",
+        "\\(\\rho_b = M_s \\times V_t\\)",
+        "\\(\\rho_b = M_s/V_t\\)",
+        "\\(\\rho_b = M_s - V_t\\)"
+      ],
+      "answer": 2,
+      "solution": "Bulk density is defined as the mass of oven-dried soil solids divided by the total volume of the soil sample: \\(\\rho_b = M_s/V_t\\).",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A core sample has volume 80 cm\u00b3 and dry mass 104 g. Its bulk density is",
+      "options": [
+        "0.77 g/cm\u00b3",
+        "1.30 g/cm\u00b3",
+        "1.50 g/cm\u00b3",
+        "2.08 g/cm\u00b3"
+      ],
+      "answer": 1,
+      "solution": "\\(\\rho_b = 104/80 = 1.30\\,g/cm^3\\).",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "If bulk density is 1.06 g/cm\u00b3 and particle density is 2.65 g/cm\u00b3, the total porosity is approximately",
+      "options": [
+        "20%",
+        "40%",
+        "60%",
+        "80%"
+      ],
+      "answer": 2,
+      "solution": "\\(f = (1 - 1.06/2.65)\\times100\\% = (1-0.4)\\times100\\% = 60\\%\\).",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Compared to the B horizon, the A horizon typically has",
+      "options": [
+        "higher bulk density and lower organic matter",
+        "lower bulk density and higher organic matter",
+        "the same bulk density and organic matter",
+        "no measurable organic matter"
+      ],
+      "answer": 1,
+      "solution": "The A horizon (topsoil) generally has lower bulk density (looser, granular structure) and higher organic matter content than the more compact B horizon.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The sequence of soil profile is:",
+      "options": [
+        "Topsoil -> Subsoil -> Bedrock",
+        "Bedrock -> Topsoil",
+        "Subsoil -> Topsoil",
+        "None"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Topsoil -> Subsoil -> Bedrock.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The process of soil formation from rocks is called:",
+      "options": [
+        "Erosion",
+        "Weathering",
+        "Leaching",
+        "Mineralization"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Weathering.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Soil profile:",
+      "options": [
+        "Topsoil -> Subsoil",
+        "Bedrock -> Top",
+        "Sub -> Top",
+        "None"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Topsoil -> Subsoil.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The process of soil formation is?",
+      "options": [
+        "Photosynthesis.",
+        "Pedogenesis.",
+        "Osmosis.",
+        "Erosion."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Pedogenesis..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The process of physical and chemical breakdown of rocks into soil is...",
+      "options": [
+        "Erosion",
+        "Leaching",
+        "Weathering",
+        "Deposition"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Weathering.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Soil particle with best water retention:",
+      "options": [
+        "Clay",
+        "Sand",
+        "Loam",
+        "Gravel"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Clay.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Soil texture depends on:",
+      "options": [
+        "Particle size",
+        "Organic matter",
+        "pH",
+        "Color"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Particle size.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Soil texture:",
+      "options": [
+        "Particle size",
+        "Color",
+        "pH",
+        "Water"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Particle size.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Soil structure refers to the?",
+      "options": [
+        "Size of particles.",
+        "Color of soil.",
+        "Arrangement of soil particles.",
+        "Depth of soil."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Arrangement of soil particles..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Soil texture is the?",
+      "options": [
+        "Relative proportion of sand, silt, and clay.",
+        "Stickiness.",
+        "Smell.",
+        "Age."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Relative proportion of sand, silt, and clay..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Limestone adds which nutrient to the soil?",
+      "options": [
+        "Calcium",
+        "Nitrogen",
+        "Potassium",
+        "Sulphur"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Calcium.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The removal of excess water from the soil is known as:",
+      "options": [
+        "Irrigation",
+        "Drainage",
+        "Mulching",
+        "Leaching"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Drainage.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Soil acidity can be corrected by adding:",
+      "options": [
+        "Fertilizer",
+        "Lime",
+        "Manure",
+        "Water"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Lime.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which machinery is used for breaking up soil?",
+      "options": [
+        "Planter",
+        "Plough/Harrow",
+        "Harvester",
+        "Sprayer"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Plough/Harrow.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Soil acidity corrected by:",
+      "options": [
+        "Liming",
+        "Manure",
+        "Irrigation",
+        "Mulching"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Liming.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Which soil type has the highest water-holding capacity?",
+      "options": [
+        "Sandy soil",
+        "Loamy soil",
+        "Clayey soil",
+        "Silty soil"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Clayey soil.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A soil with a pH of 4.5 is said to be...",
+      "options": [
+        "Neutral",
+        "Alkaline",
+        "Acidic",
+        "Saline"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Acidic.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The most important soil macronutrient required for vegetative growth is...",
+      "options": [
+        "Phosphorus",
+        "Potassium",
+        "Nitrogen",
+        "Calcium"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Nitrogen.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A primary tillage implement used for breaking up soil is the...",
+      "options": [
+        "Harrow",
+        "Mouldboard plough",
+        "Ridger",
+        "Planter"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Mouldboard plough.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The process of removing excess water from the soil surface or sub-surface is...",
+      "options": [
+        "Irrigation",
+        "Drainage",
+        "Evaporation",
+        "Mulching"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Drainage.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The artificial application of water to the soil for crop growth is...",
+      "options": [
+        "Drainage",
+        "Mulching",
+        "Irrigation",
+        "Spraying"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Irrigation.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The process of removing excess water from the soil is:",
+      "options": [
+        "Irrigation",
+        "Drainage",
+        "Leaching",
+        "Mulching"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Drainage.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Which soil type has the highest water retention capacity?",
+      "options": [
+        "Sandy soil",
+        "Clay soil",
+        "Loamy soil",
+        "Silt"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Clay soil.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The breakdown of rocks to form soil is called:",
+      "options": [
+        "Erosion",
+        "Weathering",
+        "Leaching",
+        "Silting"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Weathering.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The part of the plow that cuts the soil furrow is the:",
+      "options": [
+        "Beam",
+        "Share",
+        "Handle",
+        "Mouldboard"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Share.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The horizon of the soil rich in organic matter is:",
+      "options": [
+        "Horizon A",
+        "Horizon B",
+        "Horizon C",
+        "Bedrock"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: Horizon A.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Soil pH:",
+      "options": [
+        "Acidity/Alkalinity",
+        "Texture",
+        "Structure",
+        "Color"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Acidity/Alkalinity.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Sandy Soil:",
+      "options": [
+        "Large particles, porous",
+        "Small particles",
+        "Waterlog",
+        "Fertile"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Large particles, porous.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Clay Soil:",
+      "options": [
+        "Small particles, waterlog",
+        "Porous",
+        "Large particles",
+        "Airy"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Small particles, waterlog.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Loam Soil:",
+      "options": [
+        "Best for farming",
+        "Poor",
+        "Sandy",
+        "Stony"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Best for farming.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Highest water retention soil:",
+      "options": [
+        "Clay",
+        "Sand",
+        "Loam",
+        "Gravel"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Clay.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Plow part in soil:",
+      "options": [
+        "Share",
+        "Beam",
+        "Handle",
+        "Wheel"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Share.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The dark organic matter in soil is?",
+      "options": [
+        "Sand.",
+        "Parent material.",
+        "Humus.",
+        "Horizon."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Humus..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A vertical section through the soil is?",
+      "options": [
+        "Soil profile.",
+        "Soil texture.",
+        "Soil structure.",
+        "Soil map."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Soil profile..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The most fertile layer of the soil is?",
+      "options": [
+        "Subsoil.",
+        "Parent material.",
+        "Topsoil.",
+        "Bedrock."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Topsoil..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    }
+  ]
 }

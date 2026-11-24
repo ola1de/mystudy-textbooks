@@ -69,6 +69,34 @@
           "a": "The dilution ratio is 3 L herbicide : 200 L water, i.e. 3/200 L herbicide per litre of spray mixture. For a 15 L tank: (3/200) x 15 = 0.225 L = 225 mL of herbicide concentrate should be added to each 15 L tank, topped up with water to the 15 L mark."
         }
       ]
+    },
+    {
+      "title": "Methods of weed control: cultural, mechanical, biological and chemical",
+      "html": "<p><b>Methods of weed control: cultural, mechanical, biological and chemical</b> is a key part of Weed Science (SSS 3, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Definition of a Weed A weed is any plant growing where it is not wanted, competing with cultivated crops for growth resources such as light, water, nutrients, space and carbon dioxide.</li><li>Weeds are generally undesirable because they reduce crop yield and quality, harbour pests and diseases, and increase the cost of production.</li><li>However, the definition of a weed is relative: a plant considered a weed in one field (e.g.</li><li>Classification of Weeds Weeds can be classified based on several criteria: Based on life cycle: annual weeds (complete life cycle in one season, e.g.</li><li>Euphorbia heterophylla ), biennial weeds (two seasons, e.g.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which of the following best defines a weed?<br/><b>A:</b> Any plant growing where it is not wanted \u2014 A weed is defined relative to human interest as any plant growing where it is undesired, competing with crops for resources.</p><p><b>Q:</b> Which weed reproduces mainly through underground rhizomes, making it difficult to control by hand weeding?<br/><b>A:</b> Imperata cylindrica \u2014 Imperata cylindrica (spear grass) is a perennial weed that spreads vigorously through rhizome fragments, resisting simple hand weeding.</p>",
+      "examples": [
+        {
+          "q": "Which of the following best defines a weed?",
+          "a": "Any plant growing where it is not wanted \u2014 A weed is defined relative to human interest as any plant growing where it is undesired, competing with crops for resources."
+        },
+        {
+          "q": "Which weed reproduces mainly through underground rhizomes, making it difficult to control by hand weeding?",
+          "a": "Imperata cylindrica \u2014 Imperata cylindrica (spear grass) is a perennial weed that spreads vigorously through rhizome fragments, resisting simple hand weeding."
+        }
+      ]
+    },
+    {
+      "title": "Herbicides: classification, mode of action and application",
+      "html": "<p><b>Herbicides: classification, mode of action and application</b> is a key part of Weed Science (SSS 3, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Classification of Weeds Weeds can be classified based on several criteria: Based on life cycle: annual weeds (complete life cycle in one season, e.g.</li><li>Based on mode of nutrition: parasitic weeds (e.g.</li><li>For instance, perennial weeds that reproduce vegetatively (like spear grass) are difficult to control by hand weeding alone because broken rhizome fragments regenerate into new plants; such weeds require herbicides or deep ploughing.</li><li>Increase in cost of production: labour, herbicides and machinery costs used in weeding increase the overall cost of crop production, reducing farmers' profit margins.</li><li>This principle underlies modern integrated weed management rather than complete eradication, and encourages farmers to tolerate low weed populations that provide ecological benefits while controlling weeds only when they threaten to cause significant economic loss to the crop enterprise.</li></ul><h4>Worked example</h4><p><b>Q:</b> A herbicide that kills only the plant parts it directly touches is called a:<br/><b>A:</b> Contact herbicide \u2014 Contact herbicides act only where they physically touch the plant tissue, unlike systemic herbicides which translocate through the plant.</p><p><b>Q:</b> Which of the following is NOT a cultural method of weed control?<br/><b>A:</b> Use of glyphosate \u2014 Glyphosate application is a chemical method, not a cultural practice; crop rotation, mulching and close spacing are cultural methods.</p>",
+      "examples": [
+        {
+          "q": "A herbicide that kills only the plant parts it directly touches is called a:",
+          "a": "Contact herbicide \u2014 Contact herbicides act only where they physically touch the plant tissue, unlike systemic herbicides which translocate through the plant."
+        },
+        {
+          "q": "Which of the following is NOT a cultural method of weed control?",
+          "a": "Use of glyphosate \u2014 Glyphosate application is a chemical method, not a cultural practice; crop rotation, mulching and close spacing are cultural methods."
+        }
+      ]
     }
   ],
   "quiz": [
@@ -80,8 +108,10 @@
         "A plant that produces flowers",
         "A cultivated crop plant"
       ],
-      "answer": "1",
-      "solution": "A weed is defined relative to human interest as any plant growing where it is undesired, competing with crops for resources."
+      "answer": 1,
+      "solution": "A weed is defined relative to human interest as any plant growing where it is undesired, competing with crops for resources.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which weed reproduces mainly through underground rhizomes, making it difficult to control by hand weeding?",
@@ -91,8 +121,10 @@
         "Tridax procumbens",
         "Ageratum conyzoides"
       ],
-      "answer": "1",
-      "solution": "Imperata cylindrica (spear grass) is a perennial weed that spreads vigorously through rhizome fragments, resisting simple hand weeding."
+      "answer": 1,
+      "solution": "Imperata cylindrica (spear grass) is a perennial weed that spreads vigorously through rhizome fragments, resisting simple hand weeding.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Striga species are classified as which type of weed?",
@@ -102,8 +134,10 @@
         "Biennial weed",
         "Non-parasitic broadleaved weed"
       ],
-      "answer": "1",
-      "solution": "Striga attaches to cereal roots via haustoria and derives nutrients directly from the host, making it a parasitic weed."
+      "answer": 1,
+      "solution": "Striga attaches to cereal roots via haustoria and derives nutrients directly from the host, making it a parasitic weed.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of the following is a beneficial effect of weeds?",
@@ -113,8 +147,10 @@
         "Reducing soil erosion through ground cover",
         "Reducing produce quality"
       ],
-      "answer": "2",
-      "solution": "Weeds cover bare soil, reducing raindrop impact and runoff, thereby helping to control soil erosion."
+      "answer": 2,
+      "solution": "Weeds cover bare soil, reducing raindrop impact and runoff, thereby helping to control soil erosion.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The economic threshold in weed management refers to:",
@@ -124,8 +160,10 @@
         "The maximum herbicide dosage allowed",
         "The number of weed species in a field"
       ],
-      "answer": "1",
-      "solution": "Economic threshold is the point where the cost of controlling weeds equals the economic benefit gained from preventing yield loss."
+      "answer": 1,
+      "solution": "Economic threshold is the point where the cost of controlling weeds equals the economic benefit gained from preventing yield loss.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which method of weed control uses living organisms such as insects or grazing animals?",
@@ -135,8 +173,10 @@
         "Biological method",
         "Cultural method"
       ],
-      "answer": "2",
-      "solution": "Biological control uses natural enemies like insects, pathogens or grazing animals to suppress weed populations."
+      "answer": 2,
+      "solution": "Biological control uses natural enemies like insects, pathogens or grazing animals to suppress weed populations.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A herbicide that kills only the plant parts it directly touches is called a:",
@@ -146,8 +186,10 @@
         "Contact herbicide",
         "Pre-emergence herbicide"
       ],
-      "answer": "2",
-      "solution": "Contact herbicides act only where they physically touch the plant tissue, unlike systemic herbicides which translocate through the plant."
+      "answer": 2,
+      "solution": "Contact herbicides act only where they physically touch the plant tissue, unlike systemic herbicides which translocate through the plant.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "2,4-D is widely used because it is:",
@@ -157,8 +199,10 @@
         "Only effective on aquatic weeds",
         "A biological control agent"
       ],
-      "answer": "1",
-      "solution": "2,4-D is a selective, systemic herbicide that mimics auxin and controls broadleaved weeds without harming grass-family cereal crops."
+      "answer": 1,
+      "solution": "2,4-D is a selective, systemic herbicide that mimics auxin and controls broadleaved weeds without harming grass-family cereal crops.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "If the recommended herbicide rate is 2 L/ha, how much is needed for a 4-hectare farm?",
@@ -168,8 +212,10 @@
         "8 L",
         "10 L"
       ],
-      "answer": "2",
-      "solution": "Quantity = Rate x Area = 2 L/ha x 4 ha = 8 L."
+      "answer": 2,
+      "solution": "Quantity = Rate x Area = 2 L/ha x 4 ha = 8 L.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which weed control method is best suited for lowland rice fields to drown terrestrial weeds?",
@@ -179,8 +225,10 @@
         "Mulching",
         "Hand pulling"
       ],
-      "answer": "1",
-      "solution": "Flooding submerges terrestrial weeds that cannot survive waterlogging, while rice tolerates flooded conditions."
+      "answer": 1,
+      "solution": "Flooding submerges terrestrial weeds that cannot survive waterlogging, while rice tolerates flooded conditions.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Sedges can be identified by which distinguishing morphological feature?",
@@ -190,8 +238,10 @@
         "Net-veined broad leaves",
         "Woody perennial stems only"
       ],
-      "answer": "1",
-      "solution": "Sedges, such as Cyperus rotundus, are characterised by triangular stem cross-sections, distinguishing them from grasses and broadleaved weeds."
+      "answer": 1,
+      "solution": "Sedges, such as Cyperus rotundus, are characterised by triangular stem cross-sections, distinguishing them from grasses and broadleaved weeds.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of the following is NOT a cultural method of weed control?",
@@ -201,8 +251,10 @@
         "Use of glyphosate",
         "Close spacing of crops"
       ],
-      "answer": "2",
-      "solution": "Glyphosate application is a chemical method, not a cultural practice; crop rotation, mulching and close spacing are cultural methods."
+      "answer": 2,
+      "solution": "Glyphosate application is a chemical method, not a cultural practice; crop rotation, mulching and close spacing are cultural methods.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A pre-emergence herbicide is applied:",
@@ -212,8 +264,10 @@
         "Only on aquatic weeds",
         "After harvesting the crop"
       ],
-      "answer": "1",
-      "solution": "Pre-emergence herbicides are applied to the soil after planting but before the crop and weed seeds germinate and emerge."
+      "answer": 1,
+      "solution": "Pre-emergence herbicides are applied to the soil after planting but before the crop and weed seeds germinate and emerge.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The critical period of weed competition refers to:",
@@ -223,8 +277,10 @@
         "The period after harvesting",
         "The dry season only"
       ],
-      "answer": "1",
-      "solution": "The critical period is typically early in crop growth, when weed competition for light, water and nutrients most severely reduces yield."
+      "answer": 1,
+      "solution": "The critical period is typically early in crop growth, when weed competition for light, water and nutrients most severely reduces yield.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a disadvantage of chemical weed control?",
@@ -234,8 +290,10 @@
         "It requires no protective clothing",
         "It cannot control any weeds"
       ],
-      "answer": "1",
-      "solution": "Herbicides, if misused, can harm beneficial organisms, contaminate water, and lead to development of herbicide-resistant weed biotypes."
+      "answer": 1,
+      "solution": "Herbicides, if misused, can harm beneficial organisms, contaminate water, and lead to development of herbicide-resistant weed biotypes.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A farmer needs to prepare a 15 L knapsack tank using a herbicide recommended at 4 L per 200 L of water. How much concentrate is added per tank?",
@@ -245,8 +303,10 @@
         "500 mL",
         "700 mL"
       ],
-      "answer": "1",
-      "solution": "Ratio = 4/200 L per L water; for 15 L tank: (4/200) x 15 = 0.3 L = 300 mL."
+      "answer": 1,
+      "solution": "Ratio = 4/200 L per L water; for 15 L tank: (4/200) x 15 = 0.3 L = 300 mL.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which plant part of Imperata cylindrica primarily enables its persistence after slashing?",
@@ -256,8 +316,10 @@
         "Flowers",
         "Fibrous roots only"
       ],
-      "answer": "1",
-      "solution": "Imperata cylindrica regenerates readily from underground rhizomes even after the above-ground shoot is cut."
+      "answer": 1,
+      "solution": "Imperata cylindrica regenerates readily from underground rhizomes even after the above-ground shoot is cut.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these is an example of an aquatic weed causing waterway blockage in West Africa?",
@@ -267,8 +329,426 @@
         "Digitaria horizontalis",
         "Cyperus rotundus"
       ],
-      "answer": "1",
-      "solution": "Water hyacinth is a floating aquatic weed notorious for blocking rivers, canals and irrigation channels in West Africa."
+      "answer": 1,
+      "solution": "Water hyacinth is a floating aquatic weed notorious for blocking rivers, canals and irrigation channels in West Africa.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Meaning, Classification and Characteristics of Weeds in Weed Science?",
+      "options": [
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted.",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition."
+      ],
+      "answer": 1,
+      "solution": "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Beneficial and Harmful Effects of Weeds in Weed Science?",
+      "options": [
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition.",
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted."
+      ],
+      "answer": 3,
+      "solution": "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Methods of Weed Control in Weed Science?",
+      "options": [
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition.",
+        "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted."
+      ],
+      "answer": 3,
+      "solution": "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Herbicides and Weed-Crop Competition Economics in Weed Science?",
+      "options": [
+        "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted.",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition.",
+        "Compost making involves \u2014 Decomposition of organic waste.."
+      ],
+      "answer": 0,
+      "solution": "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Methods of weed control: cultural, mechanical, biological and chemical in Weed Science?",
+      "options": [
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition.",
+        "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted.",
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite."
+      ],
+      "answer": 1,
+      "solution": "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Herbicides: classification, mode of action and application in Weed Science?",
+      "options": [
+        "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted.",
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition."
+      ],
+      "answer": 0,
+      "solution": "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'following'?",
+      "options": [
+        "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted.",
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition."
+      ],
+      "answer": 0,
+      "solution": "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'reproduces'?",
+      "options": [
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition.",
+        "Which weed reproduces mainly through underground rhizomes, making it difficult to control by hand weeding \u2014 Imperata cylindrica."
+      ],
+      "answer": 3,
+      "solution": "Which weed reproduces mainly through underground rhizomes, making it difficult to control by hand weeding \u2014 Imperata cylindrica.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'striga'?",
+      "options": [
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Striga species are classified as which type of weed \u2014 Parasitic weed.",
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition."
+      ],
+      "answer": 1,
+      "solution": "Striga species are classified as which type of weed \u2014 Parasitic weed.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'economic'?",
+      "options": [
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition.",
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "The economic threshold in weed management refers to: \u2014 The weed density at which control cost equals the value of yield loss prevented.",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite."
+      ],
+      "answer": 2,
+      "solution": "The economic threshold in weed management refers to: \u2014 The weed density at which control cost equals the value of yield loss prevented.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'method'?",
+      "options": [
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition.",
+        "Which method of weed control uses living organisms such as insects or grazing animals \u2014 Biological method.",
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite."
+      ],
+      "answer": 1,
+      "solution": "Which method of weed control uses living organisms such as insects or grazing animals \u2014 Biological method.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'herbicide'?",
+      "options": [
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "A herbicide that kills only the plant parts it directly touches is called a: \u2014 Contact herbicide.",
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition."
+      ],
+      "answer": 1,
+      "solution": "A herbicide that kills only the plant parts it directly touches is called a: \u2014 Contact herbicide.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'widely'?",
+      "options": [
+        "2,4-D is widely used because it is: \u2014 Selective, controlling broadleaved weeds in cereal crops.",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition.",
+        "Compost making involves \u2014 Decomposition of organic waste.."
+      ],
+      "answer": 0,
+      "solution": "2,4-D is widely used because it is: \u2014 Selective, controlling broadleaved weeds in cereal crops.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'recommended'?",
+      "options": [
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition.",
+        "If the recommended herbicide rate is 2 L/ha, how much is needed for a 4-hectare farm \u2014 8 L."
+      ],
+      "answer": 3,
+      "solution": "If the recommended herbicide rate is 2 L/ha, how much is needed for a 4-hectare farm \u2014 8 L.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'control'?",
+      "options": [
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition.",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Which weed control method is best suited for lowland rice fields to drown terrestrial weeds \u2014 Flooding."
+      ],
+      "answer": 3,
+      "solution": "Which weed control method is best suited for lowland rice fields to drown terrestrial weeds \u2014 Flooding.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'sedges'?",
+      "options": [
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "Sedges can be identified by which distinguishing morphological feature \u2014 Triangular (three-sided) stems.",
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition."
+      ],
+      "answer": 2,
+      "solution": "Sedges can be identified by which distinguishing morphological feature \u2014 Triangular (three-sided) stems.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'pre'?",
+      "options": [
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "A pre-emergence herbicide is applied: \u2014 Before crop and weed emergence.",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition."
+      ],
+      "answer": 1,
+      "solution": "A pre-emergence herbicide is applied: \u2014 Before crop and weed emergence.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'critical'?",
+      "options": [
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition.",
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "The critical period of weed competition refers to: \u2014 The period when weeds cause the greatest yield loss if uncontrolled.",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite."
+      ],
+      "answer": 2,
+      "solution": "The critical period of weed competition refers to: \u2014 The period when weeds cause the greatest yield loss if uncontrolled.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'disadvantage'?",
+      "options": [
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition.",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "Which is a disadvantage of chemical weed control \u2014 It can harm non-target organisms and cause resistance."
+      ],
+      "answer": 3,
+      "solution": "Which is a disadvantage of chemical weed control \u2014 It can harm non-target organisms and cause resistance.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'farmer'?",
+      "options": [
+        "A farmer needs to prepare a 15 L knapsack tank using a herbicide recommended at 4 L per 200 L of water. How much concentrate is added per tank \u2014 300 mL.",
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition.",
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite."
+      ],
+      "answer": 0,
+      "solution": "A farmer needs to prepare a 15 L knapsack tank using a herbicide recommended at 4 L per 200 L of water. How much concentrate is added per tank \u2014 300 mL.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'plant'?",
+      "options": [
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Which plant part of Imperata cylindrica primarily enables its persistence after slashing \u2014 Rhizomes.",
+        "Weeds competing with crops for nutrients, water and light is an example of \u2014 competition.",
+        "Compost making involves \u2014 Decomposition of organic waste.."
+      ],
+      "answer": 1,
+      "solution": "Which plant part of Imperata cylindrica primarily enables its persistence after slashing \u2014 Rhizomes.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Weed Science \u2014 'example'?",
+      "options": [
+        "The survey instrument used for measuring horizontal angles is the... \u2014 Theodolite.",
+        "Compost making involves \u2014 Decomposition of organic waste..",
+        "Which of these is an example of an aquatic weed causing waterway blockage in West Africa \u2014 Water hyacinth (Eichhornia crassipes).",
+        "Ranging poles are primarily used for \u2014 marking survey lines and points for sighting."
+      ],
+      "answer": 2,
+      "solution": "Which of these is an example of an aquatic weed causing waterway blockage in West Africa \u2014 Water hyacinth (Eichhornia crassipes).",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'defines', which of the following is true in Weed Science?",
+      "options": [
+        "A worker's productivity is calculated as \u2014 Output \u00f7 Man-hours worked.",
+        "Layer birds are kept specifically for: \u2014 Egg production.",
+        "Yam is classified under which growth habit category \u2014 Climber.",
+        "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted."
+      ],
+      "answer": 3,
+      "solution": "Which of the following best defines a weed \u2014 Any plant growing where it is not wanted.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'difficult', which of the following is true in Weed Science?",
+      "options": [
+        "Which weed reproduces mainly through underground rhizomes, making it difficult to control by hand weeding \u2014 Imperata cylindrica.",
+        "A worker's productivity is calculated as \u2014 Output \u00f7 Man-hours worked.",
+        "Yam is classified under which growth habit category \u2014 Climber.",
+        "Layer birds are kept specifically for: \u2014 Egg production."
+      ],
+      "answer": 0,
+      "solution": "Which weed reproduces mainly through underground rhizomes, making it difficult to control by hand weeding \u2014 Imperata cylindrica.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'classified', which of the following is true in Weed Science?",
+      "options": [
+        "A worker's productivity is calculated as \u2014 Output \u00f7 Man-hours worked.",
+        "Reforestation means: \u2014 Planting trees where they were cut.",
+        "Striga species are classified as which type of weed \u2014 Parasitic weed.",
+        "Layer birds are kept specifically for: \u2014 Egg production."
+      ],
+      "answer": 2,
+      "solution": "Striga species are classified as which type of weed \u2014 Parasitic weed.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'beneficial', which of the following is true in Weed Science?",
+      "options": [
+        "Which of the following is a beneficial effect of weeds \u2014 Reducing soil erosion through ground cover.",
+        "Yam is classified under which growth habit category \u2014 Climber.",
+        "A worker's productivity is calculated as \u2014 Output \u00f7 Man-hours worked.",
+        "Layer birds are kept specifically for: \u2014 Egg production."
+      ],
+      "answer": 0,
+      "solution": "Which of the following is a beneficial effect of weeds \u2014 Reducing soil erosion through ground cover.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'cost', which of the following is true in Weed Science?",
+      "options": [
+        "Layer birds are kept specifically for: \u2014 Egg production.",
+        "A worker's productivity is calculated as \u2014 Output \u00f7 Man-hours worked.",
+        "The economic threshold in weed management refers to: \u2014 The weed density at which control cost equals the value of yield loss prevented.",
+        "Yam is classified under which growth habit category \u2014 Climber."
+      ],
+      "answer": 2,
+      "solution": "The economic threshold in weed management refers to: \u2014 The weed density at which control cost equals the value of yield loss prevented.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'animals', which of the following is true in Weed Science?",
+      "options": [
+        "Which method of weed control uses living organisms such as insects or grazing animals \u2014 Biological method.",
+        "Yam is classified under which growth habit category \u2014 Climber.",
+        "Layer birds are kept specifically for: \u2014 Egg production.",
+        "A worker's productivity is calculated as \u2014 Output \u00f7 Man-hours worked."
+      ],
+      "answer": 0,
+      "solution": "Which method of weed control uses living organisms such as insects or grazing animals \u2014 Biological method.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'called', which of the following is true in Weed Science?",
+      "options": [
+        "Layer birds are kept specifically for: \u2014 Egg production.",
+        "Yam is classified under which growth habit category \u2014 Climber.",
+        "A herbicide that kills only the plant parts it directly touches is called a: \u2014 Contact herbicide.",
+        "A worker's productivity is calculated as \u2014 Output \u00f7 Man-hours worked."
+      ],
+      "answer": 2,
+      "solution": "A herbicide that kills only the plant parts it directly touches is called a: \u2014 Contact herbicide.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'because', which of the following is true in Weed Science?",
+      "options": [
+        "Layer birds are kept specifically for: \u2014 Egg production.",
+        "A worker's productivity is calculated as \u2014 Output \u00f7 Man-hours worked.",
+        "2,4-D is widely used because it is: \u2014 Selective, controlling broadleaved weeds in cereal crops.",
+        "Yam is classified under which growth habit category \u2014 Climber."
+      ],
+      "answer": 2,
+      "solution": "2,4-D is widely used because it is: \u2014 Selective, controlling broadleaved weeds in cereal crops.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'farm', which of the following is true in Weed Science?",
+      "options": [
+        "A worker's productivity is calculated as \u2014 Output \u00f7 Man-hours worked.",
+        "If the recommended herbicide rate is 2 L/ha, how much is needed for a 4-hectare farm \u2014 8 L.",
+        "Layer birds are kept specifically for: \u2014 Egg production.",
+        "Yam is classified under which growth habit category \u2014 Climber."
+      ],
+      "answer": 1,
+      "solution": "If the recommended herbicide rate is 2 L/ha, how much is needed for a 4-hectare farm \u2014 8 L.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'drown', which of the following is true in Weed Science?",
+      "options": [
+        "Yam is classified under which growth habit category \u2014 Climber.",
+        "A worker's productivity is calculated as \u2014 Output \u00f7 Man-hours worked.",
+        "Layer birds are kept specifically for: \u2014 Egg production.",
+        "Which weed control method is best suited for lowland rice fields to drown terrestrial weeds \u2014 Flooding."
+      ],
+      "answer": 3,
+      "solution": "Which weed control method is best suited for lowland rice fields to drown terrestrial weeds \u2014 Flooding.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
     }
   ]
 }

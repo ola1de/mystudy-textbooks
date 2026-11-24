@@ -1,0 +1,737 @@
+{
+  "subject": "Computer Studies",
+  "level": "SSS 1",
+  "slug": "intro-computer",
+  "title": "Introduction to Computing",
+  "outline": [
+    "Introduction to Introduction to Computing",
+    "Key facts about Introduction to Computing",
+    "Important terms and examples in Introduction to Computing",
+    "Importance and application of Introduction to Computing",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Introduction to Computing",
+      "html": "<p>The meaning, history, generations and types of computers. This section covers introduction to introduction to computing.</p><h4>Key points</h4><ul><li>Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Who is often referred to as the 'Father of Computing'?<br/><b>A:</b> Charles Babbage \u2014 Past question (JAMB 2024). Correct answer: Charles Babbage.</p><p><b>Q:</b> Which key is used to refresh a web page?<br/><b>A:</b> F5 \u2014 Past question (JAMB 2021). Correct answer: F5.</p><h4>More key points</h4><ul><li>Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.</li></ul>",
+      "examples": [
+        {
+          "q": "Who is often referred to as the 'Father of Computing'?",
+          "a": "Charles Babbage"
+        },
+        {
+          "q": "Which key is used to refresh a web page?",
+          "a": "F5"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Introduction to Computing",
+      "html": "<p>The meaning, history, generations and types of computers. This section covers key facts about introduction to computing.</p><h4>Key points</h4><ul><li>Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.</li><li>Which key is used to refresh a web page \u2014 F5.</li><li>Which key is used to capitalize letters \u2014 Shift/Caps Lock.</li><li>Key to capitalize letters: \u2014 Caps Lock.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Who is often referred to as the 'Father of Computing'?<br/><b>A:</b> Charles Babbage \u2014 Past question (JAMB 2024). Correct answer: Charles Babbage.</p><p><b>Q:</b> Which key is used to refresh a web page?<br/><b>A:</b> F5 \u2014 Past question (JAMB 2021). Correct answer: F5.</p>",
+      "examples": [
+        {
+          "q": "Who is often referred to as the 'Father of Computing'?",
+          "a": "Charles Babbage"
+        },
+        {
+          "q": "Which key is used to refresh a web page?",
+          "a": "F5"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Introduction to Computing",
+      "html": "<p>The meaning, history, generations and types of computers. This section covers important terms and examples in introduction to computing.</p><h4>Key points</h4><ul><li>Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Who is often referred to as the 'Father of Computing'?<br/><b>A:</b> Charles Babbage \u2014 Past question (JAMB 2024). Correct answer: Charles Babbage.</p><p><b>Q:</b> Which key is used to refresh a web page?<br/><b>A:</b> F5 \u2014 Past question (JAMB 2021). Correct answer: F5.</p><h4>More key points</h4><ul><li>Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.</li></ul>",
+      "examples": [
+        {
+          "q": "Who is often referred to as the 'Father of Computing'?",
+          "a": "Charles Babbage"
+        },
+        {
+          "q": "Which key is used to refresh a web page?",
+          "a": "F5"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Introduction to Computing",
+      "html": "<p>The meaning, history, generations and types of computers. This section covers importance and application of introduction to computing.</p><h4>Key points</h4><ul><li>Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Who is often referred to as the 'Father of Computing'?<br/><b>A:</b> Charles Babbage \u2014 Past question (JAMB 2024). Correct answer: Charles Babbage.</p><p><b>Q:</b> Which key is used to refresh a web page?<br/><b>A:</b> F5 \u2014 Past question (JAMB 2021). Correct answer: F5.</p><h4>More key points</h4><ul><li>Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.</li></ul>",
+      "examples": [
+        {
+          "q": "Who is often referred to as the 'Father of Computing'?",
+          "a": "Charles Babbage"
+        },
+        {
+          "q": "Which key is used to refresh a web page?",
+          "a": "F5"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>The meaning, history, generations and types of computers. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Who is often referred to as the 'Father of Computing'?<br/><b>A:</b> Charles Babbage \u2014 Past question (JAMB 2024). Correct answer: Charles Babbage.</p><p><b>Q:</b> Which key is used to refresh a web page?<br/><b>A:</b> F5 \u2014 Past question (JAMB 2021). Correct answer: F5.</p>",
+      "examples": [
+        {
+          "q": "Who is often referred to as the 'Father of Computing'?",
+          "a": "Charles Babbage"
+        },
+        {
+          "q": "Which key is used to refresh a web page?",
+          "a": "F5"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is often referred to as the 'Father of Computing'?",
+      "options": [
+        "Charles Babbage",
+        "Alan Turing",
+        "Blaise Pascal",
+        "John von Neumann"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: Charles Babbage.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Which key is used to refresh a web page?",
+      "options": [
+        "F5",
+        "F1",
+        "F12",
+        "Esc"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: F5.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which key is used to capitalize letters?",
+      "options": [
+        "Ctrl",
+        "Alt",
+        "Shift/Caps Lock",
+        "Esc"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Shift/Caps Lock.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Key to capitalize letters:",
+      "options": [
+        "Caps Lock",
+        "Enter",
+        "Tab",
+        "Esc"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Caps Lock.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The primary purpose of a modem is to _____.",
+      "options": [
+        "Store data",
+        "Convert signals between analog and digital",
+        "Speed up the CPU",
+        "Clean the computer of viruses"
+      ],
+      "answer": 1,
+      "solution": "A modem (modulator-demodulator) converts digital signals from a computer into analog signals for transmission over telephone lines and vice versa.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A unique field in a database table that identifies each record is called a _____.",
+      "options": [
+        "Foreign Key",
+        "Primary Key",
+        "Composite Key",
+        "Candidate Key"
+      ],
+      "answer": 1,
+      "solution": "The Primary Key is a column or set of columns that uniquely identifies every row in a table.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A network that covers a small geographical area like a single office is a _____.",
+      "options": [
+        "WAN",
+        "MAN",
+        "LAN",
+        "PAN"
+      ],
+      "answer": 2,
+      "solution": "Local Area Network (LAN) is used to connect computers within a small area like a room or a building.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which protocol is used for sending emails?",
+      "options": [
+        "HTTP",
+        "SMTP",
+        "FTP",
+        "IP"
+      ],
+      "answer": 1,
+      "solution": "Simple Mail Transfer Protocol (SMTP) is the standard protocol for sending emails across the Internet.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The primary language used to create web pages is _____.",
+      "options": [
+        "Python",
+        "C++",
+        "HTML",
+        "Java"
+      ],
+      "answer": 2,
+      "solution": "Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "RAM stands for:",
+      "options": [
+        "Random Access Memory",
+        "Read Access Memory",
+        "Run Access Memory",
+        "Real Access Memory"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Random Access Memory.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Ctrl + V is for:",
+      "options": [
+        "Paste",
+        "Copy",
+        "Cut",
+        "Undo"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Paste.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "A nibble is:",
+      "options": [
+        "4 bits",
+        "8 bits",
+        "2 bits",
+        "16 bits"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 4 bits.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Hexadecimal base is:",
+      "options": [
+        "16",
+        "10",
+        "8",
+        "2"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 16.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Social Media example:",
+      "options": [
+        "Facebook",
+        "Word",
+        "Excel",
+        "Linux"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Facebook.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a search engine?",
+      "options": [
+        "Google",
+        "Facebook",
+        "WhatsApp",
+        "Zoom"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: Google.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "1 Kilobyte is equal to:",
+      "options": [
+        "1000 bytes",
+        "1024 bytes",
+        "100 bytes",
+        "10 bytes"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: 1024 bytes.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Input device example:",
+      "options": [
+        "Scanner",
+        "Printer",
+        "Speaker",
+        "Monitor"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Scanner.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Antivirus example:",
+      "options": [
+        "Norton",
+        "Windows",
+        "Word",
+        "Excel"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Norton.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Octal base:",
+      "options": [
+        "8",
+        "10",
+        "16",
+        "2"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: 8.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The component of the CPU that performs mathematical calculations is the...",
+      "options": [
+        "Control Unit",
+        "Arithmetic Logic Unit (ALU)",
+        "Register",
+        "Bus"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Arithmetic Logic Unit (ALU).",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A device that connects two different networks together is a...",
+      "options": [
+        "Switch",
+        "Hub",
+        "Router",
+        "Modem"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Router.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "1 Kilobyte (KB) is equal to:",
+      "options": [
+        "1000 bytes",
+        "1024 bytes",
+        "100 bytes",
+        "1048 bytes"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: 1024 bytes.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "1 Gigabyte (GB) is equal to:",
+      "options": [
+        "1024 KB",
+        "1024 MB",
+        "1024 TB",
+        "1000 MB"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: 1024 MB.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "RAM:",
+      "options": [
+        "Volatile",
+        "Non-volatile",
+        "Permanent",
+        "External"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Volatile.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "2nd Gen:",
+      "options": [
+        "Transistors",
+        "Tubes",
+        "IC",
+        "Chips"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Transistors.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Byte:",
+      "options": [
+        "8 bits",
+        "4",
+        "16",
+        "32"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 8 bits.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Browser:",
+      "options": [
+        "Chrome",
+        "Google",
+        "Facebook",
+        "Twitter"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Chrome.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "BIOS:",
+      "options": [
+        "Basic Input Output",
+        "Binary",
+        "Base",
+        "Bus"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Basic Input Output.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "A Byte consists of:",
+      "options": [
+        "8 bits",
+        "4 bits",
+        "16 bits",
+        "32 bits"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 8 bits.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Introduction to Computing in Introduction to Computing?",
+      "options": [
+        "Which device converts digital to analog \u2014 Modem.",
+        "Which of these is an example of System Software \u2014 Operating System.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "HTML is used for: \u2014 Web Design."
+      ],
+      "answer": 2,
+      "solution": "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Introduction to Computing in Introduction to Computing?",
+      "options": [
+        "Which device converts digital to analog \u2014 Modem.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "HTML is used for: \u2014 Web Design.",
+        "Which of these is an example of System Software \u2014 Operating System."
+      ],
+      "answer": 1,
+      "solution": "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Introduction to Computing in Introduction to Computing?",
+      "options": [
+        "HTML is used for: \u2014 Web Design.",
+        "Which of these is an example of System Software \u2014 Operating System.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "Which device converts digital to analog \u2014 Modem."
+      ],
+      "answer": 2,
+      "solution": "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Introduction to Computing in Introduction to Computing?",
+      "options": [
+        "Which of these is an example of System Software \u2014 Operating System.",
+        "Which device converts digital to analog \u2014 Modem.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "HTML is used for: \u2014 Web Design."
+      ],
+      "answer": 2,
+      "solution": "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Introduction to Computing?",
+      "options": [
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "Which of these is an example of System Software \u2014 Operating System.",
+        "HTML is used for: \u2014 Web Design.",
+        "Which device converts digital to analog \u2014 Modem."
+      ],
+      "answer": 0,
+      "solution": "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'often'?",
+      "options": [
+        "Which of these is an example of System Software \u2014 Operating System.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "HTML is used for: \u2014 Web Design.",
+        "Which device converts digital to analog \u2014 Modem."
+      ],
+      "answer": 1,
+      "solution": "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'key'?",
+      "options": [
+        "HTML is used for: \u2014 Web Design.",
+        "Which of these is an example of System Software \u2014 Operating System.",
+        "Which key is used to refresh a web page \u2014 F5.",
+        "Which device converts digital to analog \u2014 Modem."
+      ],
+      "answer": 2,
+      "solution": "Which key is used to refresh a web page \u2014 F5.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'primary'?",
+      "options": [
+        "The primary purpose of a modem is to _____. \u2014 Convert signals between analog and digital.",
+        "Which device converts digital to analog \u2014 Modem.",
+        "Which of these is an example of System Software \u2014 Operating System.",
+        "HTML is used for: \u2014 Web Design."
+      ],
+      "answer": 0,
+      "solution": "The primary purpose of a modem is to _____. \u2014 Convert signals between analog and digital.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'unique'?",
+      "options": [
+        "Which device converts digital to analog \u2014 Modem.",
+        "A unique field in a database table that identifies each record is called a _____. \u2014 Primary Key.",
+        "HTML is used for: \u2014 Web Design.",
+        "Which of these is an example of System Software \u2014 Operating System."
+      ],
+      "answer": 1,
+      "solution": "A unique field in a database table that identifies each record is called a _____. \u2014 Primary Key.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'network'?",
+      "options": [
+        "Which of these is an example of System Software \u2014 Operating System.",
+        "A network that covers a small geographical area like a single office is a _____. \u2014 LAN.",
+        "HTML is used for: \u2014 Web Design.",
+        "Which device converts digital to analog \u2014 Modem."
+      ],
+      "answer": 1,
+      "solution": "A network that covers a small geographical area like a single office is a _____. \u2014 LAN.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'protocol'?",
+      "options": [
+        "HTML is used for: \u2014 Web Design.",
+        "Which protocol is used for sending emails \u2014 SMTP.",
+        "Which of these is an example of System Software \u2014 Operating System.",
+        "Which device converts digital to analog \u2014 Modem."
+      ],
+      "answer": 1,
+      "solution": "Which protocol is used for sending emails \u2014 SMTP.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'ram'?",
+      "options": [
+        "Which device converts digital to analog \u2014 Modem.",
+        "RAM stands for: \u2014 Random Access Memory.",
+        "HTML is used for: \u2014 Web Design.",
+        "Which of these is an example of System Software \u2014 Operating System."
+      ],
+      "answer": 1,
+      "solution": "RAM stands for: \u2014 Random Access Memory.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'ctrl'?",
+      "options": [
+        "Ctrl + V is for: \u2014 Paste.",
+        "Which of these is an example of System Software \u2014 Operating System.",
+        "Which device converts digital to analog \u2014 Modem.",
+        "HTML is used for: \u2014 Web Design."
+      ],
+      "answer": 0,
+      "solution": "Ctrl + V is for: \u2014 Paste.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'nibble'?",
+      "options": [
+        "HTML is used for: \u2014 Web Design.",
+        "A nibble is: \u2014 4 bits.",
+        "Which device converts digital to analog \u2014 Modem.",
+        "Which of these is an example of System Software \u2014 Operating System."
+      ],
+      "answer": 1,
+      "solution": "A nibble is: \u2014 4 bits.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'hexadecimal'?",
+      "options": [
+        "Hexadecimal base is: \u2014 16.",
+        "Which of these is an example of System Software \u2014 Operating System.",
+        "HTML is used for: \u2014 Web Design.",
+        "Which device converts digital to analog \u2014 Modem."
+      ],
+      "answer": 0,
+      "solution": "Hexadecimal base is: \u2014 16.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'social'?",
+      "options": [
+        "Which device converts digital to analog \u2014 Modem.",
+        "Social Media example: \u2014 Facebook.",
+        "Which of these is an example of System Software \u2014 Operating System.",
+        "HTML is used for: \u2014 Web Design."
+      ],
+      "answer": 1,
+      "solution": "Social Media example: \u2014 Facebook.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'search'?",
+      "options": [
+        "Which of these is a search engine \u2014 Google.",
+        "Which device converts digital to analog \u2014 Modem.",
+        "HTML is used for: \u2014 Web Design.",
+        "Which of these is an example of System Software \u2014 Operating System."
+      ],
+      "answer": 0,
+      "solution": "Which of these is a search engine \u2014 Google.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'kilobyte'?",
+      "options": [
+        "Which device converts digital to analog \u2014 Modem.",
+        "HTML is used for: \u2014 Web Design.",
+        "1 Kilobyte is equal to: \u2014 1024 bytes.",
+        "Which of these is an example of System Software \u2014 Operating System."
+      ],
+      "answer": 2,
+      "solution": "1 Kilobyte is equal to: \u2014 1024 bytes.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'input'?",
+      "options": [
+        "Input device example: \u2014 Scanner.",
+        "Which device converts digital to analog \u2014 Modem.",
+        "Which of these is an example of System Software \u2014 Operating System.",
+        "HTML is used for: \u2014 Web Design."
+      ],
+      "answer": 0,
+      "solution": "Input device example: \u2014 Scanner.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'antivirus'?",
+      "options": [
+        "Antivirus example: \u2014 Norton.",
+        "Which of these is an example of System Software \u2014 Operating System.",
+        "Which device converts digital to analog \u2014 Modem.",
+        "HTML is used for: \u2014 Web Design."
+      ],
+      "answer": 0,
+      "solution": "Antivirus example: \u2014 Norton.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Introduction to Computing \u2014 'octal'?",
+      "options": [
+        "HTML is used for: \u2014 Web Design.",
+        "Which device converts digital to analog \u2014 Modem.",
+        "Which of these is an example of System Software \u2014 Operating System.",
+        "Octal base: \u2014 8."
+      ],
+      "answer": 3,
+      "solution": "Octal base: \u2014 8.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

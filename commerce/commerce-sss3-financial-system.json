@@ -17,22 +17,22 @@
       "html": "\n<h4>Commercial (Deposit Money) Banks</h4>\n<p>Financial institutions that accept deposits, lend money and provide payment services for profit.</p>\n<h5>Accounts</h5>\n<table class=\"tb-table\"><tr><th>Account</th><th>Features</th></tr><tr><td>Current</td><td>Cheque book, no/low interest, overdraft possible</td></tr><tr><td>Savings</td><td>Small deposits, earns interest, withdrawal limits</td></tr><tr><td>Fixed/time deposit</td><td>Fixed sum for a fixed period at high interest</td></tr><tr><td>Domiciliary</td><td>Held in foreign currency</td></tr></table>\n<h5>Functions</h5>\n<ol><li>Accepting deposits and safekeeping valuables.</li><li>Lending: overdrafts, term loans, discounting bills.</li><li>Agency services: standing orders, direct debits, share purchase, executorship.</li><li>Foreign exchange, letters of credit, travellers' cheques.</li><li>Advisory and cash-management services; issuing cards and e-banking.</li></ol>\n<h4>Credit Creation</h4>\n<p>Banks lend most of the money deposited with them, and loans return to the system as fresh deposits. The maximum expansion is given by the credit (bank deposit) multiplier:</p>\n$$\\text{Credit Multiplier} = \\dfrac{1}{\\text{Cash Reserve Ratio (CRR)}}$$\n$$\\text{Total Deposits Created} = \\text{Initial Deposit} \\times \\dfrac{1}{\\text{CRR}}$$\n<h5>Limitations on credit creation</h5>\n<ul><li>Level of cash reserve ratio imposed by the CBN</li><li>Amount of initial/primary deposits</li><li>Willingness of the public to borrow and to hold cash</li><li>Availability of good collateral and monetary policy stance</li></ul>\n",
       "examples": [
         {
-          "q": "A bank receives an initial deposit of ₦2,000,000 and the cash reserve ratio is 20%. Find the credit multiplier and the total deposits that can be created.",
-          "a": "\\( \\text{Credit Multiplier} = \\dfrac{1}{0.20} = 5 \\). Total deposits \\( = 2{,}000{,}000 \\times 5 = ₦10{,}000{,}000 \\). New credit created \\( = 10{,}000{,}000 - 2{,}000{,}000 = ₦8{,}000{,}000 \\)."
+          "q": "A bank receives an initial deposit of \u20a62,000,000 and the cash reserve ratio is 20%. Find the credit multiplier and the total deposits that can be created.",
+          "a": "\\( \\text{Credit Multiplier} = \\dfrac{1}{0.20} = 5 \\). Total deposits \\( = 2{,}000{,}000 \\times 5 = \u20a610{,}000{,}000 \\). New credit created \\( = 10{,}000{,}000 - 2{,}000{,}000 = \u20a68{,}000{,}000 \\)."
         },
         {
-          "q": "If the CBN raises the CRR from 20% to 25%, what happens to the same ₦2,000,000 deposit?",
-          "a": "\\( \\text{Multiplier} = \\dfrac{1}{0.25} = 4 \\), so total deposits fall to \\( 2{,}000{,}000 \\times 4 = ₦8{,}000{,}000 \\). Credit creation shrinks by ₦2,000,000 – this is how a higher CRR tightens money supply and fights inflation."
+          "q": "If the CBN raises the CRR from 20% to 25%, what happens to the same \u20a62,000,000 deposit?",
+          "a": "\\( \\text{Multiplier} = \\dfrac{1}{0.25} = 4 \\), so total deposits fall to \\( 2{,}000{,}000 \\times 4 = \u20a68{,}000{,}000 \\). Credit creation shrinks by \u20a62,000,000 \u2013 this is how a higher CRR tightens money supply and fights inflation."
         }
       ]
     },
     {
       "title": "The Central Bank of Nigeria and Monetary Policy",
-      "html": "\n<h4>Functions of the CBN</h4>\n<ol><li><strong>Issue of currency</strong> – sole right to print notes and mint coins.</li><li><strong>Banker to the government</strong> – keeps government accounts, manages public debt.</li><li><strong>Banker to other banks</strong> – holds their reserves and clears cheques.</li><li><strong>Lender of last resort</strong> – rescues solvent but illiquid banks.</li><li><strong>Custodian of external reserves</strong> and manager of the exchange rate.</li><li><strong>Regulation and supervision</strong> of banks and other financial institutions.</li><li><strong>Formulation of monetary policy</strong> and promotion of development finance.</li></ol>\n<h4>Instruments of Monetary Policy</h4>\n<table class=\"tb-table\"><tr><th>Instrument</th><th>How it works</th></tr><tr><td>Open market operations</td><td>Sale of securities mops up cash; purchase injects cash</td></tr><tr><td>Monetary policy rate (MPR)</td><td>A higher benchmark rate raises the cost of borrowing</td></tr><tr><td>Cash reserve ratio</td><td>Higher CRR reduces lendable funds and the multiplier</td></tr><tr><td>Liquidity ratio</td><td>Minimum liquid assets banks must keep</td></tr><tr><td>Selective credit control</td><td>Directs credit to priority sectors</td></tr><tr><td>Moral suasion &amp; special directives</td><td>Persuasion and administrative instruction</td></tr></table>\n<h4>Other Institutions</h4>\n<ul><li><strong>Merchant/investment banks</strong> – wholesale banking, equipment leasing, issuing houses.</li><li><strong>Development banks</strong> – BOI, BOA, NEXIM, Development Bank of Nigeria.</li><li><strong>NDIC</strong> – insures bank deposits.</li><li><strong>Microfinance banks, mortgage banks, finance houses, bureaux de change, PFAs.</strong></li><li><strong>Fintech and mobile money operators</strong> – agency banking, payment gateways, USSD transfers.</li></ul>\n",
+      "html": "\n<h4>Functions of the CBN</h4>\n<ol><li><strong>Issue of currency</strong> \u2013 sole right to print notes and mint coins.</li><li><strong>Banker to the government</strong> \u2013 keeps government accounts, manages public debt.</li><li><strong>Banker to other banks</strong> \u2013 holds their reserves and clears cheques.</li><li><strong>Lender of last resort</strong> \u2013 rescues solvent but illiquid banks.</li><li><strong>Custodian of external reserves</strong> and manager of the exchange rate.</li><li><strong>Regulation and supervision</strong> of banks and other financial institutions.</li><li><strong>Formulation of monetary policy</strong> and promotion of development finance.</li></ol>\n<h4>Instruments of Monetary Policy</h4>\n<table class=\"tb-table\"><tr><th>Instrument</th><th>How it works</th></tr><tr><td>Open market operations</td><td>Sale of securities mops up cash; purchase injects cash</td></tr><tr><td>Monetary policy rate (MPR)</td><td>A higher benchmark rate raises the cost of borrowing</td></tr><tr><td>Cash reserve ratio</td><td>Higher CRR reduces lendable funds and the multiplier</td></tr><tr><td>Liquidity ratio</td><td>Minimum liquid assets banks must keep</td></tr><tr><td>Selective credit control</td><td>Directs credit to priority sectors</td></tr><tr><td>Moral suasion &amp; special directives</td><td>Persuasion and administrative instruction</td></tr></table>\n<h4>Other Institutions</h4>\n<ul><li><strong>Merchant/investment banks</strong> \u2013 wholesale banking, equipment leasing, issuing houses.</li><li><strong>Development banks</strong> \u2013 BOI, BOA, NEXIM, Development Bank of Nigeria.</li><li><strong>NDIC</strong> \u2013 insures bank deposits.</li><li><strong>Microfinance banks, mortgage banks, finance houses, bureaux de change, PFAs.</strong></li><li><strong>Fintech and mobile money operators</strong> \u2013 agency banking, payment gateways, USSD transfers.</li></ul>\n",
       "examples": [
         {
           "q": "Inflation is rising sharply. Recommend three CBN actions and explain how each works.",
-          "a": "(1) Raise the MPR – loans become dearer, borrowing and spending fall. (2) Sell treasury bills through open market operations – cash is withdrawn from the banking system. (3) Increase the cash reserve ratio – banks keep more idle cash, the credit multiplier \\( \\frac{1}{CRR} \\) falls and money supply contracts."
+          "a": "(1) Raise the MPR \u2013 loans become dearer, borrowing and spending fall. (2) Sell treasury bills through open market operations \u2013 cash is withdrawn from the banking system. (3) Increase the cash reserve ratio \u2013 banks keep more idle cash, the credit multiplier \\( \\frac{1}{CRR} \\) falls and money supply contracts."
         },
         {
           "q": "Distinguish between the CBN and a commercial bank in three ways.",
@@ -42,15 +42,57 @@
     },
     {
       "title": "The Capital Market and the Stock Exchange",
-      "html": "\n<h4>Money Market vs Capital Market</h4>\n<table class=\"tb-table\"><tr><th>Basis</th><th>Money market</th><th>Capital market</th></tr><tr><td>Period</td><td>Short term (under 1 year)</td><td>Medium and long term</td></tr><tr><td>Instruments</td><td>Treasury bills, call money, certificates of deposit, commercial papers, bills of exchange</td><td>Shares, debentures, bonds, mortgages</td></tr><tr><td>Institutions</td><td>CBN, commercial &amp; merchant banks, discount houses</td><td>NGX, SEC, issuing houses, stockbrokers, unit trusts</td></tr></table>\n<h4>The Nigerian Exchange (NGX)</h4>\n<p>A market where existing securities are bought and sold. It has a <strong>primary market</strong> (new issues – offer for subscription, offer for sale, rights issue, private placement) and a <strong>secondary market</strong> (trading in existing securities).</p>\n<h5>Functions</h5>\n<ol><li>Provides long-term capital for companies and government.</li><li>Gives liquidity – investors can convert shares into cash.</li><li>Values securities and publishes prices; the All-Share Index measures market performance.</li><li>Encourages savings and wider share ownership.</li><li>Serves as a barometer of the economy.</li></ol>\n<h5>Operators</h5>\n<ul><li><strong>Stockbroker</strong> – buys and sells on behalf of clients for commission.</li><li><strong>Jobber/dealer</strong> – deals in securities on own account.</li><li><strong>Issuing house</strong> – arranges new issues.</li><li><strong>Registrar</strong> – keeps the register of members and pays dividends.</li><li><strong>SEC</strong> – apex regulator of the capital market.</li></ul>\n<h4>Useful Formulae</h4>\n$$\\text{Dividend Yield} = \\dfrac{\\text{Dividend per Share}}{\\text{Market Price per Share}} \\times 100$$\n$$\\text{Earnings per Share} = \\dfrac{\\text{Profit after Tax} - \\text{Preference Dividend}}{\\text{Number of Ordinary Shares}}$$\n",
+      "html": "\n<h4>Money Market vs Capital Market</h4>\n<table class=\"tb-table\"><tr><th>Basis</th><th>Money market</th><th>Capital market</th></tr><tr><td>Period</td><td>Short term (under 1 year)</td><td>Medium and long term</td></tr><tr><td>Instruments</td><td>Treasury bills, call money, certificates of deposit, commercial papers, bills of exchange</td><td>Shares, debentures, bonds, mortgages</td></tr><tr><td>Institutions</td><td>CBN, commercial &amp; merchant banks, discount houses</td><td>NGX, SEC, issuing houses, stockbrokers, unit trusts</td></tr></table>\n<h4>The Nigerian Exchange (NGX)</h4>\n<p>A market where existing securities are bought and sold. It has a <strong>primary market</strong> (new issues \u2013 offer for subscription, offer for sale, rights issue, private placement) and a <strong>secondary market</strong> (trading in existing securities).</p>\n<h5>Functions</h5>\n<ol><li>Provides long-term capital for companies and government.</li><li>Gives liquidity \u2013 investors can convert shares into cash.</li><li>Values securities and publishes prices; the All-Share Index measures market performance.</li><li>Encourages savings and wider share ownership.</li><li>Serves as a barometer of the economy.</li></ol>\n<h5>Operators</h5>\n<ul><li><strong>Stockbroker</strong> \u2013 buys and sells on behalf of clients for commission.</li><li><strong>Jobber/dealer</strong> \u2013 deals in securities on own account.</li><li><strong>Issuing house</strong> \u2013 arranges new issues.</li><li><strong>Registrar</strong> \u2013 keeps the register of members and pays dividends.</li><li><strong>SEC</strong> \u2013 apex regulator of the capital market.</li></ul>\n<h4>Useful Formulae</h4>\n$$\\text{Dividend Yield} = \\dfrac{\\text{Dividend per Share}}{\\text{Market Price per Share}} \\times 100$$\n$$\\text{Earnings per Share} = \\dfrac{\\text{Profit after Tax} - \\text{Preference Dividend}}{\\text{Number of Ordinary Shares}}$$\n",
       "examples": [
         {
-          "q": "A company pays a dividend of ₦1.20 per share; the market price is ₦15.00. Compute the dividend yield and interpret it.",
-          "a": "\\( \\text{Dividend Yield} = \\dfrac{1.20}{15.00}\\times100 = 8\\% \\). An investor buying at ₦15 earns an 8% cash return on the market value, which can be compared with bank interest or treasury-bill rates."
+          "q": "A company pays a dividend of \u20a61.20 per share; the market price is \u20a615.00. Compute the dividend yield and interpret it.",
+          "a": "\\( \\text{Dividend Yield} = \\dfrac{1.20}{15.00}\\times100 = 8\\% \\). An investor buying at \u20a615 earns an 8% cash return on the market value, which can be compared with bank interest or treasury-bill rates."
         },
         {
-          "q": "Profit after tax is ₦48,000,000, preference dividend ₦8,000,000 and there are 20,000,000 ordinary shares. Find EPS.",
-          "a": "\\( \\text{EPS} = \\dfrac{48{,}000{,}000 - 8{,}000{,}000}{20{,}000{,}000} = ₦2.00 \\) per share – the earnings attributable to each ordinary share, whether distributed or retained."
+          "q": "Profit after tax is \u20a648,000,000, preference dividend \u20a68,000,000 and there are 20,000,000 ordinary shares. Find EPS.",
+          "a": "\\( \\text{EPS} = \\dfrac{48{,}000{,}000 - 8{,}000{,}000}{20{,}000{,}000} = \u20a62.00 \\) per share \u2013 the earnings attributable to each ordinary share, whether distributed or retained."
+        }
+      ]
+    },
+    {
+      "title": "Structure of the Nigerian financial system",
+      "html": "<p><b>Structure of the Nigerian financial system</b> is a key part of The Financial System (SSS 3, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Commercial (Deposit Money) Banks Financial institutions that accept deposits, lend money and provide payment services for profit.</li><li>Credit Creation Banks lend most of the money deposited with them, and loans return to the system as fresh deposits.</li><li>Regulation and supervision of banks and other financial institutions.</li><li>Money Market vs Capital Market Basis Money market Capital market Period Short term (under 1 year) Medium and long term Instruments Treasury bills, call money, certificates of deposit, commercial papers, bills of exchange Shares, debentures, bonds, mortgages Institutions CBN, commercial &amp; merchant banks, discount houses NGX, SEC, issuing houses, stockbrokers, unit trusts The Nigerian Exchange (NGX) A market where existing securities are bought and sold.</li><li>Buyers pay cash to the CBN, so cash leaves the banking system.</li></ul><h4>Worked example</h4><p><b>Q:</b> Deposits in Nigerian banks are insured by<br/><b>A:</b> NDIC \u2014 The Nigeria Deposit Insurance Corporation protects depositors.</p><p><b>Q:</b> The apex regulator of the Nigerian capital market is<br/><b>A:</b> SEC \u2014 The Securities and Exchange Commission regulates the capital market.</p>",
+      "examples": [
+        {
+          "q": "Deposits in Nigerian banks are insured by",
+          "a": "NDIC \u2014 The Nigeria Deposit Insurance Corporation protects depositors."
+        },
+        {
+          "q": "The apex regulator of the Nigerian capital market is",
+          "a": "SEC \u2014 The Securities and Exchange Commission regulates the capital market."
+        }
+      ]
+    },
+    {
+      "title": "Other financial institutions and Fintech",
+      "html": "<p><b>Other financial institutions and Fintech</b> is a key part of The Financial System (SSS 3, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Commercial (Deposit Money) Banks Financial institutions that accept deposits, lend money and provide payment services for profit.</li><li>Regulation and supervision of banks and other financial institutions.</li><li>Instruments of Monetary Policy Instrument How it works Open market operations Sale of securities mops up cash; purchase injects cash Monetary policy rate (MPR) A higher benchmark rate raises the cost of borrowing Cash reserve ratio Higher CRR reduces lendable funds and the multiplier Liquidity ratio Minimum liquid assets banks must keep Selective credit control Directs credit to priority sectors Moral suasion &amp; special directives Persuasion and administrative instruction Other Institutions Merchant/investment banks \u2013 wholesale banking, equipment leasing, issuing houses.</li><li>Fintech and mobile money operators \u2013 agency banking, payment gateways, USSD transfers.</li><li>Money Market vs Capital Market Basis Money market Capital market Period Short term (under 1 year) Medium and long term Instruments Treasury bills, call money, certificates of deposit, commercial papers, bills of exchange Shares, debentures, bonds, mortgages Institutions CBN, commercial &amp; merchant banks, discount houses NGX, SEC, issuing houses, stockbrokers, unit trusts The Nigerian Exchange (NGX) A market where existing securities are bought and sold.</li></ul><h4>Worked example</h4><p><b>Q:</b> The sole right to issue currency in Nigeria belongs to<br/><b>A:</b> The CBN \u2014 Currency issue is a core function of the central bank.</p><p><b>Q:</b> If the cash reserve ratio is 25%, the credit multiplier is<br/><b>A:</b> 4 \u2014 Multiplier = 1/0.25 = 4.</p>",
+      "examples": [
+        {
+          "q": "The sole right to issue currency in Nigeria belongs to",
+          "a": "The CBN \u2014 Currency issue is a core function of the central bank."
+        },
+        {
+          "q": "If the cash reserve ratio is 25%, the credit multiplier is",
+          "a": "4 \u2014 Multiplier = 1/0.25 = 4."
+        }
+      ]
+    },
+    {
+      "title": "Money market instruments and calculations",
+      "html": "<p><b>Money market instruments and calculations</b> is a key part of The Financial System (SSS 3, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Commercial (Deposit Money) Banks Financial institutions that accept deposits, lend money and provide payment services for profit.</li><li>Credit Creation Banks lend most of the money deposited with them, and loans return to the system as fresh deposits.</li><li>Instruments of Monetary Policy Instrument How it works Open market operations Sale of securities mops up cash; purchase injects cash Monetary policy rate (MPR) A higher benchmark rate raises the cost of borrowing Cash reserve ratio Higher CRR reduces lendable funds and the multiplier Liquidity ratio Minimum liquid assets banks must keep Selective credit control Directs credit to priority sectors Moral suasion &amp; special directives Persuasion and administrative instruction Other Institutions Merchant/investment banks \u2013 wholesale banking, equipment leasing, issuing houses.</li><li>Fintech and mobile money operators \u2013 agency banking, payment gateways, USSD transfers.</li><li>Money Market vs Capital Market Basis Money market Capital market Period Short term (under 1 year) Medium and long term Instruments Treasury bills, call money, certificates of deposit, commercial papers, bills of exchange Shares, debentures, bonds, mortgages Institutions CBN, commercial &amp; merchant banks, discount houses NGX, SEC, issuing houses, stockbrokers, unit trusts The Nigerian Exchange (NGX) A market where existing securities are bought and sold.</li></ul><h4>Worked example</h4><p><b>Q:</b> Treasury bills are instruments of the<br/><b>A:</b> Money market \u2014 They are short-term government securities of under one year.</p><p><b>Q:</b> The apex regulator of the Nigerian capital market is<br/><b>A:</b> SEC \u2014 The Securities and Exchange Commission regulates the capital market.</p>",
+      "examples": [
+        {
+          "q": "Treasury bills are instruments of the",
+          "a": "Money market \u2014 They are short-term government securities of under one year."
+        },
+        {
+          "q": "The apex regulator of the Nigerian capital market is",
+          "a": "SEC \u2014 The Securities and Exchange Commission regulates the capital market."
         }
       ]
     }
@@ -64,8 +106,10 @@
         "NDIC",
         "The Ministry of Finance"
       ],
-      "answer": "1",
-      "solution": "Currency issue is a core function of the central bank."
+      "answer": 1,
+      "solution": "Currency issue is a core function of the central bank.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "If the cash reserve ratio is 25%, the credit multiplier is",
@@ -75,19 +119,23 @@
         "5",
         "25"
       ],
-      "answer": "1",
-      "solution": "Multiplier = 1/0.25 = 4."
+      "answer": 1,
+      "solution": "Multiplier = 1/0.25 = 4.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "An initial deposit of ₦500,000 with a 10% CRR can create total deposits of",
+      "q": "An initial deposit of \u20a6500,000 with a 10% CRR can create total deposits of",
       "options": [
-        "₦1,000,000",
-        "₦2,500,000",
-        "₦5,000,000",
-        "₦50,000"
+        "\u20a61,000,000",
+        "\u20a62,500,000",
+        "\u20a65,000,000",
+        "\u20a650,000"
       ],
-      "answer": "2",
-      "solution": "Multiplier = 1/0.10 = 10, so 500,000 × 10 = ₦5,000,000."
+      "answer": 2,
+      "solution": "Multiplier = 1/0.10 = 10, so 500,000 \u00d7 10 = \u20a65,000,000.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The CBN acts as lender of last resort to",
@@ -97,8 +145,10 @@
         "Foreign governments",
         "Cooperative societies"
       ],
-      "answer": "1",
-      "solution": "It rescues solvent banks facing temporary liquidity problems."
+      "answer": 1,
+      "solution": "It rescues solvent banks facing temporary liquidity problems.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Treasury bills are instruments of the",
@@ -108,8 +158,10 @@
         "Insurance market",
         "Commodity market"
       ],
-      "answer": "1",
-      "solution": "They are short-term government securities of under one year."
+      "answer": 1,
+      "solution": "They are short-term government securities of under one year.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which account normally carries a cheque book?",
@@ -119,8 +171,10 @@
         "Fixed deposit",
         "Domiciliary"
       ],
-      "answer": "1",
-      "solution": "Current accounts are operated with cheques and allow overdrafts."
+      "answer": 1,
+      "solution": "Current accounts are operated with cheques and allow overdrafts.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A rights issue is an offer of new shares to",
@@ -130,8 +184,10 @@
         "Employees only",
         "Foreign investors only"
       ],
-      "answer": "1",
-      "solution": "Existing shareholders may buy new shares in proportion to their holding."
+      "answer": 1,
+      "solution": "Existing shareholders may buy new shares in proportion to their holding.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Deposits in Nigerian banks are insured by",
@@ -141,8 +197,10 @@
         "NAICOM",
         "NGX"
       ],
-      "answer": "1",
-      "solution": "The Nigeria Deposit Insurance Corporation protects depositors."
+      "answer": 1,
+      "solution": "The Nigeria Deposit Insurance Corporation protects depositors.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The apex regulator of the Nigerian capital market is",
@@ -152,8 +210,10 @@
         "NDIC",
         "CAC"
       ],
-      "answer": "1",
-      "solution": "The Securities and Exchange Commission regulates the capital market."
+      "answer": 1,
+      "solution": "The Securities and Exchange Commission regulates the capital market.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Selling government securities in open market operations will",
@@ -163,19 +223,23 @@
         "Increase CRR",
         "Reduce taxes"
       ],
-      "answer": "1",
-      "solution": "Buyers pay cash to the CBN, so cash leaves the banking system."
+      "answer": 1,
+      "solution": "Buyers pay cash to the CBN, so cash leaves the banking system.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Dividend per share ₦2 and market price ₦25 gives a dividend yield of",
+      "q": "Dividend per share \u20a62 and market price \u20a625 gives a dividend yield of",
       "options": [
         "5%",
         "8%",
         "10%",
         "12.5%"
       ],
-      "answer": "1",
-      "solution": "2/25 × 100 = 8%."
+      "answer": 1,
+      "solution": "2/25 \u00d7 100 = 8%.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A person who buys and sells securities on behalf of clients is a",
@@ -185,8 +249,10 @@
         "Registrar",
         "Actuary"
       ],
-      "answer": "1",
-      "solution": "Stockbrokers act as agents for a commission."
+      "answer": 1,
+      "solution": "Stockbrokers act as agents for a commission.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is NOT a function of commercial banks?",
@@ -196,8 +262,10 @@
         "Issuing legal tender currency",
         "Discounting bills"
       ],
-      "answer": "2",
-      "solution": "Only the central bank issues legal tender."
+      "answer": 2,
+      "solution": "Only the central bank issues legal tender.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Raising the monetary policy rate generally",
@@ -207,8 +275,10 @@
         "Has no effect",
         "Raises the CRR automatically"
       ],
-      "answer": "1",
-      "solution": "Higher benchmark rates raise lending rates and dampen credit demand."
+      "answer": 1,
+      "solution": "Higher benchmark rates raise lending rates and dampen credit demand.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The secondary market deals in",
@@ -218,8 +288,10 @@
         "Treasury bills only",
         "Foreign currency only"
       ],
-      "answer": "1",
-      "solution": "Previously issued securities are traded there, giving investors liquidity."
+      "answer": 1,
+      "solution": "Previously issued securities are traded there, giving investors liquidity.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An advantage of listing on the stock exchange is",
@@ -229,8 +301,452 @@
         "No disclosure of accounts",
         "Freedom from regulation"
       ],
-      "answer": "1",
-      "solution": "Listing allows a company to raise substantial long-term funds from the public."
+      "answer": 1,
+      "solution": "Listing allows a company to raise substantial long-term funds from the public.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A market for short-term loans and financial instruments like Treasury Bills is the _____ market.",
+      "options": [
+        "Capital",
+        "Commodity",
+        "Money",
+        "Labour"
+      ],
+      "answer": 2,
+      "solution": "The money market deals with high-liquidity financial assets with a maturity of one year or less.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The automated system that allows customers to withdraw cash outside banking hours is the _____.",
+      "options": [
+        "POS",
+        "E-mail",
+        "ATM",
+        "Telex"
+      ],
+      "answer": 2,
+      "solution": "Automated Teller Machines (ATMs) provide 24/7 access to basic banking services.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "In computer technology, the physical components of the system are called _____.",
+      "options": [
+        "Software",
+        "Hardware",
+        "Malware",
+        "Firmware"
+      ],
+      "answer": 1,
+      "solution": "Hardware refers to the tangible parts of a computer, such as the monitor, keyboard, and CPU.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a function of the Central Bank of Nigeria?",
+      "options": [
+        "Accepting deposits from the public",
+        "Lending to small businesses",
+        "Issuing legal tender",
+        "Selling consumer goods"
+      ],
+      "answer": 2,
+      "solution": "The Central Bank has the sole authority to issue and manage the national currency (Naira).",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The 'Money Market' is a market for _____.",
+      "options": [
+        "long-term loans",
+        "short-term loans",
+        "buying and selling foreign currency",
+        "illegal money"
+      ],
+      "answer": 1,
+      "solution": "The money market deals with financial assets that have a maturity period of one year or less, such as treasury bills.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The Central Bank is responsible for:",
+      "options": [
+        "Accepting deposits from the public",
+        "Issuing currency",
+        "Lending to traders",
+        "Importing goods"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Issuing currency.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a function of the Central Bank?",
+      "options": [
+        "Accepting deposits from the public",
+        "Lending to traders",
+        "Issuing currency",
+        "Providing overdrafts"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Issuing currency.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Central Bank is:",
+      "options": [
+        "Lender of last resort",
+        "Commercial bank",
+        "Merchant bank",
+        "Retail bank"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Lender of last resort.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The central bank function of 'Lender of Last Resort' applies to...",
+      "options": [
+        "The general public",
+        "Commercial banks",
+        "International tourists",
+        "Small businesses"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Commercial banks.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The Central Bank is the:",
+      "options": [
+        "Lender of last resort",
+        "Retail bank",
+        "Private bank",
+        "Merchant bank"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: Lender of last resort.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "A market where money is lent for short periods is:",
+      "options": [
+        "Capital market",
+        "Money market",
+        "Stock market",
+        "Forex market"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Money market.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Central Bank:",
+      "options": [
+        "Regulates banks",
+        "Accepts deposit",
+        "Lends to public",
+        "Retail"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Regulates banks.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Commercial Bank:",
+      "options": [
+        "Accepts deposits",
+        "Prints money",
+        "Controls banks",
+        "Policy"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Accepts deposits.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The abbreviation 'PLC' after a company's name in Nigeria stands for _____.",
+      "options": [
+        "Private Limited Company",
+        "Public Liability Company",
+        "Public Limited Company",
+        "Partnership Limited Company"
+      ],
+      "answer": 2,
+      "solution": "PLC denotes a Public Limited Company, whose shares can be bought and sold by the general public on the stock exchange.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A bank draft is safer than a personal cheque because _____.",
+      "options": [
+        "it can be cashed anywhere",
+        "it is signed by the President",
+        "payment is guaranteed by the bank",
+        "it does not expire"
+      ],
+      "answer": 2,
+      "solution": "A bank draft is drawn by the bank on its own funds, so there is no risk of it 'bouncing' due to insufficient funds.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a function of the Nigerian Export Promotion Council (NEPC)?",
+      "options": [
+        "Importing luxury goods",
+        "Regulating local market prices",
+        "Promoting non-oil exports",
+        "Controlling the flow of traffic"
+      ],
+      "answer": 2,
+      "solution": "The NEPC is the government agency responsible for promoting and diversifying Nigeria's export trade away from oil.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "An insurance policy that covers a ship and its cargo against risks on a specific journey is a _____.",
+      "options": [
+        "Time policy",
+        "Voyage policy",
+        "Floating policy",
+        "Mixed policy"
+      ],
+      "answer": 1,
+      "solution": "A voyage policy provides cover for a specific route or journey rather than a specific period of time.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A market where commodities are bought and sold for immediate delivery is the _____.",
+      "options": [
+        "Future market",
+        "Spot market",
+        "Black market",
+        "Open market"
+      ],
+      "answer": 1,
+      "solution": "In a spot market, transactions are settled 'on the spot' with immediate physical delivery of the commodity.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which type of insurance policy covers a ship's hull and machinery?",
+      "options": [
+        "Marine Cargo",
+        "Marine Hull",
+        "Third Party",
+        "Life Assurance"
+      ],
+      "answer": 1,
+      "solution": "Marine Hull insurance specifically covers the physical structure and equipment of the vessel.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The fee paid periodically to an insurance company to maintain a policy is the _____.",
+      "options": [
+        "Commission",
+        "Dividend",
+        "Premium",
+        "Interest"
+      ],
+      "answer": 2,
+      "solution": "The premium is the consideration paid by the insured for the protection provided by the insurer.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "A market where a single buyer dominates the market for a product is a _____.",
+      "options": [
+        "Monopoly",
+        "Oligopoly",
+        "Monopsony",
+        "Duopoly"
+      ],
+      "answer": 2,
+      "solution": "Monopsony occurs when there is only one buyer, giving that buyer significant power over sellers.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which insurance policy covers employees against injury at work?",
+      "options": [
+        "Fidelity Guarantee",
+        "Workmen's Compensation",
+        "Third Party",
+        "Life Assurance"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Workmen's Compensation.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "A market where new shares are issued is:",
+      "options": [
+        "Money market",
+        "Primary market",
+        "Secondary market",
+        "Commodity market"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Primary market.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which sector does banking belong to?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary/Commercial",
+        "Industrial"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Tertiary/Commercial.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Bull market means prices are:",
+      "options": [
+        "Falling",
+        "Rising",
+        "Stable",
+        "Crashing"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Rising.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "A credit note is issued to a customer when...",
+      "options": [
+        "Goods are sold on credit",
+        "Goods are returned due to damage",
+        "There is an undercharge",
+        "The customer pays cash"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Goods are returned due to damage.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a function of money?",
+      "options": [
+        "Medium of exchange",
+        "Cause of inflation",
+        "Tool for gambling",
+        "Way to hide wealth"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: Medium of exchange.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Market segmentation involves...",
+      "options": [
+        "Building new markets",
+        "Dividing a market into distinct groups of buyers",
+        "Closing down old markets",
+        "Selling only in one city"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Dividing a market into distinct groups of buyers.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Nationalization is the policy where...",
+      "options": [
+        "Private businesses are sold to the public",
+        "The government takes over the ownership of a private industry",
+        "The country joins the UN",
+        "Foreigners are allowed to buy local shops"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: The government takes over the ownership of a private industry.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Capital:",
+      "options": [
+        "Wealth for production",
+        "Money only",
+        "Land",
+        "Labor"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Wealth for production.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Capital of a PLC is in:",
+      "options": [
+        "Shares",
+        "Debentures",
+        "Bonds",
+        "Loans"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Shares.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Authorized Capital:",
+      "options": [
+        "Registered maximum",
+        "Paid up",
+        "Issued",
+        "Called up"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Registered maximum.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Capital as a factor of production earns?",
+      "options": [
+        "Salary",
+        "Interest",
+        "Commission",
+        "Profit"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Interest.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Who provides the capital in a sole proprietorship?",
+      "options": [
+        "The government",
+        "Shareholders",
+        "The owner",
+        "Partners"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: The owner.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
     }
   ]
 }

@@ -1,236 +1,748 @@
 {
- "subject": "Biology",
- "level": "SSS 1",
- "slug": "basic-ecology",
- "title": "Basic Ecology",
- "outline": [
-  "Define ecology and its basic terms: habitat, niche, population, community, ecosystem, biosphere",
-  "Describe the major biomes of the world and the Nigerian vegetation belts",
-  "Distinguish biotic and abiotic factors and their measuring instruments",
-  "Construct food chains, food webs, trophic levels and ecological pyramids",
-  "Explain energy flow and the 10 % law",
-  "Describe simple field methods for estimating population size"
- ],
- "modules": [
-  {
-   "title": "Ecological Concepts and Biomes",
-   "html": "\n<h4>1. Basic Terms</h4>\n<ul><li><b>Ecology</b> – the study of the relationship between organisms and their environment.</li>\n<li><b>Habitat</b> – the natural home of an organism (pond, forest floor, tree bark).</li>\n<li><b>Ecological niche</b> – the functional role and position of an organism in its habitat, including what it eats, when it is active and how it interacts with others.</li>\n<li><b>Population</b> – all individuals of one species in a given area at a given time.</li>\n<li><b>Community</b> – all populations living and interacting in an area.</li>\n<li><b>Ecosystem</b> – a community plus its non-living environment functioning as a unit.</li>\n<li><b>Biosphere</b> – the part of the earth (lithosphere, hydrosphere, atmosphere) that supports life.</li></ul>\n<h4>2. Components of an Ecosystem</h4>\n<ol><li><b>Producers (autotrophs)</b> – green plants and algae.</li><li><b>Consumers</b> – primary (herbivores), secondary and tertiary (carnivores), omnivores.</li><li><b>Decomposers</b> – bacteria and fungi returning nutrients to the soil.</li><li><b>Abiotic components</b> – light, temperature, water, air, soil, pH, salinity.</li></ol>\n<h4>3. Major Biomes</h4>\n<table class=\"tb-table\"><tr><th>Biome</th><th>Climate</th><th>Typical organisms</th></tr>\n<tr><td>Tropical rainforest</td><td>Heavy rainfall (&gt;2000 mm), high temperature</td><td>Tall buttressed trees, lianas, epiphytes, monkeys</td></tr>\n<tr><td>Savanna (grassland)</td><td>Seasonal rain, distinct dry season</td><td>Grasses, scattered fire-resistant trees, grazers</td></tr>\n<tr><td>Desert</td><td>Rainfall &lt;250 mm, extreme temperature range</td><td>Cacti, succulents, camel, rodents</td></tr>\n<tr><td>Temperate forest / grassland</td><td>Moderate, four seasons</td><td>Deciduous trees, bison, deer</td></tr>\n<tr><td>Tundra / Arctic</td><td>Very cold, permafrost</td><td>Lichens, mosses, reindeer</td></tr>\n<tr><td>Aquatic (marine, estuarine, freshwater)</td><td>Water-based</td><td>Plankton, fish, mangroves</td></tr></table>\n<p>From south to north Nigeria shows: mangrove/swamp forest → rainforest → derived savanna → Guinea savanna → Sudan savanna → Sahel savanna, reflecting a decreasing rainfall gradient.</p>\n",
-   "examples": [
+  "subject": "Biology",
+  "level": "SSS 1",
+  "slug": "basic-ecology",
+  "title": "Basic Ecology",
+  "outline": [
+    "Define ecology and its basic terms: habitat, niche, population, community, ecosystem, biosphere",
+    "Describe the major biomes of the world and the Nigerian vegetation belts",
+    "Distinguish biotic and abiotic factors and their measuring instruments",
+    "Construct food chains, food webs, trophic levels and ecological pyramids",
+    "Explain energy flow and the 10 % law",
+    "Describe simple field methods for estimating population size"
+  ],
+  "modules": [
     {
-     "q": "Differentiate between habitat and ecological niche using the earthworm.",
-     "a": "The habitat of the earthworm is moist humus-rich topsoil — the physical place where it lives. Its niche is its role there: it feeds on decaying organic matter, burrows and aerates the soil at night, is prey to birds, and recycles nutrients through its castings."
+      "title": "Ecological Concepts and Biomes",
+      "html": "\n<h4>1. Basic Terms</h4>\n<ul><li><b>Ecology</b> \u2013 the study of the relationship between organisms and their environment.</li>\n<li><b>Habitat</b> \u2013 the natural home of an organism (pond, forest floor, tree bark).</li>\n<li><b>Ecological niche</b> \u2013 the functional role and position of an organism in its habitat, including what it eats, when it is active and how it interacts with others.</li>\n<li><b>Population</b> \u2013 all individuals of one species in a given area at a given time.</li>\n<li><b>Community</b> \u2013 all populations living and interacting in an area.</li>\n<li><b>Ecosystem</b> \u2013 a community plus its non-living environment functioning as a unit.</li>\n<li><b>Biosphere</b> \u2013 the part of the earth (lithosphere, hydrosphere, atmosphere) that supports life.</li></ul>\n<h4>2. Components of an Ecosystem</h4>\n<ol><li><b>Producers (autotrophs)</b> \u2013 green plants and algae.</li><li><b>Consumers</b> \u2013 primary (herbivores), secondary and tertiary (carnivores), omnivores.</li><li><b>Decomposers</b> \u2013 bacteria and fungi returning nutrients to the soil.</li><li><b>Abiotic components</b> \u2013 light, temperature, water, air, soil, pH, salinity.</li></ol>\n<h4>3. Major Biomes</h4>\n<table class=\"tb-table\"><tr><th>Biome</th><th>Climate</th><th>Typical organisms</th></tr>\n<tr><td>Tropical rainforest</td><td>Heavy rainfall (&gt;2000 mm), high temperature</td><td>Tall buttressed trees, lianas, epiphytes, monkeys</td></tr>\n<tr><td>Savanna (grassland)</td><td>Seasonal rain, distinct dry season</td><td>Grasses, scattered fire-resistant trees, grazers</td></tr>\n<tr><td>Desert</td><td>Rainfall &lt;250 mm, extreme temperature range</td><td>Cacti, succulents, camel, rodents</td></tr>\n<tr><td>Temperate forest / grassland</td><td>Moderate, four seasons</td><td>Deciduous trees, bison, deer</td></tr>\n<tr><td>Tundra / Arctic</td><td>Very cold, permafrost</td><td>Lichens, mosses, reindeer</td></tr>\n<tr><td>Aquatic (marine, estuarine, freshwater)</td><td>Water-based</td><td>Plankton, fish, mangroves</td></tr></table>\n<p>From south to north Nigeria shows: mangrove/swamp forest \u2192 rainforest \u2192 derived savanna \u2192 Guinea savanna \u2192 Sudan savanna \u2192 Sahel savanna, reflecting a decreasing rainfall gradient.</p>\n",
+      "examples": [
+        {
+          "q": "Differentiate between habitat and ecological niche using the earthworm.",
+          "a": "The habitat of the earthworm is moist humus-rich topsoil \u2014 the physical place where it lives. Its niche is its role there: it feeds on decaying organic matter, burrows and aerates the soil at night, is prey to birds, and recycles nutrients through its castings."
+        },
+        {
+          "q": "Why does the vegetation of Nigeria change from south to north?",
+          "a": "Rainfall amount and duration decrease steadily northwards while temperature range and evaporation increase. Plants adapted to abundant water (tall broad-leaved trees) dominate the south, while drought-resistant grasses and thorny trees dominate the north."
+        }
+      ]
     },
     {
-     "q": "Why does the vegetation of Nigeria change from south to north?",
-     "a": "Rainfall amount and duration decrease steadily northwards while temperature range and evaporation increase. Plants adapted to abundant water (tall broad-leaved trees) dominate the south, while drought-resistant grasses and thorny trees dominate the north."
-    }
-   ]
-  },
-  {
-   "title": "Biotic and Abiotic Factors and Their Measurement",
-   "html": "\n<h4>1. Abiotic Factors</h4>\n<table class=\"tb-table\"><tr><th>Factor</th><th>Instrument</th><th>Effect</th></tr>\n<tr><td>Temperature</td><td>Thermometer</td><td>Controls enzyme activity, distribution</td></tr>\n<tr><td>Light intensity</td><td>Photometer/light meter</td><td>Controls photosynthesis, flowering</td></tr>\n<tr><td>Relative humidity</td><td>Hygrometer</td><td>Affects transpiration and water loss</td></tr>\n<tr><td>Wind speed/direction</td><td>Anemometer, wind vane</td><td>Pollination, dispersal, evaporation</td></tr>\n<tr><td>Rainfall</td><td>Rain gauge</td><td>Water availability</td></tr>\n<tr><td>pH</td><td>pH meter, universal indicator</td><td>Nutrient availability, species distribution</td></tr>\n<tr><td>Water current</td><td>Flow meter/float</td><td>Aquatic distribution and adaptation</td></tr>\n<tr><td>Salinity</td><td>Hydrometer/conductivity meter</td><td>Determines marine, estuarine, freshwater species</td></tr>\n<tr><td>Depth/turbidity</td><td>Metre rule, Secchi disc</td><td>Light penetration in water</td></tr></table>\n<h4>2. Biotic Factors and Interactions</h4>\n<ul><li><b>Competition</b> – intraspecific (same species) or interspecific (different species) for light, food, water, mates, space.</li>\n<li><b>Predation</b> – one organism kills and eats another; regulates prey numbers.</li>\n<li><b>Parasitism</b> – (+/−) parasite benefits, host harmed.</li>\n<li><b>Mutualism</b> – (+/+) both benefit, e.g. lichens, rumen bacteria.</li>\n<li><b>Commensalism</b> – (+/0) one benefits, the other unaffected, e.g. epiphytic orchid on a tree.</li>\n<li><b>Saprophytism</b> and <b>symbiosis</b> in decomposition and nutrient cycling.</li></ul>\n<h4>3. Field Methods</h4>\n<ul><li><b>Quadrat</b> – a square frame used to estimate density, frequency and percentage cover of sessile organisms. Estimated population = mean number per quadrat × (total area / quadrat area).</li>\n<li><b>Line and belt transects</b> – record changes in vegetation along an environmental gradient.</li>\n<li><b>Capture–mark–recapture (Lincoln index)</b> for mobile animals:</li></ul>\n$$N = \\frac{n_1 \\times n_2}{m}$$\n<p>where \\(n_1\\) is the number first marked, \\(n_2\\) the number captured on the second occasion and \\(m\\) the marked individuals recaptured.</p>\n",
-   "examples": [
-    {
-     "q": "120 grasshoppers were caught, marked and released. Later 90 were caught, of which 30 were marked. Estimate the population.",
-     "a": "\\( N = \\dfrac{n_1 n_2}{m} = \\dfrac{120 \\times 90}{30} = 360 \\) grasshoppers. Assumptions: marks do not wear off or harm the animal, marked individuals mix randomly, and there is no significant migration, birth or death between samplings."
+      "title": "Biotic and Abiotic Factors and Their Measurement",
+      "html": "\n<h4>1. Abiotic Factors</h4>\n<table class=\"tb-table\"><tr><th>Factor</th><th>Instrument</th><th>Effect</th></tr>\n<tr><td>Temperature</td><td>Thermometer</td><td>Controls enzyme activity, distribution</td></tr>\n<tr><td>Light intensity</td><td>Photometer/light meter</td><td>Controls photosynthesis, flowering</td></tr>\n<tr><td>Relative humidity</td><td>Hygrometer</td><td>Affects transpiration and water loss</td></tr>\n<tr><td>Wind speed/direction</td><td>Anemometer, wind vane</td><td>Pollination, dispersal, evaporation</td></tr>\n<tr><td>Rainfall</td><td>Rain gauge</td><td>Water availability</td></tr>\n<tr><td>pH</td><td>pH meter, universal indicator</td><td>Nutrient availability, species distribution</td></tr>\n<tr><td>Water current</td><td>Flow meter/float</td><td>Aquatic distribution and adaptation</td></tr>\n<tr><td>Salinity</td><td>Hydrometer/conductivity meter</td><td>Determines marine, estuarine, freshwater species</td></tr>\n<tr><td>Depth/turbidity</td><td>Metre rule, Secchi disc</td><td>Light penetration in water</td></tr></table>\n<h4>2. Biotic Factors and Interactions</h4>\n<ul><li><b>Competition</b> \u2013 intraspecific (same species) or interspecific (different species) for light, food, water, mates, space.</li>\n<li><b>Predation</b> \u2013 one organism kills and eats another; regulates prey numbers.</li>\n<li><b>Parasitism</b> \u2013 (+/\u2212) parasite benefits, host harmed.</li>\n<li><b>Mutualism</b> \u2013 (+/+) both benefit, e.g. lichens, rumen bacteria.</li>\n<li><b>Commensalism</b> \u2013 (+/0) one benefits, the other unaffected, e.g. epiphytic orchid on a tree.</li>\n<li><b>Saprophytism</b> and <b>symbiosis</b> in decomposition and nutrient cycling.</li></ul>\n<h4>3. Field Methods</h4>\n<ul><li><b>Quadrat</b> \u2013 a square frame used to estimate density, frequency and percentage cover of sessile organisms. Estimated population = mean number per quadrat \u00d7 (total area / quadrat area).</li>\n<li><b>Line and belt transects</b> \u2013 record changes in vegetation along an environmental gradient.</li>\n<li><b>Capture\u2013mark\u2013recapture (Lincoln index)</b> for mobile animals:</li></ul>\n$$N = \\frac{n_1 \\times n_2}{m}$$\n<p>where \\(n_1\\) is the number first marked, \\(n_2\\) the number captured on the second occasion and \\(m\\) the marked individuals recaptured.</p>\n",
+      "examples": [
+        {
+          "q": "120 grasshoppers were caught, marked and released. Later 90 were caught, of which 30 were marked. Estimate the population.",
+          "a": "\\( N = \\dfrac{n_1 n_2}{m} = \\dfrac{120 \\times 90}{30} = 360 \\) grasshoppers. Assumptions: marks do not wear off or harm the animal, marked individuals mix randomly, and there is no significant migration, birth or death between samplings."
+        },
+        {
+          "q": "A 0.5 m \u00d7 0.5 m quadrat thrown 10 times gave a mean of 8 seedlings. Estimate the number in 200 m\u00b2.",
+          "a": "Area of quadrat = 0.25 m\u00b2, so density = 8/0.25 = 32 seedlings m\u207b\u00b2. In 200 m\u00b2 the estimated population is \\( 32 \\times 200 = 6400 \\) seedlings."
+        }
+      ]
     },
     {
-     "q": "A 0.5 m × 0.5 m quadrat thrown 10 times gave a mean of 8 seedlings. Estimate the number in 200 m².",
-     "a": "Area of quadrat = 0.25 m², so density = 8/0.25 = 32 seedlings m⁻². In 200 m² the estimated population is \\( 32 \\times 200 = 6400 \\) seedlings."
-    }
-   ]
-  },
-  {
-   "title": "Food Chains, Webs and Energy Flow",
-   "html": "\n<h4>1. Trophic Levels</h4>\n<p>A food chain shows the linear transfer of energy: <b>producer → primary consumer → secondary consumer → tertiary consumer → decomposer</b>. Example: grass → grasshopper → lizard → hawk. Arrows point in the direction of energy flow. A <b>food web</b> is a network of interconnected food chains and is more realistic because most organisms eat, and are eaten by, several species.</p>\n<h4>2. Energy Flow and the 10 % Law</h4>\n<p>Energy enters an ecosystem as sunlight; only 1–2 % of incident light is fixed by producers. At each transfer roughly 90 % of the energy is lost as heat, in respiration, movement, excretion and to uneaten parts, so only about 10 % passes on:</p>\n$$\\text{Efficiency} = \\frac{\\text{energy in next trophic level}}{\\text{energy in previous trophic level}} \\times 100\\%$$\n<p>Consequently food chains rarely exceed four or five links, and energy flow is <b>unidirectional</b> while nutrients are <b>cycled</b>.</p>\n<h4>3. Ecological Pyramids</h4>\n<ul><li><b>Pyramid of numbers</b> – counts organisms at each level; may be inverted (one tree supporting many insects).</li>\n<li><b>Pyramid of biomass</b> – dry mass per level; usually upright on land, may be inverted in the sea where phytoplankton reproduce quickly.</li>\n<li><b>Pyramid of energy</b> – always upright, because energy is lost at every transfer.</li></ul>\n<h4>4. Biological Importance</h4>\n<p>Decomposers release nutrients locked in dead tissue back to the soil, sustaining producers. Removal of a species from a web (for example a predator) can cause the prey population to explode and vegetation to be over-grazed, showing the interdependence of organisms. Persistent toxins such as DDT become concentrated up the chain (<b>biomagnification</b>), harming top carnivores most.</p>\n",
-   "examples": [
-    {
-     "q": "In the chain maize → rat → snake → hawk, producers fix 20 000 kJ. Estimate the energy available to the hawk.",
-     "a": "Applying the 10 % law: rat \\(= 20\\,000 \\times 0.1 = 2000\\,\\text{kJ}\\); snake \\(= 200\\,\\text{kJ}\\); hawk \\(= 20\\,\\text{kJ}\\). This steep loss explains why top carnivores are few in number."
+      "title": "Food Chains, Webs and Energy Flow",
+      "html": "\n<h4>1. Trophic Levels</h4>\n<p>A food chain shows the linear transfer of energy: <b>producer \u2192 primary consumer \u2192 secondary consumer \u2192 tertiary consumer \u2192 decomposer</b>. Example: grass \u2192 grasshopper \u2192 lizard \u2192 hawk. Arrows point in the direction of energy flow. A <b>food web</b> is a network of interconnected food chains and is more realistic because most organisms eat, and are eaten by, several species.</p>\n<h4>2. Energy Flow and the 10 % Law</h4>\n<p>Energy enters an ecosystem as sunlight; only 1\u20132 % of incident light is fixed by producers. At each transfer roughly 90 % of the energy is lost as heat, in respiration, movement, excretion and to uneaten parts, so only about 10 % passes on:</p>\n$$\\text{Efficiency} = \\frac{\\text{energy in next trophic level}}{\\text{energy in previous trophic level}} \\times 100\\%$$\n<p>Consequently food chains rarely exceed four or five links, and energy flow is <b>unidirectional</b> while nutrients are <b>cycled</b>.</p>\n<h4>3. Ecological Pyramids</h4>\n<ul><li><b>Pyramid of numbers</b> \u2013 counts organisms at each level; may be inverted (one tree supporting many insects).</li>\n<li><b>Pyramid of biomass</b> \u2013 dry mass per level; usually upright on land, may be inverted in the sea where phytoplankton reproduce quickly.</li>\n<li><b>Pyramid of energy</b> \u2013 always upright, because energy is lost at every transfer.</li></ul>\n<h4>4. Biological Importance</h4>\n<p>Decomposers release nutrients locked in dead tissue back to the soil, sustaining producers. Removal of a species from a web (for example a predator) can cause the prey population to explode and vegetation to be over-grazed, showing the interdependence of organisms. Persistent toxins such as DDT become concentrated up the chain (<b>biomagnification</b>), harming top carnivores most.</p>\n",
+      "examples": [
+        {
+          "q": "In the chain maize \u2192 rat \u2192 snake \u2192 hawk, producers fix 20 000 kJ. Estimate the energy available to the hawk.",
+          "a": "Applying the 10 % law: rat \\(= 20\\,000 \\times 0.1 = 2000\\,\\text{kJ}\\); snake \\(= 200\\,\\text{kJ}\\); hawk \\(= 20\\,\\text{kJ}\\). This steep loss explains why top carnivores are few in number."
+        },
+        {
+          "q": "Why is the pyramid of energy never inverted?",
+          "a": "Energy obeys the laws of thermodynamics: some is always lost as heat at each transfer, so a trophic level can never contain more energy than the one below it. Numbers and biomass can be inverted because size and turnover rate differ between levels."
+        }
+      ]
     },
     {
-     "q": "Why is the pyramid of energy never inverted?",
-     "a": "Energy obeys the laws of thermodynamics: some is always lost as heat at each transfer, so a trophic level can never contain more energy than the one below it. Numbers and biomass can be inverted because size and turnover rate differ between levels."
+      "title": "Define ecology and its basic terms: habitat, niche, population, community, ecosystem, biosphere",
+      "html": "<p><b>Define ecology and its basic terms: habitat, niche, population, community, ecosystem, biosphere</b> is a key part of Basic Ecology (SSS 1, Biology). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Basic Terms Ecology \u2013 the study of the relationship between organisms and their environment.</li><li>Habitat \u2013 the natural home of an organism (pond, forest floor, tree bark).</li><li>Ecological niche \u2013 the functional role and position of an organism in its habitat, including what it eats, when it is active and how it interacts with others.</li><li>Population \u2013 all individuals of one species in a given area at a given time.</li><li>Community \u2013 all populations living and interacting in an area.</li></ul><h4>Worked example</h4><p><b>Q:</b> The functional role of an organism in its habitat is its<br/><b>A:</b> niche \u2014 The niche describes how the organism lives and interacts, not merely where it lives.</p><p><b>Q:</b> All the living organisms interacting in a given area constitute a<br/><b>A:</b> community \u2014 A community is made up of all the populations in an area.</p>",
+      "examples": [
+        {
+          "q": "The functional role of an organism in its habitat is its",
+          "a": "niche \u2014 The niche describes how the organism lives and interacts, not merely where it lives."
+        },
+        {
+          "q": "All the living organisms interacting in a given area constitute a",
+          "a": "community \u2014 A community is made up of all the populations in an area."
+        }
+      ]
+    },
+    {
+      "title": "Describe the major biomes of the world and the Nigerian vegetation belts",
+      "html": "<p><b>Describe the major biomes of the world and the Nigerian vegetation belts</b> is a key part of Basic Ecology (SSS 1, Biology). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Major Biomes Biome Climate Typical organisms Tropical rainforest Heavy rainfall (&gt;2000 mm), high temperature Tall buttressed trees, lianas, epiphytes, monkeys Savanna (grassland) Seasonal rain, distinct dry season Grasses, scattered fire-resistant trees, grazers Desert Rainfall &lt;250 mm, extreme temperature range Cacti, succulents, camel, rodents Temperate forest / grassland Moderate, four seasons Deciduous trees, bison, deer Tundra / Arctic Very cold, permafrost Lichens, mosses, reindeer Aquatic (marine, estuarine, freshwater) Water-based Plankton, fish, mangroves From south to north Nigeria shows: mangrove/swamp forest \u2192 rainforest \u2192 derived savanna \u2192 Guinea savanna \u2192 Sudan savanna \u2192 Sahel savanna, reflecting a decreasing rainfall gradient.</li><li>Line and belt transects \u2013 record changes in vegetation along an environmental gradient.</li><li>Removal of a species from a web (for example a predator) can cause the prey population to explode and vegetation to be over-grazed, showing the interdependence of organisms.</li><li>Worked example Q: The functional role of an organism in its habitat is its A: niche \u2014 The niche describes how the organism lives and interacts, not merely where it lives.</li><li>The niche describes how the organism lives and interacts, not merely where it lives.</li></ul><h4>Worked example</h4><p><b>Q:</b> The vegetation belt with the lowest annual rainfall in Nigeria is the<br/><b>A:</b> Sahel savanna \u2014 The Sahel in the extreme north receives the least rain and has scattered thorny shrubs.</p>",
+      "examples": [
+        {
+          "q": "The vegetation belt with the lowest annual rainfall in Nigeria is the",
+          "a": "Sahel savanna \u2014 The Sahel in the extreme north receives the least rain and has scattered thorny shrubs."
+        }
+      ]
+    },
+    {
+      "title": "Construct food chains, food webs, trophic levels and ecological pyramids",
+      "html": "<p><b>Construct food chains, food webs, trophic levels and ecological pyramids</b> is a key part of Basic Ecology (SSS 1, Biology). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Ecological niche \u2013 the functional role and position of an organism in its habitat, including what it eats, when it is active and how it interacts with others.</li><li>Biotic Factors and Interactions Competition \u2013 intraspecific (same species) or interspecific (different species) for light, food, water, mates, space.</li><li>Trophic Levels A food chain shows the linear transfer of energy: producer \u2192 primary consumer \u2192 secondary consumer \u2192 tertiary consumer \u2192 decomposer .</li><li>A food web is a network of interconnected food chains and is more realistic because most organisms eat, and are eaten by, several species.</li><li>At each transfer roughly 90 % of the energy is lost as heat, in respiration, movement, excretion and to uneaten parts, so only about 10 % passes on: $$\\text{Efficiency} = \\frac{\\text{energy in next trophic level}}{\\text{energy in previous trophic level}} \\times 100\\%$$ Consequently food chains rarely exceed four or five links, and energy flow is unidirectional while nutrients are cycled .</li></ul><h4>Worked example</h4><p><b>Q:</b> In the food chain grass \u2192 grasshopper \u2192 lizard \u2192 hawk, the lizard is a<br/><b>A:</b> secondary consumer \u2014 It feeds on the herbivorous grasshopper, making it a second-order consumer.</p><p><b>Q:</b> Approximately what percentage of energy is transferred from one trophic level to the next?<br/><b>A:</b> 10 % \u2014 About 90 % is lost as heat and in metabolism, so roughly 10 % is passed on.</p>",
+      "examples": [
+        {
+          "q": "In the food chain grass \u2192 grasshopper \u2192 lizard \u2192 hawk, the lizard is a",
+          "a": "secondary consumer \u2014 It feeds on the herbivorous grasshopper, making it a second-order consumer."
+        },
+        {
+          "q": "Approximately what percentage of energy is transferred from one trophic level to the next?",
+          "a": "10 % \u2014 About 90 % is lost as heat and in metabolism, so roughly 10 % is passed on."
+        }
+      ]
     }
-   ]
-  }
- ],
- "quiz": [
-  {
-   "q": "The functional role of an organism in its habitat is its",
-   "options": [
-    "population",
-    "niche",
-    "biome",
-    "community"
-   ],
-   "answer": "1",
-   "solution": "The niche describes how the organism lives and interacts, not merely where it lives."
-  },
-  {
-   "q": "All the living organisms interacting in a given area constitute a",
-   "options": [
-    "population",
-    "community",
-    "ecosystem",
-    "biosphere"
-   ],
-   "answer": "1",
-   "solution": "A community is made up of all the populations in an area."
-  },
-  {
-   "q": "Which of these is an abiotic factor?",
-   "options": [
-    "Predation",
-    "Competition",
-    "Soil pH",
-    "Parasitism"
-   ],
-   "answer": "2",
-   "solution": "pH is a non-living chemical factor of the environment."
-  },
-  {
-   "q": "The instrument used to measure relative humidity is the",
-   "options": [
-    "anemometer",
-    "hygrometer",
-    "photometer",
-    "hydrometer"
-   ],
-   "answer": "1",
-   "solution": "A hygrometer (wet-and-dry bulb) measures atmospheric humidity."
-  },
-  {
-   "q": "Wind speed is measured with a",
-   "options": [
-    "rain gauge",
-    "wind vane",
-    "anemometer",
-    "Secchi disc"
-   ],
-   "answer": "2",
-   "solution": "An anemometer measures speed; a wind vane shows direction."
-  },
-  {
-   "q": "In the food chain grass → grasshopper → lizard → hawk, the lizard is a",
-   "options": [
-    "producer",
-    "primary consumer",
-    "secondary consumer",
-    "decomposer"
-   ],
-   "answer": "2",
-   "solution": "It feeds on the herbivorous grasshopper, making it a second-order consumer."
-  },
-  {
-   "q": "Approximately what percentage of energy is transferred from one trophic level to the next?",
-   "options": [
-    "1 %",
-    "10 %",
-    "50 %",
-    "90 %"
-   ],
-   "answer": "1",
-   "solution": "About 90 % is lost as heat and in metabolism, so roughly 10 % is passed on."
-  },
-  {
-   "q": "Which pyramid is always upright?",
-   "options": [
-    "Pyramid of numbers",
-    "Pyramid of biomass",
-    "Pyramid of energy",
-    "All of them"
-   ],
-   "answer": "2",
-   "solution": "Energy always decreases with each transfer, so its pyramid cannot be inverted."
-  },
-  {
-   "q": "Bacteria and fungi that break down dead organisms are called",
-   "options": [
-    "producers",
-    "decomposers",
-    "predators",
-    "parasites"
-   ],
-   "answer": "1",
-   "solution": "They release nutrients from dead matter back into the ecosystem."
-  },
-  {
-   "q": "The relationship between a lichen's alga and fungus is",
-   "options": [
-    "parasitism",
-    "mutualism",
-    "predation",
-    "commensalism"
-   ],
-   "answer": "1",
-   "solution": "The alga supplies food by photosynthesis while the fungus provides anchorage, water and mineral salts."
-  },
-  {
-   "q": "An orchid growing on the branch of a tree without harming it illustrates",
-   "options": [
-    "mutualism",
-    "commensalism",
-    "parasitism",
-    "competition"
-   ],
-   "answer": "1",
-   "solution": "The epiphyte gains support and light; the tree is unaffected."
-  },
-  {
-   "q": "A quadrat is best used to sample",
-   "options": [
-    "birds",
-    "fish",
-    "sessile plants",
-    "flying insects"
-   ],
-   "answer": "2",
-   "solution": "Quadrats work for organisms that do not move away, such as herbs and grasses."
-  },
-  {
-   "q": "Using the Lincoln index, if 50 fish were marked, 40 later caught and 10 were marked, the population is",
-   "options": [
-    "80",
-    "200",
-    "400",
-    "500"
-   ],
-   "answer": "1",
-   "solution": "\\( N = (50 \\times 40)/10 = 200 \\)."
-  },
-  {
-   "q": "The vegetation belt with the lowest annual rainfall in Nigeria is the",
-   "options": [
-    "rainforest",
-    "Guinea savanna",
-    "Sahel savanna",
-    "mangrove swamp"
-   ],
-   "answer": "2",
-   "solution": "The Sahel in the extreme north receives the least rain and has scattered thorny shrubs."
-  },
-  {
-   "q": "Energy flow through an ecosystem is described as",
-   "options": [
-    "cyclic",
-    "unidirectional",
-    "reversible",
-    "random"
-   ],
-   "answer": "1",
-   "solution": "Energy enters as sunlight and leaves as heat; it is not recycled like nutrients."
-  },
-  {
-   "q": "The accumulation of DDT to harmful levels in top carnivores is called",
-   "options": [
-    "eutrophication",
-    "biomagnification",
-    "succession",
-    "deforestation"
-   ],
-   "answer": "1",
-   "solution": "Persistent, fat-soluble toxins become more concentrated at each successive trophic level."
-  }
- ]
+  ],
+  "quiz": [
+    {
+      "q": "The functional role of an organism in its habitat is its",
+      "options": [
+        "population",
+        "niche",
+        "biome",
+        "community"
+      ],
+      "answer": 1,
+      "solution": "The niche describes how the organism lives and interacts, not merely where it lives.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "All the living organisms interacting in a given area constitute a",
+      "options": [
+        "population",
+        "community",
+        "ecosystem",
+        "biosphere"
+      ],
+      "answer": 1,
+      "solution": "A community is made up of all the populations in an area.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of these is an abiotic factor?",
+      "options": [
+        "Predation",
+        "Competition",
+        "Soil pH",
+        "Parasitism"
+      ],
+      "answer": 2,
+      "solution": "pH is a non-living chemical factor of the environment.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The instrument used to measure relative humidity is the",
+      "options": [
+        "anemometer",
+        "hygrometer",
+        "photometer",
+        "hydrometer"
+      ],
+      "answer": 1,
+      "solution": "A hygrometer (wet-and-dry bulb) measures atmospheric humidity.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Wind speed is measured with a",
+      "options": [
+        "rain gauge",
+        "wind vane",
+        "anemometer",
+        "Secchi disc"
+      ],
+      "answer": 2,
+      "solution": "An anemometer measures speed; a wind vane shows direction.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In the food chain grass \u2192 grasshopper \u2192 lizard \u2192 hawk, the lizard is a",
+      "options": [
+        "producer",
+        "primary consumer",
+        "secondary consumer",
+        "decomposer"
+      ],
+      "answer": 2,
+      "solution": "It feeds on the herbivorous grasshopper, making it a second-order consumer.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Approximately what percentage of energy is transferred from one trophic level to the next?",
+      "options": [
+        "1 %",
+        "10 %",
+        "50 %",
+        "90 %"
+      ],
+      "answer": 1,
+      "solution": "About 90 % is lost as heat and in metabolism, so roughly 10 % is passed on.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which pyramid is always upright?",
+      "options": [
+        "Pyramid of numbers",
+        "Pyramid of biomass",
+        "Pyramid of energy",
+        "All of them"
+      ],
+      "answer": 2,
+      "solution": "Energy always decreases with each transfer, so its pyramid cannot be inverted.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Bacteria and fungi that break down dead organisms are called",
+      "options": [
+        "producers",
+        "decomposers",
+        "predators",
+        "parasites"
+      ],
+      "answer": 1,
+      "solution": "They release nutrients from dead matter back into the ecosystem.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The relationship between a lichen's alga and fungus is",
+      "options": [
+        "parasitism",
+        "mutualism",
+        "predation",
+        "commensalism"
+      ],
+      "answer": 1,
+      "solution": "The alga supplies food by photosynthesis while the fungus provides anchorage, water and mineral salts.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "An orchid growing on the branch of a tree without harming it illustrates",
+      "options": [
+        "mutualism",
+        "commensalism",
+        "parasitism",
+        "competition"
+      ],
+      "answer": 1,
+      "solution": "The epiphyte gains support and light; the tree is unaffected.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A quadrat is best used to sample",
+      "options": [
+        "birds",
+        "fish",
+        "sessile plants",
+        "flying insects"
+      ],
+      "answer": 2,
+      "solution": "Quadrats work for organisms that do not move away, such as herbs and grasses.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Using the Lincoln index, if 50 fish were marked, 40 later caught and 10 were marked, the population is",
+      "options": [
+        "80",
+        "200",
+        "400",
+        "500"
+      ],
+      "answer": 1,
+      "solution": "\\( N = (50 \\times 40)/10 = 200 \\).",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The vegetation belt with the lowest annual rainfall in Nigeria is the",
+      "options": [
+        "rainforest",
+        "Guinea savanna",
+        "Sahel savanna",
+        "mangrove swamp"
+      ],
+      "answer": 2,
+      "solution": "The Sahel in the extreme north receives the least rain and has scattered thorny shrubs.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Energy flow through an ecosystem is described as",
+      "options": [
+        "cyclic",
+        "unidirectional",
+        "reversible",
+        "random"
+      ],
+      "answer": 1,
+      "solution": "Energy enters as sunlight and leaves as heat; it is not recycled like nutrients.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The accumulation of DDT to harmful levels in top carnivores is called",
+      "options": [
+        "eutrophication",
+        "biomagnification",
+        "succession",
+        "deforestation"
+      ],
+      "answer": 1,
+      "solution": "Persistent, fat-soluble toxins become more concentrated at each successive trophic level.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Abiotic factor in ecology:",
+      "options": [
+        "Predator",
+        "Temperature",
+        "Prey",
+        "Decomposer"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Temperature.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The basic unit of classification of living things is the _____.",
+      "options": [
+        "Genus",
+        "Species",
+        "Phylum",
+        "Kingdom"
+      ],
+      "answer": 1,
+      "solution": "Species is the lowest and most basic unit of classification, consisting of organisms that can interbreed to produce fertile offspring.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The sequence of energy flow in an ecosystem is _____.",
+      "options": [
+        "Producer -> Herbivore -> Carnivore",
+        "Producer -> Carnivore -> Herbivore",
+        "Herbivore -> Producer -> Carnivore",
+        "Carnivore -> Herbivore -> Producer"
+      ],
+      "answer": 0,
+      "solution": "Energy flows from primary producers (plants) to primary consumers (herbivores) and then to secondary consumers (carnivores).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The basic functional unit of life is the:",
+      "options": [
+        "Tissue",
+        "Organ",
+        "Cell",
+        "System"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: Cell.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Basic unit of classification is:",
+      "options": [
+        "Kingdom",
+        "Phylum",
+        "Class",
+        "Species"
+      ],
+      "answer": 3,
+      "solution": "Past question (JAMB 2021). Correct answer: Species.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Ecology is study of:",
+      "options": [
+        "Cells",
+        "Environment and organisms",
+        "Genetics",
+        "Evolution"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Environment and organisms.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The basic unit of classification is:",
+      "options": [
+        "Kingdom",
+        "Class",
+        "Species",
+        "Genus"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Species.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Basic unit of classification:",
+      "options": [
+        "Kingdom",
+        "Class",
+        "Family",
+        "Species"
+      ],
+      "answer": 3,
+      "solution": "Past question (JAMB 2023). Correct answer: Species.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Basic unit of heredity:",
+      "options": [
+        "Gene",
+        "Chromosome",
+        "Nucleus",
+        "Cell"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Gene.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Ecology is the study of:",
+      "options": [
+        "Animals only",
+        "Plants only",
+        "Organisms and their environment",
+        "Rocks"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: Organisms and their environment.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Ecology unit:",
+      "options": [
+        "Population",
+        "Cell",
+        "Tissue",
+        "Organ"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Population.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The basic functional unit of heredity is the?",
+      "options": [
+        "Chromosome",
+        "Cell",
+        "Nucleotide",
+        "Gene"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Gene.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The basic and smallest unit used in the classification of living things is?",
+      "options": [
+        "Species",
+        "Kingdom",
+        "Genus",
+        "Family"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Species.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Plants that manufacture their own food using light energy exhibit which type of nutrition?",
+      "options": [
+        "Holozoic",
+        "Holophytic (Autotrophic)",
+        "Saprophytic",
+        "Parasitic"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Holophytic (Autotrophic).",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a biotic factor in an ecosystem?",
+      "options": [
+        "Temperature",
+        "Soil pH",
+        "Predation",
+        "Rainfall"
+      ],
+      "answer": 2,
+      "solution": "Biotic factors are living components; predation involves interactions between living organisms.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is an abiotic factor in an ecosystem?",
+      "options": [
+        "Decomposers",
+        "Temperature",
+        "Producers",
+        "Parasites"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Temperature.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "In a food chain, the primary source of energy is:",
+      "options": [
+        "Grass",
+        "Sun",
+        "Water",
+        "Herbivore"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Sun.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Plants that manufacture their own food are called:",
+      "options": [
+        "Heterotrophs",
+        "Autotrophs",
+        "Saprophytes",
+        "Parasites"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Autotrophs.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The process by which green plants manufacture their own food is?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Excretion"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Photosynthesis.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The first trophic level in any food chain is occupied by?",
+      "options": [
+        "Producers",
+        "Decomposers",
+        "Primary Consumers",
+        "Predators"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Producers.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The process by which complex food substances are broken down into simpler soluble forms is _____.",
+      "options": [
+        "Absorption",
+        "Assimilation",
+        "Digestion",
+        "Egestion"
+      ],
+      "answer": 2,
+      "solution": "Digestion is the mechanical and chemical breakdown of food.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The green pigment found in plants that traps solar energy is _____.",
+      "options": [
+        "Carotene",
+        "Xanthophyll",
+        "Chlorophyll",
+        "Anthocyanin"
+      ],
+      "answer": 2,
+      "solution": "Chlorophyll is the primary pigment responsible for photosynthesis.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A food chain always begins with a/an _____.",
+      "options": [
+        "Decomposer",
+        "Consumer",
+        "Producer",
+        "Omnivore"
+      ],
+      "answer": 2,
+      "solution": "Producers (autotrophs) are the foundation of any food chain as they capture energy from the sun.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A group of organisms of the same species living in a particular habitat at a particular time is a _____.",
+      "options": [
+        "Community",
+        "Population",
+        "Ecosystem",
+        "Niche"
+      ],
+      "answer": 1,
+      "solution": "Population refers to members of a single species in a defined area, while community includes all species in that area.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a physical factor in an ecosystem?",
+      "options": [
+        "Predation",
+        "Symbiosis",
+        "Temperature",
+        "Competition"
+      ],
+      "answer": 2,
+      "solution": "Temperature is an abiotic (physical) factor. Predation, symbiosis, and competition are biotic factors.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The phenotypic ratio of the F2 generation in a monohybrid cross according to Mendel's law is _____.",
+      "options": [
+        "1:2:1",
+        "3:1",
+        "9:3:3:1",
+        "1:1"
+      ],
+      "answer": 1,
+      "solution": "In the F2 generation of a monohybrid cross, 3 show the dominant trait and 1 shows the recessive trait.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The part of the seed that provides food for the embryo during germination is the _____.",
+      "options": [
+        "Radicle",
+        "Plumule",
+        "Cotyledon",
+        "Testa"
+      ],
+      "answer": 2,
+      "solution": "Cotyledons (or endosperm in some seeds) store nutrients required until the first leaves can photosynthesize.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Mendel's First Law is:",
+      "options": [
+        "Segregation",
+        "Independent Assortment",
+        "Dominance",
+        "Use and Disuse"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Segregation.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Abiotic factor includes:",
+      "options": [
+        "Temperature",
+        "Predator",
+        "Prey",
+        "Decomposer"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Temperature.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Primary producer in a food chain:",
+      "options": [
+        "Lion",
+        "Goat",
+        "Grass",
+        "Hawk"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: Grass.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The process by which green plants manufacture food is:",
+      "options": [
+        "Respiration",
+        "Transpiration",
+        "Photosynthesis",
+        "Digestion"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Photosynthesis.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The correct sequence of food passage in the digestive system is:",
+      "options": [
+        "Mouth -> Stomach -> Oesophagus -> Intestine",
+        "Mouth -> Oesophagus -> Stomach -> Small Intestine",
+        "Stomach -> Mouth -> Intestine -> Oesophagus",
+        "Mouth -> Intestine -> Stomach -> Oesophagus"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Mouth -> Oesophagus -> Stomach -> Small Intestine.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a biotic factor?",
+      "options": [
+        "Soil",
+        "Water",
+        "Predator",
+        "Sunlight"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Predator.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Fungi store food as:",
+      "options": [
+        "Starch",
+        "Glycogen",
+        "Glucose",
+        "Fat"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Glycogen.",
+      "source": "JAMB 2023",
+      "practice": false
+    }
+  ]
 }

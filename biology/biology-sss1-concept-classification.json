@@ -1,236 +1,752 @@
 {
- "subject": "Biology",
- "level": "SSS 1",
- "slug": "concept-classification",
- "title": "Concept and Classification of Living Things",
- "outline": [
-  "Distinguish living things from non-living things using the seven characteristics of life (MR NIGER D)",
-  "Explain the concept of the cell as the basic unit of life and the levels of biological organisation",
-  "Describe the classification hierarchy from kingdom to species",
-  "Apply the rules of binomial nomenclature correctly",
-  "Compare the general features of the five kingdoms: Monera, Protista, Fungi, Plantae and Animalia",
-  "Use simple dichotomous keys to identify organisms"
- ],
- "modules": [
-  {
-   "title": "Characteristics of Living Things and Levels of Organisation",
-   "html": "\n<h4>1. What is Biology?</h4>\n<p>Biology is the scientific study of living things (organisms), their structure, function, growth, origin, evolution, distribution and interactions with one another and with their environment. It branches broadly into <b>botany</b> (plants), <b>zoology</b> (animals) and <b>microbiology</b> (micro-organisms).</p>\n<h4>2. The Seven Characteristics of Life</h4>\n<p>The mnemonic <b>MR NIGER D</b> summarises the life processes shown by all living organisms:</p>\n<ol>\n<li><b>M</b>ovement – change in position of the whole body (locomotion in animals) or of a part (tropic and nastic movements in plants).</li>\n<li><b>R</b>espiration – the controlled release of energy from food within cells.</li>\n<li><b>N</b>utrition – taking in and using materials for energy, growth and repair; <i>autotrophic</i> in green plants, <i>heterotrophic</i> in animals and fungi.</li>\n<li><b>I</b>rritability (sensitivity) – detecting and responding to stimuli such as light, heat, gravity, water and chemicals.</li>\n<li><b>G</b>rowth – permanent, irreversible increase in size, mass and complexity by cell division and assimilation.</li>\n<li><b>E</b>xcretion – removal of toxic metabolic wastes (urea, carbon dioxide, excess salts).</li>\n<li><b>R</b>eproduction – production of new individuals, sexually or asexually, to continue the species.</li>\n<li><b>D</b>eath – the irreversible end of all life processes; all living things eventually die, non-living things do not.</li>\n</ol>\n<h4>3. Living, Non-living and Once-living</h4>\n<table class=\"tb-table\">\n<tr><th>Feature</th><th>Living things</th><th>Non-living things</th></tr>\n<tr><td>Cellular structure</td><td>Made of cells with protoplasm</td><td>No cells or protoplasm</td></tr>\n<tr><td>Growth</td><td>Internal (intussusception)</td><td>External accretion only (e.g. crystals)</td></tr>\n<tr><td>Energy</td><td>Respire to release energy</td><td>Do not respire</td></tr>\n<tr><td>Response</td><td>Sensitive to stimuli</td><td>Not sensitive</td></tr>\n<tr><td>Life span</td><td>Definite; ends in death</td><td>Indefinite</td></tr>\n</table>\n<p>Viruses occupy a borderline position: they possess nucleic acid and can reproduce, but only inside a living host cell, and they can be crystallised like chemicals.</p>\n<h4>4. Levels of Biological Organisation</h4>\n<p>Complexity increases in a clear sequence:</p>\n<ul>\n<li><b>Cell</b> – basic structural and functional unit (e.g. <i>Amoeba</i>, red blood cell).</li>\n<li><b>Tissue</b> – similar cells performing one function (xylem, muscle).</li>\n<li><b>Organ</b> – several tissues working together (leaf, heart).</li>\n<li><b>System</b> – organs cooperating (digestive system, shoot system).</li>\n<li><b>Organism</b> – the complete individual.</li>\n<li><b>Population → Community → Ecosystem → Biosphere</b> – ecological levels.</li>\n</ul>\n<p>Organisms may be unicellular (<i>Paramecium</i>), colonial (<i>Volvox</i>), filamentous (<i>Spirogyra</i>) or multicellular with division of labour (mammals, flowering plants).</p>\n",
-   "examples": [
+  "subject": "Biology",
+  "level": "SSS 1",
+  "slug": "concept-classification",
+  "title": "Concept and Classification of Living Things",
+  "outline": [
+    "Distinguish living things from non-living things using the seven characteristics of life (MR NIGER D)",
+    "Explain the concept of the cell as the basic unit of life and the levels of biological organisation",
+    "Describe the classification hierarchy from kingdom to species",
+    "Apply the rules of binomial nomenclature correctly",
+    "Compare the general features of the five kingdoms: Monera, Protista, Fungi, Plantae and Animalia",
+    "Use simple dichotomous keys to identify organisms"
+  ],
+  "modules": [
     {
-     "q": "A car burns petrol, moves and gives out exhaust gases. Why is it not classified as a living thing?",
-     "a": "Although it appears to 'move', 'respire' and 'excrete', a car is not made of cells, cannot grow from within, cannot reproduce itself and is not sensitive to stimuli in a coordinated way. Life is defined by the possession of <i>all</i> the characteristics of MR NIGER D within a cellular, protoplasmic body."
+      "title": "Characteristics of Living Things and Levels of Organisation",
+      "html": "\n<h4>1. What is Biology?</h4>\n<p>Biology is the scientific study of living things (organisms), their structure, function, growth, origin, evolution, distribution and interactions with one another and with their environment. It branches broadly into <b>botany</b> (plants), <b>zoology</b> (animals) and <b>microbiology</b> (micro-organisms).</p>\n<h4>2. The Seven Characteristics of Life</h4>\n<p>The mnemonic <b>MR NIGER D</b> summarises the life processes shown by all living organisms:</p>\n<ol>\n<li><b>M</b>ovement \u2013 change in position of the whole body (locomotion in animals) or of a part (tropic and nastic movements in plants).</li>\n<li><b>R</b>espiration \u2013 the controlled release of energy from food within cells.</li>\n<li><b>N</b>utrition \u2013 taking in and using materials for energy, growth and repair; <i>autotrophic</i> in green plants, <i>heterotrophic</i> in animals and fungi.</li>\n<li><b>I</b>rritability (sensitivity) \u2013 detecting and responding to stimuli such as light, heat, gravity, water and chemicals.</li>\n<li><b>G</b>rowth \u2013 permanent, irreversible increase in size, mass and complexity by cell division and assimilation.</li>\n<li><b>E</b>xcretion \u2013 removal of toxic metabolic wastes (urea, carbon dioxide, excess salts).</li>\n<li><b>R</b>eproduction \u2013 production of new individuals, sexually or asexually, to continue the species.</li>\n<li><b>D</b>eath \u2013 the irreversible end of all life processes; all living things eventually die, non-living things do not.</li>\n</ol>\n<h4>3. Living, Non-living and Once-living</h4>\n<table class=\"tb-table\">\n<tr><th>Feature</th><th>Living things</th><th>Non-living things</th></tr>\n<tr><td>Cellular structure</td><td>Made of cells with protoplasm</td><td>No cells or protoplasm</td></tr>\n<tr><td>Growth</td><td>Internal (intussusception)</td><td>External accretion only (e.g. crystals)</td></tr>\n<tr><td>Energy</td><td>Respire to release energy</td><td>Do not respire</td></tr>\n<tr><td>Response</td><td>Sensitive to stimuli</td><td>Not sensitive</td></tr>\n<tr><td>Life span</td><td>Definite; ends in death</td><td>Indefinite</td></tr>\n</table>\n<p>Viruses occupy a borderline position: they possess nucleic acid and can reproduce, but only inside a living host cell, and they can be crystallised like chemicals.</p>\n<h4>4. Levels of Biological Organisation</h4>\n<p>Complexity increases in a clear sequence:</p>\n<ul>\n<li><b>Cell</b> \u2013 basic structural and functional unit (e.g. <i>Amoeba</i>, red blood cell).</li>\n<li><b>Tissue</b> \u2013 similar cells performing one function (xylem, muscle).</li>\n<li><b>Organ</b> \u2013 several tissues working together (leaf, heart).</li>\n<li><b>System</b> \u2013 organs cooperating (digestive system, shoot system).</li>\n<li><b>Organism</b> \u2013 the complete individual.</li>\n<li><b>Population \u2192 Community \u2192 Ecosystem \u2192 Biosphere</b> \u2013 ecological levels.</li>\n</ul>\n<p>Organisms may be unicellular (<i>Paramecium</i>), colonial (<i>Volvox</i>), filamentous (<i>Spirogyra</i>) or multicellular with division of labour (mammals, flowering plants).</p>\n",
+      "examples": [
+        {
+          "q": "A car burns petrol, moves and gives out exhaust gases. Why is it not classified as a living thing?",
+          "a": "Although it appears to 'move', 'respire' and 'excrete', a car is not made of cells, cannot grow from within, cannot reproduce itself and is not sensitive to stimuli in a coordinated way. Life is defined by the possession of <i>all</i> the characteristics of MR NIGER D within a cellular, protoplasmic body."
+        },
+        {
+          "q": "Arrange in increasing order of complexity: organ, cell, organism, tissue, system.",
+          "a": "Cell \u2192 tissue \u2192 organ \u2192 system \u2192 organism. For example: palisade cell \u2192 palisade mesophyll tissue \u2192 leaf \u2192 shoot system \u2192 mango tree."
+        }
+      ]
     },
     {
-     "q": "Arrange in increasing order of complexity: organ, cell, organism, tissue, system.",
-     "a": "Cell → tissue → organ → system → organism. For example: palisade cell → palisade mesophyll tissue → leaf → shoot system → mango tree."
-    }
-   ]
-  },
-  {
-   "title": "Classification and Binomial Nomenclature",
-   "html": "\n<h4>1. Why Classify?</h4>\n<p>Taxonomy is the science of naming, describing and grouping organisms. Classification (i) makes the study of about two million known species manageable, (ii) shows evolutionary relationships, (iii) allows accurate international communication, and (iv) helps in identification of new organisms.</p>\n<h4>2. The Taxonomic Hierarchy</h4>\n<p>From the largest, most inclusive group to the smallest:</p>\n<ol><li>Kingdom</li><li>Phylum (Division in plants)</li><li>Class</li><li>Order</li><li>Family</li><li>Genus</li><li>Species</li></ol>\n<p>Mnemonic: <b>K</b>ing <b>P</b>hilip <b>C</b>ame <b>O</b>ver <b>F</b>or <b>G</b>ood <b>S</b>oup. As we descend the hierarchy the number of organisms per group decreases while the number of shared characteristics increases.</p>\n<h4>3. The Species Concept</h4>\n<p>A <b>species</b> is a group of organisms with very similar features that can interbreed freely to produce fertile offspring. A horse (<i>Equus caballus</i>) crossed with a donkey (<i>Equus asinus</i>) gives a mule, which is sterile — proof that they are separate species.</p>\n<h4>4. Rules of Binomial Nomenclature (Linnaeus, 1753)</h4>\n<ul>\n<li>Every organism has a two-word Latin name: <i>generic name</i> + <i>specific epithet</i>.</li>\n<li>The generic name begins with a capital letter; the specific epithet is entirely lower case: <i>Homo sapiens</i>, <i>Zea mays</i>.</li>\n<li>The name is printed in <i>italics</i> and <u>underlined</u> separately when handwritten.</li>\n<li>After first mention the genus may be abbreviated: <i>E. coli</i>.</li>\n</ul>\n<h4>5. Dichotomous Keys</h4>\n<p>A dichotomous key presents paired, contrasting statements; at each step the user chooses one and is directed onward until the organism is named. Example:</p>\n<ol><li>a. Body with jointed legs … go to 2<br/>b. Body without jointed legs … earthworm</li>\n<li>a. Three pairs of legs … insect<br/>b. Four pairs of legs … spider</li></ol>\n",
-   "examples": [
-    {
-     "q": "Write the scientific name of maize correctly and identify the parts.",
-     "a": "<i>Zea mays</i> — <b>Zea</b> is the generic name (capital initial) and <b>mays</b> is the specific epithet (small letter). Both are italicised in print and underlined separately in handwriting."
+      "title": "Classification and Binomial Nomenclature",
+      "html": "\n<h4>1. Why Classify?</h4>\n<p>Taxonomy is the science of naming, describing and grouping organisms. Classification (i) makes the study of about two million known species manageable, (ii) shows evolutionary relationships, (iii) allows accurate international communication, and (iv) helps in identification of new organisms.</p>\n<h4>2. The Taxonomic Hierarchy</h4>\n<p>From the largest, most inclusive group to the smallest:</p>\n<ol><li>Kingdom</li><li>Phylum (Division in plants)</li><li>Class</li><li>Order</li><li>Family</li><li>Genus</li><li>Species</li></ol>\n<p>Mnemonic: <b>K</b>ing <b>P</b>hilip <b>C</b>ame <b>O</b>ver <b>F</b>or <b>G</b>ood <b>S</b>oup. As we descend the hierarchy the number of organisms per group decreases while the number of shared characteristics increases.</p>\n<h4>3. The Species Concept</h4>\n<p>A <b>species</b> is a group of organisms with very similar features that can interbreed freely to produce fertile offspring. A horse (<i>Equus caballus</i>) crossed with a donkey (<i>Equus asinus</i>) gives a mule, which is sterile \u2014 proof that they are separate species.</p>\n<h4>4. Rules of Binomial Nomenclature (Linnaeus, 1753)</h4>\n<ul>\n<li>Every organism has a two-word Latin name: <i>generic name</i> + <i>specific epithet</i>.</li>\n<li>The generic name begins with a capital letter; the specific epithet is entirely lower case: <i>Homo sapiens</i>, <i>Zea mays</i>.</li>\n<li>The name is printed in <i>italics</i> and <u>underlined</u> separately when handwritten.</li>\n<li>After first mention the genus may be abbreviated: <i>E. coli</i>.</li>\n</ul>\n<h4>5. Dichotomous Keys</h4>\n<p>A dichotomous key presents paired, contrasting statements; at each step the user chooses one and is directed onward until the organism is named. Example:</p>\n<ol><li>a. Body with jointed legs \u2026 go to 2<br/>b. Body without jointed legs \u2026 earthworm</li>\n<li>a. Three pairs of legs \u2026 insect<br/>b. Four pairs of legs \u2026 spider</li></ol>\n",
+      "examples": [
+        {
+          "q": "Write the scientific name of maize correctly and identify the parts.",
+          "a": "<i>Zea mays</i> \u2014 <b>Zea</b> is the generic name (capital initial) and <b>mays</b> is the specific epithet (small letter). Both are italicised in print and underlined separately in handwriting."
+        },
+        {
+          "q": "Two organisms belong to the same family but different genera. Which taxa do they certainly share?",
+          "a": "They share kingdom, phylum, class, order and family, but differ from genus downwards. Shared characteristics therefore exist at the family level and above."
+        }
+      ]
     },
     {
-     "q": "Two organisms belong to the same family but different genera. Which taxa do they certainly share?",
-     "a": "They share kingdom, phylum, class, order and family, but differ from genus downwards. Shared characteristics therefore exist at the family level and above."
-    }
-   ]
-  },
-  {
-   "title": "The Five Kingdoms",
-   "html": "\n<h4>Whittaker’s Five-Kingdom Scheme (1969)</h4>\n<table class=\"tb-table\">\n<tr><th>Kingdom</th><th>Cell type</th><th>Body</th><th>Nutrition</th><th>Examples</th></tr>\n<tr><td>Monera</td><td>Prokaryotic (no true nucleus, no membrane-bound organelles)</td><td>Unicellular</td><td>Autotrophic or heterotrophic</td><td>Bacteria, cyanobacteria (<i>Nostoc</i>)</td></tr>\n<tr><td>Protista</td><td>Eukaryotic</td><td>Mostly unicellular</td><td>Photosynthetic or holozoic</td><td><i>Amoeba</i>, <i>Paramecium</i>, <i>Euglena</i>, <i>Plasmodium</i></td></tr>\n<tr><td>Fungi</td><td>Eukaryotic, chitin wall</td><td>Hyphae forming mycelium</td><td>Saprophytic or parasitic (heterotrophic, no chlorophyll)</td><td><i>Rhizopus</i>, mushroom, yeast</td></tr>\n<tr><td>Plantae</td><td>Eukaryotic, cellulose wall</td><td>Multicellular</td><td>Autotrophic (photosynthesis)</td><td>Mosses, ferns, maize, mango</td></tr>\n<tr><td>Animalia</td><td>Eukaryotic, no cell wall</td><td>Multicellular</td><td>Heterotrophic (holozoic)</td><td>Insects, fish, birds, humans</td></tr>\n</table>\n<h4>Major Plant Divisions</h4>\n<ul><li><b>Thallophyta</b> – algae; simple thallus.</li><li><b>Bryophyta</b> – mosses and liverworts; no vascular tissue, need water for fertilisation.</li><li><b>Pteridophyta</b> – ferns; vascular but seedless, reproduce by spores.</li><li><b>Spermatophyta</b> – seed plants: <i>Gymnospermae</i> (naked seeds, e.g. <i>Cycas</i>) and <i>Angiospermae</i> (seeds in fruits; monocots vs dicots).</li></ul>\n<h4>Major Animal Phyla</h4>\n<ul><li>Porifera (sponges), Coelenterata (<i>Hydra</i>, jellyfish), Platyhelminthes (tapeworm), Nematoda (<i>Ascaris</i>), Annelida (earthworm), Mollusca (snail), Arthropoda (insects, crustaceans, arachnids, myriapods), Echinodermata (starfish), Chordata (fish, amphibia, reptiles, birds, mammals).</li></ul>\n<p>Arthropoda is the largest phylum; its members have an exoskeleton of chitin, jointed appendages, a segmented body and open circulation.</p>\n",
-   "examples": [
-    {
-     "q": "<i>Euglena</i> shows both plant and animal features. Explain and state its kingdom.",
-     "a": "It has chloroplasts and photosynthesises (plant-like) but also possesses a flagellum for locomotion, an eyespot and a contractile vacuole, and can feed heterotrophically in darkness (animal-like). Because it is a unicellular eukaryote it is placed in the kingdom <b>Protista</b>."
+      "title": "The Five Kingdoms",
+      "html": "\n<h4>Whittaker\u2019s Five-Kingdom Scheme (1969)</h4>\n<table class=\"tb-table\">\n<tr><th>Kingdom</th><th>Cell type</th><th>Body</th><th>Nutrition</th><th>Examples</th></tr>\n<tr><td>Monera</td><td>Prokaryotic (no true nucleus, no membrane-bound organelles)</td><td>Unicellular</td><td>Autotrophic or heterotrophic</td><td>Bacteria, cyanobacteria (<i>Nostoc</i>)</td></tr>\n<tr><td>Protista</td><td>Eukaryotic</td><td>Mostly unicellular</td><td>Photosynthetic or holozoic</td><td><i>Amoeba</i>, <i>Paramecium</i>, <i>Euglena</i>, <i>Plasmodium</i></td></tr>\n<tr><td>Fungi</td><td>Eukaryotic, chitin wall</td><td>Hyphae forming mycelium</td><td>Saprophytic or parasitic (heterotrophic, no chlorophyll)</td><td><i>Rhizopus</i>, mushroom, yeast</td></tr>\n<tr><td>Plantae</td><td>Eukaryotic, cellulose wall</td><td>Multicellular</td><td>Autotrophic (photosynthesis)</td><td>Mosses, ferns, maize, mango</td></tr>\n<tr><td>Animalia</td><td>Eukaryotic, no cell wall</td><td>Multicellular</td><td>Heterotrophic (holozoic)</td><td>Insects, fish, birds, humans</td></tr>\n</table>\n<h4>Major Plant Divisions</h4>\n<ul><li><b>Thallophyta</b> \u2013 algae; simple thallus.</li><li><b>Bryophyta</b> \u2013 mosses and liverworts; no vascular tissue, need water for fertilisation.</li><li><b>Pteridophyta</b> \u2013 ferns; vascular but seedless, reproduce by spores.</li><li><b>Spermatophyta</b> \u2013 seed plants: <i>Gymnospermae</i> (naked seeds, e.g. <i>Cycas</i>) and <i>Angiospermae</i> (seeds in fruits; monocots vs dicots).</li></ul>\n<h4>Major Animal Phyla</h4>\n<ul><li>Porifera (sponges), Coelenterata (<i>Hydra</i>, jellyfish), Platyhelminthes (tapeworm), Nematoda (<i>Ascaris</i>), Annelida (earthworm), Mollusca (snail), Arthropoda (insects, crustaceans, arachnids, myriapods), Echinodermata (starfish), Chordata (fish, amphibia, reptiles, birds, mammals).</li></ul>\n<p>Arthropoda is the largest phylum; its members have an exoskeleton of chitin, jointed appendages, a segmented body and open circulation.</p>\n",
+      "examples": [
+        {
+          "q": "<i>Euglena</i> shows both plant and animal features. Explain and state its kingdom.",
+          "a": "It has chloroplasts and photosynthesises (plant-like) but also possesses a flagellum for locomotion, an eyespot and a contractile vacuole, and can feed heterotrophically in darkness (animal-like). Because it is a unicellular eukaryote it is placed in the kingdom <b>Protista</b>."
+        },
+        {
+          "q": "Why are fungi no longer classified as plants?",
+          "a": "Fungi lack chlorophyll and cannot photosynthesise; their cell walls are made of chitin, not cellulose; they store glycogen rather than starch and feed saprophytically or parasitically by extracellular digestion. These differences justify a separate kingdom."
+        }
+      ]
     },
     {
-     "q": "Why are fungi no longer classified as plants?",
-     "a": "Fungi lack chlorophyll and cannot photosynthesise; their cell walls are made of chitin, not cellulose; they store glycogen rather than starch and feed saprophytically or parasitically by extracellular digestion. These differences justify a separate kingdom."
+      "title": "Distinguish living things from non-living things using the seven characteristics of life (MR NIGER D)",
+      "html": "<p><b>Distinguish living things from non-living things using the seven characteristics of life (MR NIGER D)</b> is a key part of Concept and Classification of Living Things (SSS 1, Biology). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Biology is the scientific study of living things (organisms), their structure, function, growth, origin, evolution, distribution and interactions with one another and with their environment.</li><li>The Seven Characteristics of Life The mnemonic MR NIGER D summarises the life processes shown by all living organisms: M ovement \u2013 change in position of the whole body (locomotion in animals) or of a part (tropic and nastic movements in plants).</li><li>N utrition \u2013 taking in and using materials for energy, growth and repair; autotrophic in green plants, heterotrophic in animals and fungi.</li><li>D eath \u2013 the irreversible end of all life processes; all living things eventually die, non-living things do not.</li><li>Living, Non-living and Once-living Feature Living things Non-living things Cellular structure Made of cells with protoplasm No cells or protoplasm Growth Internal (intussusception) External accretion only (e.g.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which of the following is NOT a characteristic of living things?<br/><b>A:</b> Crystallisation \u2014 Crystallisation is a physical property of non-living substances such as salt; it is not a life process.</p><p><b>Q:</b> The mnemonic MR NIGER D is used to remember the<br/><b>A:</b> characteristics of living things \u2014 MR NIGER D stands for Movement, Respiration, Nutrition, Irritability, Growth, Excretion, Reproduction and Death.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is NOT a characteristic of living things?",
+          "a": "Crystallisation \u2014 Crystallisation is a physical property of non-living substances such as salt; it is not a life process."
+        },
+        {
+          "q": "The mnemonic MR NIGER D is used to remember the",
+          "a": "characteristics of living things \u2014 MR NIGER D stands for Movement, Respiration, Nutrition, Irritability, Growth, Excretion, Reproduction and Death."
+        }
+      ]
+    },
+    {
+      "title": "Explain the concept of the cell as the basic unit of life and the levels of biological organisation",
+      "html": "<p><b>Explain the concept of the cell as the basic unit of life and the levels of biological organisation</b> is a key part of Concept and Classification of Living Things (SSS 1, Biology). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>The Seven Characteristics of Life The mnemonic MR NIGER D summarises the life processes shown by all living organisms: M ovement \u2013 change in position of the whole body (locomotion in animals) or of a part (tropic and nastic movements in plants).</li><li>R espiration \u2013 the controlled release of energy from food within cells.</li><li>G rowth \u2013 permanent, irreversible increase in size, mass and complexity by cell division and assimilation.</li><li>D eath \u2013 the irreversible end of all life processes; all living things eventually die, non-living things do not.</li><li>Living, Non-living and Once-living Feature Living things Non-living things Cellular structure Made of cells with protoplasm No cells or protoplasm Growth Internal (intussusception) External accretion only (e.g.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which of the following is NOT a characteristic of living things?<br/><b>A:</b> Crystallisation \u2014 Crystallisation is a physical property of non-living substances such as salt; it is not a life process.</p><p><b>Q:</b> Members of the same species are best defined by their ability to<br/><b>A:</b> interbreed and produce fertile offspring \u2014 Reproductive compatibility yielding fertile offspring is the biological species criterion; a mule is sterile, so horse and donkey are separate species.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is NOT a characteristic of living things?",
+          "a": "Crystallisation \u2014 Crystallisation is a physical property of non-living substances such as salt; it is not a life process."
+        },
+        {
+          "q": "Members of the same species are best defined by their ability to",
+          "a": "interbreed and produce fertile offspring \u2014 Reproductive compatibility yielding fertile offspring is the biological species criterion; a mule is sterile, so horse and donkey are separate species."
+        }
+      ]
+    },
+    {
+      "title": "Describe the classification hierarchy from kingdom to species",
+      "html": "<p><b>Describe the classification hierarchy from kingdom to species</b> is a key part of Concept and Classification of Living Things (SSS 1, Biology). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>R eproduction \u2013 production of new individuals, sexually or asexually, to continue the species.</li><li>Classification (i) makes the study of about two million known species manageable, (ii) shows evolutionary relationships, (iii) allows accurate international communication, and (iv) helps in identification of new organisms.</li><li>The Taxonomic Hierarchy From the largest, most inclusive group to the smallest: Kingdom Phylum (Division in plants) Class Order Family Genus Species Mnemonic: K ing P hilip C ame O ver F or G ood S oup.</li><li>As we descend the hierarchy the number of organisms per group decreases while the number of shared characteristics increases.</li><li>The Species Concept A species is a group of organisms with very similar features that can interbreed freely to produce fertile offspring.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which taxon contains the largest number of different organisms?<br/><b>A:</b> Kingdom \u2014 Kingdom is the widest taxon; as one moves down the hierarchy the group becomes smaller and more specific.</p><p><b>Q:</b> Members of the same species are best defined by their ability to<br/><b>A:</b> interbreed and produce fertile offspring \u2014 Reproductive compatibility yielding fertile offspring is the biological species criterion; a mule is sterile, so horse and donkey are separate species.</p>",
+      "examples": [
+        {
+          "q": "Which taxon contains the largest number of different organisms?",
+          "a": "Kingdom \u2014 Kingdom is the widest taxon; as one moves down the hierarchy the group becomes smaller and more specific."
+        },
+        {
+          "q": "Members of the same species are best defined by their ability to",
+          "a": "interbreed and produce fertile offspring \u2014 Reproductive compatibility yielding fertile offspring is the biological species criterion; a mule is sterile, so horse and donkey are separate species."
+        }
+      ]
     }
-   ]
-  }
- ],
- "quiz": [
-  {
-   "q": "Which of the following is NOT a characteristic of living things?",
-   "options": [
-    "Respiration",
-    "Irritability",
-    "Crystallisation",
-    "Excretion"
-   ],
-   "answer": "2",
-   "solution": "Crystallisation is a physical property of non-living substances such as salt; it is not a life process."
-  },
-  {
-   "q": "The mnemonic MR NIGER D is used to remember the",
-   "options": [
-    "stages of mitosis",
-    "characteristics of living things",
-    "levels of organisation",
-    "kingdoms of life"
-   ],
-   "answer": "1",
-   "solution": "MR NIGER D stands for Movement, Respiration, Nutrition, Irritability, Growth, Excretion, Reproduction and Death."
-  },
-  {
-   "q": "Growth in living organisms differs from 'growth' in crystals because living growth is",
-   "options": [
-    "external and reversible",
-    "internal, permanent and irreversible",
-    "caused by heat only",
-    "not accompanied by cell division"
-   ],
-   "answer": "1",
-   "solution": "Living organisms grow by intussusception — new material is added inside the body and the increase is permanent and irreversible."
-  },
-  {
-   "q": "The correct sequence of increasing complexity is",
-   "options": [
-    "cell → organ → tissue → system",
-    "tissue → cell → system → organ",
-    "cell → tissue → organ → system",
-    "organ → system → tissue → cell"
-   ],
-   "answer": "2",
-   "solution": "Similar cells form tissues, tissues form organs, organs cooperate as systems."
-  },
-  {
-   "q": "Which organism is a colonial protist showing early division of labour?",
-   "options": [
-    "Amoeba",
-    "Volvox",
-    "Paramecium",
-    "Rhizopus"
-   ],
-   "answer": "1",
-   "solution": "<i>Volvox</i> forms a hollow spherical colony of flagellated cells with some cells specialised for reproduction."
-  },
-  {
-   "q": "The scientific name of the domestic cat is written correctly as",
-   "options": [
-    "felis Catus",
-    "Felis catus",
-    "FELIS CATUS",
-    "felis catus"
-   ],
-   "answer": "1",
-   "solution": "The generic name takes a capital initial and the specific epithet a small letter; the whole name is italicised."
-  },
-  {
-   "q": "Which taxon contains the largest number of different organisms?",
-   "options": [
-    "Genus",
-    "Family",
-    "Order",
-    "Kingdom"
-   ],
-   "answer": "3",
-   "solution": "Kingdom is the widest taxon; as one moves down the hierarchy the group becomes smaller and more specific."
-  },
-  {
-   "q": "Members of the same species are best defined by their ability to",
-   "options": [
-    "live in the same habitat",
-    "interbreed and produce fertile offspring",
-    "possess the same colour",
-    "feed on the same food"
-   ],
-   "answer": "1",
-   "solution": "Reproductive compatibility yielding fertile offspring is the biological species criterion; a mule is sterile, so horse and donkey are separate species."
-  },
-  {
-   "q": "Organisms in the kingdom Monera are characterised by",
-   "options": [
-    "a true nucleus",
-    "membrane-bound organelles",
-    "the absence of a nuclear membrane",
-    "chitinous walls"
-   ],
-   "answer": "2",
-   "solution": "Monerans are prokaryotes: their genetic material lies free in the cytoplasm without a nuclear membrane."
-  },
-  {
-   "q": "The cell wall of fungi is composed mainly of",
-   "options": [
-    "cellulose",
-    "chitin",
-    "peptidoglycan",
-    "lignin"
-   ],
-   "answer": "1",
-   "solution": "Fungal walls contain chitin, unlike the cellulose walls of plants."
-  },
-  {
-   "q": "Which of the following is a seedless vascular plant?",
-   "options": [
-    "Moss",
-    "Fern",
-    "Cycad",
-    "Maize"
-   ],
-   "answer": "1",
-   "solution": "Ferns (Pteridophyta) possess xylem and phloem but reproduce by spores, not seeds."
-  },
-  {
-   "q": "A distinguishing feature of phylum Arthropoda is the possession of",
-   "options": [
-    "a notochord",
-    "jointed appendages and an exoskeleton",
-    "radial symmetry and tube feet",
-    "a soft body with a mantle"
-   ],
-   "answer": "1",
-   "solution": "Jointed limbs plus a chitinous exoskeleton define arthropods; tube feet belong to echinoderms and the mantle to molluscs."
-  },
-  {
-   "q": "Viruses are difficult to classify mainly because they",
-   "options": [
-    "are very small",
-    "can be crystallised and reproduce only inside host cells",
-    "contain protein",
-    "cause diseases"
-   ],
-   "answer": "1",
-   "solution": "Their ability to be crystallised (non-living trait) and their obligate intracellular reproduction (living trait) place them on the borderline of life."
-  },
-  {
-   "q": "A dichotomous key works by offering the user",
-   "options": [
-    "a list of scientific names",
-    "pairs of contrasting statements",
-    "photographs only",
-    "a random selection"
-   ],
-   "answer": "1",
-   "solution": "At every step the key gives two mutually exclusive alternatives that progressively narrow the identification."
-  },
-  {
-   "q": "Which kingdom contains eukaryotic, multicellular, heterotrophic organisms lacking cell walls?",
-   "options": [
-    "Plantae",
-    "Fungi",
-    "Animalia",
-    "Protista"
-   ],
-   "answer": "2",
-   "solution": "Animals are multicellular eukaryotic heterotrophs whose cells have a flexible plasma membrane and no cell wall."
-  },
-  {
-   "q": "Nutrition in green plants is described as",
-   "options": [
-    "holozoic",
-    "saprophytic",
-    "autotrophic",
-    "parasitic"
-   ],
-   "answer": "2",
-   "solution": "Green plants manufacture their own organic food from carbon dioxide and water using light energy, hence autotrophic."
-  }
- ]
+  ],
+  "quiz": [
+    {
+      "q": "Which of the following is NOT a characteristic of living things?",
+      "options": [
+        "Respiration",
+        "Irritability",
+        "Crystallisation",
+        "Excretion"
+      ],
+      "answer": 2,
+      "solution": "Crystallisation is a physical property of non-living substances such as salt; it is not a life process.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The mnemonic MR NIGER D is used to remember the",
+      "options": [
+        "stages of mitosis",
+        "characteristics of living things",
+        "levels of organisation",
+        "kingdoms of life"
+      ],
+      "answer": 1,
+      "solution": "MR NIGER D stands for Movement, Respiration, Nutrition, Irritability, Growth, Excretion, Reproduction and Death.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Growth in living organisms differs from 'growth' in crystals because living growth is",
+      "options": [
+        "external and reversible",
+        "internal, permanent and irreversible",
+        "caused by heat only",
+        "not accompanied by cell division"
+      ],
+      "answer": 1,
+      "solution": "Living organisms grow by intussusception \u2014 new material is added inside the body and the increase is permanent and irreversible.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The correct sequence of increasing complexity is",
+      "options": [
+        "cell \u2192 organ \u2192 tissue \u2192 system",
+        "tissue \u2192 cell \u2192 system \u2192 organ",
+        "cell \u2192 tissue \u2192 organ \u2192 system",
+        "organ \u2192 system \u2192 tissue \u2192 cell"
+      ],
+      "answer": 2,
+      "solution": "Similar cells form tissues, tissues form organs, organs cooperate as systems.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which organism is a colonial protist showing early division of labour?",
+      "options": [
+        "Amoeba",
+        "Volvox",
+        "Paramecium",
+        "Rhizopus"
+      ],
+      "answer": 1,
+      "solution": "<i>Volvox</i> forms a hollow spherical colony of flagellated cells with some cells specialised for reproduction.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The scientific name of the domestic cat is written correctly as",
+      "options": [
+        "felis Catus",
+        "Felis catus",
+        "FELIS CATUS",
+        "felis catus"
+      ],
+      "answer": 1,
+      "solution": "The generic name takes a capital initial and the specific epithet a small letter; the whole name is italicised.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which taxon contains the largest number of different organisms?",
+      "options": [
+        "Genus",
+        "Family",
+        "Order",
+        "Kingdom"
+      ],
+      "answer": 3,
+      "solution": "Kingdom is the widest taxon; as one moves down the hierarchy the group becomes smaller and more specific.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Members of the same species are best defined by their ability to",
+      "options": [
+        "live in the same habitat",
+        "interbreed and produce fertile offspring",
+        "possess the same colour",
+        "feed on the same food"
+      ],
+      "answer": 1,
+      "solution": "Reproductive compatibility yielding fertile offspring is the biological species criterion; a mule is sterile, so horse and donkey are separate species.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Organisms in the kingdom Monera are characterised by",
+      "options": [
+        "a true nucleus",
+        "membrane-bound organelles",
+        "the absence of a nuclear membrane",
+        "chitinous walls"
+      ],
+      "answer": 2,
+      "solution": "Monerans are prokaryotes: their genetic material lies free in the cytoplasm without a nuclear membrane.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The cell wall of fungi is composed mainly of",
+      "options": [
+        "cellulose",
+        "chitin",
+        "peptidoglycan",
+        "lignin"
+      ],
+      "answer": 1,
+      "solution": "Fungal walls contain chitin, unlike the cellulose walls of plants.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a seedless vascular plant?",
+      "options": [
+        "Moss",
+        "Fern",
+        "Cycad",
+        "Maize"
+      ],
+      "answer": 1,
+      "solution": "Ferns (Pteridophyta) possess xylem and phloem but reproduce by spores, not seeds.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A distinguishing feature of phylum Arthropoda is the possession of",
+      "options": [
+        "a notochord",
+        "jointed appendages and an exoskeleton",
+        "radial symmetry and tube feet",
+        "a soft body with a mantle"
+      ],
+      "answer": 1,
+      "solution": "Jointed limbs plus a chitinous exoskeleton define arthropods; tube feet belong to echinoderms and the mantle to molluscs.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Viruses are difficult to classify mainly because they",
+      "options": [
+        "are very small",
+        "can be crystallised and reproduce only inside host cells",
+        "contain protein",
+        "cause diseases"
+      ],
+      "answer": 1,
+      "solution": "Their ability to be crystallised (non-living trait) and their obligate intracellular reproduction (living trait) place them on the borderline of life.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A dichotomous key works by offering the user",
+      "options": [
+        "a list of scientific names",
+        "pairs of contrasting statements",
+        "photographs only",
+        "a random selection"
+      ],
+      "answer": 1,
+      "solution": "At every step the key gives two mutually exclusive alternatives that progressively narrow the identification.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which kingdom contains eukaryotic, multicellular, heterotrophic organisms lacking cell walls?",
+      "options": [
+        "Plantae",
+        "Fungi",
+        "Animalia",
+        "Protista"
+      ],
+      "answer": 2,
+      "solution": "Animals are multicellular eukaryotic heterotrophs whose cells have a flexible plasma membrane and no cell wall.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Nutrition in green plants is described as",
+      "options": [
+        "holozoic",
+        "saprophytic",
+        "autotrophic",
+        "parasitic"
+      ],
+      "answer": 2,
+      "solution": "Green plants manufacture their own organic food from carbon dioxide and water using light energy, hence autotrophic.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which is NOT a characteristic of living things?",
+      "options": [
+        "Respiration",
+        "Reproduction",
+        "Stagnation",
+        "Growth"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: Stagnation.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a fundamental characteristic of all living things?",
+      "options": [
+        "Density",
+        "Irritability (Sensitivity)",
+        "Solubility",
+        "Hardness"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Irritability (Sensitivity).",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The unit of classification that contains organisms that can interbreed to produce fertile offspring is _____.",
+      "options": [
+        "Genus",
+        "Order",
+        "Species",
+        "Class"
+      ],
+      "answer": 2,
+      "solution": "The species is the biological unit of reproduction and the most specific rank in classification.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "A group of organisms of the same species living in a specific area is called a:",
+      "options": [
+        "Community",
+        "Population",
+        "Ecosystem",
+        "Biome"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Population.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The study of the interactions between living organisms and their environment is?",
+      "options": [
+        "Genetics",
+        "Anatomy",
+        "Ecology",
+        "Physiology"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Ecology.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The biological process by which organisms ensure the continuation of their species is?",
+      "options": [
+        "Respiration",
+        "Reproduction",
+        "Excretion",
+        "Growth"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Reproduction.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The innermost part of the tooth containing living tissues, nerves, and blood vessels is the?",
+      "options": [
+        "Enamel",
+        "Dentine",
+        "Pulp cavity",
+        "Cementum"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Pulp cavity.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "In the binomial system of nomenclature, the first name represents the _____.",
+      "options": [
+        "Species",
+        "Family",
+        "Order",
+        "Genus"
+      ],
+      "answer": 3,
+      "solution": "Scientific names consist of two parts: the Genus (first, capitalized) and the species (second, lowercase).",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The functional unit of life is:",
+      "options": [
+        "Tissue",
+        "Organ",
+        "Cell",
+        "System"
+      ],
+      "answer": 2,
+      "solution": "Past question (WAEC 2025). Correct answer: Cell.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The theory of \"Inheritance of Acquired Characteristics\" (Use and Disuse) was proposed by?",
+      "options": [
+        "Charles Darwin",
+        "Jean-Baptiste Lamarck",
+        "Gregor Mendel",
+        "Alfred Wallace"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Jean-Baptiste Lamarck.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which of these organisms exhibits holozoic nutrition?",
+      "options": [
+        "Mushroom",
+        "Amoeba",
+        "Spirogyra",
+        "Tapeworm"
+      ],
+      "answer": 1,
+      "solution": "Amoeba engulfs solid food particles (phagocytosis), which is a characteristic of holozoic nutrition.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The structural and functional unit of the nervous system is the _____.",
+      "options": [
+        "Nephron",
+        "Neuron",
+        "Axon",
+        "Dendrite"
+      ],
+      "answer": 1,
+      "solution": "Neurons are the specialized cells that transmit nerve impulses throughout the body.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The functional unit of the kidney is the _____.",
+      "options": [
+        "Ureter",
+        "Nephron",
+        "Bladder",
+        "Cortex"
+      ],
+      "answer": 1,
+      "solution": "The nephron is the microscopic structure responsible for filtration, reabsorption, and urine formation.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The theory of use and disuse was proposed by _____.",
+      "options": [
+        "Charles Darwin",
+        "Jean Lamarck",
+        "Gregor Mendel",
+        "Alfred Wallace"
+      ],
+      "answer": 1,
+      "solution": "Lamarck suggested that organs used frequently become more developed, while those not used degenerate.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "In the process of succession, the first organisms to colonize a bare rock are called _____.",
+      "options": [
+        "Climax community",
+        "Pioneer species",
+        "Secondary consumers",
+        "Seral stages"
+      ],
+      "answer": 1,
+      "solution": "Pioneer species (like lichens) are the first to inhabit a previously uncolonized area.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The study of the relationship between a single species and its environment is _____.",
+      "options": [
+        "Synecology",
+        "Autecology",
+        "Ecology",
+        "Ethology"
+      ],
+      "answer": 1,
+      "solution": "Autecology focuses on individual species, while synecology focuses on communities.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The type of evolution where different species develop similar traits due to similar environments is _____.",
+      "options": [
+        "Divergent evolution",
+        "Convergent evolution",
+        "Adaptive radiation",
+        "Parallel evolution"
+      ],
+      "answer": 1,
+      "solution": "Convergent evolution leads to analogous structures, like wings in birds and insects.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The level of organization of life exemplified by a heart is the _____.",
+      "options": [
+        "Cell",
+        "Tissue",
+        "Organ",
+        "System"
+      ],
+      "answer": 2,
+      "solution": "The heart consists of different tissues working together to perform a specific function, which defines the organ level of organization.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following organisms exhibits holozoic nutrition?",
+      "options": [
+        "Mushroom",
+        "Spirogyra",
+        "Amoeba",
+        "Tapeworm"
+      ],
+      "answer": 2,
+      "solution": "Amoeba ingests solid food particles (phagocytosis), which is the hallmark of holozoic nutrition.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The structural and functional unit of the kidney is the _____.",
+      "options": [
+        "Neuron",
+        "Nephron",
+        "Ureter",
+        "Cortex"
+      ],
+      "answer": 1,
+      "solution": "The nephron is responsible for filtration, reabsorption, and secretion, forming urine in the process.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following organisms has a single-circuit circulatory system?",
+      "options": [
+        "Fish",
+        "Amphibian",
+        "Reptile",
+        "Mammal"
+      ],
+      "answer": 0,
+      "solution": "Fish have a two-chambered heart where blood flows from the heart to the gills, then to the body, and back to the heart in one loop.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The symbiotic relationship where both organisms benefit is _____.",
+      "options": [
+        "Parasitism",
+        "Commensalism",
+        "Mutualism",
+        "Saprophytism"
+      ],
+      "answer": 2,
+      "solution": "Mutualism is a type of symbiosis where both parties derive advantage (e.g., lichens).",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The structural unit of the nervous system is the _____.",
+      "options": [
+        "Brain",
+        "Spinal cord",
+        "Neuron",
+        "Axon"
+      ],
+      "answer": 2,
+      "solution": "Neurons are the specialized cells that transmit electrochemical signals throughout the body.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Example of non-biodegradable pollutant:",
+      "options": [
+        "Paper",
+        "Plastic",
+        "Wood",
+        "Leaves"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Plastic.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which of these organisms reproduces by binary fission?",
+      "options": [
+        "Hydra",
+        "Amoeba",
+        "Spirogyra",
+        "Mucor"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Amoeba.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Amoeba moves using:",
+      "options": [
+        "Cilia",
+        "Flagella",
+        "Pseudopodia",
+        "Legs"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: Pseudopodia.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Hydrocarbons with the general formula $C_nH_{2n}$ are...",
+      "options": [
+        "Alkanes",
+        "Alkenes",
+        "Alkynes",
+        "Alkanols"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Alkenes.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following organisms is unicellular?",
+      "options": [
+        "Earthworm",
+        "Amoeba",
+        "Grasshopper",
+        "Toad"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Amoeba.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The unit of heredity is the:",
+      "options": [
+        "Chromosome",
+        "Gene",
+        "Nucleus",
+        "Gamete"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Gene.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Which is a non-biodegradable pollutant?",
+      "options": [
+        "Paper",
+        "Plastic",
+        "Wood",
+        "Food waste"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Plastic.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The largest phylum in the animal kingdom is:",
+      "options": [
+        "Chordata",
+        "Arthropoda",
+        "Mollusca",
+        "Annelida"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Arthropoda.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The functional unit of the kidney:",
+      "options": [
+        "Nephron",
+        "Neuron",
+        "Alveoli",
+        "Villi"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Nephron.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Theory of Use and Disuse:",
+      "options": [
+        "Lamarck",
+        "Darwin",
+        "Mendel",
+        "Pasteur"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Lamarck.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Non-biodegradable waste:",
+      "options": [
+        "Plastic",
+        "Paper",
+        "Food",
+        "Leaves"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Plastic.",
+      "source": "WAEC 2025",
+      "practice": false
+    }
+  ]
 }

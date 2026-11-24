@@ -55,6 +55,34 @@
           "a": "(1) Establishment of agricultural development banks that offer loans at low interest rates specifically to farmers. (2) Formation of farmers' cooperative societies that pool resources and provide credit to members. (3) Government-backed agricultural insurance and guarantee schemes that reduce the risk to commercial banks lending to farmers, thereby encouraging more lending."
         }
       ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> Agricultural development refers to<br/><b>A:</b> progressive improvement in agricultural productivity and efficiency \u2014 Agricultural development means continuous improvement in productivity, efficiency and profitability of farming activities.</p><p><b>Q:</b> Land fragmentation is mainly caused by<br/><b>A:</b> continuous subdivision of land through inheritance \u2014 Repeated sharing of land among heirs over generations leads to smaller and scattered plots, known as fragmentation.</p><p><b>Q:</b> A 12-hectare farm is shared equally among 4 heirs. What size does each receive?<br/><b>A:</b> 3 hectares \u2014 \\(12 \\div 4 = 3\\) hectares per heir.</p>",
+      "examples": [
+        {
+          "q": "Agricultural development refers to",
+          "a": "progressive improvement in agricultural productivity and efficiency"
+        },
+        {
+          "q": "Land fragmentation is mainly caused by",
+          "a": "continuous subdivision of land through inheritance"
+        }
+      ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> Agricultural development refers to<br/><b>A:</b> progressive improvement in agricultural productivity and efficiency \u2014 Agricultural development means continuous improvement in productivity, efficiency and profitability of farming activities.</p><p><b>Q:</b> Land fragmentation is mainly caused by<br/><b>A:</b> continuous subdivision of land through inheritance \u2014 Repeated sharing of land among heirs over generations leads to smaller and scattered plots, known as fragmentation.</p><p><b>Q:</b> A 12-hectare farm is shared equally among 4 heirs. What size does each receive?<br/><b>A:</b> 3 hectares \u2014 \\(12 \\div 4 = 3\\) hectares per heir.</p>",
+      "examples": [
+        {
+          "q": "Agricultural development refers to",
+          "a": "progressive improvement in agricultural productivity and efficiency"
+        },
+        {
+          "q": "Land fragmentation is mainly caused by",
+          "a": "continuous subdivision of land through inheritance"
+        }
+      ]
     }
   ],
   "quiz": [
@@ -66,8 +94,10 @@
         "abandonment of farmland",
         "reduction of farm income"
       ],
-      "answer": "1",
-      "solution": "Agricultural development means continuous improvement in productivity, efficiency and profitability of farming activities."
+      "answer": 1,
+      "solution": "Agricultural development means continuous improvement in productivity, efficiency and profitability of farming activities.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Land fragmentation is mainly caused by",
@@ -77,8 +107,10 @@
         "mechanisation of farms",
         "use of fertilisers"
       ],
-      "answer": "1",
-      "solution": "Repeated sharing of land among heirs over generations leads to smaller and scattered plots, known as fragmentation."
+      "answer": 1,
+      "solution": "Repeated sharing of land among heirs over generations leads to smaller and scattered plots, known as fragmentation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A 12-hectare farm is shared equally among 4 heirs. What size does each receive?",
@@ -88,8 +120,10 @@
         "4 hectares",
         "6 hectares"
       ],
-      "answer": "1",
-      "solution": "\\(12 \\div 4 = 3\\) hectares per heir."
+      "answer": 1,
+      "solution": "\\(12 \\div 4 = 3\\) hectares per heir.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Insecurity of land tenure mainly discourages",
@@ -99,8 +133,10 @@
         "government taxation",
         "rainfall distribution"
       ],
-      "answer": "1",
-      "solution": "Farmers without secure rights avoid investing in long-term projects like tree crops or irrigation since they may lose access to the land."
+      "answer": 1,
+      "solution": "Farmers without secure rights avoid investing in long-term projects like tree crops or irrigation since they may lose access to the land.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of the following is a labour-related problem of agricultural development?",
@@ -110,8 +146,10 @@
         "Low cocoa prices",
         "Poor soil pH"
       ],
-      "answer": "0",
-      "solution": "Migration of young able-bodied persons to cities leaves farming mainly to the elderly, reducing labour supply."
+      "answer": 0,
+      "solution": "Migration of young able-bodied persons to cities leaves farming mainly to the elderly, reducing labour supply.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A farmer harvests 2000 kg of grain and loses 10% to poor storage. How much grain is lost?",
@@ -121,8 +159,10 @@
         "200 kg",
         "250 kg"
       ],
-      "answer": "2",
-      "solution": "\\(0.10 \\times 2000 = 200\\) kg lost to poor storage."
+      "answer": 2,
+      "solution": "\\(0.10 \\times 2000 = 200\\) kg lost to poor storage.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a major technological problem facing agricultural development?",
@@ -132,8 +172,10 @@
         "Too many agricultural extension workers",
         "Oversupply of tractors"
       ],
-      "answer": "1",
-      "solution": "Many farmers still rely on manual tools like hoes and cutlasses due to low mechanisation."
+      "answer": 1,
+      "solution": "Many farmers still rely on manual tools like hoes and cutlasses due to low mechanisation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Poor rural roads mainly affect agriculture by",
@@ -143,8 +185,10 @@
         "reducing farm output directly",
         "increasing rainfall"
       ],
-      "answer": "1",
-      "solution": "Bad roads increase transportation costs and cause delays, leading to spoilage of perishable produce before reaching the market."
+      "answer": 1,
+      "solution": "Bad roads increase transportation costs and cause delays, leading to spoilage of perishable produce before reaching the market.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "If tomato price falls from N200 to N50 per basket during a glut, and a farmer sells 40 baskets, how much revenue is lost compared to the original price?",
@@ -154,8 +198,10 @@
         "N6,000",
         "N7,000"
       ],
-      "answer": "2",
-      "solution": "Original revenue = 40×200=N8,000; glut revenue=40×50=N2,000; loss = N8,000−N2,000 = N6,000."
+      "answer": 2,
+      "solution": "Original revenue = 40\u00d7200=N8,000; glut revenue=40\u00d750=N2,000; loss = N8,000\u2212N2,000 = N6,000.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A key marketing problem faced by farmers is",
@@ -165,8 +211,10 @@
         "abundance of cold storage",
         "stable prices year-round"
       ],
-      "answer": "0",
-      "solution": "Middlemen often buy at very low prices from farmers and resell at high prices to consumers, reducing farmers' income."
+      "answer": 0,
+      "solution": "Middlemen often buy at very low prices from farmers and resell at high prices to consumers, reducing farmers' income.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of the following best solves the problem of inadequate farm credit?",
@@ -176,8 +224,10 @@
         "Abandoning farmland",
         "Reducing extension services"
       ],
-      "answer": "0",
-      "solution": "Agricultural banks and cooperative societies provide accessible, low-interest credit to farmers."
+      "answer": 0,
+      "solution": "Agricultural banks and cooperative societies provide accessible, low-interest credit to farmers.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Government policy inconsistency affects agriculture by",
@@ -187,8 +237,10 @@
         "increasing farmer confidence",
         "reducing corruption automatically"
       ],
-      "answer": "1",
-      "solution": "Frequent policy changes prevent programmes from achieving their long-term objectives, discouraging farmer investment."
+      "answer": 1,
+      "solution": "Frequent policy changes prevent programmes from achieving their long-term objectives, discouraging farmer investment.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "One solution to land tenure problems is",
@@ -198,8 +250,10 @@
         "banning land inheritance entirely",
         "increasing land fragmentation"
       ],
-      "answer": "1",
-      "solution": "Land reform laws help streamline land access, reduce disputes, and encourage consolidation of fragmented holdings."
+      "answer": 1,
+      "solution": "Land reform laws help streamline land access, reduce disputes, and encourage consolidation of fragmented holdings.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Agricultural insurance schemes primarily help farmers by",
@@ -209,8 +263,10 @@
         "reducing crop yield",
         "eliminating the need for credit"
       ],
-      "answer": "1",
-      "solution": "Insurance compensates farmers for losses due to unpredictable events like floods, droughts, and pest infestations, encouraging continued investment."
+      "answer": 1,
+      "solution": "Insurance compensates farmers for losses due to unpredictable events like floods, droughts, and pest infestations, encouraging continued investment.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The cycle of low capital, low mechanisation and high labour cost in agriculture shows that agricultural problems are",
@@ -220,8 +276,465 @@
         "easily solved singly",
         "unrelated to national policy"
       ],
-      "answer": "1",
-      "solution": "Agricultural problems like poor finance, technology and labour are interlinked, so solving one in isolation often has limited impact without addressing the others."
+      "answer": 1,
+      "solution": "Agricultural problems like poor finance, technology and labour are interlinked, so solving one in isolation often has limited impact without addressing the others.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The system of land tenure where land is owned by the community or family is...",
+      "options": [
+        "Leasehold",
+        "Communal land tenure",
+        "Freehold",
+        "Tenant at will"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Communal land tenure.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A piece of land covered with grasses and legumes for livestock grazing is a _____.",
+      "options": [
+        "Forest",
+        "Pasture",
+        "Orchard",
+        "Nursery"
+      ],
+      "answer": 1,
+      "solution": "Pastures are specifically managed land units used for feeding ruminant animals.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Marketing involves:",
+      "options": [
+        "Only selling",
+        "Buying and selling",
+        "Eating",
+        "Planting"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Buying and selling.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The practice of growing different crops on the same piece of land in a planned sequence is...",
+      "options": [
+        "Mixed cropping",
+        "Monocropping",
+        "Crop rotation",
+        "Inter-cropping"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Crop rotation.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A piece of land covered with grass for grazing animals is a...",
+      "options": [
+        "Forest",
+        "Pasture",
+        "Orchard",
+        "Garden"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Pasture.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Land Use Act of 1978 vests land ownership in the?",
+      "options": [
+        "Individual.",
+        "Community.",
+        "Family.",
+        "State Government."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: State Government..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Fallowing land means?",
+      "options": [
+        "Planting trees.",
+        "Leaving land uncultivated to recover.",
+        "Overgrazing.",
+        "Burning."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Leaving land uncultivated to recover..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Marketing boards?",
+      "options": [
+        "Increase prices.",
+        "Stabilize prices.",
+        "Sell only to Europe.",
+        "Close farms."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Stabilize prices..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which is a marketing function?",
+      "options": [
+        "Only planting.",
+        "Only weeding.",
+        "Processing, Storage, Transport.",
+        "Only praying."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Processing, Storage, Transport..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Land is?",
+      "options": [
+        "Unlimited.",
+        "Free.",
+        "Mobile.",
+        "Limited in supply."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Limited in supply..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The reward for land is?",
+      "options": [
+        "Profit.",
+        "Interest.",
+        "Rent.",
+        "Wages."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Rent..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The reward for capital is?",
+      "options": [
+        "Rent.",
+        "Interest.",
+        "Wages.",
+        "Profit."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Interest..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\"Capital\" in agriculture includes?",
+      "options": [
+        "Only cash.",
+        "Only land.",
+        "Machinery, seeds, and livestock.",
+        "Only labor."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Machinery, seeds, and livestock..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The total value of assets minus the total value of liabilities of a farm is the _____.",
+      "options": [
+        "Gross margin",
+        "Net worth",
+        "Net income",
+        "Variable cost"
+      ],
+      "answer": 1,
+      "solution": "Net worth (or Equity) represents the owner's stake in the business after all debts have been settled.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A market situation with only one seller is called _____.",
+      "options": [
+        "Monopoly",
+        "Oligopoly",
+        "Monopsony",
+        "Perfect competition"
+      ],
+      "answer": 0,
+      "solution": "A monopoly exists when a single individual or organization is the sole supplier of a particular commodity or service.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The function of a farm manager which involves looking into the future and setting goals is _____.",
+      "options": [
+        "Organizing",
+        "Planning",
+        "Coordinating",
+        "Directing"
+      ],
+      "answer": 1,
+      "solution": "Planning is the primary management function that involves deciding in advance what to do, how to do it, and who is to do it.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The type of rock formed from the accumulation of sediments over time is _____.",
+      "options": [
+        "Igneous rock",
+        "Sedimentary rock",
+        "Metamorphic rock",
+        "Volcanic rock"
+      ],
+      "answer": 1,
+      "solution": "Sedimentary rocks are formed by the deposition and subsequent cementation of mineral or organic particles.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Soil texture refers to the _____.",
+      "options": [
+        "arrangement of soil particles",
+        "relative proportion of sand, silt, and clay",
+        "ability of soil to support life",
+        "color of the soil"
+      ],
+      "answer": 1,
+      "solution": "Texture is an inherent property of soil determined by the size distribution of its mineral particles.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following organisms is a soil macro-fauna?",
+      "options": [
+        "Bacteria",
+        "Fungi",
+        "Earthworm",
+        "Protozoa"
+      ],
+      "answer": 2,
+      "solution": "Earthworms are large enough to be seen with the naked eye (macro-fauna), whereas bacteria and fungi are micro-organisms.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "In the nitrogen cycle, the conversion of ammonia to nitrates is called _____.",
+      "options": [
+        "Nitrogen fixation",
+        "Nitrification",
+        "Denitrification",
+        "Ammonification"
+      ],
+      "answer": 1,
+      "solution": "Nitrification is a two-step biological process where ammonia is oxidized to nitrite and then to nitrate by specific bacteria (Nitrosomonas and Nitrobacter).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a physical property of soil?",
+      "options": [
+        "Cation exchange capacity",
+        "Soil structure",
+        "Organic matter content",
+        "Mineral nutrient levels"
+      ],
+      "answer": 1,
+      "solution": "Soil structure refers to the way soil particles are grouped together into aggregates (peds).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following irrigation methods is most wasteful of water?",
+      "options": [
+        "Drip irrigation",
+        "Sprinkler irrigation",
+        "Flood irrigation",
+        "Canal irrigation"
+      ],
+      "answer": 2,
+      "solution": "Flood irrigation involves covering the entire field with water, leading to high losses through evaporation and deep percolation.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A soil with high capillarity _____.",
+      "options": [
+        "allows water to drain away very quickly",
+        "allows water to rise easily through small pores",
+        "cannot hold any water at all",
+        "is always sandy in nature"
+      ],
+      "answer": 1,
+      "solution": "Capillarity is the ability of water to move upwards against gravity in narrow spaces, which is highest in clayey soils due to small pore sizes.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Organic matter in the soil is primarily derived from _____.",
+      "options": [
+        "weathered rocks",
+        "decomposed plants and animals",
+        "chemical fertilizers",
+        "rainfall"
+      ],
+      "answer": 1,
+      "solution": "Organic matter (humus) is formed from the biological decomposition of residues of plants and animals.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The term 'monandry' in animal breeding refers to _____.",
+      "options": [
+        "mating one male with many females",
+        "mating one female with only one male",
+        "mating many males with one female",
+        "preventing animals from mating"
+      ],
+      "answer": 1,
+      "solution": "Monandry is a mating system where a female has only one mate at a time.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a symptom of vitamin A deficiency in livestock?",
+      "options": [
+        "Scurvy",
+        "Night blindness",
+        "Rickets",
+        "Anemia"
+      ],
+      "answer": 1,
+      "solution": "Vitamin A is essential for vision; its deficiency leads to xerophthalmia or night blindness. Rickets is due to Vitamin D deficiency.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The process of egg-laying in poultry is called _____.",
+      "options": [
+        "Parturition",
+        "Oviposition",
+        "Incubation",
+        "Hatching"
+      ],
+      "answer": 1,
+      "solution": "Oviposition is the technical term for the act of laying an egg.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "In Mendelian inheritance, a cross between two heterozygous (Tt) tall plants will result in a phenotypic ratio of _____.",
+      "options": [
+        "1:1",
+        "3:1",
+        "9:3:3:1",
+        "1:2:1"
+      ],
+      "answer": 1,
+      "solution": "The cross Tt x Tt results in offspring: TT (Tall), Tt (Tall), Tt (Tall), and tt (Dwarf). Phenotypically, that is 3 Tall to 1 Dwarf.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a function of the liver in animals?",
+      "options": [
+        "Production of insulin",
+        "Storage of glycogen and vitamins",
+        "Pumping of blood",
+        "Gaseous exchange"
+      ],
+      "answer": 1,
+      "solution": "The liver plays a vital role in metabolism, including the storage of glucose as glycogen and the detoxification of chemicals.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The primary advantage of zero-grazing (stall feeding) is that it _____.",
+      "options": [
+        "allows animals to exercise freely",
+        "reduces the risk of parasite infestation",
+        "is cheaper than ranching",
+        "requires no specialized equipment"
+      ],
+      "answer": 1,
+      "solution": "In zero-grazing, fodder is brought to the animals. This prevents them from picking up worms or ticks from the pasture.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is an example of a bi-sexual (hermaphrodite) animal?",
+      "options": [
+        "Snail",
+        "Chicken",
+        "Cattle",
+        "Sheep"
+      ],
+      "answer": 0,
+      "solution": "Many land snails are hermaphrodites, possessing both male and female reproductive organs.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The act of giving birth in rabbits is called _____.",
+      "options": [
+        "Farrowing",
+        "Kindling",
+        "Kidding",
+        "Lambing"
+      ],
+      "answer": 1,
+      "solution": "Kindling is parturition in rabbits. Farrowing is for pigs, kidding for goats, and lambing for sheep.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which type of rock is formed from the cooling and solidification of molten magma?",
+      "options": [
+        "Sedimentary",
+        "Metamorphic",
+        "Igneous",
+        "Sandstone"
+      ],
+      "answer": 2,
+      "solution": "Igneous rocks, such as granite and basalt, are formed directly from the cooling of magma or lava.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The process of rock weathering that involves the reaction of minerals with oxygen is _____.",
+      "options": [
+        "Hydration",
+        "Oxidation",
+        "Carbonation",
+        "Hydrolysis"
+      ],
+      "answer": 1,
+      "solution": "Oxidation occurs when minerals react with oxygen, often changing the color and structural integrity of the rock (e.g., rusting of iron-rich rocks).",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "A soil sample with a pH of 4.5 is considered to be _____.",
+      "options": [
+        "Alkaline",
+        "Neutral",
+        "Strongly acidic",
+        "Saline"
+      ],
+      "answer": 2,
+      "solution": "The pH scale runs from 0-14. Values below 7 are acidic; 4.5 is significantly low, making it strongly acidic.",
+      "source": "NECO 2024",
+      "practice": false
     }
   ]
 }

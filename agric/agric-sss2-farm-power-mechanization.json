@@ -30,15 +30,15 @@
     },
     {
       "title": "The Farm Tractor and Power Measurement",
-      "html": "\n<h4>Types and Major Parts of the Tractor</h4>\n<p>Tractors are classified as wheeled tractors (two-wheel drive or four-wheel drive), crawler (track-laying) tractors, and garden/walking tractors for small plots. The major parts of a wheeled tractor include the engine, transmission system, differential, power take-off (PTO) shaft, hydraulic lift system, three-point hitch, drawbar, wheels/tyres and the operator's platform.</p>\n<table class=\"tb-table\">\n<tr><th>Part</th><th>Function</th></tr>\n<tr><td>Engine</td><td>Converts fuel energy into mechanical power</td></tr>\n<tr><td>PTO shaft</td><td>Transmits rotary power to attached implements (e.g. mowers, threshers)</td></tr>\n<tr><td>Three-point hitch</td><td>Attaches and controls mounted implements such as ploughs and harrows</td></tr>\n<tr><td>Hydraulic system</td><td>Raises and lowers implements and controls depth of operation</td></tr>\n<tr><td>Differential</td><td>Allows rear wheels to rotate at different speeds when turning</td></tr>\n</table>\n<h4>Drawbar Power and PTO Power</h4>\n<p>Drawbar power is the power available at the drawbar to pull implements, and is calculated as:</p>\n$$ P_{db} = F \\times v $$\n<p>where \\(F\\) is the pull force (in Newtons) and \\(v\\) is the forward speed (in m/s). PTO power is the rotary power delivered at the power take-off shaft, calculated as:</p>\n$$ P_{pto} = \\frac{2\\pi N T}{60} $$\n<p>where \\(N\\) is rotational speed in revolutions per minute (rpm) and \\(T\\) is torque in Newton-metres (N·m).</p>\n<h4>Tractor Selection Factors</h4>\n<p>Choice of tractor size depends on farm size, type of soil, cropping system, implements to be used, and available capital. Small farms (below 5 ha) may use walking tractors, medium farms (5&ndash;50 ha) commonly use tractors of 35&ndash;75 horsepower, while large commercial farms use tractors above 75 horsepower.</p>\n<h4>Worked Example on Drawbar and PTO Power</h4>\n<p>Consider a tractor pulling an implement with a drawbar pull force of \\(3000\\) N at a forward speed of \\(1.5\\) m/s. Using the formula \\(P_{db} = F \times v\\), the drawbar power is \\(3000 \times 1.5 = 4500\\) W, which is equivalent to about \\(6.0\\) horsepower (since \\(1\\) hp \\(\u0007pprox 746\\) W). Similarly, if a tractor's PTO shaft rotates at \\(540\\) rpm and delivers a torque of \\(100\\) N·m, then \\(P_{pto} = \\dfrac{2\\pi \times 540 \times 100}{60} \u0007pprox 5655\\) W, or roughly \\(7.6\\) horsepower. Such calculations help agricultural engineers and extension officers match tractors to specific field operations and implements, ensuring that neither the tractor is under-utilised nor the implement is overloaded.</p>\n<h4>Maintenance and Servicing Considerations</h4>\n<p>Proper power measurement also guides routine maintenance scheduling, since engines and hydraulic systems that operate consistently near their rated capacity require more frequent servicing. Farm managers in Nigeria and across West Africa are encouraged to keep logbooks of tractor operating hours, fuel consumption and drawbar performance so that timely maintenance, such as oil changes, filter replacement and tyre pressure checks, can be carried out before breakdowns occur during critical periods like land preparation and planting.</p>\n<h4>Economic Importance of Correct Tractor Selection</h4>\n<p>Selecting a tractor of appropriate horsepower for a given farm size and soil type prevents both under-mechanisation, which slows down operations and increases labour costs, and over-mechanisation, which leads to unnecessarily high capital and fuel expenditure. Extension agents therefore advise farmers to consider not only the purchase price of a tractor but also its power rating, fuel efficiency, availability of spare parts, and the range of implements it can operate, since these factors together determine the long-term profitability of mechanised farm operations in the Nigerian agricultural sector.</p>\n",
+      "html": "\n<h4>Types and Major Parts of the Tractor</h4>\n<p>Tractors are classified as wheeled tractors (two-wheel drive or four-wheel drive), crawler (track-laying) tractors, and garden/walking tractors for small plots. The major parts of a wheeled tractor include the engine, transmission system, differential, power take-off (PTO) shaft, hydraulic lift system, three-point hitch, drawbar, wheels/tyres and the operator's platform.</p>\n<table class=\"tb-table\">\n<tr><th>Part</th><th>Function</th></tr>\n<tr><td>Engine</td><td>Converts fuel energy into mechanical power</td></tr>\n<tr><td>PTO shaft</td><td>Transmits rotary power to attached implements (e.g. mowers, threshers)</td></tr>\n<tr><td>Three-point hitch</td><td>Attaches and controls mounted implements such as ploughs and harrows</td></tr>\n<tr><td>Hydraulic system</td><td>Raises and lowers implements and controls depth of operation</td></tr>\n<tr><td>Differential</td><td>Allows rear wheels to rotate at different speeds when turning</td></tr>\n</table>\n<h4>Drawbar Power and PTO Power</h4>\n<p>Drawbar power is the power available at the drawbar to pull implements, and is calculated as:</p>\n$$ P_{db} = F \\times v $$\n<p>where \\(F\\) is the pull force (in Newtons) and \\(v\\) is the forward speed (in m/s). PTO power is the rotary power delivered at the power take-off shaft, calculated as:</p>\n$$ P_{pto} = \\frac{2\\pi N T}{60} $$\n<p>where \\(N\\) is rotational speed in revolutions per minute (rpm) and \\(T\\) is torque in Newton-metres (N\u00b7m).</p>\n<h4>Tractor Selection Factors</h4>\n<p>Choice of tractor size depends on farm size, type of soil, cropping system, implements to be used, and available capital. Small farms (below 5 ha) may use walking tractors, medium farms (5&ndash;50 ha) commonly use tractors of 35&ndash;75 horsepower, while large commercial farms use tractors above 75 horsepower.</p>\n<h4>Worked Example on Drawbar and PTO Power</h4>\n<p>Consider a tractor pulling an implement with a drawbar pull force of \\(3000\\) N at a forward speed of \\(1.5\\) m/s. Using the formula \\(P_{db} = F \times v\\), the drawbar power is \\(3000 \times 1.5 = 4500\\) W, which is equivalent to about \\(6.0\\) horsepower (since \\(1\\) hp \\(\u0007pprox 746\\) W). Similarly, if a tractor's PTO shaft rotates at \\(540\\) rpm and delivers a torque of \\(100\\) N\u00b7m, then \\(P_{pto} = \\dfrac{2\\pi \times 540 \times 100}{60} \u0007pprox 5655\\) W, or roughly \\(7.6\\) horsepower. Such calculations help agricultural engineers and extension officers match tractors to specific field operations and implements, ensuring that neither the tractor is under-utilised nor the implement is overloaded.</p>\n<h4>Maintenance and Servicing Considerations</h4>\n<p>Proper power measurement also guides routine maintenance scheduling, since engines and hydraulic systems that operate consistently near their rated capacity require more frequent servicing. Farm managers in Nigeria and across West Africa are encouraged to keep logbooks of tractor operating hours, fuel consumption and drawbar performance so that timely maintenance, such as oil changes, filter replacement and tyre pressure checks, can be carried out before breakdowns occur during critical periods like land preparation and planting.</p>\n<h4>Economic Importance of Correct Tractor Selection</h4>\n<p>Selecting a tractor of appropriate horsepower for a given farm size and soil type prevents both under-mechanisation, which slows down operations and increases labour costs, and over-mechanisation, which leads to unnecessarily high capital and fuel expenditure. Extension agents therefore advise farmers to consider not only the purchase price of a tractor but also its power rating, fuel efficiency, availability of spare parts, and the range of implements it can operate, since these factors together determine the long-term profitability of mechanised farm operations in the Nigerian agricultural sector.</p>\n",
       "examples": [
         {
           "q": "A tractor exerts a pull force of 4000 N while travelling at a speed of 1.5 m/s. Calculate the drawbar power in watts and convert to kilowatts.",
-          "a": "P_db = F × v = 4000 × 1.5 = 6000 W = 6 kW."
+          "a": "P_db = F \u00d7 v = 4000 \u00d7 1.5 = 6000 W = 6 kW."
         },
         {
-          "q": "A tractor PTO shaft rotates at 540 rpm and delivers a torque of 200 N·m. Calculate the PTO power in kilowatts.",
-          "a": "P_pto = (2π N T)/60 = (2 × 3.1416 × 540 × 200)/60 = (678,584)/60 ≈ 11,309.7 W ≈ 11.31 kW."
+          "q": "A tractor PTO shaft rotates at 540 rpm and delivers a torque of 200 N\u00b7m. Calculate the PTO power in kilowatts.",
+          "a": "P_pto = (2\u03c0 N T)/60 = (2 \u00d7 3.1416 \u00d7 540 \u00d7 200)/60 = (678,584)/60 \u2248 11,309.7 W \u2248 11.31 kW."
         }
       ]
     },
@@ -48,11 +48,53 @@
       "examples": [
         {
           "q": "A ploughing implement has a working width of 1.5 m and travels at a speed of 6 km/h. If the field efficiency is 75%, calculate the theoretical field capacity and effective field capacity.",
-          "a": "TFC = (W × S)/10 = (1.5 × 6)/10 = 0.9 ha/h. EFC = TFC × Ef = 0.9 × 0.75 = 0.675 ha/h."
+          "a": "TFC = (W \u00d7 S)/10 = (1.5 \u00d7 6)/10 = 0.9 ha/h. EFC = TFC \u00d7 Ef = 0.9 \u00d7 0.75 = 0.675 ha/h."
         },
         {
           "q": "A machine has a theoretical field capacity of 1.2 ha/h and an effective field capacity of 0.9 ha/h. Calculate the field efficiency as a percentage.",
-          "a": "Ef = (EFC/TFC) × 100 = (0.9/1.2) × 100 = 75%."
+          "a": "Ef = (EFC/TFC) \u00d7 100 = (0.9/1.2) \u00d7 100 = 75%."
+        }
+      ]
+    },
+    {
+      "title": "Advantages and disadvantages of mechanization",
+      "html": "<p><b>Advantages and disadvantages of mechanization</b> is a key part of Farm Power and Mechanization (SSS 2, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Levels of Farm Mechanization Mechanization exists on a continuum from very low to very high input of mechanical power: Hand-tool technology: Sole reliance on hand tools; typical of subsistence farming.</li><li>Advantages of Mechanization Mechanization increases the speed and timeliness of farm operations, expands the area that can be cultivated by a single farmer, reduces drudgery, improves precision (e.g.</li><li>Disadvantages of Mechanization High initial capital cost, dependence on fuel and spare parts, the need for skilled operators and mechanics, risk of soil compaction from heavy machinery, and displacement of farm labour are notable drawbacks, especially challenging in developing economies with poor infrastructure.</li><li>Safety Precautions in Mechanization Operators must wear appropriate protective clothing, ensure guards are fitted on PTO shafts and moving parts, avoid mounting/dismounting moving machinery, ensure implements are lowered before leaving the tractor seat, and undergo proper training before operating machinery.</li><li>Mechanization requires substantial capital investment to purchase and maintain machinery.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which level of mechanization relies solely on tools like hoes and cutlasses?<br/><b>A:</b> Hand-tool technology \u2014 Hand-tool technology is the most basic level, using simple hand implements without animal or engine power.</p><p><b>Q:</b> A major disadvantage of farm mechanization is<br/><b>A:</b> high initial capital cost \u2014 Mechanization requires substantial capital investment to purchase and maintain machinery.</p>",
+      "examples": [
+        {
+          "q": "Which level of mechanization relies solely on tools like hoes and cutlasses?",
+          "a": "Hand-tool technology \u2014 Hand-tool technology is the most basic level, using simple hand implements without animal or engine power."
+        },
+        {
+          "q": "A major disadvantage of farm mechanization is",
+          "a": "high initial capital cost \u2014 Mechanization requires substantial capital investment to purchase and maintain machinery."
+        }
+      ]
+    },
+    {
+      "title": "The farm tractor: types, parts and functions",
+      "html": "<p><b>The farm tractor: types, parts and functions</b> is a key part of Farm Power and Mechanization (SSS 2, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Sources of Farm Power Farm power refers to the energy used to perform agricultural operations such as land clearing, tillage, planting, weeding, harvesting and processing.</li><li>There are three main sources of farm power in West African agriculture: Human power: The most widely used source in smallholder farming; involves the use of hand tools such as hoes, cutlasses and diggers.</li><li>Mechanical power: Provided by engines, especially tractors and stationary engines, offering the highest power output, speed and precision.</li><li>Levels of Farm Mechanization Mechanization exists on a continuum from very low to very high input of mechanical power: Hand-tool technology: Sole reliance on hand tools; typical of subsistence farming.</li><li>Engine-powered/mechanical technology: Use of tractors and machines for most operations, from land preparation to harvesting and processing.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which of the following is NOT a main source of farm power?<br/><b>A:</b> Solar illumination \u2014 The three main sources of farm power are human, animal and mechanical power; solar illumination is not classified as a farm power source in this context.</p><p><b>Q:</b> Draught animals such as oxen are commonly used to provide power for<br/><b>A:</b> ploughing and carting \u2014 Draught animals are traditionally used for ploughing, harrowing and carting loads on the farm.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is NOT a main source of farm power?",
+          "a": "Solar illumination \u2014 The three main sources of farm power are human, animal and mechanical power; solar illumination is not classified as a farm power source in this context."
+        },
+        {
+          "q": "Draught animals such as oxen are commonly used to provide power for",
+          "a": "ploughing and carting \u2014 Draught animals are traditionally used for ploughing, harrowing and carting loads on the farm."
+        }
+      ]
+    },
+    {
+      "title": "Maintenance and safety in farm mechanization",
+      "html": "<p><b>Maintenance and safety in farm mechanization</b> is a key part of Farm Power and Mechanization (SSS 2, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Sources of Farm Power Farm power refers to the energy used to perform agricultural operations such as land clearing, tillage, planting, weeding, harvesting and processing.</li><li>There are three main sources of farm power in West African agriculture: Human power: The most widely used source in smallholder farming; involves the use of hand tools such as hoes, cutlasses and diggers.</li><li>Mechanical power requires significant capital investment, fuel, skilled operators and maintenance facilities.</li><li>Levels of Farm Mechanization Mechanization exists on a continuum from very low to very high input of mechanical power: Hand-tool technology: Sole reliance on hand tools; typical of subsistence farming.</li><li>Advantages of Mechanization Mechanization increases the speed and timeliness of farm operations, expands the area that can be cultivated by a single farmer, reduces drudgery, improves precision (e.g.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which of the following is NOT a main source of farm power?<br/><b>A:</b> Solar illumination \u2014 The three main sources of farm power are human, animal and mechanical power; solar illumination is not classified as a farm power source in this context.</p><p><b>Q:</b> Draught animals such as oxen are commonly used to provide power for<br/><b>A:</b> ploughing and carting \u2014 Draught animals are traditionally used for ploughing, harrowing and carting loads on the farm.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is NOT a main source of farm power?",
+          "a": "Solar illumination \u2014 The three main sources of farm power are human, animal and mechanical power; solar illumination is not classified as a farm power source in this context."
+        },
+        {
+          "q": "Draught animals such as oxen are commonly used to provide power for",
+          "a": "ploughing and carting \u2014 Draught animals are traditionally used for ploughing, harrowing and carting loads on the farm."
         }
       ]
     }
@@ -66,8 +108,10 @@
         "Mechanical power",
         "Solar illumination"
       ],
-      "answer": "3",
-      "solution": "The three main sources of farm power are human, animal and mechanical power; solar illumination is not classified as a farm power source in this context."
+      "answer": 3,
+      "solution": "The three main sources of farm power are human, animal and mechanical power; solar illumination is not classified as a farm power source in this context.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Draught animals such as oxen are commonly used to provide power for",
@@ -77,8 +121,10 @@
         "food processing only",
         "irrigation pumping only"
       ],
-      "answer": "1",
-      "solution": "Draught animals are traditionally used for ploughing, harrowing and carting loads on the farm."
+      "answer": 1,
+      "solution": "Draught animals are traditionally used for ploughing, harrowing and carting loads on the farm.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which level of mechanization relies solely on tools like hoes and cutlasses?",
@@ -88,8 +134,10 @@
         "Hand-tool technology",
         "Hydraulic technology"
       ],
-      "answer": "2",
-      "solution": "Hand-tool technology is the most basic level, using simple hand implements without animal or engine power."
+      "answer": 2,
+      "solution": "Hand-tool technology is the most basic level, using simple hand implements without animal or engine power.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A major disadvantage of farm mechanization is",
@@ -99,8 +147,10 @@
         "improved precision",
         "increased timeliness of operations"
       ],
-      "answer": "1",
-      "solution": "Mechanization requires substantial capital investment to purchase and maintain machinery."
+      "answer": 1,
+      "solution": "Mechanization requires substantial capital investment to purchase and maintain machinery.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The part of a tractor that transmits rotary power to implements like threshers is the",
@@ -110,19 +160,23 @@
         "power take-off (PTO) shaft",
         "hydraulic lift"
       ],
-      "answer": "2",
-      "solution": "The PTO shaft transmits rotary mechanical power from the tractor engine to attached implements."
+      "answer": 2,
+      "solution": "The PTO shaft transmits rotary mechanical power from the tractor engine to attached implements.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Drawbar power is calculated using the formula",
       "options": [
         "P = F/v",
-        "P = F × v",
+        "P = F \u00d7 v",
         "P = F + v",
         "P = v/F"
       ],
-      "answer": "1",
-      "solution": "Drawbar power equals the pull force multiplied by the forward speed of the tractor (P = F × v)."
+      "answer": 1,
+      "solution": "Drawbar power equals the pull force multiplied by the forward speed of the tractor (P = F \u00d7 v).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A tractor pulls with a force of 3000 N at a speed of 2 m/s. What is its drawbar power?",
@@ -132,8 +186,10 @@
         "6000 W",
         "9000 W"
       ],
-      "answer": "2",
-      "solution": "P = F × v = 3000 × 2 = 6000 W."
+      "answer": 2,
+      "solution": "P = F \u00d7 v = 3000 \u00d7 2 = 6000 W.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The three-point hitch on a tractor is used mainly to",
@@ -143,19 +199,23 @@
         "cool the engine",
         "store fuel"
       ],
-      "answer": "1",
-      "solution": "The three-point hitch attaches implements such as ploughs and harrows to the tractor and allows control of their position."
+      "answer": 1,
+      "solution": "The three-point hitch attaches implements such as ploughs and harrows to the tractor and allows control of their position.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Theoretical field capacity (TFC) is calculated using the formula",
       "options": [
-        "TFC = W × S",
-        "TFC = (W × S)/10",
+        "TFC = W \u00d7 S",
+        "TFC = (W \u00d7 S)/10",
         "TFC = W/S",
-        "TFC = 10/(W×S)"
+        "TFC = 10/(W\u00d7S)"
       ],
-      "answer": "1",
-      "solution": "TFC (ha/h) = (working width in m × speed in km/h) / 10."
+      "answer": 1,
+      "solution": "TFC (ha/h) = (working width in m \u00d7 speed in km/h) / 10.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A machine with 2 m working width and 5 km/h speed has a theoretical field capacity of",
@@ -165,8 +225,10 @@
         "1.5 ha/h",
         "2.0 ha/h"
       ],
-      "answer": "1",
-      "solution": "TFC = (2 × 5)/10 = 1.0 ha/h."
+      "answer": 1,
+      "solution": "TFC = (2 \u00d7 5)/10 = 1.0 ha/h.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Field efficiency accounts mainly for",
@@ -176,8 +238,10 @@
         "engine horsepower only",
         "tyre pressure"
       ],
-      "answer": "1",
-      "solution": "Field efficiency reflects the reduction in productive area coverage due to turning time, overlaps, and operational delays."
+      "answer": 1,
+      "solution": "Field efficiency reflects the reduction in productive area coverage due to turning time, overlaps, and operational delays.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "If TFC = 1.6 ha/h and field efficiency is 80%, the effective field capacity is",
@@ -187,8 +251,10 @@
         "1.6 ha/h",
         "2.0 ha/h"
       ],
-      "answer": "1",
-      "solution": "EFC = TFC × Ef = 1.6 × 0.80 = 1.28 ha/h."
+      "answer": 1,
+      "solution": "EFC = TFC \u00d7 Ef = 1.6 \u00d7 0.80 = 1.28 ha/h.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Daily maintenance checks on a tractor typically include",
@@ -198,8 +264,10 @@
         "replacing the transmission",
         "repainting the tractor body"
       ],
-      "answer": "1",
-      "solution": "Daily checks are simple routine inspections such as oil level, coolant level and tyre pressure, not major overhauls."
+      "answer": 1,
+      "solution": "Daily checks are simple routine inspections such as oil level, coolant level and tyre pressure, not major overhauls.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An important safety precaution when operating farm machinery is to",
@@ -209,8 +277,10 @@
         "ensure PTO shaft guards are properly fitted",
         "operate without training if experienced with cars"
       ],
-      "answer": "2",
-      "solution": "Guards must be fitted on PTO shafts and moving parts to prevent accidents and injuries to operators."
+      "answer": 2,
+      "solution": "Guards must be fitted on PTO shafts and moving parts to prevent accidents and injuries to operators.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Crawler (track-laying) tractors are especially suited to",
@@ -220,19 +290,23 @@
         "light garden work only",
         "aerial operations"
       ],
-      "answer": "1",
-      "solution": "Crawler tractors have tracks that distribute weight over a larger area, providing better traction on soft or muddy ground."
+      "answer": 1,
+      "solution": "Crawler tractors have tracks that distribute weight over a larger area, providing better traction on soft or muddy ground.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "A tractor PTO shaft rotating at 540 rpm with 150 N·m torque delivers a PTO power closest to",
+      "q": "A tractor PTO shaft rotating at 540 rpm with 150 N\u00b7m torque delivers a PTO power closest to",
       "options": [
         "4.2 kW",
         "8.5 kW",
         "11.3 kW",
         "15.0 kW"
       ],
-      "answer": "1",
-      "solution": "P = (2π×540×150)/60 = (508,938)/60 ≈ 8482 W ≈ 8.5 kW."
+      "answer": 1,
+      "solution": "P = (2\u03c0\u00d7540\u00d7150)/60 = (508,938)/60 \u2248 8482 W \u2248 8.5 kW.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choice of tractor size for a farm depends on all the following EXCEPT",
@@ -242,8 +316,439 @@
         "operator's favourite colour",
         "available capital"
       ],
-      "answer": "2",
-      "solution": "Tractor colour preference is irrelevant; selection depends on practical factors like farm size, soil type, implements and capital."
+      "answer": 2,
+      "solution": "Tractor colour preference is irrelevant; selection depends on practical factors like farm size, soil type, implements and capital.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The part of the tractor that provides power for stationary machines is the...",
+      "options": [
+        "Hydraulic system",
+        "Power-Take-Off (PTO)",
+        "Drawbar",
+        "Three-point linkage"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Power-Take-Off (PTO).",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The first milk produced by a mother animal after birth is called...",
+      "options": [
+        "Cream",
+        "Pasteurized milk",
+        "Colostrum",
+        "Skimmed milk"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Colostrum.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The process of removing the horns of an animal is...",
+      "options": [
+        "Dehorning",
+        "Docking",
+        "Castration",
+        "Branding"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: Dehorning.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A tractor-drawn implement used for making ridges is a...",
+      "options": [
+        "Plough",
+        "Ridger",
+        "Harrow",
+        "Planter"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Ridger.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "An example of an aquatic animal is?",
+      "options": [
+        "Goat.",
+        "Rabbit.",
+        "Fish.",
+        "Chicken."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Fish..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Mechanical weathering is caused by?",
+      "options": [
+        "Acid rain.",
+        "Temperature changes.",
+        "Oxidation.",
+        "Hydrolysis."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Temperature changes..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The Cation Exchange Capacity (CEC) is highest in?",
+      "options": [
+        "Sand.",
+        "Silt.",
+        "Clay and Organic matter.",
+        "Gravel."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Clay and Organic matter..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Maintenance ration is given to?",
+      "options": [
+        "Maintain body weight.",
+        "Produce milk.",
+        "Work hard.",
+        "Grow fast."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Maintain body weight..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Labor efficiency is?",
+      "options": [
+        "Total workers.",
+        "Output per man-hour.",
+        "Total hours.",
+        "Total pay."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Output per man-hour..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a micro-nutrient?",
+      "options": [
+        "Nitrogen",
+        "Zinc",
+        "Phosphorus",
+        "Potassium"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Zinc.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Fish farming is known as:",
+      "options": [
+        "Apiculture",
+        "Aquaculture",
+        "Horticulture",
+        "Sericulture"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Aquaculture.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a biting and chewing insect?",
+      "options": [
+        "Aphid",
+        "Cotton stainer",
+        "Grasshopper",
+        "Weevil"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: Grasshopper.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Root knot in tomatoes is caused by:",
+      "options": [
+        "Fungi",
+        "Nematodes",
+        "Virus",
+        "Bacteria"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Nematodes.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The causative agent of Bird Flu is:",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Fungi",
+        "Protozoa"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Virus.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "A castrated male fowl is a:",
+      "options": [
+        "Cock",
+        "Capon",
+        "Bullock",
+        "Wether"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Capon.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which bank deals specifically with farmers?",
+      "options": [
+        "CBN",
+        "BOI",
+        "BOA (NACB)",
+        "First Bank"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: BOA (NACB).",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Reforestation means:",
+      "options": [
+        "Planting trees where they were cut",
+        "Cutting trees",
+        "Burning bush",
+        "Planting crops"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Planting trees where they were cut.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Erosion caused by wind is common in:",
+      "options": [
+        "Rainforest",
+        "Arid/Desert regions",
+        "Swamps",
+        "Mangroves"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Arid/Desert regions.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The stomach of a ruminant has how many chambers?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: 4.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a legume?",
+      "options": [
+        "Maize",
+        "Groundnut",
+        "Yam",
+        "Cassava"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Groundnut.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Process of shedding exoskeleton:",
+      "options": [
+        "Molting",
+        "Metamorphosis",
+        "Incubation",
+        "Hibernation"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Molting.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Colostrum confers:",
+      "options": [
+        "Immunity",
+        "Digestion",
+        "Growth",
+        "Color"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Immunity.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Apiculture refers to:",
+      "options": [
+        "Bee keeping",
+        "Snail farming",
+        "Fish farming",
+        "Pig farming"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Bee keeping.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Tapeworm is an:",
+      "options": [
+        "Ectoparasite",
+        "Endoparasite",
+        "Epiphyte",
+        "Autotroph"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Endoparasite.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The gestation period of a cow is approximately:",
+      "options": [
+        "114 days",
+        "283 days",
+        "150 days",
+        "30 days"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: 283 days.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a micro-nutrient?",
+      "options": [
+        "Nitrogen",
+        "Phosphorus",
+        "Zinc",
+        "Potassium"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Zinc.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The male reproductive part of a flower is the:",
+      "options": [
+        "Stigma",
+        "Style",
+        "Stamen",
+        "Ovary"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Stamen.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Afforestation is the:",
+      "options": [
+        "Cutting down of trees",
+        "Planting of trees",
+        "Burning of forests",
+        "Pruning of trees"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Planting of trees.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Nitrifying bacteria convert ammonia to:",
+      "options": [
+        "Nitrites",
+        "Nitrogen gas",
+        "Amino acids",
+        "Urea"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: Nitrites.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a biting and chewing insect?",
+      "options": [
+        "Aphid",
+        "Cotton stainer",
+        "Grasshopper",
+        "Mosquito"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Grasshopper.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "A castrated male sheep is called a:",
+      "options": [
+        "Bull",
+        "Steer",
+        "Wether",
+        "Capon"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Wether.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Fish farming is also known as:",
+      "options": [
+        "Apiculture",
+        "Aquaculture",
+        "Horticulture",
+        "Sericulture"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Aquaculture.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The digestive tract of a fowl typically contains:",
+      "options": [
+        "Rumen",
+        "Crop and Gizzard",
+        "Omasum",
+        "Reticulum"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Crop and Gizzard.",
+      "source": "JAMB 2022",
+      "practice": false
     }
   ]
 }

@@ -16,7 +16,7 @@
   "modules": [
     {
       "title": "Objectives and Types of Tillage",
-      "html": "\n<h4>Meaning and Objectives of Tillage</h4>\n<p>Tillage is the mechanical manipulation of soil to create a favourable environment for seed germination, root development and crop growth. The objectives of tillage include loosening compacted soil, burying crop residues and weeds, improving aeration and infiltration, incorporating fertilizer and manure, controlling weeds and pests, and forming ridges, mounds or beds suited to particular crops.</p>\n<h4>Primary Tillage</h4>\n<p>Primary tillage is the first and deepest tillage operation performed on virgin or previously cropped land, typically to a depth of 15&ndash;30 cm. It breaks up the soil, inverts and buries surface residues, and loosens the soil for subsequent operations. Common implements include the mouldboard plough, disc plough and chisel plough.</p>\n<h4>Secondary Tillage</h4>\n<p>Secondary tillage follows primary tillage and involves shallower operations (5&ndash;10 cm) to break clods, level the field, and create a fine seedbed. Implements include disc harrows, spike-tooth harrows and rotary cultivators/rotavators.</p>\n<h4>Minimum and Zero Tillage</h4>\n<p>Minimum tillage involves reducing the number of tillage operations to the minimum necessary for successful crop establishment, while zero (no) tillage involves planting directly into undisturbed soil, often with herbicide use for weed control. These conservation tillage systems reduce soil erosion, conserve soil moisture, save energy and time, and preserve soil structure and organic matter, though they may require specialised planting equipment and effective weed management.</p>\n<table class=\"tb-table\">\n<tr><th>Tillage type</th><th>Depth</th><th>Common implement</th></tr>\n<tr><td>Primary tillage</td><td>15–30 cm</td><td>Mouldboard/disc plough</td></tr>\n<tr><td>Secondary tillage</td><td>5–10 cm</td><td>Disc harrow, rotavator</td></tr>\n<tr><td>Zero tillage</td><td>Minimal/none</td><td>No-till planter, herbicide</td></tr>\n</table>\n<h4>Factors Affecting Choice of Tillage System</h4>\n<p>The choice between conventional, minimum and zero tillage depends on several interacting factors including soil type, topography, crop to be grown, climate, cost of implements, availability of herbicides, and the farmer's level of mechanisation. Heavy clay soils in many parts of Nigeria often require deeper primary tillage to break compaction and improve drainage, while sandy loam soils may need only light tillage to avoid excessive erosion. On sloping land common in parts of the Middle Belt and southern Nigeria, farmers are advised to minimise tillage intensity and adopt contour tillage practices to reduce the risk of soil erosion during the rainy season.</p>\n<h4>Effects of Excessive or Improper Tillage</h4>\n<p>While tillage is necessary for good crop establishment, excessive or poorly timed tillage operations can be harmful to the soil. Over-tillage breaks down soil aggregates, destroys the natural soil structure, exposes organic matter to rapid decomposition, and increases the risk of wind and water erosion, especially when carried out on wet or very dry soils. Repeated ploughing at the same depth over many years can also create a compacted \"plough pan\" just below the tilled layer, which restricts root penetration and water infiltration in subsequent cropping seasons.</p>\n<h4>Timing of Tillage Operations</h4>\n<ul>\n<li>Tillage should be carried out when the soil moisture content is at field capacity, neither too wet (which causes compaction and smearing) nor too dry (which requires excessive power and produces large clods).</li>\n<li>Primary tillage is best done shortly before the onset of the rains to allow organic residues to decompose before planting.</li>\n<li>Secondary tillage should closely precede planting to reduce weed re-growth and moisture loss from the prepared seedbed.</li>\n</ul>\n<p>Careful attention to these factors ensures that tillage achieves its objectives of creating a favourable seedbed while conserving the long-term productivity of the soil resource, a key consideration for sustainable crop production across Nigerian and West African farming systems.</p>\n",
+      "html": "\n<h4>Meaning and Objectives of Tillage</h4>\n<p>Tillage is the mechanical manipulation of soil to create a favourable environment for seed germination, root development and crop growth. The objectives of tillage include loosening compacted soil, burying crop residues and weeds, improving aeration and infiltration, incorporating fertilizer and manure, controlling weeds and pests, and forming ridges, mounds or beds suited to particular crops.</p>\n<h4>Primary Tillage</h4>\n<p>Primary tillage is the first and deepest tillage operation performed on virgin or previously cropped land, typically to a depth of 15&ndash;30 cm. It breaks up the soil, inverts and buries surface residues, and loosens the soil for subsequent operations. Common implements include the mouldboard plough, disc plough and chisel plough.</p>\n<h4>Secondary Tillage</h4>\n<p>Secondary tillage follows primary tillage and involves shallower operations (5&ndash;10 cm) to break clods, level the field, and create a fine seedbed. Implements include disc harrows, spike-tooth harrows and rotary cultivators/rotavators.</p>\n<h4>Minimum and Zero Tillage</h4>\n<p>Minimum tillage involves reducing the number of tillage operations to the minimum necessary for successful crop establishment, while zero (no) tillage involves planting directly into undisturbed soil, often with herbicide use for weed control. These conservation tillage systems reduce soil erosion, conserve soil moisture, save energy and time, and preserve soil structure and organic matter, though they may require specialised planting equipment and effective weed management.</p>\n<table class=\"tb-table\">\n<tr><th>Tillage type</th><th>Depth</th><th>Common implement</th></tr>\n<tr><td>Primary tillage</td><td>15\u201330 cm</td><td>Mouldboard/disc plough</td></tr>\n<tr><td>Secondary tillage</td><td>5\u201310 cm</td><td>Disc harrow, rotavator</td></tr>\n<tr><td>Zero tillage</td><td>Minimal/none</td><td>No-till planter, herbicide</td></tr>\n</table>\n<h4>Factors Affecting Choice of Tillage System</h4>\n<p>The choice between conventional, minimum and zero tillage depends on several interacting factors including soil type, topography, crop to be grown, climate, cost of implements, availability of herbicides, and the farmer's level of mechanisation. Heavy clay soils in many parts of Nigeria often require deeper primary tillage to break compaction and improve drainage, while sandy loam soils may need only light tillage to avoid excessive erosion. On sloping land common in parts of the Middle Belt and southern Nigeria, farmers are advised to minimise tillage intensity and adopt contour tillage practices to reduce the risk of soil erosion during the rainy season.</p>\n<h4>Effects of Excessive or Improper Tillage</h4>\n<p>While tillage is necessary for good crop establishment, excessive or poorly timed tillage operations can be harmful to the soil. Over-tillage breaks down soil aggregates, destroys the natural soil structure, exposes organic matter to rapid decomposition, and increases the risk of wind and water erosion, especially when carried out on wet or very dry soils. Repeated ploughing at the same depth over many years can also create a compacted \"plough pan\" just below the tilled layer, which restricts root penetration and water infiltration in subsequent cropping seasons.</p>\n<h4>Timing of Tillage Operations</h4>\n<ul>\n<li>Tillage should be carried out when the soil moisture content is at field capacity, neither too wet (which causes compaction and smearing) nor too dry (which requires excessive power and produces large clods).</li>\n<li>Primary tillage is best done shortly before the onset of the rains to allow organic residues to decompose before planting.</li>\n<li>Secondary tillage should closely precede planting to reduce weed re-growth and moisture loss from the prepared seedbed.</li>\n</ul>\n<p>Careful attention to these factors ensures that tillage achieves its objectives of creating a favourable seedbed while conserving the long-term productivity of the soil resource, a key consideration for sustainable crop production across Nigerian and West African farming systems.</p>\n",
       "examples": [
         {
           "q": "Explain two advantages of zero tillage compared to conventional tillage on erosion-prone sloping farmland.",
@@ -24,21 +24,21 @@
         },
         {
           "q": "A farmer wants to prepare a fine seedbed after primary ploughing. Which implement should be used and at what approximate depth should it operate?",
-          "a": "A disc harrow (or rotavator) should be used for secondary tillage to break clods and produce a fine seedbed, operating at a shallow depth of about 5–10 cm, following the deeper primary ploughing operation."
+          "a": "A disc harrow (or rotavator) should be used for secondary tillage to break clods and produce a fine seedbed, operating at a shallow depth of about 5\u201310 cm, following the deeper primary ploughing operation."
         }
       ]
     },
     {
       "title": "Tillage Implements and Draft Force",
-      "html": "\n<h4>Common Tillage Implements</h4>\n<p>The mouldboard plough cuts, lifts, turns and inverts a furrow slice, effectively burying residues and weeds. The disc plough uses concave discs suited to hard, dry or stony soils where mouldboard ploughs would struggle. Harrows (disc or spike-tooth) pulverise clods left after ploughing. Ridgers form ridges for crops like yam and cassava that require mounded planting, while rotavators combine cutting and mixing action in a single pass.</p>\n<h4>Draft Force and Energy Requirement</h4>\n<p>Draft force is the force required to pull a tillage implement through the soil, and it depends on soil type, implement type, working depth and width, and speed of operation. Draft force is estimated using:</p>\n$$ F = A \\times k $$\n<p>where \\(F\\) is the draft force (N), \\(A\\) is the cross-sectional area of the furrow slice (working width × depth, in cm&sup2; or m&sup2;), and \\(k\\) is the specific soil resistance (draft per unit cross-sectional area, N/cm&sup2; or N/m&sup2;), which varies with soil texture and moisture content (higher for clay soils, lower for sandy soils).</p>\n<p>The power required to pull the implement at a given speed is:</p>\n$$ P = F \\times v $$\n<p>where \\(v\\) is the forward speed of travel (m/s).</p>\n<h4>Effects of Tillage on Soil Properties</h4>\n<p>Excessive tillage, especially when soils are wet, can destroy soil structure, increase bulk density in the plough layer (forming a \"plough pan\"), accelerate organic matter decomposition and erosion. Appropriately timed and minimal tillage helps maintain soil structure, moisture and organic matter, supporting long-term soil health and crop productivity.</p>\n",
+      "html": "\n<h4>Common Tillage Implements</h4>\n<p>The mouldboard plough cuts, lifts, turns and inverts a furrow slice, effectively burying residues and weeds. The disc plough uses concave discs suited to hard, dry or stony soils where mouldboard ploughs would struggle. Harrows (disc or spike-tooth) pulverise clods left after ploughing. Ridgers form ridges for crops like yam and cassava that require mounded planting, while rotavators combine cutting and mixing action in a single pass.</p>\n<h4>Draft Force and Energy Requirement</h4>\n<p>Draft force is the force required to pull a tillage implement through the soil, and it depends on soil type, implement type, working depth and width, and speed of operation. Draft force is estimated using:</p>\n$$ F = A \\times k $$\n<p>where \\(F\\) is the draft force (N), \\(A\\) is the cross-sectional area of the furrow slice (working width \u00d7 depth, in cm&sup2; or m&sup2;), and \\(k\\) is the specific soil resistance (draft per unit cross-sectional area, N/cm&sup2; or N/m&sup2;), which varies with soil texture and moisture content (higher for clay soils, lower for sandy soils).</p>\n<p>The power required to pull the implement at a given speed is:</p>\n$$ P = F \\times v $$\n<p>where \\(v\\) is the forward speed of travel (m/s).</p>\n<h4>Effects of Tillage on Soil Properties</h4>\n<p>Excessive tillage, especially when soils are wet, can destroy soil structure, increase bulk density in the plough layer (forming a \"plough pan\"), accelerate organic matter decomposition and erosion. Appropriately timed and minimal tillage helps maintain soil structure, moisture and organic matter, supporting long-term soil health and crop productivity.</p>\n",
       "examples": [
         {
           "q": "A mouldboard plough has a working width of 30 cm and operates at a depth of 20 cm. If the specific soil resistance is 6 N/cm^2, calculate the draft force required.",
-          "a": "Cross-sectional area A = width × depth = 30 × 20 = 600 cm^2. Draft force F = A × k = 600 × 6 = 3600 N."
+          "a": "Cross-sectional area A = width \u00d7 depth = 30 \u00d7 20 = 600 cm^2. Draft force F = A \u00d7 k = 600 \u00d7 6 = 3600 N."
         },
         {
           "q": "If the plough from the previous example is pulled at a forward speed of 1 m/s, calculate the power required in kilowatts.",
-          "a": "Power P = F × v = 3600 × 1 = 3600 W = 3.6 kW."
+          "a": "Power P = F \u00d7 v = 3600 \u00d7 1 = 3600 W = 3.6 kW."
         }
       ]
     },
@@ -48,11 +48,53 @@
       "examples": [
         {
           "q": "A maize farmer plants at a spacing of 0.75 m between rows and 0.25 m within rows. Calculate the plant population per hectare.",
-          "a": "Plant population/ha = 10,000/(0.75 × 0.25) = 10,000/0.1875 = 53,333 plants/ha (approximately)."
+          "a": "Plant population/ha = 10,000/(0.75 \u00d7 0.25) = 10,000/0.1875 = 53,333 plants/ha (approximately)."
         },
         {
           "q": "Using the plant population from the previous example, if 2 seeds are planted per hole and the thousand seed weight (TSW) of maize is 300 g, calculate the seed rate in kg/ha.",
-          "a": "Seed rate = (Plant population × seeds/hole × TSW)/(1000×1000) = (53,333 × 2 × 300)/1,000,000 = 32,000,000/1,000,000 = 32 kg/ha (approximately)."
+          "a": "Seed rate = (Plant population \u00d7 seeds/hole \u00d7 TSW)/(1000\u00d71000) = (53,333 \u00d7 2 \u00d7 300)/1,000,000 = 32,000,000/1,000,000 = 32 kg/ha (approximately)."
+        }
+      ]
+    },
+    {
+      "title": "Types of tillage: primary, secondary and minimum/zero tillage",
+      "html": "<p><b>Types of tillage: primary, secondary and minimum/zero tillage</b> is a key part of Tillage and Farm Machinery (SSS 2, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning and Objectives of Tillage Tillage is the mechanical manipulation of soil to create a favourable environment for seed germination, root development and crop growth.</li><li>The objectives of tillage include loosening compacted soil, burying crop residues and weeds, improving aeration and infiltration, incorporating fertilizer and manure, controlling weeds and pests, and forming ridges, mounds or beds suited to particular crops.</li><li>Primary Tillage Primary tillage is the first and deepest tillage operation performed on virgin or previously cropped land, typically to a depth of 15&ndash;30 cm.</li><li>Secondary Tillage Secondary tillage follows primary tillage and involves shallower operations (5&ndash;10 cm) to break clods, level the field, and create a fine seedbed.</li><li>Minimum and Zero Tillage Minimum tillage involves reducing the number of tillage operations to the minimum necessary for successful crop establishment, while zero (no) tillage involves planting directly into undisturbed soil, often with herbicide use for weed control.</li></ul><h4>Worked example</h4><p><b>Q:</b> Tillage is best defined as<br/><b>A:</b> mechanical manipulation of soil for crop growth \u2014 Tillage refers to mechanical operations performed on soil to prepare a favourable seedbed for crops.</p><p><b>Q:</b> Which implement is commonly used for primary tillage?<br/><b>A:</b> Mouldboard plough \u2014 The mouldboard plough is the classic primary tillage implement used to invert and break up soil to a considerable depth.</p>",
+      "examples": [
+        {
+          "q": "Tillage is best defined as",
+          "a": "mechanical manipulation of soil for crop growth \u2014 Tillage refers to mechanical operations performed on soil to prepare a favourable seedbed for crops."
+        },
+        {
+          "q": "Which implement is commonly used for primary tillage?",
+          "a": "Mouldboard plough \u2014 The mouldboard plough is the classic primary tillage implement used to invert and break up soil to a considerable depth."
+        }
+      ]
+    },
+    {
+      "title": "Tillage implements: ploughs, harrows, ridgers",
+      "html": "<p><b>Tillage implements: ploughs, harrows, ridgers</b> is a key part of Tillage and Farm Machinery (SSS 2, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning and Objectives of Tillage Tillage is the mechanical manipulation of soil to create a favourable environment for seed germination, root development and crop growth.</li><li>The objectives of tillage include loosening compacted soil, burying crop residues and weeds, improving aeration and infiltration, incorporating fertilizer and manure, controlling weeds and pests, and forming ridges, mounds or beds suited to particular crops.</li><li>Primary Tillage Primary tillage is the first and deepest tillage operation performed on virgin or previously cropped land, typically to a depth of 15&ndash;30 cm.</li><li>Common implements include the mouldboard plough, disc plough and chisel plough.</li><li>Secondary Tillage Secondary tillage follows primary tillage and involves shallower operations (5&ndash;10 cm) to break clods, level the field, and create a fine seedbed.</li></ul><h4>Worked example</h4><p><b>Q:</b> Tillage is best defined as<br/><b>A:</b> mechanical manipulation of soil for crop growth \u2014 Tillage refers to mechanical operations performed on soil to prepare a favourable seedbed for crops.</p><p><b>Q:</b> Which implement is commonly used for primary tillage?<br/><b>A:</b> Mouldboard plough \u2014 The mouldboard plough is the classic primary tillage implement used to invert and break up soil to a considerable depth.</p>",
+      "examples": [
+        {
+          "q": "Tillage is best defined as",
+          "a": "mechanical manipulation of soil for crop growth \u2014 Tillage refers to mechanical operations performed on soil to prepare a favourable seedbed for crops."
+        },
+        {
+          "q": "Which implement is commonly used for primary tillage?",
+          "a": "Mouldboard plough \u2014 The mouldboard plough is the classic primary tillage implement used to invert and break up soil to a considerable depth."
+        }
+      ]
+    },
+    {
+      "title": "Seed rate and plant population calculations",
+      "html": "<p><b>Seed rate and plant population calculations</b> is a key part of Tillage and Farm Machinery (SSS 2, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning and Objectives of Tillage Tillage is the mechanical manipulation of soil to create a favourable environment for seed germination, root development and crop growth.</li><li>Secondary Tillage Secondary tillage follows primary tillage and involves shallower operations (5&ndash;10 cm) to break clods, level the field, and create a fine seedbed.</li><li>Minimum and Zero Tillage Minimum tillage involves reducing the number of tillage operations to the minimum necessary for successful crop establishment, while zero (no) tillage involves planting directly into undisturbed soil, often with herbicide use for weed control.</li><li>These conservation tillage systems reduce soil erosion, conserve soil moisture, save energy and time, and preserve soil structure and organic matter, though they may require specialised planting equipment and effective weed management.</li><li>Tillage type Depth Common implement Primary tillage 15\u201330 cm Mouldboard/disc plough Secondary tillage 5\u201310 cm Disc harrow, rotavator Zero tillage Minimal/none No-till planter, herbicide Factors Affecting Choice of Tillage System The choice between conventional, minimum and zero tillage depends on several interacting factors including soil type, topography, crop to be grown, climate, cost of implements, availability of herbicides, and the farmer's level of mechanisation.</li></ul><h4>Worked example</h4><p><b>Q:</b> The formula for plant population per hectare is<br/><b>A:</b> 10,000/(Row spacing \u00d7 Plant spacing) \u2014 Plant population per hectare = 10,000 m\u00b2 divided by the product of row spacing and plant spacing in metres.</p><p><b>Q:</b> A crop planted at 1 m \u00d7 1 m spacing has a plant population per hectare of<br/><b>A:</b> 10,000 \u2014 Population = 10,000/(1\u00d71) = 10,000 plants/ha.</p>",
+      "examples": [
+        {
+          "q": "The formula for plant population per hectare is",
+          "a": "10,000/(Row spacing \u00d7 Plant spacing) \u2014 Plant population per hectare = 10,000 m\u00b2 divided by the product of row spacing and plant spacing in metres."
+        },
+        {
+          "q": "A crop planted at 1 m \u00d7 1 m spacing has a plant population per hectare of",
+          "a": "10,000 \u2014 Population = 10,000/(1\u00d71) = 10,000 plants/ha."
         }
       ]
     }
@@ -66,8 +108,10 @@
         "the application of fertilizer",
         "the storage of farm produce"
       ],
-      "answer": "1",
-      "solution": "Tillage refers to mechanical operations performed on soil to prepare a favourable seedbed for crops."
+      "answer": 1,
+      "solution": "Tillage refers to mechanical operations performed on soil to prepare a favourable seedbed for crops.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which implement is commonly used for primary tillage?",
@@ -77,19 +121,23 @@
         "Mouldboard plough",
         "Seed drill"
       ],
-      "answer": "2",
-      "solution": "The mouldboard plough is the classic primary tillage implement used to invert and break up soil to a considerable depth."
+      "answer": 2,
+      "solution": "The mouldboard plough is the classic primary tillage implement used to invert and break up soil to a considerable depth.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Secondary tillage is typically carried out at a depth of",
       "options": [
-        "1–3 cm",
-        "5–10 cm",
-        "15–30 cm",
-        "30–50 cm"
+        "1\u20133 cm",
+        "5\u201310 cm",
+        "15\u201330 cm",
+        "30\u201350 cm"
       ],
-      "answer": "1",
-      "solution": "Secondary tillage is shallower than primary tillage, typically 5–10 cm, to break clods and level the seedbed."
+      "answer": 1,
+      "solution": "Secondary tillage is shallower than primary tillage, typically 5\u201310 cm, to break clods and level the seedbed.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Zero tillage mainly helps to reduce",
@@ -99,19 +147,23 @@
         "weed growth automatically",
         "the need for herbicides"
       ],
-      "answer": "1",
-      "solution": "Zero tillage leaves soil undisturbed with residue cover, significantly reducing soil erosion."
+      "answer": 1,
+      "solution": "Zero tillage leaves soil undisturbed with residue cover, significantly reducing soil erosion.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Draft force required to pull a tillage implement is calculated as",
       "options": [
         "F = A/k",
-        "F = A × k",
+        "F = A \u00d7 k",
         "F = A + k",
         "F = k/A"
       ],
-      "answer": "1",
-      "solution": "Draft force equals cross-sectional area of the furrow slice multiplied by the specific soil resistance (F = A × k)."
+      "answer": 1,
+      "solution": "Draft force equals cross-sectional area of the furrow slice multiplied by the specific soil resistance (F = A \u00d7 k).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A plough with 25 cm width and 15 cm depth in soil with specific resistance 5 N/cm2 has a draft force of",
@@ -121,8 +173,10 @@
         "3750 N",
         "18750 N"
       ],
-      "answer": "1",
-      "solution": "A = 25×15 = 375 cm². F = A×k = 375×5 = 1875 N."
+      "answer": 1,
+      "solution": "A = 25\u00d715 = 375 cm\u00b2. F = A\u00d7k = 375\u00d75 = 1875 N.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which implement is best suited for hard, dry or stony soils compared to a mouldboard plough?",
@@ -132,8 +186,10 @@
         "Seed drill",
         "Ridger"
       ],
-      "answer": "0",
-      "solution": "Disc ploughs use rotating concave discs that can handle hard, dry or stony soil conditions better than mouldboard ploughs."
+      "answer": 0,
+      "solution": "Disc ploughs use rotating concave discs that can handle hard, dry or stony soil conditions better than mouldboard ploughs.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Ridgers are mainly used to prepare land for crops such as",
@@ -143,30 +199,36 @@
         "wheat and barley",
         "soybean only"
       ],
-      "answer": "1",
-      "solution": "Ridgers form mounds/ridges especially suited to root and tuber crops like yam and cassava."
+      "answer": 1,
+      "solution": "Ridgers form mounds/ridges especially suited to root and tuber crops like yam and cassava.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The formula for plant population per hectare is",
       "options": [
-        "(Row spacing × Plant spacing)/10,000",
-        "10,000/(Row spacing × Plant spacing)",
-        "10,000 × Row spacing × Plant spacing",
+        "(Row spacing \u00d7 Plant spacing)/10,000",
+        "10,000/(Row spacing \u00d7 Plant spacing)",
+        "10,000 \u00d7 Row spacing \u00d7 Plant spacing",
         "Row spacing/Plant spacing"
       ],
-      "answer": "1",
-      "solution": "Plant population per hectare = 10,000 m² divided by the product of row spacing and plant spacing in metres."
+      "answer": 1,
+      "solution": "Plant population per hectare = 10,000 m\u00b2 divided by the product of row spacing and plant spacing in metres.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "A crop planted at 1 m × 1 m spacing has a plant population per hectare of",
+      "q": "A crop planted at 1 m \u00d7 1 m spacing has a plant population per hectare of",
       "options": [
         "5,000",
         "10,000",
         "15,000",
         "20,000"
       ],
-      "answer": "1",
-      "solution": "Population = 10,000/(1×1) = 10,000 plants/ha."
+      "answer": 1,
+      "solution": "Population = 10,000/(1\u00d71) = 10,000 plants/ha.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Seed rate calculation requires which of the following pieces of information?",
@@ -176,8 +238,10 @@
         "Tractor horsepower only",
         "Field efficiency only"
       ],
-      "answer": "0",
-      "solution": "Seed rate depends on the desired plant population, number of seeds sown per hole, and the thousand seed weight of the crop."
+      "answer": 0,
+      "solution": "Seed rate depends on the desired plant population, number of seeds sown per hole, and the thousand seed weight of the crop.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Combine harvesters are most efficient for harvesting",
@@ -187,8 +251,10 @@
         "fruit trees",
         "vegetables only"
       ],
-      "answer": "1",
-      "solution": "Combine harvesters are designed to cut, thresh and clean cereal grains such as maize, rice and wheat in one pass."
+      "answer": 1,
+      "solution": "Combine harvesters are designed to cut, thresh and clean cereal grains such as maize, rice and wheat in one pass.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Excessive tillage on wet soil commonly leads to",
@@ -198,8 +264,10 @@
         "increased organic matter",
         "reduced bulk density"
       ],
-      "answer": "1",
-      "solution": "Tilling wet soil compacts the layer just below tillage depth, forming a hardpan (plough pan) and increasing bulk density."
+      "answer": 1,
+      "solution": "Tilling wet soil compacts the layer just below tillage depth, forming a hardpan (plough pan) and increasing bulk density.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Minimum tillage systems are valued mainly because they",
@@ -209,19 +277,23 @@
         "eliminate the need for planting equipment",
         "increase soil compaction"
       ],
-      "answer": "1",
-      "solution": "Minimum tillage reduces the number of operations, thereby conserving moisture, saving energy, and reducing erosion risk."
+      "answer": 1,
+      "solution": "Minimum tillage reduces the number of operations, thereby conserving moisture, saving energy, and reducing erosion risk.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The power required to pull an implement is calculated as",
       "options": [
         "P = F/v",
-        "P = F × v",
+        "P = F \u00d7 v",
         "P = v/F",
-        "P = F − v"
+        "P = F \u2212 v"
       ],
-      "answer": "1",
-      "solution": "Power equals draft force multiplied by the forward speed of travel (P = F × v)."
+      "answer": 1,
+      "solution": "Power equals draft force multiplied by the forward speed of travel (P = F \u00d7 v).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A tillage implement with draft force 4000 N pulled at 1.2 m/s requires a power of",
@@ -231,8 +303,10 @@
         "4800 W",
         "5200 W"
       ],
-      "answer": "2",
-      "solution": "P = F × v = 4000 × 1.2 = 4800 W."
+      "answer": 2,
+      "solution": "P = F \u00d7 v = 4000 \u00d7 1.2 = 4800 W.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of the following is an advantage of precision planters over manual planting?",
@@ -242,8 +316,439 @@
         "Inability to control planting depth",
         "Requirement for more seeds per hole"
       ],
-      "answer": "1",
-      "solution": "Precision planters place seeds at uniform spacing and depth, improving stand uniformity and reducing seed and labour requirements."
+      "answer": 1,
+      "solution": "Precision planters place seeds at uniform spacing and depth, improving stand uniformity and reducing seed and labour requirements.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which is a source of renewable energy?",
+      "options": [
+        "Coal.",
+        "Petroleum.",
+        "Solar.",
+        "Natural gas."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Solar..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Harvesting of oil palm is done using?",
+      "options": [
+        "Cutlass.",
+        "Tractor.",
+        "Harvesting knife/Sickle.",
+        "Hoe."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Harvesting knife/Sickle..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Salvage Value:",
+      "options": [
+        "Value at end",
+        "Cost",
+        "Profit",
+        "Loss"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Value at end.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Subsidy:",
+      "options": [
+        "Govt aid",
+        "Tax",
+        "Fine",
+        "Fee"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Govt aid.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Loan:",
+      "options": [
+        "Credit",
+        "Gift",
+        "Grant",
+        "Wage"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Credit.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Cooperatives:",
+      "options": [
+        "Member help",
+        "Profit only",
+        "Govt",
+        "Solo"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Member help.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Biotic factor:",
+      "options": [
+        "Pest",
+        "Rain",
+        "Wind",
+        "Soil"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Pest.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Cowpea botanical name:",
+      "options": [
+        "*Vigna unguiculata*",
+        "*Zea mays*",
+        "*Oryza*",
+        "*Manihot*"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: *Vigna unguiculata*.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Ewe gestation:",
+      "options": [
+        "150 days",
+        "114 days",
+        "280 days",
+        "30 days"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 150 days.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Trypanosomiasis vector:",
+      "options": [
+        "Tsetse fly",
+        "House fly",
+        "Tick",
+        "Louse"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Tsetse fly.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Layers kept for:",
+      "options": [
+        "Eggs",
+        "Meat",
+        "Feathers",
+        "Manure"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Eggs.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Correct acidity:",
+      "options": [
+        "Lime",
+        "Fertilizer",
+        "Manure",
+        "Water"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Lime.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Extension aim:",
+      "options": [
+        "Educate farmers",
+        "Tax farmers",
+        "Punish",
+        "Sell land"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Educate farmers.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Chlorosis cause:",
+      "options": [
+        "Mg/Fe deficiency",
+        "Ca deficiency",
+        "K deficiency",
+        "N deficiency"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Mg/Fe deficiency.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Rabbit birth:",
+      "options": [
+        "Kindling",
+        "Farrowing",
+        "Lambing",
+        "Calving"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Kindling.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Biting/Chewing insect:",
+      "options": [
+        "Grasshopper",
+        "Aphid",
+        "Cotton stainer",
+        "Bug"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Grasshopper.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Root knot cause:",
+      "options": [
+        "Nematode",
+        "Fungi",
+        "Virus",
+        "Bacteria"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Nematode.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Bird flu agent:",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Fungi",
+        "Worm"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Virus.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Swollen shoot:",
+      "options": [
+        "Cocoa",
+        "Maize",
+        "Yam",
+        "Cassava"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Cocoa.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Castrated fowl:",
+      "options": [
+        "Capon",
+        "Cock",
+        "Bull",
+        "Steer"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Capon.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Farmers' bank:",
+      "options": [
+        "BOA (NACB)",
+        "CBN",
+        "Commercial",
+        "Merchant"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: BOA (NACB).",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Reforestation:",
+      "options": [
+        "Replanting trees",
+        "Cutting",
+        "Burning",
+        "Farming"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Replanting trees.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Ruminant stomach:",
+      "options": [
+        "4 chambers",
+        "1 chamber",
+        "2 chambers",
+        "3 chambers"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 4 chambers.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Legume:",
+      "options": [
+        "Groundnut",
+        "Maize",
+        "Yam",
+        "Cassava"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Groundnut.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Molting:",
+      "options": [
+        "Shedding skin",
+        "Eating",
+        "Sleeping",
+        "Growing"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Shedding skin.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Colostrum:",
+      "options": [
+        "Immunity",
+        "Water",
+        "Fat",
+        "Color"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Immunity.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Apiculture:",
+      "options": [
+        "Bees",
+        "Fish",
+        "Snails",
+        "Pigs"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Bees.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Tapeworm:",
+      "options": [
+        "Endoparasite",
+        "Ectoparasite",
+        "Free living",
+        "Plant"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Endoparasite.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "NPK 15:15:15:",
+      "options": [
+        "Compound fertilizer",
+        "Straight",
+        "Manure",
+        "Lime"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Compound fertilizer.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Causal organism of Maize Streak:",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Fungus",
+        "Nematode"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Virus.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Broilers are for:",
+      "options": [
+        "Meat",
+        "Eggs",
+        "Feathers",
+        "Pet"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Meat.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "NAIC function:",
+      "options": [
+        "Insurance",
+        "Credit",
+        "Seed",
+        "Machine"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Insurance.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Metamorphic rock:",
+      "options": [
+        "Marble",
+        "Granite",
+        "Sandstone",
+        "Clay"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Marble.",
+      "source": "WAEC 2025",
+      "practice": false
     }
   ]
 }

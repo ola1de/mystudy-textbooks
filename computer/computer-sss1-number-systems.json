@@ -1,0 +1,737 @@
+{
+  "subject": "Computer Studies",
+  "level": "SSS 1",
+  "slug": "number-systems",
+  "title": "Number Systems and Logic",
+  "outline": [
+    "Introduction to Number Systems and Logic",
+    "Key facts about Number Systems and Logic",
+    "Important terms and examples in Number Systems and Logic",
+    "Importance and application of Number Systems and Logic",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Number Systems and Logic",
+      "html": "<p>Binary, octal and hexadecimal numbers, conversions and logic gates. This section covers introduction to number systems and logic.</p><h4>Key points</h4><ul><li>The binary equivalent of the decimal number 10 is _____. \u2014 1010.</li><li>Which logic gate produces an output of 1 only when all its inputs are 1 \u2014 AND gate.</li><li>The hexadecimal number system uses base _____. \u2014 16.</li><li>Convert the binary number 111 to decimal. \u2014 7.</li><li>The base of the Octal number system is _____. \u2014 8.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The binary equivalent of the decimal number 10 is _____.<br/><b>A:</b> 1010 \u2014 To convert 10 to binary: 10/2 = 5 R 0; 5/2 = 2 R 1; 2/2 = 1 R 0; 1/2 = 0 R 1. Reading remainders from bottom to top gives 1010.</p><p><b>Q:</b> Which logic gate produces an output of 1 only when all its inputs are 1?<br/><b>A:</b> AND gate \u2014 In an AND gate, the output is high (1) if and only if all the input signals are high (1).</p>",
+      "examples": [
+        {
+          "q": "The binary equivalent of the decimal number 10 is _____.",
+          "a": "1010"
+        },
+        {
+          "q": "Which logic gate produces an output of 1 only when all its inputs are 1?",
+          "a": "AND gate"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Number Systems and Logic",
+      "html": "<p>Binary, octal and hexadecimal numbers, conversions and logic gates. This section covers key facts about number systems and logic.</p><h4>Key points</h4><ul><li>The binary equivalent of the decimal number 10 is _____. \u2014 1010.</li><li>Which logic gate produces an output of 1 only when all its inputs are 1 \u2014 AND gate.</li><li>The hexadecimal number system uses base _____. \u2014 16.</li><li>Convert the binary number 111 to decimal. \u2014 7.</li><li>The base of the Octal number system is _____. \u2014 8.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The binary equivalent of the decimal number 10 is _____.<br/><b>A:</b> 1010 \u2014 To convert 10 to binary: 10/2 = 5 R 0; 5/2 = 2 R 1; 2/2 = 1 R 0; 1/2 = 0 R 1. Reading remainders from bottom to top gives 1010.</p><p><b>Q:</b> Which logic gate produces an output of 1 only when all its inputs are 1?<br/><b>A:</b> AND gate \u2014 In an AND gate, the output is high (1) if and only if all the input signals are high (1).</p>",
+      "examples": [
+        {
+          "q": "The binary equivalent of the decimal number 10 is _____.",
+          "a": "1010"
+        },
+        {
+          "q": "Which logic gate produces an output of 1 only when all its inputs are 1?",
+          "a": "AND gate"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Number Systems and Logic",
+      "html": "<p>Binary, octal and hexadecimal numbers, conversions and logic gates. This section covers important terms and examples in number systems and logic.</p><h4>Key points</h4><ul><li>The binary equivalent of the decimal number 10 is _____. \u2014 1010.</li><li>Which logic gate produces an output of 1 only when all its inputs are 1 \u2014 AND gate.</li><li>The hexadecimal number system uses base _____. \u2014 16.</li><li>Convert the binary number 111 to decimal. \u2014 7.</li><li>The base of the Octal number system is _____. \u2014 8.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The binary equivalent of the decimal number 10 is _____.<br/><b>A:</b> 1010 \u2014 To convert 10 to binary: 10/2 = 5 R 0; 5/2 = 2 R 1; 2/2 = 1 R 0; 1/2 = 0 R 1. Reading remainders from bottom to top gives 1010.</p><p><b>Q:</b> Which logic gate produces an output of 1 only when all its inputs are 1?<br/><b>A:</b> AND gate \u2014 In an AND gate, the output is high (1) if and only if all the input signals are high (1).</p>",
+      "examples": [
+        {
+          "q": "The binary equivalent of the decimal number 10 is _____.",
+          "a": "1010"
+        },
+        {
+          "q": "Which logic gate produces an output of 1 only when all its inputs are 1?",
+          "a": "AND gate"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Number Systems and Logic",
+      "html": "<p>Binary, octal and hexadecimal numbers, conversions and logic gates. This section covers importance and application of number systems and logic.</p><h4>Key points</h4><ul><li>The binary equivalent of the decimal number 10 is _____. \u2014 1010.</li><li>Which logic gate produces an output of 1 only when all its inputs are 1 \u2014 AND gate.</li><li>The hexadecimal number system uses base _____. \u2014 16.</li><li>Convert the binary number 111 to decimal. \u2014 7.</li><li>The base of the Octal number system is _____. \u2014 8.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The binary equivalent of the decimal number 10 is _____.<br/><b>A:</b> 1010 \u2014 To convert 10 to binary: 10/2 = 5 R 0; 5/2 = 2 R 1; 2/2 = 1 R 0; 1/2 = 0 R 1. Reading remainders from bottom to top gives 1010.</p><p><b>Q:</b> Which logic gate produces an output of 1 only when all its inputs are 1?<br/><b>A:</b> AND gate \u2014 In an AND gate, the output is high (1) if and only if all the input signals are high (1).</p>",
+      "examples": [
+        {
+          "q": "The binary equivalent of the decimal number 10 is _____.",
+          "a": "1010"
+        },
+        {
+          "q": "Which logic gate produces an output of 1 only when all its inputs are 1?",
+          "a": "AND gate"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Binary, octal and hexadecimal numbers, conversions and logic gates. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>The binary equivalent of the decimal number 10 is _____. \u2014 1010.</li><li>Which logic gate produces an output of 1 only when all its inputs are 1 \u2014 AND gate.</li><li>The hexadecimal number system uses base _____. \u2014 16.</li><li>Convert the binary number 111 to decimal. \u2014 7.</li><li>The base of the Octal number system is _____. \u2014 8.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The binary equivalent of the decimal number 10 is _____.<br/><b>A:</b> 1010 \u2014 To convert 10 to binary: 10/2 = 5 R 0; 5/2 = 2 R 1; 2/2 = 1 R 0; 1/2 = 0 R 1. Reading remainders from bottom to top gives 1010.</p><p><b>Q:</b> Which logic gate produces an output of 1 only when all its inputs are 1?<br/><b>A:</b> AND gate \u2014 In an AND gate, the output is high (1) if and only if all the input signals are high (1).</p>",
+      "examples": [
+        {
+          "q": "The binary equivalent of the decimal number 10 is _____.",
+          "a": "1010"
+        },
+        {
+          "q": "Which logic gate produces an output of 1 only when all its inputs are 1?",
+          "a": "AND gate"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "The binary equivalent of the decimal number 10 is _____.",
+      "options": [
+        "1001",
+        "1010",
+        "1100",
+        "1111"
+      ],
+      "answer": 1,
+      "solution": "To convert 10 to binary: 10/2 = 5 R 0; 5/2 = 2 R 1; 2/2 = 1 R 0; 1/2 = 0 R 1. Reading remainders from bottom to top gives 1010.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which logic gate produces an output of 1 only when all its inputs are 1?",
+      "options": [
+        "OR gate",
+        "AND gate",
+        "NOT gate",
+        "NAND gate"
+      ],
+      "answer": 1,
+      "solution": "In an AND gate, the output is high (1) if and only if all the input signals are high (1).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The hexadecimal number system uses base _____.",
+      "options": [
+        "2",
+        "8",
+        "10",
+        "16"
+      ],
+      "answer": 3,
+      "solution": "Hexadecimal uses sixteen distinct symbols: 0\u20139 and A\u2013F.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Convert the binary number 111 to decimal.",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "answer": 2,
+      "solution": "(1 * 2^2) + (1 * 2^1) + (1 * 2^0) = 4 + 2 + 1 = 7.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The base of the Octal number system is _____.",
+      "options": [
+        "2",
+        "8",
+        "10",
+        "16"
+      ],
+      "answer": 1,
+      "solution": "Octal uses eight digits: 0, 1, 2, 3, 4, 5, 6, and 7.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which logic gate is also known as an 'Inverter'?",
+      "options": [
+        "AND gate",
+        "OR gate",
+        "NOT gate",
+        "XOR gate"
+      ],
+      "answer": 2,
+      "solution": "A NOT gate is called an inverter because it reverses the input signal (1 becomes 0 and vice versa).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which logic gate outputs 1 only if both inputs are 1?",
+      "options": [
+        "AND",
+        "OR",
+        "NOT",
+        "NAND"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: AND.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which Logic Gate inverts input?",
+      "options": [
+        "NOT",
+        "AND",
+        "OR",
+        "XOR"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: NOT.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Logic Gate AND output 1 when:",
+      "options": [
+        "Both inputs are 1",
+        "One input is 1",
+        "Both inputs are 0",
+        "Any input is 0"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Both inputs are 1.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Logic Gate OR output 1 when:",
+      "options": [
+        "Any input is 1",
+        "Both inputs are 0",
+        "No input is 1",
+        "Inputs are equal"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Any input is 1.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Logic Gate NOT:",
+      "options": [
+        "Inverts input",
+        "Adds input",
+        "Multiplies input",
+        "Ignores input"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Inverts input.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "What is the binary equivalent of the decimal number 10?",
+      "options": [
+        "1001",
+        "1010",
+        "1100",
+        "1111"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: 1010.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Convert the binary number $1101_{2}$ to decimal.",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: 13.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "In computer logic, which gate returns 'True' only if both inputs are 'True'?",
+      "options": [
+        "OR Gate",
+        "AND Gate",
+        "NOT Gate",
+        "XOR Gate"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: AND Gate.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Which logic gate is known as an 'Inverter'?",
+      "options": [
+        "AND",
+        "OR",
+        "NOT",
+        "NAND"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: NOT.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1?",
+      "options": [
+        "0",
+        "1",
+        "8",
+        "-1"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 0.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "What is the decimal value of the hexadecimal number 'A'?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: 10.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Which logic gate gives output 1 only if both inputs are 1?",
+      "options": [
+        "OR",
+        "AND",
+        "NOT",
+        "XOR"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: AND.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Which logic gate inverts the input?",
+      "options": [
+        "OR",
+        "AND",
+        "NOT",
+        "NAND"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: NOT.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Logic Gate AND output is 1 when:",
+      "options": [
+        "Both inputs are 1",
+        "One input is 1",
+        "Both inputs are 0",
+        "Any input is 0"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Both inputs are 1.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Logic Gate OR output is 1 when:",
+      "options": [
+        "Any input is 1",
+        "Both inputs are 0",
+        "No input is 1",
+        "Inputs are equal"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Any input is 1.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The binary equivalent of decimal 5 is:",
+      "options": [
+        "100",
+        "101",
+        "110",
+        "111"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: 101.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The specialized program to detect viruses is:",
+      "options": [
+        "Virus checker",
+        "Antivirus",
+        "Utility",
+        "Debugger"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Antivirus.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "ROM:",
+      "options": [
+        "Read Only",
+        "Random",
+        "Write",
+        "Delete"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Read Only.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "ALU:",
+      "options": [
+        "Arithmetic Logic Unit",
+        "All",
+        "Access",
+        "Auto"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Arithmetic Logic Unit.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Nibble:",
+      "options": [
+        "4 bits",
+        "8",
+        "2",
+        "1"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 4 bits.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Social Media:",
+      "options": [
+        "Facebook",
+        "Excel",
+        "Word",
+        "Paint"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Facebook.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "PDF:",
+      "options": [
+        "Portable Document",
+        "Public",
+        "Print",
+        "Personal"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Portable Document.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Which is Permanent Storage?",
+      "options": [
+        "Hard Disk",
+        "RAM",
+        "Register",
+        "Cache"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Hard Disk.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Number Systems and Logic in Number Systems and Logic?",
+      "options": [
+        "OS Example: \u2014 Windows.",
+        "The binary equivalent of the decimal number 10 is _____. \u2014 1010.",
+        "Ctrl+S: \u2014 Save.",
+        "Who is the father of the computer \u2014 Charles Babbage."
+      ],
+      "answer": 1,
+      "solution": "The binary equivalent of the decimal number 10 is _____. \u2014 1010.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Number Systems and Logic in Number Systems and Logic?",
+      "options": [
+        "OS Example: \u2014 Windows.",
+        "The binary equivalent of the decimal number 10 is _____. \u2014 1010.",
+        "Who is the father of the computer \u2014 Charles Babbage.",
+        "Ctrl+S: \u2014 Save."
+      ],
+      "answer": 1,
+      "solution": "The binary equivalent of the decimal number 10 is _____. \u2014 1010.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Number Systems and Logic in Number Systems and Logic?",
+      "options": [
+        "Who is the father of the computer \u2014 Charles Babbage.",
+        "The binary equivalent of the decimal number 10 is _____. \u2014 1010.",
+        "Ctrl+S: \u2014 Save.",
+        "OS Example: \u2014 Windows."
+      ],
+      "answer": 1,
+      "solution": "The binary equivalent of the decimal number 10 is _____. \u2014 1010.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Number Systems and Logic in Number Systems and Logic?",
+      "options": [
+        "The binary equivalent of the decimal number 10 is _____. \u2014 1010.",
+        "Who is the father of the computer \u2014 Charles Babbage.",
+        "Ctrl+S: \u2014 Save.",
+        "OS Example: \u2014 Windows."
+      ],
+      "answer": 0,
+      "solution": "The binary equivalent of the decimal number 10 is _____. \u2014 1010.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Number Systems and Logic?",
+      "options": [
+        "OS Example: \u2014 Windows.",
+        "Who is the father of the computer \u2014 Charles Babbage.",
+        "Ctrl+S: \u2014 Save.",
+        "The binary equivalent of the decimal number 10 is _____. \u2014 1010."
+      ],
+      "answer": 3,
+      "solution": "The binary equivalent of the decimal number 10 is _____. \u2014 1010.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Number Systems and Logic \u2014 'binary'?",
+      "options": [
+        "Who is the father of the computer \u2014 Charles Babbage.",
+        "The binary equivalent of the decimal number 10 is _____. \u2014 1010.",
+        "Ctrl+S: \u2014 Save.",
+        "OS Example: \u2014 Windows."
+      ],
+      "answer": 1,
+      "solution": "The binary equivalent of the decimal number 10 is _____. \u2014 1010.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Number Systems and Logic \u2014 'gate'?",
+      "options": [
+        "Ctrl+S: \u2014 Save.",
+        "Who is the father of the computer \u2014 Charles Babbage.",
+        "OS Example: \u2014 Windows.",
+        "Which logic gate produces an output of 1 only when all its inputs are 1 \u2014 AND gate."
+      ],
+      "answer": 3,
+      "solution": "Which logic gate produces an output of 1 only when all its inputs are 1 \u2014 AND gate.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Number Systems and Logic \u2014 'hexadecimal'?",
+      "options": [
+        "The hexadecimal number system uses base _____. \u2014 16.",
+        "Ctrl+S: \u2014 Save.",
+        "Who is the father of the computer \u2014 Charles Babbage.",
+        "OS Example: \u2014 Windows."
+      ],
+      "answer": 0,
+      "solution": "The hexadecimal number system uses base _____. \u2014 16.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Number Systems and Logic \u2014 'convert'?",
+      "options": [
+        "Who is the father of the computer \u2014 Charles Babbage.",
+        "Convert the binary number 111 to decimal. \u2014 7.",
+        "Ctrl+S: \u2014 Save.",
+        "OS Example: \u2014 Windows."
+      ],
+      "answer": 1,
+      "solution": "Convert the binary number 111 to decimal. \u2014 7.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Number Systems and Logic \u2014 'base'?",
+      "options": [
+        "The base of the Octal number system is _____. \u2014 8.",
+        "OS Example: \u2014 Windows.",
+        "Who is the father of the computer \u2014 Charles Babbage.",
+        "Ctrl+S: \u2014 Save."
+      ],
+      "answer": 0,
+      "solution": "The base of the Octal number system is _____. \u2014 8.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Number Systems and Logic \u2014 'computer'?",
+      "options": [
+        "Decision Symbol: \u2014 Diamond.",
+        "OS Example: \u2014 Windows.",
+        "Ctrl+S: \u2014 Save.",
+        "In computer logic, which gate returns 'True' only if both inputs are 'True' \u2014 AND Gate."
+      ],
+      "answer": 3,
+      "solution": "In computer logic, which gate returns 'True' only if both inputs are 'True' \u2014 AND Gate.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Number Systems and Logic \u2014 'input'?",
+      "options": [
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "Ctrl+S: \u2014 Save.",
+        "Who is the father of the computer \u2014 Charles Babbage.",
+        "OS Example: \u2014 Windows."
+      ],
+      "answer": 0,
+      "solution": "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Number Systems and Logic \u2014 'decimal'?",
+      "options": [
+        "What is the decimal value of the hexadecimal number 'A' \u2014 10.",
+        "Who is the father of the computer \u2014 Charles Babbage.",
+        "OS Example: \u2014 Windows.",
+        "Ctrl+S: \u2014 Save."
+      ],
+      "answer": 0,
+      "solution": "What is the decimal value of the hexadecimal number 'A' \u2014 10.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Number Systems and Logic \u2014 'specialized'?",
+      "options": [
+        "The specialized program to detect viruses is: \u2014 Antivirus.",
+        "Ctrl+S: \u2014 Save.",
+        "OS Example: \u2014 Windows.",
+        "Who is the father of the computer \u2014 Charles Babbage."
+      ],
+      "answer": 0,
+      "solution": "The specialized program to detect viruses is: \u2014 Antivirus.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Number Systems and Logic \u2014 'rom'?",
+      "options": [
+        "Ctrl+S: \u2014 Save.",
+        "ROM: \u2014 Read Only.",
+        "OS Example: \u2014 Windows.",
+        "Who is the father of the computer \u2014 Charles Babbage."
+      ],
+      "answer": 1,
+      "solution": "ROM: \u2014 Read Only.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Number Systems and Logic \u2014 'alu'?",
+      "options": [
+        "Ctrl+S: \u2014 Save.",
+        "OS Example: \u2014 Windows.",
+        "ALU: \u2014 Arithmetic Logic Unit.",
+        "Who is the father of the computer \u2014 Charles Babbage."
+      ],
+      "answer": 2,
+      "solution": "ALU: \u2014 Arithmetic Logic Unit.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Number Systems and Logic \u2014 'nibble'?",
+      "options": [
+        "Nibble: \u2014 4 bits.",
+        "Who is the father of the computer \u2014 Charles Babbage.",
+        "Ctrl+S: \u2014 Save.",
+        "OS Example: \u2014 Windows."
+      ],
+      "answer": 0,
+      "solution": "Nibble: \u2014 4 bits.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Number Systems and Logic \u2014 'social'?",
+      "options": [
+        "Social Media: \u2014 Facebook.",
+        "Ctrl+S: \u2014 Save.",
+        "OS Example: \u2014 Windows.",
+        "Who is the father of the computer \u2014 Charles Babbage."
+      ],
+      "answer": 0,
+      "solution": "Social Media: \u2014 Facebook.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Number Systems and Logic \u2014 'pdf'?",
+      "options": [
+        "PDF: \u2014 Portable Document.",
+        "Ctrl+S: \u2014 Save.",
+        "Who is the father of the computer \u2014 Charles Babbage.",
+        "OS Example: \u2014 Windows."
+      ],
+      "answer": 0,
+      "solution": "PDF: \u2014 Portable Document.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Number Systems and Logic \u2014 'permanent'?",
+      "options": [
+        "Who is the father of the computer \u2014 Charles Babbage.",
+        "Which is Permanent Storage \u2014 Hard Disk.",
+        "OS Example: \u2014 Windows.",
+        "Ctrl+S: \u2014 Save."
+      ],
+      "answer": 1,
+      "solution": "Which is Permanent Storage \u2014 Hard Disk.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Find the value of ${}^9P_2$.",
+      "options": [
+        "74",
+        "72",
+        "71",
+        "73"
+      ],
+      "answer": 1,
+      "solution": "${}^9P_2 = 9!/(9-2)! = 72$.",
+      "source": "Syllabus-modelled practice (computed)",
+      "practice": true
+    }
+  ]
+}

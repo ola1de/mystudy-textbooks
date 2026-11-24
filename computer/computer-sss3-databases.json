@@ -1,0 +1,737 @@
+{
+  "subject": "Computer Studies",
+  "level": "SSS 3",
+  "slug": "databases",
+  "title": "Databases",
+  "outline": [
+    "Introduction to Databases",
+    "Key facts about Databases",
+    "Important terms and examples in Databases",
+    "Importance and application of Databases",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Databases",
+      "html": "<p>Tables, fields, records, queries and database management systems. This section covers introduction to databases.</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of databases.</li><li>Be able to explain databases in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which of the following is a spreadsheet application?<br/><b>A:</b> Lotus 1-2-3 \u2014 Lotus 1-2-3 was a popular spreadsheet program before Excel became dominant.</p><p><b>Q:</b> Which key capitalizes letters?<br/><b>A:</b> Caps Lock \u2014 Past question (JAMB 2021). Correct answer: Caps Lock.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is a spreadsheet application?",
+          "a": "Lotus 1-2-3"
+        },
+        {
+          "q": "Which key capitalizes letters?",
+          "a": "Caps Lock"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Databases",
+      "html": "<p>Tables, fields, records, queries and database management systems. This section covers key facts about databases.</p><h4>Key points</h4><ul><li>Which key capitalizes letters \u2014 Caps Lock.</li><li>Which key deletes characters to the left of the cursor \u2014 Backspace.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which of the following is a spreadsheet application?<br/><b>A:</b> Lotus 1-2-3 \u2014 Lotus 1-2-3 was a popular spreadsheet program before Excel became dominant.</p><p><b>Q:</b> Which key capitalizes letters?<br/><b>A:</b> Caps Lock \u2014 Past question (JAMB 2021). Correct answer: Caps Lock.</p><h4>More key points</h4><ul><li>Which key capitalizes letters \u2014 Caps Lock.</li><li>Which key deletes characters to the left of the cursor \u2014 Backspace.</li></ul>",
+      "examples": [
+        {
+          "q": "Which of the following is a spreadsheet application?",
+          "a": "Lotus 1-2-3"
+        },
+        {
+          "q": "Which key capitalizes letters?",
+          "a": "Caps Lock"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Databases",
+      "html": "<p>Tables, fields, records, queries and database management systems. This section covers important terms and examples in databases.</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of databases.</li><li>Be able to explain databases in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which of the following is a spreadsheet application?<br/><b>A:</b> Lotus 1-2-3 \u2014 Lotus 1-2-3 was a popular spreadsheet program before Excel became dominant.</p><p><b>Q:</b> Which key capitalizes letters?<br/><b>A:</b> Caps Lock \u2014 Past question (JAMB 2021). Correct answer: Caps Lock.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is a spreadsheet application?",
+          "a": "Lotus 1-2-3"
+        },
+        {
+          "q": "Which key capitalizes letters?",
+          "a": "Caps Lock"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Databases",
+      "html": "<p>Tables, fields, records, queries and database management systems. This section covers importance and application of databases.</p><h4>Key points</h4><ul><li>Which of the following is a spreadsheet application \u2014 Lotus 1-2-3.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which of the following is a spreadsheet application?<br/><b>A:</b> Lotus 1-2-3 \u2014 Lotus 1-2-3 was a popular spreadsheet program before Excel became dominant.</p><p><b>Q:</b> Which key capitalizes letters?<br/><b>A:</b> Caps Lock \u2014 Past question (JAMB 2021). Correct answer: Caps Lock.</p><h4>More key points</h4><ul><li>Which of the following is a spreadsheet application \u2014 Lotus 1-2-3.</li></ul>",
+      "examples": [
+        {
+          "q": "Which of the following is a spreadsheet application?",
+          "a": "Lotus 1-2-3"
+        },
+        {
+          "q": "Which key capitalizes letters?",
+          "a": "Caps Lock"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Tables, fields, records, queries and database management systems. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of databases.</li><li>Be able to explain databases in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which of the following is a spreadsheet application?<br/><b>A:</b> Lotus 1-2-3 \u2014 Lotus 1-2-3 was a popular spreadsheet program before Excel became dominant.</p><p><b>Q:</b> Which key capitalizes letters?<br/><b>A:</b> Caps Lock \u2014 Past question (JAMB 2021). Correct answer: Caps Lock.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is a spreadsheet application?",
+          "a": "Lotus 1-2-3"
+        },
+        {
+          "q": "Which key capitalizes letters?",
+          "a": "Caps Lock"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which of the following is a spreadsheet application?",
+      "options": [
+        "Lotus 1-2-3",
+        "CorelDraw",
+        "PowerPoint",
+        "Notepad"
+      ],
+      "answer": 0,
+      "solution": "Lotus 1-2-3 was a popular spreadsheet program before Excel became dominant.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which key capitalizes letters?",
+      "options": [
+        "Caps Lock",
+        "Enter",
+        "Tab",
+        "Esc"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Caps Lock.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which key deletes characters to the left of the cursor?",
+      "options": [
+        "Delete",
+        "Backspace",
+        "Spacebar",
+        "Enter"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Backspace.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which part of the CPU is responsible for performing mathematical calculations?",
+      "options": [
+        "Control Unit",
+        "Registers",
+        "Arithmetic and Logic Unit",
+        "Cache Memory"
+      ],
+      "answer": 2,
+      "solution": "The Arithmetic and Logic Unit (ALU) performs all arithmetic (addition, subtraction) and logical (comparisons) operations.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which networking topology connects all devices to a single central cable?",
+      "options": [
+        "Star",
+        "Bus",
+        "Ring",
+        "Mesh"
+      ],
+      "answer": 1,
+      "solution": "In a bus topology, all nodes are connected to a main transmission line (backbone).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following units is used to measure CPU speed?",
+      "options": [
+        "Gigabytes",
+        "Hertz",
+        "Pixels",
+        "Bps"
+      ],
+      "answer": 1,
+      "solution": "CPU speed is measured in cycles per second, known as Hertz (typically MHz or GHz).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a high-level language?",
+      "options": [
+        "Assembly",
+        "Machine code",
+        "Python",
+        "Mnemonics"
+      ],
+      "answer": 2,
+      "solution": "Python is a high-level, interpreted, general-purpose programming language. Assembly and Machine code are low-level.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is used for video output?",
+      "options": [
+        "VGA",
+        "USB",
+        "PS/2",
+        "RJ-45"
+      ],
+      "answer": 0,
+      "solution": "Video Graphics Array (VGA) is a standard connector for computer video output.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The 'Home Row' on a QWERTY keyboard for the left hand is _____.",
+      "options": [
+        "A S D F",
+        "J K L ;",
+        "Q W E R",
+        "Z X C V"
+      ],
+      "answer": 0,
+      "solution": "In touch typing, the home row keys for the left hand are A, S, D, and F.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A network covering a small area like a building is:",
+      "options": [
+        "LAN",
+        "WAN",
+        "MAN",
+        "PAN"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: LAN.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which is a permanent storage?",
+      "options": [
+        "Hard Disk",
+        "RAM",
+        "Cache",
+        "Register"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Hard Disk.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Algorithm is:",
+      "options": [
+        "Step-by-step solution",
+        "A diagram",
+        "A program",
+        "Hardware"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Step-by-step solution.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which memory is fastest?",
+      "options": [
+        "Cache",
+        "RAM",
+        "Hard Disk",
+        "Flash"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Cache.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "A collection of related records is a:",
+      "options": [
+        "Field",
+        "File",
+        "Bit",
+        "Byte"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: File.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Ctrl + Z is used for:",
+      "options": [
+        "Redo",
+        "Undo",
+        "Cut",
+        "Paste"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Undo.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "ROM stands for:",
+      "options": [
+        "Read Only Memory",
+        "Random Only Memory",
+        "Read On Memory",
+        "Run On Memory"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Read Only Memory.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "First generation used:",
+      "options": [
+        "Vacuum Tubes",
+        "Transistors",
+        "IC",
+        "Microprocessors"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Vacuum Tubes.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Nibble is:",
+      "options": [
+        "4 bits",
+        "8 bits",
+        "2 bits",
+        "1 bit"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: 4 bits.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Warm Booting is:",
+      "options": [
+        "Restarting",
+        "Turning on from off",
+        "Sleeping",
+        "Hibernating"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Restarting.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "What is the result of the Excel formula: $$ =SUM(10, 20, 30) $$",
+      "options": [
+        "10",
+        "30",
+        "60",
+        "0"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: 60.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The process of finding and fixing errors in a program is...",
+      "options": [
+        "Compiling",
+        "Executing",
+        "Debugging",
+        "Scanning"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Debugging.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a permanent storage device?",
+      "options": [
+        "RAM",
+        "Register",
+        "Hard Disk",
+        "Cache"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: Hard Disk.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The extension .doc represents:",
+      "options": [
+        "Image",
+        "Audio",
+        "Document (Word)",
+        "Video"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: Document (Word).",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "WWW:",
+      "options": [
+        "World Wide Web",
+        "World Web Wide",
+        "Wide World Web",
+        "Web World Wide"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: World Wide Web.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Ctrl+S:",
+      "options": [
+        "Save",
+        "Select",
+        "Search",
+        "Stop"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Save.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Decision Symbol:",
+      "options": [
+        "Diamond",
+        "Square",
+        "Oval",
+        "Line"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Diamond.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Soft Copy:",
+      "options": [
+        "Screen/File",
+        "Paper",
+        "Book",
+        "Card"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Screen/File.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "MS Excel is used for:",
+      "options": [
+        "Spreadsheet/Calculation",
+        "Drawing",
+        "Typing",
+        "Music"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Spreadsheet/Calculation.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "1 Gigabyte equals:",
+      "options": [
+        "1024 Megabytes",
+        "1000 MB",
+        "100 MB",
+        "1024 KB"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 1024 Megabytes.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Databases in Databases?",
+      "options": [
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "Which of the following is a spreadsheet application \u2014 Lotus 1-2-3.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1."
+      ],
+      "answer": 2,
+      "solution": "Which of the following is a spreadsheet application \u2014 Lotus 1-2-3.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Databases in Databases?",
+      "options": [
+        "Which key capitalizes letters \u2014 Caps Lock.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage."
+      ],
+      "answer": 0,
+      "solution": "Which key capitalizes letters \u2014 Caps Lock.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Databases in Databases?",
+      "options": [
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "Which of the following is a spreadsheet application \u2014 Lotus 1-2-3.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1."
+      ],
+      "answer": 2,
+      "solution": "Which of the following is a spreadsheet application \u2014 Lotus 1-2-3.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Databases in Databases?",
+      "options": [
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "Which of the following is a spreadsheet application \u2014 Lotus 1-2-3."
+      ],
+      "answer": 3,
+      "solution": "Which of the following is a spreadsheet application \u2014 Lotus 1-2-3.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Databases?",
+      "options": [
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1.",
+        "Which of the following is a spreadsheet application \u2014 Lotus 1-2-3.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage."
+      ],
+      "answer": 1,
+      "solution": "Which of the following is a spreadsheet application \u2014 Lotus 1-2-3.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'following'?",
+      "options": [
+        "Which of the following is a spreadsheet application \u2014 Lotus 1-2-3.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage."
+      ],
+      "answer": 0,
+      "solution": "Which of the following is a spreadsheet application \u2014 Lotus 1-2-3.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'key'?",
+      "options": [
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "Which key capitalizes letters \u2014 Caps Lock.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1."
+      ],
+      "answer": 1,
+      "solution": "Which key capitalizes letters \u2014 Caps Lock.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'part'?",
+      "options": [
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "Which part of the CPU is responsible for performing mathematical calculations \u2014 Arithmetic and Logic Unit.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1."
+      ],
+      "answer": 1,
+      "solution": "Which part of the CPU is responsible for performing mathematical calculations \u2014 Arithmetic and Logic Unit.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'networking'?",
+      "options": [
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1.",
+        "Which networking topology connects all devices to a single central cable \u2014 Bus.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0."
+      ],
+      "answer": 2,
+      "solution": "Which networking topology connects all devices to a single central cable \u2014 Bus.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'home'?",
+      "options": [
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1.",
+        "The 'Home Row' on a QWERTY keyboard for the left hand is _____. \u2014 A S D F.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage."
+      ],
+      "answer": 2,
+      "solution": "The 'Home Row' on a QWERTY keyboard for the left hand is _____. \u2014 A S D F.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'network'?",
+      "options": [
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1.",
+        "A network covering a small area like a building is: \u2014 LAN.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0."
+      ],
+      "answer": 1,
+      "solution": "A network covering a small area like a building is: \u2014 LAN.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'permanent'?",
+      "options": [
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1.",
+        "Which is a permanent storage \u2014 Hard Disk."
+      ],
+      "answer": 3,
+      "solution": "Which is a permanent storage \u2014 Hard Disk.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'algorithm'?",
+      "options": [
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "Algorithm is: \u2014 Step-by-step solution.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage."
+      ],
+      "answer": 1,
+      "solution": "Algorithm is: \u2014 Step-by-step solution.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'memory'?",
+      "options": [
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "Which memory is fastest \u2014 Cache.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1."
+      ],
+      "answer": 2,
+      "solution": "Which memory is fastest \u2014 Cache.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'collection'?",
+      "options": [
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "A collection of related records is a: \u2014 File.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage."
+      ],
+      "answer": 1,
+      "solution": "A collection of related records is a: \u2014 File.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'ctrl'?",
+      "options": [
+        "Ctrl + Z is used for: \u2014 Undo.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0."
+      ],
+      "answer": 0,
+      "solution": "Ctrl + Z is used for: \u2014 Undo.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'rom'?",
+      "options": [
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "ROM stands for: \u2014 Read Only Memory.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1."
+      ],
+      "answer": 2,
+      "solution": "ROM stands for: \u2014 Read Only Memory.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'generation'?",
+      "options": [
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1.",
+        "First generation used: \u2014 Vacuum Tubes."
+      ],
+      "answer": 3,
+      "solution": "First generation used: \u2014 Vacuum Tubes.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'nibble'?",
+      "options": [
+        "Nibble is: \u2014 4 bits.",
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0."
+      ],
+      "answer": 0,
+      "solution": "Nibble is: \u2014 4 bits.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'warm'?",
+      "options": [
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1.",
+        "Warm Booting is: \u2014 Restarting.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0."
+      ],
+      "answer": 1,
+      "solution": "Warm Booting is: \u2014 Restarting.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Databases \u2014 'result'?",
+      "options": [
+        "Logic Gate AND output is 1 when: \u2014 Both inputs are 1.",
+        "Who is often referred to as the 'Father of Computing' \u2014 Charles Babbage.",
+        "An 8-input NAND gate is built using logic gates. What is the output if all inputs are 1 \u2014 0.",
+        "What is the result of the Excel formula: $$ =SUM(10, 20, 30) $$ \u2014 60."
+      ],
+      "answer": 3,
+      "solution": "What is the result of the Excel formula: $$ =SUM(10, 20, 30) $$ \u2014 60.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

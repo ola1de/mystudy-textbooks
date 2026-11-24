@@ -1,236 +1,752 @@
 {
- "subject": "Biology",
- "level": "SSS 3",
- "slug": "evolution-adaptation",
- "title": "Evolution and Adaptation",
- "outline": [
-  "Define evolution and outline theories of the origin of life",
-  "Compare Lamarck's and Darwin's theories and describe modern (neo-Darwinian) evolution",
-  "Present the evidences of evolution: fossils, comparative anatomy, embryology, biochemistry",
-  "Explain natural selection, adaptive radiation and speciation",
-  "Describe structural, physiological and behavioural adaptations for survival",
-  "Discuss competition, tolerance and the survival of species"
- ],
- "modules": [
-  {
-   "title": "Theories of Evolution",
-   "html": "\n<h4>1. Meaning</h4>\n<p>Organic evolution is the gradual change in the genetic composition of populations over many generations, giving rise to new species from pre-existing ones.</p>\n<h4>2. Origin of Life</h4>\n<ul><li><b>Special creation</b> – life was created by a supreme being.</li>\n<li><b>Spontaneous generation (abiogenesis)</b> – life from non-living matter; disproved by Redi and Pasteur.</li>\n<li><b>Cosmozoic/panspermia</b> – life arrived from space.</li>\n<li><b>Chemical (biochemical) evolution</b> – Oparin and Haldane: simple gases in a reducing primitive atmosphere formed organic monomers, then polymers and coacervates, eventually the first cell. Miller and Urey (1953) supported this experimentally by producing amino acids from methane, ammonia, hydrogen and water vapour sparked with electricity.</li></ul>\n<h4>3. Lamarck (1809)</h4>\n<p>Lamarck proposed the law of use and disuse and the inheritance of acquired characteristics: the giraffe stretched its neck to reach high leaves and passed the longer neck to its offspring. The theory is rejected because acquired characters do not alter the DNA of gametes (Weismann’s mice-tail experiment).</p>\n<h4>4. Darwin and Wallace (1859)</h4>\n<p>Darwin’s theory of natural selection is built on observations and deductions:</p>\n<ol><li>Organisms produce far more offspring than can survive (over-production).</li>\n<li>Yet populations remain fairly constant — so there is a struggle for existence.</li>\n<li>Individuals of a species vary.</li>\n<li>Those with favourable variations are better fitted, survive and reproduce (survival of the fittest).</li>\n<li>Favourable variations are transmitted; over many generations the population changes and new species arise.</li></ol>\n<p><b>Neo-Darwinism</b> adds genetics: mutation and recombination supply variation, natural selection acts on it, and isolation (geographical, ecological, reproductive) leads to speciation.</p>\n",
-   "examples": [
+  "subject": "Biology",
+  "level": "SSS 3",
+  "slug": "evolution-adaptation",
+  "title": "Evolution and Adaptation",
+  "outline": [
+    "Define evolution and outline theories of the origin of life",
+    "Compare Lamarck's and Darwin's theories and describe modern (neo-Darwinian) evolution",
+    "Present the evidences of evolution: fossils, comparative anatomy, embryology, biochemistry",
+    "Explain natural selection, adaptive radiation and speciation",
+    "Describe structural, physiological and behavioural adaptations for survival",
+    "Discuss competition, tolerance and the survival of species"
+  ],
+  "modules": [
     {
-     "q": "Explain the long neck of the giraffe using Lamarck's and Darwin's theories.",
-     "a": "Lamarck: ancestral giraffes stretched their necks to reach high leaves; the acquired longer neck was inherited and lengthened over generations. Darwin: giraffes varied naturally in neck length; during scarcity those with longer necks reached more food, survived and reproduced, passing on the genes, so the average neck length increased. Only Darwin's version agrees with modern genetics."
+      "title": "Theories of Evolution",
+      "html": "\n<h4>1. Meaning</h4>\n<p>Organic evolution is the gradual change in the genetic composition of populations over many generations, giving rise to new species from pre-existing ones.</p>\n<h4>2. Origin of Life</h4>\n<ul><li><b>Special creation</b> \u2013 life was created by a supreme being.</li>\n<li><b>Spontaneous generation (abiogenesis)</b> \u2013 life from non-living matter; disproved by Redi and Pasteur.</li>\n<li><b>Cosmozoic/panspermia</b> \u2013 life arrived from space.</li>\n<li><b>Chemical (biochemical) evolution</b> \u2013 Oparin and Haldane: simple gases in a reducing primitive atmosphere formed organic monomers, then polymers and coacervates, eventually the first cell. Miller and Urey (1953) supported this experimentally by producing amino acids from methane, ammonia, hydrogen and water vapour sparked with electricity.</li></ul>\n<h4>3. Lamarck (1809)</h4>\n<p>Lamarck proposed the law of use and disuse and the inheritance of acquired characteristics: the giraffe stretched its neck to reach high leaves and passed the longer neck to its offspring. The theory is rejected because acquired characters do not alter the DNA of gametes (Weismann\u2019s mice-tail experiment).</p>\n<h4>4. Darwin and Wallace (1859)</h4>\n<p>Darwin\u2019s theory of natural selection is built on observations and deductions:</p>\n<ol><li>Organisms produce far more offspring than can survive (over-production).</li>\n<li>Yet populations remain fairly constant \u2014 so there is a struggle for existence.</li>\n<li>Individuals of a species vary.</li>\n<li>Those with favourable variations are better fitted, survive and reproduce (survival of the fittest).</li>\n<li>Favourable variations are transmitted; over many generations the population changes and new species arise.</li></ol>\n<p><b>Neo-Darwinism</b> adds genetics: mutation and recombination supply variation, natural selection acts on it, and isolation (geographical, ecological, reproductive) leads to speciation.</p>\n",
+      "examples": [
+        {
+          "q": "Explain the long neck of the giraffe using Lamarck's and Darwin's theories.",
+          "a": "Lamarck: ancestral giraffes stretched their necks to reach high leaves; the acquired longer neck was inherited and lengthened over generations. Darwin: giraffes varied naturally in neck length; during scarcity those with longer necks reached more food, survived and reproduced, passing on the genes, so the average neck length increased. Only Darwin's version agrees with modern genetics."
+        },
+        {
+          "q": "How did industrial melanism in the peppered moth demonstrate natural selection?",
+          "a": "Before industrialisation, pale moths were camouflaged on lichen-covered trees and dark mutants were eaten by birds. Soot killed lichens and blackened bark, so dark moths became better camouflaged, survived predation and increased in frequency while pale moths declined \u2014 observable natural selection in a few decades."
+        }
+      ]
     },
     {
-     "q": "How did industrial melanism in the peppered moth demonstrate natural selection?",
-     "a": "Before industrialisation, pale moths were camouflaged on lichen-covered trees and dark mutants were eaten by birds. Soot killed lichens and blackened bark, so dark moths became better camouflaged, survived predation and increased in frequency while pale moths declined — observable natural selection in a few decades."
-    }
-   ]
-  },
-  {
-   "title": "Evidences of Evolution",
-   "html": "\n<h4>1. Fossil Record (Palaeontology)</h4>\n<p>Fossils are the preserved remains or impressions of once-living organisms in sedimentary rock, amber, ice or tar. Deeper strata contain older, simpler forms; dating uses radioactive isotopes such as \\(^{14}C\\) and \\(^{40}K\\). The fossil series of the horse (<i>Eohippus</i> → <i>Mesohippus</i> → <i>Merychippus</i> → <i>Pliohippus</i> → <i>Equus</i>) shows increasing size, lengthening limbs and reduction from four toes to a single hoof. <i>Archaeopteryx</i> is a connecting link between reptiles and birds.</p>\n<h4>2. Comparative Anatomy</h4>\n<ul><li><b>Homologous structures</b> – same basic pentadactyl plan and embryonic origin but different functions (human arm, whale flipper, bat wing, horse foreleg); they indicate <b>divergent evolution</b> from a common ancestor.</li>\n<li><b>Analogous structures</b> – similar function but different origin (insect wing and bird wing); they indicate <b>convergent evolution</b>.</li>\n<li><b>Vestigial structures</b> – reduced and functionless remains such as the human appendix, coccyx, nictitating membrane and body hair, and the wings of the ostrich.</li></ul>\n<h4>3. Embryology, Biochemistry and Geography</h4>\n<p>Early vertebrate embryos are strikingly similar, all possessing gill pouches and a tail. All organisms use the same genetic code, DNA, ATP and similar enzymes; the closer two species are, the more similar their haemoglobin and cytochrome-c sequences and their serological reactions. Geographical distribution — marsupials in Australia, Darwin’s finches on the Galápagos — shows isolation followed by <b>adaptive radiation</b> into different niches.</p>\n",
-   "examples": [
-    {
-     "q": "Distinguish homologous from analogous structures with examples.",
-     "a": "Homologous structures share a common basic structure and ancestry but perform different functions — the forelimbs of man (grasping), bat (flight) and whale (swimming) all follow the pentadactyl plan; they show divergent evolution. Analogous structures perform the same function but differ in origin — an insect's wing (cuticle) and a bird's wing (bone and feather); they show convergent evolution."
+      "title": "Evidences of Evolution",
+      "html": "\n<h4>1. Fossil Record (Palaeontology)</h4>\n<p>Fossils are the preserved remains or impressions of once-living organisms in sedimentary rock, amber, ice or tar. Deeper strata contain older, simpler forms; dating uses radioactive isotopes such as \\(^{14}C\\) and \\(^{40}K\\). The fossil series of the horse (<i>Eohippus</i> \u2192 <i>Mesohippus</i> \u2192 <i>Merychippus</i> \u2192 <i>Pliohippus</i> \u2192 <i>Equus</i>) shows increasing size, lengthening limbs and reduction from four toes to a single hoof. <i>Archaeopteryx</i> is a connecting link between reptiles and birds.</p>\n<h4>2. Comparative Anatomy</h4>\n<ul><li><b>Homologous structures</b> \u2013 same basic pentadactyl plan and embryonic origin but different functions (human arm, whale flipper, bat wing, horse foreleg); they indicate <b>divergent evolution</b> from a common ancestor.</li>\n<li><b>Analogous structures</b> \u2013 similar function but different origin (insect wing and bird wing); they indicate <b>convergent evolution</b>.</li>\n<li><b>Vestigial structures</b> \u2013 reduced and functionless remains such as the human appendix, coccyx, nictitating membrane and body hair, and the wings of the ostrich.</li></ul>\n<h4>3. Embryology, Biochemistry and Geography</h4>\n<p>Early vertebrate embryos are strikingly similar, all possessing gill pouches and a tail. All organisms use the same genetic code, DNA, ATP and similar enzymes; the closer two species are, the more similar their haemoglobin and cytochrome-c sequences and their serological reactions. Geographical distribution \u2014 marsupials in Australia, Darwin\u2019s finches on the Gal\u00e1pagos \u2014 shows isolation followed by <b>adaptive radiation</b> into different niches.</p>\n",
+      "examples": [
+        {
+          "q": "Distinguish homologous from analogous structures with examples.",
+          "a": "Homologous structures share a common basic structure and ancestry but perform different functions \u2014 the forelimbs of man (grasping), bat (flight) and whale (swimming) all follow the pentadactyl plan; they show divergent evolution. Analogous structures perform the same function but differ in origin \u2014 an insect's wing (cuticle) and a bird's wing (bone and feather); they show convergent evolution."
+        },
+        {
+          "q": "Give two features of Archaeopteryx that make it a connecting link.",
+          "a": "Reptilian features: teeth in the jaws, a long bony tail and clawed digits on the wings. Avian features: feathers and wings. It therefore links reptiles with birds in the fossil record."
+        }
+      ]
     },
     {
-     "q": "Give two features of Archaeopteryx that make it a connecting link.",
-     "a": "Reptilian features: teeth in the jaws, a long bony tail and clawed digits on the wings. Avian features: feathers and wings. It therefore links reptiles with birds in the fossil record."
-    }
-   ]
-  },
-  {
-   "title": "Adaptation and Survival",
-   "html": "\n<h4>1. Meaning</h4>\n<p>Adaptation is any inherited structural, physiological or behavioural feature that increases an organism’s chance of survival and reproduction in its habitat.</p>\n<h4>2. Structural Adaptations</h4>\n<table class=\"tb-table\"><tr><th>Adaptation</th><th>Example</th><th>Advantage</th></tr>\n<tr><td>Beak and foot shape</td><td>Hawk, duck, woodpecker, finches</td><td>Suited to particular food and habitat</td></tr>\n<tr><td>Dentition</td><td>Carnassials in dog, ridged molars in cow</td><td>Efficient handling of flesh or grass</td></tr>\n<tr><td>Camouflage (cryptic colouring)</td><td>Chameleon, stick insect, praying mantis</td><td>Escape predators or ambush prey</td></tr>\n<tr><td>Mimicry</td><td>Hoverfly resembling wasp</td><td>Predators avoid the harmless mimic</td></tr>\n<tr><td>Warning colouration</td><td>Wasp, ladybird</td><td>Advertises distastefulness or sting</td></tr>\n<tr><td>Water conservation</td><td>Cactus spines, camel</td><td>Survival in arid habitats</td></tr></table>\n<h4>3. Physiological and Behavioural Adaptations</h4>\n<ul><li>Production of very concentrated urine in the desert rat; tolerance of high salt in mangrove plants.</li>\n<li>Hibernation, aestivation, migration and nocturnal habit to avoid unfavourable conditions.</li>\n<li>Territoriality, courtship, parental care, camouflage behaviour and social organisation in bees and termites.</li></ul>\n<h4>4. Competition, Tolerance and Survival</h4>\n<p>Organisms compete intraspecifically and interspecifically for food, light, water, space and mates. Competition may be reduced by niche differentiation, territorial behaviour, migration or feeding at different times. Each species has a <b>range of tolerance</b> for factors such as temperature, salinity and pH, with an optimum zone; beyond the limits of tolerance the species cannot survive. Species survive by producing many offspring, parental care, protective devices, resistant stages (spores, seeds, cysts), adaptability and genetic variation.</p>\n",
-   "examples": [
-    {
-     "q": "Explain how Darwin's finches illustrate adaptive radiation.",
-     "a": "A single ancestral finch species reached the Galápagos Islands and its descendants spread into different islands and niches. Natural selection favoured different beak shapes for seed-crushing, insect-probing or cactus-feeding, and reproductive isolation eventually produced many distinct species from one ancestor — adaptive radiation."
+      "title": "Adaptation and Survival",
+      "html": "\n<h4>1. Meaning</h4>\n<p>Adaptation is any inherited structural, physiological or behavioural feature that increases an organism\u2019s chance of survival and reproduction in its habitat.</p>\n<h4>2. Structural Adaptations</h4>\n<table class=\"tb-table\"><tr><th>Adaptation</th><th>Example</th><th>Advantage</th></tr>\n<tr><td>Beak and foot shape</td><td>Hawk, duck, woodpecker, finches</td><td>Suited to particular food and habitat</td></tr>\n<tr><td>Dentition</td><td>Carnassials in dog, ridged molars in cow</td><td>Efficient handling of flesh or grass</td></tr>\n<tr><td>Camouflage (cryptic colouring)</td><td>Chameleon, stick insect, praying mantis</td><td>Escape predators or ambush prey</td></tr>\n<tr><td>Mimicry</td><td>Hoverfly resembling wasp</td><td>Predators avoid the harmless mimic</td></tr>\n<tr><td>Warning colouration</td><td>Wasp, ladybird</td><td>Advertises distastefulness or sting</td></tr>\n<tr><td>Water conservation</td><td>Cactus spines, camel</td><td>Survival in arid habitats</td></tr></table>\n<h4>3. Physiological and Behavioural Adaptations</h4>\n<ul><li>Production of very concentrated urine in the desert rat; tolerance of high salt in mangrove plants.</li>\n<li>Hibernation, aestivation, migration and nocturnal habit to avoid unfavourable conditions.</li>\n<li>Territoriality, courtship, parental care, camouflage behaviour and social organisation in bees and termites.</li></ul>\n<h4>4. Competition, Tolerance and Survival</h4>\n<p>Organisms compete intraspecifically and interspecifically for food, light, water, space and mates. Competition may be reduced by niche differentiation, territorial behaviour, migration or feeding at different times. Each species has a <b>range of tolerance</b> for factors such as temperature, salinity and pH, with an optimum zone; beyond the limits of tolerance the species cannot survive. Species survive by producing many offspring, parental care, protective devices, resistant stages (spores, seeds, cysts), adaptability and genetic variation.</p>\n",
+      "examples": [
+        {
+          "q": "Explain how Darwin's finches illustrate adaptive radiation.",
+          "a": "A single ancestral finch species reached the Gal\u00e1pagos Islands and its descendants spread into different islands and niches. Natural selection favoured different beak shapes for seed-crushing, insect-probing or cactus-feeding, and reproductive isolation eventually produced many distinct species from one ancestor \u2014 adaptive radiation."
+        },
+        {
+          "q": "State three ways in which a desert animal conserves water.",
+          "a": "(i) It produces very concentrated urine with a long loop of Henle and dry faeces. (ii) It is nocturnal and burrows by day, avoiding heat and evaporation. (iii) It obtains metabolic water from the oxidation of food and has few or no sweat glands."
+        }
+      ]
     },
     {
-     "q": "State three ways in which a desert animal conserves water.",
-     "a": "(i) It produces very concentrated urine with a long loop of Henle and dry faeces. (ii) It is nocturnal and burrows by day, avoiding heat and evaporation. (iii) It obtains metabolic water from the oxidation of food and has few or no sweat glands."
+      "title": "Define evolution and outline theories of the origin of life",
+      "html": "<p><b>Define evolution and outline theories of the origin of life</b> is a key part of Evolution and Adaptation (SSS 3, Biology). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Organic evolution is the gradual change in the genetic composition of populations over many generations, giving rise to new species from pre-existing ones.</li><li>Origin of Life Special creation \u2013 life was created by a supreme being.</li><li>Spontaneous generation (abiogenesis) \u2013 life from non-living matter; disproved by Redi and Pasteur.</li><li>Cosmozoic/panspermia \u2013 life arrived from space.</li><li>Chemical (biochemical) evolution \u2013 Oparin and Haldane: simple gases in a reducing primitive atmosphere formed organic monomers, then polymers and coacervates, eventually the first cell.</li></ul><h4>Worked example</h4><p><b>Q:</b> Preserved remains of ancient organisms in rock are called<br/><b>A:</b> fossils \u2014 Fossils provide direct historical evidence of evolution.</p><p><b>Q:</b> The wing of an insect and the wing of a bird are<br/><b>A:</b> analogous \u2014 Similar function, different origin \u2014 evidence of convergent evolution.</p>",
+      "examples": [
+        {
+          "q": "Preserved remains of ancient organisms in rock are called",
+          "a": "fossils \u2014 Fossils provide direct historical evidence of evolution."
+        },
+        {
+          "q": "The wing of an insect and the wing of a bird are",
+          "a": "analogous \u2014 Similar function, different origin \u2014 evidence of convergent evolution."
+        }
+      ]
+    },
+    {
+      "title": "Compare Lamarck's and Darwin's theories and describe modern (neo-Darwinian) evolution",
+      "html": "<p><b>Compare Lamarck's and Darwin's theories and describe modern (neo-Darwinian) evolution</b> is a key part of Evolution and Adaptation (SSS 3, Biology). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Organic evolution is the gradual change in the genetic composition of populations over many generations, giving rise to new species from pre-existing ones.</li><li>Spontaneous generation (abiogenesis) \u2013 life from non-living matter; disproved by Redi and Pasteur.</li><li>Chemical (biochemical) evolution \u2013 Oparin and Haldane: simple gases in a reducing primitive atmosphere formed organic monomers, then polymers and coacervates, eventually the first cell.</li><li>Lamarck (1809) Lamarck proposed the law of use and disuse and the inheritance of acquired characteristics: the giraffe stretched its neck to reach high leaves and passed the longer neck to its offspring.</li><li>Darwin and Wallace (1859) Darwin\u2019s theory of natural selection is built on observations and deductions: Organisms produce far more offspring than can survive (over-production).</li></ul><h4>Worked example</h4><p><b>Q:</b> The theory of inheritance of acquired characteristics was proposed by<br/><b>A:</b> Lamarck \u2014 Lamarck's law of use and disuse is now rejected by genetics.</p><p><b>Q:</b> Natural selection was proposed by Charles Darwin in his book<br/><b>A:</b> On the Origin of Species \u2014 Published in 1859, jointly credited with Alfred Russel Wallace.</p>",
+      "examples": [
+        {
+          "q": "The theory of inheritance of acquired characteristics was proposed by",
+          "a": "Lamarck \u2014 Lamarck's law of use and disuse is now rejected by genetics."
+        },
+        {
+          "q": "Natural selection was proposed by Charles Darwin in his book",
+          "a": "On the Origin of Species \u2014 Published in 1859, jointly credited with Alfred Russel Wallace."
+        }
+      ]
+    },
+    {
+      "title": "Present the evidences of evolution: fossils, comparative anatomy, embryology, biochemistry",
+      "html": "<p><b>Present the evidences of evolution: fossils, comparative anatomy, embryology, biochemistry</b> is a key part of Evolution and Adaptation (SSS 3, Biology). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Organic evolution is the gradual change in the genetic composition of populations over many generations, giving rise to new species from pre-existing ones.</li><li>Chemical (biochemical) evolution \u2013 Oparin and Haldane: simple gases in a reducing primitive atmosphere formed organic monomers, then polymers and coacervates, eventually the first cell.</li><li>Fossil Record (Palaeontology) Fossils are the preserved remains or impressions of once-living organisms in sedimentary rock, amber, ice or tar.</li><li>Comparative Anatomy Homologous structures \u2013 same basic pentadactyl plan and embryonic origin but different functions (human arm, whale flipper, bat wing, horse foreleg); they indicate divergent evolution from a common ancestor.</li><li>Analogous structures \u2013 similar function but different origin (insect wing and bird wing); they indicate convergent evolution .</li></ul><h4>Worked example</h4><p><b>Q:</b> Preserved remains of ancient organisms in rock are called<br/><b>A:</b> fossils \u2014 Fossils provide direct historical evidence of evolution.</p><p><b>Q:</b> The wing of an insect and the wing of a bird are<br/><b>A:</b> analogous \u2014 Similar function, different origin \u2014 evidence of convergent evolution.</p>",
+      "examples": [
+        {
+          "q": "Preserved remains of ancient organisms in rock are called",
+          "a": "fossils \u2014 Fossils provide direct historical evidence of evolution."
+        },
+        {
+          "q": "The wing of an insect and the wing of a bird are",
+          "a": "analogous \u2014 Similar function, different origin \u2014 evidence of convergent evolution."
+        }
+      ]
     }
-   ]
-  }
- ],
- "quiz": [
-  {
-   "q": "The theory of inheritance of acquired characteristics was proposed by",
-   "options": [
-    "Darwin",
-    "Lamarck",
-    "Mendel",
-    "Wallace"
-   ],
-   "answer": "1",
-   "solution": "Lamarck's law of use and disuse is now rejected by genetics."
-  },
-  {
-   "q": "Natural selection was proposed by Charles Darwin in his book",
-   "options": [
-    "Principles of Genetics",
-    "On the Origin of Species",
-    "Systema Naturae",
-    "Philosophie Zoologique"
-   ],
-   "answer": "1",
-   "solution": "Published in 1859, jointly credited with Alfred Russel Wallace."
-  },
-  {
-   "q": "Which observation is central to Darwin's theory?",
-   "options": [
-    "Organisms never vary",
-    "Populations produce more offspring than can survive",
-    "Acquired characters are inherited",
-    "Species are unchangeable"
-   ],
-   "answer": "1",
-   "solution": "Over-production leads to a struggle for existence and hence selection."
-  },
-  {
-   "q": "The Miller and Urey experiment supported the theory of",
-   "options": [
-    "special creation",
-    "chemical evolution",
-    "panspermia",
-    "spontaneous generation of large animals"
-   ],
-   "answer": "1",
-   "solution": "They produced amino acids from a simulated primitive atmosphere."
-  },
-  {
-   "q": "Preserved remains of ancient organisms in rock are called",
-   "options": [
-    "fossils",
-    "vestiges",
-    "homologues",
-    "analogues"
-   ],
-   "answer": "0",
-   "solution": "Fossils provide direct historical evidence of evolution."
-  },
-  {
-   "q": "The forelimbs of man, bat and whale are examples of",
-   "options": [
-    "analogous structures",
-    "homologous structures",
-    "vestigial structures",
-    "identical structures"
-   ],
-   "answer": "1",
-   "solution": "They share the pentadactyl plan but perform different functions."
-  },
-  {
-   "q": "The wing of an insect and the wing of a bird are",
-   "options": [
-    "homologous",
-    "analogous",
-    "vestigial",
-    "fossil"
-   ],
-   "answer": "1",
-   "solution": "Similar function, different origin — evidence of convergent evolution."
-  },
-  {
-   "q": "Which of the following is a vestigial structure in man?",
-   "options": [
-    "Kidney",
-    "Appendix",
-    "Femur",
-    "Lung"
-   ],
-   "answer": "1",
-   "solution": "The appendix is a reduced remnant of the caecum of herbivorous ancestors."
-  },
-  {
-   "q": "Archaeopteryx is regarded as a link between",
-   "options": [
-    "fish and amphibians",
-    "reptiles and birds",
-    "reptiles and mammals",
-    "amphibians and reptiles"
-   ],
-   "answer": "1",
-   "solution": "It had feathers and wings with teeth, claws and a bony tail."
-  },
-  {
-   "q": "The similarity of early vertebrate embryos is evidence from",
-   "options": [
-    "palaeontology",
-    "comparative embryology",
-    "biochemistry",
-    "geographical distribution"
-   ],
-   "answer": "1",
-   "solution": "Shared embryonic features such as gill pouches suggest common ancestry."
-  },
-  {
-   "q": "Formation of many species from one ancestral stock in different niches is",
-   "options": [
-    "convergent evolution",
-    "adaptive radiation",
-    "mimicry",
-    "hybridisation"
-   ],
-   "answer": "1",
-   "solution": "Darwin's finches are the classic example."
-  },
-  {
-   "q": "Industrial melanism in the peppered moth demonstrates",
-   "options": [
-    "Lamarckism",
-    "natural selection",
-    "artificial selection",
-    "mutation pressure only"
-   ],
-   "answer": "1",
-   "solution": "Predation by birds selected the better-camouflaged form as the environment changed."
-  },
-  {
-   "q": "A harmless hoverfly resembling a stinging wasp illustrates",
-   "options": [
-    "camouflage",
-    "mimicry",
-    "warning colouration",
-    "hibernation"
-   ],
-   "answer": "1",
-   "solution": "Predators avoid the mimic because it resembles a dangerous model."
-  },
-  {
-   "q": "Aestivation is a means of surviving",
-   "options": [
-    "cold winters",
-    "hot dry periods",
-    "flooding",
-    "predation"
-   ],
-   "answer": "1",
-   "solution": "Animals become dormant during heat and drought, as lungfish do in dry mud."
-  },
-  {
-   "q": "Speciation is most likely to follow",
-   "options": [
-    "free interbreeding",
-    "isolation of populations",
-    "identical environments",
-    "asexual reproduction only"
-   ],
-   "answer": "1",
-   "solution": "Geographical or reproductive isolation prevents gene flow, allowing divergence."
-  },
-  {
-   "q": "The range of an environmental factor within which a species can survive is its",
-   "options": [
-    "niche",
-    "carrying capacity",
-    "limit of tolerance",
-    "biomass"
-   ],
-   "answer": "2",
-   "solution": "Beyond the upper and lower limits of tolerance the organism dies."
-  }
- ]
+  ],
+  "quiz": [
+    {
+      "q": "The theory of inheritance of acquired characteristics was proposed by",
+      "options": [
+        "Darwin",
+        "Lamarck",
+        "Mendel",
+        "Wallace"
+      ],
+      "answer": 1,
+      "solution": "Lamarck's law of use and disuse is now rejected by genetics.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Natural selection was proposed by Charles Darwin in his book",
+      "options": [
+        "Principles of Genetics",
+        "On the Origin of Species",
+        "Systema Naturae",
+        "Philosophie Zoologique"
+      ],
+      "answer": 1,
+      "solution": "Published in 1859, jointly credited with Alfred Russel Wallace.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which observation is central to Darwin's theory?",
+      "options": [
+        "Organisms never vary",
+        "Populations produce more offspring than can survive",
+        "Acquired characters are inherited",
+        "Species are unchangeable"
+      ],
+      "answer": 1,
+      "solution": "Over-production leads to a struggle for existence and hence selection.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The Miller and Urey experiment supported the theory of",
+      "options": [
+        "special creation",
+        "chemical evolution",
+        "panspermia",
+        "spontaneous generation of large animals"
+      ],
+      "answer": 1,
+      "solution": "They produced amino acids from a simulated primitive atmosphere.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Preserved remains of ancient organisms in rock are called",
+      "options": [
+        "fossils",
+        "vestiges",
+        "homologues",
+        "analogues"
+      ],
+      "answer": 0,
+      "solution": "Fossils provide direct historical evidence of evolution.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The forelimbs of man, bat and whale are examples of",
+      "options": [
+        "analogous structures",
+        "homologous structures",
+        "vestigial structures",
+        "identical structures"
+      ],
+      "answer": 1,
+      "solution": "They share the pentadactyl plan but perform different functions.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The wing of an insect and the wing of a bird are",
+      "options": [
+        "homologous",
+        "analogous",
+        "vestigial",
+        "fossil"
+      ],
+      "answer": 1,
+      "solution": "Similar function, different origin \u2014 evidence of convergent evolution.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a vestigial structure in man?",
+      "options": [
+        "Kidney",
+        "Appendix",
+        "Femur",
+        "Lung"
+      ],
+      "answer": 1,
+      "solution": "The appendix is a reduced remnant of the caecum of herbivorous ancestors.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Archaeopteryx is regarded as a link between",
+      "options": [
+        "fish and amphibians",
+        "reptiles and birds",
+        "reptiles and mammals",
+        "amphibians and reptiles"
+      ],
+      "answer": 1,
+      "solution": "It had feathers and wings with teeth, claws and a bony tail.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The similarity of early vertebrate embryos is evidence from",
+      "options": [
+        "palaeontology",
+        "comparative embryology",
+        "biochemistry",
+        "geographical distribution"
+      ],
+      "answer": 1,
+      "solution": "Shared embryonic features such as gill pouches suggest common ancestry.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Formation of many species from one ancestral stock in different niches is",
+      "options": [
+        "convergent evolution",
+        "adaptive radiation",
+        "mimicry",
+        "hybridisation"
+      ],
+      "answer": 1,
+      "solution": "Darwin's finches are the classic example.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Industrial melanism in the peppered moth demonstrates",
+      "options": [
+        "Lamarckism",
+        "natural selection",
+        "artificial selection",
+        "mutation pressure only"
+      ],
+      "answer": 1,
+      "solution": "Predation by birds selected the better-camouflaged form as the environment changed.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A harmless hoverfly resembling a stinging wasp illustrates",
+      "options": [
+        "camouflage",
+        "mimicry",
+        "warning colouration",
+        "hibernation"
+      ],
+      "answer": 1,
+      "solution": "Predators avoid the mimic because it resembles a dangerous model.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Aestivation is a means of surviving",
+      "options": [
+        "cold winters",
+        "hot dry periods",
+        "flooding",
+        "predation"
+      ],
+      "answer": 1,
+      "solution": "Animals become dormant during heat and drought, as lungfish do in dry mud.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Speciation is most likely to follow",
+      "options": [
+        "free interbreeding",
+        "isolation of populations",
+        "identical environments",
+        "asexual reproduction only"
+      ],
+      "answer": 1,
+      "solution": "Geographical or reproductive isolation prevents gene flow, allowing divergence.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The range of an environmental factor within which a species can survive is its",
+      "options": [
+        "niche",
+        "carrying capacity",
+        "limit of tolerance",
+        "biomass"
+      ],
+      "answer": 2,
+      "solution": "Beyond the upper and lower limits of tolerance the organism dies.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Evolution by Natural Selection:",
+      "options": [
+        "Darwin",
+        "Lamarck",
+        "Mendel",
+        "Hooke"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Darwin.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Evolution theory 'Survival of the Fittest' by:",
+      "options": [
+        "Lamarck",
+        "Darwin",
+        "Mendel",
+        "Hooke"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Darwin.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is NOT an evidence of evolution?",
+      "options": [
+        "Fossil records",
+        "Comparative anatomy",
+        "Embryology",
+        "The size of the population"
+      ],
+      "answer": 3,
+      "solution": "Population size is a demographic factor, whereas fossils, anatomy, and embryology provide structural/historical proof of change.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The term 'Survival of the Fittest' is associated with _____.",
+      "options": [
+        "Mendel",
+        "Lamarck",
+        "Darwin",
+        "Hooke"
+      ],
+      "answer": 2,
+      "solution": "This phrase describes the mechanism of natural selection proposed by Charles Darwin.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Survival of the fittest was proposed by:",
+      "options": [
+        "Lamarck",
+        "Darwin",
+        "Mendel",
+        "Hooke"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Darwin.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Survival of Fittest:",
+      "options": [
+        "Darwin",
+        "Lamarck",
+        "Mendel",
+        "Hooke"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Darwin.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The scientific study of fossils is known as?",
+      "options": [
+        "Ecology",
+        "Paleontology",
+        "Archaeology",
+        "Anthropology"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Paleontology.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The dark pigment that protects the skin from UV radiation and gives it color is?",
+      "options": [
+        "Melanin",
+        "Hemoglobin",
+        "Keratin",
+        "Bilirubin"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Melanin.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The physiological process of removing metabolic waste products from the body is?",
+      "options": [
+        "Egestion",
+        "Secretion",
+        "Excretion",
+        "Defecation"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Excretion.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Who is universally recognized as the \"Father of Modern Genetics\"?",
+      "options": [
+        "Charles Darwin",
+        "Jean Lamarck",
+        "James Watson",
+        "Gregor Mendel"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Gregor Mendel.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The type of joint found at the shoulder and hip is the _____.",
+      "options": [
+        "Hinge joint",
+        "Suture joint",
+        "Ball and socket joint",
+        "Gliding joint"
+      ],
+      "answer": 2,
+      "solution": "Ball and socket joints allow for rotational movement in many directions.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The phenotype of an individual is defined as the _____.",
+      "options": [
+        "Genetic makeup",
+        "Physical appearance",
+        "Number of chromosomes",
+        "Allele frequency"
+      ],
+      "answer": 1,
+      "solution": "Phenotype refers to the observable characteristics resulting from the interaction of the genotype and the environment.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Anaerobic respiration in yeast produces _____.",
+      "options": [
+        "Lactic acid and Energy",
+        "Ethanol and Carbon dioxide",
+        "Water and Carbon dioxide",
+        "Glucose and Oxygen"
+      ],
+      "answer": 1,
+      "solution": "In yeast, fermentation (anaerobic respiration) yields ethanol (alcohol) and CO2.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is an example of continuous variation?",
+      "options": [
+        "Blood groups",
+        "Tongue rolling",
+        "Height",
+        "Sex"
+      ],
+      "answer": 2,
+      "solution": "Height shows a range of values with no distinct categories, which is characteristic of continuous variation.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a characteristic of wind-pollinated flowers?",
+      "options": [
+        "Large brightly colored petals",
+        "Sticky pollens",
+        "Long feathery stigmas",
+        "Presence of nectar"
+      ],
+      "answer": 2,
+      "solution": "Feathery stigmas provide a large surface area to catch pollen grains blowing in the wind.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a polysaccharide?",
+      "options": [
+        "Glucose",
+        "Sucrose",
+        "Cellulose",
+        "Fructose"
+      ],
+      "answer": 2,
+      "solution": "Cellulose is a complex carbohydrate made of many glucose units. Glucose and fructose are monosaccharides; sucrose is a disaccharide.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The process of maintaining a constant internal environment is _____.",
+      "options": [
+        "Metabolism",
+        "Homeostasis",
+        "Osmoregulation",
+        "Thermoregulation"
+      ],
+      "answer": 1,
+      "solution": "Homeostasis involves various mechanisms that keep the body's internal conditions (temperature, pH, water) stable.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The hormone that stimulates the 'fight or flight' response is _____.",
+      "options": [
+        "Thyroxine",
+        "Adrenaline",
+        "Estrogen",
+        "Prolactin"
+      ],
+      "answer": 1,
+      "solution": "Adrenaline (epinephrine) is released by the adrenal glands during stress to prepare the body for immediate action.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a social insect?",
+      "options": [
+        "Housefly",
+        "Mosquito",
+        "Termite",
+        "Cockroach"
+      ],
+      "answer": 2,
+      "solution": "Termites live in colonies with a division of labor (queen, king, soldiers, workers).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The vector for the parasite Plasmodium is the _____.",
+      "options": [
+        "Female Anopheles mosquito",
+        "Male Anopheles mosquito",
+        "Tsetse fly",
+        "Housefly"
+      ],
+      "answer": 0,
+      "solution": "Only the female Anopheles mosquito sucks blood and transmits the malaria parasite.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a sex-linked character?",
+      "options": [
+        "Albinism",
+        "Color blindness",
+        "Sickle cell anemia",
+        "Polydactyly"
+      ],
+      "answer": 1,
+      "solution": "Color blindness is carried on the X-chromosome and is more common in males.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The small gap between two neurons where neurotransmitters are released is the _____.",
+      "options": [
+        "Axon",
+        "Myelin sheath",
+        "Synapse",
+        "Node of Ranvier"
+      ],
+      "answer": 2,
+      "solution": "Impulses cross the synaptic cleft via chemical messengers called neurotransmitters.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The enzyme pepsin acts on proteins in the _____.",
+      "options": [
+        "Mouth",
+        "Stomach",
+        "Duodenum",
+        "Ileum"
+      ],
+      "answer": 1,
+      "solution": "Pepsin is secreted by gastric glands in the stomach and works best in acidic pH.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following describes the genotype of a female with Turner syndrome?",
+      "options": [
+        "XXY",
+        "XYY",
+        "XO",
+        "XXX"
+      ],
+      "answer": 2,
+      "solution": "Turner syndrome is a chromosomal abnormality where a female has only one X chromosome (XO).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The enzyme ptyalin acts on cooked starch to produce _____.",
+      "options": [
+        "Glucose",
+        "Maltose",
+        "Galactose",
+        "Fructose"
+      ],
+      "answer": 1,
+      "solution": "Salivary amylase (ptyalin) breaks down complex starch molecules into the disaccharide maltose in the mouth.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The dental formula 2/2, 1/1, 2/2, 3/3 represents the dentition of an adult _____.",
+      "options": [
+        "Dog",
+        "Human",
+        "Rabbit",
+        "Sheep"
+      ],
+      "answer": 1,
+      "solution": "The human adult dental formula (half-jaw) is 2 incisors, 1 canine, 2 premolars, and 3 molars, totaling 32 teeth.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The maintenance of a constant internal environment is _____.",
+      "options": [
+        "Metabolism",
+        "Homeostasis",
+        "Osmoregulation",
+        "Catabolism"
+      ],
+      "answer": 1,
+      "solution": "Homeostasis ensures stable conditions (temperature, pH, water) for optimal body function.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The enzyme renin is found in the stomach of young mammals to _____.",
+      "options": [
+        "Digest proteins",
+        "Curdle milk",
+        "Digest fats",
+        "Kill bacteria"
+      ],
+      "answer": 1,
+      "solution": "Renin (or chymosin) coagulates milk protein (caseinogen) to slow its passage through the gut for better digestion.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The hormone responsible for the 'fight or flight' response is _____.",
+      "options": [
+        "Thyroxine",
+        "Insulin",
+        "Adrenaline",
+        "Estrogen"
+      ],
+      "answer": 2,
+      "solution": "Adrenaline (epinephrine) increases heart rate and blood flow to muscles during stress or danger.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The joint found between the atlas and axis vertebrae is the _____.",
+      "options": [
+        "Hinge joint",
+        "Gliding joint",
+        "Pivot joint",
+        "Saddle joint"
+      ],
+      "answer": 2,
+      "solution": "The pivot joint allows for the rotational movement of the head (the 'no' movement).",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The first step in the testing of a leaf for starch is _____.",
+      "options": [
+        "Adding iodine",
+        "Boiling in alcohol",
+        "Boiling in water",
+        "De-starching the plant"
+      ],
+      "answer": 2,
+      "solution": "Boiling the leaf in water kills the cells and stops all chemical reactions before starch extraction.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a predatory animal?",
+      "options": [
+        "Goat",
+        "Hawk",
+        "Sheep",
+        "Rabbit"
+      ],
+      "answer": 1,
+      "solution": "Hawks are birds of prey (carnivores) that hunt and feed on other animals.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which organism causes Malaria?",
+      "options": [
+        "Plasmodium",
+        "Trypanosome",
+        "Virus",
+        "Bacteria"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Plasmodium.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The master gland of the body is:",
+      "options": [
+        "Thyroid",
+        "Adrenal",
+        "Pituitary",
+        "Pancreas"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: Pituitary.",
+      "source": "JAMB 2021",
+      "practice": false
+    }
+  ]
 }

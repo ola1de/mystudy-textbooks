@@ -15,7 +15,7 @@
   "modules": [
     {
       "title": "Meaning and Scope of Commerce",
-      "html": "\n<h4>What is Commerce?</h4>\n<p><strong>Commerce</strong> is the aggregate of all activities concerned with the <em>distribution</em> and <em>exchange</em> of goods and services from producers to final consumers, together with the aids that make such exchange possible. It removes the barriers of place, time, knowledge, finance and risk that stand between production and consumption.</p>\n<h4>Scope of Commerce</h4>\n<ol><li><strong>Trade</strong> – the actual buying and selling of goods; sub-divided into <em>home trade</em> (retail and wholesale) and <em>foreign trade</em> (import, export and entrepot).</li><li><strong>Aids to trade (ancillaries)</strong> – transportation, warehousing, banking, insurance, advertising, communication and tourism.</li></ol>\n<h4>Commerce, Trade and Industry</h4>\n<table class=\"tb-table\"><tr><th>Term</th><th>Meaning</th><th>Example</th></tr><tr><td>Industry</td><td>Extraction, processing and construction – creation of form utility</td><td>Cement manufacture</td></tr><tr><td>Trade</td><td>Buying and selling only</td><td>A supermarket</td></tr><tr><td>Commerce</td><td>Trade + all aids to trade</td><td>Trade, banking, insurance, haulage</td></tr></table>\n<h4>Importance of Commerce</h4>\n<ul><li>Bridges the gap between producers and consumers.</li><li>Creates employment and raises the standard of living.</li><li>Encourages large-scale production and specialisation.</li><li>Generates government revenue through duties and taxes.</li><li>Promotes international understanding and the transfer of technology.</li></ul>\n<h4>Barriers to Trade and Their Removers</h4>\n<table class=\"tb-table\"><tr><th>Barrier</th><th>Remover</th></tr><tr><td>Place (distance)</td><td>Transportation</td></tr><tr><td>Time (seasonality)</td><td>Warehousing</td></tr><tr><td>Finance</td><td>Banking</td></tr><tr><td>Risk</td><td>Insurance</td></tr><tr><td>Ignorance</td><td>Advertising &amp; communication</td></tr><tr><td>Exchange</td><td>Money and trade</td></tr></table>\n",
+      "html": "\n<h4>What is Commerce?</h4>\n<p><strong>Commerce</strong> is the aggregate of all activities concerned with the <em>distribution</em> and <em>exchange</em> of goods and services from producers to final consumers, together with the aids that make such exchange possible. It removes the barriers of place, time, knowledge, finance and risk that stand between production and consumption.</p>\n<h4>Scope of Commerce</h4>\n<ol><li><strong>Trade</strong> \u2013 the actual buying and selling of goods; sub-divided into <em>home trade</em> (retail and wholesale) and <em>foreign trade</em> (import, export and entrepot).</li><li><strong>Aids to trade (ancillaries)</strong> \u2013 transportation, warehousing, banking, insurance, advertising, communication and tourism.</li></ol>\n<h4>Commerce, Trade and Industry</h4>\n<table class=\"tb-table\"><tr><th>Term</th><th>Meaning</th><th>Example</th></tr><tr><td>Industry</td><td>Extraction, processing and construction \u2013 creation of form utility</td><td>Cement manufacture</td></tr><tr><td>Trade</td><td>Buying and selling only</td><td>A supermarket</td></tr><tr><td>Commerce</td><td>Trade + all aids to trade</td><td>Trade, banking, insurance, haulage</td></tr></table>\n<h4>Importance of Commerce</h4>\n<ul><li>Bridges the gap between producers and consumers.</li><li>Creates employment and raises the standard of living.</li><li>Encourages large-scale production and specialisation.</li><li>Generates government revenue through duties and taxes.</li><li>Promotes international understanding and the transfer of technology.</li></ul>\n<h4>Barriers to Trade and Their Removers</h4>\n<table class=\"tb-table\"><tr><th>Barrier</th><th>Remover</th></tr><tr><td>Place (distance)</td><td>Transportation</td></tr><tr><td>Time (seasonality)</td><td>Warehousing</td></tr><tr><td>Finance</td><td>Banking</td></tr><tr><td>Risk</td><td>Insurance</td></tr><tr><td>Ignorance</td><td>Advertising &amp; communication</td></tr><tr><td>Exchange</td><td>Money and trade</td></tr></table>\n",
       "examples": [
         {
           "q": "A farmer in Benue harvests yams that are sold in Lagos six months later. Identify the commercial services that made this possible and the utility each created.",
@@ -23,17 +23,17 @@
         },
         {
           "q": "Distinguish between commerce and industry using a bakery as illustration.",
-          "a": "Industry is the baking of flour, sugar and yeast into bread – form utility. Commerce covers the purchase of flour, haulage of bread to shops, storage, the insurance of the delivery van, the bank overdraft financing raw materials and the radio advert. Industry produces; commerce distributes and supports."
+          "a": "Industry is the baking of flour, sugar and yeast into bread \u2013 form utility. Commerce covers the purchase of flour, haulage of bread to shops, storage, the insurance of the delivery van, the bank overdraft financing raw materials and the radio advert. Industry produces; commerce distributes and supports."
         }
       ]
     },
     {
       "title": "Occupation and Its Divisions",
-      "html": "\n<h4>Meaning</h4>\n<p>An <strong>occupation</strong> is the economic activity a person engages in regularly to earn a living. Occupations are broadly divided into three.</p>\n<h4>1. Industrial Occupation</h4>\n<ul><li><strong>Extractive</strong> – taking materials from nature: farming, fishing, mining, lumbering, quarrying.</li><li><strong>Manufacturing</strong> – converting raw materials into finished goods: textiles, cement, food processing.</li><li><strong>Constructive</strong> – assembling finished materials into structures: roads, bridges, buildings, ships.</li></ul>\n<h4>2. Commercial Occupation</h4>\n<p>Trade and aids to trade: retailers, wholesalers, bankers, insurers, shipping agents, advertisers, warehouse keepers.</p>\n<h4>3. Service (Direct/Personal) Occupation</h4>\n<ul><li><strong>Direct services</strong> – rendered to individuals: doctors, teachers, lawyers, barbers, musicians.</li><li><strong>Indirect services</strong> – rendered to the community: police, soldiers, civil servants, firefighters.</li></ul>\n<h4>Factors Determining Choice of Occupation</h4>\n<ol><li>Level of education, skill and aptitude</li><li>Remuneration and fringe benefits</li><li>Availability of capital</li><li>Prestige and job security</li><li>Family background, environment and government policy</li></ol>\n",
+      "html": "\n<h4>Meaning</h4>\n<p>An <strong>occupation</strong> is the economic activity a person engages in regularly to earn a living. Occupations are broadly divided into three.</p>\n<h4>1. Industrial Occupation</h4>\n<ul><li><strong>Extractive</strong> \u2013 taking materials from nature: farming, fishing, mining, lumbering, quarrying.</li><li><strong>Manufacturing</strong> \u2013 converting raw materials into finished goods: textiles, cement, food processing.</li><li><strong>Constructive</strong> \u2013 assembling finished materials into structures: roads, bridges, buildings, ships.</li></ul>\n<h4>2. Commercial Occupation</h4>\n<p>Trade and aids to trade: retailers, wholesalers, bankers, insurers, shipping agents, advertisers, warehouse keepers.</p>\n<h4>3. Service (Direct/Personal) Occupation</h4>\n<ul><li><strong>Direct services</strong> \u2013 rendered to individuals: doctors, teachers, lawyers, barbers, musicians.</li><li><strong>Indirect services</strong> \u2013 rendered to the community: police, soldiers, civil servants, firefighters.</li></ul>\n<h4>Factors Determining Choice of Occupation</h4>\n<ol><li>Level of education, skill and aptitude</li><li>Remuneration and fringe benefits</li><li>Availability of capital</li><li>Prestige and job security</li><li>Family background, environment and government policy</li></ol>\n",
       "examples": [
         {
           "q": "Classify the following: (i) a Warri crude oil driller (ii) a Kano wholesaler of textiles (iii) an Ibadan nurse (iv) a Julius Berger bridge builder.",
-          "a": "(i) Industrial – extractive. (ii) Commercial – trade. (iii) Service – direct service. (iv) Industrial – constructive."
+          "a": "(i) Industrial \u2013 extractive. (ii) Commercial \u2013 trade. (iii) Service \u2013 direct service. (iv) Industrial \u2013 constructive."
         },
         {
           "q": "Why are commercial and service occupations described as 'non-productive' by some writers, and why is this wrong?",
@@ -43,15 +43,53 @@
     },
     {
       "title": "Production, Factors of Production and Utility",
-      "html": "\n<h4>Meaning of Production</h4>\n<p><strong>Production</strong> is the creation of goods and services to satisfy human wants. It is complete only when the goods reach the final consumer.</p>\n<h4>Types of Production</h4>\n<ol><li><strong>Primary</strong> – extractive activities.</li><li><strong>Secondary</strong> – manufacturing and construction.</li><li><strong>Tertiary</strong> – commercial and service activities.</li></ol>\n<h4>Factors of Production and Their Rewards</h4>\n<table class=\"tb-table\"><tr><th>Factor</th><th>Meaning</th><th>Reward</th></tr><tr><td>Land</td><td>All free gifts of nature</td><td>Rent</td></tr><tr><td>Labour</td><td>Human physical and mental effort</td><td>Wages/Salaries</td></tr><tr><td>Capital</td><td>Man-made assets used to produce further wealth</td><td>Interest</td></tr><tr><td>Entrepreneur</td><td>Organiser and risk-bearer</td><td>Profit</td></tr></table>\n<h4>Division of Labour and Specialisation</h4>\n<p>Splitting production into separate tasks performed by different people. Advantages: greater output, higher skill, saving of time, use of machinery, lower unit cost. Disadvantages: monotony, over-dependence, risk of unemployment, loss of craftsmanship.</p>\n<h4>Utility</h4>\n<p><strong>Utility</strong> is the ability of a good or service to satisfy a want. Forms: <em>form</em> utility (manufacturing), <em>place</em> utility (transport), <em>time</em> utility (storage), <em>possession</em> utility (trade).</p>\n<h4>Basic Business Measures</h4>\n<p>Two measures used throughout the course:</p>\n$$\\text{Working Capital} = \\text{Current Assets} - \\text{Current Liabilities}$$\n$$\\text{Capital Employed} = \\text{Total Assets} - \\text{Current Liabilities}$$\n<p>Profit as a percentage of turnover is \\( \\dfrac{\\text{Net Profit}}{\\text{Turnover}} \\times 100 \\).</p>\n",
+      "html": "\n<h4>Meaning of Production</h4>\n<p><strong>Production</strong> is the creation of goods and services to satisfy human wants. It is complete only when the goods reach the final consumer.</p>\n<h4>Types of Production</h4>\n<ol><li><strong>Primary</strong> \u2013 extractive activities.</li><li><strong>Secondary</strong> \u2013 manufacturing and construction.</li><li><strong>Tertiary</strong> \u2013 commercial and service activities.</li></ol>\n<h4>Factors of Production and Their Rewards</h4>\n<table class=\"tb-table\"><tr><th>Factor</th><th>Meaning</th><th>Reward</th></tr><tr><td>Land</td><td>All free gifts of nature</td><td>Rent</td></tr><tr><td>Labour</td><td>Human physical and mental effort</td><td>Wages/Salaries</td></tr><tr><td>Capital</td><td>Man-made assets used to produce further wealth</td><td>Interest</td></tr><tr><td>Entrepreneur</td><td>Organiser and risk-bearer</td><td>Profit</td></tr></table>\n<h4>Division of Labour and Specialisation</h4>\n<p>Splitting production into separate tasks performed by different people. Advantages: greater output, higher skill, saving of time, use of machinery, lower unit cost. Disadvantages: monotony, over-dependence, risk of unemployment, loss of craftsmanship.</p>\n<h4>Utility</h4>\n<p><strong>Utility</strong> is the ability of a good or service to satisfy a want. Forms: <em>form</em> utility (manufacturing), <em>place</em> utility (transport), <em>time</em> utility (storage), <em>possession</em> utility (trade).</p>\n<h4>Basic Business Measures</h4>\n<p>Two measures used throughout the course:</p>\n$$\\text{Working Capital} = \\text{Current Assets} - \\text{Current Liabilities}$$\n$$\\text{Capital Employed} = \\text{Total Assets} - \\text{Current Liabilities}$$\n<p>Profit as a percentage of turnover is \\( \\dfrac{\\text{Net Profit}}{\\text{Turnover}} \\times 100 \\).</p>\n",
       "examples": [
         {
-          "q": "A trader has current assets of ₦850,000 and current liabilities of ₦320,000. Total assets are ₦1,500,000. Find the working capital and capital employed.",
-          "a": "Working Capital \\( = 850{,}000 - 320{,}000 = ₦530{,}000 \\). Capital Employed \\( = 1{,}500{,}000 - 320{,}000 = ₦1{,}180{,}000 \\). The positive working capital shows the business can settle short-term debts and still finance daily operations."
+          "q": "A trader has current assets of \u20a6850,000 and current liabilities of \u20a6320,000. Total assets are \u20a61,500,000. Find the working capital and capital employed.",
+          "a": "Working Capital \\( = 850{,}000 - 320{,}000 = \u20a6530{,}000 \\). Capital Employed \\( = 1{,}500{,}000 - 320{,}000 = \u20a61{,}180{,}000 \\). The positive working capital shows the business can settle short-term debts and still finance daily operations."
         },
         {
           "q": "A tailoring workshop of 5 workers sews 40 shirts a day. After introducing division of labour output rises to 75 shirts. Calculate the percentage increase and state two dangers of the change.",
-          "a": "Increase \\( = \\dfrac{75-40}{40} \\times 100 = 87.5\\% \\). Dangers: monotony leading to low morale, and over-dependence – the absence of one specialist can halt the whole line."
+          "a": "Increase \\( = \\dfrac{75-40}{40} \\times 100 = 87.5\\% \\). Dangers: monotony leading to low morale, and over-dependence \u2013 the absence of one specialist can halt the whole line."
+        }
+      ]
+    },
+    {
+      "title": "Commercial and industrial activities distinguished",
+      "html": "<p><b>Commercial and industrial activities distinguished</b> is a key part of Introduction and Occupation (SSS 1, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Commerce is the aggregate of all activities concerned with the distribution and exchange of goods and services from producers to final consumers, together with the aids that make such exchange possible.</li><li>Industrial Occupation Extractive \u2013 taking materials from nature: farming, fishing, mining, lumbering, quarrying.</li><li>Commercial Occupation Trade and aids to trade: retailers, wholesalers, bankers, insurers, shipping agents, advertisers, warehouse keepers.</li><li>Types of Production Primary \u2013 extractive activities.</li><li>Tertiary \u2013 commercial and service activities.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which of the following is NOT an aid to trade?<br/><b>A:</b> Mining \u2014 Mining is an extractive (industrial) activity, not an aid to trade.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is NOT an aid to trade?",
+          "a": "Mining \u2014 Mining is an extractive (industrial) activity, not an aid to trade."
+        }
+      ]
+    },
+    {
+      "title": "Occupation: industrial, commercial and service occupations",
+      "html": "<p><b>Occupation: industrial, commercial and service occupations</b> is a key part of Introduction and Occupation (SSS 1, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Commerce is the aggregate of all activities concerned with the distribution and exchange of goods and services from producers to final consumers, together with the aids that make such exchange possible.</li><li>Meaning An occupation is the economic activity a person engages in regularly to earn a living.</li><li>Occupations are broadly divided into three.</li><li>Industrial Occupation Extractive \u2013 taking materials from nature: farming, fishing, mining, lumbering, quarrying.</li><li>Commercial Occupation Trade and aids to trade: retailers, wholesalers, bankers, insurers, shipping agents, advertisers, warehouse keepers.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which of the following is NOT an aid to trade?<br/><b>A:</b> Mining \u2014 Mining is an extractive (industrial) activity, not an aid to trade.</p><p><b>Q:</b> Which of these best determines a person's choice of occupation?<br/><b>A:</b> Skill, capital and remuneration \u2014 Aptitude/skill, available capital, pay and security are the recognised determinants.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is NOT an aid to trade?",
+          "a": "Mining \u2014 Mining is an extractive (industrial) activity, not an aid to trade."
+        },
+        {
+          "q": "Which of these best determines a person's choice of occupation?",
+          "a": "Skill, capital and remuneration \u2014 Aptitude/skill, available capital, pay and security are the recognised determinants."
+        }
+      ]
+    },
+    {
+      "title": "Production: types, factors and their rewards",
+      "html": "<p><b>Production: types, factors and their rewards</b> is a key part of Introduction and Occupation (SSS 1, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>It removes the barriers of place, time, knowledge, finance and risk that stand between production and consumption.</li><li>Encourages large-scale production and specialisation.</li><li>Barriers to Trade and Their Removers Barrier Remover Place (distance) Transportation Time (seasonality) Warehousing Finance Banking Risk Insurance Ignorance Advertising &amp; communication Exchange Money and trade</li><li>Factors Determining Choice of Occupation Level of education, skill and aptitude Remuneration and fringe benefits Availability of capital Prestige and job security Family background, environment and government policy</li><li>Meaning of Production Production is the creation of goods and services to satisfy human wants.</li></ul><h4>Worked example</h4><p><b>Q:</b> The reward for the entrepreneur is<br/><b>A:</b> Profit \u2014 The entrepreneur organises the other factors and bears risk; the residual reward is profit.</p><p><b>Q:</b> Tertiary production involves<br/><b>A:</b> Commercial and personal services \u2014 Tertiary production covers commerce and services.</p>",
+      "examples": [
+        {
+          "q": "The reward for the entrepreneur is",
+          "a": "Profit \u2014 The entrepreneur organises the other factors and bears risk; the residual reward is profit."
+        },
+        {
+          "q": "Tertiary production involves",
+          "a": "Commercial and personal services \u2014 Tertiary production covers commerce and services."
         }
       ]
     }
@@ -65,8 +103,10 @@
         "Manufacturing and construction",
         "Buying of raw materials"
       ],
-      "answer": "1",
-      "solution": "Commerce = trade (buying and selling) PLUS the ancillaries such as banking, insurance, transport, warehousing, advertising and communication."
+      "answer": 1,
+      "solution": "Commerce = trade (buying and selling) PLUS the ancillaries such as banking, insurance, transport, warehousing, advertising and communication.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of the following is NOT an aid to trade?",
@@ -76,8 +116,10 @@
         "Mining",
         "Advertising"
       ],
-      "answer": "2",
-      "solution": "Mining is an extractive (industrial) activity, not an aid to trade."
+      "answer": 2,
+      "solution": "Mining is an extractive (industrial) activity, not an aid to trade.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The barrier of distance in trade is removed by",
@@ -87,8 +129,10 @@
         "Insurance",
         "Warehousing"
       ],
-      "answer": "1",
-      "solution": "Transport moves goods from where they are produced to where they are needed, creating place utility."
+      "answer": 1,
+      "solution": "Transport moves goods from where they are produced to where they are needed, creating place utility.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Warehousing creates",
@@ -98,8 +142,10 @@
         "Place utility",
         "Possession utility"
       ],
-      "answer": "1",
-      "solution": "Storing goods until they are needed creates time utility."
+      "answer": 1,
+      "solution": "Storing goods until they are needed creates time utility.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Fishing, mining and lumbering are examples of",
@@ -109,8 +155,10 @@
         "Commercial occupations",
         "Direct services"
       ],
-      "answer": "1",
-      "solution": "They take materials directly from nature."
+      "answer": 1,
+      "solution": "They take materials directly from nature.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The reward for the entrepreneur is",
@@ -120,8 +168,10 @@
         "Profit",
         "Salary"
       ],
-      "answer": "2",
-      "solution": "The entrepreneur organises the other factors and bears risk; the residual reward is profit."
+      "answer": 2,
+      "solution": "The entrepreneur organises the other factors and bears risk; the residual reward is profit.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A soldier renders",
@@ -131,8 +181,10 @@
         "Commercial service",
         "Extractive service"
       ],
-      "answer": "1",
-      "solution": "Services rendered to the community as a whole are indirect services."
+      "answer": 1,
+      "solution": "Services rendered to the community as a whole are indirect services.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Tertiary production involves",
@@ -142,8 +194,10 @@
         "Commercial and personal services",
         "Construction of bridges"
       ],
-      "answer": "2",
-      "solution": "Tertiary production covers commerce and services."
+      "answer": 2,
+      "solution": "Tertiary production covers commerce and services.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Working capital is calculated as",
@@ -153,8 +207,10 @@
         "Fixed assets plus current assets",
         "Capital plus profit"
       ],
-      "answer": "1",
-      "solution": "Working capital measures short-term liquidity: current assets less current liabilities."
+      "answer": 1,
+      "solution": "Working capital measures short-term liquidity: current assets less current liabilities.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Capital employed equals",
@@ -164,8 +220,10 @@
         "Fixed assets only",
         "Turnover minus cost of sales"
       ],
-      "answer": "0",
-      "solution": "Capital employed = total assets − current liabilities, i.e. long-term funds tied down in the business."
+      "answer": 0,
+      "solution": "Capital employed = total assets \u2212 current liabilities, i.e. long-term funds tied down in the business.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A major disadvantage of division of labour is",
@@ -175,8 +233,10 @@
         "Use of machinery",
         "Saving of time"
       ],
-      "answer": "1",
-      "solution": "Repeating one task all day makes work monotonous and reduces job satisfaction."
+      "answer": 1,
+      "solution": "Repeating one task all day makes work monotonous and reduces job satisfaction.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which factor of production earns rent?",
@@ -186,8 +246,10 @@
         "Capital",
         "Entrepreneur"
       ],
-      "answer": "1",
-      "solution": "Rent is the reward for land, the free gift of nature."
+      "answer": 1,
+      "solution": "Rent is the reward for land, the free gift of nature.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Converting cocoa beans into chocolate creates",
@@ -197,8 +259,10 @@
         "Form utility",
         "Possession utility"
       ],
-      "answer": "2",
-      "solution": "Changing the physical form of a good creates form utility."
+      "answer": 2,
+      "solution": "Changing the physical form of a good creates form utility.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Production is said to be complete when",
@@ -208,8 +272,10 @@
         "Goods reach the final consumer",
         "Raw materials are extracted"
       ],
-      "answer": "2",
-      "solution": "Until the consumer's want is satisfied, production is incomplete."
+      "answer": 2,
+      "solution": "Until the consumer's want is satisfied, production is incomplete.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Entrepot trade is a branch of",
@@ -219,8 +285,10 @@
         "Retail trade",
         "Service occupation"
       ],
-      "answer": "1",
-      "solution": "Entrepot (re-export) trade is the importation of goods for onward export, a branch of foreign trade."
+      "answer": 1,
+      "solution": "Entrepot (re-export) trade is the importation of goods for onward export, a branch of foreign trade.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these best determines a person's choice of occupation?",
@@ -230,8 +298,452 @@
         "Number of workers in the town",
         "Weather of the day"
       ],
-      "answer": "1",
-      "solution": "Aptitude/skill, available capital, pay and security are the recognised determinants."
+      "answer": 1,
+      "solution": "Aptitude/skill, available capital, pay and security are the recognised determinants.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is an example of a service-providing occupation?",
+      "options": [
+        "Lumbering",
+        "Teaching",
+        "Mining",
+        "Carpentry"
+      ],
+      "answer": 1,
+      "solution": "Teaching is a tertiary activity where skills and knowledge are provided rather than a physical product.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is an example of an extractive occupation?",
+      "options": [
+        "Plumbing",
+        "Banking",
+        "Fishing",
+        "Bricklaying"
+      ],
+      "answer": 2,
+      "solution": "Extractive occupations involve taking raw materials or resources directly from nature (earth or water).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of these is an extractive occupation?",
+      "options": [
+        "Banking",
+        "Mining",
+        "Teaching",
+        "Driving"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Mining.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Occupation can be classified into?",
+      "options": [
+        "Industrial, Commercial, and Professional",
+        "Manual and Mental",
+        "Direct and Indirect",
+        "Trade and Transport"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Industrial, Commercial, and Professional.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a mental occupation?",
+      "options": [
+        "Accounting",
+        "Carpentry",
+        "Bricklaying",
+        "Farming"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Accounting.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Factors of production are rewarded as follows except:",
+      "options": [
+        "Land - Rent",
+        "Labor - Wages",
+        "Capital - Profit",
+        "Entrepreneur - Profit"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Capital - Profit.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a commercial service?",
+      "options": [
+        "Advertising",
+        "Tailoring",
+        "Surgery",
+        "Farming"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Advertising.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \"place utility\" in commerce is created by?",
+      "options": [
+        "Advertising",
+        "Transport",
+        "Banking",
+        "Warehousing"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Transport.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Production is the creation of?",
+      "options": [
+        "Money",
+        "Labor",
+        "Utility",
+        "Scarcity"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Utility.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Commerce is defined as the study of _____.",
+      "options": [
+        "how to build factories",
+        "trade and auxiliaries to trade",
+        "farming and animal husbandry",
+        "the extraction of raw materials"
+      ],
+      "answer": 1,
+      "solution": "Commerce encompasses trade (buying and selling) and all activities that facilitate it, such as banking, insurance, and transport.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The most appropriate means of transporting crude oil from a production site to a refinery is by _____.",
+      "options": [
+        "Road",
+        "Rail",
+        "Pipeline",
+        "Air"
+      ],
+      "answer": 2,
+      "solution": "Pipelines are the most cost-effective and continuous means of transporting large volumes of liquid or gas over long distances.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A market where only government bonds and industrial shares are traded is the _____.",
+      "options": [
+        "Commodity market",
+        "Capital market",
+        "Money market",
+        "Labour market"
+      ],
+      "answer": 1,
+      "solution": "The capital market deals with long-term finance, including stocks, shares, and bonds.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following allows a person to withdraw money from their bank account at any time using a machine?",
+      "options": [
+        "Credit card",
+        "Automated Teller Machine (ATM)",
+        "Voucher",
+        "Pay slip"
+      ],
+      "answer": 1,
+      "solution": "ATMs provide 24/7 access to banking services like withdrawals and transfers.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A specialized bank that provides long-term credit for industrial and agricultural projects is a _____.",
+      "options": [
+        "Commercial bank",
+        "Savings bank",
+        "Development bank",
+        "Merchant bank"
+      ],
+      "answer": 2,
+      "solution": "Development banks (like the Bank of Industry in Nigeria) focus on financing specific sectors of the economy for growth.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The core objective of commerce is the _____ of goods and services.",
+      "options": [
+        "production",
+        "distribution",
+        "warehousing",
+        "consumption"
+      ],
+      "answer": 1,
+      "solution": "Commerce focuses on the exchange and distribution aspect of economics, ensuring goods move from producers to final consumers.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The profit shared among members of a Cooperative Society based on their patronage is the _____.",
+      "options": [
+        "Interest",
+        "Dividend",
+        "Commission",
+        "Premium"
+      ],
+      "answer": 1,
+      "solution": "Cooperatives distribute surpluses to members known as dividends, often in proportion to how much the member used the society's services.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The production process is complete when goods reach the:",
+      "options": [
+        "Wholesaler",
+        "Retailer",
+        "Consumer",
+        "Warehouse"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: Consumer.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The Chamber of Commerce protects the interest of:",
+      "options": [
+        "Teachers",
+        "Businessmen",
+        "Farmers",
+        "Doctors"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Businessmen.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "E-commerce refers to:",
+      "options": [
+        "Trading via the Internet",
+        "Trading by Barter",
+        "Trading by Road",
+        "Trading by Sea"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Trading via the Internet.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The production process is considered complete when:",
+      "options": [
+        "Goods leave the factory",
+        "Goods reach the final consumer",
+        "Prices are determined",
+        "Goods are warehoused"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Goods reach the final consumer.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The insurance principle that restores the insured to their former position is:",
+      "options": [
+        "Subrogation",
+        "Indemnity",
+        "Contribution",
+        "Insurable Interest"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Indemnity.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which communication service allows for the transmission of documents via telephone lines?",
+      "options": [
+        "Telex",
+        "Fax",
+        "E-mail",
+        "Radio"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Fax.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Commerce is:",
+      "options": [
+        "Buying and selling",
+        "Trade and aids to trade",
+        "Production",
+        "Exporting"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Trade and aids to trade.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Production ends with the:",
+      "options": [
+        "Wholesaler",
+        "Retailer",
+        "Consumer",
+        "Factory"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: Consumer.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Factor of production 'Capital' earns:",
+      "options": [
+        "Rent",
+        "Wages",
+        "Interest",
+        "Profit"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: Interest.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Chamber of Commerce protects:",
+      "options": [
+        "Business interests",
+        "Government",
+        "Consumers only",
+        "Workers only"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Business interests.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "E-commerce is:",
+      "options": [
+        "Trade via Internet",
+        "Trade by Barter",
+        "Trade by Road",
+        "Trade by Sea"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Trade via Internet.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a primary production activity?",
+      "options": [
+        "Textile manufacturing",
+        "Lumbering",
+        "Banking",
+        "Teaching"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Lumbering.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The difference between the total value of a country's visible exports and visible imports is...",
+      "options": [
+        "Balance of Payments",
+        "Balance of Trade",
+        "Terms of Trade",
+        "Exchange Rate"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Balance of Trade.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "E-commerce stands for...",
+      "options": [
+        "Easy Commerce",
+        "Electronic Commerce",
+        "Efficient Commerce",
+        "Economic Commerce"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Electronic Commerce.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The reward for an entrepreneur as a factor of production is...",
+      "options": [
+        "Rent",
+        "Wages",
+        "Interest",
+        "Profit"
+      ],
+      "answer": 3,
+      "solution": "Past question (JAMB 2024). Correct answer: Profit.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Commerce is defined as:",
+      "options": [
+        "Buying and selling only",
+        "Trade and aids to trade",
+        "Production of goods",
+        "Import and export"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Trade and aids to trade.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Production is not complete until goods reach the:",
+      "options": [
+        "Wholesaler",
+        "Retailer",
+        "Consumer",
+        "Factory"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: Consumer.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Which communication service is fastest?",
+      "options": [
+        "Letter",
+        "Telegram",
+        "Email",
+        "Fax"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: Email.",
+      "source": "JAMB 2025",
+      "practice": false
     }
   ]
 }

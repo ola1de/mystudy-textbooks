@@ -20,7 +20,7 @@
       "examples": [
         {
           "q": "A 500 g soil sample yields 200 g sand, 150 g silt and 150 g clay after sedimentation analysis. Calculate the percentage of each fraction and classify the soil.",
-          "a": "Percentage sand = (200/500)×100 = 40%. Percentage silt = (150/500)×100 = 30%. Percentage clay = (150/500)×100 = 30%. Using the textural triangle, 40% sand, 30% silt and 30% clay classifies as a clay loam."
+          "a": "Percentage sand = (200/500)\u00d7100 = 40%. Percentage silt = (150/500)\u00d7100 = 30%. Percentage clay = (150/500)\u00d7100 = 30%. Using the textural triangle, 40% sand, 30% silt and 30% clay classifies as a clay loam."
         },
         {
           "q": "Explain why a granular structure is more desirable for crop production than a platy structure.",
@@ -34,7 +34,7 @@
       "examples": [
         {
           "q": "A soil sample has a mass of 260 g when oven-dried and occupies a total volume of 200 cm&sup3;. If the particle density is 2.65 g/cm&sup3;, calculate the bulk density and porosity of the soil.",
-          "a": "Bulk density = M_s/V_t = 260/200 = 1.30 g/cm^3. Porosity f = 1 - (ρb/ρs) = 1 - (1.30/2.65) = 1 - 0.4906 = 0.5094, i.e. approximately 50.9%."
+          "a": "Bulk density = M_s/V_t = 260/200 = 1.30 g/cm^3. Porosity f = 1 - (\u03c1b/\u03c1s) = 1 - (1.30/2.65) = 1 - 0.4906 = 0.5094, i.e. approximately 50.9%."
         },
         {
           "q": "A clay soil has bulk density 1.15 g/cm^3 and particle density 2.65 g/cm^3. A sandy soil has bulk density 1.60 g/cm^3 with the same particle density. Compare their porosities and explain the agronomic implication.",
@@ -48,11 +48,53 @@
       "examples": [
         {
           "q": "A soil solution has a hydrogen ion concentration of \\(1 \\times 10^{-6}\\) mol/L. Calculate the pH of the soil and state whether it is acidic, neutral or alkaline.",
-          "a": "pH = -log10[H+] = -log10(1×10^-6) = 6. Since 6 is less than 7, the soil is slightly acidic."
+          "a": "pH = -log10[H+] = -log10(1\u00d710^-6) = 6. Since 6 is less than 7, the soil is slightly acidic."
         },
         {
-          "q": "If lime application raises the hydrogen ion concentration from 1×10^-5 mol/L to 1×10^-7 mol/L, calculate the change in pH and explain the effect on nutrient availability.",
-          "a": "Initial pH = -log10(1×10^-5) = 5. Final pH = -log10(1×10^-7) = 7. The pH has increased by 2 units (from 5 to 7), moving the soil from acidic to neutral. This reduces aluminium and manganese toxicity and improves the availability of phosphorus, calcium and molybdenum to plants."
+          "q": "If lime application raises the hydrogen ion concentration from 1\u00d710^-5 mol/L to 1\u00d710^-7 mol/L, calculate the change in pH and explain the effect on nutrient availability.",
+          "a": "Initial pH = -log10(1\u00d710^-5) = 5. Final pH = -log10(1\u00d710^-7) = 7. The pH has increased by 2 units (from 5 to 7), moving the soil from acidic to neutral. This reduces aluminium and manganese toxicity and improves the availability of phosphorus, calcium and molybdenum to plants."
+        }
+      ]
+    },
+    {
+      "title": "Soil as a medium for plant growth",
+      "html": "<p><b>Soil as a medium for plant growth</b> is a key part of Physical and Chemical Properties of Soil (SSS 2, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning of Soil Texture Soil texture refers to the relative proportion of sand, silt and clay particles that make up the mineral fraction of soil.</li><li>It is one of the most fundamental physical properties of soil because it influences water retention, aeration, drainage, nutrient-holding capacity and workability (tilth).</li><li>Soil particles are classified by size according to internationally agreed limits: sand (2.0&ndash;0.05 mm), silt (0.05&ndash;0.002 mm) and clay (less than 0.002 mm).</li><li>Particle Diameter (mm) Feel Sand 2.0 &ndash; 0.05 Gritty Silt 0.05 &ndash; 0.002 Smooth, floury Clay &lt; 0.002 Sticky when wet, hard when dry The textural class of a soil (e.g.</li><li>For example, a soil with 40% sand, 40% silt and 20% clay is classified as loam.</li></ul><h4>Worked example</h4><p><b>Q:</b> Soil texture is determined mainly by the relative proportion of<br/><b>A:</b> sand, silt and clay \u2014 Soil texture is defined by the proportion of sand, silt and clay particles in the mineral fraction of the soil.</p><p><b>Q:</b> A soil sample of 400 g contains 160 g sand. What percentage is sand?<br/><b>A:</b> 40% \u2014 Percentage sand = (160/400) \u00d7 100 = 40%.</p>",
+      "examples": [
+        {
+          "q": "Soil texture is determined mainly by the relative proportion of",
+          "a": "sand, silt and clay \u2014 Soil texture is defined by the proportion of sand, silt and clay particles in the mineral fraction of the soil."
+        },
+        {
+          "q": "A soil sample of 400 g contains 160 g sand. What percentage is sand?",
+          "a": "40% \u2014 Percentage sand = (160/400) \u00d7 100 = 40%."
+        }
+      ]
+    },
+    {
+      "title": "Soil porosity, aeration and water-holding capacity",
+      "html": "<p><b>Soil porosity, aeration and water-holding capacity</b> is a key part of Physical and Chemical Properties of Soil (SSS 2, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning of Soil Texture Soil texture refers to the relative proportion of sand, silt and clay particles that make up the mineral fraction of soil.</li><li>It is one of the most fundamental physical properties of soil because it influences water retention, aeration, drainage, nutrient-holding capacity and workability (tilth).</li><li>Soil particles are classified by size according to internationally agreed limits: sand (2.0&ndash;0.05 mm), silt (0.05&ndash;0.002 mm) and clay (less than 0.002 mm).</li><li>Particle Diameter (mm) Feel Sand 2.0 &ndash; 0.05 Gritty Silt 0.05 &ndash; 0.002 Smooth, floury Clay &lt; 0.002 Sticky when wet, hard when dry The textural class of a soil (e.g.</li><li>For example, a soil with 40% sand, 40% silt and 20% clay is classified as loam.</li></ul><h4>Worked example</h4><p><b>Q:</b> Soil texture is determined mainly by the relative proportion of<br/><b>A:</b> sand, silt and clay \u2014 Soil texture is defined by the proportion of sand, silt and clay particles in the mineral fraction of the soil.</p><p><b>Q:</b> A soil sample of 400 g contains 160 g sand. What percentage is sand?<br/><b>A:</b> 40% \u2014 Percentage sand = (160/400) \u00d7 100 = 40%.</p>",
+      "examples": [
+        {
+          "q": "Soil texture is determined mainly by the relative proportion of",
+          "a": "sand, silt and clay \u2014 Soil texture is defined by the proportion of sand, silt and clay particles in the mineral fraction of the soil."
+        },
+        {
+          "q": "A soil sample of 400 g contains 160 g sand. What percentage is sand?",
+          "a": "40% \u2014 Percentage sand = (160/400) \u00d7 100 = 40%."
+        }
+      ]
+    },
+    {
+      "title": "Soil colour, temperature and consistency",
+      "html": "<p><b>Soil colour, temperature and consistency</b> is a key part of Physical and Chemical Properties of Soil (SSS 2, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning of Soil Texture Soil texture refers to the relative proportion of sand, silt and clay particles that make up the mineral fraction of soil.</li><li>It is one of the most fundamental physical properties of soil because it influences water retention, aeration, drainage, nutrient-holding capacity and workability (tilth).</li><li>Soil particles are classified by size according to internationally agreed limits: sand (2.0&ndash;0.05 mm), silt (0.05&ndash;0.002 mm) and clay (less than 0.002 mm).</li><li>Particle Diameter (mm) Feel Sand 2.0 &ndash; 0.05 Gritty Silt 0.05 &ndash; 0.002 Smooth, floury Clay &lt; 0.002 Sticky when wet, hard when dry The textural class of a soil (e.g.</li><li>For example, a soil with 40% sand, 40% silt and 20% clay is classified as loam.</li></ul><h4>Worked example</h4><p><b>Q:</b> Soil texture is determined mainly by the relative proportion of<br/><b>A:</b> sand, silt and clay \u2014 Soil texture is defined by the proportion of sand, silt and clay particles in the mineral fraction of the soil.</p><p><b>Q:</b> A soil sample of 400 g contains 160 g sand. What percentage is sand?<br/><b>A:</b> 40% \u2014 Percentage sand = (160/400) \u00d7 100 = 40%.</p>",
+      "examples": [
+        {
+          "q": "Soil texture is determined mainly by the relative proportion of",
+          "a": "sand, silt and clay \u2014 Soil texture is defined by the proportion of sand, silt and clay particles in the mineral fraction of the soil."
+        },
+        {
+          "q": "A soil sample of 400 g contains 160 g sand. What percentage is sand?",
+          "a": "40% \u2014 Percentage sand = (160/400) \u00d7 100 = 40%."
         }
       ]
     }
@@ -66,19 +108,23 @@
         "organic matter and water",
         "air and moisture"
       ],
-      "answer": "0",
-      "solution": "Soil texture is defined by the proportion of sand, silt and clay particles in the mineral fraction of the soil."
+      "answer": 0,
+      "solution": "Soil texture is defined by the proportion of sand, silt and clay particles in the mineral fraction of the soil.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which particle size range corresponds to silt?",
       "options": [
-        "2.0–0.05 mm",
-        "0.05–0.002 mm",
+        "2.0\u20130.05 mm",
+        "0.05\u20130.002 mm",
         "less than 0.002 mm",
         "greater than 2.0 mm"
       ],
-      "answer": "1",
-      "solution": "Silt particles range from 0.05 mm to 0.002 mm in diameter, between sand and clay sizes."
+      "answer": 1,
+      "solution": "Silt particles range from 0.05 mm to 0.002 mm in diameter, between sand and clay sizes.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A soil sample of 400 g contains 160 g sand. What percentage is sand?",
@@ -88,8 +134,10 @@
         "40%",
         "50%"
       ],
-      "answer": "2",
-      "solution": "Percentage sand = (160/400) × 100 = 40%."
+      "answer": 2,
+      "solution": "Percentage sand = (160/400) \u00d7 100 = 40%.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which soil structural type is most favourable for root penetration and aeration?",
@@ -99,8 +147,10 @@
         "Columnar",
         "Granular"
       ],
-      "answer": "3",
-      "solution": "Granular structure has loosely packed rounded aggregates that allow good aeration and root growth."
+      "answer": 3,
+      "solution": "Granular structure has loosely packed rounded aggregates that allow good aeration and root growth.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Particle density of most mineral soils is approximately",
@@ -110,8 +160,10 @@
         "2.65 g/cm3",
         "3.65 g/cm3"
       ],
-      "answer": "2",
-      "solution": "Particle density of mineral soil particles is fairly constant at about 2.65 g/cm3."
+      "answer": 2,
+      "solution": "Particle density of mineral soil particles is fairly constant at about 2.65 g/cm3.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A soil has bulk density 1.30 g/cm3 and particle density 2.65 g/cm3. What is its porosity?",
@@ -121,8 +173,10 @@
         "50.9%",
         "60.9%"
       ],
-      "answer": "2",
-      "solution": "f = 1 − (1.30/2.65) = 1 − 0.491 = 0.509 = 50.9%."
+      "answer": 2,
+      "solution": "f = 1 \u2212 (1.30/2.65) = 1 \u2212 0.491 = 0.509 = 50.9%.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which soil type generally has the lowest bulk density?",
@@ -132,52 +186,62 @@
         "Gravelly soil",
         "Loamy sand"
       ],
-      "answer": "1",
-      "solution": "Clay soils typically have lower bulk density (1.0–1.3 g/cm3) compared to sandy soils due to their fine aggregated structure with more pore space."
+      "answer": 1,
+      "solution": "Clay soils typically have lower bulk density (1.0\u20131.3 g/cm3) compared to sandy soils due to their fine aggregated structure with more pore space.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The formula for bulk density is",
       "options": [
-        "ρb = Vt/Ms",
-        "ρb = Ms/Vt",
-        "ρb = Ms × Vt",
-        "ρb = Ms + Vt"
+        "\u03c1b = Vt/Ms",
+        "\u03c1b = Ms/Vt",
+        "\u03c1b = Ms \u00d7 Vt",
+        "\u03c1b = Ms + Vt"
       ],
-      "answer": "1",
-      "solution": "Bulk density equals mass of dry soil divided by total volume (solids plus pores)."
+      "answer": 1,
+      "solution": "Bulk density equals mass of dry soil divided by total volume (solids plus pores).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Soil pH is mathematically defined as",
       "options": [
         "pH = log10[H+]",
-        "pH = −log10[H+]",
+        "pH = \u2212log10[H+]",
         "pH = [H+]/10",
-        "pH = 10 × [H+]"
+        "pH = 10 \u00d7 [H+]"
       ],
-      "answer": "1",
-      "solution": "pH is the negative logarithm (base 10) of the hydrogen ion concentration."
+      "answer": 1,
+      "solution": "pH is the negative logarithm (base 10) of the hydrogen ion concentration.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "A soil with hydrogen ion concentration of 1×10^-4 mol/L has a pH of",
+      "q": "A soil with hydrogen ion concentration of 1\u00d710^-4 mol/L has a pH of",
       "options": [
         "4",
         "5",
         "6",
         "7"
       ],
-      "answer": "0",
-      "solution": "pH = −log10(1×10^-4) = 4."
+      "answer": 0,
+      "solution": "pH = \u2212log10(1\u00d710^-4) = 4.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Most crops grow best within a soil pH range of",
       "options": [
-        "3.0–4.5",
-        "5.5–7.0",
-        "8.0–9.5",
-        "9.5–11.0"
+        "3.0\u20134.5",
+        "5.5\u20137.0",
+        "8.0\u20139.5",
+        "9.5\u201311.0"
       ],
-      "answer": "1",
-      "solution": "Most crops perform optimally in slightly acidic to neutral soils, pH 5.5–7.0."
+      "answer": 1,
+      "solution": "Most crops perform optimally in slightly acidic to neutral soils, pH 5.5\u20137.0.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A common material used to correct soil acidity is",
@@ -187,8 +251,10 @@
         "Calcium carbonate (lime)",
         "Potassium chloride"
       ],
-      "answer": "2",
-      "solution": "Liming with calcium carbonate neutralizes excess soil acidity by raising pH."
+      "answer": 2,
+      "solution": "Liming with calcium carbonate neutralizes excess soil acidity by raising pH.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Cation exchange capacity (CEC) is mainly attributed to",
@@ -198,8 +264,10 @@
         "soil temperature",
         "soil colour"
       ],
-      "answer": "1",
-      "solution": "Clay minerals and humus carry negative charges that attract and hold cations, giving rise to CEC."
+      "answer": 1,
+      "solution": "Clay minerals and humus carry negative charges that attract and hold cations, giving rise to CEC.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "At very low soil pH, which elements often become toxic to plants?",
@@ -209,8 +277,10 @@
         "Aluminium and manganese",
         "Sulphur and zinc"
       ],
-      "answer": "2",
-      "solution": "Strongly acidic soils release aluminium and manganese in forms toxic to plant roots."
+      "answer": 2,
+      "solution": "Strongly acidic soils release aluminium and manganese in forms toxic to plant roots.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which soil colour typically indicates high organic matter content?",
@@ -220,8 +290,10 @@
         "Dark brown or black",
         "Grey mottled"
       ],
-      "answer": "2",
-      "solution": "Dark brown to black colouration is usually associated with high humus/organic matter content."
+      "answer": 2,
+      "solution": "Dark brown to black colouration is usually associated with high humus/organic matter content.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Soil aeration is best in soils with a high proportion of",
@@ -231,8 +303,10 @@
         "clay particles",
         "compacted layers"
       ],
-      "answer": "1",
-      "solution": "Macropores allow free movement of air (and drainage of water), improving soil aeration."
+      "answer": 1,
+      "solution": "Macropores allow free movement of air (and drainage of water), improving soil aeration.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "If liming raises soil pH from 5 to 7, the hydrogen ion concentration has",
@@ -242,8 +316,10 @@
         "remained unchanged",
         "decreased 10 times"
       ],
-      "answer": "1",
-      "solution": "Each unit increase in pH corresponds to a tenfold decrease in [H+]; a 2-unit increase means a 100-fold decrease."
+      "answer": 1,
+      "solution": "Each unit increase in pH corresponds to a tenfold decrease in [H+]; a 2-unit increase means a 100-fold decrease.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Compaction by heavy farm machinery generally causes",
@@ -253,8 +329,426 @@
         "increased bulk density",
         "no change in soil physical properties"
       ],
-      "answer": "2",
-      "solution": "Compaction packs soil particles closer together, increasing bulk density and reducing porosity."
+      "answer": 2,
+      "solution": "Compaction packs soil particles closer together, increasing bulk density and reducing porosity.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Subsistence Agric:",
+      "options": [
+        "Family consumption",
+        "Export",
+        "Large scale",
+        "Machines"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Family consumption.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Commercial Agric:",
+      "options": [
+        "Sale/Export",
+        "Family",
+        "Small scale",
+        "Crude tools"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Sale/Export.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Pastoral Farming:",
+      "options": [
+        "Animals only",
+        "Crops",
+        "Fish",
+        "Birds"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Animals only.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Arable Farming:",
+      "options": [
+        "Crops only",
+        "Animals",
+        "Trees",
+        "Fish"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Crops only.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Leaching:",
+      "options": [
+        "Nutrient wash down",
+        "Erosion",
+        "Manure",
+        "Planting"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Nutrient wash down.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Erosion:",
+      "options": [
+        "Topsoil removal",
+        "Nutrient add",
+        "Planting",
+        "Watering"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Topsoil removal.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Sheet Erosion:",
+      "options": [
+        "Uniform removal",
+        "Gully",
+        "Wind",
+        "Splash"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Uniform removal.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Gully Erosion:",
+      "options": [
+        "Deep channels",
+        "Uniform",
+        "Wind",
+        "Splash"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Deep channels.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Nitrogen function:",
+      "options": [
+        "Leaf growth",
+        "Root",
+        "Fruit",
+        "Seed"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Leaf growth.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Phosphorus function:",
+      "options": [
+        "Root development",
+        "Leaf",
+        "Green",
+        "Tall"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Root development.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Potassium function:",
+      "options": [
+        "Disease resistance",
+        "Leaf",
+        "Root",
+        "Stem"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Disease resistance.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Compost:",
+      "options": [
+        "Decayed organic matter",
+        "Chemical",
+        "Rock",
+        "Sand"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Decayed organic matter.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Farmyard Manure:",
+      "options": [
+        "Animal waste",
+        "Green plant",
+        "Chemical",
+        "Ash"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Animal waste.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Aphid transmits:",
+      "options": [
+        "Rosette",
+        "Rust",
+        "Smut",
+        "Blight"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Rosette.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Tick causes:",
+      "options": [
+        "Texas Fever",
+        "Flu",
+        "Sleeping sickness",
+        "Malaria"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Texas Fever.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Newcastle affects:",
+      "options": [
+        "Poultry",
+        "Cattle",
+        "Pigs",
+        "Goats"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Poultry.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Gestation Cow:",
+      "options": [
+        "283 days",
+        "114",
+        "150",
+        "30"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 283 days.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Gestation Sow:",
+      "options": [
+        "114 days",
+        "283",
+        "150",
+        "30"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 114 days.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Gestation Ewe:",
+      "options": [
+        "150 days",
+        "114",
+        "283",
+        "30"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 150 days.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Gestation Rabbit:",
+      "options": [
+        "31 days",
+        "114",
+        "150",
+        "283"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 31 days.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Layers:",
+      "options": [
+        "Eggs",
+        "Meat",
+        "Pet",
+        "Guard"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Eggs.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Broilers:",
+      "options": [
+        "Meat",
+        "Eggs",
+        "Pet",
+        "Guard"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Meat.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Ruminants:",
+      "options": [
+        "Chew cud",
+        "Single stomach",
+        "Birds",
+        "Fish"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Chew cud.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Non-ruminant:",
+      "options": [
+        "Pig",
+        "Goat",
+        "Cow",
+        "Sheep"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Pig.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Bee Keeping:",
+      "options": [
+        "Apiculture",
+        "Aquaculture",
+        "Horticulture",
+        "Sericulture"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Apiculture.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Snail Farming:",
+      "options": [
+        "Heliculture",
+        "Apiculture",
+        "Aquaculture",
+        "Horticulture"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Heliculture.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Theodolite:",
+      "options": [
+        "Angles",
+        "Length",
+        "Weight",
+        "Time"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Angles.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Agric Extension:",
+      "options": [
+        "Education",
+        "Tax",
+        "Police",
+        "Sales"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Education.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Profit:",
+      "options": [
+        "Income - Expense",
+        "Expense - Income",
+        "Income only",
+        "Expense only"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Income - Expense.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Asset:",
+      "options": [
+        "Owned value",
+        "Debt",
+        "Loss",
+        "Cost"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Owned value.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Liability:",
+      "options": [
+        "Owed debt",
+        "Value",
+        "Profit",
+        "Gain"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Owed debt.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Depreciation:",
+      "options": [
+        "Loss of value",
+        "Gain",
+        "Profit",
+        "Cash"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Loss of value.",
+      "source": "NECO 2025",
+      "practice": false
     }
   ]
 }

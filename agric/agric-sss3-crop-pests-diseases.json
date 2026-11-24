@@ -55,6 +55,48 @@
           "a": "(1) Early planting so that flowering and podding occur before peak pod borer population buildup, reducing exposure of susceptible pods to the pest; (2) intercropping cowpea with cereals such as maize or sorghum, which disrupts the pest's ability to locate host plants through visual and olfactory cues (a form of cultural control), thereby reducing infestation levels while also providing additional yield benefits from the companion crop."
         }
       ]
+    },
+    {
+      "title": "Major field and storage pests of West African crops",
+      "html": "<p><b>Major field and storage pests of West African crops</b> is a key part of Crop Pests and Diseases (SSS 3, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning and Classification of Pests A crop pest is any organism, usually an insect, mite, rodent, bird or nematode, that damages crops, reduces yield or quality, and causes economic loss to farmers.</li><li>Pests can be classified based on several criteria which help farmers plan appropriate control strategies.</li><li>Based on where they attack: field pests (attack crops while growing on the farm, e.g.</li><li>maize stem borer) and storage pests (attack harvested produce in stores, e.g.</li><li>Based on taxonomic group: insect pests (largest group, e.g.</li></ul><h4>Worked example</h4><p><b>Q:</b> A crop pest is best defined as:<br/><b>A:</b> Any organism that damages crops and causes economic loss \u2014 A pest is any organism, including insects, rodents, birds or nematodes, that damages crops and causes economic loss.</p><p><b>Q:</b> Sitophilus zeamais is an example of a:<br/><b>A:</b> Storage pest \u2014 The maize weevil, Sitophilus zeamais, is a major storage pest attacking harvested maize grains.</p>",
+      "examples": [
+        {
+          "q": "A crop pest is best defined as:",
+          "a": "Any organism that damages crops and causes economic loss \u2014 A pest is any organism, including insects, rodents, birds or nematodes, that damages crops and causes economic loss."
+        },
+        {
+          "q": "Sitophilus zeamais is an example of a:",
+          "a": "Storage pest \u2014 The maize weevil, Sitophilus zeamais, is a major storage pest attacking harvested maize grains."
+        }
+      ]
+    },
+    {
+      "title": "Signs and symptoms of pest attack",
+      "html": "<p><b>Signs and symptoms of pest attack</b> is a key part of Crop Pests and Diseases (SSS 3, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning and Classification of Pests A crop pest is any organism, usually an insect, mite, rodent, bird or nematode, that damages crops, reduces yield or quality, and causes economic loss to farmers.</li><li>Pests can be classified based on several criteria which help farmers plan appropriate control strategies.</li><li>Based on where they attack: field pests (attack crops while growing on the farm, e.g.</li><li>maize stem borer) and storage pests (attack harvested produce in stores, e.g.</li><li>Based on taxonomic group: insect pests (largest group, e.g.</li></ul><h4>Worked example</h4><p><b>Q:</b> A crop pest is best defined as:<br/><b>A:</b> Any organism that damages crops and causes economic loss \u2014 A pest is any organism, including insects, rodents, birds or nematodes, that damages crops and causes economic loss.</p><p><b>Q:</b> Sitophilus zeamais is an example of a:<br/><b>A:</b> Storage pest \u2014 The maize weevil, Sitophilus zeamais, is a major storage pest attacking harvested maize grains.</p>",
+      "examples": [
+        {
+          "q": "A crop pest is best defined as:",
+          "a": "Any organism that damages crops and causes economic loss \u2014 A pest is any organism, including insects, rodents, birds or nematodes, that damages crops and causes economic loss."
+        },
+        {
+          "q": "Sitophilus zeamais is an example of a:",
+          "a": "Storage pest \u2014 The maize weevil, Sitophilus zeamais, is a major storage pest attacking harvested maize grains."
+        }
+      ]
+    },
+    {
+      "title": "Disease triangle and epidemiology",
+      "html": "<p><b>Disease triangle and epidemiology</b> is a key part of Crop Pests and Diseases (SSS 3, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning and Causes of Crop Diseases A crop disease is any abnormal condition that interferes with the normal physiological functioning of a plant, reducing its growth, yield or quality.</li><li>Diseases are caused by pathogens (fungi, bacteria, viruses, nematodes) classified as infectious/biotic diseases, or by unfavourable environmental factors (nutrient deficiency, drought, extreme temperature) classified as non-infectious/abiotic diseases.</li><li>Classification of Plant Diseases by Causal Agent Fungal diseases: caused by fungi, the most common group of plant pathogens, e.g.</li><li>cassava anthracnose, maize rust, black pod disease of cocoa (Phytophthora), and yam rot.</li><li>Bacterial diseases: caused by bacteria, e.g.</li></ul><h4>Worked example</h4><p><b>Q:</b> Cassava mosaic disease is caused by a:<br/><b>A:</b> Virus \u2014 Cassava mosaic disease is caused by a virus transmitted mainly by the whitefly vector.</p><p><b>Q:</b> Which three factors must interact for a plant disease to occur, according to the disease triangle?<br/><b>A:</b> Susceptible host, virulent pathogen, favourable environment \u2014 The disease triangle states that disease occurs only when a susceptible host, a virulent pathogen and a favourable environment interact together.</p>",
+      "examples": [
+        {
+          "q": "Cassava mosaic disease is caused by a:",
+          "a": "Virus \u2014 Cassava mosaic disease is caused by a virus transmitted mainly by the whitefly vector."
+        },
+        {
+          "q": "Which three factors must interact for a plant disease to occur, according to the disease triangle?",
+          "a": "Susceptible host, virulent pathogen, favourable environment \u2014 The disease triangle states that disease occurs only when a susceptible host, a virulent pathogen and a favourable environment interact together."
+        }
+      ]
     }
   ],
   "quiz": [
@@ -66,8 +108,10 @@
         "Only insects that eat leaves",
         "A type of fungus"
       ],
-      "answer": "1",
-      "solution": "A pest is any organism, including insects, rodents, birds or nematodes, that damages crops and causes economic loss."
+      "answer": 1,
+      "solution": "A pest is any organism, including insects, rodents, birds or nematodes, that damages crops and causes economic loss.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Sitophilus zeamais is an example of a:",
@@ -77,8 +121,10 @@
         "Bird pest",
         "Nematode pest"
       ],
-      "answer": "1",
-      "solution": "The maize weevil, Sitophilus zeamais, is a major storage pest attacking harvested maize grains."
+      "answer": 1,
+      "solution": "The maize weevil, Sitophilus zeamais, is a major storage pest attacking harvested maize grains.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The fall armyworm primarily attacks which crop in West Africa?",
@@ -88,8 +134,10 @@
         "Cocoa",
         "Yam"
       ],
-      "answer": "1",
-      "solution": "Fall armyworm (Spodoptera frugiperda) larvae feed voraciously on maize leaves and whorls, causing severe yield losses."
+      "answer": 1,
+      "solution": "Fall armyworm (Spodoptera frugiperda) larvae feed voraciously on maize leaves and whorls, causing severe yield losses.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Cassava mosaic disease is caused by a:",
@@ -99,8 +147,10 @@
         "Virus",
         "Nematode"
       ],
-      "answer": "2",
-      "solution": "Cassava mosaic disease is caused by a virus transmitted mainly by the whitefly vector."
+      "answer": 2,
+      "solution": "Cassava mosaic disease is caused by a virus transmitted mainly by the whitefly vector.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which three factors must interact for a plant disease to occur, according to the disease triangle?",
@@ -110,8 +160,10 @@
         "Soil, water, sunlight",
         "Fertiliser, pesticide, seed"
       ],
-      "answer": "1",
-      "solution": "The disease triangle states that disease occurs only when a susceptible host, a virulent pathogen and a favourable environment interact together."
+      "answer": 1,
+      "solution": "The disease triangle states that disease occurs only when a susceptible host, a virulent pathogen and a favourable environment interact together.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Root-knot disease, characterised by galls on roots, is caused by:",
@@ -121,8 +173,10 @@
         "Viruses",
         "Bacteria"
       ],
-      "answer": "1",
-      "solution": "Root-knot nematodes invade plant roots and induce gall formation, disrupting nutrient and water uptake."
+      "answer": 1,
+      "solution": "Root-knot nematodes invade plant roots and induce gall formation, disrupting nutrient and water uptake.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which control method uses natural enemies such as ladybird beetles to reduce pest populations?",
@@ -132,8 +186,10 @@
         "Legislative control",
         "Mechanical control"
       ],
-      "answer": "1",
-      "solution": "Biological control involves using natural enemies like predators, parasitoids or pathogens to suppress pest populations."
+      "answer": 1,
+      "solution": "Biological control involves using natural enemies like predators, parasitoids or pathogens to suppress pest populations.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Quarantine regulations to prevent the spread of banana bunchy top virus across borders is an example of:",
@@ -143,8 +199,10 @@
         "Biological control",
         "Mechanical control"
       ],
-      "answer": "1",
-      "solution": "Legislative/quarantine control involves government regulations restricting movement of infected planting materials to prevent disease spread."
+      "answer": 1,
+      "solution": "Legislative/quarantine control involves government regulations restricting movement of infected planting materials to prevent disease spread.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these is a sign of viral infection in plants?",
@@ -154,8 +212,10 @@
         "Rotting of tubers with foul smell",
         "Holes in leaves"
       ],
-      "answer": "1",
-      "solution": "Mosaic patterns, mottling and leaf distortion are classic symptoms of viral plant diseases."
+      "answer": 1,
+      "solution": "Mosaic patterns, mottling and leaf distortion are classic symptoms of viral plant diseases.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Crop rotation helps control pests and diseases mainly by:",
@@ -165,8 +225,10 @@
         "Adding nitrogen only",
         "Reducing rainfall"
       ],
-      "answer": "1",
-      "solution": "Rotating unrelated crops deprives host-specific pests and pathogens of a continuous host, breaking their life cycle and reducing buildup."
+      "answer": 1,
+      "solution": "Rotating unrelated crops deprives host-specific pests and pathogens of a continuous host, breaking their life cycle and reducing buildup.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "IPM stands for:",
@@ -176,8 +238,10 @@
         "Individual Plant Monitoring",
         "International Pesticide Manual"
       ],
-      "answer": "1",
-      "solution": "IPM (Integrated Pest Management) combines multiple compatible control strategies guided by monitoring and economic thresholds."
+      "answer": 1,
+      "solution": "IPM (Integrated Pest Management) combines multiple compatible control strategies guided by monitoring and economic thresholds.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A fungicide is used to control:",
@@ -187,8 +251,10 @@
         "Fungal diseases",
         "Weeds"
       ],
-      "answer": "2",
-      "solution": "Fungicides are chemicals specifically formulated to control fungal pathogens and diseases in crops."
+      "answer": 2,
+      "solution": "Fungicides are chemicals specifically formulated to control fungal pathogens and diseases in crops.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Bacterial wilt symptom of sudden wilting despite moist soil is due to:",
@@ -198,8 +264,10 @@
         "Excess sunlight",
         "Weed competition"
       ],
-      "answer": "1",
-      "solution": "Bacterial wilt pathogens multiply within and block the plant's vascular (xylem) system, preventing water transport and causing wilting even with adequate soil moisture."
+      "answer": 1,
+      "solution": "Bacterial wilt pathogens multiply within and block the plant's vascular (xylem) system, preventing water transport and causing wilting even with adequate soil moisture.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which pest damage symptom is typical of sucking insects like aphids?",
@@ -209,8 +277,10 @@
         "Tunnels inside stems",
         "Rotten fruit with foul odour"
       ],
-      "answer": "1",
-      "solution": "Sucking insects like aphids pierce plant tissue, extracting sap and often transmitting toxins/viruses, causing yellowing, curling and stunting."
+      "answer": 1,
+      "solution": "Sucking insects like aphids pierce plant tissue, extracting sap and often transmitting toxins/viruses, causing yellowing, curling and stunting.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The main principle guiding when to intervene in IPM is the:",
@@ -220,8 +290,10 @@
         "Random spraying schedule",
         "Calendar-based spraying only"
       ],
-      "answer": "1",
-      "solution": "IPM uses the economic threshold to determine the pest density at which control action becomes economically justified, avoiding unnecessary pesticide use."
+      "answer": 1,
+      "solution": "IPM uses the economic threshold to determine the pest density at which control action becomes economically justified, avoiding unnecessary pesticide use.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of the following best describes an abiotic (non-infectious) plant disease cause?",
@@ -231,8 +303,452 @@
         "Viral infection",
         "Bacterial infection"
       ],
-      "answer": "1",
-      "solution": "Abiotic diseases are caused by non-living factors such as nutrient deficiency, drought or extreme temperature, not by pathogens."
+      "answer": 1,
+      "solution": "Abiotic diseases are caused by non-living factors such as nutrient deficiency, drought or extreme temperature, not by pathogens.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Classification and Identification of Crop Pests in Crop Pests and Diseases?",
+      "options": [
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis).",
+        "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss.",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "Capillary water is \u2014 Available to plants.."
+      ],
+      "answer": 1,
+      "solution": "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Crop Diseases: Causal Agents and Epidemiology in Crop Pests and Diseases?",
+      "options": [
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis).",
+        "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss.",
+        "Capillary water is \u2014 Available to plants.."
+      ],
+      "answer": 2,
+      "solution": "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Methods of Pest and Disease Control in Crop Pests and Diseases?",
+      "options": [
+        "Capillary water is \u2014 Available to plants..",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss.",
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis)."
+      ],
+      "answer": 2,
+      "solution": "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Major field and storage pests of West African crops in Crop Pests and Diseases?",
+      "options": [
+        "Capillary water is \u2014 Available to plants..",
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis).",
+        "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss.",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1."
+      ],
+      "answer": 2,
+      "solution": "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Signs and symptoms of pest attack in Crop Pests and Diseases?",
+      "options": [
+        "Capillary water is \u2014 Available to plants..",
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis).",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss."
+      ],
+      "answer": 3,
+      "solution": "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Disease triangle and epidemiology in Crop Pests and Diseases?",
+      "options": [
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis).",
+        "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss.",
+        "Capillary water is \u2014 Available to plants.."
+      ],
+      "answer": 2,
+      "solution": "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Crop Pests and Diseases \u2014 'pest'?",
+      "options": [
+        "Capillary water is \u2014 Available to plants..",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss.",
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis)."
+      ],
+      "answer": 2,
+      "solution": "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Crop Pests and Diseases \u2014 'sitophilus'?",
+      "options": [
+        "Sitophilus zeamais is an example of a: \u2014 Storage pest.",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis).",
+        "Capillary water is \u2014 Available to plants.."
+      ],
+      "answer": 0,
+      "solution": "Sitophilus zeamais is an example of a: \u2014 Storage pest.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Crop Pests and Diseases \u2014 'fall'?",
+      "options": [
+        "Capillary water is \u2014 Available to plants..",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis).",
+        "The fall armyworm primarily attacks which crop in West Africa \u2014 Maize."
+      ],
+      "answer": 3,
+      "solution": "The fall armyworm primarily attacks which crop in West Africa \u2014 Maize.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Crop Pests and Diseases \u2014 'cassava'?",
+      "options": [
+        "Capillary water is \u2014 Available to plants..",
+        "Cassava mosaic disease is caused by a: \u2014 Virus.",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis)."
+      ],
+      "answer": 1,
+      "solution": "Cassava mosaic disease is caused by a: \u2014 Virus.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Crop Pests and Diseases \u2014 'factors'?",
+      "options": [
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "Capillary water is \u2014 Available to plants..",
+        "Which three factors must interact for a plant disease to occur, according to the disease triangle \u2014 Susceptible host, virulent pathogen, favourable environment.",
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis)."
+      ],
+      "answer": 2,
+      "solution": "Which three factors must interact for a plant disease to occur, according to the disease triangle \u2014 Susceptible host, virulent pathogen, favourable environment.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Crop Pests and Diseases \u2014 'root'?",
+      "options": [
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis).",
+        "Root-knot disease, characterised by galls on roots, is caused by: \u2014 Nematodes.",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "Capillary water is \u2014 Available to plants.."
+      ],
+      "answer": 1,
+      "solution": "Root-knot disease, characterised by galls on roots, is caused by: \u2014 Nematodes.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Crop Pests and Diseases \u2014 'control'?",
+      "options": [
+        "Which control method uses natural enemies such as ladybird beetles to reduce pest populations \u2014 Biological control.",
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis).",
+        "Capillary water is \u2014 Available to plants..",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1."
+      ],
+      "answer": 0,
+      "solution": "Which control method uses natural enemies such as ladybird beetles to reduce pest populations \u2014 Biological control.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Crop Pests and Diseases \u2014 'quarantine'?",
+      "options": [
+        "Quarantine regulations to prevent the spread of banana bunchy top virus across borders is an example of: \u2014 Legislative control.",
+        "Capillary water is \u2014 Available to plants..",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis)."
+      ],
+      "answer": 0,
+      "solution": "Quarantine regulations to prevent the spread of banana bunchy top virus across borders is an example of: \u2014 Legislative control.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Crop Pests and Diseases \u2014 'sign'?",
+      "options": [
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis).",
+        "Which of these is a sign of viral infection in plants \u2014 Mosaic pattern and leaf mottling.",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "Capillary water is \u2014 Available to plants.."
+      ],
+      "answer": 1,
+      "solution": "Which of these is a sign of viral infection in plants \u2014 Mosaic pattern and leaf mottling.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Crop Pests and Diseases \u2014 'rotation'?",
+      "options": [
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis).",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "Crop rotation helps control pests and diseases mainly by: \u2014 Breaking the life cycle of host-specific pests and pathogens.",
+        "Capillary water is \u2014 Available to plants.."
+      ],
+      "answer": 2,
+      "solution": "Crop rotation helps control pests and diseases mainly by: \u2014 Breaking the life cycle of host-specific pests and pathogens.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Crop Pests and Diseases \u2014 'ipm'?",
+      "options": [
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "Capillary water is \u2014 Available to plants..",
+        "IPM stands for: \u2014 Integrated Pest Management.",
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis)."
+      ],
+      "answer": 2,
+      "solution": "IPM stands for: \u2014 Integrated Pest Management.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Crop Pests and Diseases \u2014 'fungicide'?",
+      "options": [
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis).",
+        "Capillary water is \u2014 Available to plants..",
+        "A fungicide is used to control: \u2014 Fungal diseases.",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1."
+      ],
+      "answer": 2,
+      "solution": "A fungicide is used to control: \u2014 Fungal diseases.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Crop Pests and Diseases \u2014 'bacterial'?",
+      "options": [
+        "Bacterial wilt symptom of sudden wilting despite moist soil is due to: \u2014 Blockage of vascular tissue by bacteria.",
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis).",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "Capillary water is \u2014 Available to plants.."
+      ],
+      "answer": 0,
+      "solution": "Bacterial wilt symptom of sudden wilting despite moist soil is due to: \u2014 Blockage of vascular tissue by bacteria.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Crop Pests and Diseases \u2014 'main'?",
+      "options": [
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis).",
+        "Capillary water is \u2014 Available to plants..",
+        "The main principle guiding when to intervene in IPM is the: \u2014 Economic threshold/injury level.",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1."
+      ],
+      "answer": 2,
+      "solution": "The main principle guiding when to intervene in IPM is the: \u2014 Economic threshold/injury level.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Crop Pests and Diseases \u2014 'following'?",
+      "options": [
+        "The process of shedding exoskeleton in insects is: \u2014 Molting (Ecdysis).",
+        "Which of the following best describes an abiotic (non-infectious) plant disease cause \u2014 Nutrient deficiency.",
+        "What is the ratio of N:P:K in a 15-15-15 fertilizer \u2014 1:1:1.",
+        "Capillary water is \u2014 Available to plants.."
+      ],
+      "answer": 1,
+      "solution": "Which of the following best describes an abiotic (non-infectious) plant disease cause \u2014 Nutrient deficiency.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'causes', which of the following is true in Crop Pests and Diseases?",
+      "options": [
+        "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss.",
+        "Agriculture can best be defined as \u2014 the science, art and business of cultivating crops and rearing animals for man's use.",
+        "A market situation with only one seller is called _____. \u2014 Monopoly.",
+        "Monocropping involves \u2014 Growing one crop on a piece of land.."
+      ],
+      "answer": 0,
+      "solution": "A crop pest is best defined as: \u2014 Any organism that damages crops and causes economic loss.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'sitophilus', which of the following is true in Crop Pests and Diseases?",
+      "options": [
+        "Sitophilus zeamais is an example of a: \u2014 Storage pest.",
+        "Agriculture can best be defined as \u2014 the science, art and business of cultivating crops and rearing animals for man's use.",
+        "Monocropping involves \u2014 Growing one crop on a piece of land..",
+        "A market situation with only one seller is called _____. \u2014 Monopoly."
+      ],
+      "answer": 0,
+      "solution": "Sitophilus zeamais is an example of a: \u2014 Storage pest.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'africa', which of the following is true in Crop Pests and Diseases?",
+      "options": [
+        "A market situation with only one seller is called _____. \u2014 Monopoly.",
+        "Agriculture can best be defined as \u2014 the science, art and business of cultivating crops and rearing animals for man's use.",
+        "Monocropping involves \u2014 Growing one crop on a piece of land..",
+        "The fall armyworm primarily attacks which crop in West Africa \u2014 Maize."
+      ],
+      "answer": 3,
+      "solution": "The fall armyworm primarily attacks which crop in West Africa \u2014 Maize.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'cassava', which of the following is true in Crop Pests and Diseases?",
+      "options": [
+        "Agriculture can best be defined as \u2014 the science, art and business of cultivating crops and rearing animals for man's use.",
+        "Cassava mosaic disease is caused by a: \u2014 Virus.",
+        "A market situation with only one seller is called _____. \u2014 Monopoly.",
+        "Monocropping involves \u2014 Growing one crop on a piece of land.."
+      ],
+      "answer": 1,
+      "solution": "Cassava mosaic disease is caused by a: \u2014 Virus.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'according', which of the following is true in Crop Pests and Diseases?",
+      "options": [
+        "A market situation with only one seller is called _____. \u2014 Monopoly.",
+        "Which three factors must interact for a plant disease to occur, according to the disease triangle \u2014 Susceptible host, virulent pathogen, favourable environment.",
+        "Monocropping involves \u2014 Growing one crop on a piece of land..",
+        "Agriculture can best be defined as \u2014 the science, art and business of cultivating crops and rearing animals for man's use."
+      ],
+      "answer": 1,
+      "solution": "Which three factors must interact for a plant disease to occur, according to the disease triangle \u2014 Susceptible host, virulent pathogen, favourable environment.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'characterised', which of the following is true in Crop Pests and Diseases?",
+      "options": [
+        "Root-knot disease, characterised by galls on roots, is caused by: \u2014 Nematodes.",
+        "Agriculture can best be defined as \u2014 the science, art and business of cultivating crops and rearing animals for man's use.",
+        "A market situation with only one seller is called _____. \u2014 Monopoly.",
+        "Monocropping involves \u2014 Growing one crop on a piece of land.."
+      ],
+      "answer": 0,
+      "solution": "Root-knot disease, characterised by galls on roots, is caused by: \u2014 Nematodes.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'beetles', which of the following is true in Crop Pests and Diseases?",
+      "options": [
+        "Agriculture can best be defined as \u2014 the science, art and business of cultivating crops and rearing animals for man's use.",
+        "A market situation with only one seller is called _____. \u2014 Monopoly.",
+        "Monocropping involves \u2014 Growing one crop on a piece of land..",
+        "Which control method uses natural enemies such as ladybird beetles to reduce pest populations \u2014 Biological control."
+      ],
+      "answer": 3,
+      "solution": "Which control method uses natural enemies such as ladybird beetles to reduce pest populations \u2014 Biological control.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'across', which of the following is true in Crop Pests and Diseases?",
+      "options": [
+        "Agriculture can best be defined as \u2014 the science, art and business of cultivating crops and rearing animals for man's use.",
+        "Monocropping involves \u2014 Growing one crop on a piece of land..",
+        "A market situation with only one seller is called _____. \u2014 Monopoly.",
+        "Quarantine regulations to prevent the spread of banana bunchy top virus across borders is an example of: \u2014 Legislative control."
+      ],
+      "answer": 3,
+      "solution": "Quarantine regulations to prevent the spread of banana bunchy top virus across borders is an example of: \u2014 Legislative control.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'infection', which of the following is true in Crop Pests and Diseases?",
+      "options": [
+        "A market situation with only one seller is called _____. \u2014 Monopoly.",
+        "Which of these is a sign of viral infection in plants \u2014 Mosaic pattern and leaf mottling.",
+        "Monocropping involves \u2014 Growing one crop on a piece of land..",
+        "Agriculture can best be defined as \u2014 the science, art and business of cultivating crops and rearing animals for man's use."
+      ],
+      "answer": 1,
+      "solution": "Which of these is a sign of viral infection in plants \u2014 Mosaic pattern and leaf mottling.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'breaking', which of the following is true in Crop Pests and Diseases?",
+      "options": [
+        "Crop rotation helps control pests and diseases mainly by: \u2014 Breaking the life cycle of host-specific pests and pathogens.",
+        "Agriculture can best be defined as \u2014 the science, art and business of cultivating crops and rearing animals for man's use.",
+        "A market situation with only one seller is called _____. \u2014 Monopoly.",
+        "Monocropping involves \u2014 Growing one crop on a piece of land.."
+      ],
+      "answer": 0,
+      "solution": "Crop rotation helps control pests and diseases mainly by: \u2014 Breaking the life cycle of host-specific pests and pathogens.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'integrated', which of the following is true in Crop Pests and Diseases?",
+      "options": [
+        "Monocropping involves \u2014 Growing one crop on a piece of land..",
+        "A market situation with only one seller is called _____. \u2014 Monopoly.",
+        "IPM stands for: \u2014 Integrated Pest Management.",
+        "Agriculture can best be defined as \u2014 the science, art and business of cultivating crops and rearing animals for man's use."
+      ],
+      "answer": 2,
+      "solution": "IPM stands for: \u2014 Integrated Pest Management.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'fungal', which of the following is true in Crop Pests and Diseases?",
+      "options": [
+        "A market situation with only one seller is called _____. \u2014 Monopoly.",
+        "A fungicide is used to control: \u2014 Fungal diseases.",
+        "Monocropping involves \u2014 Growing one crop on a piece of land..",
+        "Agriculture can best be defined as \u2014 the science, art and business of cultivating crops and rearing animals for man's use."
+      ],
+      "answer": 1,
+      "solution": "A fungicide is used to control: \u2014 Fungal diseases.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'bacteria', which of the following is true in Crop Pests and Diseases?",
+      "options": [
+        "Bacterial wilt symptom of sudden wilting despite moist soil is due to: \u2014 Blockage of vascular tissue by bacteria.",
+        "Agriculture can best be defined as \u2014 the science, art and business of cultivating crops and rearing animals for man's use.",
+        "Monocropping involves \u2014 Growing one crop on a piece of land..",
+        "A market situation with only one seller is called _____. \u2014 Monopoly."
+      ],
+      "answer": 0,
+      "solution": "Bacterial wilt symptom of sudden wilting despite moist soil is due to: \u2014 Blockage of vascular tissue by bacteria.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
     }
   ]
 }

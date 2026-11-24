@@ -1,223 +1,753 @@
 {
- "subject": "Financial Accounting",
- "level": "SSS 3",
- "slug": "industrial-organizational-accounts",
- "title": "Industrial and Organizational Accounts",
- "outline": [
-  "Manufacturing accounts: elements of cost",
-  "Prime cost, factory overheads and cost of production",
-  "Work-in-progress and manufacturing profit",
-  "Departmental accounts and apportionment of expenses",
-  "Branch accounts: goods sent at cost and at selling price",
-  "Consignment accounts: consignor, consignee and commission",
-  "Joint ventures (introductory)"
- ],
- "modules": [
-  {
-   "title": "Manufacturing Accounts",
-   "html": "\n<h4>1. Purpose</h4>\n<p>A manufacturer converts raw materials into finished goods, so an extra statement - the Manufacturing Account - is prepared before the Trading Account to find the cost of goods produced.</p>\n\n<h4>2. Elements of Cost</h4>\n<ul>\n  <li><b>Direct materials</b> - raw materials consumed: opening raw material stock + purchases + carriage inwards - returns - closing raw material stock.</li>\n  <li><b>Direct labour</b> - wages of workers physically making the product.</li>\n  <li><b>Direct expenses</b> - royalties per unit, hire of a special machine, cost of special designs.</li>\n  <li><b>Factory (indirect) overheads</b> - factory rent, power, depreciation of plant, supervisors' salaries, factory insurance, indirect materials.</li>\n</ul>\n$$ \\text{Prime Cost} = \\text{Direct Materials} + \\text{Direct Labour} + \\text{Direct Expenses} $$\n$$ \\text{Cost of Production} = \\text{Prime Cost} + \\text{Factory Overheads} + \\text{Opening WIP} - \\text{Closing WIP} $$\n\n<h4>3. Specimen</h4>\n<table class=\"tb-table\">\n  <tr><th>Manufacturing Account for the year ended 31 December</th><th>N</th></tr>\n  <tr><td>Opening stock of raw materials</td><td>400,000</td></tr>\n  <tr><td>Add Purchases of raw materials + carriage inwards</td><td>3,100,000</td></tr>\n  <tr><td>Less Closing stock of raw materials</td><td>(500,000)</td></tr>\n  <tr><td>Cost of raw materials consumed</td><td>3,000,000</td></tr>\n  <tr><td>Add Direct wages</td><td>1,400,000</td></tr>\n  <tr><td>Add Direct expenses (royalties)</td><td>100,000</td></tr>\n  <tr><td><b>Prime cost</b></td><td><b>4,500,000</b></td></tr>\n  <tr><td>Add Factory overheads</td><td>1,250,000</td></tr>\n  <tr><td>Add Opening work-in-progress</td><td>300,000</td></tr>\n  <tr><td>Less Closing work-in-progress</td><td>(250,000)</td></tr>\n  <tr><td><b>Cost of production (transferred to Trading A/c)</b></td><td><b>5,800,000</b></td></tr>\n</table>\n<p>Where goods are transferred to the trading account at a mark-up above cost, the difference is <b>manufacturing profit</b>, and any unrealised profit in closing finished stock must be provided for.</p>\n",
-   "examples": [
+  "subject": "Financial Accounting",
+  "level": "SSS 3",
+  "slug": "industrial-organizational-accounts",
+  "title": "Industrial and Organizational Accounts",
+  "outline": [
+    "Manufacturing accounts: elements of cost",
+    "Prime cost, factory overheads and cost of production",
+    "Work-in-progress and manufacturing profit",
+    "Departmental accounts and apportionment of expenses",
+    "Branch accounts: goods sent at cost and at selling price",
+    "Consignment accounts: consignor, consignee and commission",
+    "Joint ventures (introductory)"
+  ],
+  "modules": [
     {
-     "q": "Raw materials consumed N2,400,000, direct wages N1,100,000, royalties N90,000, factory overheads N860,000, opening WIP N210,000, closing WIP N180,000. Compute prime cost and cost of production.",
-     "a": "\\( \\text{Prime Cost} = 2,400,000 + 1,100,000 + 90,000 = N3,590,000 \\). Cost of production = 3,590,000 + 860,000 + 210,000 - 180,000 = N4,480,000, which is transferred to the trading account in place of purchases."
+      "title": "Manufacturing Accounts",
+      "html": "\n<h4>1. Purpose</h4>\n<p>A manufacturer converts raw materials into finished goods, so an extra statement - the Manufacturing Account - is prepared before the Trading Account to find the cost of goods produced.</p>\n\n<h4>2. Elements of Cost</h4>\n<ul>\n  <li><b>Direct materials</b> - raw materials consumed: opening raw material stock + purchases + carriage inwards - returns - closing raw material stock.</li>\n  <li><b>Direct labour</b> - wages of workers physically making the product.</li>\n  <li><b>Direct expenses</b> - royalties per unit, hire of a special machine, cost of special designs.</li>\n  <li><b>Factory (indirect) overheads</b> - factory rent, power, depreciation of plant, supervisors' salaries, factory insurance, indirect materials.</li>\n</ul>\n$$ \\text{Prime Cost} = \\text{Direct Materials} + \\text{Direct Labour} + \\text{Direct Expenses} $$\n$$ \\text{Cost of Production} = \\text{Prime Cost} + \\text{Factory Overheads} + \\text{Opening WIP} - \\text{Closing WIP} $$\n\n<h4>3. Specimen</h4>\n<table class=\"tb-table\">\n  <tr><th>Manufacturing Account for the year ended 31 December</th><th>N</th></tr>\n  <tr><td>Opening stock of raw materials</td><td>400,000</td></tr>\n  <tr><td>Add Purchases of raw materials + carriage inwards</td><td>3,100,000</td></tr>\n  <tr><td>Less Closing stock of raw materials</td><td>(500,000)</td></tr>\n  <tr><td>Cost of raw materials consumed</td><td>3,000,000</td></tr>\n  <tr><td>Add Direct wages</td><td>1,400,000</td></tr>\n  <tr><td>Add Direct expenses (royalties)</td><td>100,000</td></tr>\n  <tr><td><b>Prime cost</b></td><td><b>4,500,000</b></td></tr>\n  <tr><td>Add Factory overheads</td><td>1,250,000</td></tr>\n  <tr><td>Add Opening work-in-progress</td><td>300,000</td></tr>\n  <tr><td>Less Closing work-in-progress</td><td>(250,000)</td></tr>\n  <tr><td><b>Cost of production (transferred to Trading A/c)</b></td><td><b>5,800,000</b></td></tr>\n</table>\n<p>Where goods are transferred to the trading account at a mark-up above cost, the difference is <b>manufacturing profit</b>, and any unrealised profit in closing finished stock must be provided for.</p>\n",
+      "examples": [
+        {
+          "q": "Raw materials consumed N2,400,000, direct wages N1,100,000, royalties N90,000, factory overheads N860,000, opening WIP N210,000, closing WIP N180,000. Compute prime cost and cost of production.",
+          "a": "\\( \\text{Prime Cost} = 2,400,000 + 1,100,000 + 90,000 = N3,590,000 \\). Cost of production = 3,590,000 + 860,000 + 210,000 - 180,000 = N4,480,000, which is transferred to the trading account in place of purchases."
+        },
+        {
+          "q": "Cost of production is N4,000,000 and goods are transferred to the trading account at cost plus 25%. Closing finished goods (at transfer price) are N500,000. Compute the transfer value, manufacturing profit and the provision for unrealised profit.",
+          "a": "Transfer value = 4,000,000 x 1.25 = N5,000,000; manufacturing profit = N1,000,000. Unrealised profit in closing stock = \\( \\dfrac{25}{125} \\times 500,000 = N100,000 \\). Dr Profit and Loss (provision for unrealised profit) N100,000, and deduct the provision from finished goods stock in the balance sheet, showing it at cost of N400,000."
+        }
+      ]
     },
     {
-     "q": "Cost of production is N4,000,000 and goods are transferred to the trading account at cost plus 25%. Closing finished goods (at transfer price) are N500,000. Compute the transfer value, manufacturing profit and the provision for unrealised profit.",
-     "a": "Transfer value = 4,000,000 x 1.25 = N5,000,000; manufacturing profit = N1,000,000. Unrealised profit in closing stock = \\( \\dfrac{25}{125} \\times 500,000 = N100,000 \\). Dr Profit and Loss (provision for unrealised profit) N100,000, and deduct the provision from finished goods stock in the balance sheet, showing it at cost of N400,000."
-    }
-   ]
-  },
-  {
-   "title": "Departmental and Branch Accounts",
-   "html": "\n<h4>1. Departmental Accounts</h4>\n<p>Prepared to show the profitability of each department so that unprofitable lines can be identified. Direct items (sales, purchases, stocks, departmental wages) are charged directly; joint expenses are apportioned on a fair basis:</p>\n<table class=\"tb-table\">\n  <tr><th>Expense</th><th>Basis of apportionment</th></tr>\n  <tr><td>Rent, rates, building insurance, cleaning</td><td>Floor area occupied</td></tr>\n  <tr><td>Lighting</td><td>Floor area or number of light points</td></tr>\n  <tr><td>Depreciation and insurance of assets</td><td>Value of assets in each department</td></tr>\n  <tr><td>Carriage inwards</td><td>Purchases of each department</td></tr>\n  <tr><td>Carriage outwards, discount allowed, bad debts</td><td>Sales of each department</td></tr>\n  <tr><td>Canteen, welfare, supervision</td><td>Number of employees</td></tr>\n  <tr><td>Power</td><td>Machine hours or horsepower</td></tr>\n</table>\n\n<h4>2. Branch Accounts</h4>\n<p>Where the head office keeps the books for a dependent branch, two main methods are used:</p>\n<ol>\n  <li><b>Goods sent at cost</b> - a Branch Stock Account and Branch Profit and Loss are maintained; profit is the normal trading result.</li>\n  <li><b>Goods sent at selling price</b> - a Branch Stock Account (at selling price) and a Branch Mark-up (Adjustment) Account are kept. The mark-up account controls the loading; shortages, surpluses, normal losses and mark-downs are adjusted through it, and the balance represents the loading on closing stock.</li>\n</ol>\n<p>Goods sent to branch are credited to a Goods Sent to Branch Account, which is transferred (net of loading) to the trading account.</p>\n\n<h4>3. Consignment Accounts</h4>\n<p>A <b>consignor</b> sends goods to an agent (<b>consignee</b>) to sell on his behalf. Ownership does not pass until the goods are sold, so goods on consignment are not a sale by the consignor at the time of despatch.</p>\n<ul>\n  <li>The consignee renders an <b>Account Sales</b> showing gross proceeds, expenses paid, commission and the net remittance.</li>\n  <li><b>Ordinary commission</b> is on total sales; <b>del credere commission</b> is extra payment for guaranteeing payment by credit customers, so the consignee bears the bad debts.</li>\n  <li>Unsold stock on consignment is valued at cost plus a proportionate share of <b>non-recurring expenses</b> (freight, carriage, insurance in transit, loading), but not selling expenses.</li>\n</ul>\n",
-   "examples": [
-    {
-     "q": "Rent of N1,200,000 is apportioned between Department A (300 sq m) and Department B (100 sq m). Compute each share and state the basis.",
-     "a": "The basis is floor area, total 400 sq m. Department A = \\( \\dfrac{300}{400} \\times 1,200,000 = N900,000 \\); Department B = \\( \\dfrac{100}{400} \\times 1,200,000 = N300,000 \\)."
+      "title": "Departmental and Branch Accounts",
+      "html": "\n<h4>1. Departmental Accounts</h4>\n<p>Prepared to show the profitability of each department so that unprofitable lines can be identified. Direct items (sales, purchases, stocks, departmental wages) are charged directly; joint expenses are apportioned on a fair basis:</p>\n<table class=\"tb-table\">\n  <tr><th>Expense</th><th>Basis of apportionment</th></tr>\n  <tr><td>Rent, rates, building insurance, cleaning</td><td>Floor area occupied</td></tr>\n  <tr><td>Lighting</td><td>Floor area or number of light points</td></tr>\n  <tr><td>Depreciation and insurance of assets</td><td>Value of assets in each department</td></tr>\n  <tr><td>Carriage inwards</td><td>Purchases of each department</td></tr>\n  <tr><td>Carriage outwards, discount allowed, bad debts</td><td>Sales of each department</td></tr>\n  <tr><td>Canteen, welfare, supervision</td><td>Number of employees</td></tr>\n  <tr><td>Power</td><td>Machine hours or horsepower</td></tr>\n</table>\n\n<h4>2. Branch Accounts</h4>\n<p>Where the head office keeps the books for a dependent branch, two main methods are used:</p>\n<ol>\n  <li><b>Goods sent at cost</b> - a Branch Stock Account and Branch Profit and Loss are maintained; profit is the normal trading result.</li>\n  <li><b>Goods sent at selling price</b> - a Branch Stock Account (at selling price) and a Branch Mark-up (Adjustment) Account are kept. The mark-up account controls the loading; shortages, surpluses, normal losses and mark-downs are adjusted through it, and the balance represents the loading on closing stock.</li>\n</ol>\n<p>Goods sent to branch are credited to a Goods Sent to Branch Account, which is transferred (net of loading) to the trading account.</p>\n\n<h4>3. Consignment Accounts</h4>\n<p>A <b>consignor</b> sends goods to an agent (<b>consignee</b>) to sell on his behalf. Ownership does not pass until the goods are sold, so goods on consignment are not a sale by the consignor at the time of despatch.</p>\n<ul>\n  <li>The consignee renders an <b>Account Sales</b> showing gross proceeds, expenses paid, commission and the net remittance.</li>\n  <li><b>Ordinary commission</b> is on total sales; <b>del credere commission</b> is extra payment for guaranteeing payment by credit customers, so the consignee bears the bad debts.</li>\n  <li>Unsold stock on consignment is valued at cost plus a proportionate share of <b>non-recurring expenses</b> (freight, carriage, insurance in transit, loading), but not selling expenses.</li>\n</ul>\n",
+      "examples": [
+        {
+          "q": "Rent of N1,200,000 is apportioned between Department A (300 sq m) and Department B (100 sq m). Compute each share and state the basis.",
+          "a": "The basis is floor area, total 400 sq m. Department A = \\( \\dfrac{300}{400} \\times 1,200,000 = N900,000 \\); Department B = \\( \\dfrac{100}{400} \\times 1,200,000 = N300,000 \\)."
+        },
+        {
+          "q": "Ojo consigned 500 bags of cement costing N4,000 each to Musa, paying freight and insurance of N150,000. Musa sold 400 bags at N6,000 each, incurred selling expenses of N60,000 and is entitled to 5% commission. Compute profit on consignment and the value of unsold stock.",
+          "a": "Cost of goods sent = 500 x 4,000 = N2,000,000. Sales = 400 x 6,000 = N2,400,000. Commission = 5% x 2,400,000 = N120,000. Unsold stock = 100 bags: cost 100 x 4,000 = 400,000 plus share of non-recurring expenses \\( \\dfrac{100}{500} \\times 150,000 = 30,000 \\), giving N430,000. Consignment profit = 2,400,000 - (2,000,000 + 150,000 + 60,000 + 120,000) + 430,000 = N500,000."
+        }
+      ]
     },
     {
-     "q": "Ojo consigned 500 bags of cement costing N4,000 each to Musa, paying freight and insurance of N150,000. Musa sold 400 bags at N6,000 each, incurred selling expenses of N60,000 and is entitled to 5% commission. Compute profit on consignment and the value of unsold stock.",
-     "a": "Cost of goods sent = 500 x 4,000 = N2,000,000. Sales = 400 x 6,000 = N2,400,000. Commission = 5% x 2,400,000 = N120,000. Unsold stock = 100 bags: cost 100 x 4,000 = 400,000 plus share of non-recurring expenses \\( \\dfrac{100}{500} \\times 150,000 = 30,000 \\), giving N430,000. Consignment profit = 2,400,000 - (2,000,000 + 150,000 + 60,000 + 120,000) + 430,000 = N500,000."
+      "title": "Prime cost, factory overheads and cost of production",
+      "html": "<p><b>Prime cost, factory overheads and cost of production</b> is a key part of Industrial and Organizational Accounts (SSS 3, Financial Accounting). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Purpose A manufacturer converts raw materials into finished goods, so an extra statement - the Manufacturing Account - is prepared before the Trading Account to find the cost of goods produced.</li><li>Elements of Cost Direct materials - raw materials consumed: opening raw material stock + purchases + carriage inwards - returns - closing raw material stock.</li><li>Direct expenses - royalties per unit, hire of a special machine, cost of special designs.</li><li>Factory (indirect) overheads - factory rent, power, depreciation of plant, supervisors' salaries, factory insurance, indirect materials.</li><li>$$ \\text{Prime Cost} = \\text{Direct Materials} + \\text{Direct Labour} + \\text{Direct Expenses} $$ $$ \\text{Cost of Production} = \\text{Prime Cost} + \\text{Factory Overheads} + \\text{Opening WIP} - \\text{Closing WIP} $$ 3.</li></ul><h4>Worked example</h4><p><b>Q:</b> Prime cost is:<br/><b>A:</b> Direct materials + direct labour + direct expenses \u2014 Prime cost is the total of all direct costs of production.</p><p><b>Q:</b> Factory rent is classified as:<br/><b>A:</b> A factory overhead \u2014 It cannot be traced to a specific unit, so it is an indirect factory (production) overhead.</p>",
+      "examples": [
+        {
+          "q": "Prime cost is:",
+          "a": "Direct materials + direct labour + direct expenses \u2014 Prime cost is the total of all direct costs of production."
+        },
+        {
+          "q": "Factory rent is classified as:",
+          "a": "A factory overhead \u2014 It cannot be traced to a specific unit, so it is an indirect factory (production) overhead."
+        }
+      ]
+    },
+    {
+      "title": "Work-in-progress and manufacturing profit",
+      "html": "<p><b>Work-in-progress and manufacturing profit</b> is a key part of Industrial and Organizational Accounts (SSS 3, Financial Accounting). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Purpose A manufacturer converts raw materials into finished goods, so an extra statement - the Manufacturing Account - is prepared before the Trading Account to find the cost of goods produced.</li><li>Direct labour - wages of workers physically making the product.</li><li>Specimen Manufacturing Account for the year ended 31 December N Opening stock of raw materials 400,000 Add Purchases of raw materials + carriage inwards 3,100,000 Less Closing stock of raw materials (500,000) Cost of raw materials consumed 3,000,000 Add Direct wages 1,400,000 Add Direct expenses (royalties) 100,000 Prime cost 4,500,000 Add Factory overheads 1,250,000 Add Opening work-in-progress 300,000 Less Closing work-in-progress (250,000) Cost of production (transferred to Trading A/c) 5,800,000 Where goods are transferred to the trading account at a mark-up above cost, the difference is manufacturing profit , and any unrealised profit in closing finished stock must be provided for.</li><li>Departmental Accounts Prepared to show the profitability of each department so that unprofitable lines can be identified.</li><li>Branch Accounts Where the head office keeps the books for a dependent branch, two main methods are used: Goods sent at cost - a Branch Stock Account and Branch Profit and Loss are maintained; profit is the normal trading result.</li></ul><h4>Worked example</h4><p><b>Q:</b> Closing work-in-progress is:<br/><b>A:</b> Deducted in the manufacturing account \u2014 Unfinished units at the year end are deducted so only the cost of goods completed is transferred.</p><p><b>Q:</b> Cost of production N2,000,000 transferred at cost plus 20%. Manufacturing profit is:<br/><b>A:</b> N400,000 \u2014 20% of N2,000,000 = N400,000.</p>",
+      "examples": [
+        {
+          "q": "Closing work-in-progress is:",
+          "a": "Deducted in the manufacturing account \u2014 Unfinished units at the year end are deducted so only the cost of goods completed is transferred."
+        },
+        {
+          "q": "Cost of production N2,000,000 transferred at cost plus 20%. Manufacturing profit is:",
+          "a": "N400,000 \u2014 20% of N2,000,000 = N400,000."
+        }
+      ]
+    },
+    {
+      "title": "Branch accounts: goods sent at cost and at selling price",
+      "html": "<p><b>Branch accounts: goods sent at cost and at selling price</b> is a key part of Industrial and Organizational Accounts (SSS 3, Financial Accounting). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Purpose A manufacturer converts raw materials into finished goods, so an extra statement - the Manufacturing Account - is prepared before the Trading Account to find the cost of goods produced.</li><li>Elements of Cost Direct materials - raw materials consumed: opening raw material stock + purchases + carriage inwards - returns - closing raw material stock.</li><li>Direct expenses - royalties per unit, hire of a special machine, cost of special designs.</li><li>$$ \\text{Prime Cost} = \\text{Direct Materials} + \\text{Direct Labour} + \\text{Direct Expenses} $$ $$ \\text{Cost of Production} = \\text{Prime Cost} + \\text{Factory Overheads} + \\text{Opening WIP} - \\text{Closing WIP} $$ 3.</li><li>Specimen Manufacturing Account for the year ended 31 December N Opening stock of raw materials 400,000 Add Purchases of raw materials + carriage inwards 3,100,000 Less Closing stock of raw materials (500,000) Cost of raw materials consumed 3,000,000 Add Direct wages 1,400,000 Add Direct expenses (royalties) 100,000 Prime cost 4,500,000 Add Factory overheads 1,250,000 Add Opening work-in-progress 300,000 Less Closing work-in-progress (250,000) Cost of production (transferred to Trading A/c) 5,800,000 Where goods are transferred to the trading account at a mark-up above cost, the difference is manufacturing profit , and any unrealised profit in closing finished stock must be provided for.</li></ul><h4>Worked example</h4><p><b>Q:</b> Prime cost is:<br/><b>A:</b> Direct materials + direct labour + direct expenses \u2014 Prime cost is the total of all direct costs of production.</p><p><b>Q:</b> Closing work-in-progress is:<br/><b>A:</b> Deducted in the manufacturing account \u2014 Unfinished units at the year end are deducted so only the cost of goods completed is transferred.</p>",
+      "examples": [
+        {
+          "q": "Prime cost is:",
+          "a": "Direct materials + direct labour + direct expenses \u2014 Prime cost is the total of all direct costs of production."
+        },
+        {
+          "q": "Closing work-in-progress is:",
+          "a": "Deducted in the manufacturing account \u2014 Unfinished units at the year end are deducted so only the cost of goods completed is transferred."
+        }
+      ]
+    },
+    {
+      "title": "Consignment accounts: consignor, consignee and commission",
+      "html": "<p><b>Consignment accounts: consignor, consignee and commission</b> is a key part of Industrial and Organizational Accounts (SSS 3, Financial Accounting). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Departmental Accounts Prepared to show the profitability of each department so that unprofitable lines can be identified.</li><li>Branch Accounts Where the head office keeps the books for a dependent branch, two main methods are used: Goods sent at cost - a Branch Stock Account and Branch Profit and Loss are maintained; profit is the normal trading result.</li><li>Consignment Accounts A consignor sends goods to an agent ( consignee ) to sell on his behalf.</li><li>Ownership does not pass until the goods are sold, so goods on consignment are not a sale by the consignor at the time of despatch.</li><li>The consignee renders an Account Sales showing gross proceeds, expenses paid, commission and the net remittance.</li></ul><h4>Worked example</h4><p><b>Q:</b> In consignment, the person who sends the goods is the:<br/><b>A:</b> Consignor \u2014 The consignor owns the goods and sends them to the consignee for sale.</p><p><b>Q:</b> Del credere commission is paid to the consignee for:<br/><b>A:</b> Bearing the risk of bad debts \u2014 The del credere agent guarantees payment by credit customers and so bears bad debt losses.</p>",
+      "examples": [
+        {
+          "q": "In consignment, the person who sends the goods is the:",
+          "a": "Consignor \u2014 The consignor owns the goods and sends them to the consignee for sale."
+        },
+        {
+          "q": "Del credere commission is paid to the consignee for:",
+          "a": "Bearing the risk of bad debts \u2014 The del credere agent guarantees payment by credit customers and so bears bad debt losses."
+        }
+      ]
     }
-   ]
-  }
- ],
- "quiz": [
-  {
-   "q": "Prime cost is:",
-   "options": [
-    "Direct materials + direct labour + direct expenses",
-    "Prime cost + overheads",
-    "Total factory cost - WIP",
-    "Cost of sales"
-   ],
-   "answer": "0",
-   "solution": "Prime cost is the total of all direct costs of production."
-  },
-  {
-   "q": "Factory rent is classified as:",
-   "options": [
-    "A direct expense",
-    "A factory overhead",
-    "An administrative expense",
-    "A selling expense"
-   ],
-   "answer": "1",
-   "solution": "It cannot be traced to a specific unit, so it is an indirect factory (production) overhead."
-  },
-  {
-   "q": "Closing work-in-progress is:",
-   "options": [
-    "Added in the manufacturing account",
-    "Deducted in the manufacturing account",
-    "Added in the trading account",
-    "Ignored"
-   ],
-   "answer": "1",
-   "solution": "Unfinished units at the year end are deducted so only the cost of goods completed is transferred."
-  },
-  {
-   "q": "Direct materials N1,500,000, direct wages N800,000, direct expenses N50,000. Prime cost is:",
-   "options": [
-    "N2,300,000",
-    "N2,350,000",
-    "N1,550,000",
-    "N850,000"
-   ],
-   "answer": "1",
-   "solution": "1,500,000 + 800,000 + 50,000 = N2,350,000."
-  },
-  {
-   "q": "Cost of production is transferred to the:",
-   "options": [
-    "Balance sheet",
-    "Trading account",
-    "Appropriation account",
-    "Manufacturing overhead account"
-   ],
-   "answer": "1",
-   "solution": "It replaces purchases in the trading account of a manufacturer."
-  },
-  {
-   "q": "Carriage inwards on raw materials is:",
-   "options": [
-    "A selling expense",
-    "Added to raw material purchases",
-    "A factory overhead only",
-    "Deducted from prime cost"
-   ],
-   "answer": "1",
-   "solution": "It is part of the cost of acquiring raw materials."
-  },
-  {
-   "q": "Rent is best apportioned between departments on the basis of:",
-   "options": [
-    "Sales",
-    "Number of employees",
-    "Floor area",
-    "Purchases"
-   ],
-   "answer": "2",
-   "solution": "Rent relates to occupation of space, so floor area is the fairest basis."
-  },
-  {
-   "q": "Bad debts are apportioned to departments on the basis of:",
-   "options": [
-    "Floor area",
-    "Sales",
-    "Machine hours",
-    "Asset values"
-   ],
-   "answer": "1",
-   "solution": "Bad debts arise from credit sales, so departmental sales is the appropriate basis."
-  },
-  {
-   "q": "In consignment, the person who sends the goods is the:",
-   "options": [
-    "Consignee",
-    "Consignor",
-    "Agent",
-    "Del credere agent"
-   ],
-   "answer": "1",
-   "solution": "The consignor owns the goods and sends them to the consignee for sale."
-  },
-  {
-   "q": "Del credere commission is paid to the consignee for:",
-   "options": [
-    "Selling quickly",
-    "Bearing the risk of bad debts",
-    "Paying freight",
-    "Storing goods"
-   ],
-   "answer": "1",
-   "solution": "The del credere agent guarantees payment by credit customers and so bears bad debt losses."
-  },
-  {
-   "q": "Unsold consignment stock is valued at:",
-   "options": [
-    "Selling price",
-    "Cost only",
-    "Cost plus proportionate non-recurring expenses",
-    "Cost plus commission"
-   ],
-   "answer": "2",
-   "solution": "Non-recurring (direct) expenses such as freight are included, but selling expenses are not."
-  },
-  {
-   "q": "Goods sent to branch at selling price require a:",
-   "options": [
-    "Suspense account",
-    "Branch mark-up (adjustment) account",
-    "Revaluation account",
-    "Realisation account"
-   ],
-   "answer": "1",
-   "solution": "The branch mark-up account records the loading and is adjusted for shortages, surpluses and mark-downs."
-  },
-  {
-   "q": "Cost of production N2,000,000 transferred at cost plus 20%. Manufacturing profit is:",
-   "options": [
-    "N200,000",
-    "N400,000",
-    "N333,333",
-    "N500,000"
-   ],
-   "answer": "1",
-   "solution": "20% of N2,000,000 = N400,000."
-  },
-  {
-   "q": "An account sales is prepared by the:",
-   "options": [
-    "Consignor",
-    "Consignee",
-    "Auditor",
-    "Branch manager"
-   ],
-   "answer": "1",
-   "solution": "The consignee sends the account sales to the consignor showing proceeds, expenses, commission and remittance."
-  },
-  {
-   "q": "Depreciation of factory plant appears in the:",
-   "options": [
-    "Profit and loss account",
-    "Manufacturing account as an overhead",
-    "Trading account",
-    "Balance sheet only"
-   ],
-   "answer": "1",
-   "solution": "Plant used in production gives a factory overhead charged in the manufacturing account."
-  },
-  {
-   "q": "The main purpose of departmental accounts is to:",
-   "options": [
-    "Satisfy the tax authority",
-    "Show the profitability of each department",
-    "Value goodwill",
-    "Prepare a trial balance"
-   ],
-   "answer": "1",
-   "solution": "Separating results by department reveals which lines are profitable and guides management decisions."
-  }
- ]
+  ],
+  "quiz": [
+    {
+      "q": "Prime cost is:",
+      "options": [
+        "Direct materials + direct labour + direct expenses",
+        "Prime cost + overheads",
+        "Total factory cost - WIP",
+        "Cost of sales"
+      ],
+      "answer": 0,
+      "solution": "Prime cost is the total of all direct costs of production.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Factory rent is classified as:",
+      "options": [
+        "A direct expense",
+        "A factory overhead",
+        "An administrative expense",
+        "A selling expense"
+      ],
+      "answer": 1,
+      "solution": "It cannot be traced to a specific unit, so it is an indirect factory (production) overhead.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Closing work-in-progress is:",
+      "options": [
+        "Added in the manufacturing account",
+        "Deducted in the manufacturing account",
+        "Added in the trading account",
+        "Ignored"
+      ],
+      "answer": 1,
+      "solution": "Unfinished units at the year end are deducted so only the cost of goods completed is transferred.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Direct materials N1,500,000, direct wages N800,000, direct expenses N50,000. Prime cost is:",
+      "options": [
+        "N2,300,000",
+        "N2,350,000",
+        "N1,550,000",
+        "N850,000"
+      ],
+      "answer": 1,
+      "solution": "1,500,000 + 800,000 + 50,000 = N2,350,000.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Cost of production is transferred to the:",
+      "options": [
+        "Balance sheet",
+        "Trading account",
+        "Appropriation account",
+        "Manufacturing overhead account"
+      ],
+      "answer": 1,
+      "solution": "It replaces purchases in the trading account of a manufacturer.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Carriage inwards on raw materials is:",
+      "options": [
+        "A selling expense",
+        "Added to raw material purchases",
+        "A factory overhead only",
+        "Deducted from prime cost"
+      ],
+      "answer": 1,
+      "solution": "It is part of the cost of acquiring raw materials.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Rent is best apportioned between departments on the basis of:",
+      "options": [
+        "Sales",
+        "Number of employees",
+        "Floor area",
+        "Purchases"
+      ],
+      "answer": 2,
+      "solution": "Rent relates to occupation of space, so floor area is the fairest basis.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Bad debts are apportioned to departments on the basis of:",
+      "options": [
+        "Floor area",
+        "Sales",
+        "Machine hours",
+        "Asset values"
+      ],
+      "answer": 1,
+      "solution": "Bad debts arise from credit sales, so departmental sales is the appropriate basis.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In consignment, the person who sends the goods is the:",
+      "options": [
+        "Consignee",
+        "Consignor",
+        "Agent",
+        "Del credere agent"
+      ],
+      "answer": 1,
+      "solution": "The consignor owns the goods and sends them to the consignee for sale.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Del credere commission is paid to the consignee for:",
+      "options": [
+        "Selling quickly",
+        "Bearing the risk of bad debts",
+        "Paying freight",
+        "Storing goods"
+      ],
+      "answer": 1,
+      "solution": "The del credere agent guarantees payment by credit customers and so bears bad debt losses.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Unsold consignment stock is valued at:",
+      "options": [
+        "Selling price",
+        "Cost only",
+        "Cost plus proportionate non-recurring expenses",
+        "Cost plus commission"
+      ],
+      "answer": 2,
+      "solution": "Non-recurring (direct) expenses such as freight are included, but selling expenses are not.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Goods sent to branch at selling price require a:",
+      "options": [
+        "Suspense account",
+        "Branch mark-up (adjustment) account",
+        "Revaluation account",
+        "Realisation account"
+      ],
+      "answer": 1,
+      "solution": "The branch mark-up account records the loading and is adjusted for shortages, surpluses and mark-downs.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Cost of production N2,000,000 transferred at cost plus 20%. Manufacturing profit is:",
+      "options": [
+        "N200,000",
+        "N400,000",
+        "N333,333",
+        "N500,000"
+      ],
+      "answer": 1,
+      "solution": "20% of N2,000,000 = N400,000.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "An account sales is prepared by the:",
+      "options": [
+        "Consignor",
+        "Consignee",
+        "Auditor",
+        "Branch manager"
+      ],
+      "answer": 1,
+      "solution": "The consignee sends the account sales to the consignor showing proceeds, expenses, commission and remittance.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Depreciation of factory plant appears in the:",
+      "options": [
+        "Profit and loss account",
+        "Manufacturing account as an overhead",
+        "Trading account",
+        "Balance sheet only"
+      ],
+      "answer": 1,
+      "solution": "Plant used in production gives a factory overhead charged in the manufacturing account.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The main purpose of departmental accounts is to:",
+      "options": [
+        "Satisfy the tax authority",
+        "Show the profitability of each department",
+        "Value goodwill",
+        "Prepare a trial balance"
+      ],
+      "answer": 1,
+      "solution": "Separating results by department reveals which lines are profitable and guides management decisions.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Goods sent to branch at cost means?",
+      "options": [
+        "High profit added",
+        "No profit added",
+        "Goods are free",
+        "Fake prices"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: No profit added.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "If Cost is N80 and Mark-up is 25%, Selling Price is:",
+      "options": [
+        "N90",
+        "N100",
+        "N120",
+        "N110"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: N100.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Cost N100, Margin 20%, Selling Price is:",
+      "options": [
+        "125",
+        "120",
+        "80",
+        "100"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: 125.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "\"Prime Cost\" in manufacturing includes?",
+      "options": [
+        "Factory overheads",
+        "Administration costs",
+        "Direct materials + Direct labor",
+        "Sales commission"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Direct materials + Direct labor.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Prime cost is the sum of _____.",
+      "options": [
+        "Direct materials and direct labour",
+        "Direct materials, direct labour and direct expenses",
+        "Factory overheads and direct labour",
+        "Cost of goods sold and expenses"
+      ],
+      "answer": 1,
+      "solution": "Prime cost consists of all direct costs involved in the manufacturing of a product.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The document sent by a supplier to a buyer when goods are returned as being faulty is a _____.",
+      "options": [
+        "Debit note",
+        "Credit note",
+        "Receipt",
+        "Invoice"
+      ],
+      "answer": 1,
+      "solution": "A credit note is issued by a seller to a buyer to reduce the amount the buyer owes, typically due to returns or overcharges.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Prime cost consists of _____.",
+      "options": [
+        "Direct materials + Direct labour",
+        "Direct materials + Direct labour + Direct expenses",
+        "Direct materials + Factory overheads",
+        "Manufacturing cost + Selling expenses"
+      ],
+      "answer": 1,
+      "solution": "Prime cost is the sum of all direct manufacturing costs. Direct expenses (like royalties) are included along with materials and labour.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Prime Cost:",
+      "options": [
+        "$$ Direct Materials + Direct Labor $$",
+        "$$ Factory Overhead $$",
+        "$$ Selling Exp $$",
+        "$$ Admin Exp $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$ Direct Materials + Direct Labor $$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Prime cost consists of direct materials, direct labor and...",
+      "options": [
+        "Factory overheads",
+        "Administrative expenses",
+        "Direct expenses",
+        "Selling expenses"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Direct expenses.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Prime Cost includes:",
+      "options": [
+        "$$ Direct Mat + Direct Lab + Direct Exp $$",
+        "$$ Factory Overheads $$",
+        "$$ Selling Expenses $$",
+        "$$ Admin Expenses $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ Direct Mat + Direct Lab + Direct Exp $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Work in Progress:",
+      "options": [
+        "Unfinished goods",
+        "Finished",
+        "Raw materials",
+        "Sold"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Unfinished goods.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Cost of Goods Sold = ?",
+      "options": [
+        "Sales - Profit",
+        "Purchases + Expenses",
+        "Opening Stock + Purchases - Closing Stock",
+        "Opening Stock - Closing Stock"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Opening Stock + Purchases - Closing Stock.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Work-in-Progress refers to?",
+      "options": [
+        "Partly finished goods",
+        "Raw materials",
+        "Finished goods",
+        "Office supplies"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Partly finished goods.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Factory Overheads include?",
+      "options": [
+        "Salesman salary",
+        "Office rent",
+        "Indirect factory costs",
+        "Direct wages"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Indirect factory costs.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "In Joint Ventures, the participants are called?",
+      "options": [
+        "Partners",
+        "Co-venturers",
+        "Shareholders",
+        "Directors"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Co-venturers.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Apportionment of expenses means?",
+      "options": [
+        "Paying cash",
+        "Selling stock",
+        "Dividing costs between departments",
+        "Lending money"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Dividing costs between departments.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The document sent by a supplier to a customer showing an overcharge on a previous invoice is a _____.",
+      "options": [
+        "Credit note",
+        "Debit note",
+        "Payment voucher",
+        "Waybill"
+      ],
+      "answer": 0,
+      "solution": "A credit note is issued to reduce the amount the customer owes, used for returns or overcharges.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "When a partner retires, the profit on revaluation of assets is credited to _____.",
+      "options": [
+        "Remaining partners only",
+        "Retiring partner only",
+        "All partners in their old profit sharing ratio",
+        "New partners only"
+      ],
+      "answer": 2,
+      "solution": "Revaluation gains belong to all partners who were in the firm when the asset value changed, shared according to their existing ratios.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Cost of raw materials consumed is calculated as _____.",
+      "options": [
+        "Opening stock of raw materials + Purchases - Closing stock of raw materials",
+        "Opening stock of finished goods + Purchases - Closing stock",
+        "Direct labour + Factory overheads",
+        "Sales - Gross profit"
+      ],
+      "answer": 0,
+      "solution": "This is the standard formula in a Manufacturing Account to determine the value of materials actually used in production.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following will result in a higher Gross Profit?",
+      "options": [
+        "Increase in Closing Stock",
+        "Increase in Opening Stock",
+        "Increase in Purchases",
+        "Decrease in Sales"
+      ],
+      "answer": 0,
+      "solution": "Closing stock is subtracted from the cost of goods available for sale. A higher closing stock reduces the COGS and thus increases Gross Profit.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a factory overhead?",
+      "options": [
+        "Direct raw materials",
+        "Factory rent",
+        "Salesman's commission",
+        "Office manager's salary"
+      ],
+      "answer": 1,
+      "solution": "Factory overheads are indirect manufacturing costs. Factory rent relates to the production area but cannot be traced to a single unit.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "When a partner retires, the profit on the revaluation of assets is credited to _____.",
+      "options": [
+        "Remaining partners only",
+        "Retiring partner only",
+        "All partners in their old profit-sharing ratio",
+        "New partners only"
+      ],
+      "answer": 2,
+      "solution": "Revaluation relates to the time when all partners were in the firm, so any gain or loss belongs to all partners according to their existing ratio.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following will result in an increase in Gross Profit?",
+      "options": [
+        "Reduction in Closing Stock",
+        "Increase in Sales Returns",
+        "Reduction in Carriage Inwards",
+        "Increase in Purchases"
+      ],
+      "answer": 2,
+      "solution": "Carriage inwards increases the cost of sales. Reducing it lowers the cost of goods sold, thereby increasing the gross profit.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The document sent by a seller to a buyer to correct an undercharge is:",
+      "options": [
+        "Credit Note",
+        "Debit Note",
+        "Invoice",
+        "Receipt"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Debit Note.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Gross Profit is calculated as:",
+      "options": [
+        "$$ Sales - Purchases $$",
+        "$$ Sales - Cost of Goods Sold $$",
+        "$$ Net Profit + Expenses $$",
+        "$$ Assets - Liabilities $$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ Sales - Cost of Goods Sold $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "In manufacturing, WIP stands for:",
+      "options": [
+        "Work In Progress",
+        "Work In Process",
+        "Work In Production",
+        "Work In Planning"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Work In Progress.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Mark-up is profit expressed as a percentage of:",
+      "options": [
+        "Sales",
+        "Cost Price",
+        "Turnover",
+        "Expenses"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Cost Price.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Margin is profit expressed as a percentage of:",
+      "options": [
+        "Cost Price",
+        "Selling Price",
+        "Assets",
+        "Capital"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Selling Price.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Factory Overhead includes:",
+      "options": [
+        "Direct Material",
+        "Direct Labor",
+        "Factory Rent & Power",
+        "Office Salaries"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: Factory Rent & Power.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Goods withdrawn by the owner for personal use are credited to:",
+      "options": [
+        "Sales account",
+        "Drawings account",
+        "Purchases account",
+        "Capital account"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Purchases account.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "When shares are issued at a price higher than face value, it is issued at:",
+      "options": [
+        "Par",
+        "Discount",
+        "Premium",
+        "Loss"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Premium.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Debit Note is sent by:",
+      "options": [
+        "Buyer to Seller (return)",
+        "Seller to Buyer (undercharge)",
+        "Bank to Customer",
+        "Customer to Bank"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Buyer to Seller (return).",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Gross Profit:",
+      "options": [
+        "$$ Sales - COGS $$",
+        "$$ Sales - Expenses $$",
+        "$$ Assets - Liab $$",
+        "$$ Capital + Profit $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$ Sales - COGS $$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Net Profit:",
+      "options": [
+        "$$ Gross Profit - Expenses $$",
+        "$$ Sales - COGS $$",
+        "$$ Assets - Liab $$",
+        "$$ Sales + Stock $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$ Gross Profit - Expenses $$.",
+      "source": "JAMB 2023",
+      "practice": false
+    }
+  ]
 }

@@ -1,223 +1,753 @@
 {
- "subject": "Financial Accounting",
- "level": "SSS 3",
- "slug": "government-accounting",
- "title": "Government Accounting",
- "outline": [
-  "Meaning, objectives and characteristics of government accounting",
-  "Bases of accounting: cash, accrual and commitment",
-  "Sources of government revenue at federal, state and local levels",
-  "Capital and recurrent expenditure; the Consolidated Revenue Fund",
-  "The budget, warrants and the appropriation process",
-  "Officers and instruments of public sector financial control",
-  "Comparison between public sector and private sector accounting"
- ],
- "modules": [
-  {
-   "title": "Nature, Objectives and Bases of Government Accounting",
-   "html": "\n<h4>1. Meaning</h4>\n<p>Government accounting is the process of recording, analysing, classifying, summarising, communicating and interpreting financial information about government in aggregate and in detail, reflecting all transactions involving the receipt, transfer and disposition of public funds and property.</p>\n\n<h4>2. Objectives</h4>\n<ol>\n  <li>To demonstrate the legality of transactions and their conformity with the Appropriation Act.</li>\n  <li>To provide evidence of accountability and stewardship for public funds.</li>\n  <li>To disclose the results of the custody and management of public money.</li>\n  <li>To provide information for planning, budgeting and control.</li>\n  <li>To help evaluate the economy, efficiency and effectiveness of government programmes.</li>\n</ol>\n\n<h4>3. Bases of Accounting</h4>\n<table class=\"tb-table\">\n  <tr><th>Basis</th><th>Recognition rule</th><th>Comment</th></tr>\n  <tr><td>Cash basis</td><td>Revenue when received, expenditure when paid</td><td>Simple, objective; the traditional Nigerian public sector basis</td></tr>\n  <tr><td>Accrual basis</td><td>Revenue when earned, expenditure when incurred</td><td>Shows assets and liabilities; adopted under IPSAS accrual</td></tr>\n  <tr><td>Commitment basis</td><td>Expenditure recognised when an order is placed</td><td>Guards against over-spending a vote</td></tr>\n  <tr><td>Modified cash / modified accrual</td><td>Cash basis extended for a short period after year end, or accrual excluding fixed assets</td><td>Practical compromises</td></tr>\n</table>\n<p>Nigeria has adopted <b>IPSAS</b> (International Public Sector Accounting Standards), moving from cash basis to accrual basis reporting.</p>\n\n<h4>4. Distinctive Characteristics</h4>\n<ul>\n  <li>Emphasis on legal compliance rather than profit measurement.</li>\n  <li>Use of <b>fund accounting</b> - money is kept in distinct funds for specified purposes.</li>\n  <li>Budget is a legal authority, not merely a plan.</li>\n  <li>Fixed assets historically expensed rather than capitalised under the cash basis.</li>\n</ul>\n",
-   "examples": [
+  "subject": "Financial Accounting",
+  "level": "SSS 3",
+  "slug": "government-accounting",
+  "title": "Government Accounting",
+  "outline": [
+    "Meaning, objectives and characteristics of government accounting",
+    "Bases of accounting: cash, accrual and commitment",
+    "Sources of government revenue at federal, state and local levels",
+    "Capital and recurrent expenditure; the Consolidated Revenue Fund",
+    "The budget, warrants and the appropriation process",
+    "Officers and instruments of public sector financial control",
+    "Comparison between public sector and private sector accounting"
+  ],
+  "modules": [
     {
-     "q": "State three differences between public sector and private sector accounting.",
-     "a": "(i) Objective: government accounting aims at accountability and legal compliance, while private sector accounting aims at measuring profit and financial position. (ii) Basis: the public sector traditionally uses the cash (now moving to IPSAS accrual) basis whereas businesses use the accrual basis throughout. (iii) Ownership and regulation: government funds belong to the public and are regulated by the Constitution, the Finance (Control and Management) Act and the Appropriation Act, while companies are governed by CAMA and IFRS. Others: government uses fund accounting and a legally binding budget, and prepares no profit and loss account or dividend."
+      "title": "Nature, Objectives and Bases of Government Accounting",
+      "html": "\n<h4>1. Meaning</h4>\n<p>Government accounting is the process of recording, analysing, classifying, summarising, communicating and interpreting financial information about government in aggregate and in detail, reflecting all transactions involving the receipt, transfer and disposition of public funds and property.</p>\n\n<h4>2. Objectives</h4>\n<ol>\n  <li>To demonstrate the legality of transactions and their conformity with the Appropriation Act.</li>\n  <li>To provide evidence of accountability and stewardship for public funds.</li>\n  <li>To disclose the results of the custody and management of public money.</li>\n  <li>To provide information for planning, budgeting and control.</li>\n  <li>To help evaluate the economy, efficiency and effectiveness of government programmes.</li>\n</ol>\n\n<h4>3. Bases of Accounting</h4>\n<table class=\"tb-table\">\n  <tr><th>Basis</th><th>Recognition rule</th><th>Comment</th></tr>\n  <tr><td>Cash basis</td><td>Revenue when received, expenditure when paid</td><td>Simple, objective; the traditional Nigerian public sector basis</td></tr>\n  <tr><td>Accrual basis</td><td>Revenue when earned, expenditure when incurred</td><td>Shows assets and liabilities; adopted under IPSAS accrual</td></tr>\n  <tr><td>Commitment basis</td><td>Expenditure recognised when an order is placed</td><td>Guards against over-spending a vote</td></tr>\n  <tr><td>Modified cash / modified accrual</td><td>Cash basis extended for a short period after year end, or accrual excluding fixed assets</td><td>Practical compromises</td></tr>\n</table>\n<p>Nigeria has adopted <b>IPSAS</b> (International Public Sector Accounting Standards), moving from cash basis to accrual basis reporting.</p>\n\n<h4>4. Distinctive Characteristics</h4>\n<ul>\n  <li>Emphasis on legal compliance rather than profit measurement.</li>\n  <li>Use of <b>fund accounting</b> - money is kept in distinct funds for specified purposes.</li>\n  <li>Budget is a legal authority, not merely a plan.</li>\n  <li>Fixed assets historically expensed rather than capitalised under the cash basis.</li>\n</ul>\n",
+      "examples": [
+        {
+          "q": "State three differences between public sector and private sector accounting.",
+          "a": "(i) Objective: government accounting aims at accountability and legal compliance, while private sector accounting aims at measuring profit and financial position. (ii) Basis: the public sector traditionally uses the cash (now moving to IPSAS accrual) basis whereas businesses use the accrual basis throughout. (iii) Ownership and regulation: government funds belong to the public and are regulated by the Constitution, the Finance (Control and Management) Act and the Appropriation Act, while companies are governed by CAMA and IFRS. Others: government uses fund accounting and a legally binding budget, and prepares no profit and loss account or dividend."
+        },
+        {
+          "q": "Explain the commitment basis and give one advantage and one disadvantage.",
+          "a": "Under the commitment basis, expenditure is recorded as soon as a local purchase order or contract commits the government, before payment is made. Advantage: it prevents a ministry from exceeding its vote because unpaid commitments already reduce the available balance. Disadvantage: it can overstate expenditure for the year if commitments are later cancelled, and it requires additional records and adjustments at year end."
+        }
+      ]
     },
     {
-     "q": "Explain the commitment basis and give one advantage and one disadvantage.",
-     "a": "Under the commitment basis, expenditure is recorded as soon as a local purchase order or contract commits the government, before payment is made. Advantage: it prevents a ministry from exceeding its vote because unpaid commitments already reduce the available balance. Disadvantage: it can overstate expenditure for the year if commitments are later cancelled, and it requires additional records and adjustments at year end."
-    }
-   ]
-  },
-  {
-   "title": "Revenue, Expenditure and Public Funds",
-   "html": "\n<h4>1. Sources of Federal Government Revenue</h4>\n<ul>\n  <li>Petroleum profit tax, royalties and crude oil sales.</li>\n  <li>Companies income tax, value added tax, capital gains tax, education tax.</li>\n  <li>Customs and excise duties.</li>\n  <li>Licences, fees, fines, earnings from government enterprises, rents on government property.</li>\n  <li>Internal and external loans, grants and aid.</li>\n</ul>\n<h4>2. State and Local Government Revenue</h4>\n<p><b>State:</b> statutory allocation from the Federation Account, personal income tax (PAYE), pools betting and gaming taxes, road taxes, stamp duties on individuals, internally generated revenue, and grants.<br/>\n<b>Local government:</b> statutory allocation, tenement rates, shop and kiosk rates, market and motor park levies, birth/death and marriage registration fees, radio and television licences, and bicycle/cart permits.</p>\n\n<h4>3. Classification of Expenditure</h4>\n<table class=\"tb-table\">\n  <tr><th>Recurrent expenditure</th><th>Capital expenditure</th></tr>\n  <tr><td>Salaries, wages and allowances</td><td>Construction of roads, bridges, schools</td></tr>\n  <tr><td>Pensions and gratuities</td><td>Purchase of vehicles, plant and machinery</td></tr>\n  <tr><td>Maintenance, utilities, stationery</td><td>Acquisition of land and buildings</td></tr>\n  <tr><td>Debt servicing (interest)</td><td>Repayment of loan principal, equity investment</td></tr>\n</table>\n\n<h4>4. Public Funds</h4>\n<ul>\n  <li><b>Consolidated Revenue Fund (CRF)</b> - the main fund into which all federal revenue is paid; withdrawals require appropriation by the National Assembly.</li>\n  <li><b>Development (Capital) Fund</b> - finances capital projects.</li>\n  <li><b>Contingencies Fund</b> - meets urgent and unforeseen expenditure.</li>\n  <li><b>Federation Account</b> - shared among the three tiers of government under an approved revenue allocation formula.</li>\n</ul>\n\n<h4>5. Budget and Financial Control</h4>\n<p>The budget passes through preparation by ministries, consolidation by the Budget Office, presentation by the President, debate and passage as the <b>Appropriation Act</b>, then execution and reporting. Spending is released through <b>warrants</b> (Annual General Warrant, Provisional General Warrant, Supplementary Warrant, Reserve Expenditure Warrant, Virement Warrant).</p>\n<p><b>Officers and instruments:</b> the Accountant-General of the Federation (custodian of accounts and treasury), the Auditor-General for the Federation (independent audit and report to the Public Accounts Committee), the Minister of Finance, Accounting Officers (Permanent Secretaries), the Financial Regulations, Treasury and Finance Circulars, the Public Accounts Committee, and the Fiscal Responsibility Act. A <b>vote book</b> records commitments and payments against each budget head and subhead to prevent over-expenditure.</p>\n",
-   "examples": [
-    {
-     "q": "Classify the following as capital or recurrent expenditure: (i) salaries of teachers; (ii) construction of a bridge; (iii) purchase of textbooks for a ministry library; (iv) interest on a foreign loan; (v) repayment of the principal of a loan.",
-     "a": "(i) Recurrent - regular operating cost. (ii) Capital - creates a long-lasting asset. (iii) Recurrent - consumable running cost (unless part of a capital project). (iv) Recurrent - debt servicing is a running cost. (v) Capital - repayment of principal reduces liability and is charged to the capital/development fund."
+      "title": "Revenue, Expenditure and Public Funds",
+      "html": "\n<h4>1. Sources of Federal Government Revenue</h4>\n<ul>\n  <li>Petroleum profit tax, royalties and crude oil sales.</li>\n  <li>Companies income tax, value added tax, capital gains tax, education tax.</li>\n  <li>Customs and excise duties.</li>\n  <li>Licences, fees, fines, earnings from government enterprises, rents on government property.</li>\n  <li>Internal and external loans, grants and aid.</li>\n</ul>\n<h4>2. State and Local Government Revenue</h4>\n<p><b>State:</b> statutory allocation from the Federation Account, personal income tax (PAYE), pools betting and gaming taxes, road taxes, stamp duties on individuals, internally generated revenue, and grants.<br/>\n<b>Local government:</b> statutory allocation, tenement rates, shop and kiosk rates, market and motor park levies, birth/death and marriage registration fees, radio and television licences, and bicycle/cart permits.</p>\n\n<h4>3. Classification of Expenditure</h4>\n<table class=\"tb-table\">\n  <tr><th>Recurrent expenditure</th><th>Capital expenditure</th></tr>\n  <tr><td>Salaries, wages and allowances</td><td>Construction of roads, bridges, schools</td></tr>\n  <tr><td>Pensions and gratuities</td><td>Purchase of vehicles, plant and machinery</td></tr>\n  <tr><td>Maintenance, utilities, stationery</td><td>Acquisition of land and buildings</td></tr>\n  <tr><td>Debt servicing (interest)</td><td>Repayment of loan principal, equity investment</td></tr>\n</table>\n\n<h4>4. Public Funds</h4>\n<ul>\n  <li><b>Consolidated Revenue Fund (CRF)</b> - the main fund into which all federal revenue is paid; withdrawals require appropriation by the National Assembly.</li>\n  <li><b>Development (Capital) Fund</b> - finances capital projects.</li>\n  <li><b>Contingencies Fund</b> - meets urgent and unforeseen expenditure.</li>\n  <li><b>Federation Account</b> - shared among the three tiers of government under an approved revenue allocation formula.</li>\n</ul>\n\n<h4>5. Budget and Financial Control</h4>\n<p>The budget passes through preparation by ministries, consolidation by the Budget Office, presentation by the President, debate and passage as the <b>Appropriation Act</b>, then execution and reporting. Spending is released through <b>warrants</b> (Annual General Warrant, Provisional General Warrant, Supplementary Warrant, Reserve Expenditure Warrant, Virement Warrant).</p>\n<p><b>Officers and instruments:</b> the Accountant-General of the Federation (custodian of accounts and treasury), the Auditor-General for the Federation (independent audit and report to the Public Accounts Committee), the Minister of Finance, Accounting Officers (Permanent Secretaries), the Financial Regulations, Treasury and Finance Circulars, the Public Accounts Committee, and the Fiscal Responsibility Act. A <b>vote book</b> records commitments and payments against each budget head and subhead to prevent over-expenditure.</p>\n",
+      "examples": [
+        {
+          "q": "Classify the following as capital or recurrent expenditure: (i) salaries of teachers; (ii) construction of a bridge; (iii) purchase of textbooks for a ministry library; (iv) interest on a foreign loan; (v) repayment of the principal of a loan.",
+          "a": "(i) Recurrent - regular operating cost. (ii) Capital - creates a long-lasting asset. (iii) Recurrent - consumable running cost (unless part of a capital project). (iv) Recurrent - debt servicing is a running cost. (v) Capital - repayment of principal reduces liability and is charged to the capital/development fund."
+        },
+        {
+          "q": "What is the Consolidated Revenue Fund and how may money be withdrawn from it?",
+          "a": "The Consolidated Revenue Fund is the principal fund of the Federal Government into which all revenues and receipts are paid, except those payable into another fund established by law. No money may be withdrawn from it except to meet expenditure charged upon the fund by the Constitution (e.g. the salaries of judges and the Auditor-General) or where the withdrawal has been authorised by an Appropriation Act, a Supplementary Appropriation Act, or a law passed by the National Assembly, and the withdrawal must be made in the manner prescribed by the National Assembly."
+        }
+      ]
     },
     {
-     "q": "What is the Consolidated Revenue Fund and how may money be withdrawn from it?",
-     "a": "The Consolidated Revenue Fund is the principal fund of the Federal Government into which all revenues and receipts are paid, except those payable into another fund established by law. No money may be withdrawn from it except to meet expenditure charged upon the fund by the Constitution (e.g. the salaries of judges and the Auditor-General) or where the withdrawal has been authorised by an Appropriation Act, a Supplementary Appropriation Act, or a law passed by the National Assembly, and the withdrawal must be made in the manner prescribed by the National Assembly."
+      "title": "Bases of accounting: cash, accrual and commitment",
+      "html": "<p><b>Bases of accounting: cash, accrual and commitment</b> is a key part of Government Accounting (SSS 3, Financial Accounting). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Government accounting is the process of recording, analysing, classifying, summarising, communicating and interpreting financial information about government in aggregate and in detail, reflecting all transactions involving the receipt, transfer and disposition of public funds and property.</li><li>Bases of Accounting Basis Recognition rule Comment Cash basis Revenue when received, expenditure when paid Simple, objective; the traditional Nigerian public sector basis Accrual basis Revenue when earned, expenditure when incurred Shows assets and liabilities; adopted under IPSAS accrual Commitment basis Expenditure recognised when an order is placed Guards against over-spending a vote Modified cash / modified accrual Cash basis extended for a short period after year end, or accrual excluding fixed assets Practical compromises Nigeria has adopted IPSAS (International Public Sector Accounting Standards), moving from cash basis to accrual basis reporting.</li><li>Use of fund accounting - money is kept in distinct funds for specified purposes.</li><li>Fixed assets historically expensed rather than capitalised under the cash basis.</li><li>Officers and instruments: the Accountant-General of the Federation (custodian of accounts and treasury), the Auditor-General for the Federation (independent audit and report to the Public Accounts Committee), the Minister of Finance, Accounting Officers (Permanent Secretaries), the Financial Regulations, Treasury and Finance Circulars, the Public Accounts Committee, and the Fiscal Responsibility Act.</li></ul><h4>Worked example</h4><p><b>Q:</b> Government accounting is chiefly concerned with:<br/><b>A:</b> Accountability for public funds \u2014 Public sector accounting emphasises stewardship, legality and accountability rather than profit.</p><p><b>Q:</b> Under the cash basis, revenue is recognised when:<br/><b>A:</b> Received \u2014 The cash basis records revenue only on actual receipt and expenditure only on payment.</p>",
+      "examples": [
+        {
+          "q": "Government accounting is chiefly concerned with:",
+          "a": "Accountability for public funds \u2014 Public sector accounting emphasises stewardship, legality and accountability rather than profit."
+        },
+        {
+          "q": "Under the cash basis, revenue is recognised when:",
+          "a": "Received \u2014 The cash basis records revenue only on actual receipt and expenditure only on payment."
+        }
+      ]
+    },
+    {
+      "title": "Sources of government revenue at federal, state and local levels",
+      "html": "<p><b>Sources of government revenue at federal, state and local levels</b> is a key part of Government Accounting (SSS 3, Financial Accounting). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Government accounting is the process of recording, analysing, classifying, summarising, communicating and interpreting financial information about government in aggregate and in detail, reflecting all transactions involving the receipt, transfer and disposition of public funds and property.</li><li>To help evaluate the economy, efficiency and effectiveness of government programmes.</li><li>Bases of Accounting Basis Recognition rule Comment Cash basis Revenue when received, expenditure when paid Simple, objective; the traditional Nigerian public sector basis Accrual basis Revenue when earned, expenditure when incurred Shows assets and liabilities; adopted under IPSAS accrual Commitment basis Expenditure recognised when an order is placed Guards against over-spending a vote Modified cash / modified accrual Cash basis extended for a short period after year end, or accrual excluding fixed assets Practical compromises Nigeria has adopted IPSAS (International Public Sector Accounting Standards), moving from cash basis to accrual basis reporting.</li><li>Sources of Federal Government Revenue Petroleum profit tax, royalties and crude oil sales.</li><li>Licences, fees, fines, earnings from government enterprises, rents on government property.</li></ul><h4>Worked example</h4><p><b>Q:</b> Government accounting is chiefly concerned with:<br/><b>A:</b> Accountability for public funds \u2014 Public sector accounting emphasises stewardship, legality and accountability rather than profit.</p><p><b>Q:</b> Under the cash basis, revenue is recognised when:<br/><b>A:</b> Received \u2014 The cash basis records revenue only on actual receipt and expenditure only on payment.</p>",
+      "examples": [
+        {
+          "q": "Government accounting is chiefly concerned with:",
+          "a": "Accountability for public funds \u2014 Public sector accounting emphasises stewardship, legality and accountability rather than profit."
+        },
+        {
+          "q": "Under the cash basis, revenue is recognised when:",
+          "a": "Received \u2014 The cash basis records revenue only on actual receipt and expenditure only on payment."
+        }
+      ]
+    },
+    {
+      "title": "Capital and recurrent expenditure; the Consolidated Revenue Fund",
+      "html": "<p><b>Capital and recurrent expenditure; the Consolidated Revenue Fund</b> is a key part of Government Accounting (SSS 3, Financial Accounting). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Government accounting is the process of recording, analysing, classifying, summarising, communicating and interpreting financial information about government in aggregate and in detail, reflecting all transactions involving the receipt, transfer and disposition of public funds and property.</li><li>To provide evidence of accountability and stewardship for public funds.</li><li>Bases of Accounting Basis Recognition rule Comment Cash basis Revenue when received, expenditure when paid Simple, objective; the traditional Nigerian public sector basis Accrual basis Revenue when earned, expenditure when incurred Shows assets and liabilities; adopted under IPSAS accrual Commitment basis Expenditure recognised when an order is placed Guards against over-spending a vote Modified cash / modified accrual Cash basis extended for a short period after year end, or accrual excluding fixed assets Practical compromises Nigeria has adopted IPSAS (International Public Sector Accounting Standards), moving from cash basis to accrual basis reporting.</li><li>Use of fund accounting - money is kept in distinct funds for specified purposes.</li><li>Fixed assets historically expensed rather than capitalised under the cash basis.</li></ul><h4>Worked example</h4><p><b>Q:</b> Under the cash basis, revenue is recognised when:<br/><b>A:</b> Received \u2014 The cash basis records revenue only on actual receipt and expenditure only on payment.</p><p><b>Q:</b> The basis that records expenditure once a purchase order is issued is the:<br/><b>A:</b> Commitment basis \u2014 Commitment accounting charges the vote as soon as the government is committed, preventing over-spending.</p>",
+      "examples": [
+        {
+          "q": "Under the cash basis, revenue is recognised when:",
+          "a": "Received \u2014 The cash basis records revenue only on actual receipt and expenditure only on payment."
+        },
+        {
+          "q": "The basis that records expenditure once a purchase order is issued is the:",
+          "a": "Commitment basis \u2014 Commitment accounting charges the vote as soon as the government is committed, preventing over-spending."
+        }
+      ]
+    },
+    {
+      "title": "The budget, warrants and the appropriation process",
+      "html": "<p><b>The budget, warrants and the appropriation process</b> is a key part of Government Accounting (SSS 3, Financial Accounting). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Government accounting is the process of recording, analysing, classifying, summarising, communicating and interpreting financial information about government in aggregate and in detail, reflecting all transactions involving the receipt, transfer and disposition of public funds and property.</li><li>Objectives To demonstrate the legality of transactions and their conformity with the Appropriation Act.</li><li>To provide information for planning, budgeting and control.</li><li>Budget is a legal authority, not merely a plan.</li><li>Public Funds Consolidated Revenue Fund (CRF) - the main fund into which all federal revenue is paid; withdrawals require appropriation by the National Assembly.</li></ul><h4>Worked example</h4><p><b>Q:</b> Money for urgent and unforeseen expenditure is drawn from the:<br/><b>A:</b> Contingencies Fund \u2014 The Contingencies Fund exists for urgent, unforeseen needs pending supplementary appropriation.</p><p><b>Q:</b> The Appropriation Act:<br/><b>A:</b> Authorises expenditure from public funds \u2014 It is the legal authority for spending the amounts contained in the budget.</p>",
+      "examples": [
+        {
+          "q": "Money for urgent and unforeseen expenditure is drawn from the:",
+          "a": "Contingencies Fund \u2014 The Contingencies Fund exists for urgent, unforeseen needs pending supplementary appropriation."
+        },
+        {
+          "q": "The Appropriation Act:",
+          "a": "Authorises expenditure from public funds \u2014 It is the legal authority for spending the amounts contained in the budget."
+        }
+      ]
     }
-   ]
-  }
- ],
- "quiz": [
-  {
-   "q": "Government accounting is chiefly concerned with:",
-   "options": [
-    "Profit maximisation",
-    "Accountability for public funds",
-    "Dividend payment",
-    "Valuation of goodwill"
-   ],
-   "answer": "1",
-   "solution": "Public sector accounting emphasises stewardship, legality and accountability rather than profit."
-  },
-  {
-   "q": "Under the cash basis, revenue is recognised when:",
-   "options": [
-    "Earned",
-    "Received",
-    "Invoiced",
-    "Committed"
-   ],
-   "answer": "1",
-   "solution": "The cash basis records revenue only on actual receipt and expenditure only on payment."
-  },
-  {
-   "q": "The basis that records expenditure once a purchase order is issued is the:",
-   "options": [
-    "Cash basis",
-    "Accrual basis",
-    "Commitment basis",
-    "Modified cash basis"
-   ],
-   "answer": "2",
-   "solution": "Commitment accounting charges the vote as soon as the government is committed, preventing over-spending."
-  },
-  {
-   "q": "Which is a source of local government revenue?",
-   "options": [
-    "Petroleum profit tax",
-    "Tenement rates",
-    "Companies income tax",
-    "Customs duties"
-   ],
-   "answer": "1",
-   "solution": "Tenement rates on property are a classic local government levy; the others are federal taxes."
-  },
-  {
-   "q": "The fund into which all federal revenue is paid is the:",
-   "options": [
-    "Contingencies Fund",
-    "Development Fund",
-    "Consolidated Revenue Fund",
-    "Sinking Fund"
-   ],
-   "answer": "2",
-   "solution": "The Consolidated Revenue Fund is the main receptacle for federal receipts."
-  },
-  {
-   "q": "Money for urgent and unforeseen expenditure is drawn from the:",
-   "options": [
-    "Development Fund",
-    "Contingencies Fund",
-    "Federation Account",
-    "Consolidated Revenue Fund"
-   ],
-   "answer": "1",
-   "solution": "The Contingencies Fund exists for urgent, unforeseen needs pending supplementary appropriation."
-  },
-  {
-   "q": "Construction of a new hospital is:",
-   "options": [
-    "Recurrent expenditure",
-    "Capital expenditure",
-    "Debt servicing",
-    "A transfer payment"
-   ],
-   "answer": "1",
-   "solution": "It creates a long-lived asset and is charged to capital."
-  },
-  {
-   "q": "The officer responsible for auditing government accounts is the:",
-   "options": [
-    "Accountant-General",
-    "Auditor-General",
-    "Minister of Finance",
-    "Permanent Secretary"
-   ],
-   "answer": "1",
-   "solution": "The Auditor-General independently audits public accounts and reports to the National Assembly."
-  },
-  {
-   "q": "The Appropriation Act:",
-   "options": [
-    "Fixes tax rates only",
-    "Authorises expenditure from public funds",
-    "Appoints ministers",
-    "Creates local governments"
-   ],
-   "answer": "1",
-   "solution": "It is the legal authority for spending the amounts contained in the budget."
-  },
-  {
-   "q": "A virement warrant permits:",
-   "options": [
-    "New borrowing",
-    "Transfer of funds from one subhead to another",
-    "Payment of salaries",
-    "Creation of a new fund"
-   ],
-   "answer": "1",
-   "solution": "Virement reallocates approved funds between subheads without increasing the total vote."
-  },
-  {
-   "q": "Companies income tax is collected by:",
-   "options": [
-    "Local governments",
-    "State boards of internal revenue",
-    "The Federal Inland Revenue Service",
-    "The Central Bank"
-   ],
-   "answer": "2",
-   "solution": "FIRS collects federal taxes such as companies income tax, VAT and petroleum profit tax."
-  },
-  {
-   "q": "Personal income tax of individuals resident in a state is collected by:",
-   "options": [
-    "FIRS",
-    "The State Board of Internal Revenue",
-    "Local government",
-    "Customs"
-   ],
-   "answer": "1",
-   "solution": "PAYE and other personal income taxes of residents accrue to the state government (except armed forces, police and FCT residents)."
-  },
-  {
-   "q": "Government accounting differs from commercial accounting because it uses:",
-   "options": [
-    "Double entry",
-    "Fund accounting",
-    "A trial balance",
-    "A ledger"
-   ],
-   "answer": "1",
-   "solution": "Public funds are segregated into distinct funds for specified purposes; double entry and ledgers are used by both."
-  },
-  {
-   "q": "The vote book is maintained to:",
-   "options": [
-    "Record voter registration",
-    "Control expenditure against approved budget heads",
-    "Value fixed assets",
-    "List creditors"
-   ],
-   "answer": "1",
-   "solution": "It shows the amount voted, commitments made and payments, so that no head is over-spent."
-  },
-  {
-   "q": "IPSAS stands for:",
-   "options": [
-    "International Public Sector Accounting Standards",
-    "Internal Public Service Audit Standards",
-    "Integrated Public Spending Allocation System",
-    "International Private Sector Accounting Statement"
-   ],
-   "answer": "0",
-   "solution": "IPSAS are the standards adopted by Nigerian governments for public sector financial reporting."
-  },
-  {
-   "q": "Which of these is charged directly on the Consolidated Revenue Fund without annual appropriation?",
-   "options": [
-    "Ministry stationery",
-    "Salary of the Auditor-General",
-    "Purchase of vehicles",
-    "Road construction"
-   ],
-   "answer": "1",
-   "solution": "Constitutionally protected salaries, such as those of the Auditor-General and judicial officers, are statutory charges on the CRF."
-  }
- ]
+  ],
+  "quiz": [
+    {
+      "q": "Government accounting is chiefly concerned with:",
+      "options": [
+        "Profit maximisation",
+        "Accountability for public funds",
+        "Dividend payment",
+        "Valuation of goodwill"
+      ],
+      "answer": 1,
+      "solution": "Public sector accounting emphasises stewardship, legality and accountability rather than profit.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Under the cash basis, revenue is recognised when:",
+      "options": [
+        "Earned",
+        "Received",
+        "Invoiced",
+        "Committed"
+      ],
+      "answer": 1,
+      "solution": "The cash basis records revenue only on actual receipt and expenditure only on payment.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The basis that records expenditure once a purchase order is issued is the:",
+      "options": [
+        "Cash basis",
+        "Accrual basis",
+        "Commitment basis",
+        "Modified cash basis"
+      ],
+      "answer": 2,
+      "solution": "Commitment accounting charges the vote as soon as the government is committed, preventing over-spending.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which is a source of local government revenue?",
+      "options": [
+        "Petroleum profit tax",
+        "Tenement rates",
+        "Companies income tax",
+        "Customs duties"
+      ],
+      "answer": 1,
+      "solution": "Tenement rates on property are a classic local government levy; the others are federal taxes.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The fund into which all federal revenue is paid is the:",
+      "options": [
+        "Contingencies Fund",
+        "Development Fund",
+        "Consolidated Revenue Fund",
+        "Sinking Fund"
+      ],
+      "answer": 2,
+      "solution": "The Consolidated Revenue Fund is the main receptacle for federal receipts.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Money for urgent and unforeseen expenditure is drawn from the:",
+      "options": [
+        "Development Fund",
+        "Contingencies Fund",
+        "Federation Account",
+        "Consolidated Revenue Fund"
+      ],
+      "answer": 1,
+      "solution": "The Contingencies Fund exists for urgent, unforeseen needs pending supplementary appropriation.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Construction of a new hospital is:",
+      "options": [
+        "Recurrent expenditure",
+        "Capital expenditure",
+        "Debt servicing",
+        "A transfer payment"
+      ],
+      "answer": 1,
+      "solution": "It creates a long-lived asset and is charged to capital.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The officer responsible for auditing government accounts is the:",
+      "options": [
+        "Accountant-General",
+        "Auditor-General",
+        "Minister of Finance",
+        "Permanent Secretary"
+      ],
+      "answer": 1,
+      "solution": "The Auditor-General independently audits public accounts and reports to the National Assembly.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The Appropriation Act:",
+      "options": [
+        "Fixes tax rates only",
+        "Authorises expenditure from public funds",
+        "Appoints ministers",
+        "Creates local governments"
+      ],
+      "answer": 1,
+      "solution": "It is the legal authority for spending the amounts contained in the budget.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A virement warrant permits:",
+      "options": [
+        "New borrowing",
+        "Transfer of funds from one subhead to another",
+        "Payment of salaries",
+        "Creation of a new fund"
+      ],
+      "answer": 1,
+      "solution": "Virement reallocates approved funds between subheads without increasing the total vote.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Companies income tax is collected by:",
+      "options": [
+        "Local governments",
+        "State boards of internal revenue",
+        "The Federal Inland Revenue Service",
+        "The Central Bank"
+      ],
+      "answer": 2,
+      "solution": "FIRS collects federal taxes such as companies income tax, VAT and petroleum profit tax.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Personal income tax of individuals resident in a state is collected by:",
+      "options": [
+        "FIRS",
+        "The State Board of Internal Revenue",
+        "Local government",
+        "Customs"
+      ],
+      "answer": 1,
+      "solution": "PAYE and other personal income taxes of residents accrue to the state government (except armed forces, police and FCT residents).",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Government accounting differs from commercial accounting because it uses:",
+      "options": [
+        "Double entry",
+        "Fund accounting",
+        "A trial balance",
+        "A ledger"
+      ],
+      "answer": 1,
+      "solution": "Public funds are segregated into distinct funds for specified purposes; double entry and ledgers are used by both.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The vote book is maintained to:",
+      "options": [
+        "Record voter registration",
+        "Control expenditure against approved budget heads",
+        "Value fixed assets",
+        "List creditors"
+      ],
+      "answer": 1,
+      "solution": "It shows the amount voted, commitments made and payments, so that no head is over-spent.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "IPSAS stands for:",
+      "options": [
+        "International Public Sector Accounting Standards",
+        "Internal Public Service Audit Standards",
+        "Integrated Public Spending Allocation System",
+        "International Private Sector Accounting Statement"
+      ],
+      "answer": 0,
+      "solution": "IPSAS are the standards adopted by Nigerian governments for public sector financial reporting.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of these is charged directly on the Consolidated Revenue Fund without annual appropriation?",
+      "options": [
+        "Ministry stationery",
+        "Salary of the Auditor-General",
+        "Purchase of vehicles",
+        "Road construction"
+      ],
+      "answer": 1,
+      "solution": "Constitutionally protected salaries, such as those of the Auditor-General and judicial officers, are statutory charges on the CRF.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a source of revenue for the government?",
+      "options": [
+        "Grants to local governments",
+        "Payment of civil servants' salaries",
+        "Direct and indirect taxes",
+        "Construction of roads"
+      ],
+      "answer": 2,
+      "solution": "Taxes (CIT, PIT, VAT, etc.) are the primary means by which a government generates income to fund public expenditure.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a source of government revenue?",
+      "options": [
+        "Grants to schools",
+        "Direct and Indirect taxes",
+        "Construction of roads",
+        "Payment of salaries"
+      ],
+      "answer": 1,
+      "solution": "Taxes (CIT, VAT, etc.) are the primary means through which the government generates revenue for public expenditure.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following describes 'Consolidated Revenue Fund'?",
+      "options": [
+        "Money set aside for debt",
+        "A fund where all government revenues are paid",
+        "Profit from a company",
+        "A reserve for partners"
+      ],
+      "answer": 1,
+      "solution": "In Nigerian public finance, all revenues received by the Federation (unless otherwise directed) must be paid into the CRF.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The Consolidated Revenue Fund (CRF) is?",
+      "options": [
+        "A small bank",
+        "Government's main account",
+        "A personal account",
+        "A loan"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Government's main account.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "In a limited liability company, the part of authorized capital that has been offered to the public for subscription is _____.",
+      "options": [
+        "Paid-up capital",
+        "Issued capital",
+        "Called-up capital",
+        "Reserve capital"
+      ],
+      "answer": 1,
+      "solution": "Issued capital is the portion of authorized (nominal) capital that the company has actually sent out for investors to buy.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "In a limited liability company, the part of authorized capital that has been taken up by the public is _____.",
+      "options": [
+        "Paid-up capital",
+        "Issued capital",
+        "Reserve capital",
+        "Nominal capital"
+      ],
+      "answer": 1,
+      "solution": "Issued capital is the portion of authorized capital that the directors have decided to offer to the public for subscription.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Revenue Expenditure is charged to:",
+      "options": [
+        "Balance Sheet",
+        "P & L Account",
+        "Cash Book",
+        "Capital Account"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: P & L Account.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Consolidated Fund is associated with:",
+      "options": [
+        "Partnership",
+        "Public Sector",
+        "Sole Trader",
+        "Company"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Public Sector.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Revenue Expenditure:",
+      "options": [
+        "Day to day expenses",
+        "Buying land",
+        "Buying machines",
+        "Building extension"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Day to day expenses.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Public Sector Acc:",
+      "options": [
+        "Government",
+        "Company",
+        "Partnership",
+        "Sole"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Government.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Consolidated Fund:",
+      "options": [
+        "Govt Revenue",
+        "Petty cash",
+        "Private",
+        "Reserve"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Govt Revenue.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Capital Expenditure creates?",
+      "options": [
+        "Expenses",
+        "Losses",
+        "Sales",
+        "Fixed Assets"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Fixed Assets.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Revenue Expenditure is for?",
+      "options": [
+        "Day-to-day running",
+        "Buying land",
+        "Buying a factory",
+        "Starting a business"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Day-to-day running.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is the correct entry for recording a cash discount allowed to a customer?",
+      "options": [
+        "Debit: Discount Received; Credit: Customer's Account",
+        "Debit: Customer's Account; Credit: Discount Allowed",
+        "Debit: Discount Allowed; Credit: Customer's Account",
+        "Debit: Cash; Credit: Discount Allowed"
+      ],
+      "answer": 2,
+      "solution": "Discount Allowed is an expense. To record it, you debit the expense account (Discount Allowed) and credit the personal account of the customer.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The reward for a partner for providing capital to the firm is _____.",
+      "options": [
+        "Interest on drawings",
+        "Share of profit",
+        "Interest on capital",
+        "Commission"
+      ],
+      "answer": 2,
+      "solution": "Interest on capital is an appropriation of profit designed to compensate partners for the amount of capital they have invested in the partnership.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The document showing the financial position of a business at a specific date is the _____.",
+      "options": [
+        "Income Statement",
+        "Balance Sheet",
+        "Cash Flow Statement",
+        "Trial Balance"
+      ],
+      "answer": 1,
+      "solution": "The Balance Sheet (Statement of Financial Position) lists assets, liabilities, and capital to show what a business is worth at a specific point in time.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Authorized capital is also known as _____.",
+      "options": [
+        "Issued capital",
+        "Nominal capital",
+        "Paid-up capital",
+        "Working capital"
+      ],
+      "answer": 1,
+      "solution": "Nominal or registered capital is the maximum amount of share capital a company is legally allowed to issue.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following describes a 'Capital Reserve'?",
+      "options": [
+        "Profit from normal trading activities",
+        "Profit set aside for dividends",
+        "Profit from the sale of a fixed asset",
+        "Money set aside for paying wages"
+      ],
+      "answer": 2,
+      "solution": "Capital reserves are created from non-trading activities, such as the profit on sale of non-current assets or revaluation of assets.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Working Capital is defined as _____.",
+      "options": [
+        "Total Assets - Total Liabilities",
+        "Fixed Assets - Current Liabilities",
+        "Current Assets - Current Liabilities",
+        "Capital + Long-term Loans"
+      ],
+      "answer": 2,
+      "solution": "Working capital measures the short-term liquidity of a business, indicating its ability to pay off debts due within a year.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The process of transferring transactions from the journals to the ledger is known as _____.",
+      "options": [
+        "Balancing",
+        "Totaling",
+        "Posting",
+        "Summarizing"
+      ],
+      "answer": 2,
+      "solution": "Posting is the technical term for transferring entries from the books of original entry (journals) to the principal book of accounts (the ledger).",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The petty cash system where the petty cashier is given a fixed sum at the start of a period is the _____ system.",
+      "options": [
+        "Floating",
+        "Imprest",
+        "Fixed",
+        "Direct"
+      ],
+      "answer": 1,
+      "solution": "In the Imprest system, the petty cashier starts with a float and is reimbursed exactly what was spent at the end of the period.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "What is the correct entry for recording a cash purchase of goods?",
+      "options": [
+        "Debit: Cash; Credit: Purchases",
+        "Debit: Purchases; Credit: Cash",
+        "Debit: Suppliers; Credit: Cash",
+        "Debit: Cash; Credit: Sales"
+      ],
+      "answer": 1,
+      "solution": "Purchases (an expense) increase on the debit side, and Cash (an asset) decreases on the credit side.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Authorized Capital is:",
+      "options": [
+        "Capital paid up",
+        "Maximum capital allowed to issue",
+        "Capital called up",
+        "Capital reserved"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Maximum capital allowed to issue.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Authorized share capital is:",
+      "options": [
+        "Capital paid up",
+        "Maximum capital a company can issue",
+        "Capital called up",
+        "Capital reserved"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Maximum capital a company can issue.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Working Capital:",
+      "options": [
+        "$$ CA - CL $$",
+        "$$ CA + CL $$",
+        "$$ FA - CL $$",
+        "$$ FA + CA $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$ CA - CL $$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Authorized Capital:",
+      "options": [
+        "Registered maximum",
+        "Paid up",
+        "Called up",
+        "Issued"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Registered maximum.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Three column cash book has:",
+      "options": [
+        "Cash, Bank, Discount",
+        "Cash, Sales, Purchases",
+        "Bank, Debtors, Creditors",
+        "Cash, Stock, Capital"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Cash, Bank, Discount.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "In a partnership, interest on capital is...",
+      "options": [
+        "An expense to the partners",
+        "An income to the firm",
+        "An appropriation of profit",
+        "A liability to the bank"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: An appropriation of profit.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Revenue is recognized as soon as goods are sold or services are rendered. This is based on...",
+      "options": [
+        "Accrual concept",
+        "Realization concept",
+        "Consistency concept",
+        "Dual aspect"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Realization concept.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The petty cash system where the petty cashier is given a fixed sum at the beginning of a period is...",
+      "options": [
+        "Imprest system",
+        "Float system",
+        "Control system",
+        "Accrual system"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: Imprest system.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Working Capital is calculated as...",
+      "options": [
+        "Current Assets + Current Liabilities",
+        "Current Assets - Current Liabilities",
+        "Fixed Assets - Current Assets",
+        "Total Assets - Capital"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Current Assets - Current Liabilities.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The document issued by a company to invite the public to subscribe for shares is the...",
+      "options": [
+        "Certificate of Incorporation",
+        "Prospectus",
+        "Articles of Association",
+        "Dividend warrant"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Prospectus.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The capital of a company is divided into small units called...",
+      "options": [
+        "Funds",
+        "Stocks",
+        "Shares",
+        "Bonds"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Shares.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A statement showing the financial position of a business at a particular date is the...",
+      "options": [
+        "Profit and Loss Account",
+        "Trading Account",
+        "Balance Sheet",
+        "Trial Balance"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Balance Sheet.",
+      "source": "JAMB 2024",
+      "practice": false
+    }
+  ]
 }

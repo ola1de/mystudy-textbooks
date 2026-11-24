@@ -1,0 +1,737 @@
+{
+  "subject": "Computer Studies",
+  "level": "SSS 2",
+  "slug": "spreadsheets",
+  "title": "Spreadsheets",
+  "outline": [
+    "Introduction to Spreadsheets",
+    "Key facts about Spreadsheets",
+    "Important terms and examples in Spreadsheets",
+    "Importance and application of Spreadsheets",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Spreadsheets",
+      "html": "<p>Cells, formulas, functions and charts in a spreadsheet. This section covers introduction to spreadsheets.</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of spreadsheets.</li><li>Be able to explain spreadsheets in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The shortcut key to 'Paste' a copied item in Windows is _____.<br/><b>A:</b> Ctrl + V \u2014 Ctrl + V is the standard Windows keyboard shortcut for pasting data from the clipboard.</p><p><b>Q:</b> Spreadsheet application example:<br/><b>A:</b> Excel \u2014 Past question (JAMB 2021). Correct answer: Excel.</p>",
+      "examples": [
+        {
+          "q": "The shortcut key to 'Paste' a copied item in Windows is _____.",
+          "a": "Ctrl + V"
+        },
+        {
+          "q": "Spreadsheet application example:",
+          "a": "Excel"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Spreadsheets",
+      "html": "<p>Cells, formulas, functions and charts in a spreadsheet. This section covers key facts about spreadsheets.</p><h4>Key points</h4><ul><li>The shortcut key to 'Paste' a copied item in Windows is _____. \u2014 Ctrl + V.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The shortcut key to 'Paste' a copied item in Windows is _____.<br/><b>A:</b> Ctrl + V \u2014 Ctrl + V is the standard Windows keyboard shortcut for pasting data from the clipboard.</p><p><b>Q:</b> Spreadsheet application example:<br/><b>A:</b> Excel \u2014 Past question (JAMB 2021). Correct answer: Excel.</p><h4>More key points</h4><ul><li>The shortcut key to 'Paste' a copied item in Windows is _____. \u2014 Ctrl + V.</li></ul>",
+      "examples": [
+        {
+          "q": "The shortcut key to 'Paste' a copied item in Windows is _____.",
+          "a": "Ctrl + V"
+        },
+        {
+          "q": "Spreadsheet application example:",
+          "a": "Excel"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Spreadsheets",
+      "html": "<p>Cells, formulas, functions and charts in a spreadsheet. This section covers important terms and examples in spreadsheets.</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of spreadsheets.</li><li>Be able to explain spreadsheets in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The shortcut key to 'Paste' a copied item in Windows is _____.<br/><b>A:</b> Ctrl + V \u2014 Ctrl + V is the standard Windows keyboard shortcut for pasting data from the clipboard.</p><p><b>Q:</b> Spreadsheet application example:<br/><b>A:</b> Excel \u2014 Past question (JAMB 2021). Correct answer: Excel.</p>",
+      "examples": [
+        {
+          "q": "The shortcut key to 'Paste' a copied item in Windows is _____.",
+          "a": "Ctrl + V"
+        },
+        {
+          "q": "Spreadsheet application example:",
+          "a": "Excel"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Spreadsheets",
+      "html": "<p>Cells, formulas, functions and charts in a spreadsheet. This section covers importance and application of spreadsheets.</p><h4>Key points</h4><ul><li>Spreadsheet application example: \u2014 Excel.</li><li>Which of these is an example of application software \u2014 MS Word.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The shortcut key to 'Paste' a copied item in Windows is _____.<br/><b>A:</b> Ctrl + V \u2014 Ctrl + V is the standard Windows keyboard shortcut for pasting data from the clipboard.</p><p><b>Q:</b> Spreadsheet application example:<br/><b>A:</b> Excel \u2014 Past question (JAMB 2021). Correct answer: Excel.</p><h4>More key points</h4><ul><li>Spreadsheet application example: \u2014 Excel.</li><li>Which of these is an example of application software \u2014 MS Word.</li></ul>",
+      "examples": [
+        {
+          "q": "The shortcut key to 'Paste' a copied item in Windows is _____.",
+          "a": "Ctrl + V"
+        },
+        {
+          "q": "Spreadsheet application example:",
+          "a": "Excel"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Cells, formulas, functions and charts in a spreadsheet. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of spreadsheets.</li><li>Be able to explain spreadsheets in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The shortcut key to 'Paste' a copied item in Windows is _____.<br/><b>A:</b> Ctrl + V \u2014 Ctrl + V is the standard Windows keyboard shortcut for pasting data from the clipboard.</p><p><b>Q:</b> Spreadsheet application example:<br/><b>A:</b> Excel \u2014 Past question (JAMB 2021). Correct answer: Excel.</p>",
+      "examples": [
+        {
+          "q": "The shortcut key to 'Paste' a copied item in Windows is _____.",
+          "a": "Ctrl + V"
+        },
+        {
+          "q": "Spreadsheet application example:",
+          "a": "Excel"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "The shortcut key to 'Paste' a copied item in Windows is _____.",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + X",
+        "Ctrl + V",
+        "Ctrl + P"
+      ],
+      "answer": 2,
+      "solution": "Ctrl + V is the standard Windows keyboard shortcut for pasting data from the clipboard.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Spreadsheet application example:",
+      "options": [
+        "Excel",
+        "Word",
+        "Access",
+        "PowerPoint"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Excel.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which of these is an example of application software?",
+      "options": [
+        "Windows",
+        "Linux",
+        "MS Word",
+        "UNIX"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: MS Word.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The first generation of computers used _____ as their primary electronic component.",
+      "options": [
+        "Vacuum Tubes",
+        "Transistors",
+        "Integrated Circuits",
+        "Microprocessors"
+      ],
+      "answer": 0,
+      "solution": "First-generation computers (1940-1956) relied on vacuum tubes for circuitry and magnetic drums for memory, making them bulky and expensive.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a permanent storage device?",
+      "options": [
+        "RAM",
+        "Cache",
+        "Hard Disk Drive",
+        "Registers"
+      ],
+      "answer": 2,
+      "solution": "Hard Disk Drives are non-volatile storage, meaning they retain data even when the power is turned off. RAM and Cache are volatile.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "What is the result of the binary addition 1 + 1?",
+      "options": [
+        "2",
+        "10",
+        "11",
+        "0"
+      ],
+      "answer": 1,
+      "solution": "In binary, 1+1 equals 0 with a carry of 1, represented as 10 (which is the binary for decimal 2).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "What does PDF stand for?",
+      "options": [
+        "Personal Data File",
+        "Portable Document Format",
+        "Printable Digital File",
+        "Public Document Folder"
+      ],
+      "answer": 1,
+      "solution": "PDF is a file format developed by Adobe to present documents in a manner independent of application software, hardware, and operating systems.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is an example of an output device?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Plotter",
+        "Microphone"
+      ],
+      "answer": 2,
+      "solution": "A plotter is a printer that uses a pen to draw images, commonly used for technical drawings.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "What is the function of the BIOS?",
+      "options": [
+        "Word processing",
+        "Initialize hardware during booting",
+        "Calculate mathematical formulas",
+        "Browse the internet"
+      ],
+      "answer": 1,
+      "solution": "Basic Input/Output System (BIOS) is firmware used to perform hardware initialization during the booting process.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of these is an Input Device?",
+      "options": [
+        "Scanner",
+        "Printer",
+        "Speaker",
+        "Monitor"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Scanner.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which device converts digital to analog?",
+      "options": [
+        "Modem",
+        "Router",
+        "Switch",
+        "Hub"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Modem.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Search Engine example:",
+      "options": [
+        "Google",
+        "Chrome",
+        "Firefox",
+        "Windows"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Google.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "VGA cable connects:",
+      "options": [
+        "Monitor to CPU",
+        "Mouse to CPU",
+        "Keyboard to CPU",
+        "Printer to CPU"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Monitor to CPU.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "RAM is:",
+      "options": [
+        "Read Only Memory",
+        "Random Access Memory",
+        "Read Access Memory",
+        "Random Accept Memory"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Random Access Memory.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a pointing device?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Scanner",
+        "Microphone"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Mouse.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which of these is not hardware?",
+      "options": [
+        "Monitor",
+        "Mouse",
+        "Windows",
+        "CPU"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Windows.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Windows is an:",
+      "options": [
+        "Operating System",
+        "Application",
+        "Hardware",
+        "Antivirus"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Operating System.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Short cut for Cut:",
+      "options": [
+        "Ctrl+X",
+        "Ctrl+C",
+        "Ctrl+V",
+        "Ctrl+S"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Ctrl+X.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Which shape represents Start/Stop in flowchart?",
+      "options": [
+        "Oval",
+        "Rectangle",
+        "Diamond",
+        "Circle"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Oval.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Software that is used to perform specific tasks like typing a letter is called...",
+      "options": [
+        "System Software",
+        "Application Software",
+        "Utility Software",
+        "Firmware"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Application Software.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "In a database table, a unique identifier for each record is the...",
+      "options": [
+        "Foreign Key",
+        "Primary Key",
+        "Index",
+        "Query"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Primary Key.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Which device converts digital signals to analog for telephone lines?",
+      "options": [
+        "Router",
+        "Modem",
+        "Switch",
+        "Hub"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Modem.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "A step-by-step procedure to solve a problem is:",
+      "options": [
+        "Syntax",
+        "Algorithm",
+        "Code",
+        "Bug"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Algorithm.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Output Device:",
+      "options": [
+        "Printer",
+        "Mouse",
+        "Keyboard",
+        "Joystick"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Printer.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Antivirus:",
+      "options": [
+        "Norton",
+        "Windows",
+        "Word",
+        "Excel"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Norton.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Email:",
+      "options": [
+        "Electronic Mail",
+        "Electric",
+        "Engine",
+        "Easy"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Electronic Mail.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Warm Boot:",
+      "options": [
+        "Restart",
+        "Power on",
+        "Off",
+        "Close"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Restart.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Binary equivalent of 10 is:",
+      "options": [
+        "1010",
+        "1001",
+        "1100",
+        "1110"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 1010.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Web Browser example:",
+      "options": [
+        "Chrome",
+        "Google",
+        "Facebook",
+        "Twitter"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Chrome.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Spreadsheets in Spreadsheets?",
+      "options": [
+        "The outcome of data processing is: \u2014 Information.",
+        "The process of starting a computer is: \u2014 Booting.",
+        "VGA: \u2014 Video.",
+        "The shortcut key to 'Paste' a copied item in Windows is _____. \u2014 Ctrl + V."
+      ],
+      "answer": 3,
+      "solution": "The shortcut key to 'Paste' a copied item in Windows is _____. \u2014 Ctrl + V.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Spreadsheets in Spreadsheets?",
+      "options": [
+        "The outcome of data processing is: \u2014 Information.",
+        "VGA: \u2014 Video.",
+        "The shortcut key to 'Paste' a copied item in Windows is _____. \u2014 Ctrl + V.",
+        "The process of starting a computer is: \u2014 Booting."
+      ],
+      "answer": 2,
+      "solution": "The shortcut key to 'Paste' a copied item in Windows is _____. \u2014 Ctrl + V.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Spreadsheets in Spreadsheets?",
+      "options": [
+        "The shortcut key to 'Paste' a copied item in Windows is _____. \u2014 Ctrl + V.",
+        "The outcome of data processing is: \u2014 Information.",
+        "The process of starting a computer is: \u2014 Booting.",
+        "VGA: \u2014 Video."
+      ],
+      "answer": 0,
+      "solution": "The shortcut key to 'Paste' a copied item in Windows is _____. \u2014 Ctrl + V.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Spreadsheets in Spreadsheets?",
+      "options": [
+        "Spreadsheet application example: \u2014 Excel.",
+        "The outcome of data processing is: \u2014 Information.",
+        "VGA: \u2014 Video.",
+        "The process of starting a computer is: \u2014 Booting."
+      ],
+      "answer": 0,
+      "solution": "Spreadsheet application example: \u2014 Excel.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Spreadsheets?",
+      "options": [
+        "The outcome of data processing is: \u2014 Information.",
+        "VGA: \u2014 Video.",
+        "The shortcut key to 'Paste' a copied item in Windows is _____. \u2014 Ctrl + V.",
+        "The process of starting a computer is: \u2014 Booting."
+      ],
+      "answer": 2,
+      "solution": "The shortcut key to 'Paste' a copied item in Windows is _____. \u2014 Ctrl + V.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'shortcut'?",
+      "options": [
+        "The outcome of data processing is: \u2014 Information.",
+        "The shortcut key to 'Paste' a copied item in Windows is _____. \u2014 Ctrl + V.",
+        "VGA: \u2014 Video.",
+        "The process of starting a computer is: \u2014 Booting."
+      ],
+      "answer": 1,
+      "solution": "The shortcut key to 'Paste' a copied item in Windows is _____. \u2014 Ctrl + V.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'spreadsheet'?",
+      "options": [
+        "The outcome of data processing is: \u2014 Information.",
+        "Spreadsheet application example: \u2014 Excel.",
+        "The process of starting a computer is: \u2014 Booting.",
+        "VGA: \u2014 Video."
+      ],
+      "answer": 1,
+      "solution": "Spreadsheet application example: \u2014 Excel.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'example'?",
+      "options": [
+        "The outcome of data processing is: \u2014 Information.",
+        "Which of these is an example of application software \u2014 MS Word.",
+        "The process of starting a computer is: \u2014 Booting.",
+        "VGA: \u2014 Video."
+      ],
+      "answer": 1,
+      "solution": "Which of these is an example of application software \u2014 MS Word.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'generation'?",
+      "options": [
+        "VGA: \u2014 Video.",
+        "The outcome of data processing is: \u2014 Information.",
+        "The first generation of computers used _____ as their primary electronic component. \u2014 Vacuum Tubes.",
+        "The process of starting a computer is: \u2014 Booting."
+      ],
+      "answer": 2,
+      "solution": "The first generation of computers used _____ as their primary electronic component. \u2014 Vacuum Tubes.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'following'?",
+      "options": [
+        "VGA: \u2014 Video.",
+        "The outcome of data processing is: \u2014 Information.",
+        "Which of the following is a permanent storage device \u2014 Hard Disk Drive.",
+        "The process of starting a computer is: \u2014 Booting."
+      ],
+      "answer": 2,
+      "solution": "Which of the following is a permanent storage device \u2014 Hard Disk Drive.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'result'?",
+      "options": [
+        "The outcome of data processing is: \u2014 Information.",
+        "What is the result of the binary addition 1 + 1 \u2014 10.",
+        "VGA: \u2014 Video.",
+        "The process of starting a computer is: \u2014 Booting."
+      ],
+      "answer": 1,
+      "solution": "What is the result of the binary addition 1 + 1 \u2014 10.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'pdf'?",
+      "options": [
+        "The outcome of data processing is: \u2014 Information.",
+        "The process of starting a computer is: \u2014 Booting.",
+        "VGA: \u2014 Video.",
+        "What does PDF stand for \u2014 Portable Document Format."
+      ],
+      "answer": 3,
+      "solution": "What does PDF stand for \u2014 Portable Document Format.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'function'?",
+      "options": [
+        "The process of starting a computer is: \u2014 Booting.",
+        "VGA: \u2014 Video.",
+        "The outcome of data processing is: \u2014 Information.",
+        "What is the function of the BIOS \u2014 Initialize hardware during booting."
+      ],
+      "answer": 3,
+      "solution": "What is the function of the BIOS \u2014 Initialize hardware during booting.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'input'?",
+      "options": [
+        "VGA: \u2014 Video.",
+        "The outcome of data processing is: \u2014 Information.",
+        "The process of starting a computer is: \u2014 Booting.",
+        "Which of these is an Input Device \u2014 Scanner."
+      ],
+      "answer": 3,
+      "solution": "Which of these is an Input Device \u2014 Scanner.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'device'?",
+      "options": [
+        "The process of starting a computer is: \u2014 Booting.",
+        "VGA: \u2014 Video.",
+        "The outcome of data processing is: \u2014 Information.",
+        "Which device converts digital to analog \u2014 Modem."
+      ],
+      "answer": 3,
+      "solution": "Which device converts digital to analog \u2014 Modem.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'search'?",
+      "options": [
+        "Search Engine example: \u2014 Google.",
+        "The process of starting a computer is: \u2014 Booting.",
+        "The outcome of data processing is: \u2014 Information.",
+        "VGA: \u2014 Video."
+      ],
+      "answer": 0,
+      "solution": "Search Engine example: \u2014 Google.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'vga'?",
+      "options": [
+        "The process of starting a computer is: \u2014 Booting.",
+        "Hard Copy: \u2014 Printed.",
+        "VGA cable connects: \u2014 Monitor to CPU.",
+        "The outcome of data processing is: \u2014 Information."
+      ],
+      "answer": 2,
+      "solution": "VGA cable connects: \u2014 Monitor to CPU.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'ram'?",
+      "options": [
+        "VGA: \u2014 Video.",
+        "The process of starting a computer is: \u2014 Booting.",
+        "RAM is: \u2014 Random Access Memory.",
+        "The outcome of data processing is: \u2014 Information."
+      ],
+      "answer": 2,
+      "solution": "RAM is: \u2014 Random Access Memory.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'pointing'?",
+      "options": [
+        "The process of starting a computer is: \u2014 Booting.",
+        "Which of these is a pointing device \u2014 Mouse.",
+        "The outcome of data processing is: \u2014 Information.",
+        "VGA: \u2014 Video."
+      ],
+      "answer": 1,
+      "solution": "Which of these is a pointing device \u2014 Mouse.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'hardware'?",
+      "options": [
+        "Which of these is not hardware \u2014 Windows.",
+        "VGA: \u2014 Video.",
+        "The process of starting a computer is: \u2014 Booting.",
+        "The outcome of data processing is: \u2014 Information."
+      ],
+      "answer": 0,
+      "solution": "Which of these is not hardware \u2014 Windows.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Spreadsheets \u2014 'windows'?",
+      "options": [
+        "Windows is an: \u2014 Operating System.",
+        "VGA: \u2014 Video.",
+        "The outcome of data processing is: \u2014 Information.",
+        "The process of starting a computer is: \u2014 Booting."
+      ],
+      "answer": 0,
+      "solution": "Windows is an: \u2014 Operating System.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

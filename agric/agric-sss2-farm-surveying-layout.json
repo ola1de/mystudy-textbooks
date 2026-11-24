@@ -19,7 +19,7 @@
       "examples": [
         {
           "q": "A farmer wants to determine the area of a small rectangular plot without expensive instruments. Suggest a simple method and the instrument(s) needed.",
-          "a": "Chain surveying can be used: a surveyor's chain or measuring tape is used to measure the length and breadth of the rectangular plot along straight lines marked by ranging poles at the corners, and arrows are used to mark chain lengths. The area is then computed as length × breadth."
+          "a": "Chain surveying can be used: a surveyor's chain or measuring tape is used to measure the length and breadth of the rectangular plot along straight lines marked by ranging poles at the corners, and arrows are used to mark chain lengths. The area is then computed as length \u00d7 breadth."
         },
         {
           "q": "Explain why pacing is generally considered less accurate than chain surveying for farm land measurement.",
@@ -33,11 +33,11 @@
       "examples": [
         {
           "q": "A rectangular farm plot measures 250 m by 160 m. Calculate its area in square metres and convert to hectares.",
-          "a": "Area = L × B = 250 × 160 = 40,000 m^2. Area in hectares = 40,000/10,000 = 4 hectares."
+          "a": "Area = L \u00d7 B = 250 \u00d7 160 = 40,000 m^2. Area in hectares = 40,000/10,000 = 4 hectares."
         },
         {
           "q": "Offsets of 4 m, 6 m, 8 m, 5 m and 3 m are taken at a uniform interval of 10 m along a baseline from an irregular boundary. Calculate the area between the baseline and the boundary using the trapezoidal rule.",
-          "a": "Using A = d[(O1+On)/2 + O2 + O3 + ... + O(n-1)] with d=10, O1=4, O2=6, O3=8, O4=5, O5=3: A = 10[(4+3)/2 + 6 + 8 + 5] = 10[3.5 + 19] = 10 × 22.5 = 225 m^2."
+          "a": "Using A = d[(O1+On)/2 + O2 + O3 + ... + O(n-1)] with d=10, O1=4, O2=6, O3=8, O4=5, O5=3: A = 10[(4+3)/2 + 6 + 8 + 5] = 10[3.5 + 19] = 10 \u00d7 22.5 = 225 m^2."
         }
       ]
     },
@@ -47,11 +47,53 @@
       "examples": [
         {
           "q": "On a farm map with scale 1:5000, the distance between two farm buildings measures 3 cm. Calculate the actual distance in metres.",
-          "a": "Actual distance = Map distance × scale factor = 3 cm × 5000 = 15,000 cm = 150 m."
+          "a": "Actual distance = Map distance \u00d7 scale factor = 3 cm \u00d7 5000 = 15,000 cm = 150 m."
         },
         {
           "q": "Explain why livestock housing units are usually sited downwind of the farmhouse.",
           "a": "Livestock housing often produces strong odours, dust, flies and noise from animal waste and activity. Siting them downwind of the farmhouse ensures that prevailing winds carry these odours and pollutants away from the residential/administrative area, improving comfort and hygiene for the farm family and workers."
+        }
+      ]
+    },
+    {
+      "title": "Simple surveying instruments and their uses",
+      "html": "<p><b>Simple surveying instruments and their uses</b> is a key part of Farm Surveying and Layout (SSS 2, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning of Farm Surveying Farm surveying is the process of determining the size, shape, boundaries, and physical features of a piece of land in order to plan its efficient use for agricultural purposes.</li><li>Importance of Farm Surveying Enables accurate determination of farm boundaries and area, preventing land disputes.</li><li>Simple Surveying Instruments Instrument Use Surveyor's chain / tape Measuring distances along the ground Ranging pole Marking survey lines and points for sighting Prismatic compass Measuring bearings (angles) of survey lines Line level / Abney level Checking levelness/slope of land Arrows/pegs Marking chain lengths and stations along a survey line Theodolite Precise measurement of horizontal and vertical angles Methods of Land Measurement Common methods include chain surveying (measuring distances with a chain/tape along straight lines and offsets to boundary features), compass surveying (using bearings for irregular land shapes), pacing (a quick, less accurate estimate using an individual's step length), and modern methods using GPS devices and total stations for high precision over large areas.</li><li>Qualities of a Good Farm Surveyor A good farm surveyor must possess a sound understanding of basic mathematics and geometry, be skilled in the correct use of surveying instruments, and demonstrate patience, accuracy and attention to detail when recording field measurements.</li><li>Basic Terms Used in Farm Surveying Base line: the main reference line from which other measurements and offsets are taken during a survey.</li></ul><h4>Worked example</h4><p><b>Q:</b> Farm surveying is mainly concerned with<br/><b>A:</b> determining the size, shape and boundaries of land \u2014 Farm surveying determines the physical dimensions, shape and boundaries of land for planning purposes.</p><p><b>Q:</b> The trapezoidal rule for offsets is used mainly to calculate the area of<br/><b>A:</b> irregularly shaped land boundaries \u2014 The trapezoidal (offsets) method estimates area for irregular boundaries that don't fit simple geometric shapes.</p>",
+      "examples": [
+        {
+          "q": "Farm surveying is mainly concerned with",
+          "a": "determining the size, shape and boundaries of land \u2014 Farm surveying determines the physical dimensions, shape and boundaries of land for planning purposes."
+        },
+        {
+          "q": "The trapezoidal rule for offsets is used mainly to calculate the area of",
+          "a": "irregularly shaped land boundaries \u2014 The trapezoidal (offsets) method estimates area for irregular boundaries that don't fit simple geometric shapes."
+        }
+      ]
+    },
+    {
+      "title": "Methods of land measurement: chain survey, pacing, compass survey",
+      "html": "<p><b>Methods of land measurement: chain survey, pacing, compass survey</b> is a key part of Farm Surveying and Layout (SSS 2, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning of Farm Surveying Farm surveying is the process of determining the size, shape, boundaries, and physical features of a piece of land in order to plan its efficient use for agricultural purposes.</li><li>It provides the basic information needed for farm planning, layout of structures, drainage design, irrigation planning, and land subdivision among enterprises.</li><li>Importance of Farm Surveying Enables accurate determination of farm boundaries and area, preventing land disputes.</li><li>Simple Surveying Instruments Instrument Use Surveyor's chain / tape Measuring distances along the ground Ranging pole Marking survey lines and points for sighting Prismatic compass Measuring bearings (angles) of survey lines Line level / Abney level Checking levelness/slope of land Arrows/pegs Marking chain lengths and stations along a survey line Theodolite Precise measurement of horizontal and vertical angles Methods of Land Measurement Common methods include chain surveying (measuring distances with a chain/tape along straight lines and offsets to boundary features), compass surveying (using bearings for irregular land shapes), pacing (a quick, less accurate estimate using an individual's step length), and modern methods using GPS devices and total stations for high precision over large areas.</li><li>Qualities of a Good Farm Surveyor A good farm surveyor must possess a sound understanding of basic mathematics and geometry, be skilled in the correct use of surveying instruments, and demonstrate patience, accuracy and attention to detail when recording field measurements.</li></ul><h4>Worked example</h4><p><b>Q:</b> Farm surveying is mainly concerned with<br/><b>A:</b> determining the size, shape and boundaries of land \u2014 Farm surveying determines the physical dimensions, shape and boundaries of land for planning purposes.</p><p><b>Q:</b> Which instrument is used to measure bearings (angles) of survey lines?<br/><b>A:</b> Prismatic compass \u2014 A prismatic compass measures the bearing or direction (angle) of survey lines relative to magnetic north.</p>",
+      "examples": [
+        {
+          "q": "Farm surveying is mainly concerned with",
+          "a": "determining the size, shape and boundaries of land \u2014 Farm surveying determines the physical dimensions, shape and boundaries of land for planning purposes."
+        },
+        {
+          "q": "Which instrument is used to measure bearings (angles) of survey lines?",
+          "a": "Prismatic compass \u2014 A prismatic compass measures the bearing or direction (angle) of survey lines relative to magnetic north."
+        }
+      ]
+    },
+    {
+      "title": "Scale, plans and maps in farm layout",
+      "html": "<p><b>Scale, plans and maps in farm layout</b> is a key part of Farm Surveying and Layout (SSS 2, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning of Farm Surveying Farm surveying is the process of determining the size, shape, boundaries, and physical features of a piece of land in order to plan its efficient use for agricultural purposes.</li><li>It provides the basic information needed for farm planning, layout of structures, drainage design, irrigation planning, and land subdivision among enterprises.</li><li>Importance of Farm Surveying Enables accurate determination of farm boundaries and area, preventing land disputes.</li><li>Provides data for designing efficient farm layout, roads and drainage systems.</li><li>Facilitates preparation of farm maps and plans for record-keeping and future expansion.</li></ul><h4>Worked example</h4><p><b>Q:</b> Farm surveying is mainly concerned with<br/><b>A:</b> determining the size, shape and boundaries of land \u2014 Farm surveying determines the physical dimensions, shape and boundaries of land for planning purposes.</p><p><b>Q:</b> A farm plan with scale 1:2000 shows a distance of 5 cm between two points. The actual ground distance is<br/><b>A:</b> 100 m \u2014 Actual distance = 5 cm \u00d7 2000 = 10,000 cm = 100 m.</p>",
+      "examples": [
+        {
+          "q": "Farm surveying is mainly concerned with",
+          "a": "determining the size, shape and boundaries of land \u2014 Farm surveying determines the physical dimensions, shape and boundaries of land for planning purposes."
+        },
+        {
+          "q": "A farm plan with scale 1:2000 shows a distance of 5 cm between two points. The actual ground distance is",
+          "a": "100 m \u2014 Actual distance = 5 cm \u00d7 2000 = 10,000 cm = 100 m."
         }
       ]
     }
@@ -65,8 +107,10 @@
         "feeding livestock",
         "processing farm produce"
       ],
-      "answer": "1",
-      "solution": "Farm surveying determines the physical dimensions, shape and boundaries of land for planning purposes."
+      "answer": 1,
+      "solution": "Farm surveying determines the physical dimensions, shape and boundaries of land for planning purposes.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which instrument is used to measure bearings (angles) of survey lines?",
@@ -76,8 +120,10 @@
         "Chain",
         "Arrow"
       ],
-      "answer": "1",
-      "solution": "A prismatic compass measures the bearing or direction (angle) of survey lines relative to magnetic north."
+      "answer": 1,
+      "solution": "A prismatic compass measures the bearing or direction (angle) of survey lines relative to magnetic north.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Ranging poles are primarily used for",
@@ -87,8 +133,10 @@
         "measuring slope only",
         "calculating area"
       ],
-      "answer": "1",
-      "solution": "Ranging poles are set up to mark points along a survey line to enable accurate alignment while chaining."
+      "answer": 1,
+      "solution": "Ranging poles are set up to mark points along a survey line to enable accurate alignment while chaining.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The area of a rectangular plot 300 m long and 100 m wide is",
@@ -98,8 +146,10 @@
         "3,000 m2",
         "30,000 m2"
       ],
-      "answer": "3",
-      "solution": "Area = L × B = 300 × 100 = 30,000 m2 (note this equals 3 hectares, but the question asks for area, and 30,000 m2 is the correct raw value option here)."
+      "answer": 3,
+      "solution": "Area = L \u00d7 B = 300 \u00d7 100 = 30,000 m2 (note this equals 3 hectares, but the question asks for area, and 30,000 m2 is the correct raw value option here).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "One hectare is equal to",
@@ -109,8 +159,10 @@
         "10,000 m2",
         "100,000 m2"
       ],
-      "answer": "2",
-      "solution": "By definition, 1 hectare = 10,000 square metres."
+      "answer": 2,
+      "solution": "By definition, 1 hectare = 10,000 square metres.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A rectangular plot has area 40,000 m2. Its area in hectares is",
@@ -120,8 +172,10 @@
         "40 ha",
         "400 ha"
       ],
-      "answer": "1",
-      "solution": "Area in hectares = 40,000/10,000 = 4 hectares."
+      "answer": 1,
+      "solution": "Area in hectares = 40,000/10,000 = 4 hectares.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The trapezoidal rule for offsets is used mainly to calculate the area of",
@@ -131,8 +185,10 @@
         "circular plots only",
         "farm buildings"
       ],
-      "answer": "1",
-      "solution": "The trapezoidal (offsets) method estimates area for irregular boundaries that don't fit simple geometric shapes."
+      "answer": 1,
+      "solution": "The trapezoidal (offsets) method estimates area for irregular boundaries that don't fit simple geometric shapes.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Offsets of 2 m and 6 m taken at the two ends with intermediate offsets 4 m and 5 m, interval 10 m: using A = d[(O1+On)/2 + sum of intermediate offsets], the area is",
@@ -142,8 +198,10 @@
         "170 m2",
         "180 m2"
       ],
-      "answer": "1",
-      "solution": "A = 10[(2+6)/2 + 4 + 5] = 10[4 + 9] = 10 × 13 = 130... recompute: (2+6)/2=4, +4+5=9, total 13, ×10=130 m2. [Note: recalculated for accuracy]"
+      "answer": 1,
+      "solution": "A = 10[(2+6)/2 + 4 + 5] = 10[4 + 9] = 10 \u00d7 13 = 130... recompute: (2+6)/2=4, +4+5=9, total 13, \u00d710=130 m2. [Note: recalculated for accuracy]",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which factor should be considered when siting livestock housing relative to the farmhouse?",
@@ -153,8 +211,10 @@
         "Colour of soil",
         "Cost of labour only"
       ],
-      "answer": "1",
-      "solution": "Livestock housing should be sited downwind of the farmhouse to prevent odour and pollutants from affecting the residential area."
+      "answer": 1,
+      "solution": "Livestock housing should be sited downwind of the farmhouse to prevent odour and pollutants from affecting the residential area.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A farm plan with scale 1:2000 shows a distance of 5 cm between two points. The actual ground distance is",
@@ -164,8 +224,10 @@
         "50 m",
         "20 m"
       ],
-      "answer": "0",
-      "solution": "Actual distance = 5 cm × 2000 = 10,000 cm = 100 m."
+      "answer": 0,
+      "solution": "Actual distance = 5 cm \u00d7 2000 = 10,000 cm = 100 m.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Chain surveying primarily involves measuring",
@@ -175,8 +237,10 @@
         "soil pH",
         "crop yield"
       ],
-      "answer": "1",
-      "solution": "Chain surveying measures linear distances along survey lines using a chain or tape, often with offsets for boundary features."
+      "answer": 1,
+      "solution": "Chain surveying measures linear distances along survey lines using a chain or tape, often with offsets for boundary features.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A theodolite is mainly used for",
@@ -186,8 +250,10 @@
         "measuring soil temperature",
         "weighing farm produce"
       ],
-      "answer": "1",
-      "solution": "A theodolite is a precision instrument for measuring both horizontal and vertical angles in surveying."
+      "answer": 1,
+      "solution": "A theodolite is a precision instrument for measuring both horizontal and vertical angles in surveying.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The area of a triangular plot with base 40 m and height 25 m is",
@@ -197,8 +263,10 @@
         "1500 m2",
         "2000 m2"
       ],
-      "answer": "1",
-      "solution": "Area = 1/2 × base × height = 1/2 × 40 × 25 = 500... recompute: 0.5×40×25=500 m2. [Correcting selection accordingly]"
+      "answer": 1,
+      "solution": "Area = 1/2 \u00d7 base \u00d7 height = 1/2 \u00d7 40 \u00d7 25 = 500... recompute: 0.5\u00d740\u00d725=500 m2. [Correcting selection accordingly]",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Farm layout planning aims mainly to",
@@ -208,8 +276,10 @@
         "ignore drainage patterns",
         "avoid the use of maps"
       ],
-      "answer": "1",
-      "solution": "Good farm layout minimizes unnecessary movement, improving operational efficiency and productivity."
+      "answer": 1,
+      "solution": "Good farm layout minimizes unnecessary movement, improving operational efficiency and productivity.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A poultry feed store should ideally be sited",
@@ -219,8 +289,10 @@
         "on a floodplain",
         "in the farmhouse living room"
       ],
-      "answer": "1",
-      "solution": "Siting the feed store near the poultry unit reduces transport effort and time in feeding operations."
+      "answer": 1,
+      "solution": "Siting the feed store near the poultry unit reduces transport effort and time in feeding operations.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these is an advantage of using GPS in modern farm surveying?",
@@ -230,8 +302,452 @@
         "Requires no equipment at all",
         "Cannot be used for boundary mapping"
       ],
-      "answer": "1",
-      "solution": "GPS technology provides fast and highly accurate measurements, especially useful for surveying large or complex farm areas."
+      "answer": 1,
+      "solution": "GPS technology provides fast and highly accurate measurements, especially useful for surveying large or complex farm areas.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Surveying:",
+      "options": [
+        "Measuring land",
+        "Planting",
+        "Harvesting",
+        "Selling"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Measuring land.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Gunter's chain length:",
+      "options": [
+        "66ft",
+        "100ft",
+        "50ft",
+        "33ft"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: 66ft.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The survey instrument used for measuring horizontal angles is the...",
+      "options": [
+        "Gunter's chain",
+        "Theodolite",
+        "Spirit level",
+        "Abney level"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Theodolite.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The study of the relationship between plants and their environment is...",
+      "options": [
+        "Ecology",
+        "Botany",
+        "Zoology",
+        "Physiology"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: Ecology.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a source of Vitamin A for livestock?",
+      "options": [
+        "Bone meal",
+        "Yellow maize",
+        "Salt lick",
+        "Water"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Yellow maize.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of these livestock has a four-chambered stomach?",
+      "options": [
+        "Pig",
+        "Goat",
+        "Rabbit",
+        "Horse"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Goat.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The primary source of energy in a livestock ration is:",
+      "options": [
+        "Protein",
+        "Carbohydrate",
+        "Vitamin",
+        "Water"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Carbohydrate.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Gunter's Chain:",
+      "options": [
+        "Length",
+        "Angles",
+        "Weight",
+        "Time"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Length.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Wind erosion area:",
+      "options": [
+        "Arid/Desert",
+        "Forest",
+        "Swamp",
+        "Mangrove"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Arid/Desert.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Survey tool:",
+      "options": [
+        "Theodolite",
+        "Plough",
+        "Harrow",
+        "Sprayer"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Theodolite.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Soil survey is done to?",
+      "options": [
+        "Find gold.",
+        "Determine land capability.",
+        "Build roads.",
+        "Measure rain."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Determine land capability..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The pF scale is used to measure?",
+      "options": [
+        "Soil pH.",
+        "Soil moisture tension.",
+        "Wind.",
+        "Heat."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Soil moisture tension..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Small-scale farmers often face?",
+      "options": [
+        "Too much land.",
+        "Lack of credit.",
+        "Too much money.",
+        "High technology."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Lack of credit..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Layer birds are kept primarily for:",
+      "options": [
+        "Meat",
+        "Eggs",
+        "Feathers",
+        "Manure"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Eggs.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Tsetse fly transmits:",
+      "options": [
+        "Malaria",
+        "Trypanosomiasis",
+        "Coccidiosis",
+        "Anthrax"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Trypanosomiasis.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a fixed cost in farming?",
+      "options": [
+        "Cost of seeds",
+        "Cost of fertilizer",
+        "Rent of land",
+        "Labor wages"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Rent of land.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Photosynthesis takes place in the:",
+      "options": [
+        "Roots",
+        "Stem",
+        "Leaves",
+        "Flowers"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Leaves.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Mulching helps to:",
+      "options": [
+        "Increase evaporation",
+        "Conserve soil moisture",
+        "Increase weeds",
+        "Harden soil"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Conserve soil moisture.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The process of shedding skin by insects is:",
+      "options": [
+        "Metamorphosis",
+        "Moulting/Ecdysis",
+        "Incubation",
+        "Gestation"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Moulting/Ecdysis.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Ruminants have how many stomach compartments?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 3,
+      "solution": "Past question (JAMB 2022). Correct answer: Four.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Silage is preserved:",
+      "options": [
+        "Dry",
+        "Wet/Fermented",
+        "Frozen",
+        "Cooked"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Wet/Fermented.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "What is the function of the queen termite?",
+      "options": [
+        "Build nest",
+        "Defend colony",
+        "Lay eggs",
+        "Feed others"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Lay eggs.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The causal agent of Maize Streak is:",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Fungi",
+        "Nematode"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: Virus.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Tick fever is transmitted by:",
+      "options": [
+        "Ticks",
+        "Lice",
+        "Fleas",
+        "Mites"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: Ticks.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Mixed farming implies:",
+      "options": [
+        "Growing different crops",
+        "Keeping animals and growing crops",
+        "Fishing and hunting",
+        "Forestry and gardening"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Keeping animals and growing crops.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Nomadic farming is common among:",
+      "options": [
+        "Crop farmers",
+        "Fulani herdsmen",
+        "Poultry farmers",
+        "Fish farmers"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Fulani herdsmen.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Leaching is loss of:",
+      "options": [
+        "Nutrients",
+        "Water",
+        "Soil",
+        "Air"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Nutrients.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Legumes add:",
+      "options": [
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "Calcium"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Nitrogen.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Gestation period of a sow (pig):",
+      "options": [
+        "114 days",
+        "280 days",
+        "30 days",
+        "150 days"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: 114 days.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Botanical name for Cassava:",
+      "options": [
+        "*Manihot esculenta*",
+        "*Zea mays*",
+        "*Dioscorea spp*",
+        "*Oryza sativa*"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: *Manihot esculenta*.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Layer birds are for:",
+      "options": [
+        "Eggs",
+        "Meat",
+        "Feathers",
+        "Manure"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Eggs.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Broiler birds are for:",
+      "options": [
+        "Meat",
+        "Eggs",
+        "Protection",
+        "Display"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Meat.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Afforestation:",
+      "options": [
+        "Planting trees",
+        "Cutting trees",
+        "Burning bush",
+        "Grazing"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Planting trees.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Erosion agent:",
+      "options": [
+        "Water",
+        "Sun",
+        "Moon",
+        "Stars"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Water.",
+      "source": "JAMB 2023",
+      "practice": false
     }
   ]
 }

@@ -1,236 +1,748 @@
 {
- "subject": "Biology",
- "level": "SSS 2",
- "slug": "reproduction",
- "title": "Reproduction",
- "outline": [
-  "Compare asexual and sexual reproduction and give examples",
-  "Describe the cell cycle, mitosis and meiosis and state their significance",
-  "Describe the structure of a flower, pollination, fertilisation and fruit/seed formation",
-  "Describe the human reproductive systems, menstrual cycle, fertilisation and development",
-  "Explain metamorphosis and reproduction in other animals",
-  "Discuss birth control, family planning and reproductive health"
- ],
- "modules": [
-  {
-   "title": "Cell Division: Mitosis and Meiosis",
-   "html": "\n<h4>1. The Cell Cycle</h4>\n<p>Interphase (G₁, S — DNA replication, G₂) occupies most of the cycle and is followed by the mitotic phase (karyokinesis then cytokinesis).</p>\n<h4>2. Mitosis</h4>\n<p>Mitosis produces two daughter cells genetically identical to the parent, each with the same chromosome number (diploid remains diploid).</p>\n<ol><li><b>Prophase</b> – chromosomes condense and appear as two chromatids joined at a centromere; nuclear membrane and nucleolus disappear; spindle forms.</li>\n<li><b>Metaphase</b> – chromosomes line up singly at the equator, attached to spindle fibres.</li>\n<li><b>Anaphase</b> – centromeres divide; chromatids are pulled to opposite poles.</li>\n<li><b>Telophase</b> – chromosomes decondense; nuclear membranes reform; cytokinesis follows (cleavage furrow in animals, cell plate in plants).</li></ol>\n<p>Significance: growth, repair and replacement of tissues, asexual reproduction and genetic stability.</p>\n<h4>3. Meiosis</h4>\n<p>Meiosis is a reduction division of two successive stages (meiosis I and II) producing four haploid daughter cells from one diploid cell:</p>\n$$2n \\rightarrow n$$\n<ul><li>In prophase I homologous chromosomes pair (synapsis) forming bivalents; <b>crossing over</b> at chiasmata exchanges genetic material.</li>\n<li>In metaphase I the bivalents line up and independent assortment occurs; anaphase I separates whole homologues.</li>\n<li>Meiosis II resembles mitosis and separates the chromatids.</li></ul>\n<p>Significance: halves the chromosome number so that fertilisation restores the diploid number, and creates genetic variation through crossing over and independent assortment.</p>\n<table class=\"tb-table\"><tr><th>Mitosis</th><th>Meiosis</th></tr>\n<tr><td>One division, 2 cells</td><td>Two divisions, 4 cells</td></tr>\n<tr><td>Chromosome number retained</td><td>Chromosome number halved</td></tr>\n<tr><td>Daughter cells identical</td><td>Daughter cells genetically different</td></tr>\n<tr><td>Somatic (body) cells</td><td>Gamete-forming (germ) cells</td></tr></table>\n",
-   "examples": [
+  "subject": "Biology",
+  "level": "SSS 2",
+  "slug": "reproduction",
+  "title": "Reproduction",
+  "outline": [
+    "Compare asexual and sexual reproduction and give examples",
+    "Describe the cell cycle, mitosis and meiosis and state their significance",
+    "Describe the structure of a flower, pollination, fertilisation and fruit/seed formation",
+    "Describe the human reproductive systems, menstrual cycle, fertilisation and development",
+    "Explain metamorphosis and reproduction in other animals",
+    "Discuss birth control, family planning and reproductive health"
+  ],
+  "modules": [
     {
-     "q": "A cell with 24 chromosomes undergoes meiosis. State the number of cells produced and the chromosome number of each.",
-     "a": "Four cells are produced, each with 12 chromosomes, because meiosis is a reduction division: \\( 2n = 24 \\rightarrow n = 12 \\)."
+      "title": "Cell Division: Mitosis and Meiosis",
+      "html": "\n<h4>1. The Cell Cycle</h4>\n<p>Interphase (G\u2081, S \u2014 DNA replication, G\u2082) occupies most of the cycle and is followed by the mitotic phase (karyokinesis then cytokinesis).</p>\n<h4>2. Mitosis</h4>\n<p>Mitosis produces two daughter cells genetically identical to the parent, each with the same chromosome number (diploid remains diploid).</p>\n<ol><li><b>Prophase</b> \u2013 chromosomes condense and appear as two chromatids joined at a centromere; nuclear membrane and nucleolus disappear; spindle forms.</li>\n<li><b>Metaphase</b> \u2013 chromosomes line up singly at the equator, attached to spindle fibres.</li>\n<li><b>Anaphase</b> \u2013 centromeres divide; chromatids are pulled to opposite poles.</li>\n<li><b>Telophase</b> \u2013 chromosomes decondense; nuclear membranes reform; cytokinesis follows (cleavage furrow in animals, cell plate in plants).</li></ol>\n<p>Significance: growth, repair and replacement of tissues, asexual reproduction and genetic stability.</p>\n<h4>3. Meiosis</h4>\n<p>Meiosis is a reduction division of two successive stages (meiosis I and II) producing four haploid daughter cells from one diploid cell:</p>\n$$2n \\rightarrow n$$\n<ul><li>In prophase I homologous chromosomes pair (synapsis) forming bivalents; <b>crossing over</b> at chiasmata exchanges genetic material.</li>\n<li>In metaphase I the bivalents line up and independent assortment occurs; anaphase I separates whole homologues.</li>\n<li>Meiosis II resembles mitosis and separates the chromatids.</li></ul>\n<p>Significance: halves the chromosome number so that fertilisation restores the diploid number, and creates genetic variation through crossing over and independent assortment.</p>\n<table class=\"tb-table\"><tr><th>Mitosis</th><th>Meiosis</th></tr>\n<tr><td>One division, 2 cells</td><td>Two divisions, 4 cells</td></tr>\n<tr><td>Chromosome number retained</td><td>Chromosome number halved</td></tr>\n<tr><td>Daughter cells identical</td><td>Daughter cells genetically different</td></tr>\n<tr><td>Somatic (body) cells</td><td>Gamete-forming (germ) cells</td></tr></table>\n",
+      "examples": [
+        {
+          "q": "A cell with 24 chromosomes undergoes meiosis. State the number of cells produced and the chromosome number of each.",
+          "a": "Four cells are produced, each with 12 chromosomes, because meiosis is a reduction division: \\( 2n = 24 \\rightarrow n = 12 \\)."
+        },
+        {
+          "q": "Explain two ways in which meiosis creates variation.",
+          "a": "(i) Crossing over at chiasmata during prophase I exchanges segments between homologous chromosomes, producing new gene combinations. (ii) Independent assortment at metaphase I means each pair of homologues can line up in either orientation, giving \\(2^n\\) possible gamete combinations."
+        }
+      ]
     },
     {
-     "q": "Explain two ways in which meiosis creates variation.",
-     "a": "(i) Crossing over at chiasmata during prophase I exchanges segments between homologous chromosomes, producing new gene combinations. (ii) Independent assortment at metaphase I means each pair of homologues can line up in either orientation, giving \\(2^n\\) possible gamete combinations."
-    }
-   ]
-  },
-  {
-   "title": "Reproduction in Plants",
-   "html": "\n<h4>1. Asexual Reproduction</h4>\n<ul><li>Binary fission (<i>Amoeba</i>, bacteria), budding (yeast, <i>Hydra</i>), fragmentation (<i>Spirogyra</i>), spore formation (<i>Rhizopus</i>, ferns).</li>\n<li>Vegetative propagation: stem tuber (Irish potato), rhizome (ginger), corm (cocoyam), bulb (onion), runner (grass), sucker (banana), and artificial methods — cutting, layering, grafting, budding, tissue culture.</li></ul>\n<p>Advantages: rapid, no mate required, offspring identical to a good parent. Disadvantages: no variation, overcrowding, disease may wipe out the whole clone.</p>\n<h4>2. The Flower</h4>\n<table class=\"tb-table\"><tr><th>Part</th><th>Function</th></tr>\n<tr><td>Calyx (sepals)</td><td>Protects the bud</td></tr>\n<tr><td>Corolla (petals)</td><td>Attracts pollinators (in insect-pollinated flowers)</td></tr>\n<tr><td>Androecium (stamens: anther + filament)</td><td>Produces pollen grains (male gametes)</td></tr>\n<tr><td>Gynoecium (carpel: stigma, style, ovary)</td><td>Receives pollen; ovary contains ovules</td></tr></table>\n<h4>3. Pollination</h4>\n<p>Pollination is the transfer of pollen from anther to stigma; it is <b>self-</b> or <b>cross-pollination</b>. Cross-pollination is favoured by dioecy, protandry, protogyny, heterostyly and self-sterility, and produces more vigorous, variable offspring.</p>\n<table class=\"tb-table\"><tr><th>Insect-pollinated</th><th>Wind-pollinated</th></tr>\n<tr><td>Large, brightly coloured, scented petals with nectar</td><td>Small, dull, no scent or nectar</td></tr>\n<tr><td>Sticky or spiky pollen, moderate amount</td><td>Light, smooth pollen in large quantity</td></tr>\n<tr><td>Anthers and stigma enclosed</td><td>Anthers and feathery stigma exposed and pendulous</td></tr></table>\n<h4>4. Fertilisation and Fruit Formation</h4>\n<p>The pollen grain germinates, and the pollen tube grows down the style guided by chemotropism. Double fertilisation occurs: one male nucleus fuses with the egg cell to form the diploid zygote, the other with the two polar nuclei to give the triploid endosperm. Afterwards the ovule becomes the seed, the integuments become the testa, and the ovary becomes the fruit. Fruits and seeds are dispersed by wind, water, animals or explosive mechanisms.</p>\n",
-   "examples": [
-    {
-     "q": "Give three adaptations of a wind-pollinated flower.",
-     "a": "(i) Long filaments hold versatile anthers outside the flower so pollen is caught by the wind. (ii) Large feathery stigmas hang out to trap airborne pollen. (iii) Pollen grains are small, light, smooth and produced in very large numbers, compensating for wastage."
+      "title": "Reproduction in Plants",
+      "html": "\n<h4>1. Asexual Reproduction</h4>\n<ul><li>Binary fission (<i>Amoeba</i>, bacteria), budding (yeast, <i>Hydra</i>), fragmentation (<i>Spirogyra</i>), spore formation (<i>Rhizopus</i>, ferns).</li>\n<li>Vegetative propagation: stem tuber (Irish potato), rhizome (ginger), corm (cocoyam), bulb (onion), runner (grass), sucker (banana), and artificial methods \u2014 cutting, layering, grafting, budding, tissue culture.</li></ul>\n<p>Advantages: rapid, no mate required, offspring identical to a good parent. Disadvantages: no variation, overcrowding, disease may wipe out the whole clone.</p>\n<h4>2. The Flower</h4>\n<table class=\"tb-table\"><tr><th>Part</th><th>Function</th></tr>\n<tr><td>Calyx (sepals)</td><td>Protects the bud</td></tr>\n<tr><td>Corolla (petals)</td><td>Attracts pollinators (in insect-pollinated flowers)</td></tr>\n<tr><td>Androecium (stamens: anther + filament)</td><td>Produces pollen grains (male gametes)</td></tr>\n<tr><td>Gynoecium (carpel: stigma, style, ovary)</td><td>Receives pollen; ovary contains ovules</td></tr></table>\n<h4>3. Pollination</h4>\n<p>Pollination is the transfer of pollen from anther to stigma; it is <b>self-</b> or <b>cross-pollination</b>. Cross-pollination is favoured by dioecy, protandry, protogyny, heterostyly and self-sterility, and produces more vigorous, variable offspring.</p>\n<table class=\"tb-table\"><tr><th>Insect-pollinated</th><th>Wind-pollinated</th></tr>\n<tr><td>Large, brightly coloured, scented petals with nectar</td><td>Small, dull, no scent or nectar</td></tr>\n<tr><td>Sticky or spiky pollen, moderate amount</td><td>Light, smooth pollen in large quantity</td></tr>\n<tr><td>Anthers and stigma enclosed</td><td>Anthers and feathery stigma exposed and pendulous</td></tr></table>\n<h4>4. Fertilisation and Fruit Formation</h4>\n<p>The pollen grain germinates, and the pollen tube grows down the style guided by chemotropism. Double fertilisation occurs: one male nucleus fuses with the egg cell to form the diploid zygote, the other with the two polar nuclei to give the triploid endosperm. Afterwards the ovule becomes the seed, the integuments become the testa, and the ovary becomes the fruit. Fruits and seeds are dispersed by wind, water, animals or explosive mechanisms.</p>\n",
+      "examples": [
+        {
+          "q": "Give three adaptations of a wind-pollinated flower.",
+          "a": "(i) Long filaments hold versatile anthers outside the flower so pollen is caught by the wind. (ii) Large feathery stigmas hang out to trap airborne pollen. (iii) Pollen grains are small, light, smooth and produced in very large numbers, compensating for wastage."
+        },
+        {
+          "q": "State the products of double fertilisation in an angiosperm.",
+          "a": "A diploid zygote (2n), which develops into the embryo, and a triploid primary endosperm nucleus (3n), which forms the nutritive endosperm tissue of the seed."
+        }
+      ]
     },
     {
-     "q": "State the products of double fertilisation in an angiosperm.",
-     "a": "A diploid zygote (2n), which develops into the embryo, and a triploid primary endosperm nucleus (3n), which forms the nutritive endosperm tissue of the seed."
-    }
-   ]
-  },
-  {
-   "title": "Reproduction in Humans and Other Animals",
-   "html": "\n<h4>1. Reproductive Systems</h4>\n<p><b>Male</b>: testes in the scrotum (sperm and testosterone), epididymis, vas deferens, seminal vesicle, prostate and Cowper’s glands (seminal fluid), urethra and penis.<br/><b>Female</b>: ovaries (ova and hormones), oviducts (Fallopian tubes — site of fertilisation), uterus, cervix and vagina.</p>\n<h4>2. The Menstrual Cycle (about 28 days)</h4>\n<ol><li>Days 1–5: menstruation — the uterine lining is shed.</li>\n<li>Days 6–13: FSH stimulates a Graafian follicle; oestrogen repairs and thickens the endometrium.</li>\n<li>Day 14: LH surge causes <b>ovulation</b>.</li>\n<li>Days 15–28: the corpus luteum secretes progesterone, maintaining the lining. If fertilisation does not occur the corpus luteum degenerates, progesterone falls and menstruation begins again.</li></ol>\n<h4>3. Fertilisation, Pregnancy and Birth</h4>\n<p>Fertilisation in the oviduct forms a zygote which divides by mitosis to a morula and blastocyst, then implants in the uterine wall. The <b>placenta</b> allows exchange of oxygen, nutrients, antibodies and waste between maternal and fetal blood without the two mixing, and secretes progesterone. The amnion and amniotic fluid protect the fetus from shock, dehydration and temperature change. Gestation lasts about 280 days and ends with labour, driven by oxytocin.</p>\n<h4>4. Reproduction in Other Animals</h4>\n<ul><li><b>Fish and amphibians</b>: external fertilisation, many eggs, little parental care.</li>\n<li><b>Reptiles and birds</b>: internal fertilisation, shelled amniotic eggs, oviparous.</li>\n<li><b>Insects</b>: complete metamorphosis (egg → larva → pupa → adult, as in butterfly, housefly, mosquito) or incomplete metamorphosis (egg → nymph → adult, as in grasshopper, cockroach).</li></ul>\n<h4>5. Family Planning and Reproductive Health</h4>\n<p>Methods include natural (rhythm/safe period, abstinence), barrier (condom, diaphragm), chemical (spermicides), hormonal (pills, injections, implants), intra-uterine devices and surgical (vasectomy, tubal ligation). Benefits: child spacing, reduced maternal and infant mortality, better family welfare and control of population growth. Condoms additionally reduce transmission of HIV and other sexually transmitted infections.</p>\n",
-   "examples": [
-    {
-     "q": "In a regular 28-day cycle, when is ovulation most likely and why is it important in family planning?",
-     "a": "Ovulation occurs about day 14, roughly 14 days before the next menstruation. Since sperm can survive up to 5 days and the ovum about 24 hours, the fertile window is about days 9–16. The rhythm method depends on avoiding intercourse during this period, but it is unreliable in women with irregular cycles."
+      "title": "Reproduction in Humans and Other Animals",
+      "html": "\n<h4>1. Reproductive Systems</h4>\n<p><b>Male</b>: testes in the scrotum (sperm and testosterone), epididymis, vas deferens, seminal vesicle, prostate and Cowper\u2019s glands (seminal fluid), urethra and penis.<br/><b>Female</b>: ovaries (ova and hormones), oviducts (Fallopian tubes \u2014 site of fertilisation), uterus, cervix and vagina.</p>\n<h4>2. The Menstrual Cycle (about 28 days)</h4>\n<ol><li>Days 1\u20135: menstruation \u2014 the uterine lining is shed.</li>\n<li>Days 6\u201313: FSH stimulates a Graafian follicle; oestrogen repairs and thickens the endometrium.</li>\n<li>Day 14: LH surge causes <b>ovulation</b>.</li>\n<li>Days 15\u201328: the corpus luteum secretes progesterone, maintaining the lining. If fertilisation does not occur the corpus luteum degenerates, progesterone falls and menstruation begins again.</li></ol>\n<h4>3. Fertilisation, Pregnancy and Birth</h4>\n<p>Fertilisation in the oviduct forms a zygote which divides by mitosis to a morula and blastocyst, then implants in the uterine wall. The <b>placenta</b> allows exchange of oxygen, nutrients, antibodies and waste between maternal and fetal blood without the two mixing, and secretes progesterone. The amnion and amniotic fluid protect the fetus from shock, dehydration and temperature change. Gestation lasts about 280 days and ends with labour, driven by oxytocin.</p>\n<h4>4. Reproduction in Other Animals</h4>\n<ul><li><b>Fish and amphibians</b>: external fertilisation, many eggs, little parental care.</li>\n<li><b>Reptiles and birds</b>: internal fertilisation, shelled amniotic eggs, oviparous.</li>\n<li><b>Insects</b>: complete metamorphosis (egg \u2192 larva \u2192 pupa \u2192 adult, as in butterfly, housefly, mosquito) or incomplete metamorphosis (egg \u2192 nymph \u2192 adult, as in grasshopper, cockroach).</li></ul>\n<h4>5. Family Planning and Reproductive Health</h4>\n<p>Methods include natural (rhythm/safe period, abstinence), barrier (condom, diaphragm), chemical (spermicides), hormonal (pills, injections, implants), intra-uterine devices and surgical (vasectomy, tubal ligation). Benefits: child spacing, reduced maternal and infant mortality, better family welfare and control of population growth. Condoms additionally reduce transmission of HIV and other sexually transmitted infections.</p>\n",
+      "examples": [
+        {
+          "q": "In a regular 28-day cycle, when is ovulation most likely and why is it important in family planning?",
+          "a": "Ovulation occurs about day 14, roughly 14 days before the next menstruation. Since sperm can survive up to 5 days and the ovum about 24 hours, the fertile window is about days 9\u201316. The rhythm method depends on avoiding intercourse during this period, but it is unreliable in women with irregular cycles."
+        },
+        {
+          "q": "Compare complete and incomplete metamorphosis.",
+          "a": "Complete metamorphosis has four stages \u2014 egg, larva, pupa, adult \u2014 and the larva differs completely from the adult in form and diet (butterfly, mosquito). Incomplete metamorphosis has three stages \u2014 egg, nymph, adult \u2014 with the nymph resembling a small wingless adult and sharing its habitat and food (grasshopper, cockroach)."
+        }
+      ]
     },
     {
-     "q": "Compare complete and incomplete metamorphosis.",
-     "a": "Complete metamorphosis has four stages — egg, larva, pupa, adult — and the larva differs completely from the adult in form and diet (butterfly, mosquito). Incomplete metamorphosis has three stages — egg, nymph, adult — with the nymph resembling a small wingless adult and sharing its habitat and food (grasshopper, cockroach)."
+      "title": "Compare asexual and sexual reproduction and give examples",
+      "html": "<p><b>Compare asexual and sexual reproduction and give examples</b> is a key part of Reproduction (SSS 2, Biology). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Significance: growth, repair and replacement of tissues, asexual reproduction and genetic stability.</li><li>Asexual Reproduction Binary fission ( Amoeba , bacteria), budding (yeast, Hydra ), fragmentation ( Spirogyra ), spore formation ( Rhizopus , ferns).</li><li>Double fertilisation occurs: one male nucleus fuses with the egg cell to form the diploid zygote, the other with the two polar nuclei to give the triploid endosperm.</li><li>Reproduction in Other Animals Fish and amphibians : external fertilisation, many eggs, little parental care.</li><li>Condoms additionally reduce transmission of HIV and other sexually transmitted infections.</li></ul><h4>Worked example</h4><p><b>Q:</b> A major disadvantage of asexual reproduction is<br/><b>A:</b> offspring show no genetic variation \u2014 Genetically identical offspring are equally vulnerable to the same disease or change.</p>",
+      "examples": [
+        {
+          "q": "A major disadvantage of asexual reproduction is",
+          "a": "offspring show no genetic variation \u2014 Genetically identical offspring are equally vulnerable to the same disease or change."
+        }
+      ]
+    },
+    {
+      "title": "Describe the cell cycle, mitosis and meiosis and state their significance",
+      "html": "<p><b>Describe the cell cycle, mitosis and meiosis and state their significance</b> is a key part of Reproduction (SSS 2, Biology). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>The Cell Cycle Interphase (G\u2081, S \u2014 DNA replication, G\u2082) occupies most of the cycle and is followed by the mitotic phase (karyokinesis then cytokinesis).</li><li>Mitosis Mitosis produces two daughter cells genetically identical to the parent, each with the same chromosome number (diploid remains diploid).</li><li>Telophase \u2013 chromosomes decondense; nuclear membranes reform; cytokinesis follows (cleavage furrow in animals, cell plate in plants).</li><li>Significance: growth, repair and replacement of tissues, asexual reproduction and genetic stability.</li><li>Meiosis Meiosis is a reduction division of two successive stages (meiosis I and II) producing four haploid daughter cells from one diploid cell: $$2n \\rightarrow n$$ In prophase I homologous chromosomes pair (synapsis) forming bivalents; crossing over at chiasmata exchanges genetic material.</li></ul><h4>Worked example</h4><p><b>Q:</b> The type of cell division that produces gametes is<br/><b>A:</b> meiosis \u2014 Meiosis halves the chromosome number to form haploid gametes.</p><p><b>Q:</b> During which stage of mitosis do chromatids move to opposite poles?<br/><b>A:</b> Anaphase \u2014 The centromeres divide and spindle fibres pull the chromatids apart in anaphase.</p>",
+      "examples": [
+        {
+          "q": "The type of cell division that produces gametes is",
+          "a": "meiosis \u2014 Meiosis halves the chromosome number to form haploid gametes."
+        },
+        {
+          "q": "During which stage of mitosis do chromatids move to opposite poles?",
+          "a": "Anaphase \u2014 The centromeres divide and spindle fibres pull the chromatids apart in anaphase."
+        }
+      ]
+    },
+    {
+      "title": "Describe the structure of a flower, pollination, fertilisation and fruit/seed formation",
+      "html": "<p><b>Describe the structure of a flower, pollination, fertilisation and fruit/seed formation</b> is a key part of Reproduction (SSS 2, Biology). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Significance: halves the chromosome number so that fertilisation restores the diploid number, and creates genetic variation through crossing over and independent assortment.</li><li>Asexual Reproduction Binary fission ( Amoeba , bacteria), budding (yeast, Hydra ), fragmentation ( Spirogyra ), spore formation ( Rhizopus , ferns).</li><li>The Flower Part Function Calyx (sepals) Protects the bud Corolla (petals) Attracts pollinators (in insect-pollinated flowers) Androecium (stamens: anther + filament) Produces pollen grains (male gametes) Gynoecium (carpel: stigma, style, ovary) Receives pollen; ovary contains ovules 3.</li><li>Pollination Pollination is the transfer of pollen from anther to stigma; it is self- or cross-pollination .</li><li>Cross-pollination is favoured by dioecy, protandry, protogyny, heterostyly and self-sterility, and produces more vigorous, variable offspring.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which feature indicates that a flower is wind pollinated?<br/><b>A:</b> Feathery exposed stigma \u2014 Large feathery stigmas project into the air to trap airborne pollen.</p><p><b>Q:</b> In double fertilisation the endosperm nucleus is<br/><b>A:</b> triploid \u2014 One male nucleus fuses with two polar nuclei, giving a 3n endosperm.</p>",
+      "examples": [
+        {
+          "q": "Which feature indicates that a flower is wind pollinated?",
+          "a": "Feathery exposed stigma \u2014 Large feathery stigmas project into the air to trap airborne pollen."
+        },
+        {
+          "q": "In double fertilisation the endosperm nucleus is",
+          "a": "triploid \u2014 One male nucleus fuses with two polar nuclei, giving a 3n endosperm."
+        }
+      ]
     }
-   ]
-  }
- ],
- "quiz": [
-  {
-   "q": "The type of cell division that produces gametes is",
-   "options": [
-    "mitosis",
-    "meiosis",
-    "binary fission",
-    "budding"
-   ],
-   "answer": "1",
-   "solution": "Meiosis halves the chromosome number to form haploid gametes."
-  },
-  {
-   "q": "During which stage of mitosis do chromatids move to opposite poles?",
-   "options": [
-    "Prophase",
-    "Metaphase",
-    "Anaphase",
-    "Telophase"
-   ],
-   "answer": "2",
-   "solution": "The centromeres divide and spindle fibres pull the chromatids apart in anaphase."
-  },
-  {
-   "q": "Crossing over occurs during",
-   "options": [
-    "prophase I of meiosis",
-    "metaphase of mitosis",
-    "telophase II",
-    "interphase"
-   ],
-   "answer": "0",
-   "solution": "Homologous chromosomes pair and exchange segments at chiasmata in prophase I."
-  },
-  {
-   "q": "A diploid cell with 20 chromosomes produces gametes containing",
-   "options": [
-    "40",
-    "20",
-    "10",
-    "5"
-   ],
-   "answer": "2",
-   "solution": "Meiosis halves the number, so each gamete has 10 chromosomes."
-  },
-  {
-   "q": "Which is an example of vegetative propagation by an underground stem?",
-   "options": [
-    "Onion bulb",
-    "Ginger rhizome",
-    "Carrot tap root",
-    "Cassava stem cutting"
-   ],
-   "answer": "1",
-   "solution": "The ginger rhizome is a horizontal underground stem bearing buds."
-  },
-  {
-   "q": "A major disadvantage of asexual reproduction is",
-   "options": [
-    "it is slow",
-    "offspring show no genetic variation",
-    "it requires two parents",
-    "seeds are always formed"
-   ],
-   "answer": "1",
-   "solution": "Genetically identical offspring are equally vulnerable to the same disease or change."
-  },
-  {
-   "q": "The male gametes of a flowering plant are contained in the",
-   "options": [
-    "ovule",
-    "stigma",
-    "pollen grain",
-    "style"
-   ],
-   "answer": "2",
-   "solution": "Pollen grains contain the generative nucleus which divides into two male nuclei."
-  },
-  {
-   "q": "Which feature indicates that a flower is wind pollinated?",
-   "options": [
-    "Brightly coloured petals",
-    "Nectar guides",
-    "Feathery exposed stigma",
-    "Sticky pollen"
-   ],
-   "answer": "2",
-   "solution": "Large feathery stigmas project into the air to trap airborne pollen."
-  },
-  {
-   "q": "In double fertilisation the endosperm nucleus is",
-   "options": [
-    "haploid",
-    "diploid",
-    "triploid",
-    "tetraploid"
-   ],
-   "answer": "2",
-   "solution": "One male nucleus fuses with two polar nuclei, giving a 3n endosperm."
-  },
-  {
-   "q": "After fertilisation the ovary of a flower develops into the",
-   "options": [
-    "seed",
-    "fruit",
-    "testa",
-    "endosperm"
-   ],
-   "answer": "1",
-   "solution": "The ovary wall becomes the pericarp of the fruit while ovules become seeds."
-  },
-  {
-   "q": "Fertilisation in humans normally occurs in the",
-   "options": [
-    "uterus",
-    "vagina",
-    "oviduct",
-    "ovary"
-   ],
-   "answer": "2",
-   "solution": "The sperm meets the ovum in the upper part of the Fallopian tube."
-  },
-  {
-   "q": "Ovulation in a regular 28-day menstrual cycle occurs around day",
-   "options": [
-    "1",
-    "7",
-    "14",
-    "28"
-   ],
-   "answer": "2",
-   "solution": "An LH surge at mid-cycle releases the ovum from the Graafian follicle."
-  },
-  {
-   "q": "The hormone that maintains the uterine lining after ovulation is",
-   "options": [
-    "oestrogen",
-    "progesterone",
-    "FSH",
-    "oxytocin"
-   ],
-   "answer": "1",
-   "solution": "Progesterone from the corpus luteum keeps the endometrium thick and vascular."
-  },
-  {
-   "q": "The structure that allows exchange of materials between mother and fetus is the",
-   "options": [
-    "amnion",
-    "placenta",
-    "umbilicus only",
-    "cervix"
-   ],
-   "answer": "1",
-   "solution": "The placenta permits diffusion of gases, nutrients and wastes without mixing of blood."
-  },
-  {
-   "q": "Which insect undergoes incomplete metamorphosis?",
-   "options": [
-    "Butterfly",
-    "Housefly",
-    "Grasshopper",
-    "Mosquito"
-   ],
-   "answer": "2",
-   "solution": "The grasshopper passes through egg, nymph and adult stages with no pupa."
-  },
-  {
-   "q": "Vasectomy as a family planning method involves",
-   "options": [
-    "removal of the testes",
-    "cutting and tying the vas deferens",
-    "tying the oviducts",
-    "use of hormones"
-   ],
-   "answer": "1",
-   "solution": "The sperm ducts are cut so that semen contains no sperm; hormone production continues."
-  }
- ]
+  ],
+  "quiz": [
+    {
+      "q": "The type of cell division that produces gametes is",
+      "options": [
+        "mitosis",
+        "meiosis",
+        "binary fission",
+        "budding"
+      ],
+      "answer": 1,
+      "solution": "Meiosis halves the chromosome number to form haploid gametes.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "During which stage of mitosis do chromatids move to opposite poles?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 2,
+      "solution": "The centromeres divide and spindle fibres pull the chromatids apart in anaphase.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Crossing over occurs during",
+      "options": [
+        "prophase I of meiosis",
+        "metaphase of mitosis",
+        "telophase II",
+        "interphase"
+      ],
+      "answer": 0,
+      "solution": "Homologous chromosomes pair and exchange segments at chiasmata in prophase I.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A diploid cell with 20 chromosomes produces gametes containing",
+      "options": [
+        "40",
+        "20",
+        "10",
+        "5"
+      ],
+      "answer": 2,
+      "solution": "Meiosis halves the number, so each gamete has 10 chromosomes.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which is an example of vegetative propagation by an underground stem?",
+      "options": [
+        "Onion bulb",
+        "Ginger rhizome",
+        "Carrot tap root",
+        "Cassava stem cutting"
+      ],
+      "answer": 1,
+      "solution": "The ginger rhizome is a horizontal underground stem bearing buds.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A major disadvantage of asexual reproduction is",
+      "options": [
+        "it is slow",
+        "offspring show no genetic variation",
+        "it requires two parents",
+        "seeds are always formed"
+      ],
+      "answer": 1,
+      "solution": "Genetically identical offspring are equally vulnerable to the same disease or change.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The male gametes of a flowering plant are contained in the",
+      "options": [
+        "ovule",
+        "stigma",
+        "pollen grain",
+        "style"
+      ],
+      "answer": 2,
+      "solution": "Pollen grains contain the generative nucleus which divides into two male nuclei.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which feature indicates that a flower is wind pollinated?",
+      "options": [
+        "Brightly coloured petals",
+        "Nectar guides",
+        "Feathery exposed stigma",
+        "Sticky pollen"
+      ],
+      "answer": 2,
+      "solution": "Large feathery stigmas project into the air to trap airborne pollen.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In double fertilisation the endosperm nucleus is",
+      "options": [
+        "haploid",
+        "diploid",
+        "triploid",
+        "tetraploid"
+      ],
+      "answer": 2,
+      "solution": "One male nucleus fuses with two polar nuclei, giving a 3n endosperm.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "After fertilisation the ovary of a flower develops into the",
+      "options": [
+        "seed",
+        "fruit",
+        "testa",
+        "endosperm"
+      ],
+      "answer": 1,
+      "solution": "The ovary wall becomes the pericarp of the fruit while ovules become seeds.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Fertilisation in humans normally occurs in the",
+      "options": [
+        "uterus",
+        "vagina",
+        "oviduct",
+        "ovary"
+      ],
+      "answer": 2,
+      "solution": "The sperm meets the ovum in the upper part of the Fallopian tube.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Ovulation in a regular 28-day menstrual cycle occurs around day",
+      "options": [
+        "1",
+        "7",
+        "14",
+        "28"
+      ],
+      "answer": 2,
+      "solution": "An LH surge at mid-cycle releases the ovum from the Graafian follicle.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The hormone that maintains the uterine lining after ovulation is",
+      "options": [
+        "oestrogen",
+        "progesterone",
+        "FSH",
+        "oxytocin"
+      ],
+      "answer": 1,
+      "solution": "Progesterone from the corpus luteum keeps the endometrium thick and vascular.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The structure that allows exchange of materials between mother and fetus is the",
+      "options": [
+        "amnion",
+        "placenta",
+        "umbilicus only",
+        "cervix"
+      ],
+      "answer": 1,
+      "solution": "The placenta permits diffusion of gases, nutrients and wastes without mixing of blood.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which insect undergoes incomplete metamorphosis?",
+      "options": [
+        "Butterfly",
+        "Housefly",
+        "Grasshopper",
+        "Mosquito"
+      ],
+      "answer": 2,
+      "solution": "The grasshopper passes through egg, nymph and adult stages with no pupa.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Vasectomy as a family planning method involves",
+      "options": [
+        "removal of the testes",
+        "cutting and tying the vas deferens",
+        "tying the oviducts",
+        "use of hormones"
+      ],
+      "answer": 1,
+      "solution": "The sperm ducts are cut so that semen contains no sperm; hormone production continues.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which form of asexual reproduction is commonly seen in Yeast cells?",
+      "options": [
+        "Binary fission",
+        "Spore formation",
+        "Budding",
+        "Fragmentation"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Budding.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Male reproductive gamete in animals:",
+      "options": [
+        "Sperm",
+        "Ovum",
+        "Pollen",
+        "Zygote"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Sperm.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Height and skin color in humans are examples of what kind of variation?",
+      "options": [
+        "Continuous",
+        "Discontinuous",
+        "Qualitative",
+        "Meristic"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Continuous.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a vestigial organ in humans?",
+      "options": [
+        "Appendix",
+        "Liver",
+        "Pancreas",
+        "Kidney"
+      ],
+      "answer": 0,
+      "solution": "The vermiform appendix is considered vestigial because it has lost its primary function in human digestion compared to ancestors.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a dry indehiscent fruit?",
+      "options": [
+        "Legume",
+        "Capsule",
+        "Caryopsis",
+        "Schizocarp"
+      ],
+      "answer": 2,
+      "solution": "Caryopsis (e.g., maize grain) is a dry fruit that does not split open (indehiscent) when ripe.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The type of placentation found in a tomato fruit is _____.",
+      "options": [
+        "Marginal",
+        "Parietal",
+        "Axile",
+        "Free-central"
+      ],
+      "answer": 2,
+      "solution": "In axile placentation, the carpels are fused and the ovules are attached to the central axis of a multi-locular ovary.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "In a cross between a homozygous red flower (RR) and a homozygous white flower (rr), what is the genotype of the F1 generation if red is dominant?",
+      "options": [
+        "RR",
+        "rr",
+        "Rr",
+        "RW"
+      ],
+      "answer": 2,
+      "solution": "A cross between RR and rr results in 100% Rr (heterozygous) offspring.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following characters is sex-linked in humans?",
+      "options": [
+        "Skin color",
+        "Albinism",
+        "Color blindness",
+        "Intelligence"
+      ],
+      "answer": 2,
+      "solution": "Color blindness is a recessive trait carried on the X-chromosome, making it more common in males.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is an example of a vestigial organ in humans?",
+      "options": [
+        "Liver",
+        "Appendix",
+        "Kidney",
+        "Pancreas"
+      ],
+      "answer": 1,
+      "solution": "The appendix is considered vestigial because it has lost its original ancestral function in human digestion.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Fruit formed without fertilization:",
+      "options": [
+        "Parthenocarpy",
+        "Pollination",
+        "Germination",
+        "Dispersal"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Parthenocarpy.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The main excretory organ in humans is the:",
+      "options": [
+        "Liver",
+        "Skin",
+        "Kidney",
+        "Lung"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Kidney.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Magnesium is an essential element for the formation of:",
+      "options": [
+        "Hemoglobin",
+        "Chlorophyll",
+        "Bones",
+        "Hormones"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Chlorophyll.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The chromosome number in a human gamete is:",
+      "options": [
+        "46",
+        "23",
+        "22",
+        "44"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: 23.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The largest organ in the human body is:",
+      "options": [
+        "Liver",
+        "Skin",
+        "Brain",
+        "Heart"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Skin.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Male gamete in plants:",
+      "options": [
+        "Ovule",
+        "Pollen grain",
+        "Stigma",
+        "Style"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Pollen grain.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Hormone for fruit ripening:",
+      "options": [
+        "Auxin",
+        "Ethylene",
+        "Gibberellin",
+        "Cytokinin"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Ethylene.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Number of vertebrae in human neck:",
+      "options": [
+        "5",
+        "7",
+        "12",
+        "4"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: 7.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a fruit?",
+      "options": [
+        "Potato",
+        "Tomato",
+        "Carrot",
+        "Yam"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Tomato.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Magnesium is needed in plants for:",
+      "options": [
+        "Chlorophyll formation",
+        "Root growth",
+        "Cell wall",
+        "Fruit ripening"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Chlorophyll formation.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Pollination by wind:",
+      "options": [
+        "Anemophily",
+        "Entomophily",
+        "Hydrophily",
+        "Zoophily"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Anemophily.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Normal human body temperature:",
+      "options": [
+        "37\u00b0C",
+        "35\u00b0C",
+        "40\u00b0C",
+        "30\u00b0C"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 37\u00b0C.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Fruit without fertilization:",
+      "options": [
+        "Parthenocarpy",
+        "Pollination",
+        "Germination",
+        "Dispersal"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Parthenocarpy.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Growth hormone in plants:",
+      "options": [
+        "Auxin",
+        "Insulin",
+        "Adrenaline",
+        "Thyroxin"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Auxin.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Number of human chromosomes:",
+      "options": [
+        "23",
+        "46",
+        "22",
+        "44"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: 46.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "What is the correct scientific name for modern humans?",
+      "options": [
+        "Homo erectus",
+        "Homo sapiens",
+        "Panthera leo",
+        "Zea mays"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Homo sapiens.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which mineral element is essential for the formation of strong bones and teeth?",
+      "options": [
+        "Iron",
+        "Calcium",
+        "Iodine",
+        "Sodium"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Calcium.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The microscopic functional unit of the human kidney is the?",
+      "options": [
+        "Neuron",
+        "Alveolus",
+        "Nephron",
+        "Villus"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Nephron.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The largest internal organ/gland in the human body is the?",
+      "options": [
+        "Pancreas",
+        "Liver",
+        "Thyroid",
+        "Pituitary"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Liver.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "An \"aggregate fruit\" (like a raspberry) is formed from?",
+      "options": [
+        "A single ovary of one flower",
+        "Ovaries of many different flowers",
+        "Several ovaries of a single flower",
+        "The receptacle only"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Several ovaries of a single flower.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "In insects with complete metamorphosis, the inactive/resting stage is the?",
+      "options": [
+        "Larva",
+        "Nymph",
+        "Pupa",
+        "Imago"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Pupa.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The production of fruit without fertilization (resulting in seedless fruit) is?",
+      "options": [
+        "Parthenocarpy",
+        "Parthenogenesis",
+        "Pollination",
+        "Germination"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Parthenocarpy.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The sensory organ for olfaction (smell) in humans is the?",
+      "options": [
+        "Tongue",
+        "Nose",
+        "Skin",
+        "Ear"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Nose.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Translocation in plants refers to the movement of manufactured sugars through the?",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Pith",
+        "Cortex"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Phloem.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The set of teeth that are replaced by permanent teeth in humans are the?",
+      "options": [
+        "Wisdom teeth",
+        "Molars",
+        "Milk (Deciduous) teeth",
+        "Canine teeth"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Milk (Deciduous) teeth.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    }
+  ]
 }

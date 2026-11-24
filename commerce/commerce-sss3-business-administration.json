@@ -14,21 +14,21 @@
   "modules": [
     {
       "title": "Capital Structure and Sources of Finance",
-      "html": "\n<h4>Types of Capital</h4>\n<table class=\"tb-table\"><tr><th>Term</th><th>Meaning</th></tr><tr><td>Authorised/nominal capital</td><td>Maximum a company may raise, stated in the memorandum</td></tr><tr><td>Issued capital</td><td>Part of authorised capital offered to the public</td></tr><tr><td>Called-up capital</td><td>Part of issued capital shareholders have been asked to pay</td></tr><tr><td>Paid-up capital</td><td>Amount actually paid by shareholders</td></tr><tr><td>Circulating/working capital</td><td>Funds for day-to-day operations</td></tr><tr><td>Fixed capital</td><td>Long-lived assets: land, buildings, machinery</td></tr><tr><td>Owner's equity/capital owned</td><td>Total assets − total liabilities</td></tr></table>\n<h4>Key Formulae</h4>\n$$\\text{Working Capital} = \\text{Current Assets} - \\text{Current Liabilities}$$\n$$\\text{Capital Employed} = \\text{Total Assets} - \\text{Current Liabilities}$$\n$$\\text{Capital Owned} = \\text{Total Assets} - \\text{Total Liabilities}$$\n$$\\text{Current Ratio} = \\dfrac{\\text{Current Assets}}{\\text{Current Liabilities}}$$\n<h4>Sources of Business Finance</h4>\n<ul><li><strong>Short term</strong> – bank overdraft, trade credit, factoring, commercial paper.</li><li><strong>Medium term</strong> – term loans, hire purchase, leasing, equipment finance.</li><li><strong>Long term</strong> – ordinary and preference shares, debentures, bonds, mortgage loans, retained earnings, venture capital, government/development bank loans.</li></ul>\n<p>Choice depends on cost, duration of need, security available, control implications and repayment ability.</p>\n",
+      "html": "\n<h4>Types of Capital</h4>\n<table class=\"tb-table\"><tr><th>Term</th><th>Meaning</th></tr><tr><td>Authorised/nominal capital</td><td>Maximum a company may raise, stated in the memorandum</td></tr><tr><td>Issued capital</td><td>Part of authorised capital offered to the public</td></tr><tr><td>Called-up capital</td><td>Part of issued capital shareholders have been asked to pay</td></tr><tr><td>Paid-up capital</td><td>Amount actually paid by shareholders</td></tr><tr><td>Circulating/working capital</td><td>Funds for day-to-day operations</td></tr><tr><td>Fixed capital</td><td>Long-lived assets: land, buildings, machinery</td></tr><tr><td>Owner's equity/capital owned</td><td>Total assets \u2212 total liabilities</td></tr></table>\n<h4>Key Formulae</h4>\n$$\\text{Working Capital} = \\text{Current Assets} - \\text{Current Liabilities}$$\n$$\\text{Capital Employed} = \\text{Total Assets} - \\text{Current Liabilities}$$\n$$\\text{Capital Owned} = \\text{Total Assets} - \\text{Total Liabilities}$$\n$$\\text{Current Ratio} = \\dfrac{\\text{Current Assets}}{\\text{Current Liabilities}}$$\n<h4>Sources of Business Finance</h4>\n<ul><li><strong>Short term</strong> \u2013 bank overdraft, trade credit, factoring, commercial paper.</li><li><strong>Medium term</strong> \u2013 term loans, hire purchase, leasing, equipment finance.</li><li><strong>Long term</strong> \u2013 ordinary and preference shares, debentures, bonds, mortgage loans, retained earnings, venture capital, government/development bank loans.</li></ul>\n<p>Choice depends on cost, duration of need, security available, control implications and repayment ability.</p>\n",
       "examples": [
         {
-          "q": "A firm has current assets ₦9,200,000, current liabilities ₦3,700,000 and total assets ₦28,000,000 with long-term loans of ₦7,000,000. Compute working capital, capital employed, capital owned and the current ratio.",
-          "a": "\\( \\text{Working Capital} = 9{,}200{,}000 - 3{,}700{,}000 = ₦5{,}500{,}000 \\). \\( \\text{Capital Employed} = 28{,}000{,}000 - 3{,}700{,}000 = ₦24{,}300{,}000 \\). Total liabilities \\(=3{,}700{,}000+7{,}000{,}000=₦10{,}700{,}000\\), so \\( \\text{Capital Owned} = 28{,}000{,}000 - 10{,}700{,}000 = ₦17{,}300{,}000 \\). \\( \\text{Current Ratio} = \\dfrac{9{,}200{,}000}{3{,}700{,}000} \\approx 2.49:1 \\) – comfortably above the 2:1 rule of thumb."
+          "q": "A firm has current assets \u20a69,200,000, current liabilities \u20a63,700,000 and total assets \u20a628,000,000 with long-term loans of \u20a67,000,000. Compute working capital, capital employed, capital owned and the current ratio.",
+          "a": "\\( \\text{Working Capital} = 9{,}200{,}000 - 3{,}700{,}000 = \u20a65{,}500{,}000 \\). \\( \\text{Capital Employed} = 28{,}000{,}000 - 3{,}700{,}000 = \u20a624{,}300{,}000 \\). Total liabilities \\(=3{,}700{,}000+7{,}000{,}000=\u20a610{,}700{,}000\\), so \\( \\text{Capital Owned} = 28{,}000{,}000 - 10{,}700{,}000 = \u20a617{,}300{,}000 \\). \\( \\text{Current Ratio} = \\dfrac{9{,}200{,}000}{3{,}700{,}000} \\approx 2.49:1 \\) \u2013 comfortably above the 2:1 rule of thumb."
         },
         {
           "q": "Which source of finance suits (i) buying a delivery van (ii) paying staff salaries in a slow month?",
-          "a": "(i) A medium-term hire purchase or lease matches the van's life and spreads the cost; the asset itself serves as security. (ii) A bank overdraft is best – it is short term, flexible and interest is charged only on the amount actually used."
+          "a": "(i) A medium-term hire purchase or lease matches the van's life and spreads the cost; the asset itself serves as security. (ii) A bank overdraft is best \u2013 it is short term, flexible and interest is charged only on the amount actually used."
         }
       ]
     },
     {
       "title": "Business Management and Organisation",
-      "html": "\n<h4>Elements of Management (POSDCORB / Fayol)</h4>\n<ol><li><strong>Planning</strong> – deciding objectives and how to achieve them.</li><li><strong>Organising</strong> – arranging resources and assigning duties.</li><li><strong>Staffing</strong> – recruitment, selection, training and remuneration.</li><li><strong>Directing/Leading</strong> – guiding and motivating employees.</li><li><strong>Co-ordinating</strong> – harmonising the work of departments.</li><li><strong>Controlling</strong> – measuring performance against standards and correcting deviations.</li><li><strong>Budgeting and reporting</strong>.</li></ol>\n<h4>Principles of Management</h4>\n<p>Division of work, authority and responsibility, unity of command, unity of direction, scalar chain, span of control, delegation, discipline, remuneration, esprit de corps.</p>\n<h4>Departments of a Business</h4>\n<table class=\"tb-table\"><tr><th>Department</th><th>Main duties</th></tr><tr><td>Purchasing</td><td>Sourcing suppliers, ordering, stock control</td></tr><tr><td>Production</td><td>Manufacturing, quality control, maintenance</td></tr><tr><td>Marketing/Sales</td><td>Market research, promotion, distribution, after-sales</td></tr><tr><td>Finance/Accounts</td><td>Records, budgets, payments, financial reporting</td></tr><tr><td>Human resources</td><td>Recruitment, training, welfare, industrial relations</td></tr><tr><td>Administration/Legal</td><td>Correspondence, compliance, contracts</td></tr></table>\n<h4>Organisational Structures</h4>\n<ul><li><strong>Line</strong> – direct vertical authority; simple and quick.</li><li><strong>Line and staff</strong> – line managers advised by specialists.</li><li><strong>Functional</strong> – authority by specialisation.</li><li><strong>Matrix/committee</strong> – cross-functional project teams.</li></ul>\n<p><strong>Span of control</strong> is the number of subordinates one manager can effectively supervise; a narrow span produces a tall structure, a wide span a flat one.</p>\n",
+      "html": "\n<h4>Elements of Management (POSDCORB / Fayol)</h4>\n<ol><li><strong>Planning</strong> \u2013 deciding objectives and how to achieve them.</li><li><strong>Organising</strong> \u2013 arranging resources and assigning duties.</li><li><strong>Staffing</strong> \u2013 recruitment, selection, training and remuneration.</li><li><strong>Directing/Leading</strong> \u2013 guiding and motivating employees.</li><li><strong>Co-ordinating</strong> \u2013 harmonising the work of departments.</li><li><strong>Controlling</strong> \u2013 measuring performance against standards and correcting deviations.</li><li><strong>Budgeting and reporting</strong>.</li></ol>\n<h4>Principles of Management</h4>\n<p>Division of work, authority and responsibility, unity of command, unity of direction, scalar chain, span of control, delegation, discipline, remuneration, esprit de corps.</p>\n<h4>Departments of a Business</h4>\n<table class=\"tb-table\"><tr><th>Department</th><th>Main duties</th></tr><tr><td>Purchasing</td><td>Sourcing suppliers, ordering, stock control</td></tr><tr><td>Production</td><td>Manufacturing, quality control, maintenance</td></tr><tr><td>Marketing/Sales</td><td>Market research, promotion, distribution, after-sales</td></tr><tr><td>Finance/Accounts</td><td>Records, budgets, payments, financial reporting</td></tr><tr><td>Human resources</td><td>Recruitment, training, welfare, industrial relations</td></tr><tr><td>Administration/Legal</td><td>Correspondence, compliance, contracts</td></tr></table>\n<h4>Organisational Structures</h4>\n<ul><li><strong>Line</strong> \u2013 direct vertical authority; simple and quick.</li><li><strong>Line and staff</strong> \u2013 line managers advised by specialists.</li><li><strong>Functional</strong> \u2013 authority by specialisation.</li><li><strong>Matrix/committee</strong> \u2013 cross-functional project teams.</li></ul>\n<p><strong>Span of control</strong> is the number of subordinates one manager can effectively supervise; a narrow span produces a tall structure, a wide span a flat one.</p>\n",
       "examples": [
         {
           "q": "A company of 240 workers uses a span of control of 6. How many first-line supervisors are needed, and what is the effect of widening the span to 12?",
@@ -42,15 +42,53 @@
     },
     {
       "title": "Legal Aspects of Business",
-      "html": "\n<h4>Contract</h4>\n<p>A <strong>contract</strong> is an agreement enforceable by law. Essential elements:</p>\n<ol><li><strong>Offer</strong> and <strong>acceptance</strong></li><li><strong>Consideration</strong> – something of value exchanged</li><li><strong>Intention to create legal relations</strong></li><li><strong>Capacity</strong> – parties must be of age and sound mind</li><li><strong>Free consent</strong> – no fraud, duress, undue influence or misrepresentation</li><li><strong>Legality of object</strong> and possibility of performance</li></ol>\n<p>Contracts are discharged by performance, agreement, frustration, breach or operation of law. Remedies for breach: damages, specific performance, injunction, rescission and quantum meruit.</p>\n<h4>Sale of Goods</h4>\n<ul><li><strong>Condition</strong> – a vital term; breach allows rejection of the goods.</li><li><strong>Warranty</strong> – a minor term; breach gives damages only.</li><li><strong>Caveat emptor</strong> – ‘let the buyer beware’, now limited by implied terms of merchantable quality and fitness for purpose.</li><li><strong>Nemo dat quod non habet</strong> – no one can give a better title than he has.</li></ul>\n<h4>Agency</h4>\n<p>An <strong>agent</strong> acts on behalf of a <strong>principal</strong> to create legal relations with third parties. Created by express/implied appointment, necessity, estoppel or ratification. Duties of an agent: obey instructions, act in person, exercise care, account for money and avoid conflicts of interest. Terminated by performance, mutual agreement, revocation, death, insanity or bankruptcy.</p>\n<h4>Modern Trends and Ethics</h4>\n<p>E-commerce, mobile payment, outsourcing, franchising, corporate social responsibility, data protection (NDPC) and anti-money-laundering compliance now shape business practice. Ethical conduct – honest advertising, fair pricing, prompt tax payment and safe products – builds sustainable goodwill.</p>\n",
+      "html": "\n<h4>Contract</h4>\n<p>A <strong>contract</strong> is an agreement enforceable by law. Essential elements:</p>\n<ol><li><strong>Offer</strong> and <strong>acceptance</strong></li><li><strong>Consideration</strong> \u2013 something of value exchanged</li><li><strong>Intention to create legal relations</strong></li><li><strong>Capacity</strong> \u2013 parties must be of age and sound mind</li><li><strong>Free consent</strong> \u2013 no fraud, duress, undue influence or misrepresentation</li><li><strong>Legality of object</strong> and possibility of performance</li></ol>\n<p>Contracts are discharged by performance, agreement, frustration, breach or operation of law. Remedies for breach: damages, specific performance, injunction, rescission and quantum meruit.</p>\n<h4>Sale of Goods</h4>\n<ul><li><strong>Condition</strong> \u2013 a vital term; breach allows rejection of the goods.</li><li><strong>Warranty</strong> \u2013 a minor term; breach gives damages only.</li><li><strong>Caveat emptor</strong> \u2013 \u2018let the buyer beware\u2019, now limited by implied terms of merchantable quality and fitness for purpose.</li><li><strong>Nemo dat quod non habet</strong> \u2013 no one can give a better title than he has.</li></ul>\n<h4>Agency</h4>\n<p>An <strong>agent</strong> acts on behalf of a <strong>principal</strong> to create legal relations with third parties. Created by express/implied appointment, necessity, estoppel or ratification. Duties of an agent: obey instructions, act in person, exercise care, account for money and avoid conflicts of interest. Terminated by performance, mutual agreement, revocation, death, insanity or bankruptcy.</p>\n<h4>Modern Trends and Ethics</h4>\n<p>E-commerce, mobile payment, outsourcing, franchising, corporate social responsibility, data protection (NDPC) and anti-money-laundering compliance now shape business practice. Ethical conduct \u2013 honest advertising, fair pricing, prompt tax payment and safe products \u2013 builds sustainable goodwill.</p>\n",
       "examples": [
         {
-          "q": "Chika advertises a phone for ₦180,000 in a shop window. Musa insists the shop must sell at that price. Is he right?",
+          "q": "Chika advertises a phone for \u20a6180,000 in a shop window. Musa insists the shop must sell at that price. Is he right?",
           "a": "No. A shop display or advertisement is an <em>invitation to treat</em>, not an offer. Musa's willingness to pay is the offer; the shop may accept or reject it. Only on acceptance does a binding contract arise."
         },
         {
           "q": "A trader buys a generator described as 'brand new' but it turns out to be refurbished. State his remedy.",
           "a": "The description goes to the root of the contract, so it is a <strong>condition</strong>, not a warranty. He may repudiate the contract, reject the generator and recover his money, and additionally claim damages for any loss suffered from the misdescription."
+        }
+      ]
+    },
+    {
+      "title": "Working capital, capital employed and business efficiency",
+      "html": "<p><b>Working capital, capital employed and business efficiency</b> is a key part of Business Administration and Legal Aspects (SSS 3, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Types of Capital Term Meaning Authorised/nominal capital Maximum a company may raise, stated in the memorandum Issued capital Part of authorised capital offered to the public Called-up capital Part of issued capital shareholders have been asked to pay Paid-up capital Amount actually paid by shareholders Circulating/working capital Funds for day-to-day operations Fixed capital Long-lived assets: land, buildings, machinery Owner's equity/capital owned Total assets \u2212 total liabilities Key Formulae $$\\text{Working Capital} = \\text{Current Assets} - \\text{Current Liabilities}$$ $$\\text{Capital Employed} = \\text{Total Assets} - \\text{Current Liabilities}$$ $$\\text{Capital Owned} = \\text{Total Assets} - \\text{Total Liabilities}$$ $$\\text{Current Ratio} = \\dfrac{\\text{Current Assets}}{\\text{Current Liabilities}}$$ Sources of Business Finance Short term \u2013 bank overdraft, trade credit, factoring, commercial paper.</li><li>Long term \u2013 ordinary and preference shares, debentures, bonds, mortgage loans, retained earnings, venture capital, government/development bank loans.</li><li>Departments of a Business Department Main duties Purchasing Sourcing suppliers, ordering, stock control Production Manufacturing, quality control, maintenance Marketing/Sales Market research, promotion, distribution, after-sales Finance/Accounts Records, budgets, payments, financial reporting Human resources Recruitment, training, welfare, industrial relations Administration/Legal Correspondence, compliance, contracts Organisational Structures Line \u2013 direct vertical authority; simple and quick.</li><li>Modern Trends and Ethics E-commerce, mobile payment, outsourcing, franchising, corporate social responsibility, data protection (NDPC) and anti-money-laundering compliance now shape business practice.</li><li>Capital employed represents long-term funds tied up in the business.</li></ul><h4>Worked example</h4><p><b>Q:</b> Working capital is<br/><b>A:</b> Current assets \u2212 current liabilities \u2014 It measures funds available for day-to-day operations.</p><p><b>Q:</b> Capital employed equals<br/><b>A:</b> Total assets \u2212 current liabilities \u2014 Capital employed represents long-term funds tied up in the business.</p>",
+      "examples": [
+        {
+          "q": "Working capital is",
+          "a": "Current assets \u2212 current liabilities \u2014 It measures funds available for day-to-day operations."
+        },
+        {
+          "q": "Capital employed equals",
+          "a": "Total assets \u2212 current liabilities \u2014 Capital employed represents long-term funds tied up in the business."
+        }
+      ]
+    },
+    {
+      "title": "Elements and principles of management",
+      "html": "<p><b>Elements and principles of management</b> is a key part of Business Administration and Legal Aspects (SSS 3, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Elements of Management (POSDCORB / Fayol) Planning \u2013 deciding objectives and how to achieve them.</li><li>Principles of Management Division of work, authority and responsibility, unity of command, unity of direction, scalar chain, span of control, delegation, discipline, remuneration, esprit de corps.</li><li>Essential elements: Offer and acceptance Consideration \u2013 something of value exchanged Intention to create legal relations Capacity \u2013 parties must be of age and sound mind Free consent \u2013 no fraud, duress, undue influence or misrepresentation Legality of object and possibility of performance Contracts are discharged by performance, agreement, frustration, breach or operation of law.</li></ul><h4>Worked example</h4><p><b>Q:</b> Controlling as a management function involves<br/><b>A:</b> Comparing performance with standards and correcting deviations \u2014 Control closes the loop between plans and actual results.</p>",
+      "examples": [
+        {
+          "q": "Controlling as a management function involves",
+          "a": "Comparing performance with standards and correcting deviations \u2014 Control closes the loop between plans and actual results."
+        }
+      ]
+    },
+    {
+      "title": "Organisational structure, departments and staffing",
+      "html": "<p><b>Organisational structure, departments and staffing</b> is a key part of Business Administration and Legal Aspects (SSS 3, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Staffing \u2013 recruitment, selection, training and remuneration.</li><li>Co-ordinating \u2013 harmonising the work of departments.</li><li>Departments of a Business Department Main duties Purchasing Sourcing suppliers, ordering, stock control Production Manufacturing, quality control, maintenance Marketing/Sales Market research, promotion, distribution, after-sales Finance/Accounts Records, budgets, payments, financial reporting Human resources Recruitment, training, welfare, industrial relations Administration/Legal Correspondence, compliance, contracts Organisational Structures Line \u2013 direct vertical authority; simple and quick.</li><li>Span of control is the number of subordinates one manager can effectively supervise; a narrow span produces a tall structure, a wide span a flat one.</li><li>Span of control determines whether a structure is tall or flat.</li></ul><h4>Worked example</h4><p><b>Q:</b> The number of subordinates a manager can effectively supervise is the<br/><b>A:</b> Span of control \u2014 Span of control determines whether a structure is tall or flat.</p><p><b>Q:</b> Which department handles recruitment and training?<br/><b>A:</b> Human resources \u2014 HR manages staffing, welfare and industrial relations.</p>",
+      "examples": [
+        {
+          "q": "The number of subordinates a manager can effectively supervise is the",
+          "a": "Span of control \u2014 Span of control determines whether a structure is tall or flat."
+        },
+        {
+          "q": "Which department handles recruitment and training?",
+          "a": "Human resources \u2014 HR manages staffing, welfare and industrial relations."
         }
       ]
     }
@@ -59,35 +97,41 @@
     {
       "q": "Working capital is",
       "options": [
-        "Total assets − total liabilities",
-        "Current assets − current liabilities",
+        "Total assets \u2212 total liabilities",
+        "Current assets \u2212 current liabilities",
         "Fixed assets + stock",
-        "Turnover − expenses"
+        "Turnover \u2212 expenses"
       ],
-      "answer": "1",
-      "solution": "It measures funds available for day-to-day operations."
+      "answer": 1,
+      "solution": "It measures funds available for day-to-day operations.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Capital employed equals",
       "options": [
-        "Total assets − current liabilities",
+        "Total assets \u2212 current liabilities",
         "Issued capital only",
         "Current assets only",
-        "Net profit × 100"
+        "Net profit \u00d7 100"
       ],
-      "answer": "0",
-      "solution": "Capital employed represents long-term funds tied up in the business."
+      "answer": 0,
+      "solution": "Capital employed represents long-term funds tied up in the business.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "If total assets are ₦15m and total liabilities ₦6m, capital owned is",
+      "q": "If total assets are \u20a615m and total liabilities \u20a66m, capital owned is",
       "options": [
-        "₦21m",
-        "₦9m",
-        "₦6m",
-        "₦15m"
+        "\u20a621m",
+        "\u20a69m",
+        "\u20a66m",
+        "\u20a615m"
       ],
-      "answer": "1",
-      "solution": "Capital owned = 15m − 6m = ₦9m."
+      "answer": 1,
+      "solution": "Capital owned = 15m \u2212 6m = \u20a69m.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The maximum capital a company may raise is its",
@@ -97,8 +141,10 @@
         "Called-up capital",
         "Working capital"
       ],
-      "answer": "1",
-      "solution": "Authorised (nominal) capital is stated in the memorandum of association."
+      "answer": 1,
+      "solution": "Authorised (nominal) capital is stated in the memorandum of association.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a short-term source of finance?",
@@ -108,8 +154,10 @@
         "Ordinary shares",
         "Mortgage loan"
       ],
-      "answer": "1",
-      "solution": "An overdraft is repayable on demand and used for temporary shortfalls."
+      "answer": 1,
+      "solution": "An overdraft is repayable on demand and used for temporary shortfalls.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Buying a machine on instalments while using it immediately is",
@@ -119,8 +167,10 @@
         "Factoring",
         "Franchising"
       ],
-      "answer": "1",
-      "solution": "Under hire purchase the buyer uses the asset and owns it after the final instalment."
+      "answer": 1,
+      "solution": "Under hire purchase the buyer uses the asset and owns it after the final instalment.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The number of subordinates a manager can effectively supervise is the",
@@ -130,8 +180,10 @@
         "Unity of command",
         "Chain of distribution"
       ],
-      "answer": "1",
-      "solution": "Span of control determines whether a structure is tall or flat."
+      "answer": 1,
+      "solution": "Span of control determines whether a structure is tall or flat.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Unity of command means an employee should receive orders from",
@@ -141,8 +193,10 @@
         "The union",
         "The customer"
       ],
-      "answer": "1",
-      "solution": "Multiple bosses create confusion and conflicting instructions."
+      "answer": 1,
+      "solution": "Multiple bosses create confusion and conflicting instructions.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is NOT an element of a valid contract?",
@@ -152,8 +206,10 @@
         "Advertisement in a newspaper",
         "Capacity to contract"
       ],
-      "answer": "2",
-      "solution": "An advertisement is usually only an invitation to treat, not an essential element."
+      "answer": 2,
+      "solution": "An advertisement is usually only an invitation to treat, not an essential element.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Breach of a condition in a sale of goods entitles the buyer to",
@@ -163,8 +219,10 @@
         "Nothing",
         "Pay half price"
       ],
-      "answer": "1",
-      "solution": "A condition goes to the root of the contract, so the buyer may repudiate it."
+      "answer": 1,
+      "solution": "A condition goes to the root of the contract, so the buyer may repudiate it.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Caveat emptor means",
@@ -174,8 +232,10 @@
         "No sale without receipt",
         "Goods once sold are returnable"
       ],
-      "answer": "1",
-      "solution": "The buyer should examine goods, though implied statutory terms now protect him."
+      "answer": 1,
+      "solution": "The buyer should examine goods, though implied statutory terms now protect him.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A person who acts on behalf of another to make contracts is a(n)",
@@ -185,8 +245,10 @@
         "Debtor",
         "Creditor"
       ],
-      "answer": "0",
-      "solution": "An agent creates legal relations between the principal and third parties."
+      "answer": 0,
+      "solution": "An agent creates legal relations between the principal and third parties.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which department handles recruitment and training?",
@@ -196,19 +258,23 @@
         "Purchasing",
         "Accounts"
       ],
-      "answer": "1",
-      "solution": "HR manages staffing, welfare and industrial relations."
+      "answer": 1,
+      "solution": "HR manages staffing, welfare and industrial relations.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Current assets ₦4,000,000 and current liabilities ₦2,000,000 give a current ratio of",
+      "q": "Current assets \u20a64,000,000 and current liabilities \u20a62,000,000 give a current ratio of",
       "options": [
         "1:2",
         "2:1",
         "4:1",
         "1:4"
       ],
-      "answer": "1",
-      "solution": "4,000,000 ÷ 2,000,000 = 2:1, the conventional benchmark."
+      "answer": 1,
+      "solution": "4,000,000 \u00f7 2,000,000 = 2:1, the conventional benchmark.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nemo dat quod non habet means",
@@ -218,8 +284,10 @@
         "All sales are final",
         "Goods must be insured"
       ],
-      "answer": "1",
-      "solution": "A seller cannot transfer ownership he does not possess."
+      "answer": 1,
+      "solution": "A seller cannot transfer ownership he does not possess.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Controlling as a management function involves",
@@ -229,8 +297,452 @@
         "Advertising products",
         "Paying dividends"
       ],
-      "answer": "1",
-      "solution": "Control closes the loop between plans and actual results."
+      "answer": 1,
+      "solution": "Control closes the loop between plans and actual results.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Legal tender refers to:",
+      "options": [
+        "Cheques",
+        "Money backed by law",
+        "Bank drafts",
+        "Postal orders"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Money backed by law.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Legal tender:",
+      "options": [
+        "Cheque",
+        "Money backed by law",
+        "Draft",
+        "Order"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Money backed by law.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The legal rule 'Caveat Emptor' means...",
+      "options": [
+        "Let the seller beware",
+        "Let the buyer beware",
+        "The king can do no wrong",
+        "Ignorance is no excuse"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Let the buyer beware.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Legal tender is:",
+      "options": [
+        "Cheques",
+        "Money backed by law",
+        "Bank drafts",
+        "Postal orders"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Money backed by law.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The legal document for partnership is?",
+      "options": [
+        "Memorandum",
+        "Prospectus",
+        "Receipt",
+        "Partnership Deed"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Partnership Deed.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Working Capital:",
+      "options": [
+        "$$ CA - CL $$",
+        "$$ CA + CL $$",
+        "$$ FA - CL $$",
+        "$$ FA + CA $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$ CA - CL $$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Determine the working capital.",
+      "options": [
+        "$$ CA - CL $$",
+        "$$ CA + CL $$",
+        "$$ FA - CL $$",
+        "$$ FA + CA $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ CA - CL $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "A specialized retailer that sells only one line of goods is a _____.",
+      "options": [
+        "Department store",
+        "Supermarket",
+        "Specialty shop",
+        "Hypermarket"
+      ],
+      "answer": 2,
+      "solution": "A specialty shop focuses on a specific category of products, such as a pharmacy or a boutique.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A warehouse owned and operated by the government to store goods until duties are paid is a _____.",
+      "options": [
+        "Private warehouse",
+        "Public warehouse",
+        "Bonded warehouse",
+        "State warehouse"
+      ],
+      "answer": 2,
+      "solution": "Bonded warehouses are used to secure dutiable goods; importers cannot remove them until the customs duties are settled.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A document sent by a seller to a buyer when goods are delivered as a summary of the transaction is a/an _____.",
+      "options": [
+        "Invoice",
+        "Consignment note",
+        "Pro-forma invoice",
+        "Order"
+      ],
+      "answer": 0,
+      "solution": "The invoice is a bill that gives details of the goods sold, their prices, and the total amount due.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A contract that is binding on only one party is described as _____.",
+      "options": [
+        "Valid",
+        "Void",
+        "Voidable",
+        "Unenforceable"
+      ],
+      "answer": 2,
+      "solution": "A voidable contract is one that can be affirmed or rejected by one of the parties, often due to misrepresentation or duress.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The document showing the evidence of a contract of insurance is the _____.",
+      "options": [
+        "Premium",
+        "Policy",
+        "Proposal form",
+        "Cover note"
+      ],
+      "answer": 1,
+      "solution": "The insurance policy is the formal document containing all the terms and conditions of the insurance contract.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The cost of transporting goods to the buyer's premises is known as _____.",
+      "options": [
+        "Carriage inward",
+        "Carriage outward",
+        "Freight",
+        "Demurrage"
+      ],
+      "answer": 1,
+      "solution": "Carriage outward is the shipping cost paid by the seller to deliver goods to a customer.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A warehouse built near a port to store goods for a short time before they are loaded onto a ship is a _____.",
+      "options": [
+        "State warehouse",
+        "Transit shed",
+        "Cold store",
+        "Bonded warehouse"
+      ],
+      "answer": 1,
+      "solution": "Transit sheds are temporary storage facilities at ports for goods awaiting shipment or collection.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A person who buys goods from a manufacturer in large quantities is a _____.",
+      "options": [
+        "Consumer",
+        "Retailer",
+        "Wholesaler",
+        "Broker"
+      ],
+      "answer": 2,
+      "solution": "Wholesalers are the middlemen who bridge the gap between large-scale producers and small-scale retailers.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The use of the internet to buy and sell goods and services is _____.",
+      "options": [
+        "E-mail",
+        "E-commerce",
+        "E-government",
+        "E-learning"
+      ],
+      "answer": 1,
+      "solution": "Electronic commerce includes online shopping, digital payments, and internet banking.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The 'Law of Contract' requires that for an agreement to be valid, there must be _____.",
+      "options": [
+        "at least ten parties",
+        "an offer and an acceptance",
+        "a lawyer present",
+        "payment in foreign currency"
+      ],
+      "answer": 1,
+      "solution": "Offer and acceptance are the two most fundamental elements of a valid contract.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The practice of protecting local industries by placing high taxes on imported goods is _____.",
+      "options": [
+        "Free trade",
+        "Devaluation",
+        "Protectionism",
+        "Globalization"
+      ],
+      "answer": 2,
+      "solution": "Protectionism uses tariffs and quotas to make foreign goods more expensive, encouraging people to buy local products.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The document issued by a seller to a buyer when goods are returned is a _____.",
+      "options": [
+        "debit note",
+        "credit note",
+        "invoice",
+        "pro-forma invoice"
+      ],
+      "answer": 1,
+      "solution": "A credit note is issued to inform the buyer that their account has been credited for returned or overcharged goods.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "An 'unpaid seller' has the right of _____ which allows him to keep the goods until the price is paid.",
+      "options": [
+        "stoppage in transit",
+        "lien",
+        "resale",
+        "re-entry"
+      ],
+      "answer": 1,
+      "solution": "A lien is a legal right to keep possession of property belonging to another person until a debt owed by that person is discharged.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The physical path over which goods are transported by sea is governed by a document called a _____.",
+      "options": [
+        "Shipping Note",
+        "Bill of Lading",
+        "Manifest",
+        "Dock Warrant"
+      ],
+      "answer": 1,
+      "solution": "The Bill of Lading is a document of title and a contract of carriage for goods shipped by sea.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which agency in Nigeria is responsible for the standard and quality of food and drugs?",
+      "options": [
+        "SON",
+        "NAFDAC",
+        "NDLEA",
+        "EFCC"
+      ],
+      "answer": 1,
+      "solution": "The National Agency for Food and Drug Administration and Control (NAFDAC) regulates and controls the manufacture and sale of food and drugs.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "In a contract, an 'Offer' must be followed by _____ for a valid agreement to exist.",
+      "options": [
+        "a rejection",
+        "an acceptance",
+        "a counter-offer",
+        "a lawsuit"
+      ],
+      "answer": 1,
+      "solution": "Offer and acceptance are the two primary requirements for the formation of a binding contract.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following allows a trader to buy goods now and pay at a future date?",
+      "options": [
+        "Cash trade",
+        "Credit trade",
+        "Barter trade",
+        "Entrepot trade"
+      ],
+      "answer": 1,
+      "solution": "Credit trade enables business expansion by allowing buyers to manage their cash flow.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "A contract that is not legally enforceable from the beginning is _____.",
+      "options": [
+        "Valid",
+        "Voidable",
+        "Void",
+        "Implied"
+      ],
+      "answer": 2,
+      "solution": "A void contract has no legal effect and cannot be enforced by either party.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which document shows the details of goods sent?",
+      "options": [
+        "Invoice",
+        "Receipt",
+        "Statement of Account",
+        "Credit Note"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Invoice.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "A Valid Contract must have:",
+      "options": [
+        "Offer and Acceptance",
+        "Writing only",
+        "Witnesses only",
+        "A seal"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Offer and Acceptance.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The document that shows the details of goods sent by a supplier to a buyer is:",
+      "options": [
+        "Invoice",
+        "Credit Note",
+        "Debit Note",
+        "Receipt"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: Invoice.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The portion of authorized capital that has been issued to shareholders is:",
+      "options": [
+        "Called-up capital",
+        "Paid-up capital",
+        "Issued capital",
+        "Reserved capital"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Issued capital.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Capital of a PLC is divided into:",
+      "options": [
+        "Shares",
+        "Debentures",
+        "Bonds",
+        "Loans"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Shares.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The process of making goods available to the final consumer is known as...",
+      "options": [
+        "Production",
+        "Distribution",
+        "Consumption",
+        "Financing"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Distribution.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The document that regulates the internal management of a company is the...",
+      "options": [
+        "Memorandum of Association",
+        "Articles of Association",
+        "Prospectus",
+        "Certificate of Incorporation"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Articles of Association.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The government agency responsible for ensuring the quality of food and drugs in Nigeria is...",
+      "options": [
+        "SON",
+        "NAFDAC",
+        "NDLEA",
+        "EFCC"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: NAFDAC.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A contract is a legally binding...",
+      "options": [
+        "Discussion",
+        "Agreement",
+        "Wish",
+        "Suggestion"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Agreement.",
+      "source": "JAMB 2024",
+      "practice": false
     }
   ]
 }

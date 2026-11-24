@@ -1,0 +1,737 @@
+{
+  "subject": "Computer Studies",
+  "level": "SSS 2",
+  "slug": "operating-systems",
+  "title": "Operating Systems",
+  "outline": [
+    "Introduction to Operating Systems",
+    "Key facts about Operating Systems",
+    "Important terms and examples in Operating Systems",
+    "Importance and application of Operating Systems",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Operating Systems",
+      "html": "<p>Functions and types of operating systems and file management. This section covers introduction to operating systems.</p><h4>Key points</h4><ul><li>Which of the following is an example of an Operating System \u2014 Linux.</li><li>Which is an Operating System \u2014 Windows.</li><li>Which of these is NOT an operating system \u2014 Microsoft Word.</li><li>The term used for a person who gains unauthorized access to computer systems is a... \u2014 Hacker.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which of the following is an example of an Operating System?<br/><b>A:</b> Linux \u2014 Linux is a system software (Operating System) that manages computer hardware and software resources. The others are application softwares.</p><p><b>Q:</b> Which is an Operating System?<br/><b>A:</b> Windows \u2014 Past question (JAMB 2021). Correct answer: Windows.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is an example of an Operating System?",
+          "a": "Linux"
+        },
+        {
+          "q": "Which is an Operating System?",
+          "a": "Windows"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Operating Systems",
+      "html": "<p>Functions and types of operating systems and file management. This section covers key facts about operating systems.</p><h4>Key points</h4><ul><li>Which of the following is an example of an Operating System \u2014 Linux.</li><li>Which is an Operating System \u2014 Windows.</li><li>Which of these is NOT an operating system \u2014 Microsoft Word.</li><li>The term used for a person who gains unauthorized access to computer systems is a... \u2014 Hacker.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which of the following is an example of an Operating System?<br/><b>A:</b> Linux \u2014 Linux is a system software (Operating System) that manages computer hardware and software resources. The others are application softwares.</p><p><b>Q:</b> Which is an Operating System?<br/><b>A:</b> Windows \u2014 Past question (JAMB 2021). Correct answer: Windows.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is an example of an Operating System?",
+          "a": "Linux"
+        },
+        {
+          "q": "Which is an Operating System?",
+          "a": "Windows"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Operating Systems",
+      "html": "<p>Functions and types of operating systems and file management. This section covers important terms and examples in operating systems.</p><h4>Key points</h4><ul><li>Which of the following is an example of an Operating System \u2014 Linux.</li><li>Which is an Operating System \u2014 Windows.</li><li>Which of these is NOT an operating system \u2014 Microsoft Word.</li><li>The term used for a person who gains unauthorized access to computer systems is a... \u2014 Hacker.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which of the following is an example of an Operating System?<br/><b>A:</b> Linux \u2014 Linux is a system software (Operating System) that manages computer hardware and software resources. The others are application softwares.</p><p><b>Q:</b> Which is an Operating System?<br/><b>A:</b> Windows \u2014 Past question (JAMB 2021). Correct answer: Windows.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is an example of an Operating System?",
+          "a": "Linux"
+        },
+        {
+          "q": "Which is an Operating System?",
+          "a": "Windows"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Operating Systems",
+      "html": "<p>Functions and types of operating systems and file management. This section covers importance and application of operating systems.</p><h4>Key points</h4><ul><li>Which of the following is an example of an Operating System \u2014 Linux.</li><li>Which is an Operating System \u2014 Windows.</li><li>Which of these is NOT an operating system \u2014 Microsoft Word.</li><li>The term used for a person who gains unauthorized access to computer systems is a... \u2014 Hacker.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which of the following is an example of an Operating System?<br/><b>A:</b> Linux \u2014 Linux is a system software (Operating System) that manages computer hardware and software resources. The others are application softwares.</p><p><b>Q:</b> Which is an Operating System?<br/><b>A:</b> Windows \u2014 Past question (JAMB 2021). Correct answer: Windows.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is an example of an Operating System?",
+          "a": "Linux"
+        },
+        {
+          "q": "Which is an Operating System?",
+          "a": "Windows"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Functions and types of operating systems and file management. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>Which of the following is an example of an Operating System \u2014 Linux.</li><li>Which is an Operating System \u2014 Windows.</li><li>Which of these is NOT an operating system \u2014 Microsoft Word.</li><li>The term used for a person who gains unauthorized access to computer systems is a... \u2014 Hacker.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which of the following is an example of an Operating System?<br/><b>A:</b> Linux \u2014 Linux is a system software (Operating System) that manages computer hardware and software resources. The others are application softwares.</p><p><b>Q:</b> Which is an Operating System?<br/><b>A:</b> Windows \u2014 Past question (JAMB 2021). Correct answer: Windows.</p>",
+      "examples": [
+        {
+          "q": "Which of the following is an example of an Operating System?",
+          "a": "Linux"
+        },
+        {
+          "q": "Which is an Operating System?",
+          "a": "Windows"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which of the following is an example of an Operating System?",
+      "options": [
+        "Microsoft Word",
+        "Linux",
+        "Google Chrome",
+        "Oracle"
+      ],
+      "answer": 1,
+      "solution": "Linux is a system software (Operating System) that manages computer hardware and software resources. The others are application softwares.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which is an Operating System?",
+      "options": [
+        "Windows",
+        "Word",
+        "Excel",
+        "Chrome"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Windows.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which of these is NOT an operating system?",
+      "options": [
+        "Windows",
+        "Linux",
+        "Android",
+        "Microsoft Word"
+      ],
+      "answer": 3,
+      "solution": "Past question (JAMB 2022). Correct answer: Microsoft Word.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The term used for a person who gains unauthorized access to computer systems is a...",
+      "options": [
+        "User",
+        "Programmer",
+        "Hacker",
+        "System Analyst"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Hacker.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "In Microsoft Excel, the intersection of a row and a column is called a _____.",
+      "options": [
+        "Box",
+        "Table",
+        "Cell",
+        "Range"
+      ],
+      "answer": 2,
+      "solution": "A cell is the basic unit of a spreadsheet where data is entered, identified by a column letter and row number (e.g., A1).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is an input device?",
+      "options": [
+        "Monitor",
+        "Printer",
+        "Scanner",
+        "Speaker"
+      ],
+      "answer": 2,
+      "solution": "A scanner is an input device that captures images from photographic prints, posters, and similar sources for computer editing.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A pre-defined formula in Excel is known as a _____.",
+      "options": [
+        "Variable",
+        "Function",
+        "Argument",
+        "Operator"
+      ],
+      "answer": 1,
+      "solution": "Functions (like SUM, AVERAGE) are built-in formulas in Excel that perform specific calculations.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The file extension for a PowerPoint presentation is usually _____.",
+      "options": [
+        ".docx",
+        ".xlsx",
+        ".pptx",
+        ".txt"
+      ],
+      "answer": 2,
+      "solution": ".pptx is the standard file extension for Microsoft PowerPoint presentations created in versions 2007 and later.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which utility is used to reduce the size of files to save disk space?",
+      "options": [
+        "Antivirus",
+        "Defragmenter",
+        "Compression",
+        "Backup"
+      ],
+      "answer": 2,
+      "solution": "File compression (like ZIP) reduces the file size by encoding data more efficiently.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "1 Byte is equal to:",
+      "options": [
+        "8 bits",
+        "4 bits",
+        "16 bits",
+        "32 bits"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 8 bits.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "ROM is:",
+      "options": [
+        "Non-volatile",
+        "Volatile",
+        "Temporary",
+        "Erasable"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Non-volatile.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Booting is:",
+      "options": [
+        "Starting the computer",
+        "Shutting down",
+        "Typing",
+        "Saving"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Starting the computer.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Recycle Bin stores:",
+      "options": [
+        "Deleted files",
+        "System files",
+        "New files",
+        "Music"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Deleted files.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "CPU stands for:",
+      "options": [
+        "Central Processing Unit",
+        "Control Processing Unit",
+        "Computer Processing Unit",
+        "Central Power Unit"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: Central Processing Unit.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "What does ISP stand for?",
+      "options": [
+        "Internet Service Provider",
+        "Internal Service Provider",
+        "Internet System Provider",
+        "International Service Provider"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: Internet Service Provider.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The blinking line on the screen is called:",
+      "options": [
+        "Pointer",
+        "Cursor",
+        "Mouse",
+        "Line"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Cursor.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Software types:",
+      "options": [
+        "System and Application",
+        "Hard and Soft",
+        "Input and Output",
+        "Internal and External"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: System and Application.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Short cut for Paste:",
+      "options": [
+        "Ctrl+V",
+        "Ctrl+C",
+        "Ctrl+P",
+        "Ctrl+Z"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Ctrl+V.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Flowchart is:",
+      "options": [
+        "Diagrammatic representation",
+        "Code",
+        "Text",
+        "Audio"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Diagrammatic representation.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "A byte consists of how many bits?",
+      "options": [
+        "4 bits",
+        "8 bits",
+        "16 bits",
+        "32 bits"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: 8 bits.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The illegal copying and distribution of software is called...",
+      "options": [
+        "Hacking",
+        "Software Piracy",
+        "Phishing",
+        "Spamming"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Software Piracy.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The protocol used for browsing the web is:",
+      "options": [
+        "FTP",
+        "SMTP",
+        "HTTP",
+        "TCP"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: HTTP.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Which component performs calculations?",
+      "options": [
+        "CU",
+        "ALU",
+        "MU",
+        "Bus"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: ALU.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Input Device:",
+      "options": [
+        "Scanner",
+        "Printer",
+        "Speaker",
+        "Screen"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Scanner.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Virus:",
+      "options": [
+        "Malicious Program",
+        "Hardware",
+        "Bacteria",
+        "User"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Malicious Program.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Octal:",
+      "options": [
+        "Base 8",
+        "10",
+        "16",
+        "2"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Base 8.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Cold Boot:",
+      "options": [
+        "Power on",
+        "Restart",
+        "Sleep",
+        "Hibernate"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Power on.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Spreadsheet Col:",
+      "options": [
+        "Letters",
+        "Numbers",
+        "Symbols",
+        "Colors"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Letters.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Decision symbol in flowchart:",
+      "options": [
+        "Diamond",
+        "Rectangle",
+        "Oval",
+        "Parallelogram"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Diamond.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Operating Systems in Operating Systems?",
+      "options": [
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "Algorithm: \u2014 Step-by-step.",
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "Which of the following is an example of an Operating System \u2014 Linux."
+      ],
+      "answer": 3,
+      "solution": "Which of the following is an example of an Operating System \u2014 Linux.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Operating Systems in Operating Systems?",
+      "options": [
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "Which of the following is an example of an Operating System \u2014 Linux.",
+        "Algorithm: \u2014 Step-by-step."
+      ],
+      "answer": 2,
+      "solution": "Which of the following is an example of an Operating System \u2014 Linux.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Operating Systems in Operating Systems?",
+      "options": [
+        "Algorithm: \u2014 Step-by-step.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "Which of the following is an example of an Operating System \u2014 Linux.",
+        "Which of these is a spreadsheet program \u2014 MS Excel."
+      ],
+      "answer": 2,
+      "solution": "Which of the following is an example of an Operating System \u2014 Linux.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Operating Systems in Operating Systems?",
+      "options": [
+        "Algorithm: \u2014 Step-by-step.",
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "Which of the following is an example of an Operating System \u2014 Linux."
+      ],
+      "answer": 3,
+      "solution": "Which of the following is an example of an Operating System \u2014 Linux.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Operating Systems?",
+      "options": [
+        "Which of the following is an example of an Operating System \u2014 Linux.",
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "Algorithm: \u2014 Step-by-step.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship."
+      ],
+      "answer": 0,
+      "solution": "Which of the following is an example of an Operating System \u2014 Linux.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'following'?",
+      "options": [
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "Which of the following is an example of an Operating System \u2014 Linux.",
+        "Algorithm: \u2014 Step-by-step."
+      ],
+      "answer": 2,
+      "solution": "Which of the following is an example of an Operating System \u2014 Linux.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'system'?",
+      "options": [
+        "Which is an Operating System \u2014 Windows.",
+        "Algorithm: \u2014 Step-by-step.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "Which of these is a spreadsheet program \u2014 MS Excel."
+      ],
+      "answer": 0,
+      "solution": "Which is an Operating System \u2014 Windows.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'term'?",
+      "options": [
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "The term used for a person who gains unauthorized access to computer systems is a... \u2014 Hacker.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "Algorithm: \u2014 Step-by-step."
+      ],
+      "answer": 1,
+      "solution": "The term used for a person who gains unauthorized access to computer systems is a... \u2014 Hacker.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'microsoft'?",
+      "options": [
+        "Algorithm: \u2014 Step-by-step.",
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "In Microsoft Excel, the intersection of a row and a column is called a _____. \u2014 Cell."
+      ],
+      "answer": 3,
+      "solution": "In Microsoft Excel, the intersection of a row and a column is called a _____. \u2014 Cell.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'pre'?",
+      "options": [
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "Algorithm: \u2014 Step-by-step.",
+        "A pre-defined formula in Excel is known as a _____. \u2014 Function.",
+        "Which of these is a spreadsheet program \u2014 MS Excel."
+      ],
+      "answer": 2,
+      "solution": "A pre-defined formula in Excel is known as a _____. \u2014 Function.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'file'?",
+      "options": [
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "The file extension for a PowerPoint presentation is usually _____. \u2014 .pptx.",
+        "Algorithm: \u2014 Step-by-step.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship."
+      ],
+      "answer": 1,
+      "solution": "The file extension for a PowerPoint presentation is usually _____. \u2014 .pptx.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'utility'?",
+      "options": [
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "Algorithm: \u2014 Step-by-step.",
+        "Which utility is used to reduce the size of files to save disk space \u2014 Compression.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship."
+      ],
+      "answer": 2,
+      "solution": "Which utility is used to reduce the size of files to save disk space \u2014 Compression.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'byte'?",
+      "options": [
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "Algorithm: \u2014 Step-by-step.",
+        "1 Byte is equal to: \u2014 8 bits."
+      ],
+      "answer": 3,
+      "solution": "1 Byte is equal to: \u2014 8 bits.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'rom'?",
+      "options": [
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "ROM is: \u2014 Non-volatile.",
+        "Algorithm: \u2014 Step-by-step."
+      ],
+      "answer": 2,
+      "solution": "ROM is: \u2014 Non-volatile.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'booting'?",
+      "options": [
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "Algorithm: \u2014 Step-by-step.",
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "Booting is: \u2014 Starting the computer."
+      ],
+      "answer": 3,
+      "solution": "Booting is: \u2014 Starting the computer.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'recycle'?",
+      "options": [
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "Recycle Bin stores: \u2014 Deleted files.",
+        "Algorithm: \u2014 Step-by-step."
+      ],
+      "answer": 2,
+      "solution": "Recycle Bin stores: \u2014 Deleted files.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'cpu'?",
+      "options": [
+        "Algorithm: \u2014 Step-by-step.",
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "CPU stands for: \u2014 Central Processing Unit."
+      ],
+      "answer": 3,
+      "solution": "CPU stands for: \u2014 Central Processing Unit.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'isp'?",
+      "options": [
+        "What does ISP stand for \u2014 Internet Service Provider.",
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "Algorithm: \u2014 Step-by-step."
+      ],
+      "answer": 0,
+      "solution": "What does ISP stand for \u2014 Internet Service Provider.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'blinking'?",
+      "options": [
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "Algorithm: \u2014 Step-by-step.",
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "The blinking line on the screen is called: \u2014 Cursor."
+      ],
+      "answer": 3,
+      "solution": "The blinking line on the screen is called: \u2014 Cursor.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'software'?",
+      "options": [
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "Software types: \u2014 System and Application.",
+        "Algorithm: \u2014 Step-by-step.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship."
+      ],
+      "answer": 1,
+      "solution": "Software types: \u2014 System and Application.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Operating Systems \u2014 'short'?",
+      "options": [
+        "Which of these is a spreadsheet program \u2014 MS Excel.",
+        "Algorithm: \u2014 Step-by-step.",
+        "Short cut for Paste: \u2014 Ctrl+V.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship."
+      ],
+      "answer": 2,
+      "solution": "Short cut for Paste: \u2014 Ctrl+V.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

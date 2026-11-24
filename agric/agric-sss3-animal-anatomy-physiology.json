@@ -53,6 +53,34 @@
           "a": "The kidney filters blood to remove metabolic wastes such as urea and excess salts, forming urine. Efficient excretion is important because it removes toxic waste products from the body, preventing their build-up, and helps maintain water and salt balance (homeostasis) necessary for normal body function."
         }
       ]
+    },
+    {
+      "title": "The Digestive System: Monogastric and Ruminant Animals",
+      "html": "<p><b>The Digestive System: Monogastric and Ruminant Animals</b> is a key part of Animal Anatomy and Physiology (SSS 3, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Introduction to Animal Anatomy and Physiology Animal anatomy is the study of the structure of the body of animals and the relationship between its parts, while animal physiology is the study of the functions performed by these body parts and systems.</li><li>Farm animals are grouped into monogastric animals (single-chambered stomach, e.g.</li><li>pig, poultry, rabbit) and ruminant animals (compound four-chambered stomach, e.g.</li><li>The body is organised hierarchically: cells form tissues, tissues form organs, and organs work together as systems, e.g.</li><li>skeletal, muscular, digestive, circulatory, respiratory, reproductive, excretory, nervous and endocrine systems.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which of these animals is classified as a ruminant?<br/><b>A:</b> Goat \u2014 Goats possess a compound, four-chambered stomach and are classified as ruminants, unlike pigs, rabbits and chickens which are monogastric.</p><p><b>Q:</b> The largest compartment of the ruminant stomach, responsible for microbial fermentation, is the:<br/><b>A:</b> Rumen \u2014 The rumen is the largest compartment and the main site of microbial fermentation of fibre.</p>",
+      "examples": [
+        {
+          "q": "Which of these animals is classified as a ruminant?",
+          "a": "Goat \u2014 Goats possess a compound, four-chambered stomach and are classified as ruminants, unlike pigs, rabbits and chickens which are monogastric."
+        },
+        {
+          "q": "The largest compartment of the ruminant stomach, responsible for microbial fermentation, is the:",
+          "a": "Rumen \u2014 The rumen is the largest compartment and the main site of microbial fermentation of fibre."
+        }
+      ]
+    },
+    {
+      "title": "The Reproductive System and Physiology of Reproduction",
+      "html": "<p><b>The Reproductive System and Physiology of Reproduction</b> is a key part of Animal Anatomy and Physiology (SSS 3, Agricultural Science). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Introduction to Animal Anatomy and Physiology Animal anatomy is the study of the structure of the body of animals and the relationship between its parts, while animal physiology is the study of the functions performed by these body parts and systems.</li><li>The body is organised hierarchically: cells form tissues, tissues form organs, and organs work together as systems, e.g.</li><li>skeletal, muscular, digestive, circulatory, respiratory, reproductive, excretory, nervous and endocrine systems.</li><li>Skeletal and Muscular Systems The skeleton provides support, protects organs, enables locomotion, produces blood cells in bone marrow, and stores minerals like calcium and phosphorus.</li><li>Importance of Studying Anatomy and Physiology Helps formulate rations suited to the digestive capacity of the animal.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which organ pumps blood around the body?<br/><b>A:</b> Heart \u2014 The heart is the muscular pump of the circulatory system that maintains blood flow.</p><p><b>Q:</b> Gaseous exchange in the respiratory system occurs mainly in the:<br/><b>A:</b> Alveoli \u2014 The alveoli are thin-walled air sacs richly supplied with capillaries where oxygen and carbon dioxide are exchanged.</p>",
+      "examples": [
+        {
+          "q": "Which organ pumps blood around the body?",
+          "a": "Heart \u2014 The heart is the muscular pump of the circulatory system that maintains blood flow."
+        },
+        {
+          "q": "Gaseous exchange in the respiratory system occurs mainly in the:",
+          "a": "Alveoli \u2014 The alveoli are thin-walled air sacs richly supplied with capillaries where oxygen and carbon dioxide are exchanged."
+        }
+      ]
     }
   ],
   "quiz": [
@@ -64,8 +92,10 @@
         "Goat",
         "Chicken"
       ],
-      "answer": "2",
-      "solution": "Goats possess a compound, four-chambered stomach and are classified as ruminants, unlike pigs, rabbits and chickens which are monogastric."
+      "answer": 2,
+      "solution": "Goats possess a compound, four-chambered stomach and are classified as ruminants, unlike pigs, rabbits and chickens which are monogastric.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The largest compartment of the ruminant stomach, responsible for microbial fermentation, is the:",
@@ -75,8 +105,10 @@
         "Reticulum",
         "Rumen"
       ],
-      "answer": "3",
-      "solution": "The rumen is the largest compartment and the main site of microbial fermentation of fibre."
+      "answer": 3,
+      "solution": "The rumen is the largest compartment and the main site of microbial fermentation of fibre.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which enzyme, secreted in the monogastric stomach, digests protein?",
@@ -86,8 +118,10 @@
         "Lipase",
         "Cellulase"
       ],
-      "answer": "1",
-      "solution": "Pepsin digests protein into peptones; amylase digests starch and lipase digests fat."
+      "answer": 1,
+      "solution": "Pepsin digests protein into peptones; amylase digests starch and lipase digests fat.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The 'true stomach' of a ruminant, which functions like a monogastric stomach, is the:",
@@ -97,8 +131,10 @@
         "Omasum",
         "Abomasum"
       ],
-      "answer": "3",
-      "solution": "The abomasum secretes gastric juice and digests feed enzymatically, similar to the monogastric stomach."
+      "answer": 3,
+      "solution": "The abomasum secretes gastric juice and digests feed enzymatically, similar to the monogastric stomach.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which joint type allows movement in all directions, as in the hip joint?",
@@ -108,8 +144,10 @@
         "Ball and socket joint",
         "Gliding joint"
       ],
-      "answer": "2",
-      "solution": "A ball and socket joint allows movement in nearly all directions."
+      "answer": 2,
+      "solution": "A ball and socket joint allows movement in nearly all directions.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which type of muscle is found only in the heart?",
@@ -119,8 +157,10 @@
         "Cardiac muscle",
         "Voluntary muscle"
       ],
-      "answer": "2",
-      "solution": "Cardiac muscle is a specialised involuntary muscle found only in the heart wall."
+      "answer": 2,
+      "solution": "Cardiac muscle is a specialised involuntary muscle found only in the heart wall.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Chewing the cud, a process unique to ruminants, is known as:",
@@ -130,8 +170,10 @@
         "Egestion",
         "Assimilation"
       ],
-      "answer": "1",
-      "solution": "Rumination is regurgitation of cud from the rumen back to the mouth for further chewing."
+      "answer": 1,
+      "solution": "Rumination is regurgitation of cud from the rumen back to the mouth for further chewing.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Bone marrow is important because it:",
@@ -141,8 +183,10 @@
         "Secretes bile",
         "Filters urine"
       ],
-      "answer": "1",
-      "solution": "Bone marrow produces red and white blood cells."
+      "answer": 1,
+      "solution": "Bone marrow produces red and white blood cells.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which organ pumps blood around the body?",
@@ -152,8 +196,10 @@
         "Heart",
         "Lung"
       ],
-      "answer": "2",
-      "solution": "The heart is the muscular pump of the circulatory system that maintains blood flow."
+      "answer": 2,
+      "solution": "The heart is the muscular pump of the circulatory system that maintains blood flow.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Gaseous exchange in the respiratory system occurs mainly in the:",
@@ -163,8 +209,10 @@
         "Alveoli",
         "Nostrils"
       ],
-      "answer": "2",
-      "solution": "The alveoli are thin-walled air sacs richly supplied with capillaries where oxygen and carbon dioxide are exchanged."
+      "answer": 2,
+      "solution": "The alveoli are thin-walled air sacs richly supplied with capillaries where oxygen and carbon dioxide are exchanged.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which organ produces sperm cells and testosterone in the male reproductive system?",
@@ -174,8 +222,10 @@
         "Vas deferens",
         "Prostate gland"
       ],
-      "answer": "1",
-      "solution": "The testis produces both sperm cells and the male hormone testosterone."
+      "answer": 1,
+      "solution": "The testis produces both sperm cells and the male hormone testosterone.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which organ filters the blood to remove metabolic wastes, producing urine?",
@@ -185,8 +235,10 @@
         "Pancreas",
         "Spleen"
       ],
-      "answer": "1",
-      "solution": "The kidney filters blood, removing wastes such as urea, and produces urine."
+      "answer": 1,
+      "solution": "The kidney filters blood, removing wastes such as urea, and produces urine.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which hormone, secreted by the pancreas, regulates blood sugar level?",
@@ -196,8 +248,10 @@
         "Insulin",
         "Oestrogen"
       ],
-      "answer": "2",
-      "solution": "Insulin, secreted by the pancreas, regulates blood glucose levels."
+      "answer": 2,
+      "solution": "Insulin, secreted by the pancreas, regulates blood glucose levels.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The nervous system's central components are the:",
@@ -207,8 +261,10 @@
         "Kidneys and liver",
         "Testes and ovaries"
       ],
-      "answer": "1",
-      "solution": "The central nervous system consists of the brain and spinal cord, which coordinate body activities."
+      "answer": 1,
+      "solution": "The central nervous system consists of the brain and spinal cord, which coordinate body activities.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these is NOT a function of the skeletal system?",
@@ -218,8 +274,465 @@
         "Digestion of feed",
         "Storage of minerals"
       ],
-      "answer": "2",
-      "solution": "Digestion of feed is carried out by the digestive system, not the skeletal system."
+      "answer": 2,
+      "solution": "Digestion of feed is carried out by the digestive system, not the skeletal system.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The largest stomach compartment in a ruminant is the?",
+      "options": [
+        "Reticulum.",
+        "Rumen.",
+        "Omasum.",
+        "Abomasum."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Rumen..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \"true stomach\" of a ruminant is the?",
+      "options": [
+        "Rumen.",
+        "Reticulum.",
+        "Abomasum.",
+        "Omasum."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Abomasum..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The heat period in animals is called?",
+      "options": [
+        "Gestation.",
+        "Parturition.",
+        "Lactation.",
+        "Oestrus."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Oestrus..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Alkaline soils are common in?",
+      "options": [
+        "Dry regions.",
+        "High rainfall areas.",
+        "Tropical forests.",
+        "Swamps."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Dry regions..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Waterlogging causes?",
+      "options": [
+        "Too much oxygen.",
+        "Rapid growth.",
+        "Lack of oxygen for roots.",
+        "Deep roots."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Lack of oxygen for roots..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Silt particles are?",
+      "options": [
+        "Largest.",
+        "Smallest.",
+        "Intermediate in size.",
+        "Invisible."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Intermediate in size..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Leaching is most common in?",
+      "options": [
+        "Sandy soils.",
+        "Clay soils.",
+        "Peat soils.",
+        "Saline soils."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Sandy soils..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "In the nitrogen cycle, lightning helps in?",
+      "options": [
+        "Denitrification.",
+        "Plant growth.",
+        "Nitrogen fixation.",
+        "Death."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Nitrogen fixation..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Sulphur is a component of?",
+      "options": [
+        "Fat.",
+        "Water.",
+        "Sand.",
+        "Proteins."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Proteins..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Incipient wilting is?",
+      "options": [
+        "Death.",
+        "Rapid growth.",
+        "Temporary loss of turgidity.",
+        "Flowering."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Temporary loss of turgidity..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Permanent Wilting Point (PWP) means?",
+      "options": [
+        "Plant is thirsty.",
+        "Plant cannot recover.",
+        "Plant is sleeping.",
+        "Plant is green."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Plant cannot recover..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Cation exchange occurs on the surface of?",
+      "options": [
+        "Stones.",
+        "Water.",
+        "Air.",
+        "Colloids."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Colloids..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Shelterbelts are used to?",
+      "options": [
+        "Store water.",
+        "Reduce wind erosion.",
+        "Hide animals.",
+        "Plant rice."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Reduce wind erosion..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Overgrazing causes?",
+      "options": [
+        "Grass growth.",
+        "More rain.",
+        "Forest growth.",
+        "Soil compaction and erosion."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Soil compaction and erosion..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\"Shifting cultivation\" is also known as?",
+      "options": [
+        "Commercial farming.",
+        "Slash and burn.",
+        "Ranching.",
+        "Irrigation."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Slash and burn..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The most common gas in the atmosphere (78%) is?",
+      "options": [
+        "Oxygen.",
+        "Carbon.",
+        "Nitrogen.",
+        "Argon."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Nitrogen..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Sedimentary rocks are often?",
+      "options": [
+        "Crystalline.",
+        "Layered (Stratified).",
+        "Glassy.",
+        "Liquid."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Layered (Stratified)..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Fossils are mostly found in?",
+      "options": [
+        "Igneous rocks.",
+        "Metamorphic rocks.",
+        "Sedimentary rocks.",
+        "Granite."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Sedimentary rocks..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Cereals are primarily?",
+      "options": [
+        "Protein sources.",
+        "Carbohydrate sources.",
+        "Fat sources.",
+        "Vitamins."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Carbohydrate sources..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Maize is a?",
+      "options": [
+        "Legume.",
+        "Tuber.",
+        "Cereal.",
+        "Spice."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Cereal..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Rice is best grown in?",
+      "options": [
+        "Deserts.",
+        "Swampy/Flooded land.",
+        "Rocky hills.",
+        "Dry sand."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Swampy/Flooded land..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Cowpea is a?",
+      "options": [
+        "Cereal.",
+        "Fiber crop.",
+        "Beverage crop.",
+        "Legume."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Legume..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The process of removing seeds from cotton is?",
+      "options": [
+        "Retting.",
+        "Milling.",
+        "Ginning.",
+        "Threshing."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Ginning..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Oil palm fruit consists of?",
+      "options": [
+        "Only seeds.",
+        "Pericarp and Kernel.",
+        "Only skin.",
+        "Flowers."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Pericarp and Kernel..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The botanical name for Yam is?",
+      "options": [
+        "Dioscorea spp",
+        "Musa spp",
+        "Elaeis guineensis",
+        "Gossypium spp."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Dioscorea spp.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Pruning involves?",
+      "options": [
+        "Planting seeds.",
+        "Applying fertilizer.",
+        "Removing excess branches.",
+        "Harvesting."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Removing excess branches..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Thinning is the?",
+      "options": [
+        "Cutting of trees.",
+        "Removal of excess seedlings.",
+        "Adding water.",
+        "Killing pests."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Removal of excess seedlings..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A tool used for transplanting is?",
+      "options": [
+        "Cutlass.",
+        "Hoe.",
+        "Hand trowel.",
+        "Rake."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Hand trowel..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Propagation of cassava is by?",
+      "options": [
+        "Seeds.",
+        "Stem cuttings.",
+        "Roots.",
+        "Leaves."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Stem cuttings..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Propagation of yam is by?",
+      "options": [
+        "Seeds.",
+        "Stems.",
+        "Flowers.",
+        "Tubers (Setts)."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Tubers (Setts)..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A \"weed\" is?",
+      "options": [
+        "A medicinal herb.",
+        "Grass.",
+        "A plant out of place.",
+        "A forest tree."
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: A plant out of place..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Striga is a parasitic weed common in?",
+      "options": [
+        "Tubers.",
+        "Cocoa.",
+        "Rubber.",
+        "Cereals."
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Cereals..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Chemicals used to kill weeds are?",
+      "options": [
+        "Pesticides.",
+        "Hericides.",
+        "Fungicides.",
+        "Nematicides."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Hericides..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The best time to weed is?",
+      "options": [
+        "After harvest.",
+        "Before flowering.",
+        "During dry season.",
+        "At night."
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Before flowering..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Insects with biting and chewing mouthparts include?",
+      "options": [
+        "Grasshoppers.",
+        "Butterflies.",
+        "Aphids.",
+        "Mosquitoes."
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Grasshoppers..",
+      "source": "Past-question bank (legacy)",
+      "practice": false
     }
   ]
 }

@@ -4,7 +4,7 @@
   "slug": "business-formation-protection",
   "title": "Business Formation & Protection",
   "outline": [
-    "Forms of business organisation – an overview",
+    "Forms of business organisation \u2013 an overview",
     "Sole proprietorship: features, merits and demerits",
     "Partnership: types of partners, deed, merits and demerits",
     "Dissolution of partnership",
@@ -15,25 +15,25 @@
   "modules": [
     {
       "title": "Sole Proprietorship",
-      "html": "\n<h4>Meaning</h4>\n<p>A <strong>sole proprietorship (one-man business)</strong> is owned, financed, controlled and managed by one person who takes all profits and bears all losses. It is the oldest and commonest form of business in Nigeria.</p>\n<h4>Features</h4>\n<ul><li>Single ownership and easy formation.</li><li><strong>Unlimited liability</strong> – personal assets can be seized to settle business debts.</li><li>No separate legal entity from the owner.</li><li>Capital from personal savings, loans, gifts and ploughed-back profits.</li><li>Limited life – death or bankruptcy of the owner usually ends the business.</li></ul>\n<h4>Advantages</h4>\n<ol><li>Simple and cheap to set up; few legal formalities.</li><li>Quick decision-making and flexibility.</li><li>All profits belong to the owner – strong incentive.</li><li>Business secrets are preserved; no accounts published.</li><li>Close personal contact with customers and staff.</li></ol>\n<h4>Disadvantages</h4>\n<ol><li>Unlimited liability.</li><li>Limited capital restricts expansion.</li><li>No continuity of existence.</li><li>Burden of management falls on one person.</li><li>Limited managerial skill and no economies of scale.</li></ol>\n",
+      "html": "\n<h4>Meaning</h4>\n<p>A <strong>sole proprietorship (one-man business)</strong> is owned, financed, controlled and managed by one person who takes all profits and bears all losses. It is the oldest and commonest form of business in Nigeria.</p>\n<h4>Features</h4>\n<ul><li>Single ownership and easy formation.</li><li><strong>Unlimited liability</strong> \u2013 personal assets can be seized to settle business debts.</li><li>No separate legal entity from the owner.</li><li>Capital from personal savings, loans, gifts and ploughed-back profits.</li><li>Limited life \u2013 death or bankruptcy of the owner usually ends the business.</li></ul>\n<h4>Advantages</h4>\n<ol><li>Simple and cheap to set up; few legal formalities.</li><li>Quick decision-making and flexibility.</li><li>All profits belong to the owner \u2013 strong incentive.</li><li>Business secrets are preserved; no accounts published.</li><li>Close personal contact with customers and staff.</li></ol>\n<h4>Disadvantages</h4>\n<ol><li>Unlimited liability.</li><li>Limited capital restricts expansion.</li><li>No continuity of existence.</li><li>Burden of management falls on one person.</li><li>Limited managerial skill and no economies of scale.</li></ol>\n",
       "examples": [
         {
-          "q": "Mr. Bello's provision store owes ₦1,200,000 but business assets are worth only ₦700,000. What happens?",
-          "a": "Because a sole trader has unlimited liability, the creditors may proceed against his private property – car, personal savings, or house – to recover the outstanding ₦500,000. There is no legal separation between the man and his business."
+          "q": "Mr. Bello's provision store owes \u20a61,200,000 but business assets are worth only \u20a6700,000. What happens?",
+          "a": "Because a sole trader has unlimited liability, the creditors may proceed against his private property \u2013 car, personal savings, or house \u2013 to recover the outstanding \u20a6500,000. There is no legal separation between the man and his business."
         },
         {
-          "q": "A sole trader has current assets ₦480,000 and current liabilities ₦510,000. Comment on his position.",
-          "a": "Working Capital \\( = 480{,}000 - 510{,}000 = -₦30{,}000 \\). Negative working capital means he cannot meet short-term obligations from short-term assets; he risks insolvency and should raise finance or reduce credit purchases."
+          "q": "A sole trader has current assets \u20a6480,000 and current liabilities \u20a6510,000. Comment on his position.",
+          "a": "Working Capital \\( = 480{,}000 - 510{,}000 = -\u20a630{,}000 \\). Negative working capital means he cannot meet short-term obligations from short-term assets; he risks insolvency and should raise finance or reduce credit purchases."
         }
       ]
     },
     {
       "title": "Partnership",
-      "html": "\n<h4>Meaning</h4>\n<p>A <strong>partnership</strong> is an association of between 2 and 20 persons (2–10 for banking) who agree to carry on business in common with a view to profit.</p>\n<h4>Types of Partnership</h4>\n<ul><li><strong>Ordinary/general partnership</strong> – all partners have unlimited liability and take part in management.</li><li><strong>Limited partnership</strong> – has at least one general partner with unlimited liability; limited partners' liability is restricted to capital contributed.</li></ul>\n<h4>Types of Partners</h4>\n<table class=\"tb-table\"><tr><th>Partner</th><th>Description</th></tr><tr><td>Active/general</td><td>Contributes capital and manages the firm</td></tr><tr><td>Sleeping/dormant</td><td>Contributes capital but takes no part in management</td></tr><tr><td>Nominal/quasi</td><td>Lends only his name/reputation; no capital</td></tr><tr><td>Limited</td><td>Liability limited to capital contributed</td></tr><tr><td>Infant</td><td>Under 18; may withdraw within one year of attaining majority</td></tr></table>\n<h4>The Partnership Deed</h4>\n<p>Contains: name and address of firm, capital of each partner, profit and loss sharing ratio, interest on capital and drawings, salaries, duties, procedure for admitting/retiring partners, and settlement of disputes. Where there is no deed, the Partnership Act applies: profits shared equally, no interest on capital, no salaries, 5% interest on advances.</p>\n<h4>Dissolution</h4>\n<p>By mutual agreement, expiry of term, death/bankruptcy/insanity of a partner, court order, or where the business becomes illegal.</p>\n",
+      "html": "\n<h4>Meaning</h4>\n<p>A <strong>partnership</strong> is an association of between 2 and 20 persons (2\u201310 for banking) who agree to carry on business in common with a view to profit.</p>\n<h4>Types of Partnership</h4>\n<ul><li><strong>Ordinary/general partnership</strong> \u2013 all partners have unlimited liability and take part in management.</li><li><strong>Limited partnership</strong> \u2013 has at least one general partner with unlimited liability; limited partners' liability is restricted to capital contributed.</li></ul>\n<h4>Types of Partners</h4>\n<table class=\"tb-table\"><tr><th>Partner</th><th>Description</th></tr><tr><td>Active/general</td><td>Contributes capital and manages the firm</td></tr><tr><td>Sleeping/dormant</td><td>Contributes capital but takes no part in management</td></tr><tr><td>Nominal/quasi</td><td>Lends only his name/reputation; no capital</td></tr><tr><td>Limited</td><td>Liability limited to capital contributed</td></tr><tr><td>Infant</td><td>Under 18; may withdraw within one year of attaining majority</td></tr></table>\n<h4>The Partnership Deed</h4>\n<p>Contains: name and address of firm, capital of each partner, profit and loss sharing ratio, interest on capital and drawings, salaries, duties, procedure for admitting/retiring partners, and settlement of disputes. Where there is no deed, the Partnership Act applies: profits shared equally, no interest on capital, no salaries, 5% interest on advances.</p>\n<h4>Dissolution</h4>\n<p>By mutual agreement, expiry of term, death/bankruptcy/insanity of a partner, court order, or where the business becomes illegal.</p>\n",
       "examples": [
         {
-          "q": "Ade, Bola and Chidi contribute ₦600,000, ₦400,000 and ₦200,000 and share profits in capital ratio. Profit is ₦720,000. Find each share.",
-          "a": "Ratio 6:4:2 = 3:2:1, total 6 parts. Ade \\(=\\dfrac{3}{6}\\times720{,}000=₦360{,}000\\); Bola \\(=\\dfrac{2}{6}\\times720{,}000=₦240{,}000\\); Chidi \\(=\\dfrac{1}{6}\\times720{,}000=₦120{,}000\\)."
+          "q": "Ade, Bola and Chidi contribute \u20a6600,000, \u20a6400,000 and \u20a6200,000 and share profits in capital ratio. Profit is \u20a6720,000. Find each share.",
+          "a": "Ratio 6:4:2 = 3:2:1, total 6 parts. Ade \\(=\\dfrac{3}{6}\\times720{,}000=\u20a6360{,}000\\); Bola \\(=\\dfrac{2}{6}\\times720{,}000=\u20a6240{,}000\\); Chidi \\(=\\dfrac{1}{6}\\times720{,}000=\u20a6120{,}000\\)."
         },
         {
           "q": "Two friends start a firm without a written deed and quarrel over profit sharing since one contributed more capital. How is it settled?",
@@ -43,7 +43,7 @@
     },
     {
       "title": "Consumer Protection and Business Registration",
-      "html": "\n<h4>Registering a Business in Nigeria</h4>\n<p>Business names and companies are registered with the <strong>Corporate Affairs Commission (CAC)</strong> under the Companies and Allied Matters Act (CAMA). Steps: name availability search and reservation → completion of registration forms → payment of fees and stamp duty → issue of certificate of registration/incorporation → tax registration (TIN) with FIRS.</p>\n<h4>Consumer Rights</h4>\n<ol><li>Right to safety</li><li>Right to be informed</li><li>Right to choose</li><li>Right to be heard/redress</li><li>Right to consumer education</li><li>Right to a healthy environment</li></ol>\n<h4>Business Malpractices</h4>\n<ul><li>Sale of expired, fake or adulterated goods</li><li>Under-weighing and use of false measures</li><li>Hoarding and artificial scarcity</li><li>Misleading advertisement and deceptive labelling</li><li>Price fixing and profiteering</li></ul>\n<h4>Agencies of Consumer Protection</h4>\n<table class=\"tb-table\"><tr><th>Agency</th><th>Function</th></tr><tr><td>SON</td><td>Sets and enforces national quality standards (MANCAP, SONCAP)</td></tr><tr><td>NAFDAC</td><td>Regulates food, drugs, cosmetics, chemicals and bottled water</td></tr><tr><td>FCCPC (formerly CPC)</td><td>Protects consumers, handles complaints and regulates competition</td></tr><tr><td>Weights &amp; Measures Dept.</td><td>Verifies scales, meters and measuring devices</td></tr><tr><td>Consumer associations</td><td>Advocacy, education and pressure on suppliers</td></tr></table>\n",
+      "html": "\n<h4>Registering a Business in Nigeria</h4>\n<p>Business names and companies are registered with the <strong>Corporate Affairs Commission (CAC)</strong> under the Companies and Allied Matters Act (CAMA). Steps: name availability search and reservation \u2192 completion of registration forms \u2192 payment of fees and stamp duty \u2192 issue of certificate of registration/incorporation \u2192 tax registration (TIN) with FIRS.</p>\n<h4>Consumer Rights</h4>\n<ol><li>Right to safety</li><li>Right to be informed</li><li>Right to choose</li><li>Right to be heard/redress</li><li>Right to consumer education</li><li>Right to a healthy environment</li></ol>\n<h4>Business Malpractices</h4>\n<ul><li>Sale of expired, fake or adulterated goods</li><li>Under-weighing and use of false measures</li><li>Hoarding and artificial scarcity</li><li>Misleading advertisement and deceptive labelling</li><li>Price fixing and profiteering</li></ul>\n<h4>Agencies of Consumer Protection</h4>\n<table class=\"tb-table\"><tr><th>Agency</th><th>Function</th></tr><tr><td>SON</td><td>Sets and enforces national quality standards (MANCAP, SONCAP)</td></tr><tr><td>NAFDAC</td><td>Regulates food, drugs, cosmetics, chemicals and bottled water</td></tr><tr><td>FCCPC (formerly CPC)</td><td>Protects consumers, handles complaints and regulates competition</td></tr><tr><td>Weights &amp; Measures Dept.</td><td>Verifies scales, meters and measuring devices</td></tr><tr><td>Consumer associations</td><td>Advocacy, education and pressure on suppliers</td></tr></table>\n",
       "examples": [
         {
           "q": "A shopper buys a carton of juice from a supermarket and discovers it has expired. State the agency she should report to and the redress available.",
@@ -52,6 +52,48 @@
         {
           "q": "Explain two reasons why business registration is important for a small trader.",
           "a": "(i) It gives legal recognition, enabling the trader to open a corporate bank account, obtain loans and bid for contracts. (ii) It protects the business name from use by others and satisfies tax and regulatory requirements, avoiding penalties."
+        }
+      ]
+    },
+    {
+      "title": "Forms of business organisation \u2013 an overview",
+      "html": "<p><b>Forms of business organisation \u2013 an overview</b> is a key part of Business Formation & Protection (SSS 1, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning A sole proprietorship (one-man business) is owned, financed, controlled and managed by one person who takes all profits and bears all losses.</li><li>It is the oldest and commonest form of business in Nigeria.</li><li>Unlimited liability \u2013 personal assets can be seized to settle business debts.</li><li>Limited life \u2013 death or bankruptcy of the owner usually ends the business.</li><li>Business secrets are preserved; no accounts published.</li></ul><h4>Worked example</h4><p><b>Q:</b> A distinguishing feature of a sole proprietorship is<br/><b>A:</b> Unlimited liability \u2014 The owner's personal assets are at risk for business debts.</p><p><b>Q:</b> Business names in Nigeria are registered with<br/><b>A:</b> CAC \u2014 The Corporate Affairs Commission registers business names and companies under CAMA.</p>",
+      "examples": [
+        {
+          "q": "A distinguishing feature of a sole proprietorship is",
+          "a": "Unlimited liability \u2014 The owner's personal assets are at risk for business debts."
+        },
+        {
+          "q": "Business names in Nigeria are registered with",
+          "a": "CAC \u2014 The Corporate Affairs Commission registers business names and companies under CAMA."
+        }
+      ]
+    },
+    {
+      "title": "Sole proprietorship: features, merits and demerits",
+      "html": "<p><b>Sole proprietorship: features, merits and demerits</b> is a key part of Business Formation & Protection (SSS 1, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning A sole proprietorship (one-man business) is owned, financed, controlled and managed by one person who takes all profits and bears all losses.</li><li>Features Single ownership and easy formation.</li><li>Key points Meaning A sole proprietorship (one-man business) is owned, financed, controlled and managed by one person who takes all profits and bears all losses.</li><li>Worked example Q: A distinguishing feature of a sole proprietorship is A: Unlimited liability \u2014 The owner's personal assets are at risk for business debts.</li></ul><h4>Worked example</h4><p><b>Q:</b> A distinguishing feature of a sole proprietorship is<br/><b>A:</b> Unlimited liability \u2014 The owner's personal assets are at risk for business debts.</p><p><b>Q:</b> A sole trader ploughing back profits is using<br/><b>A:</b> Internal source of finance \u2014 Retained profit is an internal source of business finance.</p>",
+      "examples": [
+        {
+          "q": "A distinguishing feature of a sole proprietorship is",
+          "a": "Unlimited liability \u2014 The owner's personal assets are at risk for business debts."
+        },
+        {
+          "q": "A sole trader ploughing back profits is using",
+          "a": "Internal source of finance \u2014 Retained profit is an internal source of business finance."
+        }
+      ]
+    },
+    {
+      "title": "Partnership: types of partners, deed, merits and demerits",
+      "html": "<p><b>Partnership: types of partners, deed, merits and demerits</b> is a key part of Business Formation & Protection (SSS 1, Commerce). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning A partnership is an association of between 2 and 20 persons (2\u201310 for banking) who agree to carry on business in common with a view to profit.</li><li>Types of Partnership Ordinary/general partnership \u2013 all partners have unlimited liability and take part in management.</li><li>Limited partnership \u2013 has at least one general partner with unlimited liability; limited partners' liability is restricted to capital contributed.</li><li>Types of Partners Partner Description Active/general Contributes capital and manages the firm Sleeping/dormant Contributes capital but takes no part in management Nominal/quasi Lends only his name/reputation; no capital Limited Liability limited to capital contributed Infant Under 18; may withdraw within one year of attaining majority The Partnership Deed Contains: name and address of firm, capital of each partner, profit and loss sharing ratio, interest on capital and drawings, salaries, duties, procedure for admitting/retiring partners, and settlement of disputes.</li><li>Where there is no deed, the Partnership Act applies: profits shared equally, no interest on capital, no salaries, 5% interest on advances.</li></ul><h4>Worked example</h4><p><b>Q:</b> The maximum number of ordinary partners in a non-banking partnership is<br/><b>A:</b> 20 \u2014 Ordinary partnerships are limited to 20 members; banking partnerships to 10.</p><p><b>Q:</b> Where there is no partnership deed, profits are shared<br/><b>A:</b> Equally \u2014 The Partnership Act provides for equal sharing in the absence of an agreement.</p>",
+      "examples": [
+        {
+          "q": "The maximum number of ordinary partners in a non-banking partnership is",
+          "a": "20 \u2014 Ordinary partnerships are limited to 20 members; banking partnerships to 10."
+        },
+        {
+          "q": "Where there is no partnership deed, profits are shared",
+          "a": "Equally \u2014 The Partnership Act provides for equal sharing in the absence of an agreement."
         }
       ]
     }
@@ -65,8 +107,10 @@
         "Separate legal entity",
         "Perpetual succession"
       ],
-      "answer": "1",
-      "solution": "The owner's personal assets are at risk for business debts."
+      "answer": 1,
+      "solution": "The owner's personal assets are at risk for business debts.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The maximum number of ordinary partners in a non-banking partnership is",
@@ -76,8 +120,10 @@
         "50",
         "Unlimited"
       ],
-      "answer": "1",
-      "solution": "Ordinary partnerships are limited to 20 members; banking partnerships to 10."
+      "answer": 1,
+      "solution": "Ordinary partnerships are limited to 20 members; banking partnerships to 10.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A partner who contributes capital but takes no part in management is a",
@@ -87,8 +133,10 @@
         "Sleeping partner",
         "Quasi partner"
       ],
-      "answer": "2",
-      "solution": "A sleeping (dormant) partner invests but stays out of daily management."
+      "answer": 2,
+      "solution": "A sleeping (dormant) partner invests but stays out of daily management.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Where there is no partnership deed, profits are shared",
@@ -98,8 +146,10 @@
         "By seniority",
         "By the court"
       ],
-      "answer": "1",
-      "solution": "The Partnership Act provides for equal sharing in the absence of an agreement."
+      "answer": 1,
+      "solution": "The Partnership Act provides for equal sharing in the absence of an agreement.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A nominal partner is one who contributes",
@@ -109,8 +159,10 @@
         "Machinery only",
         "Land only"
       ],
-      "answer": "1",
-      "solution": "He lends his name/goodwill without contributing capital."
+      "answer": 1,
+      "solution": "He lends his name/goodwill without contributing capital.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Business names in Nigeria are registered with",
@@ -120,8 +172,10 @@
         "SON",
         "NAFDAC"
       ],
-      "answer": "1",
-      "solution": "The Corporate Affairs Commission registers business names and companies under CAMA."
+      "answer": 1,
+      "solution": "The Corporate Affairs Commission registers business names and companies under CAMA.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which agency regulates food and drugs in Nigeria?",
@@ -131,8 +185,10 @@
         "NSE",
         "NDIC"
       ],
-      "answer": "1",
-      "solution": "NAFDAC controls food, drugs, cosmetics, medical devices and packaged water."
+      "answer": 1,
+      "solution": "NAFDAC controls food, drugs, cosmetics, medical devices and packaged water.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "SON is mainly responsible for",
@@ -142,8 +198,10 @@
         "Collecting customs duty",
         "Listing shares"
       ],
-      "answer": "0",
-      "solution": "The Standards Organisation of Nigeria sets and enforces quality standards."
+      "answer": 0,
+      "solution": "The Standards Organisation of Nigeria sets and enforces quality standards.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Hoarding of goods to create scarcity is an example of",
@@ -153,8 +211,10 @@
         "Trade discount",
         "Division of labour"
       ],
-      "answer": "1",
-      "solution": "Hoarding artificially raises prices and harms consumers."
+      "answer": 1,
+      "solution": "Hoarding artificially raises prices and harms consumers.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The right to be informed means the consumer should get",
@@ -164,8 +224,10 @@
         "A shop of his own",
         "Government subsidy"
       ],
-      "answer": "1",
-      "solution": "Consumers must receive truthful information on content, price and risks."
+      "answer": 1,
+      "solution": "Consumers must receive truthful information on content, price and risks.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A limited partner's liability is restricted to",
@@ -175,8 +237,10 @@
         "Total firm debts",
         "The partnership deed"
       ],
-      "answer": "1",
-      "solution": "He can lose only what he invested, provided he takes no part in management."
+      "answer": 1,
+      "solution": "He can lose only what he invested, provided he takes no part in management.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is NOT a cause of dissolution of partnership?",
@@ -186,8 +250,10 @@
         "Expiry of the agreed term",
         "Increase in profit"
       ],
-      "answer": "3",
-      "solution": "Rising profit is no reason to dissolve; the other three are recognised causes."
+      "answer": 3,
+      "solution": "Rising profit is no reason to dissolve; the other three are recognised causes.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An advantage of a one-man business is",
@@ -197,8 +263,10 @@
         "Perpetual succession",
         "Limited liability"
       ],
-      "answer": "1",
-      "solution": "With one decision maker, the business responds rapidly to change."
+      "answer": 1,
+      "solution": "With one decision maker, the business responds rapidly to change.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A partnership deed usually states all EXCEPT",
@@ -208,8 +276,10 @@
         "Duties of partners",
         "Share price on the stock exchange"
       ],
-      "answer": "3",
-      "solution": "Partnerships do not issue quoted shares; that applies to public companies."
+      "answer": 3,
+      "solution": "Partnerships do not issue quoted shares; that applies to public companies.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The FCCPC replaced which agency?",
@@ -219,8 +289,10 @@
         "SON",
         "CAC"
       ],
-      "answer": "1",
-      "solution": "The Federal Competition and Consumer Protection Commission took over from the Consumer Protection Council."
+      "answer": 1,
+      "solution": "The Federal Competition and Consumer Protection Commission took over from the Consumer Protection Council.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A sole trader ploughing back profits is using",
@@ -230,8 +302,452 @@
         "Bank overdraft",
         "Share capital"
       ],
-      "answer": "1",
-      "solution": "Retained profit is an internal source of business finance."
+      "answer": 1,
+      "solution": "Retained profit is an internal source of business finance.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In a partnership business, the liability of 'Limited Partners' is _____.",
+      "options": [
+        "unlimited",
+        "restricted to their capital contribution",
+        "equal to the firm's total debt",
+        "zero"
+      ],
+      "answer": 1,
+      "solution": "Limited partners are only liable for the amount they have invested in the business, unlike general partners.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Consumer protection ensures:",
+      "options": [
+        "Consumers are not exploited",
+        "Goods are expensive",
+        "Sellers make loss",
+        "Factories close"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Consumers are not exploited.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "A sole trader is a form of business owned by:",
+      "options": [
+        "One person",
+        "Two people",
+        "Shareholders",
+        "Government"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: One person.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Consumer protection is necessary to prevent...",
+      "options": [
+        "Lowering of prices",
+        "Exploitation and unfair trade practices",
+        "Increase in competition",
+        "High profits"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Exploitation and unfair trade practices.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Consumer Protection:",
+      "options": [
+        "Rights of buyer",
+        "Seller rights",
+        "Profit",
+        "Tax"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Rights of buyer.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Consumer protection prevents?",
+      "options": [
+        "Low prices",
+        "Fashion",
+        "Exploitation",
+        "Tourism"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Exploitation.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "In which of the following business units is the liability of members limited to their investment?",
+      "options": [
+        "Sole Proprietorship",
+        "General Partnership",
+        "Private Limited Company",
+        "Club or Society"
+      ],
+      "answer": 2,
+      "solution": "In a limited liability company, the personal assets of shareholders are protected; they only lose what they invested if the business fails.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which type of capital is used for the day-to-day running of a business?",
+      "options": [
+        "Fixed capital",
+        "Working capital",
+        "Authorized capital",
+        "Nominal capital"
+      ],
+      "answer": 1,
+      "solution": "Working capital (Current Assets minus Current Liabilities) is used to pay for short-term operations like wages and raw materials.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The process of setting up a business in a way that minimizes tax liability within the law is _____.",
+      "options": [
+        "Tax evasion",
+        "Tax avoidance",
+        "Tax refund",
+        "Tax holiday"
+      ],
+      "answer": 1,
+      "solution": "Tax avoidance is the legal use of the tax regime to one's advantage, unlike tax evasion which is illegal.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a source of short-term finance for a business?",
+      "options": [
+        "Issue of shares",
+        "Debentures",
+        "Bank overdraft",
+        "Mortgage"
+      ],
+      "answer": 2,
+      "solution": "A bank overdraft is a facility that allows a customer to withdraw more than they have in their account for a short period.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The first step in the formation of a company is the _____.",
+      "options": [
+        "Issuing of prospectus",
+        "Obtaining a trading license",
+        "Preparation of constitutional documents",
+        "Appointing an auditor"
+      ],
+      "answer": 2,
+      "solution": "Before a company can be registered, the promoters must prepare the Memorandum and Articles of Association.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The person who starts and manages a business, taking on financial risks, is a/an _____.",
+      "options": [
+        "Manager",
+        "Director",
+        "Entrepreneur",
+        "Shareholder"
+      ],
+      "answer": 2,
+      "solution": "An entrepreneur is the visionary who organizes the factors of production and bears the risk of profit or loss.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following business units is owned and controlled by a single person?",
+      "options": [
+        "Public Limited Company",
+        "Partnership",
+        "Sole Proprietorship",
+        "Cooperative Society"
+      ],
+      "answer": 2,
+      "solution": "A sole proprietorship (or one-man business) is the simplest form of business ownership.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The use of computers and the internet to conduct business transactions is _____.",
+      "options": [
+        "E-government",
+        "E-commerce",
+        "E-learning",
+        "E-banking"
+      ],
+      "answer": 1,
+      "solution": "Electronic commerce (E-commerce) encompasses buying, selling, and marketing goods online.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "A person who is authorized by another to act on their behalf in business dealings is a/an _____.",
+      "options": [
+        "Employee",
+        "Partner",
+        "Agent",
+        "Contractor"
+      ],
+      "answer": 2,
+      "solution": "The law of agency describes the relationship where an agent acts for a principal.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The record of all financial transactions of a business in a systematic way is _____.",
+      "options": [
+        "Auditing",
+        "Accounting",
+        "Commerce",
+        "Budgeting"
+      ],
+      "answer": 1,
+      "solution": "Accounting involves the identifying, measuring, and communicating of financial information.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Mail order business is conducted primarily through:",
+      "options": [
+        "The Post Office",
+        "The Bank",
+        "The Market",
+        "Ships"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: The Post Office.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Money used for day-to-day running of a business is:",
+      "options": [
+        "Fixed capital",
+        "Working capital",
+        "Reserved capital",
+        "Loan capital"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Working capital.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Mail order business uses:",
+      "options": [
+        "Post office",
+        "Bank",
+        "Market",
+        "Ship"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Post office.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The simplest form of business ownership is...",
+      "options": [
+        "Partnership",
+        "Sole Proprietorship",
+        "Public Limited Company",
+        "Cooperative Society"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Sole Proprietorship.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The transfer of a business process to an external service provider is called...",
+      "options": [
+        "Privatization",
+        "Outsourcing",
+        "Indigenization",
+        "Nationalization"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Outsourcing.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The main aim of a business is to:",
+      "options": [
+        "Pay tax",
+        "Make profit",
+        "Employ people",
+        "Build houses"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Make profit.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Mail order business is done through:",
+      "options": [
+        "The Post Office",
+        "The Bank",
+        "The Market",
+        "The Factory"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: The Post Office.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The primary motive of any business is?",
+      "options": [
+        "Profit maximization",
+        "Tax payment",
+        "Social welfare",
+        "Employee training"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Profit maximization.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The risk-bearer in a business is the?",
+      "options": [
+        "Manager",
+        "Employee",
+        "Entrepreneur",
+        "Creditor"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Entrepreneur.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Business Ethics involves?",
+      "options": [
+        "Making money only",
+        "Avoiding tax",
+        "Cheating",
+        "Moral principles"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Moral principles.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A business plan is a?",
+      "options": [
+        "History",
+        "Roadmap",
+        "Receipt",
+        "Gift"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Roadmap.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Small scale business helps in?",
+      "options": [
+        "Wealth for one",
+        "Job creation",
+        "Debt",
+        "Scarcity"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Job creation.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a function of NAFDAC in Nigeria?",
+      "options": [
+        "Regulating the transport industry",
+        "Providing insurance for businesses",
+        "Ensuring the quality of food and drugs",
+        "Managing the stock exchange"
+      ],
+      "answer": 2,
+      "solution": "NAFDAC (National Agency for Food and Drug Administration and Control) regulates and controls the manufacture and sale of food, drugs, and chemicals.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The 'Standard Organization of Nigeria' (SON) is primarily concerned with _____.",
+      "options": [
+        "labor disputes",
+        "quality control of manufactured goods",
+        "issuing international passports",
+        "controlling the price of fuel"
+      ],
+      "answer": 1,
+      "solution": "SON ensures that products manufactured or sold in Nigeria meet certain quality and safety standards.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a characteristic of a sole proprietorship?",
+      "options": [
+        "Easy to form",
+        "Continuity of existence",
+        "Limited liability",
+        "Separation of ownership and control"
+      ],
+      "answer": 0,
+      "solution": "Sole proprietorships are the simplest businesses to start as they require few legal formalities.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a disadvantage of a Sole Proprietorship?",
+      "options": [
+        "Quick decision making",
+        "Privacy of accounts",
+        "Lack of continuity",
+        "Low tax rate"
+      ],
+      "answer": 2,
+      "solution": "Since the business is tied to the owner, the death or illness of the owner often leads to the end of the business.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Sole proprietorship has:",
+      "options": [
+        "Unlimited liability",
+        "Limited liability",
+        "No liability",
+        "Joint liability"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Unlimited liability.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "A partnership deed is a document that...",
+      "options": [
+        "Registers the business with the government",
+        "Contains the terms and conditions of the partnership",
+        "Invites the public to buy shares",
+        "Guarantees a loan from the bank"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Contains the terms and conditions of the partnership.",
+      "source": "JAMB 2024",
+      "practice": false
     }
   ]
 }

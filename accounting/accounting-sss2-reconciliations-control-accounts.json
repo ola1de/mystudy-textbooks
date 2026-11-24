@@ -1,237 +1,753 @@
 {
- "subject": "Financial Accounting",
- "level": "SSS 2",
- "slug": "reconciliations-control-accounts",
- "title": "Reconciliations and Control Accounts",
- "outline": [
-  "Purpose of the bank statement and the cash book",
-  "Causes of disagreement: unpresented cheques, uncredited lodgements, bank charges",
-  "Updating the cash book and preparing the bank reconciliation statement",
-  "Sales ledger and purchases ledger control accounts",
-  "Sources of entries in control accounts and set-off (contra) entries",
-  "Types of errors and their correction through the journal",
-  "The suspense account and its effect on net profit"
- ],
- "modules": [
-  {
-   "title": "Bank Reconciliation Statement",
-   "html": "\n<h4>1. Why the Two Records Differ</h4>\n<ol>\n  <li><b>Unpresented cheques</b> - cheques drawn and entered in the cash book but not yet presented for payment.</li>\n  <li><b>Uncredited lodgements</b> - cheques paid in but not yet cleared by the bank.</li>\n  <li><b>Bank charges, commission and interest on overdraft</b> - known only from the statement.</li>\n  <li><b>Direct credits</b> - standing orders received, dividends and customer transfers.</li>\n  <li><b>Standing orders and direct debits</b> paid by the bank.</li>\n  <li><b>Dishonoured cheques</b> returned unpaid.</li>\n  <li><b>Errors</b> by either the cashier or the bank.</li>\n</ol>\n\n<h4>2. Two-Stage Procedure</h4>\n<p><b>Stage 1 - Update the cash book</b> for items the business did not know about: add direct credits and interest received; deduct bank charges, standing orders, direct debits and dishonoured cheques. This gives the <i>adjusted (corrected) cash book balance</i>.</p>\n<p><b>Stage 2 - Prepare the reconciliation statement:</b></p>\n<table class=\"tb-table\">\n  <tr><th>Bank Reconciliation Statement as at 31 December</th><th>N</th></tr>\n  <tr><td>Balance as per adjusted cash book</td><td>418,000</td></tr>\n  <tr><td>Add unpresented cheques</td><td>96,000</td></tr>\n  <tr><td>Less uncredited lodgements</td><td>(64,000)</td></tr>\n  <tr><td><b>Balance as per bank statement</b></td><td><b>450,000</b></td></tr>\n</table>\n<p>Starting instead from the bank statement, the signs reverse: deduct unpresented cheques and add uncredited lodgements. An overdraft is a credit balance in the bank statement and a credit balance in the cash book; the same logic applies but with negative figures.</p>\n\n<h4>3. Importance</h4>\n<ul>\n  <li>Detects errors and possible fraud by the cashier.</li>\n  <li>Reveals stale and dishonoured cheques.</li>\n  <li>Confirms the true bank figure for the balance sheet.</li>\n</ul>\n",
-   "examples": [
+  "subject": "Financial Accounting",
+  "level": "SSS 2",
+  "slug": "reconciliations-control-accounts",
+  "title": "Reconciliations and Control Accounts",
+  "outline": [
+    "Purpose of the bank statement and the cash book",
+    "Causes of disagreement: unpresented cheques, uncredited lodgements, bank charges",
+    "Updating the cash book and preparing the bank reconciliation statement",
+    "Sales ledger and purchases ledger control accounts",
+    "Sources of entries in control accounts and set-off (contra) entries",
+    "Types of errors and their correction through the journal",
+    "The suspense account and its effect on net profit"
+  ],
+  "modules": [
     {
-     "q": "Cash book balance (debit) N540,000. Bank charges N12,000 and a standing order of N38,000 had not been entered; a customer paid N75,000 directly into the bank. Unpresented cheques were N120,000 and uncredited lodgements N90,000. Prepare the reconciliation.",
-     "a": "Adjusted cash book = 540,000 - 12,000 - 38,000 + 75,000 = N565,000. Reconciliation: adjusted cash book N565,000 + unpresented cheques N120,000 - uncredited lodgements N90,000 = balance per bank statement N595,000. The balance sheet shows the adjusted figure of N565,000."
+      "title": "Bank Reconciliation Statement",
+      "html": "\n<h4>1. Why the Two Records Differ</h4>\n<ol>\n  <li><b>Unpresented cheques</b> - cheques drawn and entered in the cash book but not yet presented for payment.</li>\n  <li><b>Uncredited lodgements</b> - cheques paid in but not yet cleared by the bank.</li>\n  <li><b>Bank charges, commission and interest on overdraft</b> - known only from the statement.</li>\n  <li><b>Direct credits</b> - standing orders received, dividends and customer transfers.</li>\n  <li><b>Standing orders and direct debits</b> paid by the bank.</li>\n  <li><b>Dishonoured cheques</b> returned unpaid.</li>\n  <li><b>Errors</b> by either the cashier or the bank.</li>\n</ol>\n\n<h4>2. Two-Stage Procedure</h4>\n<p><b>Stage 1 - Update the cash book</b> for items the business did not know about: add direct credits and interest received; deduct bank charges, standing orders, direct debits and dishonoured cheques. This gives the <i>adjusted (corrected) cash book balance</i>.</p>\n<p><b>Stage 2 - Prepare the reconciliation statement:</b></p>\n<table class=\"tb-table\">\n  <tr><th>Bank Reconciliation Statement as at 31 December</th><th>N</th></tr>\n  <tr><td>Balance as per adjusted cash book</td><td>418,000</td></tr>\n  <tr><td>Add unpresented cheques</td><td>96,000</td></tr>\n  <tr><td>Less uncredited lodgements</td><td>(64,000)</td></tr>\n  <tr><td><b>Balance as per bank statement</b></td><td><b>450,000</b></td></tr>\n</table>\n<p>Starting instead from the bank statement, the signs reverse: deduct unpresented cheques and add uncredited lodgements. An overdraft is a credit balance in the bank statement and a credit balance in the cash book; the same logic applies but with negative figures.</p>\n\n<h4>3. Importance</h4>\n<ul>\n  <li>Detects errors and possible fraud by the cashier.</li>\n  <li>Reveals stale and dishonoured cheques.</li>\n  <li>Confirms the true bank figure for the balance sheet.</li>\n</ul>\n",
+      "examples": [
+        {
+          "q": "Cash book balance (debit) N540,000. Bank charges N12,000 and a standing order of N38,000 had not been entered; a customer paid N75,000 directly into the bank. Unpresented cheques were N120,000 and uncredited lodgements N90,000. Prepare the reconciliation.",
+          "a": "Adjusted cash book = 540,000 - 12,000 - 38,000 + 75,000 = N565,000. Reconciliation: adjusted cash book N565,000 + unpresented cheques N120,000 - uncredited lodgements N90,000 = balance per bank statement N595,000. The balance sheet shows the adjusted figure of N565,000."
+        },
+        {
+          "q": "Why is a cheque drawn but not yet presented added to the cash book balance when reconciling to the bank statement?",
+          "a": "The business has already credited (reduced) its cash book for the payment, but the bank has not yet debited the account because the payee has not presented the cheque. The bank's balance is therefore higher by that amount, so the cheque is added back to the adjusted cash book balance to arrive at the bank statement balance."
+        }
+      ]
     },
     {
-     "q": "Why is a cheque drawn but not yet presented added to the cash book balance when reconciling to the bank statement?",
-     "a": "The business has already credited (reduced) its cash book for the payment, but the bank has not yet debited the account because the payee has not presented the cheque. The bank's balance is therefore higher by that amount, so the cheque is added back to the adjusted cash book balance to arrive at the bank statement balance."
-    }
-   ]
-  },
-  {
-   "title": "Control Accounts",
-   "html": "\n<h4>1. Purpose</h4>\n<p>A control (total) account is a summary account whose balance should equal the total of the individual balances in the corresponding subsidiary ledger. It locates errors quickly, permits division of labour, provides internal check against fraud, and enables debtors and creditors totals to be obtained without listing every account.</p>\n\n<h4>2. Sales Ledger (Debtors) Control Account</h4>\n<table class=\"tb-table\">\n  <tr><th>Debit side</th><th>Credit side</th></tr>\n  <tr><td>Opening debtors balance b/d<br/>Credit sales<br/>Dishonoured cheques<br/>Interest charged to customers<br/>Refunds to customers<br/>Bad debts previously written off and now reinstated</td><td>Cash and cheques received<br/>Discount allowed<br/>Returns inwards<br/>Bad debts written off<br/>Set-off / contra to purchases ledger<br/>Closing balance c/d</td></tr>\n</table>\n\n<h4>3. Purchases Ledger (Creditors) Control Account</h4>\n<table class=\"tb-table\">\n  <tr><th>Debit side</th><th>Credit side</th></tr>\n  <tr><td>Payments to suppliers<br/>Discount received<br/>Returns outwards<br/>Set-off / contra<br/>Closing balance c/d</td><td>Opening creditors balance b/d<br/>Credit purchases<br/>Interest charged by suppliers</td></tr>\n</table>\n<p>Sources of the figures are the totals of the books of original entry, not the individual ledger accounts - this independence is what makes the control account a genuine check.</p>\n\n<h4>4. Set-off (Contra) Entries</h4>\n<p>Where the same person is both a debtor and a creditor, the smaller balance may be set against the larger: Dr Purchases Ledger Control, Cr Sales Ledger Control.</p>\n",
-   "examples": [
-    {
-     "q": "Prepare a debtors control account: opening debtors N860,000; credit sales N4,200,000; cash received N3,600,000; discount allowed N90,000; returns inwards N140,000; bad debts written off N60,000; set-off N40,000. Find the closing debtors.",
-     "a": "Debit side: 860,000 + 4,200,000 = N5,060,000. Credit side before balance: 3,600,000 + 90,000 + 140,000 + 60,000 + 40,000 = N3,930,000. Closing debtors (balance c/d) = 5,060,000 - 3,930,000 = N1,130,000."
+      "title": "Control Accounts",
+      "html": "\n<h4>1. Purpose</h4>\n<p>A control (total) account is a summary account whose balance should equal the total of the individual balances in the corresponding subsidiary ledger. It locates errors quickly, permits division of labour, provides internal check against fraud, and enables debtors and creditors totals to be obtained without listing every account.</p>\n\n<h4>2. Sales Ledger (Debtors) Control Account</h4>\n<table class=\"tb-table\">\n  <tr><th>Debit side</th><th>Credit side</th></tr>\n  <tr><td>Opening debtors balance b/d<br/>Credit sales<br/>Dishonoured cheques<br/>Interest charged to customers<br/>Refunds to customers<br/>Bad debts previously written off and now reinstated</td><td>Cash and cheques received<br/>Discount allowed<br/>Returns inwards<br/>Bad debts written off<br/>Set-off / contra to purchases ledger<br/>Closing balance c/d</td></tr>\n</table>\n\n<h4>3. Purchases Ledger (Creditors) Control Account</h4>\n<table class=\"tb-table\">\n  <tr><th>Debit side</th><th>Credit side</th></tr>\n  <tr><td>Payments to suppliers<br/>Discount received<br/>Returns outwards<br/>Set-off / contra<br/>Closing balance c/d</td><td>Opening creditors balance b/d<br/>Credit purchases<br/>Interest charged by suppliers</td></tr>\n</table>\n<p>Sources of the figures are the totals of the books of original entry, not the individual ledger accounts - this independence is what makes the control account a genuine check.</p>\n\n<h4>4. Set-off (Contra) Entries</h4>\n<p>Where the same person is both a debtor and a creditor, the smaller balance may be set against the larger: Dr Purchases Ledger Control, Cr Sales Ledger Control.</p>\n",
+      "examples": [
+        {
+          "q": "Prepare a debtors control account: opening debtors N860,000; credit sales N4,200,000; cash received N3,600,000; discount allowed N90,000; returns inwards N140,000; bad debts written off N60,000; set-off N40,000. Find the closing debtors.",
+          "a": "Debit side: 860,000 + 4,200,000 = N5,060,000. Credit side before balance: 3,600,000 + 90,000 + 140,000 + 60,000 + 40,000 = N3,930,000. Closing debtors (balance c/d) = 5,060,000 - 3,930,000 = N1,130,000."
+        },
+        {
+          "q": "The creditors control account shows N1,480,000 but the list of creditors totals N1,510,000. Give two possible reasons.",
+          "a": "(i) A credit purchase of N30,000 may have been posted to the supplier's personal account but omitted from the purchases day book total used in the control account. (ii) A supplier's account may have been overcast by N30,000, or discount received of N30,000 entered in the control account but not in the personal account. Each is investigated and the appropriate record corrected so that the two figures agree."
+        }
+      ]
     },
     {
-     "q": "The creditors control account shows N1,480,000 but the list of creditors totals N1,510,000. Give two possible reasons.",
-     "a": "(i) A credit purchase of N30,000 may have been posted to the supplier's personal account but omitted from the purchases day book total used in the control account. (ii) A supplier's account may have been overcast by N30,000, or discount received of N30,000 entered in the control account but not in the personal account. Each is investigated and the appropriate record corrected so that the two figures agree."
-    }
-   ]
-  },
-  {
-   "title": "Correction of Errors and the Suspense Account",
-   "html": "\n<h4>1. Correcting Errors Not Affecting the Trial Balance</h4>\n<p>These are corrected by a simple journal entry between two accounts, with no suspense account involved. Example: a sale to Ojo posted to Ojoo - Dr Ojo, Cr Ojoo.</p>\n\n<h4>2. Correcting Errors Affecting the Trial Balance</h4>\n<p>Each correction involves the Suspense Account on one side. When all errors have been corrected, the suspense account closes automatically.</p>\n<table class=\"tb-table\">\n  <tr><th>Error</th><th>Correcting entry</th></tr>\n  <tr><td>Sales account undercast by N20,000</td><td>Dr Suspense N20,000, Cr Sales N20,000</td></tr>\n  <tr><td>Discount received N9,000 not posted to the nominal ledger</td><td>Dr Suspense N9,000, Cr Discount Received N9,000</td></tr>\n  <tr><td>Rent of N15,000 debited twice</td><td>Dr Suspense N15,000, Cr Rent N15,000</td></tr>\n  <tr><td>Cash N30,000 from a debtor debited to cash but not credited to the debtor</td><td>Dr Suspense N30,000, Cr Debtor N30,000</td></tr>\n</table>\n\n<h4>3. Effect on Net Profit</h4>\n<p>Only errors touching <b>nominal accounts</b> (income and expense) change profit. Prepare a statement of corrected net profit:</p>\n<table class=\"tb-table\">\n  <tr><th>Statement of Corrected Net Profit</th><th>N</th></tr>\n  <tr><td>Net profit as per draft accounts</td><td>1,450,000</td></tr>\n  <tr><td>Add: Sales undercast</td><td>20,000</td></tr>\n  <tr><td>Add: Discount received omitted</td><td>9,000</td></tr>\n  <tr><td>Add: Rent debited twice</td><td>15,000</td></tr>\n  <tr><td><b>Corrected net profit</b></td><td><b>1,494,000</b></td></tr>\n</table>\n<p>Errors involving only balance sheet items (e.g. the unposted debtor receipt) clear the suspense account but leave profit unchanged.</p>\n",
-   "examples": [
-    {
-     "q": "A trial balance had a credit difference of N44,000 placed in suspense. Later it was found that the purchases account had been overcast by N44,000. Give the journal entry and the effect on profit.",
-     "a": "Dr Purchases? No - purchases were overstated, so we reduce them: Dr Suspense N44,000, Cr Purchases N44,000. Because purchases were overstated, cost of goods sold was too high and profit too low; correcting it increases net profit by N44,000, and the suspense account is cleared."
+      "title": "Correction of Errors and the Suspense Account",
+      "html": "\n<h4>1. Correcting Errors Not Affecting the Trial Balance</h4>\n<p>These are corrected by a simple journal entry between two accounts, with no suspense account involved. Example: a sale to Ojo posted to Ojoo - Dr Ojo, Cr Ojoo.</p>\n\n<h4>2. Correcting Errors Affecting the Trial Balance</h4>\n<p>Each correction involves the Suspense Account on one side. When all errors have been corrected, the suspense account closes automatically.</p>\n<table class=\"tb-table\">\n  <tr><th>Error</th><th>Correcting entry</th></tr>\n  <tr><td>Sales account undercast by N20,000</td><td>Dr Suspense N20,000, Cr Sales N20,000</td></tr>\n  <tr><td>Discount received N9,000 not posted to the nominal ledger</td><td>Dr Suspense N9,000, Cr Discount Received N9,000</td></tr>\n  <tr><td>Rent of N15,000 debited twice</td><td>Dr Suspense N15,000, Cr Rent N15,000</td></tr>\n  <tr><td>Cash N30,000 from a debtor debited to cash but not credited to the debtor</td><td>Dr Suspense N30,000, Cr Debtor N30,000</td></tr>\n</table>\n\n<h4>3. Effect on Net Profit</h4>\n<p>Only errors touching <b>nominal accounts</b> (income and expense) change profit. Prepare a statement of corrected net profit:</p>\n<table class=\"tb-table\">\n  <tr><th>Statement of Corrected Net Profit</th><th>N</th></tr>\n  <tr><td>Net profit as per draft accounts</td><td>1,450,000</td></tr>\n  <tr><td>Add: Sales undercast</td><td>20,000</td></tr>\n  <tr><td>Add: Discount received omitted</td><td>9,000</td></tr>\n  <tr><td>Add: Rent debited twice</td><td>15,000</td></tr>\n  <tr><td><b>Corrected net profit</b></td><td><b>1,494,000</b></td></tr>\n</table>\n<p>Errors involving only balance sheet items (e.g. the unposted debtor receipt) clear the suspense account but leave profit unchanged.</p>\n",
+      "examples": [
+        {
+          "q": "A trial balance had a credit difference of N44,000 placed in suspense. Later it was found that the purchases account had been overcast by N44,000. Give the journal entry and the effect on profit.",
+          "a": "Dr Purchases? No - purchases were overstated, so we reduce them: Dr Suspense N44,000, Cr Purchases N44,000. Because purchases were overstated, cost of goods sold was too high and profit too low; correcting it increases net profit by N44,000, and the suspense account is cleared."
+        },
+        {
+          "q": "Motor repairs of N250,000 were debited to the Motor Vehicles Account. Correct the error and state its effect.",
+          "a": "This is an error of principle; the trial balance still agreed. Correction: Dr Motor Repairs (expense) N250,000, Cr Motor Vehicles N250,000. Effect: net profit was overstated by N250,000 (before depreciation) and fixed assets were overstated by the same amount; after correction both are reduced."
+        }
+      ]
     },
     {
-     "q": "Motor repairs of N250,000 were debited to the Motor Vehicles Account. Correct the error and state its effect.",
-     "a": "This is an error of principle; the trial balance still agreed. Correction: Dr Motor Repairs (expense) N250,000, Cr Motor Vehicles N250,000. Effect: net profit was overstated by N250,000 (before depreciation) and fixed assets were overstated by the same amount; after correction both are reduced."
+      "title": "Purpose of the bank statement and the cash book",
+      "html": "<p><b>Purpose of the bank statement and the cash book</b> is a key part of Reconciliations and Control Accounts (SSS 2, Financial Accounting). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Why the Two Records Differ Unpresented cheques - cheques drawn and entered in the cash book but not yet presented for payment.</li><li>Uncredited lodgements - cheques paid in but not yet cleared by the bank.</li><li>Bank charges, commission and interest on overdraft - known only from the statement.</li><li>Standing orders and direct debits paid by the bank.</li><li>Errors by either the cashier or the bank.</li></ul><h4>Worked example</h4><p><b>Q:</b> An unpresented cheque is one that has been:<br/><b>A:</b> Drawn but not yet paid by the bank \u2014 It has been entered in the cash book but not yet presented to the bank for payment.</p><p><b>Q:</b> Bank charges appearing only on the bank statement should be:<br/><b>A:</b> Entered on the credit side of the cash book \u2014 Bank charges reduce the bank balance, so they are credited (entered on the payments side) in the cash book.</p>",
+      "examples": [
+        {
+          "q": "An unpresented cheque is one that has been:",
+          "a": "Drawn but not yet paid by the bank \u2014 It has been entered in the cash book but not yet presented to the bank for payment."
+        },
+        {
+          "q": "Bank charges appearing only on the bank statement should be:",
+          "a": "Entered on the credit side of the cash book \u2014 Bank charges reduce the bank balance, so they are credited (entered on the payments side) in the cash book."
+        }
+      ]
+    },
+    {
+      "title": "Causes of disagreement: unpresented cheques, uncredited lodgements, bank charges",
+      "html": "<p><b>Causes of disagreement: unpresented cheques, uncredited lodgements, bank charges</b> is a key part of Reconciliations and Control Accounts (SSS 2, Financial Accounting). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Why the Two Records Differ Unpresented cheques - cheques drawn and entered in the cash book but not yet presented for payment.</li><li>Uncredited lodgements - cheques paid in but not yet cleared by the bank.</li><li>Bank charges, commission and interest on overdraft - known only from the statement.</li><li>Standing orders and direct debits paid by the bank.</li><li>Dishonoured cheques returned unpaid.</li></ul><h4>Worked example</h4><p><b>Q:</b> An unpresented cheque is one that has been:<br/><b>A:</b> Drawn but not yet paid by the bank \u2014 It has been entered in the cash book but not yet presented to the bank for payment.</p><p><b>Q:</b> Bank charges appearing only on the bank statement should be:<br/><b>A:</b> Entered on the credit side of the cash book \u2014 Bank charges reduce the bank balance, so they are credited (entered on the payments side) in the cash book.</p>",
+      "examples": [
+        {
+          "q": "An unpresented cheque is one that has been:",
+          "a": "Drawn but not yet paid by the bank \u2014 It has been entered in the cash book but not yet presented to the bank for payment."
+        },
+        {
+          "q": "Bank charges appearing only on the bank statement should be:",
+          "a": "Entered on the credit side of the cash book \u2014 Bank charges reduce the bank balance, so they are credited (entered on the payments side) in the cash book."
+        }
+      ]
+    },
+    {
+      "title": "Sales ledger and purchases ledger control accounts",
+      "html": "<p><b>Sales ledger and purchases ledger control accounts</b> is a key part of Reconciliations and Control Accounts (SSS 2, Financial Accounting). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Purpose A control (total) account is a summary account whose balance should equal the total of the individual balances in the corresponding subsidiary ledger.</li><li>Sales Ledger (Debtors) Control Account Debit side Credit side Opening debtors balance b/d Credit sales Dishonoured cheques Interest charged to customers Refunds to customers Bad debts previously written off and now reinstated Cash and cheques received Discount allowed Returns inwards Bad debts written off Set-off / contra to purchases ledger Closing balance c/d 3.</li><li>Purchases Ledger (Creditors) Control Account Debit side Credit side Payments to suppliers Discount received Returns outwards Set-off / contra Closing balance c/d Opening creditors balance b/d Credit purchases Interest charged by suppliers Sources of the figures are the totals of the books of original entry, not the individual ledger accounts - this independence is what makes the control account a genuine check.</li><li>Set-off (Contra) Entries Where the same person is both a debtor and a creditor, the smaller balance may be set against the larger: Dr Purchases Ledger Control, Cr Sales Ledger Control.</li><li>Correcting Errors Not Affecting the Trial Balance These are corrected by a simple journal entry between two accounts, with no suspense account involved.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which item is credited in the sales ledger control account?<br/><b>A:</b> Discount allowed \u2014 Discount allowed reduces the amount receivable and appears on the credit side of the debtors control account.</p><p><b>Q:</b> Credit purchases are posted to the creditors control account from the:<br/><b>A:</b> Purchases day book total \u2014 Control accounts take totals from the books of original entry, keeping them independent of the personal ledger.</p>",
+      "examples": [
+        {
+          "q": "Which item is credited in the sales ledger control account?",
+          "a": "Discount allowed \u2014 Discount allowed reduces the amount receivable and appears on the credit side of the debtors control account."
+        },
+        {
+          "q": "Credit purchases are posted to the creditors control account from the:",
+          "a": "Purchases day book total \u2014 Control accounts take totals from the books of original entry, keeping them independent of the personal ledger."
+        }
+      ]
     }
-   ]
-  }
- ],
- "quiz": [
-  {
-   "q": "An unpresented cheque is one that has been:",
-   "options": [
-    "Received but not banked",
-    "Drawn but not yet paid by the bank",
-    "Dishonoured",
-    "Post-dated by a customer"
-   ],
-   "answer": "1",
-   "solution": "It has been entered in the cash book but not yet presented to the bank for payment."
-  },
-  {
-   "q": "Bank charges appearing only on the bank statement should be:",
-   "options": [
-    "Added to the cash book",
-    "Entered on the credit side of the cash book",
-    "Ignored",
-    "Added to the bank statement"
-   ],
-   "answer": "1",
-   "solution": "Bank charges reduce the bank balance, so they are credited (entered on the payments side) in the cash book."
-  },
-  {
-   "q": "Cash book N300,000 debit; unpresented cheques N80,000; uncredited lodgements N50,000. Bank statement balance is:",
-   "options": [
-    "N270,000",
-    "N330,000",
-    "N430,000",
-    "N230,000"
-   ],
-   "answer": "1",
-   "solution": "300,000 + 80,000 - 50,000 = N330,000."
-  },
-  {
-   "q": "Which item is credited in the sales ledger control account?",
-   "options": [
-    "Credit sales",
-    "Dishonoured cheque",
-    "Discount allowed",
-    "Opening debtors"
-   ],
-   "answer": "2",
-   "solution": "Discount allowed reduces the amount receivable and appears on the credit side of the debtors control account."
-  },
-  {
-   "q": "Credit purchases are posted to the creditors control account from the:",
-   "options": [
-    "Cash book",
-    "Purchases day book total",
-    "Individual creditors accounts",
-    "Journal proper"
-   ],
-   "answer": "1",
-   "solution": "Control accounts take totals from the books of original entry, keeping them independent of the personal ledger."
-  },
-  {
-   "q": "A set-off entry is:",
-   "options": [
-    "Dr Sales Ledger Control, Cr Purchases Ledger Control",
-    "Dr Purchases Ledger Control, Cr Sales Ledger Control",
-    "Dr Bank, Cr Debtors",
-    "Dr Creditors, Cr Bank"
-   ],
-   "answer": "1",
-   "solution": "Where a person is both debtor and creditor, the amount is transferred by debiting the creditors control and crediting the debtors control."
-  },
-  {
-   "q": "Opening debtors N500,000; credit sales N2,000,000; receipts N1,700,000; returns inwards N60,000. Closing debtors are:",
-   "options": [
-    "N740,000",
-    "N800,000",
-    "N860,000",
-    "N640,000"
-   ],
-   "answer": "0",
-   "solution": "500,000 + 2,000,000 - 1,700,000 - 60,000 = N740,000."
-  },
-  {
-   "q": "The main purpose of a control account is to:",
-   "options": [
-    "Replace the ledger",
-    "Provide a check on the subsidiary ledger",
-    "Calculate profit",
-    "Record cash"
-   ],
-   "answer": "1",
-   "solution": "It provides an arithmetical check and helps locate errors within the sales or purchases ledger."
-  },
-  {
-   "q": "A suspense account with a credit balance means the trial balance had:",
-   "options": [
-    "Debits exceeding credits",
-    "Credits exceeding debits",
-    "Equal totals",
-    "No entries"
-   ],
-   "answer": "0",
-   "solution": "A credit entry in suspense is needed to balance an excess of debits, so the debit total was larger."
-  },
-  {
-   "q": "Which error is corrected without using a suspense account?",
-   "options": [
-    "Sales account undercast",
-    "One-sided posting",
-    "Error of commission",
-    "Purchases day book overcast"
-   ],
-   "answer": "2",
-   "solution": "An error of commission has equal debit and credit, so the trial balance agreed and no suspense entry is needed."
-  },
-  {
-   "q": "A dishonoured cheque previously received from a debtor is entered in the debtors control account on the:",
-   "options": [
-    "Credit side",
-    "Debit side",
-    "Both sides",
-    "Neither side"
-   ],
-   "answer": "1",
-   "solution": "The debt is reinstated, so the debtors control account is debited again."
-  },
-  {
-   "q": "Discount received appears in the creditors control account on the:",
-   "options": [
-    "Debit side",
-    "Credit side",
-    "Both sides",
-    "Memorandum only"
-   ],
-   "answer": "0",
-   "solution": "Discount received reduces the amount payable and is therefore debited in the creditors control account."
-  },
-  {
-   "q": "Direct credit from a customer into the bank should be:",
-   "options": [
-    "Debited in the cash book",
-    "Credited in the cash book",
-    "Added to unpresented cheques",
-    "Deducted from lodgements"
-   ],
-   "answer": "0",
-   "solution": "It increases the bank balance and is therefore debited (receipts side) when updating the cash book."
-  },
-  {
-   "q": "Correction of an undercast in the sales account will:",
-   "options": [
-    "Reduce net profit",
-    "Increase net profit",
-    "Not affect profit",
-    "Increase creditors"
-   ],
-   "answer": "1",
-   "solution": "Sales were understated, so correcting the undercast increases revenue and therefore net profit."
-  },
-  {
-   "q": "Which of these does NOT appear in the debtors control account?",
-   "options": [
-    "Bad debts written off",
-    "Credit sales",
-    "Cash sales",
-    "Returns inwards"
-   ],
-   "answer": "2",
-   "solution": "Cash sales never create a debtor and so are excluded from the sales ledger control account."
-  },
-  {
-   "q": "A bank overdraft shown in the cash book is:",
-   "options": [
-    "A debit balance",
-    "A credit balance",
-    "A fixed asset",
-    "An income"
-   ],
-   "answer": "1",
-   "solution": "An overdraft means more has been paid out than is available, giving a credit balance in the cash book and a current liability in the balance sheet."
-  }
- ]
+  ],
+  "quiz": [
+    {
+      "q": "An unpresented cheque is one that has been:",
+      "options": [
+        "Received but not banked",
+        "Drawn but not yet paid by the bank",
+        "Dishonoured",
+        "Post-dated by a customer"
+      ],
+      "answer": 1,
+      "solution": "It has been entered in the cash book but not yet presented to the bank for payment.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Bank charges appearing only on the bank statement should be:",
+      "options": [
+        "Added to the cash book",
+        "Entered on the credit side of the cash book",
+        "Ignored",
+        "Added to the bank statement"
+      ],
+      "answer": 1,
+      "solution": "Bank charges reduce the bank balance, so they are credited (entered on the payments side) in the cash book.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Cash book N300,000 debit; unpresented cheques N80,000; uncredited lodgements N50,000. Bank statement balance is:",
+      "options": [
+        "N270,000",
+        "N330,000",
+        "N430,000",
+        "N230,000"
+      ],
+      "answer": 1,
+      "solution": "300,000 + 80,000 - 50,000 = N330,000.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which item is credited in the sales ledger control account?",
+      "options": [
+        "Credit sales",
+        "Dishonoured cheque",
+        "Discount allowed",
+        "Opening debtors"
+      ],
+      "answer": 2,
+      "solution": "Discount allowed reduces the amount receivable and appears on the credit side of the debtors control account.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Credit purchases are posted to the creditors control account from the:",
+      "options": [
+        "Cash book",
+        "Purchases day book total",
+        "Individual creditors accounts",
+        "Journal proper"
+      ],
+      "answer": 1,
+      "solution": "Control accounts take totals from the books of original entry, keeping them independent of the personal ledger.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A set-off entry is:",
+      "options": [
+        "Dr Sales Ledger Control, Cr Purchases Ledger Control",
+        "Dr Purchases Ledger Control, Cr Sales Ledger Control",
+        "Dr Bank, Cr Debtors",
+        "Dr Creditors, Cr Bank"
+      ],
+      "answer": 1,
+      "solution": "Where a person is both debtor and creditor, the amount is transferred by debiting the creditors control and crediting the debtors control.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Opening debtors N500,000; credit sales N2,000,000; receipts N1,700,000; returns inwards N60,000. Closing debtors are:",
+      "options": [
+        "N740,000",
+        "N800,000",
+        "N860,000",
+        "N640,000"
+      ],
+      "answer": 0,
+      "solution": "500,000 + 2,000,000 - 1,700,000 - 60,000 = N740,000.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The main purpose of a control account is to:",
+      "options": [
+        "Replace the ledger",
+        "Provide a check on the subsidiary ledger",
+        "Calculate profit",
+        "Record cash"
+      ],
+      "answer": 1,
+      "solution": "It provides an arithmetical check and helps locate errors within the sales or purchases ledger.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A suspense account with a credit balance means the trial balance had:",
+      "options": [
+        "Debits exceeding credits",
+        "Credits exceeding debits",
+        "Equal totals",
+        "No entries"
+      ],
+      "answer": 0,
+      "solution": "A credit entry in suspense is needed to balance an excess of debits, so the debit total was larger.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which error is corrected without using a suspense account?",
+      "options": [
+        "Sales account undercast",
+        "One-sided posting",
+        "Error of commission",
+        "Purchases day book overcast"
+      ],
+      "answer": 2,
+      "solution": "An error of commission has equal debit and credit, so the trial balance agreed and no suspense entry is needed.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A dishonoured cheque previously received from a debtor is entered in the debtors control account on the:",
+      "options": [
+        "Credit side",
+        "Debit side",
+        "Both sides",
+        "Neither side"
+      ],
+      "answer": 1,
+      "solution": "The debt is reinstated, so the debtors control account is debited again.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Discount received appears in the creditors control account on the:",
+      "options": [
+        "Debit side",
+        "Credit side",
+        "Both sides",
+        "Memorandum only"
+      ],
+      "answer": 0,
+      "solution": "Discount received reduces the amount payable and is therefore debited in the creditors control account.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Direct credit from a customer into the bank should be:",
+      "options": [
+        "Debited in the cash book",
+        "Credited in the cash book",
+        "Added to unpresented cheques",
+        "Deducted from lodgements"
+      ],
+      "answer": 0,
+      "solution": "It increases the bank balance and is therefore debited (receipts side) when updating the cash book.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Correction of an undercast in the sales account will:",
+      "options": [
+        "Reduce net profit",
+        "Increase net profit",
+        "Not affect profit",
+        "Increase creditors"
+      ],
+      "answer": 1,
+      "solution": "Sales were understated, so correcting the undercast increases revenue and therefore net profit.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of these does NOT appear in the debtors control account?",
+      "options": [
+        "Bad debts written off",
+        "Credit sales",
+        "Cash sales",
+        "Returns inwards"
+      ],
+      "answer": 2,
+      "solution": "Cash sales never create a debtor and so are excluded from the sales ledger control account.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A bank overdraft shown in the cash book is:",
+      "options": [
+        "A debit balance",
+        "A credit balance",
+        "A fixed asset",
+        "An income"
+      ],
+      "answer": 1,
+      "solution": "An overdraft means more has been paid out than is available, giving a credit balance in the cash book and a current liability in the balance sheet.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Contra entries in Control Accounts happen when?",
+      "options": [
+        "Cash is paid",
+        "A person is both debtor and creditor",
+        "Goods are returned",
+        "Discounts allowed"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: A person is both debtor and creditor.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The Purchases Ledger Control Account is used to check the accuracy of the _____.",
+      "options": [
+        "Sales Ledger",
+        "General Ledger",
+        "Purchases Ledger",
+        "Private Ledger"
+      ],
+      "answer": 2,
+      "solution": "The Purchases Ledger Control Account (or Creditors Control) summarizes all transactions in the individual creditors' accounts.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The Sales Ledger Control Account is also known as _____.",
+      "options": [
+        "Total Creditors Account",
+        "Total Debtors Account",
+        "Private Ledger",
+        "Nominal Ledger"
+      ],
+      "answer": 1,
+      "solution": "The Sales Ledger Control Account summarizes all transactions related to credit customers (debtors) to check the accuracy of the individual ledger accounts.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Sales Ledger Control Account is also called?",
+      "options": [
+        "Total Creditors Account",
+        "Sales Journal",
+        "Total Debtors Account",
+        "Nominal Ledger"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Total Debtors Account.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Purchases Ledger Control Account is also called?",
+      "options": [
+        "Total Debtors Account",
+        "Purchase Journal",
+        "Asset Account",
+        "Total Creditors Account"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Total Creditors Account.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A Control Account is used to?",
+      "options": [
+        "Replace ledgers",
+        "Record drawings",
+        "Find profit",
+        "Check errors in ledgers"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Check errors in ledgers.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A Bank Reconciliation Statement is prepared by the _____.",
+      "options": [
+        "Bank manager",
+        "Accountant of the business",
+        "External auditor",
+        "Central Bank"
+      ],
+      "answer": 1,
+      "solution": "The business prepares the Bank Reconciliation Statement to identify discrepancies between its Cash Book (Bank column) and the Bank Statement provided by the bank.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A Bank Reconciliation Statement is prepared to _____.",
+      "options": [
+        "Know the profit for the year",
+        "Check errors in the ledger",
+        "Reconcile the Cash Book and Bank Statement balances",
+        "Prevent theft of cash"
+      ],
+      "answer": 2,
+      "solution": "Discrepancies often exist between a business's Cash Book records and the Bank's Statement due to timing differences or errors; the statement aligns both.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Bank Reconciliation Statement is prepared to reconcile:",
+      "options": [
+        "Cash book and Bank statement",
+        "Sales and Purchases",
+        "Debtors and Creditors",
+        "Trial Balance"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Cash book and Bank statement.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "A Bank Reconciliation Statement is prepared by...",
+      "options": [
+        "The Bank",
+        "The Auditor",
+        "The Customer (Business)",
+        "The Accountant General"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: The Customer (Business).",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The process of transferring entries from a journal to a ledger is?",
+      "options": [
+        "Casting",
+        "Balancing",
+        "Posting",
+        "Journalizing"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Posting.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The rule for Real Accounts is?",
+      "options": [
+        "Debit the receiver",
+        "Debit what comes in, Credit what goes out",
+        "Credit all expenses",
+        "Debit all gains"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Debit what comes in, Credit what goes out.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Nominal Accounts deal with?",
+      "options": [
+        "Buildings",
+        "Debtors",
+        "Expenses and Income",
+        "Cash"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Expenses and Income.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Personal Accounts are accounts of?",
+      "options": [
+        "Assets",
+        "Persons and Firms",
+        "Expenses",
+        "Profits"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Persons and Firms.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Fixed Capital Accounts stay the same unless?",
+      "options": [
+        "Profits are made",
+        "Losses occur",
+        "Drawings happen",
+        "More capital is introduced"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: More capital is introduced.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Current Accounts of partners record?",
+      "options": [
+        "Land",
+        "Profits, drawings, and interest",
+        "Loans",
+        "Goodwill"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Profits, drawings, and interest.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Branch Accounts are for?",
+      "options": [
+        "Selling trees",
+        "Businesses with multiple locations",
+        "Only banks",
+        "Schools"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Businesses with multiple locations.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which is an External User of accounts?",
+      "options": [
+        "Investors",
+        "Managers",
+        "Supervisors",
+        "Clerks"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Investors.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\"Window Dressing\" in accounts is?",
+      "options": [
+        "Cleaning the office",
+        "Buying stock",
+        "Making accounts look better than they are",
+        "Auditing"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Making accounts look better than they are.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The process of transferring entries from the journals to the ledger is known as _____.",
+      "options": [
+        "Balancing",
+        "Totaling",
+        "Posting",
+        "Analyzing"
+      ],
+      "answer": 2,
+      "solution": "Posting is the technical term for transferring data from the books of original entry (journals) to the principal book (ledger).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The systematic record of the cash and bank transactions of a business is the _____.",
+      "options": [
+        "Petty Cash Book",
+        "Cash Book",
+        "Journal",
+        "Ledger"
+      ],
+      "answer": 1,
+      "solution": "The Cash Book serves as both a book of original entry and a ledger account for cash and bank balances.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A suspense account is used to _____.",
+      "options": [
+        "Record bad debts",
+        "Temporarily balance the trial balance",
+        "Keep track of cash shortages",
+        "Record drawings by the owner"
+      ],
+      "answer": 1,
+      "solution": "When a Trial Balance fails to agree, the difference is temporarily placed in a Suspense Account until the errors are located and corrected.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a book of prime entry AND a ledger?",
+      "options": [
+        "Sales Journal",
+        "Cash Book",
+        "Purchases Journal",
+        "Returns Inwards Journal"
+      ],
+      "answer": 1,
+      "solution": "The Cash Book is unique because it serves both as the initial record of transactions and as the final T-account for cash and bank.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Sales of #2,000 to Mr. A was recorded in Mr. B's account. This is an error of _____.",
+      "options": [
+        "Principle",
+        "Commission",
+        "Original entry",
+        "Compensating"
+      ],
+      "answer": 1,
+      "solution": "An error of commission occurs when an entry is made in the correct class of account (Personal) but the wrong individual account (Mr. B instead of Mr. A).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The person who prepares the Petty Cash Book is the _____.",
+      "options": [
+        "Chief Accountant",
+        "External Auditor",
+        "Petty Cashier",
+        "Company Secretary"
+      ],
+      "answer": 2,
+      "solution": "The petty cashier is a junior staff member responsible for small, daily expenditures.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Unpresented cheques are cheques _____.",
+      "options": [
+        "Drawn but not yet paid by the bank",
+        "Received but not yet deposited",
+        "Rejected by the bank due to errors",
+        "Lost in transit"
+      ],
+      "answer": 0,
+      "solution": "Unpresented cheques have been recorded in the Cash Book (credit side) but have not yet appeared on the Bank Statement.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The Purchases Day Book is used to record _____.",
+      "options": [
+        "Cash purchases",
+        "Credit sales",
+        "Credit purchases of goods for resale",
+        "All purchases"
+      ],
+      "answer": 2,
+      "solution": "The Purchases Day Book (or Journal) is specifically for the credit purchase of inventory.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The double entry for 'Cash sales' is _____.",
+      "options": [
+        "Debit: Sales; Credit: Cash",
+        "Debit: Cash; Credit: Sales",
+        "Debit: Bank; Credit: Debtors",
+        "Debit: Sales; Credit: Debtors"
+      ],
+      "answer": 1,
+      "solution": "Cash is increasing (asset debit) and Sales is an income (credit).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which book of original entry is used to record credit sales of furniture by a company that deals in electronics?",
+      "options": [
+        "Sales Journal",
+        "Purchases Journal",
+        "Cash Book",
+        "General Journal"
+      ],
+      "answer": 3,
+      "solution": "Sales Journals are for credit sales of trading stock only. Credit sales of non-current assets (furniture) must be recorded in the General Journal (Journal Proper).",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The systematic record of all cash and bank transactions is the _____.",
+      "options": [
+        "Journal",
+        "Petty Cash Book",
+        "Cash Book",
+        "Ledger"
+      ],
+      "answer": 2,
+      "solution": "The Cash Book is the primary book of original entry for recording all money received and paid out by the business.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "A credit entry in the Sales Account represents _____.",
+      "options": [
+        "A decrease in sales",
+        "An increase in sales",
+        "A return by a customer",
+        "Cash received from a customer"
+      ],
+      "answer": 1,
+      "solution": "Sales is an income account. Incomes increase on the credit side and decrease on the debit side.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The book of original entry for credit sales is:",
+      "options": [
+        "Sales Ledger",
+        "Sales Journal",
+        "Cash Book",
+        "General Ledger"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Sales Journal.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which account is used to record small cash payments?",
+      "options": [
+        "Cash account",
+        "Bank account",
+        "Petty cash book",
+        "Journal"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Petty cash book.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Double entry for cash sales:",
+      "options": [
+        "Dr Cash, Cr Sales",
+        "Dr Sales, Cr Cash",
+        "Dr Cash, Cr Stock",
+        "Dr Debtor, Cr Sales"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Dr Cash, Cr Sales.",
+      "source": "JAMB 2023",
+      "practice": false
+    }
+  ]
 }

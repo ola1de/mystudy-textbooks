@@ -1,0 +1,737 @@
+{
+  "subject": "Computer Studies",
+  "level": "SSS 3",
+  "slug": "data-security",
+  "title": "Data Security and Ethics",
+  "outline": [
+    "Introduction to Data Security and Ethics",
+    "Key facts about Data Security and Ethics",
+    "Important terms and examples in Data Security and Ethics",
+    "Importance and application of Data Security and Ethics",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Data Security and Ethics",
+      "html": "<p>Computer viruses, passwords, cybercrime and copyright. This section covers introduction to data security and ethics.</p><h4>Key points</h4><ul><li>Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer.</li><li>What is the maximum data capacity of a standard CD-ROM \u2014 700 MB.</li><li>In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.</li><li>Data processed becomes: \u2014 Information.</li><li>Smallest unit of data: \u2014 Bit.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which layer of the OSI model is responsible for routing data packets?<br/><b>A:</b> Network Layer \u2014 The Network Layer handles the addressing and routing of data packets across different networks.</p><p><b>Q:</b> What is the maximum data capacity of a standard CD-ROM?<br/><b>A:</b> 700 MB \u2014 A standard Compact Disc (CD) typically holds 700 MB of data. 4.7 GB is the standard for a DVD.</p>",
+      "examples": [
+        {
+          "q": "Which layer of the OSI model is responsible for routing data packets?",
+          "a": "Network Layer"
+        },
+        {
+          "q": "What is the maximum data capacity of a standard CD-ROM?",
+          "a": "700 MB"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Data Security and Ethics",
+      "html": "<p>Computer viruses, passwords, cybercrime and copyright. This section covers key facts about data security and ethics.</p><h4>Key points</h4><ul><li>Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer.</li><li>What is the maximum data capacity of a standard CD-ROM \u2014 700 MB.</li><li>In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.</li><li>Data processed becomes: \u2014 Information.</li><li>Smallest unit of data: \u2014 Bit.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which layer of the OSI model is responsible for routing data packets?<br/><b>A:</b> Network Layer \u2014 The Network Layer handles the addressing and routing of data packets across different networks.</p><p><b>Q:</b> What is the maximum data capacity of a standard CD-ROM?<br/><b>A:</b> 700 MB \u2014 A standard Compact Disc (CD) typically holds 700 MB of data. 4.7 GB is the standard for a DVD.</p>",
+      "examples": [
+        {
+          "q": "Which layer of the OSI model is responsible for routing data packets?",
+          "a": "Network Layer"
+        },
+        {
+          "q": "What is the maximum data capacity of a standard CD-ROM?",
+          "a": "700 MB"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Data Security and Ethics",
+      "html": "<p>Computer viruses, passwords, cybercrime and copyright. This section covers important terms and examples in data security and ethics.</p><h4>Key points</h4><ul><li>Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer.</li><li>What is the maximum data capacity of a standard CD-ROM \u2014 700 MB.</li><li>In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.</li><li>Data processed becomes: \u2014 Information.</li><li>Smallest unit of data: \u2014 Bit.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which layer of the OSI model is responsible for routing data packets?<br/><b>A:</b> Network Layer \u2014 The Network Layer handles the addressing and routing of data packets across different networks.</p><p><b>Q:</b> What is the maximum data capacity of a standard CD-ROM?<br/><b>A:</b> 700 MB \u2014 A standard Compact Disc (CD) typically holds 700 MB of data. 4.7 GB is the standard for a DVD.</p>",
+      "examples": [
+        {
+          "q": "Which layer of the OSI model is responsible for routing data packets?",
+          "a": "Network Layer"
+        },
+        {
+          "q": "What is the maximum data capacity of a standard CD-ROM?",
+          "a": "700 MB"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Data Security and Ethics",
+      "html": "<p>Computer viruses, passwords, cybercrime and copyright. This section covers importance and application of data security and ethics.</p><h4>Key points</h4><ul><li>Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer.</li><li>What is the maximum data capacity of a standard CD-ROM \u2014 700 MB.</li><li>In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.</li><li>Data processed becomes: \u2014 Information.</li><li>Smallest unit of data: \u2014 Bit.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which layer of the OSI model is responsible for routing data packets?<br/><b>A:</b> Network Layer \u2014 The Network Layer handles the addressing and routing of data packets across different networks.</p><p><b>Q:</b> What is the maximum data capacity of a standard CD-ROM?<br/><b>A:</b> 700 MB \u2014 A standard Compact Disc (CD) typically holds 700 MB of data. 4.7 GB is the standard for a DVD.</p>",
+      "examples": [
+        {
+          "q": "Which layer of the OSI model is responsible for routing data packets?",
+          "a": "Network Layer"
+        },
+        {
+          "q": "What is the maximum data capacity of a standard CD-ROM?",
+          "a": "700 MB"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Computer viruses, passwords, cybercrime and copyright. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer.</li><li>What is the maximum data capacity of a standard CD-ROM \u2014 700 MB.</li><li>In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.</li><li>Data processed becomes: \u2014 Information.</li><li>Smallest unit of data: \u2014 Bit.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Which layer of the OSI model is responsible for routing data packets?<br/><b>A:</b> Network Layer \u2014 The Network Layer handles the addressing and routing of data packets across different networks.</p><p><b>Q:</b> What is the maximum data capacity of a standard CD-ROM?<br/><b>A:</b> 700 MB \u2014 A standard Compact Disc (CD) typically holds 700 MB of data. 4.7 GB is the standard for a DVD.</p>",
+      "examples": [
+        {
+          "q": "Which layer of the OSI model is responsible for routing data packets?",
+          "a": "Network Layer"
+        },
+        {
+          "q": "What is the maximum data capacity of a standard CD-ROM?",
+          "a": "700 MB"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which layer of the OSI model is responsible for routing data packets?",
+      "options": [
+        "Data Link Layer",
+        "Network Layer",
+        "Transport Layer",
+        "Physical Layer"
+      ],
+      "answer": 1,
+      "solution": "The Network Layer handles the addressing and routing of data packets across different networks.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "What is the maximum data capacity of a standard CD-ROM?",
+      "options": [
+        "700 MB",
+        "4.7 GB",
+        "25 GB",
+        "1.44 MB"
+      ],
+      "answer": 0,
+      "solution": "A standard Compact Disc (CD) typically holds 700 MB of data. 4.7 GB is the standard for a DVD.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "In computer ethics, 'Copyright' is intended to _____.",
+      "options": [
+        "Encourage piracy",
+        "Protect original works of authorship",
+        "Make software free",
+        "Speed up the internet"
+      ],
+      "answer": 1,
+      "solution": "Copyright laws provide legal protection to the creators of intellectual property.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Data processed becomes:",
+      "options": [
+        "Input",
+        "Information",
+        "Memory",
+        "Code"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Information.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Smallest unit of data:",
+      "options": [
+        "Bit",
+        "Byte",
+        "File",
+        "Record"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Bit.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Which database model organizes data into tables with rows and columns?",
+      "options": [
+        "Hierarchical",
+        "Network",
+        "Relational",
+        "Object-oriented"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Relational.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A pixel is _____.",
+      "options": [
+        "A computer program",
+        "The smallest unit of a digital image",
+        "A type of storage device",
+        "An internet protocol"
+      ],
+      "answer": 1,
+      "solution": "Pixels are the small dots that make up the images on computer displays.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The physical path over which a message travels is called the _____.",
+      "options": [
+        "Protocol",
+        "Medium",
+        "Signal",
+        "Topology"
+      ],
+      "answer": 1,
+      "solution": "The transmission medium (e.g., fiber optic cable, wireless) is the physical link between sender and receiver.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is an example of an impact printer?",
+      "options": [
+        "Laser printer",
+        "Inkjet printer",
+        "Dot Matrix printer",
+        "Thermal printer"
+      ],
+      "answer": 2,
+      "solution": "Impact printers (like Dot Matrix) function by striking an inked ribbon against the paper.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which generation of computers used Vacuum Tubes?",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: First.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The intersection of a row and column in Excel is:",
+      "options": [
+        "Cell",
+        "Box",
+        "Table",
+        "Grid"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Cell.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "In flowchart, Oval shape is:",
+      "options": [
+        "Start/Stop",
+        "Process",
+        "Decision",
+        "Input"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Start/Stop.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Monitor output is called:",
+      "options": [
+        "Soft copy",
+        "Hard copy",
+        "Scan copy",
+        "View copy"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Soft copy.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The intersection of a row and column in Excel is called a:",
+      "options": [
+        "Table",
+        "Cell",
+        "Sheet",
+        "Box"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Cell.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "LAN stands for:",
+      "options": [
+        "Local Area Network",
+        "Large Area Network",
+        "Long Area Network",
+        "Live Area Network"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: Local Area Network.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "A hard disk is divided into:",
+      "options": [
+        "Tracks and Sectors",
+        "Lines and Curves",
+        "Bits and Bytes",
+        "Files and Folders"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: Tracks and Sectors.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "WAN stands for:",
+      "options": [
+        "Wide Area Network",
+        "World Area Network",
+        "Wide Access Network",
+        "Web Area Network"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Wide Area Network.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Byte is:",
+      "options": [
+        "8 bits",
+        "4 bits",
+        "16 bits",
+        "32 bits"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: 8 bits.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Cold Booting is:",
+      "options": [
+        "Turning on from off",
+        "Restarting",
+        "Freezing",
+        "Heating"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Turning on from off.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Which symbol is used to start a formula in Microsoft Excel?",
+      "options": [
+        "+",
+        "-",
+        "=",
+        "@"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: =.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "In a flowchart, a diamond shape represents a...",
+      "options": [
+        "Process",
+        "Input/Output",
+        "Decision",
+        "Start/End"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Decision.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "In MS Excel, the intersection of a row and column is a:",
+      "options": [
+        "Table",
+        "Cell",
+        "Sheet",
+        "Range"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Cell.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "E-mail stands for:",
+      "options": [
+        "Electric mail",
+        "Electronic mail",
+        "Engine mail",
+        "Energy mail"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Electronic mail.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "HTTP:",
+      "options": [
+        "HyperText Transfer Protocol",
+        "High",
+        "Tool",
+        "Tech"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: HyperText Transfer Protocol.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Ctrl+X:",
+      "options": [
+        "Cut",
+        "Copy",
+        "Paste",
+        "Save"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Cut.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Start Symbol:",
+      "options": [
+        "Oval",
+        "Square",
+        "Diamond",
+        "Circle"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Oval.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Hard Copy:",
+      "options": [
+        "Printed",
+        "Screen",
+        "File",
+        "Disk"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Printed.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Windows is an example of:",
+      "options": [
+        "Operating System",
+        "Application",
+        "Hardware",
+        "Antivirus"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Operating System.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Fastest memory:",
+      "options": [
+        "Cache",
+        "RAM",
+        "Hard Disk",
+        "Flash"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Cache.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Data Security and Ethics in Data Security and Ethics?",
+      "options": [
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter.",
+        "The CPU consists of: \u2014 ALU and Control Unit.",
+        "Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer.",
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key."
+      ],
+      "answer": 2,
+      "solution": "Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Data Security and Ethics in Data Security and Ethics?",
+      "options": [
+        "Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer.",
+        "The CPU consists of: \u2014 ALU and Control Unit.",
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter."
+      ],
+      "answer": 0,
+      "solution": "Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Data Security and Ethics in Data Security and Ethics?",
+      "options": [
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter.",
+        "The CPU consists of: \u2014 ALU and Control Unit.",
+        "Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer."
+      ],
+      "answer": 3,
+      "solution": "Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Data Security and Ethics in Data Security and Ethics?",
+      "options": [
+        "The CPU consists of: \u2014 ALU and Control Unit.",
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter."
+      ],
+      "answer": 2,
+      "solution": "Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Data Security and Ethics?",
+      "options": [
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter.",
+        "The CPU consists of: \u2014 ALU and Control Unit."
+      ],
+      "answer": 1,
+      "solution": "Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'layer'?",
+      "options": [
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter.",
+        "The CPU consists of: \u2014 ALU and Control Unit.",
+        "Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer."
+      ],
+      "answer": 3,
+      "solution": "Which layer of the OSI model is responsible for routing data packets \u2014 Network Layer.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'maximum'?",
+      "options": [
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter.",
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "What is the maximum data capacity of a standard CD-ROM \u2014 700 MB.",
+        "The CPU consists of: \u2014 ALU and Control Unit."
+      ],
+      "answer": 2,
+      "solution": "What is the maximum data capacity of a standard CD-ROM \u2014 700 MB.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'computer'?",
+      "options": [
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter.",
+        "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+        "The CPU consists of: \u2014 ALU and Control Unit."
+      ],
+      "answer": 2,
+      "solution": "In computer ethics, 'Copyright' is intended to _____. \u2014 Protect original works of authorship.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'processed'?",
+      "options": [
+        "The CPU consists of: \u2014 ALU and Control Unit.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter.",
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "Data processed becomes: \u2014 Information."
+      ],
+      "answer": 3,
+      "solution": "Data processed becomes: \u2014 Information.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'smallest'?",
+      "options": [
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter.",
+        "Smallest unit of data: \u2014 Bit.",
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "The CPU consists of: \u2014 ALU and Control Unit."
+      ],
+      "answer": 1,
+      "solution": "Smallest unit of data: \u2014 Bit.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'database'?",
+      "options": [
+        "Which database model organizes data into tables with rows and columns \u2014 Relational.",
+        "Web Browser example: \u2014 Chrome.",
+        "The CPU consists of: \u2014 ALU and Control Unit.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter."
+      ],
+      "answer": 0,
+      "solution": "Which database model organizes data into tables with rows and columns \u2014 Relational.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'pixel'?",
+      "options": [
+        "The CPU consists of: \u2014 ALU and Control Unit.",
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "A pixel is _____. \u2014 The smallest unit of a digital image.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter."
+      ],
+      "answer": 2,
+      "solution": "A pixel is _____. \u2014 The smallest unit of a digital image.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'physical'?",
+      "options": [
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "The physical path over which a message travels is called the _____. \u2014 Medium.",
+        "The CPU consists of: \u2014 ALU and Control Unit.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter."
+      ],
+      "answer": 1,
+      "solution": "The physical path over which a message travels is called the _____. \u2014 Medium.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'following'?",
+      "options": [
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter.",
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "Which of the following is an example of an impact printer \u2014 Dot Matrix printer.",
+        "The CPU consists of: \u2014 ALU and Control Unit."
+      ],
+      "answer": 2,
+      "solution": "Which of the following is an example of an impact printer \u2014 Dot Matrix printer.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'generation'?",
+      "options": [
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter.",
+        "Which generation of computers used Vacuum Tubes \u2014 First.",
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "The CPU consists of: \u2014 ALU and Control Unit."
+      ],
+      "answer": 1,
+      "solution": "Which generation of computers used Vacuum Tubes \u2014 First.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'intersection'?",
+      "options": [
+        "The CPU consists of: \u2014 ALU and Control Unit.",
+        "The intersection of a row and column in Excel is: \u2014 Cell.",
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter."
+      ],
+      "answer": 1,
+      "solution": "The intersection of a row and column in Excel is: \u2014 Cell.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'flowchart'?",
+      "options": [
+        "In flowchart, Oval shape is: \u2014 Start/Stop.",
+        "The CPU consists of: \u2014 ALU and Control Unit.",
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter."
+      ],
+      "answer": 0,
+      "solution": "In flowchart, Oval shape is: \u2014 Start/Stop.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'monitor'?",
+      "options": [
+        "Monitor output is called: \u2014 Soft copy.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter.",
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "The CPU consists of: \u2014 ALU and Control Unit."
+      ],
+      "answer": 0,
+      "solution": "Monitor output is called: \u2014 Soft copy.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'lan'?",
+      "options": [
+        "LAN stands for: \u2014 Local Area Network.",
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter.",
+        "The CPU consists of: \u2014 ALU and Control Unit."
+      ],
+      "answer": 0,
+      "solution": "LAN stands for: \u2014 Local Area Network.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'hard'?",
+      "options": [
+        "The CPU consists of: \u2014 ALU and Control Unit.",
+        "A hard disk is divided into: \u2014 Tracks and Sectors.",
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter."
+      ],
+      "answer": 1,
+      "solution": "A hard disk is divided into: \u2014 Tracks and Sectors.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Data Security and Ethics \u2014 'wan'?",
+      "options": [
+        "In a database table, a unique identifier for each record is the... \u2014 Primary Key.",
+        "The software that translates high-level code into machine code line by line is a/an _____. \u2014 Interpreter.",
+        "The CPU consists of: \u2014 ALU and Control Unit.",
+        "WAN stands for: \u2014 Wide Area Network."
+      ],
+      "answer": 3,
+      "solution": "WAN stands for: \u2014 Wide Area Network.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}
