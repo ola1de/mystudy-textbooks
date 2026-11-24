@@ -12,17 +12,17 @@
   "modules": [
     {
       "title": "Figures of speech in passages",
-      "html": "<p>Writers use figurative language to make ideas vivid. Common figures include:</p>\n  <ul><li><b>Simile</b> — comparison with <i>as / like</i>: <i>brave as a lion</i>.</li>\n  <li><b>Metaphor</b> — direct comparison: <i>Time is a thief</i>.</li>\n  <li><b>Personification</b> — giving human qualities to things: <i>the sun smiled</i>.</li>\n  <li><b>Hyperbole</b> — exaggeration for effect: <i>I've told you a million times</i>.</li>\n  <li><b>Litotes</b> — understatement: <i>not bad</i> (= very good).</li>\n  <li><b>Oxymoron</b> — apparent contradiction: <i>deafening silence</i>.</li>\n  <li><b>Alliteration</b> — repeated initial sounds: <i>slippery snakes</i>.</li>\n  <li><b>Onomatopoeia</b> — words that imitate sounds: <i>buzz, clang, hiss</i>.</li>\n  <li><b>Irony</b> — meaning opposite of the literal: <i>a fire station burnt down</i> (situational).</li>\n  <li><b>Euphemism</b> — mild expression: <i>passed away</i> (= died).</li></ul>",
+      "html": "<p>Writers use figurative language to make ideas vivid. Common figures include:</p>\n  <ul><li><b>Simile</b> \u2014 comparison with <i>as / like</i>: <i>brave as a lion</i>.</li>\n  <li><b>Metaphor</b> \u2014 direct comparison: <i>Time is a thief</i>.</li>\n  <li><b>Personification</b> \u2014 giving human qualities to things: <i>the sun smiled</i>.</li>\n  <li><b>Hyperbole</b> \u2014 exaggeration for effect: <i>I've told you a million times</i>.</li>\n  <li><b>Litotes</b> \u2014 understatement: <i>not bad</i> (= very good).</li>\n  <li><b>Oxymoron</b> \u2014 apparent contradiction: <i>deafening silence</i>.</li>\n  <li><b>Alliteration</b> \u2014 repeated initial sounds: <i>slippery snakes</i>.</li>\n  <li><b>Onomatopoeia</b> \u2014 words that imitate sounds: <i>buzz, clang, hiss</i>.</li>\n  <li><b>Irony</b> \u2014 meaning opposite of the literal: <i>a fire station burnt down</i> (situational).</li>\n  <li><b>Euphemism</b> \u2014 mild expression: <i>passed away</i> (= died).</li></ul>",
       "examples": [
         {
           "q": "Identify the figure: <i>The waves danced along the shore.</i>",
-          "a": "Personification — waves given the human action of dancing."
+          "a": "Personification \u2014 waves given the human action of dancing."
         }
       ]
     },
     {
       "title": "Drawing inferences",
-      "html": "<p>An <b>inference</b> is a reasonable conclusion drawn from what a passage says, not stated directly.</p>\n  <p>Ask: <i>What does the writer expect me to understand without saying it aloud?</i></p>\n  <p>Steps:</p>\n  <ol><li>Note the exact words and details in the passage.</li>\n  <li>Combine those details with common knowledge.</li>\n  <li>Choose the option that fits the passage evidence — not just your feelings.</li></ol>\n  <p>Beware of over-inferring: any conclusion must be justified by something the writer wrote.</p>",
+      "html": "<p>An <b>inference</b> is a reasonable conclusion drawn from what a passage says, not stated directly.</p>\n  <p>Ask: <i>What does the writer expect me to understand without saying it aloud?</i></p>\n  <p>Steps:</p>\n  <ol><li>Note the exact words and details in the passage.</li>\n  <li>Combine those details with common knowledge.</li>\n  <li>Choose the option that fits the passage evidence \u2014 not just your feelings.</li></ol>\n  <p>Beware of over-inferring: any conclusion must be justified by something the writer wrote.</p><h4>Key points</h4><ul><li>Direct comparison.</li><li>Uses <i>like</i>.</li></ul><h4>Worked example</h4><p><b>Q:</b> <i>Time is a thief</i> is an example of:<br/><b>A:</b> metaphor</p><p><b>Q:</b> <i>She sings like an angel</i> is an example of:<br/><b>A:</b> simile</p>",
       "examples": [
         {
           "q": "From <i>Ada glanced at her watch and quickened her pace</i>, what can you infer?",
@@ -32,11 +32,53 @@
     },
     {
       "title": "Summary of an argumentative passage",
-      "html": "<p>An <b>argumentative passage</b> puts forward a case with reasons. Its summary must list those <b>reasons</b>, not merely restate the topic.</p>\n  <h4>Bullet-point method</h4>\n  <ol><li>State the writer's main claim in one sentence.</li>\n  <li>List each reason or piece of evidence as one bullet — in your own words.</li>\n  <li>Answer only the number of points asked (say, four reasons).</li>\n  <li>Keep to the word limit.</li></ol>",
+      "html": "<p>An <b>argumentative passage</b> puts forward a case with reasons. Its summary must list those <b>reasons</b>, not merely restate the topic.</p>\n  <h4>Bullet-point method</h4>\n  <ol><li>State the writer's main claim in one sentence.</li>\n  <li>List each reason or piece of evidence as one bullet \u2014 in your own words.</li>\n  <li>Answer only the number of points asked (say, four reasons).</li>\n  <li>Keep to the word limit.</li></ol><h4>Key points</h4><ul><li>Persuasion by reason.</li><li>Paraphrase in your own words.</li></ul><h4>Worked example</h4><p><b>Q:</b> An argumentative passage aims to:<br/><b>A:</b> persuade with reasons</p><p><b>Q:</b> In summary, quoting long passages is:<br/><b>A:</b> not allowed / avoid</p><h4>More key points</h4><ul><li>An argumentative passage aims to: \u2014 persuade with reasons.</li><li>In summary, quoting long passages is: \u2014 not allowed / avoid.</li><li>A good summary bullet is: \u2014 one clear sentence per point.</li><li>How many points should you give in summary \u2014 exactly the number asked.</li></ul>",
       "examples": [
         {
           "q": "If asked for <i>four reasons the writer opposes plastic bags</i>, what should you list?",
           "a": "Four separate, non-overlapping reasons, each rephrased in your own words and drawn only from the passage."
+        }
+      ]
+    },
+    {
+      "title": "Making inferences from texts",
+      "html": "<p><b>Making inferences from texts</b> is a key part of Comprehension and Summary (SSS 2, English). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Learn the meaning of making inferences from texts and the terms used with it.</li><li>Know the main types, features or steps involved in making inferences from texts.</li><li>Be able to give an example of making inferences from texts and explain why it matters in comprehension and summary.</li><li>Practise past questions on making inferences from texts until you can answer them without notes.</li></ul><h4>Worked example</h4><p><b>Q:</b> <i>Time is a thief</i> is an example of:<br/><b>A:</b> metaphor \u2014 Direct comparison.</p><p><b>Q:</b> <i>She sings like an angel</i> is an example of:<br/><b>A:</b> simile \u2014 Uses <i>like</i>.</p>",
+      "examples": [
+        {
+          "q": "<i>Time is a thief</i> is an example of:",
+          "a": "metaphor \u2014 Direct comparison."
+        },
+        {
+          "q": "<i>She sings like an angel</i> is an example of:",
+          "a": "simile \u2014 Uses <i>like</i>."
+        }
+      ]
+    },
+    {
+      "title": "Reading argumentative passages",
+      "html": "<p><b>Reading argumentative passages</b> is a key part of Comprehension and Summary (SSS 2, English). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>An argumentative passage puts forward a case with reasons.</li><li>Worked example Q: An argumentative passage aims to: A: persuade with reasons Q: In summary, quoting long passages is: A: not allowed / avoid</li><li>Argumentative passages.</li></ul><h4>Worked example</h4><p><b>Q:</b> An argumentative passage aims to:<br/><b>A:</b> persuade with reasons \u2014 Persuasion by reason.</p><p><b>Q:</b> In summary, quoting long passages is:<br/><b>A:</b> not allowed / avoid \u2014 Paraphrase in your own words.</p>",
+      "examples": [
+        {
+          "q": "An argumentative passage aims to:",
+          "a": "persuade with reasons \u2014 Persuasion by reason."
+        },
+        {
+          "q": "In summary, quoting long passages is:",
+          "a": "not allowed / avoid \u2014 Paraphrase in your own words."
+        }
+      ]
+    },
+    {
+      "title": "Writing summary bullet points",
+      "html": "<p><b>Writing summary bullet points</b> is a key part of Comprehension and Summary (SSS 2, English). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Key points Direct comparison.</li><li>Its summary must list those reasons , not merely restate the topic.</li><li>Bullet-point method State the writer's main claim in one sentence.</li><li>List each reason or piece of evidence as one bullet \u2014 in your own words.</li><li>Answer only the number of points asked (say, four reasons).</li></ul><h4>Worked example</h4><p><b>Q:</b> In summary, quoting long passages is:<br/><b>A:</b> not allowed / avoid \u2014 Paraphrase in your own words.</p><p><b>Q:</b> A good summary bullet is:<br/><b>A:</b> one clear sentence per point \u2014 One sentence per point.</p>",
+      "examples": [
+        {
+          "q": "In summary, quoting long passages is:",
+          "a": "not allowed / avoid \u2014 Paraphrase in your own words."
+        },
+        {
+          "q": "A good summary bullet is:",
+          "a": "one clear sentence per point \u2014 One sentence per point."
         }
       ]
     }
@@ -51,7 +93,9 @@
         "irony"
       ],
       "answer": 1,
-      "solution": "Direct comparison."
+      "solution": "Direct comparison.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>She sings like an angel</i> is an example of:",
@@ -62,7 +106,9 @@
         "hyperbole"
       ],
       "answer": 0,
-      "solution": "Uses <i>like</i>."
+      "solution": "Uses <i>like</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The wind whispered secrets.</i>",
@@ -73,7 +119,9 @@
         "irony"
       ],
       "answer": 1,
-      "solution": "Wind given human speech."
+      "solution": "Wind given human speech.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>I've told you a million times.</i>",
@@ -84,7 +132,9 @@
         "litotes"
       ],
       "answer": 2,
-      "solution": "Exaggeration."
+      "solution": "Exaggeration.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Not bad</i> (meaning 'very good') is:",
@@ -95,7 +145,9 @@
         "onomatopoeia"
       ],
       "answer": 1,
-      "solution": "Understatement."
+      "solution": "Understatement.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Deafening silence</i> is:",
@@ -106,7 +158,9 @@
         "personification"
       ],
       "answer": 0,
-      "solution": "Contradictory pairing."
+      "solution": "Contradictory pairing.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Buzz, hiss, clang</i> are examples of:",
@@ -117,7 +171,9 @@
         "metaphor"
       ],
       "answer": 1,
-      "solution": "Sound-imitating words."
+      "solution": "Sound-imitating words.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Peter Piper picked a peck of pickled peppers</i> shows:",
@@ -128,7 +184,9 @@
         "onomatopoeia"
       ],
       "answer": 0,
-      "solution": "Repeated /p/ sounds."
+      "solution": "Repeated /p/ sounds.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The fire station burnt down</i> shows:",
@@ -139,7 +197,9 @@
         "hyperbole"
       ],
       "answer": 0,
-      "solution": "An outcome opposite to what one expects."
+      "solution": "An outcome opposite to what one expects.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Passed away</i> for <i>died</i> is a:",
@@ -150,7 +210,9 @@
         "irony"
       ],
       "answer": 0,
-      "solution": "Mild expression."
+      "solution": "Mild expression.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Inference: <i>Musa took an umbrella when leaving.</i> We can infer:",
@@ -161,7 +223,9 @@
         "He owns an umbrella shop."
       ],
       "answer": 1,
-      "solution": "Reasonable inference."
+      "solution": "Reasonable inference.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Inference: <i>The road is wet.</i> Best inference:",
@@ -172,7 +236,9 @@
         "It is very hot."
       ],
       "answer": 0,
-      "solution": "Most probable cause."
+      "solution": "Most probable cause.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Inference: <i>She frowned and slammed the door.</i>",
@@ -183,7 +249,9 @@
         "She was hungry."
       ],
       "answer": 1,
-      "solution": "Frowning + slamming = anger."
+      "solution": "Frowning + slamming = anger.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Inference should be based on:",
@@ -194,7 +262,9 @@
         "other passages"
       ],
       "answer": 1,
-      "solution": "Only what the text supports."
+      "solution": "Only what the text supports.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An argumentative passage aims to:",
@@ -205,7 +275,9 @@
         "list facts only"
       ],
       "answer": 2,
-      "solution": "Persuasion by reason."
+      "solution": "Persuasion by reason.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "In summary, quoting long passages is:",
@@ -216,7 +288,9 @@
         "allowed only in poems"
       ],
       "answer": 1,
-      "solution": "Paraphrase in your own words."
+      "solution": "Paraphrase in your own words.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A good summary bullet is:",
@@ -227,7 +301,9 @@
         "only phrases"
       ],
       "answer": 1,
-      "solution": "One sentence per point."
+      "solution": "One sentence per point.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "How many points should you give in summary?",
@@ -238,7 +314,9 @@
         "ten"
       ],
       "answer": 1,
-      "solution": "Only the number requested."
+      "solution": "Only the number requested.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Writers use figurative language mainly to:",
@@ -249,7 +327,9 @@
         "obey grammar rules"
       ],
       "answer": 1,
-      "solution": "To create vivid images."
+      "solution": "To create vivid images.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The world is a stage.</i>",
@@ -260,7 +340,9 @@
         "personification"
       ],
       "answer": 0,
-      "solution": "Direct comparison."
+      "solution": "Direct comparison.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>He runs faster than the wind.</i>",
@@ -271,7 +353,9 @@
         "alliteration"
       ],
       "answer": 0,
-      "solution": "Exaggeration."
+      "solution": "Exaggeration.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A summary should be in:",
@@ -282,7 +366,9 @@
         "dialogue"
       ],
       "answer": 0,
-      "solution": "Paraphrase."
+      "solution": "Paraphrase.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is <u>not</u> a figure of speech?",
@@ -293,7 +379,9 @@
         "irony"
       ],
       "answer": 2,
-      "solution": "A paragraph is a text unit."
+      "solution": "A paragraph is a text unit.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which figure gives objects human traits?",
@@ -304,7 +392,9 @@
         "irony"
       ],
       "answer": 0,
-      "solution": "Personification."
+      "solution": "Personification.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which figure repeats initial consonants?",
@@ -315,7 +405,9 @@
         "hyperbole"
       ],
       "answer": 1,
-      "solution": "Alliteration."
+      "solution": "Alliteration.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which figure repeats vowel sounds within words?",
@@ -326,7 +418,9 @@
         "rhyme"
       ],
       "answer": 1,
-      "solution": "Assonance."
+      "solution": "Assonance.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The classroom was a zoo.</i> Figure:",
@@ -337,7 +431,9 @@
         "personification"
       ],
       "answer": 0,
-      "solution": "Direct comparison."
+      "solution": "Direct comparison.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Ada tiptoed so as not to wake the baby.</i> Infer:",
@@ -348,7 +444,9 @@
         "Ada was scared."
       ],
       "answer": 1,
-      "solution": "Tiptoeing implies not disturbing sleep."
+      "solution": "Tiptoeing implies not disturbing sleep.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The lecturer glanced at his watch and cleared his throat.</i> Infer:",
@@ -359,7 +457,9 @@
         "He was cold."
       ],
       "answer": 1,
-      "solution": "Suggests he was ready to speak."
+      "solution": "Suggests he was ready to speak.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these is a valid summary technique?",
@@ -370,7 +470,9 @@
         "quoting the whole passage"
       ],
       "answer": 1,
-      "solution": "Combine overlapping ideas."
+      "solution": "Combine overlapping ideas.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is <u>not</u> a mark of a good summary?",
@@ -381,7 +483,9 @@
         "accuracy"
       ],
       "answer": 2,
-      "solution": "Objectivity is required."
+      "solution": "Objectivity is required.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "What is the tone of a passage warning against drug abuse?",
@@ -392,7 +496,9 @@
         "joyful"
       ],
       "answer": 1,
-      "solution": "Serious warning."
+      "solution": "Serious warning.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A biased passage:",
@@ -403,7 +509,9 @@
         "asks questions"
       ],
       "answer": 1,
-      "solution": "One-sided."
+      "solution": "One-sided.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Slippery snakes slither silently</i> is:",
@@ -414,7 +522,9 @@
         "litotes"
       ],
       "answer": 0,
-      "solution": "Repeated /s/."
+      "solution": "Repeated /s/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The clock is ticking.</i> Figure:",
@@ -425,7 +535,9 @@
         "metaphor"
       ],
       "answer": 1,
-      "solution": "<i>Ticking</i> imitates sound."
+      "solution": "<i>Ticking</i> imitates sound.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Life is a journey.</i> Figure:",
@@ -436,7 +548,9 @@
         "irony"
       ],
       "answer": 1,
-      "solution": "Direct comparison."
+      "solution": "Direct comparison.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Cold fire, bright darkness.</i>",
@@ -447,7 +561,9 @@
         "simile"
       ],
       "answer": 0,
-      "solution": "Contradictory."
+      "solution": "Contradictory.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Bullet summaries are typically found in questions on:",
@@ -458,7 +574,9 @@
         "poems"
       ],
       "answer": 1,
-      "solution": "Argumentative passages."
+      "solution": "Argumentative passages.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "If word limit is 90 and you have written 130 words, you should:",
@@ -469,7 +587,9 @@
         "use bullet points"
       ],
       "answer": 1,
-      "solution": "Trim to fit the limit."
+      "solution": "Trim to fit the limit.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a topic sentence of a paragraph?",
@@ -480,7 +600,9 @@
         "Cats are animals."
       ],
       "answer": 2,
-      "solution": "Announces controlling idea with room for support."
+      "solution": "Announces controlling idea with room for support.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of the following belongs to figurative language?",
@@ -491,7 +613,9 @@
         "date"
       ],
       "answer": 2,
-      "solution": "Metaphor is figurative."
+      "solution": "Metaphor is figurative.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Inference: <i>The road was strewn with fallen branches.</i>",
@@ -502,7 +626,9 @@
         "A carnival was on."
       ],
       "answer": 0,
-      "solution": "Fallen branches suggest wind/storm."
+      "solution": "Fallen branches suggest wind/storm.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these words signals contrast in a passage?",
@@ -513,7 +639,9 @@
         "moreover"
       ],
       "answer": 0,
-      "solution": "<i>However</i> shows contrast."
+      "solution": "<i>However</i> shows contrast.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which signals a reason?",
@@ -524,7 +652,9 @@
         "although"
       ],
       "answer": 0,
-      "solution": "<i>Because</i> gives a reason."
+      "solution": "<i>Because</i> gives a reason.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which signals a result?",
@@ -535,7 +665,9 @@
         "since"
       ],
       "answer": 1,
-      "solution": "<i>Therefore</i> = result."
+      "solution": "<i>Therefore</i> = result.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which signals addition?",
@@ -546,7 +678,9 @@
         "because"
       ],
       "answer": 0,
-      "solution": "<i>Moreover</i> = also."
+      "solution": "<i>Moreover</i> = also.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An argumentative essay usually ends with:",
@@ -557,7 +691,9 @@
         "a formula"
       ],
       "answer": 1,
-      "solution": "Restated position + conclusion."
+      "solution": "Restated position + conclusion.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is <u>not</u> a summary rule?",
@@ -568,7 +704,9 @@
         "use your own words"
       ],
       "answer": 2,
-      "solution": "Copying is discouraged."
+      "solution": "Copying is discouraged.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>She is not unkind</i> is a form of:",
@@ -579,7 +717,9 @@
         "alliteration"
       ],
       "answer": 1,
-      "solution": "Understatement by double negative."
+      "solution": "Understatement by double negative.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a rhetorical question?",
@@ -590,7 +730,9 @@
         "Who won the match?"
       ],
       "answer": 1,
-      "solution": "Asked for effect; no reply expected."
+      "solution": "Asked for effect; no reply expected.",
+      "source": "Chapter notes",
+      "practice": false
     }
   ]
 }

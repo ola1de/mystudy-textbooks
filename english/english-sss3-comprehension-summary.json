@@ -13,7 +13,7 @@
   "modules": [
     {
       "title": "Answering past-paper comprehension questions",
-      "html": "<p>SSS 3 comprehension is examination-style. Question types include:</p>\n  <ul>\n    <li><b>Factual</b> — the answer is stated in the passage. Copy or paraphrase.</li>\n    <li><b>Inference</b> — you must deduce from clues.</li>\n    <li><b>Vocabulary in context</b> — choose the meaning that fits the passage.</li>\n    <li><b>Grammatical name / function</b> — name a phrase or clause and give its function (e.g. 'noun clause acting as object of the verb <i>said</i>').</li>\n    <li><b>Author's purpose / tone</b> — identify why the writer wrote and how they feel.</li>\n    <li><b>Figures of speech</b> — identify and briefly explain.</li>\n  </ul>\n  <h4>Answering strategy</h4>\n  <ol><li>Read the question first; then read the passage twice.</li>\n  <li>Underline the relevant words in the passage.</li>\n  <li>Answer in complete sentences; do not lift long sections verbatim unless asked.</li></ol>",
+      "html": "<p>SSS 3 comprehension is examination-style. Question types include:</p>\n  <ul>\n    <li><b>Factual</b> \u2014 the answer is stated in the passage. Copy or paraphrase.</li>\n    <li><b>Inference</b> \u2014 you must deduce from clues.</li>\n    <li><b>Vocabulary in context</b> \u2014 choose the meaning that fits the passage.</li>\n    <li><b>Grammatical name / function</b> \u2014 name a phrase or clause and give its function (e.g. 'noun clause acting as object of the verb <i>said</i>').</li>\n    <li><b>Author's purpose / tone</b> \u2014 identify why the writer wrote and how they feel.</li>\n    <li><b>Figures of speech</b> \u2014 identify and briefly explain.</li>\n  </ul>\n  <h4>Answering strategy</h4>\n  <ol><li>Read the question first; then read the passage twice.</li>\n  <li>Underline the relevant words in the passage.</li>\n  <li>Answer in complete sentences; do not lift long sections verbatim unless asked.</li></ol>",
       "examples": [
         {
           "q": "How would you answer a 'grammatical name and function' question?",
@@ -23,7 +23,7 @@
     },
     {
       "title": "Complex summary tasks and word limits",
-      "html": "<p>SSS 3 summaries carry strict rules. Follow the exact number and type of points asked. Stay within the word limit.</p>\n  <h4>Method</h4>\n  <ol>\n    <li>Read the passage twice; underline the ideas that answer the question.</li>\n    <li>Group related ideas; drop repetitions and examples.</li>\n    <li>Rewrite in your own words as short, clear sentences.</li>\n    <li>Count the words; trim redundancies (<i>each and every → each</i>, <i>due to the fact that → because</i>).</li>\n    <li>Never add opinion; never introduce information not in the passage.</li>\n  </ol>\n  <p>Answer <b>exactly</b> the number of points required. Extras may be ignored or, worse, penalised.</p>",
+      "html": "<p>SSS 3 summaries carry strict rules. Follow the exact number and type of points asked. Stay within the word limit.</p>\n  <h4>Method</h4>\n  <ol>\n    <li>Read the passage twice; underline the ideas that answer the question.</li>\n    <li>Group related ideas; drop repetitions and examples.</li>\n    <li>Rewrite in your own words as short, clear sentences.</li>\n    <li>Count the words; trim redundancies (<i>each and every \u2192 each</i>, <i>due to the fact that \u2192 because</i>).</li>\n    <li>Never add opinion; never introduce information not in the passage.</li>\n  </ol>\n  <p>Answer <b>exactly</b> the number of points required. Extras may be ignored or, worse, penalised.</p><h4>Key points</h4><ul><li>Cut redundancies.</li><li>Reasons.</li></ul><h4>Worked example</h4><p><b>Q:</b> Word-limit trimming can start by removing:<br/><b>A:</b> redundancies (e.g. 'each and every')</p><p><b>Q:</b> A summary of an argumentative passage should list:<br/><b>A:</b> arguments/reasons</p>",
       "examples": [
         {
           "q": "If a question asks for three reasons the writer opposes gambling and you list five, what happens?",
@@ -33,11 +33,39 @@
     },
     {
       "title": "Detecting tone, purpose and figurative devices",
-      "html": "<p><b>Tone</b> is the writer's attitude — critical, sarcastic, admiring, alarmed, nostalgic, humorous, urgent, sombre.</p>\n  <p><b>Purpose</b> — to inform, persuade, entertain, warn, praise.</p>\n  <p>Watch out for:</p>\n  <ul>\n    <li><b>Irony</b> — words meaning the opposite of what is said.</li>\n    <li><b>Sarcasm</b> — biting mockery.</li>\n    <li><b>Rhetorical questions</b> — used for effect.</li>\n    <li><b>Repetition</b> and <b>parallelism</b> — for emphasis.</li>\n    <li><b>Symbolism</b> — an object standing for an idea.</li>\n  </ul>",
+      "html": "<p><b>Tone</b> is the writer's attitude \u2014 critical, sarcastic, admiring, alarmed, nostalgic, humorous, urgent, sombre.</p>\n  <p><b>Purpose</b> \u2014 to inform, persuade, entertain, warn, praise.</p>\n  <p>Watch out for:</p>\n  <ul>\n    <li><b>Irony</b> \u2014 words meaning the opposite of what is said.</li>\n    <li><b>Sarcasm</b> \u2014 biting mockery.</li>\n    <li><b>Rhetorical questions</b> \u2014 used for effect.</li>\n    <li><b>Repetition</b> and <b>parallelism</b> \u2014 for emphasis.</li>\n    <li><b>Symbolism</b> \u2014 an object standing for an idea.</li>\n  </ul><h4>Key points</h4><ul><li>Serious warnings sound urgent.</li><li>Onomatopoeia is a device, not a tone.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which tone signals warning?<br/><b>A:</b> serious/urgent</p><p><b>Q:</b> Which is <u>not</u> a valid tone?<br/><b>A:</b> onomatopoeia</p><h4>More key points</h4><ul><li>Which tone signals warning \u2014 serious/urgent.</li><li>Which is <u>not</u> a valid tone \u2014 onomatopoeia.</li><li>Which is a purpose of writing \u2014 to inform / persuade / entertain.</li><li>An 'author's purpose' question requires: \u2014 identify why the passage was written.</li></ul>",
       "examples": [
         {
           "q": "Identify the device: <i>Ask not what your country can do for you; ask what you can do for your country.</i>",
-          "a": "Parallelism and antithesis — parallel structure with contrasting halves."
+          "a": "Parallelism and antithesis \u2014 parallel structure with contrasting halves."
+        }
+      ]
+    },
+    {
+      "title": "Types of comprehension question",
+      "html": "<p><b>Types of comprehension question</b> is a key part of Comprehension and Summary (SSS 3, English). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>SSS 3 comprehension is examination-style.</li><li>Question types include: Factual \u2014 the answer is stated in the passage.</li><li>Answering strategy Read the question first; then read the passage twice.</li><li>Method Read the passage twice; underline the ideas that answer the question.</li><li>Rhetorical questions \u2014 used for effect.</li></ul><h4>Worked example</h4><p><b>Q:</b> A 'grammatical name' question expects you to state:<br/><b>A:</b> the type of phrase/clause and its function \u2014 Name + function.</p><p><b>Q:</b> A factual comprehension question is best answered by:<br/><b>A:</b> direct reference to the passage \u2014 Refer to the text.</p>",
+      "examples": [
+        {
+          "q": "A 'grammatical name' question expects you to state:",
+          "a": "the type of phrase/clause and its function \u2014 Name + function."
+        },
+        {
+          "q": "A factual comprehension question is best answered by:",
+          "a": "direct reference to the passage \u2014 Refer to the text."
+        }
+      ]
+    },
+    {
+      "title": "Word-limit trimming",
+      "html": "<p><b>Word-limit trimming</b> is a key part of Comprehension and Summary (SSS 3, English). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Underline the relevant words in the passage.</li><li>Stay within the word limit.</li><li>Rewrite in your own words as short, clear sentences.</li><li>Count the words; trim redundancies ( each and every \u2192 each , due to the fact that \u2192 because ).</li><li>Worked example Q: Word-limit trimming can start by removing: A: redundancies (e.g.</li></ul><h4>Worked example</h4><p><b>Q:</b> Word-limit trimming can start by removing:<br/><b>A:</b> redundancies (e.g. 'each and every') \u2014 Cut redundancies.</p><p><b>Q:</b> An examiner will penalise summaries that:<br/><b>A:</b> exceed the word limit \u2014 Word limit matters.</p>",
+      "examples": [
+        {
+          "q": "Word-limit trimming can start by removing:",
+          "a": "redundancies (e.g. 'each and every') \u2014 Cut redundancies."
+        },
+        {
+          "q": "An examiner will penalise summaries that:",
+          "a": "exceed the word limit \u2014 Word limit matters."
         }
       ]
     }
@@ -52,7 +80,9 @@
         "the number of paragraphs"
       ],
       "answer": 1,
-      "solution": "Name + function."
+      "solution": "Name + function.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "If asked for three reasons, you should give:",
@@ -63,7 +93,9 @@
         "five"
       ],
       "answer": 1,
-      "solution": "Only three."
+      "solution": "Only three.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Word-limit trimming can start by removing:",
@@ -74,7 +106,9 @@
         "punctuation"
       ],
       "answer": 1,
-      "solution": "Cut redundancies."
+      "solution": "Cut redundancies.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Due to the fact that</i> can be shortened to:",
@@ -85,7 +119,9 @@
         "therefore"
       ],
       "answer": 0,
-      "solution": "Concise substitute."
+      "solution": "Concise substitute.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which tone signals warning?",
@@ -96,7 +132,9 @@
         "sarcastic"
       ],
       "answer": 1,
-      "solution": "Serious warnings sound urgent."
+      "solution": "Serious warnings sound urgent.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a rhetorical device?",
@@ -107,10 +145,12 @@
         "dialogue"
       ],
       "answer": 0,
-      "solution": "Parallelism repeats structure."
+      "solution": "Parallelism repeats structure.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "<i>Ask not what your country…</i> uses:",
+      "q": "<i>Ask not what your country\u2026</i> uses:",
       "options": [
         "metaphor",
         "parallelism/antithesis",
@@ -118,7 +158,9 @@
         "irony"
       ],
       "answer": 1,
-      "solution": "Parallel structure."
+      "solution": "Parallel structure.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Great! I love missing the bus.</i> shows:",
@@ -129,7 +171,9 @@
         "warning"
       ],
       "answer": 0,
-      "solution": "Meaning opposite of literal."
+      "solution": "Meaning opposite of literal.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A factual comprehension question is best answered by:",
@@ -140,7 +184,9 @@
         "other passages"
       ],
       "answer": 1,
-      "solution": "Refer to the text."
+      "solution": "Refer to the text.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Vocabulary-in-context requires you to:",
@@ -151,7 +197,9 @@
         "translate"
       ],
       "answer": 1,
-      "solution": "Meaning in the sentence."
+      "solution": "Meaning in the sentence.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these is a passage-based inference?",
@@ -162,7 +210,9 @@
         "Guessing wildly"
       ],
       "answer": 1,
-      "solution": "Deduction from clues."
+      "solution": "Deduction from clues.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is <u>not</u> a valid tone?",
@@ -173,7 +223,9 @@
         "admiring"
       ],
       "answer": 2,
-      "solution": "Onomatopoeia is a device, not a tone."
+      "solution": "Onomatopoeia is a device, not a tone.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a purpose of writing?",
@@ -184,7 +236,9 @@
         "to fill space"
       ],
       "answer": 1,
-      "solution": "Purposes of writing."
+      "solution": "Purposes of writing.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Passed away</i> is a:",
@@ -195,7 +249,9 @@
         "rhetorical question"
       ],
       "answer": 0,
-      "solution": "Mild expression for died."
+      "solution": "Mild expression for died.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which shows repetition for emphasis?",
@@ -206,7 +262,9 @@
         "It rained."
       ],
       "answer": 0,
-      "solution": "Repetition."
+      "solution": "Repetition.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A sentence with figures of speech in comprehension should be answered by:",
@@ -217,18 +275,22 @@
         "ignoring"
       ],
       "answer": 1,
-      "solution": "Name + explain."
+      "solution": "Name + explain.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sentence uses irony?",
       "options": [
         "The rain fell.",
-        "How lovely — my car has broken down again.",
+        "How lovely \u2014 my car has broken down again.",
         "Ada is tall.",
         "We ate lunch."
       ],
       "answer": 1,
-      "solution": "Positive words for a negative event."
+      "solution": "Positive words for a negative event.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A summary of an argumentative passage should list:",
@@ -239,7 +301,9 @@
         "dialogues"
       ],
       "answer": 1,
-      "solution": "Reasons."
+      "solution": "Reasons.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An 'author's purpose' question requires:",
@@ -250,7 +314,9 @@
         "translate"
       ],
       "answer": 0,
-      "solution": "Purpose."
+      "solution": "Purpose.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a signal of contrast in a passage?",
@@ -261,7 +327,9 @@
         "because"
       ],
       "answer": 1,
-      "solution": "'However'."
+      "solution": "'However'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Grammatical name for <i>who saved the child</i> in <i>The boy who saved the child was rewarded</i>:",
@@ -272,7 +340,9 @@
         "main clause"
       ],
       "answer": 1,
-      "solution": "Modifies 'boy'."
+      "solution": "Modifies 'boy'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Function of the same clause:",
@@ -283,7 +353,9 @@
         "modifies the verb 'was rewarded'"
       ],
       "answer": 2,
-      "solution": "Adjectival — modifies 'boy'."
+      "solution": "Adjectival \u2014 modifies 'boy'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Grammatical name for <i>because it was raining</i>:",
@@ -294,7 +366,9 @@
         "main clause"
       ],
       "answer": 2,
-      "solution": "Adverbial (reason)."
+      "solution": "Adverbial (reason).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Function of the same clause in <i>We stayed indoors because it was raining</i>:",
@@ -305,7 +379,9 @@
         "complement"
       ],
       "answer": 1,
-      "solution": "Adverbial — modifies verb 'stayed'."
+      "solution": "Adverbial \u2014 modifies verb 'stayed'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Grammatical name for <i>What he said</i> in <i>What he said surprised us</i>:",
@@ -316,7 +392,9 @@
         "main clause"
       ],
       "answer": 0,
-      "solution": "Noun clause acting as subject."
+      "solution": "Noun clause acting as subject.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A summary sentence should be:",
@@ -327,7 +405,9 @@
         "in dialogue"
       ],
       "answer": 1,
-      "solution": "Concise."
+      "solution": "Concise.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A poor summary technique:",
@@ -338,7 +418,9 @@
         "using linkers"
       ],
       "answer": 1,
-      "solution": "Do not add outside info."
+      "solution": "Do not add outside info.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which linker best joins two related summary sentences?",
@@ -349,18 +431,22 @@
         "therefore"
       ],
       "answer": 0,
-      "solution": "Adds a linked point."
+      "solution": "Adds a linked point.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A one-line summary is called a:",
       "options": [
-        "gist / précis",
+        "gist / pr\u00e9cis",
         "paragraph",
         "dialogue",
         "monologue"
       ],
       "answer": 0,
-      "solution": "Gist/precis."
+      "solution": "Gist/precis.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is <u>not</u> a summary question type?",
@@ -371,7 +457,9 @@
         "give five effects"
       ],
       "answer": 2,
-      "solution": "Tone is a comprehension question, not a summary task."
+      "solution": "Tone is a comprehension question, not a summary task.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose the concise equivalent of <i>in view of the fact that</i>:",
@@ -382,7 +470,9 @@
         "besides"
       ],
       "answer": 1,
-      "solution": "= because."
+      "solution": "= because.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Concise equivalent of <i>at this point in time</i>:",
@@ -393,7 +483,9 @@
         "soon"
       ],
       "answer": 1,
-      "solution": "= now."
+      "solution": "= now.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Concise equivalent of <i>the majority of</i>:",
@@ -404,7 +496,9 @@
         "many"
       ],
       "answer": 1,
-      "solution": "= most."
+      "solution": "= most.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>succinct</i>:",
@@ -415,7 +509,9 @@
         "complex"
       ],
       "answer": 1,
-      "solution": "= brief and clear."
+      "solution": "= brief and clear.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>verbose</i>:",
@@ -426,7 +522,9 @@
         "short"
       ],
       "answer": 1,
-      "solution": "= too wordy."
+      "solution": "= too wordy.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An examiner will penalise summaries that:",
@@ -437,7 +535,9 @@
         "use own words"
       ],
       "answer": 2,
-      "solution": "Word limit matters."
+      "solution": "Word limit matters.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which device does <i>She sells sea-shells on the sea-shore</i> employ?",
@@ -448,7 +548,9 @@
         "personification"
       ],
       "answer": 0,
-      "solution": "Alliteration."
+      "solution": "Alliteration.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which device does <i>Life is a stage</i> employ?",
@@ -459,7 +561,9 @@
         "irony"
       ],
       "answer": 1,
-      "solution": "Metaphor."
+      "solution": "Metaphor.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which device does <i>as light as a feather</i> employ?",
@@ -470,7 +574,9 @@
         "hyperbole"
       ],
       "answer": 0,
-      "solution": "Simile."
+      "solution": "Simile.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which device does <i>the sun peeped through the clouds</i> employ?",
@@ -481,7 +587,9 @@
         "litotes"
       ],
       "answer": 1,
-      "solution": "Personification."
+      "solution": "Personification.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is <u>not</u> a legitimate summary source?",
@@ -492,7 +600,9 @@
         "the writer's stated point"
       ],
       "answer": 1,
-      "solution": "Only use the passage."
+      "solution": "Only use the passage.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Best synonym of <i>brief</i>:",
@@ -503,7 +613,9 @@
         "dull"
       ],
       "answer": 1,
-      "solution": "= succinct."
+      "solution": "= succinct.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sentence is most concise?",
@@ -514,7 +626,9 @@
         "She slept for the reason of tiredness."
       ],
       "answer": 1,
-      "solution": "Direct use of 'because'."
+      "solution": "Direct use of 'because'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sentence is passive?",
@@ -525,7 +639,9 @@
         "Send the letter."
       ],
       "answer": 0,
-      "solution": "'Was sent' = passive."
+      "solution": "'Was sent' = passive.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Change to active voice: <i>The prize was won by Ada.</i>",
@@ -536,10 +652,12 @@
         "Ada has been won."
       ],
       "answer": 0,
-      "solution": "Straightforward active."
+      "solution": "Straightforward active.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which device: <i>Ask not… ask</i> (repeating structure)?",
+      "q": "Which device: <i>Ask not\u2026 ask</i> (repeating structure)?",
       "options": [
         "chiasmus/parallelism",
         "hyperbole",
@@ -547,10 +665,12 @@
         "litotes"
       ],
       "answer": 0,
-      "solution": "Parallelism (with chiasmus)."
+      "solution": "Parallelism (with chiasmus).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Reading strategy for exam comprehension: first…",
+      "q": "Reading strategy for exam comprehension: first\u2026",
       "options": [
         "answer",
         "read the passage twice",
@@ -558,7 +678,9 @@
         "summarise"
       ],
       "answer": 1,
-      "solution": "Read carefully first."
+      "solution": "Read carefully first.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a valid comprehension answer style?",
@@ -569,7 +691,9 @@
         "only phrases"
       ],
       "answer": 0,
-      "solution": "Complete sentences preferred."
+      "solution": "Complete sentences preferred.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a rhetorical question?",
@@ -580,7 +704,9 @@
         "How much does it cost?"
       ],
       "answer": 1,
-      "solution": "Asked for effect."
+      "solution": "Asked for effect.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>She entered noiselessly.</i> The word <i>noiselessly</i> is a:",
@@ -591,7 +717,9 @@
         "adjective"
       ],
       "answer": 2,
-      "solution": "Adverb of manner."
+      "solution": "Adverb of manner.",
+      "source": "Chapter notes",
+      "practice": false
     }
   ]
 }

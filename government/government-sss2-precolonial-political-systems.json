@@ -15,7 +15,7 @@
   "modules": [
     {
       "title": "The Hausa-Fulani Emirate System",
-      "html": "\n<h4>1. Background</h4>\n<p>The Hausa states (Kano, Katsina, Zaria, Gobir and others) were centralised monarchies long before 1804. The <b>Sokoto Jihad</b> of Usman dan Fodio (1804–1810) unified them into the <b>Sokoto Caliphate</b>, an Islamic theocratic empire with the Sultan of Sokoto as <i>Sarkin Musulmi</i> (Commander of the Faithful) at its head.</p>\n<h4>2. Structure</h4>\n<table class=\"tb-table\">\n<tr><th>Level</th><th>Officer</th><th>Function</th></tr>\n<tr><td>Caliphate</td><td>Sultan of Sokoto</td><td>Spiritual and political head; appoints and disciplines emirs</td></tr>\n<tr><td>Emirate</td><td>Emir</td><td>Executive, legislative and judicial head of the emirate</td></tr>\n<tr><td>Advisory</td><td>Council of officials</td><td>Waziri (prime minister), Galadima (capital administration), Madawaki (army commander), Sarkin Dogari (police), Sarkin Fada (palace official), Maaji (treasurer)</td></tr>\n<tr><td>Judicial</td><td>Alkali courts</td><td>Administer Sharia law; the Grand Kadi heads the system</td></tr>\n<tr><td>District</td><td>Hakimi</td><td>District head, collects taxes and maintains order</td></tr>\n<tr><td>Village</td><td>Village head (Dagaci)</td><td>Local order and tax collection through ward heads</td></tr>\n</table>\n<h4>3. Taxation</h4>\n<p><b>Zakat</b> (alms on wealth), <b>Kharaj/Kudin Kasa</b> (land tax), <b>Jangali</b> (cattle tax), <b>Jizyah</b> (tax on non-Muslims) and <b>Gaisuwa</b> (gifts/homage).</p>\n<h4>4. Checks on the Emir</h4>\n<p>The Quran and Sharia law, the advisory council, the kingmakers who selected him, the Sultan's power of removal, and the influence of the ulama (scholars). In practice the emir was powerful, which is why the British found the system convenient for <b>Indirect Rule</b>.</p>\n",
+      "html": "\n<h4>1. Background</h4>\n<p>The Hausa states (Kano, Katsina, Zaria, Gobir and others) were centralised monarchies long before 1804. The <b>Sokoto Jihad</b> of Usman dan Fodio (1804\u20131810) unified them into the <b>Sokoto Caliphate</b>, an Islamic theocratic empire with the Sultan of Sokoto as <i>Sarkin Musulmi</i> (Commander of the Faithful) at its head.</p>\n<h4>2. Structure</h4>\n<table class=\"tb-table\">\n<tr><th>Level</th><th>Officer</th><th>Function</th></tr>\n<tr><td>Caliphate</td><td>Sultan of Sokoto</td><td>Spiritual and political head; appoints and disciplines emirs</td></tr>\n<tr><td>Emirate</td><td>Emir</td><td>Executive, legislative and judicial head of the emirate</td></tr>\n<tr><td>Advisory</td><td>Council of officials</td><td>Waziri (prime minister), Galadima (capital administration), Madawaki (army commander), Sarkin Dogari (police), Sarkin Fada (palace official), Maaji (treasurer)</td></tr>\n<tr><td>Judicial</td><td>Alkali courts</td><td>Administer Sharia law; the Grand Kadi heads the system</td></tr>\n<tr><td>District</td><td>Hakimi</td><td>District head, collects taxes and maintains order</td></tr>\n<tr><td>Village</td><td>Village head (Dagaci)</td><td>Local order and tax collection through ward heads</td></tr>\n</table>\n<h4>3. Taxation</h4>\n<p><b>Zakat</b> (alms on wealth), <b>Kharaj/Kudin Kasa</b> (land tax), <b>Jangali</b> (cattle tax), <b>Jizyah</b> (tax on non-Muslims) and <b>Gaisuwa</b> (gifts/homage).</p>\n<h4>4. Checks on the Emir</h4>\n<p>The Quran and Sharia law, the advisory council, the kingmakers who selected him, the Sultan's power of removal, and the influence of the ulama (scholars). In practice the emir was powerful, which is why the British found the system convenient for <b>Indirect Rule</b>.</p>\n",
       "examples": [
         {
           "q": "Why was Indirect Rule most successful in Northern Nigeria?",
@@ -29,15 +29,71 @@
     },
     {
       "title": "The Yoruba and Igbo Systems, and Comparison",
-      "html": "\n<h4>1. The Yoruba System</h4>\n<p>The Yoruba operated a <b>constitutional monarchy</b> in which the Oba was sacred but checked. In the Oyo Empire:</p>\n<ul>\n<li><b>Alaafin</b> — the political head, regarded as the companion of the gods, but not absolute.</li>\n<li><b>Oyomesi</b> — council of seven kingmakers led by the <b>Bashorun</b>; they selected the Alaafin and could reject him. If they sent him an empty calabash or parrot's egg, he was obliged to commit suicide.</li>\n<li><b>Ogboni cult</b> — a powerful religious and judicial society that checked both the Alaafin and the Oyomesi and could veto the Oyomesi's decision.</li>\n<li><b>Are-Ona-Kakanfo</b> — generalissimo of the army, stationed outside the capital.</li>\n<li><b>Ilari</b> — palace messengers and tax officials representing the Alaafin in the provinces; <b>Baale</b> headed towns and villages.</li>\n</ul>\n<h4>2. The Igbo System</h4>\n<p>The Igbo were largely <b>segmentary and decentralised</b> — 'a republican society without kings' — organised around the village and village group.</p>\n<ul>\n<li><b>Ofo title holders / Okpara</b> — the eldest man of a lineage holding the ofo staff, symbol of authority and justice.</li>\n<li><b>Village assembly (Oha-na-eze / Ama-ala)</b> — all adult males debated matters; decisions were by consensus.</li>\n<li><b>Age grades</b> — performed public works, defence and enforcement of decisions.</li>\n<li><b>Council of elders</b> — deliberated and interpreted custom.</li>\n<li><b>Ozo title society</b> — conferred prestige and influence on wealthy, respected men.</li>\n<li><b>Umuada</b> — daughters of the lineage who settled disputes and enforced morality.</li>\n<li><b>Oracles and priests</b> — e.g. the Ibinukpabi (Long Juju) of Arochukwu, arbitrated grave disputes.</li>\n</ul>\n<h4>3. Comparison</h4>\n<table class=\"tb-table\">\n<tr><th>Criterion</th><th>Hausa-Fulani</th><th>Yoruba</th><th>Igbo</th></tr>\n<tr><td>Structure</td><td>Highly centralised</td><td>Centralised but checked</td><td>Decentralised, segmentary</td></tr>\n<tr><td>Head</td><td>Emir under the Sultan</td><td>Oba/Alaafin</td><td>No single ruler; council of elders</td></tr>\n<tr><td>Religion and state</td><td>Fused; Islamic theocracy</td><td>Sacred kingship, Ogboni influence</td><td>Oracles influential but no theocracy</td></tr>\n<tr><td>Succession</td><td>Hereditary within ruling houses, approved by Sultan</td><td>Rotational among ruling houses, chosen by kingmakers</td><td>Achieved status by age, wealth and title</td></tr>\n<tr><td>Judiciary</td><td>Alkali courts (Sharia)</td><td>Oba-in-council, Ogboni</td><td>Elders, age grades, oracles</td></tr>\n<tr><td>Response to Indirect Rule</td><td>Very successful</td><td>Partially successful</td><td>Largely failed — warrant chiefs resented; Aba Women's Riot 1929</td></tr>\n</table>\n",
+      "html": "\n<h4>1. The Yoruba System</h4>\n<p>The Yoruba operated a <b>constitutional monarchy</b> in which the Oba was sacred but checked. In the Oyo Empire:</p>\n<ul>\n<li><b>Alaafin</b> \u2014 the political head, regarded as the companion of the gods, but not absolute.</li>\n<li><b>Oyomesi</b> \u2014 council of seven kingmakers led by the <b>Bashorun</b>; they selected the Alaafin and could reject him. If they sent him an empty calabash or parrot's egg, he was obliged to commit suicide.</li>\n<li><b>Ogboni cult</b> \u2014 a powerful religious and judicial society that checked both the Alaafin and the Oyomesi and could veto the Oyomesi's decision.</li>\n<li><b>Are-Ona-Kakanfo</b> \u2014 generalissimo of the army, stationed outside the capital.</li>\n<li><b>Ilari</b> \u2014 palace messengers and tax officials representing the Alaafin in the provinces; <b>Baale</b> headed towns and villages.</li>\n</ul>\n<h4>2. The Igbo System</h4>\n<p>The Igbo were largely <b>segmentary and decentralised</b> \u2014 'a republican society without kings' \u2014 organised around the village and village group.</p>\n<ul>\n<li><b>Ofo title holders / Okpara</b> \u2014 the eldest man of a lineage holding the ofo staff, symbol of authority and justice.</li>\n<li><b>Village assembly (Oha-na-eze / Ama-ala)</b> \u2014 all adult males debated matters; decisions were by consensus.</li>\n<li><b>Age grades</b> \u2014 performed public works, defence and enforcement of decisions.</li>\n<li><b>Council of elders</b> \u2014 deliberated and interpreted custom.</li>\n<li><b>Ozo title society</b> \u2014 conferred prestige and influence on wealthy, respected men.</li>\n<li><b>Umuada</b> \u2014 daughters of the lineage who settled disputes and enforced morality.</li>\n<li><b>Oracles and priests</b> \u2014 e.g. the Ibinukpabi (Long Juju) of Arochukwu, arbitrated grave disputes.</li>\n</ul>\n<h4>3. Comparison</h4>\n<table class=\"tb-table\">\n<tr><th>Criterion</th><th>Hausa-Fulani</th><th>Yoruba</th><th>Igbo</th></tr>\n<tr><td>Structure</td><td>Highly centralised</td><td>Centralised but checked</td><td>Decentralised, segmentary</td></tr>\n<tr><td>Head</td><td>Emir under the Sultan</td><td>Oba/Alaafin</td><td>No single ruler; council of elders</td></tr>\n<tr><td>Religion and state</td><td>Fused; Islamic theocracy</td><td>Sacred kingship, Ogboni influence</td><td>Oracles influential but no theocracy</td></tr>\n<tr><td>Succession</td><td>Hereditary within ruling houses, approved by Sultan</td><td>Rotational among ruling houses, chosen by kingmakers</td><td>Achieved status by age, wealth and title</td></tr>\n<tr><td>Judiciary</td><td>Alkali courts (Sharia)</td><td>Oba-in-council, Ogboni</td><td>Elders, age grades, oracles</td></tr>\n<tr><td>Response to Indirect Rule</td><td>Very successful</td><td>Partially successful</td><td>Largely failed \u2014 warrant chiefs resented; Aba Women's Riot 1929</td></tr>\n</table>\n",
       "examples": [
         {
           "q": "Explain why Indirect Rule failed in Igboland.",
-          "a": "Igbo society had no centralised chiefs to rule through. The British therefore appointed <b>warrant chiefs</b> — men without traditional legitimacy — and gave them powers the culture had never vested in one person: tax collection, court judgments and forced labour. Their abuses, plus the rumour of taxing women, triggered the <b>Aba Women's Riot of 1929</b>, after which the system was reviewed and replaced with the Native Court and later massed-benches arrangements based on village groups."
+          "a": "Igbo society had no centralised chiefs to rule through. The British therefore appointed <b>warrant chiefs</b> \u2014 men without traditional legitimacy \u2014 and gave them powers the culture had never vested in one person: tax collection, court judgments and forced labour. Their abuses, plus the rumour of taxing women, triggered the <b>Aba Women's Riot of 1929</b>, after which the system was reviewed and replaced with the Native Court and later massed-benches arrangements based on village groups."
         },
         {
           "q": "How did the Oyomesi and Ogboni limit the Alaafin?",
           "a": "The <b>Oyomesi</b>, seven kingmakers under the Bashorun, selected the Alaafin, advised him and could reject his policies; if he was tyrannical they sent him a symbolic empty calabash or parrot's egg, requiring him to take his own life. The <b>Ogboni</b>, a religious-judicial cult, checked the Oyomesi in turn: it had to confirm the rejection, preventing the kingmakers themselves from becoming tyrants. This mutual restraint approximated checks and balances."
+        }
+      ]
+    },
+    {
+      "title": "Features of pre-colonial political systems",
+      "html": "<p><b>Features of pre-colonial political systems</b> is a key part of Pre-Colonial Nigerian Political Systems (SSS 2, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Structure Level Officer Function Caliphate Sultan of Sokoto Spiritual and political head; appoints and disciplines emirs Emirate Emir Executive, legislative and judicial head of the emirate Advisory Council of officials Waziri (prime minister), Galadima (capital administration), Madawaki (army commander), Sarkin Dogari (police), Sarkin Fada (palace official), Maaji (treasurer) Judicial Alkali courts Administer Sharia law; the Grand Kadi heads the system District Hakimi District head, collects taxes and maintains order Village Village head (Dagaci) Local order and tax collection through ward heads 3.</li><li>In the Oyo Empire: Alaafin \u2014 the political head, regarded as the companion of the gods, but not absolute.</li><li>Ilari \u2014 palace messengers and tax officials representing the Alaafin in the provinces; Baale headed towns and villages.</li><li>Council of elders \u2014 deliberated and interpreted custom.</li><li>Ozo title society \u2014 conferred prestige and influence on wealthy, respected men.</li></ul><h4>Worked example</h4><p><b>Q:</b> The spiritual and political head of the Sokoto Caliphate was the:<br/><b>A:</b> Sultan of Sokoto \u2014 The Sultan, as Sarkin Musulmi, headed the caliphate and appointed emirs.</p><p><b>Q:</b> The Igbo political system is best described as:<br/><b>A:</b> Segmentary and decentralised \u2014 Authority was dispersed among lineages, elders and age grades.</p>",
+      "examples": [
+        {
+          "q": "The spiritual and political head of the Sokoto Caliphate was the:",
+          "a": "Sultan of Sokoto \u2014 The Sultan, as Sarkin Musulmi, headed the caliphate and appointed emirs."
+        },
+        {
+          "q": "The Igbo political system is best described as:",
+          "a": "Segmentary and decentralised \u2014 Authority was dispersed among lineages, elders and age grades."
+        }
+      ]
+    },
+    {
+      "title": "The Yoruba monarchical system under the Oba and Alaafin",
+      "html": "<p><b>The Yoruba monarchical system under the Oba and Alaafin</b> is a key part of Pre-Colonial Nigerian Political Systems (SSS 2, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Structure Level Officer Function Caliphate Sultan of Sokoto Spiritual and political head; appoints and disciplines emirs Emirate Emir Executive, legislative and judicial head of the emirate Advisory Council of officials Waziri (prime minister), Galadima (capital administration), Madawaki (army commander), Sarkin Dogari (police), Sarkin Fada (palace official), Maaji (treasurer) Judicial Alkali courts Administer Sharia law; the Grand Kadi heads the system District Hakimi District head, collects taxes and maintains order Village Village head (Dagaci) Local order and tax collection through ward heads 3.</li><li>In practice the emir was powerful, which is why the British found the system convenient for Indirect Rule .</li><li>The Yoruba System The Yoruba operated a constitutional monarchy in which the Oba was sacred but checked.</li><li>In the Oyo Empire: Alaafin \u2014 the political head, regarded as the companion of the gods, but not absolute.</li><li>Oyomesi \u2014 council of seven kingmakers led by the Bashorun ; they selected the Alaafin and could reject him.</li></ul><h4>Worked example</h4><p><b>Q:</b> The council of kingmakers in Oyo was the:<br/><b>A:</b> Oyomesi \u2014 The Oyomesi, seven chiefs led by the Bashorun, selected and checked the Alaafin.</p><p><b>Q:</b> An empty calabash sent to the Alaafin meant:<br/><b>A:</b> He must commit suicide \u2014 It signified rejection by the Oyomesi and obliged the Alaafin to take his life.</p>",
+      "examples": [
+        {
+          "q": "The council of kingmakers in Oyo was the:",
+          "a": "Oyomesi \u2014 The Oyomesi, seven chiefs led by the Bashorun, selected and checked the Alaafin."
+        },
+        {
+          "q": "An empty calabash sent to the Alaafin meant:",
+          "a": "He must commit suicide \u2014 It signified rejection by the Oyomesi and obliged the Alaafin to take his life."
+        }
+      ]
+    },
+    {
+      "title": "The Igbo segmentary/decentralised system",
+      "html": "<p><b>The Igbo segmentary/decentralised system</b> is a key part of Pre-Colonial Nigerian Political Systems (SSS 2, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Structure Level Officer Function Caliphate Sultan of Sokoto Spiritual and political head; appoints and disciplines emirs Emirate Emir Executive, legislative and judicial head of the emirate Advisory Council of officials Waziri (prime minister), Galadima (capital administration), Madawaki (army commander), Sarkin Dogari (police), Sarkin Fada (palace official), Maaji (treasurer) Judicial Alkali courts Administer Sharia law; the Grand Kadi heads the system District Hakimi District head, collects taxes and maintains order Village Village head (Dagaci) Local order and tax collection through ward heads 3.</li><li>In practice the emir was powerful, which is why the British found the system convenient for Indirect Rule .</li><li>The Yoruba System The Yoruba operated a constitutional monarchy in which the Oba was sacred but checked.</li><li>The Igbo System The Igbo were largely segmentary and decentralised \u2014 'a republican society without kings' \u2014 organised around the village and village group.</li><li>Comparison Criterion Hausa-Fulani Yoruba Igbo Structure Highly centralised Centralised but checked Decentralised, segmentary Head Emir under the Sultan Oba/Alaafin No single ruler; council of elders Religion and state Fused; Islamic theocracy Sacred kingship, Ogboni influence Oracles influential but no theocracy Succession Hereditary within ruling houses, approved by Sultan Rotational among ruling houses, chosen by kingmakers Achieved status by age, wealth and title Judiciary Alkali courts (Sharia) Oba-in-council, Ogboni Elders, age grades, oracles Response to Indirect Rule Very successful Partially successful Largely failed \u2014 warrant chiefs resented; Aba Women's Riot 1929</li></ul><h4>Worked example</h4><p><b>Q:</b> The Igbo political system is best described as:<br/><b>A:</b> Segmentary and decentralised \u2014 Authority was dispersed among lineages, elders and age grades.</p><p><b>Q:</b> Cattle tax in the emirate system was called:<br/><b>A:</b> Jangali \u2014 Jangali was levied on herds, mainly on Fulani pastoralists.</p>",
+      "examples": [
+        {
+          "q": "The Igbo political system is best described as:",
+          "a": "Segmentary and decentralised \u2014 Authority was dispersed among lineages, elders and age grades."
+        },
+        {
+          "q": "Cattle tax in the emirate system was called:",
+          "a": "Jangali \u2014 Jangali was levied on herds, mainly on Fulani pastoralists."
+        }
+      ]
+    },
+    {
+      "title": "Checks on rulers in traditional societies",
+      "html": "<p><b>Checks on rulers in traditional societies</b> is a key part of Pre-Colonial Nigerian Political Systems (SSS 2, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Checks on the Emir The Quran and Sharia law, the advisory council, the kingmakers who selected him, the Sultan's power of removal, and the influence of the ulama (scholars).</li></ul><h4>Worked example</h4><p><b>Q:</b> The spiritual and political head of the Sokoto Caliphate was the:<br/><b>A:</b> Sultan of Sokoto \u2014 The Sultan, as Sarkin Musulmi, headed the caliphate and appointed emirs.</p><p><b>Q:</b> The Sokoto Jihad was led in 1804 by:<br/><b>A:</b> Usman dan Fodio \u2014 Shehu Usman dan Fodio launched the jihad that created the caliphate.</p>",
+      "examples": [
+        {
+          "q": "The spiritual and political head of the Sokoto Caliphate was the:",
+          "a": "Sultan of Sokoto \u2014 The Sultan, as Sarkin Musulmi, headed the caliphate and appointed emirs."
+        },
+        {
+          "q": "The Sokoto Jihad was led in 1804 by:",
+          "a": "Usman dan Fodio \u2014 Shehu Usman dan Fodio launched the jihad that created the caliphate."
         }
       ]
     }
@@ -52,7 +108,9 @@
         "Galadima"
       ],
       "answer": 1,
-      "solution": "The Sultan, as Sarkin Musulmi, headed the caliphate and appointed emirs."
+      "solution": "The Sultan, as Sarkin Musulmi, headed the caliphate and appointed emirs.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Sokoto Jihad was led in 1804 by:",
@@ -63,7 +121,9 @@
         "El-Kanemi"
       ],
       "answer": 0,
-      "solution": "Shehu Usman dan Fodio launched the jihad that created the caliphate."
+      "solution": "Shehu Usman dan Fodio launched the jihad that created the caliphate.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The council of kingmakers in Oyo was the:",
@@ -74,7 +134,9 @@
         "Ozo"
       ],
       "answer": 1,
-      "solution": "The Oyomesi, seven chiefs led by the Bashorun, selected and checked the Alaafin."
+      "solution": "The Oyomesi, seven chiefs led by the Bashorun, selected and checked the Alaafin.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An empty calabash sent to the Alaafin meant:",
@@ -85,7 +147,9 @@
         "War had ended"
       ],
       "answer": 1,
-      "solution": "It signified rejection by the Oyomesi and obliged the Alaafin to take his life."
+      "solution": "It signified rejection by the Oyomesi and obliged the Alaafin to take his life.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Igbo political system is best described as:",
@@ -96,7 +160,9 @@
         "Feudal monarchy"
       ],
       "answer": 1,
-      "solution": "Authority was dispersed among lineages, elders and age grades."
+      "solution": "Authority was dispersed among lineages, elders and age grades.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The ofo staff symbolised:",
@@ -107,7 +173,9 @@
         "Trade rights"
       ],
       "answer": 1,
-      "solution": "The eldest man, the Okpara, held the ofo as emblem of legitimate authority."
+      "solution": "The eldest man, the Okpara, held the ofo as emblem of legitimate authority.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The commander of the Oyo army was the:",
@@ -118,7 +186,9 @@
         "Baale"
       ],
       "answer": 1,
-      "solution": "The Are-Ona-Kakanfo was generalissimo and lived outside the capital."
+      "solution": "The Are-Ona-Kakanfo was generalissimo and lived outside the capital.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Cattle tax in the emirate system was called:",
@@ -129,7 +199,9 @@
         "Kharaj"
       ],
       "answer": 1,
-      "solution": "Jangali was levied on herds, mainly on Fulani pastoralists."
+      "solution": "Jangali was levied on herds, mainly on Fulani pastoralists.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Alkali courts administered:",
@@ -140,7 +212,9 @@
         "Roman law"
       ],
       "answer": 0,
-      "solution": "Alkali (qadi) courts applied Islamic law within the emirates."
+      "solution": "Alkali (qadi) courts applied Islamic law within the emirates.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Aba Women's Riot occurred in:",
@@ -151,7 +225,9 @@
         "1939"
       ],
       "answer": 2,
-      "solution": "The 1929 riot protested warrant chiefs' abuses and fear of taxing women."
+      "solution": "The 1929 riot protested warrant chiefs' abuses and fear of taxing women.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Warrant chiefs were introduced because Igbo society lacked:",
@@ -162,7 +238,9 @@
         "Age grades"
       ],
       "answer": 1,
-      "solution": "With no kings to rule through, the British created chiefs by warrant."
+      "solution": "With no kings to rule through, the British created chiefs by warrant.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Ogboni cult performed which key function?",
@@ -173,7 +251,9 @@
         "Trade with Europe"
       ],
       "answer": 0,
-      "solution": "It exercised religious and judicial authority and checked both Alaafin and Oyomesi."
+      "solution": "It exercised religious and judicial authority and checked both Alaafin and Oyomesi.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Age grades in Igbo society were mainly responsible for:",
@@ -184,7 +264,9 @@
         "Foreign policy"
       ],
       "answer": 0,
-      "solution": "Age sets executed communal labour, security and enforcement of decisions."
+      "solution": "Age sets executed communal labour, security and enforcement of decisions.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The chief adviser or prime minister in an emirate was the:",
@@ -195,7 +277,9 @@
         "Hakimi"
       ],
       "answer": 0,
-      "solution": "The Waziri coordinated the emirate administration."
+      "solution": "The Waziri coordinated the emirate administration.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which system fused religion most completely with government?",
@@ -206,7 +290,9 @@
         "Tiv"
       ],
       "answer": 2,
-      "solution": "The caliphate was an Islamic theocracy in which Sharia was the law of state."
+      "solution": "The caliphate was an Islamic theocracy in which Sharia was the law of state.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Umuada in Igbo society refers to:",
@@ -217,7 +303,451 @@
         "Tax collectors"
       ],
       "answer": 0,
-      "solution": "Umuada, the married daughters of a lineage, mediated conflicts and enforced morality."
+      "solution": "Umuada, the married daughters of a lineage, mediated conflicts and enforced morality.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Lyc\u00e9e\u2019 system was part of the colonial education policy of?",
+      "options": [
+        "Britain",
+        "France",
+        "Germany",
+        "Portugal"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: France.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "In French colonial policy, the \u2018Policy of Association\u2019 eventually replaced?",
+      "options": [
+        "Indirect Rule",
+        "Apartheid",
+        "Federalism",
+        "Assimilation"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Assimilation.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The 'Warrant Chiefs' system was associated with:",
+      "options": [
+        "Direct Rule",
+        "Indirect Rule",
+        "Assimilation",
+        "Association"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Indirect Rule.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Capitalism is an economic system characterized by:",
+      "options": [
+        "State ownership",
+        "Private ownership",
+        "Communal living",
+        "Barter trade"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Private ownership.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Apartheid was a system of institutionalized racial segregation in?",
+      "options": [
+        "Nigeria",
+        "Ghana",
+        "Kenya",
+        "South Africa"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: South Africa.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A \u2018Single-member constituency\u2019 system is often called?",
+      "options": [
+        "Proportional Representation",
+        "First-past-the-post",
+        "Party List system",
+        "Military decree"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: First-past-the-post.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Apartheid\u2019 system was a policy of racial segregation practiced in?",
+      "options": [
+        "Nigeria",
+        "Kenya",
+        "USA",
+        "South Africa"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: South Africa.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Cabinet\u2019 (where ministers are also legislators) is primarily found in which system?",
+      "options": [
+        "Presidential",
+        "Parliamentary",
+        "Monarchy",
+        "Autocracy"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Parliamentary.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is \u2018Checks and Balances\u2019?",
+      "options": [
+        "Counting money in the treasury",
+        "Balancing a government budget",
+        "Each arm of government limiting the powers of the others",
+        "Checking the time of legislative sessions"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Each arm of government limiting the powers of the others.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\u2018Theocracy\u2019 is rule by?",
+      "options": [
+        "The people",
+        "The army",
+        "Religious leaders",
+        "Scientists"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Religious leaders.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\u2018Autocracy\u2019 is rule by?",
+      "options": [
+        "A parliament",
+        "A single person with absolute power",
+        "A group of village elders",
+        "The children of the nation"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: A single person with absolute power.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The current Secretary General of the UN (2023) is:",
+      "options": [
+        "Kofi Annan",
+        "Ban Ki-moon",
+        "Antonio Guterres",
+        "Boutros Ghali"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: Antonio Guterres.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Federalism involves:",
+      "options": [
+        "Sharing of power between center and units",
+        "Concentration of power",
+        "Military rule",
+        "Monarchy"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Sharing of power between center and units.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The EFCC deals with:",
+      "options": [
+        "Drug abuse",
+        "Financial crimes",
+        "Road safety",
+        "Immigration"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Financial crimes.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "A referendum is a vote on:",
+      "options": [
+        "A specific public issue",
+        "Selecting a President",
+        "Selecting a Governor",
+        "Party officers"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: A specific public issue.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The AU replaced the:",
+      "options": [
+        "OAU",
+        "ECOWAS",
+        "UNO",
+        "EU"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: OAU.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The head of the Judiciary is the:",
+      "options": [
+        "CJN",
+        "President",
+        "Senate President",
+        "AGF"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: CJN.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The 1979 Constitution established the:",
+      "options": [
+        "Parliamentary system",
+        "Presidential system",
+        "Unitary system",
+        "Monarchy"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Presidential system.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Delegated legislation refers to laws made by...",
+      "options": [
+        "The Legislature",
+        "The Judiciary",
+        "Administrative bodies and executive agencies",
+        "The General Public"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Administrative bodies and executive agencies.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The 'Collective Responsibility' of the cabinet is a feature of...",
+      "options": [
+        "Federal system",
+        "Presidential system",
+        "Parliamentary system",
+        "Confederal system"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Parliamentary system.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A bicameral legislature is one that consists of...",
+      "options": [
+        "One house",
+        "Two houses",
+        "Three houses",
+        "A single party"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Two houses.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The right to vote in an election is known as...",
+      "options": [
+        "Legitimacy",
+        "Sovereignty",
+        "Franchise",
+        "Diplomacy"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Franchise.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The 1929 Aba Women's Riot was primarily caused by...",
+      "options": [
+        "The high cost of living",
+        "Introduction of taxes on women and the Warrant Chief system",
+        "The demand for independence",
+        "The slave trade"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Introduction of taxes on women and the Warrant Chief system.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The 1946 Richards Constitution was criticized because...",
+      "options": [
+        "It introduced federalism",
+        "It was forced on Nigerians without consultation",
+        "It gave too much power to the Sultan",
+        "It ended British rule"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: It was forced on Nigerians without consultation.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Non-alignment as a foreign policy meant...",
+      "options": [
+        "Avoiding trade with China",
+        "Neutrality during the Cold War between USA and USSR",
+        "Supporting colonial rule",
+        "Only trading with neighbors"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Neutrality during the Cold War between USA and USSR.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The Organization of African Unity (OAU) was replaced by the African Union (AU) in...",
+      "options": [
+        "1963",
+        "2002",
+        "1999",
+        "2010"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: 2002.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The ECOWAS treaty was signed in 1975 in...",
+      "options": [
+        "Accra",
+        "Lagos",
+        "Abuja",
+        "Dakar"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Lagos.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The headquarters of the United Nations is located in...",
+      "options": [
+        "London",
+        "New York",
+        "Geneva",
+        "Paris"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: New York.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Independence of the Judiciary is ensured by...",
+      "options": [
+        "Security of tenure for judges",
+        "High salaries",
+        "Allowing judges to join parties",
+        "Judges being appointed by the military"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: Security of tenure for judges.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The 'Unification Decree' 34 of 1966 was promulgated by...",
+      "options": [
+        "Aguiyi Ironsi",
+        "Yakubu Gowon",
+        "Murtala Muhammed",
+        "Sani Abacha"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: Aguiyi Ironsi.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Diplomacy is the...",
+      "options": [
+        "Preparation for war",
+        "Conduct of international relations through negotiation",
+        "Spying on neighbors",
+        "Selling of goods abroad"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Conduct of international relations through negotiation.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a function of the Legislature?",
+      "options": [
+        "Law making",
+        "Budget implementation",
+        "Arresting criminals",
+        "Interpreting the constitution"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: Law making.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The 1922 Clifford Constitution introduced:",
+      "options": [
+        "Universal Adult Suffrage",
+        "Elective Principle",
+        "Federalism",
+        "Cabinet System"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Elective Principle.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The non-aligned movement was formed to:",
+      "options": [
+        "Fight terrorism",
+        "Remain neutral during the Cold War",
+        "Promote trade",
+        "Colonize Africa"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Remain neutral during the Cold War.",
+      "source": "JAMB 2025",
+      "practice": false
     }
   ]
 }

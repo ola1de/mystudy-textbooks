@@ -46,11 +46,39 @@
     },
     {
       "title": "Constitutionalism",
-      "html": "<p><b>Constitutionalism</b> is the doctrine that government must be conducted according to, and limited by, the constitution.\nThe mere existence of a constitution is not enough; constitutionalism requires that it be <i>obeyed</i>. As the saying goes,\n“every state has a constitution, but not every state practises constitutionalism.”</p>\n<p><b>Features of constitutionalism:</b></p>\n<ul>\n<li>Supremacy of the constitution &mdash; section 1(1) and 1(3) of the 1999 Constitution declare it supreme and void any\ninconsistent law.</li>\n<li>Rule of law and equality before the law.</li>\n<li>Separation of powers with checks and balances.</li>\n<li>Independent judiciary and judicial review.</li>\n<li>Guaranteed fundamental human rights.</li>\n<li>Periodic free elections and limited tenure.</li>\n<li>Accountability and transparency in government.</li>\n</ul>\n<p><b>Obstacles in Nigeria:</b> military interventions that suspended constitutions, executive lawlessness and disobedience of\ncourt orders, abuse of emergency powers, corruption, ethnic pressures and weak institutions.</p>",
+      "html": "<p><b>Constitutionalism</b> is the doctrine that government must be conducted according to, and limited by, the constitution.\nThe mere existence of a constitution is not enough; constitutionalism requires that it be <i>obeyed</i>. As the saying goes,\n\u201cevery state has a constitution, but not every state practises constitutionalism.\u201d</p>\n<p><b>Features of constitutionalism:</b></p>\n<ul>\n<li>Supremacy of the constitution &mdash; section 1(1) and 1(3) of the 1999 Constitution declare it supreme and void any\ninconsistent law.</li>\n<li>Rule of law and equality before the law.</li>\n<li>Separation of powers with checks and balances.</li>\n<li>Independent judiciary and judicial review.</li>\n<li>Guaranteed fundamental human rights.</li>\n<li>Periodic free elections and limited tenure.</li>\n<li>Accountability and transparency in government.</li>\n</ul>\n<p><b>Obstacles in Nigeria:</b> military interventions that suspended constitutions, executive lawlessness and disobedience of\ncourt orders, abuse of emergency powers, corruption, ethnic pressures and weak institutions.</p>",
       "examples": [
         {
           "q": "A state governor refuses to obey a valid court judgment. Which principle is violated?",
           "a": "Constitutionalism, and specifically the rule of law: government must act within the law and submit to the decisions of the courts."
+        }
+      ]
+    },
+    {
+      "title": "Unitary, federal and confederal constitutions",
+      "html": "<p><b>Unitary, federal and confederal constitutions</b> is a key part of Constitutions and Constitutionalism (SSS 1, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Foreign constitutions and international treaties.</li><li>Historical documents and past constitutions.</li><li>Merits of rigidity: stability, protection of minorities and rights, prevention of hasty change, safeguard of the federal bargain.</li><li>Obstacles in Nigeria: military interventions that suspended constitutions, executive lawlessness and disobedience of court orders, abuse of emergency powers, corruption, ethnic pressures and weak institutions.</li><li>The federal bargain must be entrenched.</li></ul><h4>Worked example</h4><p><b>Q:</b> A federation requires a constitution that is<br/><b>A:</b> Written and rigid \u2014 The federal bargain must be entrenched.</p><p><b>Q:</b> Which statement is TRUE?<br/><b>A:</b> No constitution is wholly written or wholly unwritten \u2014 All constitutions mix written and unwritten elements.</p>",
+      "examples": [
+        {
+          "q": "A federation requires a constitution that is",
+          "a": "Written and rigid \u2014 The federal bargain must be entrenched."
+        },
+        {
+          "q": "Which statement is TRUE?",
+          "a": "No constitution is wholly written or wholly unwritten \u2014 All constitutions mix written and unwritten elements."
+        }
+      ]
+    },
+    {
+      "title": "Constitutional amendment procedures",
+      "html": "<p><b>Constitutional amendment procedures</b> is a key part of Constitutions and Constitutionalism (SSS 1, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>It creates the organs of government, distributes powers among them, defines the relationship between government and citizen, and provides the procedure for its own amendment.</li><li>Constitutional conferences and commissions &mdash; e.g.</li><li>Amendment Normally rigid, needing a special procedure.</li><li>Under section 9, an ordinary amendment requires: A resolution supported by at least two-thirds majority of all the members of each House of the National Assembly; and Approval by resolution of the Houses of Assembly of not less than two-thirds of all the 36 states .</li><li>Amendments touching sections 8 (creation of states), 9 (the amendment procedure itself) and Chapter IV (fundamental rights) require a four-fifths majority of all members of each House of the National Assembly, plus the two-thirds of state assemblies.</li></ul><h4>Worked example</h4><p><b>Q:</b> A rigid constitution is one that<br/><b>A:</b> Requires a special procedure to amend \u2014 Rigidity refers to a special amendment procedure.</p><p><b>Q:</b> Section 9 of the 1999 Constitution deals with<br/><b>A:</b> Alteration of the constitution \u2014 It prescribes the amendment procedure.</p>",
+      "examples": [
+        {
+          "q": "A rigid constitution is one that",
+          "a": "Requires a special procedure to amend \u2014 Rigidity refers to a special amendment procedure."
+        },
+        {
+          "q": "Section 9 of the 1999 Constitution deals with",
+          "a": "Alteration of the constitution \u2014 It prescribes the amendment procedure."
         }
       ]
     }
@@ -65,7 +93,9 @@
         "A treaty between states"
       ],
       "answer": 1,
-      "solution": "It is the fundamental law establishing and limiting government."
+      "solution": "It is the fundamental law establishing and limiting government.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which country operates an unwritten constitution?",
@@ -76,7 +106,9 @@
         "India"
       ],
       "answer": 2,
-      "solution": "Britain's constitution is scattered and largely conventional."
+      "solution": "Britain's constitution is scattered and largely conventional.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A rigid constitution is one that",
@@ -87,7 +119,9 @@
         "Is unwritten"
       ],
       "answer": 1,
-      "solution": "Rigidity refers to a special amendment procedure."
+      "solution": "Rigidity refers to a special amendment procedure.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Section 9 of the 1999 Constitution deals with",
@@ -98,7 +132,9 @@
         "The judiciary"
       ],
       "answer": 2,
-      "solution": "It prescribes the amendment procedure."
+      "solution": "It prescribes the amendment procedure.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Ordinary amendment of the 1999 Constitution requires the approval of",
@@ -109,7 +145,9 @@
         "A national referendum"
       ],
       "answer": 1,
-      "solution": "That is the section 9(2) requirement."
+      "solution": "That is the section 9(2) requirement.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is NOT a source of a constitution?",
@@ -120,7 +158,9 @@
         "Statutes"
       ],
       "answer": 2,
-      "solution": "Weather has no bearing on constitutional sources."
+      "solution": "Weather has no bearing on constitutional sources.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Conventions are",
@@ -131,7 +171,9 @@
         "Treaties"
       ],
       "answer": 1,
-      "solution": "They are customary practices accepted as obligatory."
+      "solution": "They are customary practices accepted as obligatory.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Constitutionalism means",
@@ -142,7 +184,9 @@
         "Military rule"
       ],
       "answer": 1,
-      "solution": "It is limited government under the constitution."
+      "solution": "It is limited government under the constitution.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Supremacy of the Nigerian constitution is declared in",
@@ -153,7 +197,9 @@
         "Section 305"
       ],
       "answer": 0,
-      "solution": "Section 1(1) and 1(3) establish supremacy."
+      "solution": "Section 1(1) and 1(3) establish supremacy.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A merit of a written constitution is",
@@ -164,7 +210,9 @@
         "Absence of rights"
       ],
       "answer": 1,
-      "solution": "The rules are stated clearly in one document."
+      "solution": "The rules are stated clearly in one document.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A federation requires a constitution that is",
@@ -175,7 +223,9 @@
         "Temporary"
       ],
       "answer": 1,
-      "solution": "The federal bargain must be entrenched."
+      "solution": "The federal bargain must be entrenched.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Magna Carta of 1215 is a source of the constitution of",
@@ -186,7 +236,9 @@
         "Ghana"
       ],
       "answer": 1,
-      "solution": "It is a foundational British constitutional document."
+      "solution": "It is a foundational British constitutional document.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Judicial review is best protected by",
@@ -197,7 +249,9 @@
         "The armed forces"
       ],
       "answer": 1,
-      "solution": "Only an independent judiciary can check other organs."
+      "solution": "Only an independent judiciary can check other organs.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Amendment of Chapter IV of the 1999 Constitution requires",
@@ -208,7 +262,9 @@
         "Presidential decree"
       ],
       "answer": 2,
-      "solution": "Fundamental rights are specially entrenched."
+      "solution": "Fundamental rights are specially entrenched.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A demerit of a rigid constitution is that it",
@@ -219,7 +275,9 @@
         "Suits federations"
       ],
       "answer": 1,
-      "solution": "Rigidity can frustrate needed reform."
+      "solution": "Rigidity can frustrate needed reform.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which statement is TRUE?",
@@ -230,7 +288,451 @@
         "Written constitutions have no conventions"
       ],
       "answer": 1,
-      "solution": "All constitutions mix written and unwritten elements."
+      "solution": "All constitutions mix written and unwritten elements.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "An unwritten constitution is one that is _____.",
+      "options": [
+        "not based on any documents",
+        "based on customs and conventions",
+        "totally in the memory of the elders",
+        "incapable of being amended"
+      ],
+      "answer": 1,
+      "solution": "An unwritten constitution, like that of the UK, is not found in a single document but consists of a collection of laws, judicial precedents, customs, and conventions.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "An advantage of a flexible constitution is that _____.",
+      "options": [
+        "it is difficult to amend",
+        "it prevents dictatorship",
+        "it can be easily adapted to emergencies",
+        "it is always in a single document"
+      ],
+      "answer": 2,
+      "solution": "A flexible constitution (like the UK's) can be amended by a simple majority in parliament, making it easier to change in response to urgent national needs.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a feature of a rigid constitution?",
+      "options": [
+        "It can be amended by a simple majority",
+        "It is usually unwritten",
+        "It requires a special and difficult amendment process",
+        "It is found in a unitary state"
+      ],
+      "answer": 2,
+      "solution": "A rigid constitution (like Nigeria's or the USA's) requires a complex legal procedure, such as a two-thirds majority in the legislature, to be amended.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "A written constitution is often _____, making it hard to change.",
+      "options": [
+        "Flexible",
+        "Rigid",
+        "Unwritten",
+        "Unitary"
+      ],
+      "answer": 1,
+      "solution": "Most written constitutions are rigid because they require specific, difficult procedures for amendment.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a feature of a written constitution?",
+      "options": [
+        "It is flexible",
+        "It is rigid",
+        "It is unwritten",
+        "It is unknown"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: It is rigid.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The constitutional tenure of a Nigerian President is?",
+      "options": [
+        "2 years",
+        "5 years",
+        "6 years",
+        "4 years"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 4 years.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The Lyttleton Constitution of 1954 was significant because it _____.",
+      "options": [
+        "introduced the elective principle",
+        "made Nigeria a federation",
+        "created the second chamber",
+        "introduced the office of the Prime Minister"
+      ],
+      "answer": 1,
+      "solution": "The 1954 Lyttleton Constitution formally established Nigeria as a federation by sharing powers between the central government and the regional governments.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The 1979 Constitution of Nigeria introduced the _____.",
+      "options": [
+        "Parliamentary system",
+        "Presidential system",
+        "Unitary system",
+        "Confederal system"
+      ],
+      "answer": 1,
+      "solution": "The 1979 Constitution marked a shift from the British-style parliamentary system to the American-style presidential system, with an executive President.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The 1963 Constitution of Nigeria replaced the _____.",
+      "options": [
+        "Queen of England as Head of State",
+        "Prime Minister as Head of Government",
+        "Senate as the upper house",
+        "Federal system with a unitary one"
+      ],
+      "answer": 0,
+      "solution": "The 1963 Republican Constitution abolished the monarchy in Nigeria, replacing the Queen with an indigenous President as the Head of State.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A major feature of the Macpherson Constitution of 1951 was the _____.",
+      "options": [
+        "introduction of the ministerial system",
+        "granting of total independence",
+        "abolition of the regions",
+        "introduction of a single legislature"
+      ],
+      "answer": 0,
+      "solution": "The 1951 Macpherson Constitution introduced a semi-responsible government by creating central and regional legislatures with appointed ministers.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The Richard's Constitution of 1946 was noted for dividing Nigeria into _____.",
+      "options": [
+        "two regions",
+        "three regions",
+        "four regions",
+        "twelve states"
+      ],
+      "answer": 1,
+      "solution": "The Richard's Constitution divided Nigeria into three administrative regions: Northern, Western, and Eastern regions.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The 1999 Constitution of Nigeria is _____.",
+      "options": [
+        "flexible",
+        "unwritten",
+        "rigid",
+        "confederal"
+      ],
+      "answer": 2,
+      "solution": "A rigid constitution requires a special, difficult procedure for amendment. The 1999 Nigerian Constitution requires 2/3 majority of both chambers and 2/3 of State Assemblies.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Who was the Chairman of the 1976 Constitution Drafting Committee in Nigeria?",
+      "options": [
+        "Chief Rotimi Williams",
+        "Dr. Nnamdi Azikiwe",
+        "Justice Udo Udoma",
+        "Chief Obafemi Awolowo"
+      ],
+      "answer": 0,
+      "solution": "Chief Rotimi Williams headed the '49 Wise Men' committee that drafted the 1979 Constitution.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A major criticism of the 1922 Clifford Constitution was that _____.",
+      "options": [
+        "it introduced the elective principle",
+        "it excluded the North from the Legislative Council",
+        "it created regions",
+        "it gave too much power to Nigerians"
+      ],
+      "answer": 1,
+      "solution": "The Legislative Council under Clifford only made laws for the Southern Province, while the Governor continued to rule the North by proclamation.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a source of a constitution?",
+      "options": [
+        "Manifestoes",
+        "Party symbols",
+        "Judicial precedents",
+        "Police reports"
+      ],
+      "answer": 2,
+      "solution": "Judicial precedents (past court rulings) are a vital source of constitutional law, especially in common law systems.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The 1989 Constitution of Nigeria was never fully implemented because _____.",
+      "options": [
+        "it was rejected by the people",
+        "the Third Republic was aborted",
+        "it was too expensive",
+        "it was poorly written"
+      ],
+      "answer": 1,
+      "solution": "The 1989 Constitution was designed for the Third Republic, which was cut short by the annulment of the June 12, 1993, presidential election.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Who was the first Nigerian to be appointed as a Minister in the colonial era?",
+      "options": [
+        "Sir Ahmadu Bello",
+        "Chief Festus Okotie-Eboh",
+        "Sir Louis Mbanefo",
+        "None of the above"
+      ],
+      "answer": 3,
+      "solution": "Ministerial appointments for Nigerians only began under the 1951 Macpherson Constitution. Note: Question difficulty is High; early ministers included various regional leaders.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The 1951 Macpherson Constitution was criticized for being _____.",
+      "options": [
+        "too rigid",
+        "a 'compromise' constitution",
+        "strictly unitary",
+        "purely indigenous"
+      ],
+      "answer": 1,
+      "solution": "It was described as a compromise because it tried to satisfy both the centralist and regionalist demands of Nigerian politicians.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which pre-colonial Nigerian political system was described as acephalous?",
+      "options": [
+        "Hausa/Fulani",
+        "Yoruba",
+        "Igbo",
+        "Benin"
+      ],
+      "answer": 2,
+      "solution": "'Acephalous' means headless. The Igbo traditional political system was decentralized and lacked a single central authority or king.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The highest court of appeal in Nigeria under the 1999 Constitution is the _____.",
+      "options": [
+        "Federal High Court",
+        "Court of Appeal",
+        "Supreme Court",
+        "Customary Court of Appeal"
+      ],
+      "answer": 2,
+      "solution": "The Supreme Court of Nigeria is the final appellate court and the highest judicial body in the country.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The 'Elective Principle' was first introduced in Nigeria by the _____ Constitution.",
+      "options": [
+        "Richards",
+        "Clifford",
+        "Macpherson",
+        "Lyttleton"
+      ],
+      "answer": 1,
+      "solution": "The 1922 Clifford Constitution introduced the elective principle, allowing for the first time the election of representatives into the Legislative Council.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The Richards Constitution of 1946 was significant because it _____.",
+      "options": [
+        "Introduced the ministerial system",
+        "Divided Nigeria into three administrative regions",
+        "Granted total independence",
+        "Abolished the indirect rule system"
+      ],
+      "answer": 1,
+      "solution": "The Richards Constitution formally divided Nigeria into the Northern, Western, and Eastern regions, laying the foundation for regionalism.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The Macpherson Constitution of 1951 was criticized for being _____.",
+      "options": [
+        "Strictly unitary",
+        "Strictly federal",
+        "A 'compromise' constitution",
+        "Military-inspired"
+      ],
+      "answer": 2,
+      "solution": "It was described as a compromise because it attempted to balance the demands for central authority and regional autonomy.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The main reason for the failure of the 1922 Clifford Constitution was that _____.",
+      "options": [
+        "It introduced elections",
+        "It excluded Northern Nigeria from the Legislative Council",
+        "It was too expensive",
+        "It gave too much power to Nigerians"
+      ],
+      "answer": 1,
+      "solution": "The Clifford Constitution only legislated for the Southern Protectorate, while the North was ruled by proclamations of the Governor.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The 1999 Constitution of Nigeria provides for _____ states.",
+      "options": [
+        "12",
+        "19",
+        "30",
+        "36"
+      ],
+      "answer": 3,
+      "solution": "Nigeria currently has 36 states and a Federal Capital Territory (Abuja) as established in the 1999 Constitution.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The first Nigerian Prime Minister was _____.",
+      "options": [
+        "Nnamdi Azikiwe",
+        "Abubakar Tafawa Balewa",
+        "Obafemi Awolowo",
+        "Ahmadu Bello"
+      ],
+      "answer": 1,
+      "solution": "Sir Abubakar Tafawa Balewa was the Prime Minister of Nigeria from 1957 until his assassination in 1966.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The Lyttleton Constitution of 1954 made Nigeria a _____.",
+      "options": [
+        "Unitary state",
+        "Confederation",
+        "Federation",
+        "Monarchy"
+      ],
+      "answer": 2,
+      "solution": "The Lyttleton Constitution formally established the federal principle by dividing powers between the center and the regions.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The term of office for a member of the Nigerian Senate is _____ years.",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1,
+      "solution": "Members of both the Senate and the House of Representatives in Nigeria serve 4-year terms.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Who was the Chairman of the 1976 Constitution Drafting Committee?",
+      "options": [
+        "Dr. Nnamdi Azikiwe",
+        "Chief Rotimi Williams",
+        "Justice Udo Udoma",
+        "Chief Obafemi Awolowo"
+      ],
+      "answer": 1,
+      "solution": "Chief Rotimi Williams headed the '49 Wise Men' committee that drafted the 1979 Constitution.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The 1989 Constitution of Nigeria was intended for the _____.",
+      "options": [
+        "First Republic",
+        "Second Republic",
+        "Third Republic",
+        "Fourth Republic"
+      ],
+      "answer": 2,
+      "solution": "The 1989 Constitution was designed for the transition to the Third Republic, which was aborted following the annulment of the June 12, 1993 election.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The 1979 Constitution introduced the:",
+      "options": [
+        "Parliamentary system",
+        "Unitary system",
+        "Presidential system",
+        "Monarchy"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: Presidential system.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The Lyttelton Constitution of 1954 established:",
+      "options": [
+        "Unitary system",
+        "Federalism",
+        "Monarchy",
+        "Military rule"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Federalism.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The Richards Constitution divided Nigeria into:",
+      "options": [
+        "2 Regions",
+        "3 Regions",
+        "4 Regions",
+        "36 States"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: 3 Regions.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "A constitution that is easy to amend is:",
+      "options": [
+        "Rigid",
+        "Flexible",
+        "Written",
+        "Federal"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Flexible.",
+      "source": "JAMB 2021",
+      "practice": false
     }
   ]
 }

@@ -1,0 +1,737 @@
+{
+  "subject": "Further Mathematics",
+  "level": "SSS 1",
+  "slug": "polynomials",
+  "title": "Polynomials and Partial Fractions",
+  "outline": [
+    "Introduction to Polynomials and Partial Fractions",
+    "Key facts about Polynomials and Partial Fractions",
+    "Important terms and examples in Polynomials and Partial Fractions",
+    "Importance and application of Polynomials and Partial Fractions",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Polynomials and Partial Fractions",
+      "html": "<p>Polynomial division, the factor theorem and partial fractions. This section covers introduction to polynomials and partial fractions.</p><h4>Key points</h4><ul><li>Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.</li><li>Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions. \u2014 $$\\frac{2}{x-1} + \\frac{3}{x+1}$$.</li><li>Resolve $$\\frac{3x - 1}{(x-1)(x+2)}$$ into partial fractions. \u2014 $$\\frac{2}{3(x-1)} + \\frac{7}{3(x+2)}$$.</li><li>Resolve $$ \\frac{1}{x^2 - 4} $$ into partial fractions. \u2014 $$ \\frac{1}{4(x-2)} - \\frac{1}{4(x+2)} $$.</li><li>Partial Frac $$ 1/(x^2-1) $$: \u2014 $$ A/(x-1) + B/(x+1) $$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions.<br/><b>A:</b> $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$ \u2014 Past question (JAMB 2021). Correct answer: $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.</p><p><b>Q:</b> Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions.<br/><b>A:</b> $$\\frac{2}{x-1} + \\frac{3}{x+1}$$ \u2014 Past question (JAMB 2022). Correct answer: $$\\frac{2}{x-1} + \\frac{3}{x+1}$$.</p>",
+      "examples": [
+        {
+          "q": "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions.",
+          "a": "$$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$"
+        },
+        {
+          "q": "Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions.",
+          "a": "$$\\frac{2}{x-1} + \\frac{3}{x+1}$$"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Polynomials and Partial Fractions",
+      "html": "<p>Polynomial division, the factor theorem and partial fractions. This section covers key facts about polynomials and partial fractions.</p><h4>Key points</h4><ul><li>Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.</li><li>Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions. \u2014 $$\\frac{2}{x-1} + \\frac{3}{x+1}$$.</li><li>Resolve $$\\frac{3x - 1}{(x-1)(x+2)}$$ into partial fractions. \u2014 $$\\frac{2}{3(x-1)} + \\frac{7}{3(x+2)}$$.</li><li>Resolve $$ \\frac{1}{x^2 - 4} $$ into partial fractions. \u2014 $$ \\frac{1}{4(x-2)} - \\frac{1}{4(x+2)} $$.</li><li>Partial Frac $$ 1/(x^2-1) $$: \u2014 $$ A/(x-1) + B/(x+1) $$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions.<br/><b>A:</b> $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$ \u2014 Past question (JAMB 2021). Correct answer: $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.</p><p><b>Q:</b> Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions.<br/><b>A:</b> $$\\frac{2}{x-1} + \\frac{3}{x+1}$$ \u2014 Past question (JAMB 2022). Correct answer: $$\\frac{2}{x-1} + \\frac{3}{x+1}$$.</p>",
+      "examples": [
+        {
+          "q": "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions.",
+          "a": "$$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$"
+        },
+        {
+          "q": "Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions.",
+          "a": "$$\\frac{2}{x-1} + \\frac{3}{x+1}$$"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Polynomials and Partial Fractions",
+      "html": "<p>Polynomial division, the factor theorem and partial fractions. This section covers important terms and examples in polynomials and partial fractions.</p><h4>Key points</h4><ul><li>Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.</li><li>Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions. \u2014 $$\\frac{2}{x-1} + \\frac{3}{x+1}$$.</li><li>Resolve $$\\frac{3x - 1}{(x-1)(x+2)}$$ into partial fractions. \u2014 $$\\frac{2}{3(x-1)} + \\frac{7}{3(x+2)}$$.</li><li>Resolve $$ \\frac{1}{x^2 - 4} $$ into partial fractions. \u2014 $$ \\frac{1}{4(x-2)} - \\frac{1}{4(x+2)} $$.</li><li>Partial Frac $$ 1/(x^2-1) $$: \u2014 $$ A/(x-1) + B/(x+1) $$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions.<br/><b>A:</b> $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$ \u2014 Past question (JAMB 2021). Correct answer: $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.</p><p><b>Q:</b> Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions.<br/><b>A:</b> $$\\frac{2}{x-1} + \\frac{3}{x+1}$$ \u2014 Past question (JAMB 2022). Correct answer: $$\\frac{2}{x-1} + \\frac{3}{x+1}$$.</p>",
+      "examples": [
+        {
+          "q": "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions.",
+          "a": "$$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$"
+        },
+        {
+          "q": "Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions.",
+          "a": "$$\\frac{2}{x-1} + \\frac{3}{x+1}$$"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Polynomials and Partial Fractions",
+      "html": "<p>Polynomial division, the factor theorem and partial fractions. This section covers importance and application of polynomials and partial fractions.</p><h4>Key points</h4><ul><li>Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.</li><li>Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions. \u2014 $$\\frac{2}{x-1} + \\frac{3}{x+1}$$.</li><li>Resolve $$\\frac{3x - 1}{(x-1)(x+2)}$$ into partial fractions. \u2014 $$\\frac{2}{3(x-1)} + \\frac{7}{3(x+2)}$$.</li><li>Resolve $$ \\frac{1}{x^2 - 4} $$ into partial fractions. \u2014 $$ \\frac{1}{4(x-2)} - \\frac{1}{4(x+2)} $$.</li><li>Partial Frac $$ 1/(x^2-1) $$: \u2014 $$ A/(x-1) + B/(x+1) $$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions.<br/><b>A:</b> $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$ \u2014 Past question (JAMB 2021). Correct answer: $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.</p><p><b>Q:</b> Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions.<br/><b>A:</b> $$\\frac{2}{x-1} + \\frac{3}{x+1}$$ \u2014 Past question (JAMB 2022). Correct answer: $$\\frac{2}{x-1} + \\frac{3}{x+1}$$.</p>",
+      "examples": [
+        {
+          "q": "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions.",
+          "a": "$$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$"
+        },
+        {
+          "q": "Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions.",
+          "a": "$$\\frac{2}{x-1} + \\frac{3}{x+1}$$"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Polynomial division, the factor theorem and partial fractions. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.</li><li>Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions. \u2014 $$\\frac{2}{x-1} + \\frac{3}{x+1}$$.</li><li>Resolve $$\\frac{3x - 1}{(x-1)(x+2)}$$ into partial fractions. \u2014 $$\\frac{2}{3(x-1)} + \\frac{7}{3(x+2)}$$.</li><li>Resolve $$ \\frac{1}{x^2 - 4} $$ into partial fractions. \u2014 $$ \\frac{1}{4(x-2)} - \\frac{1}{4(x+2)} $$.</li><li>Partial Frac $$ 1/(x^2-1) $$: \u2014 $$ A/(x-1) + B/(x+1) $$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions.<br/><b>A:</b> $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$ \u2014 Past question (JAMB 2021). Correct answer: $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.</p><p><b>Q:</b> Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions.<br/><b>A:</b> $$\\frac{2}{x-1} + \\frac{3}{x+1}$$ \u2014 Past question (JAMB 2022). Correct answer: $$\\frac{2}{x-1} + \\frac{3}{x+1}$$.</p>",
+      "examples": [
+        {
+          "q": "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions.",
+          "a": "$$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$"
+        },
+        {
+          "q": "Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions.",
+          "a": "$$\\frac{2}{x-1} + \\frac{3}{x+1}$$"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions.",
+      "options": [
+        "$$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$",
+        "$$ \\frac{1}{x-1} + \\frac{1}{x+1} $$",
+        "$$ \\frac{1}{2(x+1)} - \\frac{1}{2(x-1)} $$",
+        "$$ \\frac{2}{x-1} $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Resolve $$\\frac{5x - 1}{(x-1)(x+1)}$$ into partial fractions.",
+      "options": [
+        "$$\\frac{2}{x-1} + \\frac{3}{x+1}$$",
+        "$$\\frac{3}{x-1} + \\frac{2}{x+1}$$",
+        "$$\\frac{2}{x-1} - \\frac{3}{x+1}$$",
+        "$$\\frac{3}{x-1} - \\frac{2}{x+1}$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$\\frac{2}{x-1} + \\frac{3}{x+1}$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Resolve $$\\frac{3x - 1}{(x-1)(x+2)}$$ into partial fractions.",
+      "options": [
+        "$$\\frac{2}{3(x-1)} + \\frac{7}{3(x+2)}$$",
+        "$$\\frac{1}{x-1} + \\frac{2}{x+2}$$",
+        "$$\\frac{2}{x-1} - \\frac{7}{x+2}$$",
+        "$$\\frac{2}{3(x-1)} - \\frac{7}{3(x+2)}$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$\\frac{2}{3(x-1)} + \\frac{7}{3(x+2)}$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Resolve $$ \\frac{1}{x^2 - 4} $$ into partial fractions.",
+      "options": [
+        "$$ \\frac{1}{4(x-2)} - \\frac{1}{4(x+2)} $$",
+        "$$ \\frac{1}{x-2} + \\frac{1}{x+2} $$",
+        "$$ \\frac{1}{2(x-2)} - \\frac{1}{2(x+2)} $$",
+        "$$ \\frac{4}{x-2} $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ \\frac{1}{4(x-2)} - \\frac{1}{4(x+2)} $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Partial Frac $$ 1/(x^2-1) $$:",
+      "options": [
+        "$$ A/(x-1) + B/(x+1) $$",
+        "$$ A/x + B/1 $$",
+        "$$ A/(x-1)^2 $$",
+        "$$ A/x^2 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: $$ A/(x-1) + B/(x+1) $$.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Expand $$ (1+x)^3 $$.",
+      "options": [
+        "$$ 1 + 3x + 3x^2 + x^3 $$",
+        "$$ 1 + x^3 $$",
+        "$$ 1 + 3x + x^3 $$",
+        "$$ 1 - 3x + 3x^2 - x^3 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ 1 + 3x + 3x^2 + x^3 $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Order of $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$.",
+      "options": [
+        "$$ 2 \\times 1 $$",
+        "$$ 1 \\times 2 $$",
+        "$$ 2 \\times 2 $$",
+        "$$ 1 \\times 1 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ 2 \\times 1 $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Given $$A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$$, find $$A^{-1}$$.",
+      "options": [
+        "$$\\begin{pmatrix} -2 & 1 \\\\ 1.5 & -0.5 \\end{pmatrix}$$",
+        "$$\\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$$",
+        "$$-\\frac{1}{2}\\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$$",
+        "$$\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}$$"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: $$-\\frac{1}{2}\\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "A force of 10N acts on a body of mass 2kg. Find the acceleration.",
+      "options": [
+        "$$20 m/s^2$$",
+        "$$5 m/s^2$$",
+        "$$0.2 m/s^2$$",
+        "$$8 m/s^2$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$5 m/s^2$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "What is the correlation coefficient if two variables are perfectly positively correlated?",
+      "options": [
+        "$$0$$",
+        "$$1$$",
+        "$$-1$$",
+        "$$0.5$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$1$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Calculate the magnitude of vector $$\\mathbf{v} = 6\\mathbf{i} - 8\\mathbf{j}$$.",
+      "options": [
+        "$$10$$",
+        "$$14$$",
+        "$$2$$",
+        "$$100$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$10$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Calculate the radius of the circle $$x^2 + y^2 - 6x + 8y = 0$$.",
+      "options": [
+        "$$5$$",
+        "$$10$$",
+        "$$25$$",
+        "$$7$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$5$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Determine the coordinates of the focus of the parabola $$y^2 = 12x$$.",
+      "options": [
+        "$$(3, 0)$$",
+        "$$(0, 3)$$",
+        "$$(-3, 0)$$",
+        "$$(0, -3)$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$(3, 0)$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "If the roots of $$x^2 - px + q = 0$$ are equal, then:",
+      "options": [
+        "$$p^2 = 4q$$",
+        "$$p^2 = 2q$$",
+        "$$q^2 = 4p$$",
+        "$$p = 4q$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$p^2 = 4q$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Evaluate: $$ \\\\int_{1}^{2} (4x^3 - 3x^2) \\\\, dx $$",
+      "options": [
+        "7",
+        "8",
+        "15",
+        "1"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: 8.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "In how many ways can a committee of 3 be chosen from 7 people?",
+      "options": [
+        "35",
+        "210",
+        "21",
+        "70"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 35.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The variance of a set of data is 25. Find the standard deviation.",
+      "options": [
+        "5",
+        "2.5",
+        "625",
+        "12.5"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 5.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "If $$ A = \\begin{pmatrix} 2 & 1 \\\\ -1 & 3 \\end{pmatrix} $$, find $$ A^2 $$.",
+      "options": [
+        "$$ \\begin{pmatrix} 3 & 5 \\\\ -5 & 8 \\end{pmatrix} $$",
+        "$$ \\begin{pmatrix} 4 & 1 \\\\ 1 & 9 \\end{pmatrix} $$",
+        "$$ \\begin{pmatrix} 5 & 3 \\\\ -5 & 8 \\end{pmatrix} $$",
+        "$$ \\begin{pmatrix} 3 & 5 \\\\ 5 & 8 \\end{pmatrix} $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ \\begin{pmatrix} 3 & 5 \\\\ -5 & 8 \\end{pmatrix} $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Find the 5th term of $$ (1+x)^8 $$.",
+      "options": [
+        "$$ 70x^4 $$",
+        "$$ 56x^4 $$",
+        "$$ 70x^5 $$",
+        "$$ 56x^5 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ 70x^4 $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Determine the range of the function $$ f(x) = x^2 + 1 $$ for real x.",
+      "options": [
+        "$$ y \\ge 1 $$",
+        "$$ y > 1 $$",
+        "$$ y \\ge 0 $$",
+        "All real numbers"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ y \\ge 1 $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "A body falls freely from rest. Distance covered in time t is proportional to:",
+      "options": [
+        "$$ t $$",
+        "$$ t^2 $$",
+        "$$ \\sqrt{t} $$",
+        "$$ t^3 $$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ t^2 $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Diff $$ e^{2x} $$:",
+      "options": [
+        "$$ 2e^{2x} $$",
+        "$$ e^{2x} $$",
+        "$$ e^x $$",
+        "$$ 2e^x $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: $$ 2e^{2x} $$.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Remainder $$ x^2/ (x-1) $$:",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "2"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 1.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Int $$ e^x $$:",
+      "options": [
+        "$$ e^x $$",
+        "$$ xe^x $$",
+        "$$ 1 $$",
+        "$$ 0 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: $$ e^x $$.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Lim 1/x inf:",
+      "options": [
+        "0",
+        "inf",
+        "1",
+        "-1"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 0.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Binomial:",
+      "options": [
+        "n, p",
+        "m, s",
+        "a, b",
+        "x, y"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: n, p.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Which is a vector quantity?",
+      "options": [
+        "Displacement",
+        "Speed",
+        "Energy",
+        "Mass"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Displacement.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Expand $$ (1+x)^4 $$ up to $$ x^2 $$.",
+      "options": [
+        "$$ 1 + 4x + 6x^2 $$",
+        "$$ 1 + 4x + 4x^2 $$",
+        "$$ 1 + 4x + 8x^2 $$",
+        "$$ 1 + x^4 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ 1 + 4x + 6x^2 $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Area under acceleration-time graph is:",
+      "options": [
+        "Change in Velocity",
+        "Distance",
+        "Force",
+        "Power"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Change in Velocity.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Impulse is:",
+      "options": [
+        "Change in momentum",
+        "Force",
+        "Energy",
+        "Power"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Change in momentum.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Polynomials and Partial Fractions in Polynomials and Partial Fractions?",
+      "options": [
+        "Elastic Coll: \u2014 KE conserved.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Diff Cos: \u2014 -Sin.",
+        "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$."
+      ],
+      "answer": 3,
+      "solution": "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Polynomials and Partial Fractions in Polynomials and Partial Fractions?",
+      "options": [
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Diff Cos: \u2014 -Sin.",
+        "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.",
+        "Elastic Coll: \u2014 KE conserved."
+      ],
+      "answer": 2,
+      "solution": "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Polynomials and Partial Fractions in Polynomials and Partial Fractions?",
+      "options": [
+        "Elastic Coll: \u2014 KE conserved.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.",
+        "Diff Cos: \u2014 -Sin."
+      ],
+      "answer": 2,
+      "solution": "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Polynomials and Partial Fractions in Polynomials and Partial Fractions?",
+      "options": [
+        "Elastic Coll: \u2014 KE conserved.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Diff Cos: \u2014 -Sin.",
+        "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$."
+      ],
+      "answer": 3,
+      "solution": "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Polynomials and Partial Fractions?",
+      "options": [
+        "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Diff Cos: \u2014 -Sin.",
+        "Elastic Coll: \u2014 KE conserved."
+      ],
+      "answer": 0,
+      "solution": "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Polynomials and Partial Fractions \u2014 'resolve'?",
+      "options": [
+        "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.",
+        "Diff Cos: \u2014 -Sin.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Elastic Coll: \u2014 KE conserved."
+      ],
+      "answer": 0,
+      "solution": "Resolve $$ \\frac{1}{x^2 - 1} $$ into partial fractions. \u2014 $$ \\frac{1}{2(x-1)} - \\frac{1}{2(x+1)} $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Polynomials and Partial Fractions \u2014 'frac'?",
+      "options": [
+        "Diff Cos: \u2014 -Sin.",
+        "Elastic Coll: \u2014 KE conserved.",
+        "Partial Frac $$ 1/(x^2-1) $$: \u2014 $$ A/(x-1) + B/(x+1) $$.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5."
+      ],
+      "answer": 2,
+      "solution": "Partial Frac $$ 1/(x^2-1) $$: \u2014 $$ A/(x-1) + B/(x+1) $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Polynomials and Partial Fractions \u2014 'expand'?",
+      "options": [
+        "Expand $$ (1+x)^3 $$. \u2014 $$ 1 + 3x + 3x^2 + x^3 $$.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Diff Cos: \u2014 -Sin.",
+        "Elastic Coll: \u2014 KE conserved."
+      ],
+      "answer": 0,
+      "solution": "Expand $$ (1+x)^3 $$. \u2014 $$ 1 + 3x + 3x^2 + x^3 $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Polynomials and Partial Fractions \u2014 'order'?",
+      "options": [
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Diff Cos: \u2014 -Sin.",
+        "Order of $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$. \u2014 $$ 2 \\times 1 $$.",
+        "Elastic Coll: \u2014 KE conserved."
+      ],
+      "answer": 2,
+      "solution": "Order of $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$. \u2014 $$ 2 \\times 1 $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Polynomials and Partial Fractions \u2014 'given'?",
+      "options": [
+        "Diff Cos: \u2014 -Sin.",
+        "Elastic Coll: \u2014 KE conserved.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Given $$A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$$, find $$A^{-1}$$. \u2014 $$-\\frac{1}{2}\\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$$."
+      ],
+      "answer": 3,
+      "solution": "Given $$A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$$, find $$A^{-1}$$. \u2014 $$-\\frac{1}{2}\\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Polynomials and Partial Fractions \u2014 'force'?",
+      "options": [
+        "Elastic Coll: \u2014 KE conserved.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Diff Cos: \u2014 -Sin."
+      ],
+      "answer": 1,
+      "solution": "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Polynomials and Partial Fractions \u2014 'correlation'?",
+      "options": [
+        "What is the correlation coefficient if two variables are perfectly positively correlated \u2014 $$1$$.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Diff Cos: \u2014 -Sin.",
+        "Elastic Coll: \u2014 KE conserved."
+      ],
+      "answer": 0,
+      "solution": "What is the correlation coefficient if two variables are perfectly positively correlated \u2014 $$1$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Polynomials and Partial Fractions \u2014 'calculate'?",
+      "options": [
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Diff Cos: \u2014 -Sin.",
+        "Elastic Coll: \u2014 KE conserved.",
+        "Calculate the magnitude of vector $$\\mathbf{v} = 6\\mathbf{i} - 8\\mathbf{j}$$. \u2014 $$10$$."
+      ],
+      "answer": 3,
+      "solution": "Calculate the magnitude of vector $$\\mathbf{v} = 6\\mathbf{i} - 8\\mathbf{j}$$. \u2014 $$10$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Polynomials and Partial Fractions \u2014 'determine'?",
+      "options": [
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Determine the coordinates of the focus of the parabola $$y^2 = 12x$$. \u2014 $$(3, 0)$$.",
+        "Diff Cos: \u2014 -Sin.",
+        "Elastic Coll: \u2014 KE conserved."
+      ],
+      "answer": 1,
+      "solution": "Determine the coordinates of the focus of the parabola $$y^2 = 12x$$. \u2014 $$(3, 0)$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Polynomials and Partial Fractions \u2014 'roots'?",
+      "options": [
+        "If the roots of $$x^2 - px + q = 0$$ are equal, then: \u2014 $$p^2 = 4q$$.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Elastic Coll: \u2014 KE conserved.",
+        "Diff Cos: \u2014 -Sin."
+      ],
+      "answer": 0,
+      "solution": "If the roots of $$x^2 - px + q = 0$$ are equal, then: \u2014 $$p^2 = 4q$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Polynomials and Partial Fractions \u2014 'evaluate'?",
+      "options": [
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Evaluate: $$ \\\\int_{1}^{2} (4x^3 - 3x^2) \\\\, dx $$ \u2014 8.",
+        "Diff Cos: \u2014 -Sin.",
+        "Elastic Coll: \u2014 KE conserved."
+      ],
+      "answer": 1,
+      "solution": "Evaluate: $$ \\\\int_{1}^{2} (4x^3 - 3x^2) \\\\, dx $$ \u2014 8.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Polynomials and Partial Fractions \u2014 'many'?",
+      "options": [
+        "Diff Cos: \u2014 -Sin.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "In how many ways can a committee of 3 be chosen from 7 people \u2014 35.",
+        "Elastic Coll: \u2014 KE conserved."
+      ],
+      "answer": 2,
+      "solution": "In how many ways can a committee of 3 be chosen from 7 people \u2014 35.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Polynomials and Partial Fractions \u2014 'variance'?",
+      "options": [
+        "Diff Cos: \u2014 -Sin.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "The variance of a set of data is 25. Find the standard deviation. \u2014 5.",
+        "Elastic Coll: \u2014 KE conserved."
+      ],
+      "answer": 2,
+      "solution": "The variance of a set of data is 25. Find the standard deviation. \u2014 5.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Polynomials and Partial Fractions \u2014 'begin'?",
+      "options": [
+        "Diff Cos: \u2014 -Sin.",
+        "Elastic Coll: \u2014 KE conserved.",
+        "If $$ A = \\begin{pmatrix} 2 & 1 \\\\ -1 & 3 \\end{pmatrix} $$, find $$ A^2 $$. \u2014 $$ \\begin{pmatrix} 3 & 5 \\\\ -5 & 8 \\end{pmatrix} $$.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5."
+      ],
+      "answer": 2,
+      "solution": "If $$ A = \\begin{pmatrix} 2 & 1 \\\\ -1 & 3 \\end{pmatrix} $$, find $$ A^2 $$. \u2014 $$ \\begin{pmatrix} 3 & 5 \\\\ -5 & 8 \\end{pmatrix} $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Polynomials and Partial Fractions \u2014 'find'?",
+      "options": [
+        "Diff Cos: \u2014 -Sin.",
+        "Elastic Coll: \u2014 KE conserved.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+        "Find the 5th term of $$ (1+x)^8 $$. \u2014 $$ 70x^4 $$."
+      ],
+      "answer": 3,
+      "solution": "Find the 5th term of $$ (1+x)^8 $$. \u2014 $$ 70x^4 $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

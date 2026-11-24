@@ -53,6 +53,30 @@
           "a": "Nigeria accepts protocols on free movement, trade and, at times, collective security decisions, so it cannot legislate freely on those matters without breaching treaty obligations."
         }
       ]
+    },
+    {
+      "title": "Types and characteristics of authority",
+      "html": "<p><b>Types and characteristics of authority</b> is a key part of Power, Authority, Legitimacy, and Sovereignty (SSS 1, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Characteristics of power: it is relational (always over someone), dynamic (it shifts), it may be legitimate or illegitimate, and it is exercised in every human organisation, not only in government.</li><li>Authority is rightful power &mdash; power that is recognised as lawful by those over whom it is exercised.</li><li>Power without authority is naked force; authority is power clothed in right.</li><li>Max Weber identified three pure types of legitimate authority: Type Basis of obedience Example Traditional Long-established custom and inherited status.</li><li>Other classifications include coercive authority (based on fear), delegated authority (transferred from a superior) and political, administrative and judicial authority depending on the office held.</li></ul><h4>Worked example</h4><p><b>Q:</b> Power that is accepted as rightful is called<br/><b>A:</b> Authority \u2014 Authority is legitimate or rightful power.</p><p><b>Q:</b> Max Weber's three types of authority are<br/><b>A:</b> Traditional, charismatic, legal-rational \u2014 Weber's classic triad.</p>",
+      "examples": [
+        {
+          "q": "Power that is accepted as rightful is called",
+          "a": "Authority \u2014 Authority is legitimate or rightful power."
+        },
+        {
+          "q": "Max Weber's three types of authority are",
+          "a": "Traditional, charismatic, legal-rational \u2014 Weber's classic triad."
+        }
+      ]
+    },
+    {
+      "title": "Meaning and attributes of legitimacy",
+      "html": "<p><b>Meaning and attributes of legitimacy</b> is a key part of Power, Authority, Legitimacy, and Sovereignty (SSS 1, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Legitimacy is the popular belief that a government has the right to rule and ought to be obeyed.</li><li>A regime may hold power (a coup-installed junta) yet lack legitimacy; and a legitimate government that loses its coercive capacity may lose power.</li><li>Governments seek legitimacy because it makes obedience voluntary and cheap.</li><li>Type Meaning Internal sovereignty Supremacy over all persons and associations within the territory.</li><li>Relationship summary: power is the capacity to compel; authority is power recognised as rightful; legitimacy is the belief that sustains authority; and sovereignty is the supreme form of authority claimed by the state.</li></ul><h4>Worked example</h4><p><b>Q:</b> Legitimacy is best acquired through<br/><b>A:</b> Free and fair elections \u2014 Popular consent expressed in credible elections.</p>",
+      "examples": [
+        {
+          "q": "Legitimacy is best acquired through",
+          "a": "Free and fair elections \u2014 Popular consent expressed in credible elections."
+        }
+      ]
     }
   ],
   "quiz": [
@@ -65,7 +89,9 @@
         "Coercion"
       ],
       "answer": 1,
-      "solution": "Authority is legitimate or rightful power."
+      "solution": "Authority is legitimate or rightful power.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Max Weber's three types of authority are",
@@ -76,7 +102,9 @@
         "Political, economic, religious"
       ],
       "answer": 1,
-      "solution": "Weber's classic triad."
+      "solution": "Weber's classic triad.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The authority of an Emir rests mainly on",
@@ -87,7 +115,9 @@
         "Coercion"
       ],
       "answer": 2,
-      "solution": "Inherited custom is the basis of traditional authority."
+      "solution": "Inherited custom is the basis of traditional authority.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Sovereignty was first systematically developed by",
@@ -98,7 +128,9 @@
         "Karl Marx"
       ],
       "answer": 1,
-      "solution": "Bodin, in <i>Six Books of the Commonwealth</i> (1576)."
+      "solution": "Bodin, in <i>Six Books of the Commonwealth</i> (1576).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Legal sovereignty in Nigeria resides in the",
@@ -109,7 +141,9 @@
         "Supreme Court"
       ],
       "answer": 2,
-      "solution": "The legislature is the legally competent law-making body."
+      "solution": "The legislature is the legally competent law-making body.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Political sovereignty resides in the",
@@ -120,7 +154,9 @@
         "Civil service"
       ],
       "answer": 1,
-      "solution": "The voters ultimately determine who makes law."
+      "solution": "The voters ultimately determine who makes law.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Freedom of a state from external control is",
@@ -131,7 +167,9 @@
         "De facto sovereignty"
       ],
       "answer": 1,
-      "solution": "External sovereignty is independence."
+      "solution": "External sovereignty is independence.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A coup leader exercising control before recognition holds",
@@ -142,7 +180,9 @@
         "Legal sovereignty"
       ],
       "answer": 1,
-      "solution": "De facto means 'in fact' though not yet in law."
+      "solution": "De facto means 'in fact' though not yet in law.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is NOT a characteristic of sovereignty?",
@@ -153,7 +193,9 @@
         "Inalienability"
       ],
       "answer": 1,
-      "solution": "Sovereignty is indivisible."
+      "solution": "Sovereignty is indivisible.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Legitimacy is best acquired through",
@@ -164,7 +206,9 @@
         "Propaganda alone"
       ],
       "answer": 1,
-      "solution": "Popular consent expressed in credible elections."
+      "solution": "Popular consent expressed in credible elections.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Charismatic authority depends on",
@@ -175,7 +219,9 @@
         "Seniority"
       ],
       "answer": 1,
-      "solution": "Exceptional personal appeal is its basis."
+      "solution": "Exceptional personal appeal is its basis.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of the following limits sovereignty in practice?",
@@ -186,7 +232,9 @@
         "All of the above"
       ],
       "answer": 3,
-      "solution": "All three constrain the exercise of sovereign power."
+      "solution": "All three constrain the exercise of sovereign power.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Power based on the control of the army is",
@@ -197,7 +245,9 @@
         "Delegated"
       ],
       "answer": 1,
-      "solution": "Control of instruments of violence gives coercive power."
+      "solution": "Control of instruments of violence gives coercive power.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Popular sovereignty means that ultimate power belongs to",
@@ -208,7 +258,9 @@
         "The military"
       ],
       "answer": 1,
-      "solution": "The doctrine locates supreme power in the people."
+      "solution": "The doctrine locates supreme power in the people.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A permanent secretary's authority is",
@@ -219,7 +271,9 @@
         "Coercive"
       ],
       "answer": 2,
-      "solution": "It derives from formal office and impersonal rules."
+      "solution": "It derives from formal office and impersonal rules.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The chief difference between power and authority is that authority",
@@ -230,7 +284,451 @@
         "Belongs only to kings"
       ],
       "answer": 1,
-      "solution": "Authority is power recognised as rightful."
+      "solution": "Authority is power recognised as rightful.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Power sovereignty belongs to the:",
+      "options": [
+        "Military",
+        "President",
+        "People",
+        "Police"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: People.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The supreme power of a state to make and enforce laws within its territory without external interference is known as _____.",
+      "options": [
+        "Authority",
+        "Sovereignty",
+        "Legitimacy",
+        "Power"
+      ],
+      "answer": 1,
+      "solution": "Sovereignty is the ultimate, absolute power of a state to govern itself and its people without being subject to any other authority.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which organ of the United Nations has the power to veto decisions?",
+      "options": [
+        "The General Assembly",
+        "The Secretariat",
+        "The Security Council",
+        "The Economic and Social Council"
+      ],
+      "answer": 2,
+      "solution": "The five permanent members of the UN Security Council (USA, UK, France, Russia, and China) possess veto power over substantive resolutions.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The power of a court to declare a law unconstitutional is known as _____.",
+      "options": [
+        "Judicial independence",
+        "Judicial Review",
+        "Prerogative writ",
+        "Injunction"
+      ],
+      "answer": 1,
+      "solution": "Judicial Review is the power of the judiciary to examine the actions of the legislative and executive branches and determine their constitutionality.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Sovereignty belongs to the _____.",
+      "options": [
+        "Legislature",
+        "Executive",
+        "Judiciary",
+        "State"
+      ],
+      "answer": 3,
+      "solution": "Sovereignty is the supreme and absolute power of a state to make and enforce laws within its territory without external interference.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The 'Power of the Purse' is exercised by the _____.",
+      "options": [
+        "Executive",
+        "Judiciary",
+        "Legislature",
+        "Civil Service"
+      ],
+      "answer": 2,
+      "solution": "The legislature has the constitutional power to approve the budget (income and expenditure) of the state.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The pre-colonial Oyo Empire utilized a system of _____ to limit the power of the Alaafin.",
+      "options": [
+        "Direct rule",
+        "Checks and balances",
+        "Totalitarianism",
+        "Military decree"
+      ],
+      "answer": 1,
+      "solution": "The Oyo Mesi (Kingmakers) and the Ogboni cult acted as institutional checks on the power of the Alaafin.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The 'Power of the Purse' belongs to the _____.",
+      "options": [
+        "Executive",
+        "Judiciary",
+        "Legislature",
+        "Civil Service"
+      ],
+      "answer": 2,
+      "solution": "The legislature has the power of the purse, meaning it controls government spending and must approve the national budget.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The power of the courts to declare an act of the legislature unconstitutional is called _____.",
+      "options": [
+        "Judicial independence",
+        "Judicial Review",
+        "Prerogative writ",
+        "Subpoena"
+      ],
+      "answer": 1,
+      "solution": "Judicial review allows the judiciary to examine the constitutionality of the actions of the other branches of government.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The symbol of authority in the legislature is:",
+      "options": [
+        "Gavel",
+        "Mace",
+        "Wig",
+        "Constitution"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Mace.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Power is defined as:",
+      "options": [
+        "The ability to compel obedience",
+        "The right to command",
+        "Physical strength",
+        "Wealth"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: The ability to compel obedience.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Authority refers to:",
+      "options": [
+        "Legitimate power",
+        "Force",
+        "Coercion",
+        "Influence"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: Legitimate power.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The Mace is a symbol of authority in the:",
+      "options": [
+        "Executive",
+        "Legislature",
+        "Judiciary",
+        "Police"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Legislature.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The mace symbolizes authority in the:",
+      "options": [
+        "Executive",
+        "Judiciary",
+        "Legislature",
+        "Police"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: Legislature.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The concept of 'Sovereignty' was first popularized by...",
+      "options": [
+        "A.V. Dicey",
+        "Jean Bodin",
+        "Baron de Montesquieu",
+        "Thomas Hobbes"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Jean Bodin.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The permanent members of the UN Security Council have the power of...",
+      "options": [
+        "The Mace",
+        "The Veto",
+        "The Gavel",
+        "The Sword"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: The Veto.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A system where power is shared between the center and the component units is...",
+      "options": [
+        "Unitary",
+        "Federal",
+        "Monarchy",
+        "Oligarchy"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Federal.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Sovereignty resides with the:",
+      "options": [
+        "President",
+        "Military",
+        "People",
+        "Police"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: People.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The mace is the symbol of authority in the:",
+      "options": [
+        "Executive",
+        "Judiciary",
+        "Legislature",
+        "Police"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: Legislature.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Federalism is a system where power is:",
+      "options": [
+        "Shared between Center and Units",
+        "Concentrated at Center",
+        "Held by States only",
+        "Held by Kings"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Shared between Center and Units.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "A system where power is concentrated at the center is:",
+      "options": [
+        "Federal",
+        "Confederal",
+        "Unitary",
+        "Republican"
+      ],
+      "answer": 2,
+      "solution": "Past question (WAEC 2025). Correct answer: Unitary.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which colonial power practiced the policy of Assimilation?",
+      "options": [
+        "Britain",
+        "Portugal",
+        "Germany",
+        "France"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: France.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Sovereignty means?",
+      "options": [
+        "Economic independence",
+        "Supreme legal authority of a state",
+        "National debt",
+        "Military power"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Supreme legal authority of a state.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Who has the power to appoint the Chairman of INEC?",
+      "options": [
+        "The Chief Justice of Nigeria",
+        "The Senate",
+        "The President (subject to Senate confirmation)",
+        "The State Governors"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: The President (subject to Senate confirmation).",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is \u2018Veto Power\u2019 in the context of the UN Security Council?",
+      "options": [
+        "Power to pass any law",
+        "Power of a permanent member to block a resolution",
+        "Power to elect the Secretary-General alone",
+        "Power to declare war without a vote"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Power of a permanent member to block a resolution.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The power of the people to remove an elected official before their term ends is?",
+      "options": [
+        "Veto",
+        "Impeachment",
+        "Censure",
+        "Recall"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Recall.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is the legal voting age in Nigeria?",
+      "options": [
+        "16",
+        "21",
+        "18",
+        "25"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 18.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which regions first attained internal self-governance in 1957?",
+      "options": [
+        "North and West",
+        "West and East",
+        "North only",
+        "East only"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: West and East.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The legal instrument that brought the 1999 Constitution into force was?",
+      "options": [
+        "Decree 24 of 1999",
+        "The Independence Act",
+        "Lyttleton Constitution",
+        "Macpherson Amendment"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Decree 24 of 1999.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Two-Thirds of 19 states\u2019 legal controversy occurred during the election of?",
+      "options": [
+        "1963",
+        "1983",
+        "1993",
+        "1979"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 1979.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The process of depriving a person of his citizenship is known as _____.",
+      "options": [
+        "expatriation",
+        "denaturalization",
+        "deportation",
+        "disenfranchisement"
+      ],
+      "answer": 1,
+      "solution": "Denaturalization is the official act of depriving a person of citizenship, especially one acquired through naturalization, often due to criminal activity or fraud.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The primary function of the legislature is to _____.",
+      "options": [
+        "execute laws",
+        "interpret laws",
+        "make laws",
+        "adjudicate disputes"
+      ],
+      "answer": 2,
+      "solution": "The legislature is the organ of government constitutionally empowered to debate, amend, and pass laws for the peace and good governance of the state.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The concept of 'Rule of Law' was popularized by _____.",
+      "options": [
+        "A.V. Dicey",
+        "Baron de Montesquieu",
+        "Jean Bodin",
+        "Thomas Hobbes"
+      ],
+      "answer": 0,
+      "solution": "A.V. Dicey, in his book 'Introduction to the Study of the Law of the Constitution', outlined the three pillars of the rule of law: supremacy of the law, equality before the law, and protection of individual rights.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a permanent feature of the Civil Service?",
+      "options": [
+        "Partisanship",
+        "Political headship",
+        "Anonymity",
+        "Inconsistency"
+      ],
+      "answer": 2,
+      "solution": "Anonymity means civil servants are neither praised nor blamed publicly for government policies; they work behind the scenes and remain invisible to the public.",
+      "source": "WAEC 2024",
+      "practice": false
     }
   ]
 }

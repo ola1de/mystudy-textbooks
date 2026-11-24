@@ -1,0 +1,737 @@
+{
+  "subject": "Further Mathematics",
+  "level": "SSS 3",
+  "slug": "calculus-advanced",
+  "title": "Calculus (Advanced)",
+  "outline": [
+    "Introduction to Calculus (Advanced)",
+    "Key facts about Calculus (Advanced)",
+    "Important terms and examples in Calculus (Advanced)",
+    "Importance and application of Calculus (Advanced)",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Calculus (Advanced)",
+      "html": "<p>Differentiation, integration and their applications. This section covers introduction to calculus (advanced).</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of calculus (advanced).</li><li>Be able to explain calculus (advanced) in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Differentiate $$ y = 4x^3 - 2x^2 + 5 $$.<br/><b>A:</b> $$ 12x^2 - 4x $$ \u2014 Past question (JAMB 2021). Correct answer: $$ 12x^2 - 4x $$.</p><p><b>Q:</b> Evaluate $$ \\int_0^2 (2x + 1) dx $$.<br/><b>A:</b> 6 \u2014 Past question (JAMB 2021). Correct answer: 6.</p>",
+      "examples": [
+        {
+          "q": "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$.",
+          "a": "$$ 12x^2 - 4x $$"
+        },
+        {
+          "q": "Evaluate $$ \\int_0^2 (2x + 1) dx $$.",
+          "a": "6"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Calculus (Advanced)",
+      "html": "<p>Differentiation, integration and their applications. This section covers key facts about calculus (advanced).</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of calculus (advanced).</li><li>Be able to explain calculus (advanced) in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Differentiate $$ y = 4x^3 - 2x^2 + 5 $$.<br/><b>A:</b> $$ 12x^2 - 4x $$ \u2014 Past question (JAMB 2021). Correct answer: $$ 12x^2 - 4x $$.</p><p><b>Q:</b> Evaluate $$ \\int_0^2 (2x + 1) dx $$.<br/><b>A:</b> 6 \u2014 Past question (JAMB 2021). Correct answer: 6.</p>",
+      "examples": [
+        {
+          "q": "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$.",
+          "a": "$$ 12x^2 - 4x $$"
+        },
+        {
+          "q": "Evaluate $$ \\int_0^2 (2x + 1) dx $$.",
+          "a": "6"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Calculus (Advanced)",
+      "html": "<p>Differentiation, integration and their applications. This section covers important terms and examples in calculus (advanced).</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of calculus (advanced).</li><li>Be able to explain calculus (advanced) in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Differentiate $$ y = 4x^3 - 2x^2 + 5 $$.<br/><b>A:</b> $$ 12x^2 - 4x $$ \u2014 Past question (JAMB 2021). Correct answer: $$ 12x^2 - 4x $$.</p><p><b>Q:</b> Evaluate $$ \\int_0^2 (2x + 1) dx $$.<br/><b>A:</b> 6 \u2014 Past question (JAMB 2021). Correct answer: 6.</p>",
+      "examples": [
+        {
+          "q": "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$.",
+          "a": "$$ 12x^2 - 4x $$"
+        },
+        {
+          "q": "Evaluate $$ \\int_0^2 (2x + 1) dx $$.",
+          "a": "6"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Calculus (Advanced)",
+      "html": "<p>Differentiation, integration and their applications. This section covers importance and application of calculus (advanced).</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of calculus (advanced).</li><li>Be able to explain calculus (advanced) in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Differentiate $$ y = 4x^3 - 2x^2 + 5 $$.<br/><b>A:</b> $$ 12x^2 - 4x $$ \u2014 Past question (JAMB 2021). Correct answer: $$ 12x^2 - 4x $$.</p><p><b>Q:</b> Evaluate $$ \\int_0^2 (2x + 1) dx $$.<br/><b>A:</b> 6 \u2014 Past question (JAMB 2021). Correct answer: 6.</p>",
+      "examples": [
+        {
+          "q": "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$.",
+          "a": "$$ 12x^2 - 4x $$"
+        },
+        {
+          "q": "Evaluate $$ \\int_0^2 (2x + 1) dx $$.",
+          "a": "6"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Differentiation, integration and their applications. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of calculus (advanced).</li><li>Be able to explain calculus (advanced) in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Differentiate $$ y = 4x^3 - 2x^2 + 5 $$.<br/><b>A:</b> $$ 12x^2 - 4x $$ \u2014 Past question (JAMB 2021). Correct answer: $$ 12x^2 - 4x $$.</p><p><b>Q:</b> Evaluate $$ \\int_0^2 (2x + 1) dx $$.<br/><b>A:</b> 6 \u2014 Past question (JAMB 2021). Correct answer: 6.</p>",
+      "examples": [
+        {
+          "q": "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$.",
+          "a": "$$ 12x^2 - 4x $$"
+        },
+        {
+          "q": "Evaluate $$ \\int_0^2 (2x + 1) dx $$.",
+          "a": "6"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$.",
+      "options": [
+        "$$ 12x^2 - 4x $$",
+        "$$ 12x^2 - 2x $$",
+        "$$ 4x^2 - 4x $$",
+        "$$ 12x^2 + 4x $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ 12x^2 - 4x $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$ \\int_0^2 (2x + 1) dx $$.",
+      "options": [
+        "6",
+        "4",
+        "5",
+        "8"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 6.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Variance of 1, 2, 3, 4, 5 is:",
+      "options": [
+        "2",
+        "2.5",
+        "4",
+        "1.41"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 2.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Derivative of $$ \\ln x $$ is:",
+      "options": [
+        "$$ 1/x $$",
+        "$$ x $$",
+        "$$ e^x $$",
+        "$$ 1 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ 1/x $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Value of $$ {}^5C_2 $$.",
+      "options": [
+        "10",
+        "20",
+        "5",
+        "60"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 10.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Transpose of $$ \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix} $$.",
+      "options": [
+        "$$ \\begin{pmatrix} 1 & 3 \\\\ 2 & 4 \\end{pmatrix} $$",
+        "$$ \\begin{pmatrix} 4 & 3 \\\\ 2 & 1 \\end{pmatrix} $$",
+        "$$ \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix} $$",
+        "$$ \\begin{pmatrix} -1 & -2 \\\\ -3 & -4 \\end{pmatrix} $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ \\begin{pmatrix} 1 & 3 \\\\ 2 & 4 \\end{pmatrix} $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Integration is reverse of:",
+      "options": [
+        "Differentiation",
+        "Algebra",
+        "Trigonometry",
+        "Geometry"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Differentiation.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Calculate the mean of the binomial distribution with $$n=10$$ and $$p=0.4$$.",
+      "options": [
+        "$$4$$",
+        "$$2.4$$",
+        "$$6$$",
+        "$$0.4$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$4$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a vector quantity?",
+      "options": [
+        "Speed",
+        "Mass",
+        "Displacement",
+        "Distance"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Displacement.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the solution set of $$|x - 2| < 3$$.",
+      "options": [
+        "$$-1 < x < 5$$",
+        "$$x < 5$$",
+        "$$x > -1$$",
+        "$$1 < x < 5$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$-1 < x < 5$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$\\lim_{x \\to 3} \\frac{x^2 - 9}{x - 3}$$.",
+      "options": [
+        "$$6$$",
+        "$$0$$",
+        "$$3$$",
+        "$$9$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$6$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the cross product $$\\mathbf{a} \\times \\mathbf{b}$$ if $$\\mathbf{a} = \\mathbf{i} + 2\\mathbf{j} - \\mathbf{k}$$ and $$\\mathbf{b} = 2\\mathbf{i} + 3\\mathbf{j} + \\mathbf{k}$$.",
+      "options": [
+        "$$5\\mathbf{i} - 3\\mathbf{j} - \\mathbf{k}$$",
+        "$$5\\mathbf{i} + 3\\mathbf{j} - \\mathbf{k}$$",
+        "$$5\\mathbf{i} - 3\\mathbf{j} + \\mathbf{k}$$",
+        "$$-5\\mathbf{i} + 3\\mathbf{j} - \\mathbf{k}$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$5\\mathbf{i} - 3\\mathbf{j} - \\mathbf{k}$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "If $$y = x^x$$, find $$\\frac{dy}{dx}$$.",
+      "options": [
+        "$$x^x(1 + \\ln x)$$",
+        "$$x^x \\ln x$$",
+        "$$x \\cdot x^{x-1}$$",
+        "$$x^x(1 - \\ln x)$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$x^x(1 + \\ln x)$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Calculate the binary operation $a * b = a + b + ab$. Find $2 * (3 * 1)$.",
+      "options": [
+        "11",
+        "21",
+        "23",
+        "15"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: 23.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the inverse of the matrix $$ \\\\begin{pmatrix} 2 & 3 \\\\\\\\ 1 & 2 \\\\end{pmatrix} $$",
+      "options": [
+        "$\\\\begin{pmatrix} 2 & -3 \\\\\\\\ -1 & 2 \\\\end{pmatrix}$",
+        "$\\\\begin{pmatrix} -2 & 3 \\\\\\\\ 1 & -2 \\\\end{pmatrix}$",
+        "$\\\\begin{pmatrix} 2 & 1 \\\\\\\\ 3 & 2 \\\\end{pmatrix}$",
+        "$\\\\begin{pmatrix} 1 & 0 \\\\\\\\ 0 & 1 \\\\end{pmatrix}$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $\\\\begin{pmatrix} 2 & -3 \\\\\\\\ -1 & 2 \\\\end{pmatrix}$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Solve the equation: $$ 2\\\\sin^2 \\\\theta - 1 = 0 $$ for $0 \\\\leq \\\\theta \\\\leq 90^\\\\circ$.",
+      "options": [
+        "$45^\\\\circ$",
+        "$30^\\\\circ$",
+        "$60^\\\\circ$",
+        "$90^\\\\circ$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $45^\\\\circ$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the argument of $z = 1 + i$.",
+      "options": [
+        "$45^\\\\circ$",
+        "$90^\\\\circ$",
+        "$30^\\\\circ$",
+        "$60^\\\\circ$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $45^\\\\circ$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "If $$ P(A) = 0.4 $$, $$ P(B) = 0.5 $$ and A, B are independent, find $$ P(A \\cap B) $$.",
+      "options": [
+        "0.9",
+        "0.2",
+        "0.1",
+        "0.02"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: 0.2.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Calculate the Moment of a force 10N at a distance 5m.",
+      "options": [
+        "2Nm",
+        "15Nm",
+        "50Nm",
+        "0.5Nm"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: 50Nm.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Find the value of $$ \\binom{6}{2} $$",
+      "options": [
+        "15",
+        "30",
+        "12",
+        "6"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: 15.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Unit Vector $$ 3i-4j $$:",
+      "options": [
+        "$$ (3i-4j)/5 $$",
+        "$$ 3i-4j $$",
+        "$$ 5(3i-4j) $$",
+        "$$ i-j $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: $$ (3i-4j)/5 $$.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Vector scalar:",
+      "options": [
+        "Mass",
+        "Vel",
+        "Force",
+        "Disp"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Mass.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "5C2:",
+      "options": [
+        "10",
+        "20",
+        "5",
+        "60"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 10.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "|x| < 3:",
+      "options": [
+        "-3<x<3",
+        "x>3",
+        "x<-3",
+        "x=3"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: -3<x<3.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Proj Max H:",
+      "options": [
+        "$$ u^2sin^2/2g $$",
+        "$$ u^2/g $$",
+        "$$ usin/g $$",
+        "$$ ucos $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: $$ u^2sin^2/2g $$.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Number of ways to arrange letters of 'BANANA'.",
+      "options": [
+        "60",
+        "120",
+        "720",
+        "360"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 60.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Matrix multiplication $$ AB $$ is possible if:",
+      "options": [
+        "Cols A = Rows B",
+        "Rows A = Cols B",
+        "Rows A = Rows B",
+        "Cols A = Cols B"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Cols A = Rows B.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Derivative of $$ \\sin x $$.",
+      "options": [
+        "$$ \\cos x $$",
+        "$$ -\\cos x $$",
+        "$$ \\sin x $$",
+        "$$ -\\sin x $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ \\cos x $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Period of $$ \\sin x $$:",
+      "options": [
+        "$$ 2\\pi $$",
+        "$$ \\pi $$",
+        "$$ 360 $$",
+        "$$ 90 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ 2\\pi $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Calculus (Advanced) in Calculus (Advanced)?",
+      "options": [
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$.",
+        "Find the geometric mean of 4 and 16. \u2014 8.",
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s."
+      ],
+      "answer": 0,
+      "solution": "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Calculus (Advanced) in Calculus (Advanced)?",
+      "options": [
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Find the geometric mean of 4 and 16. \u2014 8.",
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$."
+      ],
+      "answer": 0,
+      "solution": "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Calculus (Advanced) in Calculus (Advanced)?",
+      "options": [
+        "Find the geometric mean of 4 and 16. \u2014 8.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$."
+      ],
+      "answer": 1,
+      "solution": "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Calculus (Advanced) in Calculus (Advanced)?",
+      "options": [
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Find the geometric mean of 4 and 16. \u2014 8.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$."
+      ],
+      "answer": 2,
+      "solution": "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Calculus (Advanced)?",
+      "options": [
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Find the geometric mean of 4 and 16. \u2014 8.",
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$."
+      ],
+      "answer": 0,
+      "solution": "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 'differentiate'?",
+      "options": [
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$.",
+        "Find the geometric mean of 4 and 16. \u2014 8."
+      ],
+      "answer": 1,
+      "solution": "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 'evaluate'?",
+      "options": [
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$.",
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Evaluate $$ \\int_0^2 (2x + 1) dx $$. \u2014 6.",
+        "Find the geometric mean of 4 and 16. \u2014 8."
+      ],
+      "answer": 2,
+      "solution": "Evaluate $$ \\int_0^2 (2x + 1) dx $$. \u2014 6.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 'variance'?",
+      "options": [
+        "Find the geometric mean of 4 and 16. \u2014 8.",
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$.",
+        "Variance of 1, 2, 3, 4, 5 is: \u2014 2.",
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s."
+      ],
+      "answer": 2,
+      "solution": "Variance of 1, 2, 3, 4, 5 is: \u2014 2.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 'derivative'?",
+      "options": [
+        "Derivative of $$ \\ln x $$ is: \u2014 $$ 1/x $$.",
+        "Find the geometric mean of 4 and 16. \u2014 8.",
+        "Scalar product $$ \\mathbf{i} \\cdot \\mathbf{j} $$ is: \u2014 0.",
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s."
+      ],
+      "answer": 0,
+      "solution": "Derivative of $$ \\ln x $$ is: \u2014 $$ 1/x $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 'value'?",
+      "options": [
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Find the geometric mean of 4 and 16. \u2014 8.",
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$.",
+        "Value of $$ {}^5C_2 $$. \u2014 10."
+      ],
+      "answer": 3,
+      "solution": "Value of $$ {}^5C_2 $$. \u2014 10.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 'transpose'?",
+      "options": [
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$.",
+        "Find the geometric mean of 4 and 16. \u2014 8.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 & 3 \\\\ 2 & 4 \\end{pmatrix} $$.",
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s."
+      ],
+      "answer": 2,
+      "solution": "Transpose of $$ \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 & 3 \\\\ 2 & 4 \\end{pmatrix} $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 'integration'?",
+      "options": [
+        "Find the geometric mean of 4 and 16. \u2014 8.",
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$.",
+        "Integration is reverse of: \u2014 Differentiation.",
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s."
+      ],
+      "answer": 2,
+      "solution": "Integration is reverse of: \u2014 Differentiation.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 'calculate'?",
+      "options": [
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$.",
+        "Calculate the mean of the binomial distribution with $$n=10$$ and $$p=0.4$$. \u2014 $$4$$.",
+        "Find the geometric mean of 4 and 16. \u2014 8."
+      ],
+      "answer": 2,
+      "solution": "Calculate the mean of the binomial distribution with $$n=10$$ and $$p=0.4$$. \u2014 $$4$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 'vector'?",
+      "options": [
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$.",
+        "Which of these is a vector quantity \u2014 Displacement.",
+        "Find the geometric mean of 4 and 16. \u2014 8."
+      ],
+      "answer": 2,
+      "solution": "Which of these is a vector quantity \u2014 Displacement.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 'find'?",
+      "options": [
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Find the solution set of $$|x - 2| < 3$$. \u2014 $$-1 < x < 5$$.",
+        "Scalar product $$ \\mathbf{i} \\cdot \\mathbf{j} $$ is: \u2014 0.",
+        "Int $$ 2x dx $$: \u2014 $$ x^2+c $$."
+      ],
+      "answer": 1,
+      "solution": "Find the solution set of $$|x - 2| < 3$$. \u2014 $$-1 < x < 5$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 'solve'?",
+      "options": [
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$.",
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Solve the equation: $$ 2\\\\sin^2 \\\\theta - 1 = 0 $$ for $0 \\\\leq \\\\theta \\\\leq 90^\\\\circ$. \u2014 $45^\\\\circ$.",
+        "Find the geometric mean of 4 and 16. \u2014 8."
+      ],
+      "answer": 2,
+      "solution": "Solve the equation: $$ 2\\\\sin^2 \\\\theta - 1 = 0 $$ for $0 \\\\leq \\\\theta \\\\leq 90^\\\\circ$. \u2014 $45^\\\\circ$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 'independent'?",
+      "options": [
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Find the geometric mean of 4 and 16. \u2014 8.",
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$.",
+        "If $$ P(A) = 0.4 $$, $$ P(B) = 0.5 $$ and A, B are independent, find $$ P(A \\cap B) $$. \u2014 0.2."
+      ],
+      "answer": 3,
+      "solution": "If $$ P(A) = 0.4 $$, $$ P(B) = 0.5 $$ and A, B are independent, find $$ P(A \\cap B) $$. \u2014 0.2.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 'unit'?",
+      "options": [
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$.",
+        "Unit Vector $$ 3i-4j $$: \u2014 $$ (3i-4j)/5 $$.",
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Find the geometric mean of 4 and 16. \u2014 8."
+      ],
+      "answer": 1,
+      "solution": "Unit Vector $$ 3i-4j $$: \u2014 $$ (3i-4j)/5 $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 '5c2'?",
+      "options": [
+        "5C2: \u2014 10.",
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$.",
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Find the geometric mean of 4 and 16. \u2014 8."
+      ],
+      "answer": 0,
+      "solution": "5C2: \u2014 10.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 'proj'?",
+      "options": [
+        "Find the geometric mean of 4 and 16. \u2014 8.",
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$.",
+        "Proj Max H: \u2014 $$ u^2sin^2/2g $$."
+      ],
+      "answer": 3,
+      "solution": "Proj Max H: \u2014 $$ u^2sin^2/2g $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Calculus (Advanced) \u2014 'number'?",
+      "options": [
+        "Number of ways to arrange letters of 'BANANA'. \u2014 60.",
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Find the geometric mean of 4 and 16. \u2014 8.",
+        "Find the derivative of $y = (3x^2 + 1)^3$ with respect to $x$. \u2014 $18x(3x^2 + 1)^2$."
+      ],
+      "answer": 0,
+      "solution": "Number of ways to arrange letters of 'BANANA'. \u2014 60.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

@@ -12,17 +12,17 @@
   "modules": [
     {
       "title": "Diphthongs and triphthongs",
-      "html": "<p>A <b>diphthong</b> is a vowel sound that glides from one vowel quality to another in the same syllable. RP English has 8 diphthongs:</p>\n  <ul>\n    <li>/eɪ/ — <i>day, name, wait</i></li>\n    <li>/aɪ/ — <i>my, high, buy</i></li>\n    <li>/ɔɪ/ — <i>boy, toy, coin</i></li>\n    <li>/əʊ/ — <i>go, boat, no</i></li>\n    <li>/aʊ/ — <i>now, house, cow</i></li>\n    <li>/ɪə/ — <i>near, here, dear</i></li>\n    <li>/eə/ — <i>hair, care, there</i></li>\n    <li>/ʊə/ — <i>tour, poor</i></li>\n  </ul>\n  <p>A <b>triphthong</b> glides through three vowel qualities in a single syllable: <i>fire</i> /faɪə/, <i>hour</i> /aʊə/, <i>player</i> /pleɪə/, <i>royal</i> /rɔɪəl/, <i>lower</i> /ləʊə/.</p>",
+      "html": "<p>A <b>diphthong</b> is a vowel sound that glides from one vowel quality to another in the same syllable. RP English has 8 diphthongs:</p>\n  <ul>\n    <li>/e\u026a/ \u2014 <i>day, name, wait</i></li>\n    <li>/a\u026a/ \u2014 <i>my, high, buy</i></li>\n    <li>/\u0254\u026a/ \u2014 <i>boy, toy, coin</i></li>\n    <li>/\u0259\u028a/ \u2014 <i>go, boat, no</i></li>\n    <li>/a\u028a/ \u2014 <i>now, house, cow</i></li>\n    <li>/\u026a\u0259/ \u2014 <i>near, here, dear</i></li>\n    <li>/e\u0259/ \u2014 <i>hair, care, there</i></li>\n    <li>/\u028a\u0259/ \u2014 <i>tour, poor</i></li>\n  </ul>\n  <p>A <b>triphthong</b> glides through three vowel qualities in a single syllable: <i>fire</i> /fa\u026a\u0259/, <i>hour</i> /a\u028a\u0259/, <i>player</i> /ple\u026a\u0259/, <i>royal</i> /r\u0254\u026a\u0259l/, <i>lower</i> /l\u0259\u028a\u0259/.</p><h4>Key points</h4><ul><li>Vowel glide.</li><li><i>Day</i> uses /e\u026a/.</li></ul><h4>Worked example</h4><p><b>Q:</b> A diphthong is:<br/><b>A:</b> a vowel that glides between two qualities</p><p><b>Q:</b> Which word contains /e\u026a/?<br/><b>A:</b> day</p>",
       "examples": [
         {
           "q": "State the diphthong in <i>coin</i>.",
-          "a": "/ɔɪ/."
+          "a": "/\u0254\u026a/."
         }
       ]
     },
     {
       "title": "Consonant clusters",
-      "html": "<p>A <b>consonant cluster</b> is a group of two or more consonants next to each other without a vowel between them, at the beginning or end of a syllable.</p>\n  <h4>Initial clusters</h4>\n  <ul><li>2-consonant: <i>play, snow, cry, glass, twin, dwell</i>.</li>\n  <li>3-consonant: <i>splash, string, scream, spread</i> — always begins with /s/, then /p, t, k/, then /l, r, w, j/.</li></ul>\n  <h4>Final clusters</h4>\n  <ul><li>2 consonants: <i>help, hand, jump, best</i>.</li>\n  <li>3 consonants: <i>text /tekst/, next /nekst/, sixths /sɪksθs/</i>.</li></ul>",
+      "html": "<p>A <b>consonant cluster</b> is a group of two or more consonants next to each other without a vowel between them, at the beginning or end of a syllable.</p>\n  <h4>Initial clusters</h4>\n  <ul><li>2-consonant: <i>play, snow, cry, glass, twin, dwell</i>.</li>\n  <li>3-consonant: <i>splash, string, scream, spread</i> \u2014 always begins with /s/, then /p, t, k/, then /l, r, w, j/.</li></ul>\n  <h4>Final clusters</h4>\n  <ul><li>2 consonants: <i>help, hand, jump, best</i>.</li>\n  <li>3 consonants: <i>text /tekst/, next /nekst/, sixths /s\u026aks\u03b8s/</i>.</li></ul><h4>Key points</h4><ul><li>/spl/ \u2014 three-consonant cluster.</li><li>/sn/ in <i>snake</i>.</li></ul><h4>Worked example</h4><p><b>Q:</b> Initial cluster in <i>splash</i>:<br/><b>A:</b> /spl/</p><p><b>Q:</b> Which word has a two-consonant initial cluster?<br/><b>A:</b> snake</p>",
       "examples": [
         {
           "q": "Identify the initial cluster in <i>spring</i>.",
@@ -32,11 +32,39 @@
     },
     {
       "title": "Intonation and emphatic stress",
-      "html": "<p><b>Intonation</b> is the rise and fall of the voice in speech. Two main tunes:</p>\n  <ul>\n    <li><b>Falling tune (⇘)</b> — used for statements, commands, WH-questions, exclamations: <i>I am tired.⇘ Where is he?⇘</i></li>\n    <li><b>Rising tune (⇗)</b> — used for yes/no questions, polite requests, incomplete lists: <i>Are you coming?⇗ Would you like tea?⇗</i></li>\n  </ul>\n  <p><b>Emphatic (or contrastive) stress</b> puts extra stress on a particular word to change the meaning of a sentence:</p>\n  <ul>\n    <li><b>I</b> gave her the book — <i>(I did, not somebody else)</i></li>\n    <li>I gave her the <b>book</b> — <i>(not the pen)</i></li>\n    <li>I gave <b>her</b> the book — <i>(not him)</i></li>\n  </ul>",
+      "html": "<p><b>Intonation</b> is the rise and fall of the voice in speech. Two main tunes:</p>\n  <ul>\n    <li><b>Falling tune (\u21d8)</b> \u2014 used for statements, commands, WH-questions, exclamations: <i>I am tired.\u21d8 Where is he?\u21d8</i></li>\n    <li><b>Rising tune (\u21d7)</b> \u2014 used for yes/no questions, polite requests, incomplete lists: <i>Are you coming?\u21d7 Would you like tea?\u21d7</i></li>\n  </ul>\n  <p><b>Emphatic (or contrastive) stress</b> puts extra stress on a particular word to change the meaning of a sentence:</p>\n  <ul>\n    <li><b>I</b> gave her the book \u2014 <i>(I did, not somebody else)</i></li>\n    <li>I gave her the <b>book</b> \u2014 <i>(not the pen)</i></li>\n    <li>I gave <b>her</b> the book \u2014 <i>(not him)</i></li>\n  </ul><h4>Key points</h4><ul><li>Contrast with someone else.</li><li>Contrast with another recipient.</li></ul><h4>Worked example</h4><p><b>Q:</b> Emphatic stress on <b>I</b> in <i>I gave her the book</i> means:<br/><b>A:</b> not you</p><p><b>Q:</b> Emphatic stress on <b>her</b> in <i>I gave her the book</i> means:<br/><b>A:</b> not him</p>",
       "examples": [
         {
           "q": "Which tune is used for a yes/no question?",
-          "a": "Rising tune (⇗)."
+          "a": "Rising tune (\u21d7)."
+        }
+      ]
+    },
+    {
+      "title": "Rising and falling intonation",
+      "html": "<p><b>Rising and falling intonation</b> is a key part of Oral English (SSS 2, English). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Intonation is the rise and fall of the voice in speech.</li><li>Two main tunes: Falling tune (\u21d8) \u2014 used for statements, commands, WH-questions, exclamations: I am tired.\u21d8 Where is he?\u21d8 Rising tune (\u21d7) \u2014 used for yes/no questions, polite requests, incomplete lists: Are you coming?\u21d7 Would you like tea?\u21d7 Emphatic (or contrastive) stress puts extra stress on a particular word to change the meaning of a sentence: I gave her the book \u2014 (I did, not somebody else) I gave her the book \u2014 (not the pen) I gave her the book \u2014 (not him) Key points Contrast with someone else.</li><li>Rising tune for politeness.</li></ul><h4>Worked example</h4><p><b>Q:</b> Falling tune is used for:<br/><b>A:</b> statements \u2014 Statements fall.</p><p><b>Q:</b> Rising tune is used for:<br/><b>A:</b> yes/no questions \u2014 Yes/no questions rise.</p>",
+      "examples": [
+        {
+          "q": "Falling tune is used for:",
+          "a": "statements \u2014 Statements fall."
+        },
+        {
+          "q": "Rising tune is used for:",
+          "a": "yes/no questions \u2014 Yes/no questions rise."
+        }
+      ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> A diphthong is:<br/><b>A:</b> a vowel that glides between two qualities \u2014 Vowel glide.</p><p><b>Q:</b> Which word contains /e\u026a/?<br/><b>A:</b> day \u2014 <i>Day</i> uses /e\u026a/.</p><p><b>Q:</b> Which word contains /a\u026a/?<br/><b>A:</b> my \u2014 <i>My</i> uses /a\u026a/.</p>",
+      "examples": [
+        {
+          "q": "A diphthong is:",
+          "a": "a vowel that glides between two qualities"
+        },
+        {
+          "q": "Which word contains /e\u026a/?",
+          "a": "day"
         }
       ]
     }
@@ -51,10 +79,12 @@
         "a stress mark"
       ],
       "answer": 1,
-      "solution": "Vowel glide."
+      "solution": "Vowel glide.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which word contains /eɪ/?",
+      "q": "Which word contains /e\u026a/?",
       "options": [
         "day",
         "dye",
@@ -62,10 +92,12 @@
         "doe"
       ],
       "answer": 0,
-      "solution": "<i>Day</i> uses /eɪ/."
+      "solution": "<i>Day</i> uses /e\u026a/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which word contains /aɪ/?",
+      "q": "Which word contains /a\u026a/?",
       "options": [
         "my",
         "may",
@@ -73,10 +105,12 @@
         "moo"
       ],
       "answer": 0,
-      "solution": "<i>My</i> uses /aɪ/."
+      "solution": "<i>My</i> uses /a\u026a/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which word contains /ɔɪ/?",
+      "q": "Which word contains /\u0254\u026a/?",
       "options": [
         "boy",
         "by",
@@ -84,73 +118,22 @@
         "bow"
       ],
       "answer": 0,
-      "solution": "<i>Boy</i> uses /ɔɪ/."
-    },
-    {
-      "q": "Which word contains /əʊ/?",
-      "options": [
-        "go",
-        "gay",
-        "guy",
-        "gow"
-      ],
-      "answer": 0,
-      "solution": "<i>Go</i> uses /əʊ/."
-    },
-    {
-      "q": "Which word contains /aʊ/?",
-      "options": [
-        "now",
-        "no",
-        "nay",
-        "new"
-      ],
-      "answer": 0,
-      "solution": "<i>Now</i> uses /aʊ/."
-    },
-    {
-      "q": "Which word contains /ɪə/?",
-      "options": [
-        "near",
-        "nay",
-        "no",
-        "new"
-      ],
-      "answer": 0,
-      "solution": "<i>Near</i> uses /ɪə/."
-    },
-    {
-      "q": "Which word contains /eə/?",
-      "options": [
-        "hair",
-        "hair-dryer",
-        "hire",
-        "here"
-      ],
-      "answer": 0,
-      "solution": "<i>Hair</i> uses /eə/."
-    },
-    {
-      "q": "Which word contains /ʊə/?",
-      "options": [
-        "tour",
-        "tor",
-        "toe",
-        "too"
-      ],
-      "answer": 0,
-      "solution": "<i>Tour</i> uses /ʊə/."
+      "solution": "<i>Boy</i> uses /\u0254\u026a/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a triphthong?",
       "options": [
-        "/faɪə/ (fire)",
-        "/aɪ/",
-        "/əʊ/",
-        "/uː/"
+        "/fa\u026a\u0259/ (fire)",
+        "/a\u026a/",
+        "/\u0259\u028a/",
+        "/u\u02d0/"
       ],
       "answer": 0,
-      "solution": "Three-way glide."
+      "solution": "Three-way glide.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word has a triphthong?",
@@ -161,18 +144,9 @@
         "hip"
       ],
       "answer": 0,
-      "solution": "<i>Hour</i> = /aʊə/."
-    },
-    {
-      "q": "Which word has a triphthong?",
-      "options": [
-        "player",
-        "play",
-        "paw",
-        "pie"
-      ],
-      "answer": 0,
-      "solution": "<i>Player</i> = /pleɪə/."
+      "solution": "<i>Hour</i> = /a\u028a\u0259/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Initial cluster in <i>splash</i>:",
@@ -180,10 +154,12 @@
         "/spl/",
         "/pl/",
         "/sh/",
-        "/lʃ/"
+        "/l\u0283/"
       ],
       "answer": 0,
-      "solution": "/spl/ — three-consonant cluster."
+      "solution": "/spl/ \u2014 three-consonant cluster.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Final cluster in <i>text</i>:",
@@ -194,18 +170,22 @@
         "/ts/"
       ],
       "answer": 0,
-      "solution": "/kst/ at the end."
+      "solution": "/kst/ at the end.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Final cluster in <i>sixths</i>:",
       "options": [
-        "/ksθs/",
+        "/ks\u03b8s/",
         "/sths/",
         "/kst/",
-        "/θs/"
+        "/\u03b8s/"
       ],
       "answer": 0,
-      "solution": "/ksθs/ — a difficult cluster."
+      "solution": "/ks\u03b8s/ \u2014 a difficult cluster.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word has an initial cluster?",
@@ -216,7 +196,9 @@
         "enter"
       ],
       "answer": 0,
-      "solution": "<i>Play</i> begins with /pl/."
+      "solution": "<i>Play</i> begins with /pl/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word has a final cluster?",
@@ -227,7 +209,9 @@
         "how"
       ],
       "answer": 0,
-      "solution": "<i>Help</i> ends with /lp/."
+      "solution": "<i>Help</i> ends with /lp/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word has no cluster?",
@@ -238,7 +222,9 @@
         "print"
       ],
       "answer": 2,
-      "solution": "<i>Apple</i> has no cluster — /æ.pl/ divides across syllables."
+      "solution": "<i>Apple</i> has no cluster \u2014 /\u00e6.pl/ divides across syllables.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Falling tune is used for:",
@@ -249,7 +235,9 @@
         "calling attention"
       ],
       "answer": 1,
-      "solution": "Statements fall."
+      "solution": "Statements fall.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Rising tune is used for:",
@@ -260,7 +248,9 @@
         "WH-questions"
       ],
       "answer": 2,
-      "solution": "Yes/no questions rise."
+      "solution": "Yes/no questions rise.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "WH-questions typically take the:",
@@ -271,7 +261,9 @@
         "emphatic tune"
       ],
       "answer": 1,
-      "solution": "They usually fall."
+      "solution": "They usually fall.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A polite request tends to take the:",
@@ -282,7 +274,9 @@
         "stress tune"
       ],
       "answer": 1,
-      "solution": "Rising tune for politeness."
+      "solution": "Rising tune for politeness.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Emphatic stress on <b>I</b> in <i>I gave her the book</i> means:",
@@ -293,7 +287,9 @@
         "not gave"
       ],
       "answer": 0,
-      "solution": "Contrast with someone else."
+      "solution": "Contrast with someone else.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Emphatic stress on <b>her</b> in <i>I gave her the book</i> means:",
@@ -304,7 +300,9 @@
         "not gave"
       ],
       "answer": 2,
-      "solution": "Contrast with another recipient."
+      "solution": "Contrast with another recipient.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Emphatic stress on <b>book</b> means:",
@@ -315,7 +313,9 @@
         "other things"
       ],
       "answer": 2,
-      "solution": "Contrast with something else given."
+      "solution": "Contrast with something else given.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word has a two-consonant initial cluster?",
@@ -326,7 +326,9 @@
         "era"
       ],
       "answer": 0,
-      "solution": "/sn/ in <i>snake</i>."
+      "solution": "/sn/ in <i>snake</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word has a three-consonant initial cluster?",
@@ -337,7 +339,9 @@
         "crab"
       ],
       "answer": 0,
-      "solution": "/spr/ in <i>spread</i>."
+      "solution": "/spr/ in <i>spread</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word has a three-consonant final cluster?",
@@ -348,40 +352,48 @@
         "cake"
       ],
       "answer": 0,
-      "solution": "/mpst/ in <i>glimpsed</i>."
+      "solution": "/mpst/ in <i>glimpsed</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which diphthong is in <i>boat</i>?",
       "options": [
-        "/aʊ/",
-        "/əʊ/",
-        "/ɔɪ/",
-        "/ɪə/"
+        "/a\u028a/",
+        "/\u0259\u028a/",
+        "/\u0254\u026a/",
+        "/\u026a\u0259/"
       ],
       "answer": 1,
-      "solution": "/əʊ/."
+      "solution": "/\u0259\u028a/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which diphthong is in <i>high</i>?",
       "options": [
-        "/eɪ/",
-        "/aɪ/",
-        "/ɔɪ/",
-        "/əʊ/"
+        "/e\u026a/",
+        "/a\u026a/",
+        "/\u0254\u026a/",
+        "/\u0259\u028a/"
       ],
       "answer": 1,
-      "solution": "/aɪ/."
+      "solution": "/a\u026a/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which diphthong is in <i>toy</i>?",
       "options": [
-        "/eɪ/",
-        "/aɪ/",
-        "/ɔɪ/",
-        "/əʊ/"
+        "/e\u026a/",
+        "/a\u026a/",
+        "/\u0254\u026a/",
+        "/\u0259\u028a/"
       ],
       "answer": 2,
-      "solution": "/ɔɪ/."
+      "solution": "/\u0254\u026a/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word does NOT contain a diphthong?",
@@ -392,7 +404,9 @@
         "now"
       ],
       "answer": 1,
-      "solution": "<i>Bee</i> has the pure vowel /iː/."
+      "solution": "<i>Bee</i> has the pure vowel /i\u02d0/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which pair rhymes?",
@@ -403,18 +417,9 @@
         "hair / how"
       ],
       "answer": 1,
-      "solution": "Both /eə/."
-    },
-    {
-      "q": "Which pair rhymes?",
-      "options": [
-        "cow / cue",
-        "cow / how",
-        "cow / coo",
-        "cow / cop"
-      ],
-      "answer": 1,
-      "solution": "Both /aʊ/."
+      "solution": "Both /e\u0259/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word is spelled with a silent letter?",
@@ -425,18 +430,9 @@
         "bee"
       ],
       "answer": 0,
-      "solution": "<i>K</i> is silent in <i>knee</i>."
-    },
-    {
-      "q": "Which word is spelled with a silent letter?",
-      "options": [
-        "hour",
-        "hop",
-        "hat",
-        "hot"
-      ],
-      "answer": 0,
-      "solution": "<i>H</i> is silent in <i>hour</i>."
+      "solution": "<i>K</i> is silent in <i>knee</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word begins with a semi-vowel (glide)?",
@@ -447,7 +443,9 @@
         "bat"
       ],
       "answer": 0,
-      "solution": "/j/ in <i>yes</i>."
+      "solution": "/j/ in <i>yes</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word begins with the semi-vowel /w/?",
@@ -458,7 +456,9 @@
         "net"
       ],
       "answer": 0,
-      "solution": "<i>Wet</i>."
+      "solution": "<i>Wet</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A <b>tune</b> in intonation refers to:",
@@ -469,7 +469,9 @@
         "the accent"
       ],
       "answer": 1,
-      "solution": "Melodic movement."
+      "solution": "Melodic movement.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Intonation for the tag in <i>You are ready, aren't you?</i> when unsure:",
@@ -480,7 +482,9 @@
         "emphatic"
       ],
       "answer": 1,
-      "solution": "Rising when unsure."
+      "solution": "Rising when unsure.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Intonation for the tag when sure:",
@@ -491,7 +495,9 @@
         "emphatic"
       ],
       "answer": 0,
-      "solution": "Falling when sure."
+      "solution": "Falling when sure.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these has a final /nd/ cluster?",
@@ -502,10 +508,12 @@
         "ham"
       ],
       "answer": 0,
-      "solution": "<i>Hand</i> ends /nd/."
+      "solution": "<i>Hand</i> ends /nd/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which word ends with /ŋk/?",
+      "q": "Which word ends with /\u014bk/?",
       "options": [
         "think",
         "that",
@@ -513,7 +521,9 @@
         "those"
       ],
       "answer": 0,
-      "solution": "<i>Think</i> = /θɪŋk/."
+      "solution": "<i>Think</i> = /\u03b8\u026a\u014bk/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word begins with /kl/?",
@@ -524,7 +534,9 @@
         "kite"
       ],
       "answer": 0,
-      "solution": "<i>Clean</i>."
+      "solution": "<i>Clean</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word begins with /gl/?",
@@ -535,7 +547,9 @@
         "goat"
       ],
       "answer": 0,
-      "solution": "<i>Glass</i>."
+      "solution": "<i>Glass</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which pattern is impossible in English initial clusters?",
@@ -546,43 +560,51 @@
         "/pl/"
       ],
       "answer": 2,
-      "solution": "/ts/ does not begin English syllables (only across boundaries)."
+      "solution": "/ts/ does not begin English syllables (only across boundaries).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The vowel in <i>fear</i> is:",
       "options": [
-        "/ɪə/",
-        "/eə/",
-        "/ʊə/",
-        "/aɪ/"
+        "/\u026a\u0259/",
+        "/e\u0259/",
+        "/\u028a\u0259/",
+        "/a\u026a/"
       ],
       "answer": 0,
-      "solution": "/ɪə/."
+      "solution": "/\u026a\u0259/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The vowel in <i>care</i> is:",
       "options": [
-        "/ɪə/",
-        "/eə/",
-        "/ʊə/",
-        "/əʊ/"
+        "/\u026a\u0259/",
+        "/e\u0259/",
+        "/\u028a\u0259/",
+        "/\u0259\u028a/"
       ],
       "answer": 1,
-      "solution": "/eə/."
+      "solution": "/e\u0259/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The vowel in <i>tour</i> is:",
       "options": [
-        "/ɪə/",
-        "/eə/",
-        "/ʊə/",
-        "/aʊ/"
+        "/\u026a\u0259/",
+        "/e\u0259/",
+        "/\u028a\u0259/",
+        "/a\u028a/"
       ],
       "answer": 2,
-      "solution": "/ʊə/."
+      "solution": "/\u028a\u0259/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which word contains the triphthong /aɪə/?",
+      "q": "Which word contains the triphthong /a\u026a\u0259/?",
       "options": [
         "fire",
         "fair",
@@ -590,7 +612,113 @@
         "for"
       ],
       "answer": 0,
-      "solution": "<i>Fire</i>."
+      "solution": "<i>Fire</i>.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Oral English: Which word ends with the /z/ sound?",
+      "options": [
+        "Cats",
+        "Books",
+        "Dogs",
+        "Maps"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Dogs.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Oral: Emphatic stress. 'TOM bought a new car.'",
+      "options": [
+        "Did John buy a new car?",
+        "Did Tom sell a new car?",
+        "Did Tom buy an old car?",
+        "Did Tom buy a new house?"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Did John buy a new car?.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Oral: Consonant sound in 'Sing'",
+      "options": [
+        "/n/",
+        "/\u014b/",
+        "/g/",
+        "/k/"
+      ],
+      "answer": 1,
+      "solution": "Past question (NECO 2025). Correct answer: /\u014b/.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Oral: Stress in 'PHOtograph'",
+      "options": [
+        "1st syllable",
+        "2nd syllable",
+        "3rd syllable",
+        "4th syllable"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 1st syllable.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Oral: Consonant sound in 'Think'",
+      "options": [
+        "/\u00f0/",
+        "/\u03b8/",
+        "/t/",
+        "/f/"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: /\u03b8/.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "He is good <u>______</u> English.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "with"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: at.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Oral: Vowel sound in 'Girl'",
+      "options": [
+        "/e/",
+        "/\u025c\u02d0/",
+        "/i:/",
+        "/\u00e6/"
+      ],
+      "answer": 1,
+      "solution": "Past question (NECO 2025). Correct answer: /\u025c\u02d0/.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Oral: Vowel sound in 'Pot'",
+      "options": [
+        "/\u0252/",
+        "/\u0254\u02d0/",
+        "/u/",
+        "/\u028c/"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: /\u0252/.",
+      "source": "WAEC 2025",
+      "practice": false
     }
   ]
 }

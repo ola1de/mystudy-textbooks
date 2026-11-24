@@ -1,235 +1,750 @@
 {
- "subject": "Geography",
- "level": "SSS 2",
- "slug": "practical-relief-contours",
- "title": "Practical Relief and Contours",
- "outline": [
-  "Methods of representing relief on maps",
-  "Contours, contour interval and vertical exaggeration",
-  "Recognition of relief features from contour patterns",
-  "Drawing cross-sections and profiles",
-  "Gradient calculation and intervisibility",
-  "Drainage on topographical maps",
-  "Relationship between relief, drainage, settlement and landuse",
-  "Interpretation of relief for human activities"
- ],
- "modules": [
-  {
-   "title": "Representing Relief and Reading Contours",
-   "html": "\n<h4>Methods of Showing Relief</h4>\n<ol>\n<li><strong>Contours</strong> - lines joining points of equal height above sea level; the most accurate and most widely used method.</li>\n<li><strong>Spot heights</strong> and <strong>trigonometrical stations</strong> - exact heights at a point.</li>\n<li><strong>Hachures</strong> - short lines drawn down the slope; thick and close for steep slopes.</li>\n<li><strong>Layer (hypsometric) tinting</strong> - colour bands for height ranges: green lowlands, yellow and brown uplands, purple or white for very high land.</li>\n<li><strong>Hill shading</strong> and <strong>form lines</strong> - pictorial impressions of relief.</li>\n</ol>\n<h4>Contour Rules</h4>\n<ul>\n<li>Contours never cross one another, except at an overhanging cliff.</li>\n<li>Closely spaced contours indicate a steep slope; widely spaced contours indicate a gentle slope.</li>\n<li>Evenly spaced contours indicate a uniform slope.</li>\n<li>V-shaped contours pointing upstream indicate a valley; rounded contours pointing downhill indicate a spur.</li>\n<li>Closed contours with increasing values represent a hill; with hachured inward ticks they represent a depression.</li>\n</ul>\n<h4>Recognising Relief Features</h4>\n<table class=\"tb-table\"><tr><th>Feature</th><th>Contour pattern</th></tr>\n<tr><td>Conical hill</td><td>Small evenly spaced concentric rings</td></tr>\n<tr><td>Ridge</td><td>Elongated concentric contours with a narrow crest</td></tr>\n<tr><td>Plateau</td><td>Widely spaced contours enclosing a large flat summit, steep at the edges</td></tr>\n<tr><td>Escarpment (cuesta)</td><td>Contours close on one side (scarp) and far apart on the other (dip slope)</td></tr>\n<tr><td>Col / saddle</td><td>A gap between two areas of high ground</td></tr>\n<tr><td>Valley</td><td>V-shaped contours pointing to higher ground, often with a river</td></tr>\n<tr><td>Convex slope</td><td>Contours far apart at the top, closer at the base</td></tr>\n<tr><td>Concave slope</td><td>Contours close at the top, wider at the base</td></tr></table>\n<h4>Gradient</h4>\n<p>Gradient compares vertical rise with horizontal distance, both in the same units:</p>\n$$\\text{Gradient} = \\frac{\\text{Vertical interval (V.I.)}}{\\text{Horizontal equivalent (H.E.)}} = 1 \\text{ in } n$$\n<p>Both measurements must be converted to metres before the ratio is simplified.</p>\n",
-   "examples": [
+  "subject": "Geography",
+  "level": "SSS 2",
+  "slug": "practical-relief-contours",
+  "title": "Practical Relief and Contours",
+  "outline": [
+    "Methods of representing relief on maps",
+    "Contours, contour interval and vertical exaggeration",
+    "Recognition of relief features from contour patterns",
+    "Drawing cross-sections and profiles",
+    "Gradient calculation and intervisibility",
+    "Drainage on topographical maps",
+    "Relationship between relief, drainage, settlement and landuse",
+    "Interpretation of relief for human activities"
+  ],
+  "modules": [
     {
-     "q": "On a 1:50,000 map, a hill top of 420 m lies 4 cm from a point at 120 m. Calculate the gradient.",
-     "a": "Vertical interval \\(=420-120 = 300\\text{ m}\\). Horizontal equivalent: 1 cm = 0.5 km, so \\(4\\text{ cm} = 2\\text{ km} = 2000\\text{ m}\\). Gradient \\(= \\dfrac{300}{2000} = \\dfrac{1}{6.67}\\), i.e. approximately <strong>1 in 6.7</strong>."
+      "title": "Representing Relief and Reading Contours",
+      "html": "\n<h4>Methods of Showing Relief</h4>\n<ol>\n<li><strong>Contours</strong> - lines joining points of equal height above sea level; the most accurate and most widely used method.</li>\n<li><strong>Spot heights</strong> and <strong>trigonometrical stations</strong> - exact heights at a point.</li>\n<li><strong>Hachures</strong> - short lines drawn down the slope; thick and close for steep slopes.</li>\n<li><strong>Layer (hypsometric) tinting</strong> - colour bands for height ranges: green lowlands, yellow and brown uplands, purple or white for very high land.</li>\n<li><strong>Hill shading</strong> and <strong>form lines</strong> - pictorial impressions of relief.</li>\n</ol>\n<h4>Contour Rules</h4>\n<ul>\n<li>Contours never cross one another, except at an overhanging cliff.</li>\n<li>Closely spaced contours indicate a steep slope; widely spaced contours indicate a gentle slope.</li>\n<li>Evenly spaced contours indicate a uniform slope.</li>\n<li>V-shaped contours pointing upstream indicate a valley; rounded contours pointing downhill indicate a spur.</li>\n<li>Closed contours with increasing values represent a hill; with hachured inward ticks they represent a depression.</li>\n</ul>\n<h4>Recognising Relief Features</h4>\n<table class=\"tb-table\"><tr><th>Feature</th><th>Contour pattern</th></tr>\n<tr><td>Conical hill</td><td>Small evenly spaced concentric rings</td></tr>\n<tr><td>Ridge</td><td>Elongated concentric contours with a narrow crest</td></tr>\n<tr><td>Plateau</td><td>Widely spaced contours enclosing a large flat summit, steep at the edges</td></tr>\n<tr><td>Escarpment (cuesta)</td><td>Contours close on one side (scarp) and far apart on the other (dip slope)</td></tr>\n<tr><td>Col / saddle</td><td>A gap between two areas of high ground</td></tr>\n<tr><td>Valley</td><td>V-shaped contours pointing to higher ground, often with a river</td></tr>\n<tr><td>Convex slope</td><td>Contours far apart at the top, closer at the base</td></tr>\n<tr><td>Concave slope</td><td>Contours close at the top, wider at the base</td></tr></table>\n<h4>Gradient</h4>\n<p>Gradient compares vertical rise with horizontal distance, both in the same units:</p>\n$$\\text{Gradient} = \\frac{\\text{Vertical interval (V.I.)}}{\\text{Horizontal equivalent (H.E.)}} = 1 \\text{ in } n$$\n<p>Both measurements must be converted to metres before the ratio is simplified.</p>\n",
+      "examples": [
+        {
+          "q": "On a 1:50,000 map, a hill top of 420 m lies 4 cm from a point at 120 m. Calculate the gradient.",
+          "a": "Vertical interval \\(=420-120 = 300\\text{ m}\\). Horizontal equivalent: 1 cm = 0.5 km, so \\(4\\text{ cm} = 2\\text{ km} = 2000\\text{ m}\\). Gradient \\(= \\dfrac{300}{2000} = \\dfrac{1}{6.67}\\), i.e. approximately <strong>1 in 6.7</strong>."
+        },
+        {
+          "q": "How can you tell an escarpment from a ridge on a contour map?",
+          "a": "An escarpment (cuesta) is asymmetrical: contours are very close together on one side, showing the steep scarp face, and widely spaced on the other, showing the gentle dip slope. A ridge is a narrow elongated upland whose contours are fairly close on both flanks, giving a roughly symmetrical cross-profile with a well-defined crest line."
+        }
+      ]
     },
     {
-     "q": "How can you tell an escarpment from a ridge on a contour map?",
-     "a": "An escarpment (cuesta) is asymmetrical: contours are very close together on one side, showing the steep scarp face, and widely spaced on the other, showing the gentle dip slope. A ridge is a narrow elongated upland whose contours are fairly close on both flanks, giving a roughly symmetrical cross-profile with a well-defined crest line."
-    }
-   ]
-  },
-  {
-   "title": "Cross-Sections, Vertical Exaggeration and Intervisibility",
-   "html": "\n<h4>Drawing a Cross-Section</h4>\n<ol>\n<li>Join the two given points with a straight line and lay the edge of a strip of paper along it.</li>\n<li>Mark on the paper every point where a contour, river, road or railway crosses, and write its value.</li>\n<li>Draw a horizontal base line of the same length and a vertical axis with a suitable vertical scale, e.g. 1 cm to 100 m.</li>\n<li>Transfer each mark, plot its height, and join the points with a smooth free-hand curve.</li>\n<li>Title the section, state both scales and the vertical exaggeration, and annotate the features.</li>\n</ol>\n<h4>Vertical Exaggeration</h4>\n<p>Because relief is small compared with horizontal distance, the vertical scale is exaggerated:</p>\n$$\\text{V.E.} = \\frac{\\text{Vertical scale}}{\\text{Horizontal scale}}$$\n<p>Both scales must first be expressed as representative fractions with the same units. Exaggeration makes relief clearer, but too much of it produces unnaturally steep and misleading slopes.</p>\n<h4>Intervisibility</h4>\n<p>Two points are <strong>intervisible</strong> if an unbroken line of sight can be drawn between them on the cross-section. Visibility is obstructed by intervening higher ground, a convex slope, a ridge, thick forest or tall buildings, but is aided by concave slopes, uniform slopes falling away from the observer and greater observer height.</p>\n<h4>Drainage Interpretation</h4>\n<p>On a topographical map, note the main river and its tributaries, the drainage pattern and density, the direction of flow (V-shaped contours point upstream; tributaries join at acute angles pointing downstream), and features such as rapids, swamps, deltas or braiding. High drainage density suggests impermeable rock and heavy rainfall; low density suggests permeable rock such as limestone or sand.</p>\n<h4>Relief, Drainage, Settlement and Landuse</h4>\n<p>Relief and drainage influence human activity: settlements avoid steep slopes and flood plains, concentrating on gentle terraces, dry points and river confluences; roads and railways follow valleys, cols and gentle gradients; farming occupies fertile lowlands and terraces; forestry and grazing occupy steep upland slopes; and reservoirs are sited in narrow valleys with resistant rock.</p>\n",
-   "examples": [
-    {
-     "q": "A cross-section has a horizontal scale of 1:50,000 and a vertical scale of 1 cm to 100 m. Calculate the vertical exaggeration.",
-     "a": "Vertical scale as an R.F.: \\(100\\text{ m} = 10{,}000\\text{ cm}\\), so \\(1{:}10{,}000\\). Then \\(\\text{V.E.} = \\dfrac{1/10{,}000}{1/50{,}000} = \\dfrac{50{,}000}{10{,}000} = 5\\). The vertical scale is exaggerated <strong>5 times</strong>."
+      "title": "Cross-Sections, Vertical Exaggeration and Intervisibility",
+      "html": "\n<h4>Drawing a Cross-Section</h4>\n<ol>\n<li>Join the two given points with a straight line and lay the edge of a strip of paper along it.</li>\n<li>Mark on the paper every point where a contour, river, road or railway crosses, and write its value.</li>\n<li>Draw a horizontal base line of the same length and a vertical axis with a suitable vertical scale, e.g. 1 cm to 100 m.</li>\n<li>Transfer each mark, plot its height, and join the points with a smooth free-hand curve.</li>\n<li>Title the section, state both scales and the vertical exaggeration, and annotate the features.</li>\n</ol>\n<h4>Vertical Exaggeration</h4>\n<p>Because relief is small compared with horizontal distance, the vertical scale is exaggerated:</p>\n$$\\text{V.E.} = \\frac{\\text{Vertical scale}}{\\text{Horizontal scale}}$$\n<p>Both scales must first be expressed as representative fractions with the same units. Exaggeration makes relief clearer, but too much of it produces unnaturally steep and misleading slopes.</p>\n<h4>Intervisibility</h4>\n<p>Two points are <strong>intervisible</strong> if an unbroken line of sight can be drawn between them on the cross-section. Visibility is obstructed by intervening higher ground, a convex slope, a ridge, thick forest or tall buildings, but is aided by concave slopes, uniform slopes falling away from the observer and greater observer height.</p>\n<h4>Drainage Interpretation</h4>\n<p>On a topographical map, note the main river and its tributaries, the drainage pattern and density, the direction of flow (V-shaped contours point upstream; tributaries join at acute angles pointing downstream), and features such as rapids, swamps, deltas or braiding. High drainage density suggests impermeable rock and heavy rainfall; low density suggests permeable rock such as limestone or sand.</p>\n<h4>Relief, Drainage, Settlement and Landuse</h4>\n<p>Relief and drainage influence human activity: settlements avoid steep slopes and flood plains, concentrating on gentle terraces, dry points and river confluences; roads and railways follow valleys, cols and gentle gradients; farming occupies fertile lowlands and terraces; forestry and grazing occupy steep upland slopes; and reservoirs are sited in narrow valleys with resistant rock.</p>\n",
+      "examples": [
+        {
+          "q": "A cross-section has a horizontal scale of 1:50,000 and a vertical scale of 1 cm to 100 m. Calculate the vertical exaggeration.",
+          "a": "Vertical scale as an R.F.: \\(100\\text{ m} = 10{,}000\\text{ cm}\\), so \\(1{:}10{,}000\\). Then \\(\\text{V.E.} = \\dfrac{1/10{,}000}{1/50{,}000} = \\dfrac{50{,}000}{10{,}000} = 5\\). The vertical scale is exaggerated <strong>5 times</strong>."
+        },
+        {
+          "q": "State three reasons why two points on a map may not be intervisible.",
+          "a": "(i) A hill, ridge or spur of greater height stands between them and blocks the line of sight; (ii) the intervening slope is convex, so the ground bulges above the straight line joining the two points; (iii) obstacles such as dense forest, plantations or tall buildings lie in the line of sight. A cross-section drawn between the points confirms the obstruction."
+        }
+      ]
     },
     {
-     "q": "State three reasons why two points on a map may not be intervisible.",
-     "a": "(i) A hill, ridge or spur of greater height stands between them and blocks the line of sight; (ii) the intervening slope is convex, so the ground bulges above the straight line joining the two points; (iii) obstacles such as dense forest, plantations or tall buildings lie in the line of sight. A cross-section drawn between the points confirms the obstruction."
+      "title": "Contours, contour interval and vertical exaggeration",
+      "html": "<p><b>Contours, contour interval and vertical exaggeration</b> is a key part of Practical Relief and Contours (SSS 2, Geography). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Methods of Showing Relief Contours - lines joining points of equal height above sea level; the most accurate and most widely used method.</li><li>Contour Rules Contours never cross one another, except at an overhanging cliff.</li><li>Closely spaced contours indicate a steep slope; widely spaced contours indicate a gentle slope.</li><li>Evenly spaced contours indicate a uniform slope.</li><li>V-shaped contours pointing upstream indicate a valley; rounded contours pointing downhill indicate a spur.</li></ul><h4>Worked example</h4><p><b>Q:</b> Contours are lines joining places of equal<br/><b>A:</b> height above sea level \u2014 Isohyets join rainfall, isotherms temperature; contours join equal heights.</p><p><b>Q:</b> Closely spaced contours indicate<br/><b>A:</b> a steep slope \u2014 The height changes rapidly over a short horizontal distance.</p>",
+      "examples": [
+        {
+          "q": "Contours are lines joining places of equal",
+          "a": "height above sea level \u2014 Isohyets join rainfall, isotherms temperature; contours join equal heights."
+        },
+        {
+          "q": "Closely spaced contours indicate",
+          "a": "a steep slope \u2014 The height changes rapidly over a short horizontal distance."
+        }
+      ]
+    },
+    {
+      "title": "Recognition of relief features from contour patterns",
+      "html": "<p><b>Recognition of relief features from contour patterns</b> is a key part of Practical Relief and Contours (SSS 2, Geography). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Methods of Showing Relief Contours - lines joining points of equal height above sea level; the most accurate and most widely used method.</li><li>Hill shading and form lines - pictorial impressions of relief.</li><li>Contour Rules Contours never cross one another, except at an overhanging cliff.</li><li>Closely spaced contours indicate a steep slope; widely spaced contours indicate a gentle slope.</li><li>Evenly spaced contours indicate a uniform slope.</li></ul><h4>Worked example</h4><p><b>Q:</b> The method of showing relief using colour bands for height ranges is called<br/><b>A:</b> layer tinting \u2014 Layer or hypsometric tinting uses green, yellow, brown and purple bands.</p><p><b>Q:</b> Which relief feature is shown by widely spaced contours enclosing a large flat summit with steep edges?<br/><b>A:</b> Plateau \u2014 A plateau is an extensive elevated flat land bounded by steep slopes.</p>",
+      "examples": [
+        {
+          "q": "The method of showing relief using colour bands for height ranges is called",
+          "a": "layer tinting \u2014 Layer or hypsometric tinting uses green, yellow, brown and purple bands."
+        },
+        {
+          "q": "Which relief feature is shown by widely spaced contours enclosing a large flat summit with steep edges?",
+          "a": "Plateau \u2014 A plateau is an extensive elevated flat land bounded by steep slopes."
+        }
+      ]
+    },
+    {
+      "title": "Gradient calculation and intervisibility",
+      "html": "<p><b>Gradient calculation and intervisibility</b> is a key part of Practical Relief and Contours (SSS 2, Geography). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Recognising Relief Features Feature Contour pattern Conical hill Small evenly spaced concentric rings Ridge Elongated concentric contours with a narrow crest Plateau Widely spaced contours enclosing a large flat summit, steep at the edges Escarpment (cuesta) Contours close on one side (scarp) and far apart on the other (dip slope) Col / saddle A gap between two areas of high ground Valley V-shaped contours pointing to higher ground, often with a river Convex slope Contours far apart at the top, closer at the base Concave slope Contours close at the top, wider at the base Gradient Gradient compares vertical rise with horizontal distance, both in the same units: $$\\text{Gradient} = \\frac{\\text{Vertical interval (V.I.)}}{\\text{Horizontal equivalent (H.E.)}} = 1 \\text{ in } n$$ Both measurements must be converted to metres before the ratio is simplified.</li><li>Intervisibility Two points are intervisible if an unbroken line of sight can be drawn between them on the cross-section.</li><li>Relief, Drainage, Settlement and Landuse Relief and drainage influence human activity: settlements avoid steep slopes and flood plains, concentrating on gentle terraces, dry points and river confluences; roads and railways follow valleys, cols and gentle gradients; farming occupies fertile lowlands and terraces; forestry and grazing occupy steep upland slopes; and reservoirs are sited in narrow valleys with resistant rock.</li></ul><h4>Worked example</h4><p><b>Q:</b> If the vertical interval is 200 m and the horizontal equivalent is 4,000 m, the gradient is<br/><b>A:</b> 1 in 20 \u2014 200/4000 simplifies to 1 in 20.</p>",
+      "examples": [
+        {
+          "q": "If the vertical interval is 200 m and the horizontal equivalent is 4,000 m, the gradient is",
+          "a": "1 in 20 \u2014 200/4000 simplifies to 1 in 20."
+        }
+      ]
+    },
+    {
+      "title": "Drainage on topographical maps",
+      "html": "<p><b>Drainage on topographical maps</b> is a key part of Practical Relief and Contours (SSS 2, Geography). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Drainage Interpretation On a topographical map, note the main river and its tributaries, the drainage pattern and density, the direction of flow (V-shaped contours point upstream; tributaries join at acute angles pointing downstream), and features such as rapids, swamps, deltas or braiding.</li><li>High drainage density suggests impermeable rock and heavy rainfall; low density suggests permeable rock such as limestone or sand.</li><li>Relief, Drainage, Settlement and Landuse Relief and drainage influence human activity: settlements avoid steep slopes and flood plains, concentrating on gentle terraces, dry points and river confluences; roads and railways follow valleys, cols and gentle gradients; farming occupies fertile lowlands and terraces; forestry and grazing occupy steep upland slopes; and reservoirs are sited in narrow valleys with resistant rock.</li></ul><h4>Worked example</h4><p><b>Q:</b> A drainage pattern with a very high density usually suggests<br/><b>A:</b> impermeable rock and heavy rainfall \u2014 Impermeable rocks encourage surface run-off and many channels.</p><p><b>Q:</b> Settlements on a topographical map are commonly sited<br/><b>A:</b> at dry points near water supply and gentle land \u2014 People choose sites with water nearby but safe from flooding, on land easy to build on.</p>",
+      "examples": [
+        {
+          "q": "A drainage pattern with a very high density usually suggests",
+          "a": "impermeable rock and heavy rainfall \u2014 Impermeable rocks encourage surface run-off and many channels."
+        },
+        {
+          "q": "Settlements on a topographical map are commonly sited",
+          "a": "at dry points near water supply and gentle land \u2014 People choose sites with water nearby but safe from flooding, on land easy to build on."
+        }
+      ]
     }
-   ]
-  }
- ],
- "quiz": [
-  {
-   "q": "Contours are lines joining places of equal",
-   "options": [
-    "temperature",
-    "rainfall",
-    "height above sea level",
-    "pressure"
-   ],
-   "answer": "2",
-   "solution": "Isohyets join rainfall, isotherms temperature; contours join equal heights."
-  },
-  {
-   "q": "Closely spaced contours indicate",
-   "options": [
-    "a gentle slope",
-    "a steep slope",
-    "a flat plain",
-    "a depression"
-   ],
-   "answer": "1",
-   "solution": "The height changes rapidly over a short horizontal distance."
-  },
-  {
-   "q": "The method of showing relief using colour bands for height ranges is called",
-   "options": [
-    "hachuring",
-    "layer tinting",
-    "hill shading",
-    "spot heighting"
-   ],
-   "answer": "1",
-   "solution": "Layer or hypsometric tinting uses green, yellow, brown and purple bands."
-  },
-  {
-   "q": "The vertical difference in height between two successive contours is the",
-   "options": [
-    "gradient",
-    "contour interval",
-    "vertical exaggeration",
-    "amplitude of relief"
-   ],
-   "answer": "1",
-   "solution": "It is stated in the map margin, commonly 30 m or 50 m."
-  },
-  {
-   "q": "A gap between two hills through which a road may pass is a",
-   "options": [
-    "spur",
-    "col",
-    "cuesta",
-    "gorge"
-   ],
-   "answer": "1",
-   "solution": "A col or saddle is a low point on a ridge between two summits."
-  },
-  {
-   "q": "V-shaped contours pointing towards higher ground indicate",
-   "options": [
-    "a spur",
-    "a valley",
-    "a plateau",
-    "a cliff"
-   ],
-   "answer": "1",
-   "solution": "The V opens downstream, so the apex points upstream to higher land."
-  },
-  {
-   "q": "An escarpment is recognised on a map by contours that are",
-   "options": [
-    "evenly spaced",
-    "close on one side and wide on the other",
-    "concentric and circular",
-    "absent"
-   ],
-   "answer": "1",
-   "solution": "The steep scarp face contrasts with the gentle dip slope."
-  },
-  {
-   "q": "If the vertical interval is 200 m and the horizontal equivalent is 4,000 m, the gradient is",
-   "options": [
-    "1 in 5",
-    "1 in 20",
-    "1 in 200",
-    "1 in 800"
-   ],
-   "answer": "1",
-   "solution": "200/4000 simplifies to 1 in 20."
-  },
-  {
-   "q": "Vertical exaggeration is obtained by dividing the",
-   "options": [
-    "horizontal scale by the vertical scale",
-    "vertical scale by the horizontal scale",
-    "contour interval by the gradient",
-    "height by the distance"
-   ],
-   "answer": "1",
-   "solution": "Both scales must be expressed as representative fractions first."
-  },
-  {
-   "q": "With a horizontal scale of 1:100,000 and a vertical scale of 1 cm to 200 m, the vertical exaggeration is",
-   "options": [
-    "2",
-    "5",
-    "10",
-    "20"
-   ],
-   "answer": "1",
-   "solution": "200 m = 20,000 cm, so 100,000/20,000 = 5."
-  },
-  {
-   "q": "Two points are said to be intervisible when",
-   "options": [
-    "they lie at the same height",
-    "an unbroken line of sight joins them",
-    "they are on the same contour",
-    "a river separates them"
-   ],
-   "answer": "1",
-   "solution": "A cross-section is drawn to test whether the sight line is blocked."
-  },
-  {
-   "q": "A convex slope is shown by contours that are",
-   "options": [
-    "close at the top and wide at the base",
-    "wide at the top and close at the base",
-    "evenly spaced",
-    "concentric"
-   ],
-   "answer": "1",
-   "solution": "The slope steepens downhill, so contours crowd near the base."
-  },
-  {
-   "q": "On a map, a river's direction of flow can be deduced from",
-   "options": [
-    "the colour of the contours",
-    "the V of contours and the angle of tributary junctions",
-    "the map title",
-    "the grid reference"
-   ],
-   "answer": "1",
-   "solution": "Tributaries join at acute angles pointing downstream."
-  },
-  {
-   "q": "A drainage pattern with a very high density usually suggests",
-   "options": [
-    "permeable rock",
-    "impermeable rock and heavy rainfall",
-    "desert conditions",
-    "limestone country"
-   ],
-   "answer": "1",
-   "solution": "Impermeable rocks encourage surface run-off and many channels."
-  },
-  {
-   "q": "Settlements on a topographical map are commonly sited",
-   "options": [
-    "on the steepest slopes",
-    "along flood plains subject to annual flooding",
-    "at dry points near water supply and gentle land",
-    "on cliff faces"
-   ],
-   "answer": "2",
-   "solution": "People choose sites with water nearby but safe from flooding, on land easy to build on."
-  },
-  {
-   "q": "Which relief feature is shown by widely spaced contours enclosing a large flat summit with steep edges?",
-   "options": [
-    "Conical hill",
-    "Plateau",
-    "Ridge",
-    "Col"
-   ],
-   "answer": "1",
-   "solution": "A plateau is an extensive elevated flat land bounded by steep slopes."
-  },
-  {
-   "q": "Hachures are best described as",
-   "options": [
-    "dots showing height",
-    "short lines drawn along the direction of slope",
-    "coloured bands",
-    "contour labels"
-   ],
-   "answer": "1",
-   "solution": "Thick, closely drawn hachures indicate steep slopes."
-  }
- ]
+  ],
+  "quiz": [
+    {
+      "q": "Contours are lines joining places of equal",
+      "options": [
+        "temperature",
+        "rainfall",
+        "height above sea level",
+        "pressure"
+      ],
+      "answer": 2,
+      "solution": "Isohyets join rainfall, isotherms temperature; contours join equal heights.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Closely spaced contours indicate",
+      "options": [
+        "a gentle slope",
+        "a steep slope",
+        "a flat plain",
+        "a depression"
+      ],
+      "answer": 1,
+      "solution": "The height changes rapidly over a short horizontal distance.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The method of showing relief using colour bands for height ranges is called",
+      "options": [
+        "hachuring",
+        "layer tinting",
+        "hill shading",
+        "spot heighting"
+      ],
+      "answer": 1,
+      "solution": "Layer or hypsometric tinting uses green, yellow, brown and purple bands.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The vertical difference in height between two successive contours is the",
+      "options": [
+        "gradient",
+        "contour interval",
+        "vertical exaggeration",
+        "amplitude of relief"
+      ],
+      "answer": 1,
+      "solution": "It is stated in the map margin, commonly 30 m or 50 m.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A gap between two hills through which a road may pass is a",
+      "options": [
+        "spur",
+        "col",
+        "cuesta",
+        "gorge"
+      ],
+      "answer": 1,
+      "solution": "A col or saddle is a low point on a ridge between two summits.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "V-shaped contours pointing towards higher ground indicate",
+      "options": [
+        "a spur",
+        "a valley",
+        "a plateau",
+        "a cliff"
+      ],
+      "answer": 1,
+      "solution": "The V opens downstream, so the apex points upstream to higher land.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "An escarpment is recognised on a map by contours that are",
+      "options": [
+        "evenly spaced",
+        "close on one side and wide on the other",
+        "concentric and circular",
+        "absent"
+      ],
+      "answer": 1,
+      "solution": "The steep scarp face contrasts with the gentle dip slope.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "If the vertical interval is 200 m and the horizontal equivalent is 4,000 m, the gradient is",
+      "options": [
+        "1 in 5",
+        "1 in 20",
+        "1 in 200",
+        "1 in 800"
+      ],
+      "answer": 1,
+      "solution": "200/4000 simplifies to 1 in 20.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Vertical exaggeration is obtained by dividing the",
+      "options": [
+        "horizontal scale by the vertical scale",
+        "vertical scale by the horizontal scale",
+        "contour interval by the gradient",
+        "height by the distance"
+      ],
+      "answer": 1,
+      "solution": "Both scales must be expressed as representative fractions first.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "With a horizontal scale of 1:100,000 and a vertical scale of 1 cm to 200 m, the vertical exaggeration is",
+      "options": [
+        "2",
+        "5",
+        "10",
+        "20"
+      ],
+      "answer": 1,
+      "solution": "200 m = 20,000 cm, so 100,000/20,000 = 5.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Two points are said to be intervisible when",
+      "options": [
+        "they lie at the same height",
+        "an unbroken line of sight joins them",
+        "they are on the same contour",
+        "a river separates them"
+      ],
+      "answer": 1,
+      "solution": "A cross-section is drawn to test whether the sight line is blocked.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A convex slope is shown by contours that are",
+      "options": [
+        "close at the top and wide at the base",
+        "wide at the top and close at the base",
+        "evenly spaced",
+        "concentric"
+      ],
+      "answer": 1,
+      "solution": "The slope steepens downhill, so contours crowd near the base.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "On a map, a river's direction of flow can be deduced from",
+      "options": [
+        "the colour of the contours",
+        "the V of contours and the angle of tributary junctions",
+        "the map title",
+        "the grid reference"
+      ],
+      "answer": 1,
+      "solution": "Tributaries join at acute angles pointing downstream.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A drainage pattern with a very high density usually suggests",
+      "options": [
+        "permeable rock",
+        "impermeable rock and heavy rainfall",
+        "desert conditions",
+        "limestone country"
+      ],
+      "answer": 1,
+      "solution": "Impermeable rocks encourage surface run-off and many channels.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Settlements on a topographical map are commonly sited",
+      "options": [
+        "on the steepest slopes",
+        "along flood plains subject to annual flooding",
+        "at dry points near water supply and gentle land",
+        "on cliff faces"
+      ],
+      "answer": 2,
+      "solution": "People choose sites with water nearby but safe from flooding, on land easy to build on.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which relief feature is shown by widely spaced contours enclosing a large flat summit with steep edges?",
+      "options": [
+        "Conical hill",
+        "Plateau",
+        "Ridge",
+        "Col"
+      ],
+      "answer": 1,
+      "solution": "A plateau is an extensive elevated flat land bounded by steep slopes.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Hachures are best described as",
+      "options": [
+        "dots showing height",
+        "short lines drawn along the direction of slope",
+        "coloured bands",
+        "contour labels"
+      ],
+      "answer": 1,
+      "solution": "Thick, closely drawn hachures indicate steep slopes.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Relief rain (Orographic):",
+      "options": [
+        "Mountain",
+        "Convection",
+        "Frontal",
+        "Cyclonic"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Mountain.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Contours represent:",
+      "options": [
+        "Depth",
+        "Height/Relief",
+        "Pressure",
+        "Temperature"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Height/Relief.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Contours are lines connecting points of equal:",
+      "options": [
+        "Rainfall",
+        "Elevation/Height",
+        "Pressure",
+        "Depth"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Elevation/Height.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Relief rain:",
+      "options": [
+        "Mountain",
+        "Convection",
+        "Frontal",
+        "Cyclonic"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Mountain.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Relief rainfall is also known as?",
+      "options": [
+        "Convectional rainfall",
+        "Orographic rainfall",
+        "Cyclonic rainfall",
+        "Frontal rainfall"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Orographic rainfall.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Widely spaced contours indicate a?",
+      "options": [
+        "Steep slope",
+        "Cliff",
+        "Valley",
+        "Gentle slope"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Gentle slope.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Closely spaced contours indicate a?",
+      "options": [
+        "Steep slope",
+        "Plain",
+        "Plateau",
+        "Ridge"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Steep slope.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "V-shaped contours pointing towards higher ground indicate a?",
+      "options": [
+        "Spur",
+        "Valley",
+        "Hill",
+        "Plateau"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Valley.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "V-shaped contours pointing towards lower ground indicate a?",
+      "options": [
+        "Spur",
+        "Valley",
+        "Basin",
+        "Sinkhole"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Spur.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The most extensive relief feature in Nigeria is the?",
+      "options": [
+        "Jos Plateau",
+        "Niger Delta",
+        "High Plains of Hausaland",
+        "Obudu Plateau"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: High Plains of Hausaland.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Zeugens and Yardangs are features produced by...",
+      "options": [
+        "River erosion",
+        "Glacial erosion",
+        "Wind erosion",
+        "Marine erosion"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Wind erosion.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Ox-bow lakes are features of:",
+      "options": [
+        "Upper course of river",
+        "Lower course of river",
+        "Desert",
+        "Glacier"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Lower course of river.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Contour lines:",
+      "options": [
+        "Equal Height",
+        "Depth",
+        "Rain",
+        "Temp"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Equal Height.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The vertical section of soil from the surface to the bedrock is?",
+      "options": [
+        "Soil Profile",
+        "Soil Texture",
+        "Soil Structure",
+        "Soil Catena"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Soil Profile.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The boundary between two drainage basins is a?",
+      "options": [
+        "Watershed",
+        "River bank",
+        "Tributary",
+        "Distributary"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Watershed.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A settlement primarily engaged in agriculture is?",
+      "options": [
+        "Urban",
+        "Rural",
+        "Conurbation",
+        "Megalopolis"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Rural.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\"Contour lines\" join places of equal?",
+      "options": [
+        "Temperature",
+        "Height above sea level",
+        "Rainfall",
+        "Pressure"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Height above sea level.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A \"Surveying\" instrument used for measuring vertical angles is a?",
+      "options": [
+        "Theodolite",
+        "Chain",
+        "Tape",
+        "Level"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Theodolite.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\"Dot Maps\" show?",
+      "options": [
+        "Distribution",
+        "Total values",
+        "Borders",
+        "Routes"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Distribution.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\"Chloropleth Maps\" use?",
+      "options": [
+        "Dots",
+        "Lines",
+        "Shading to show density",
+        "Pictures"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Shading to show density.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Earth rotates from:",
+      "options": [
+        "West to East",
+        "East to West",
+        "North to South",
+        "South to North"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: West to East.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Isotherms connect equal:",
+      "options": [
+        "Temperature",
+        "Rainfall",
+        "Pressure",
+        "Sunshine"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Temperature.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Longitude 0 degrees is:",
+      "options": [
+        "Greenwich Meridian",
+        "Equator",
+        "Tropic of Cancer",
+        "Arctic Circle"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Greenwich Meridian.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Latitude 0 degrees is:",
+      "options": [
+        "Equator",
+        "Greenwich",
+        "Cancer",
+        "Capricorn"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Equator.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Ox-bow lake formed in:",
+      "options": [
+        "Lower course",
+        "Upper course",
+        "Middle course",
+        "Mountain"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Lower course.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Red Planet:",
+      "options": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Mars.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Largest Ocean:",
+      "options": [
+        "Pacific",
+        "Atlantic",
+        "Indian",
+        "Arctic"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Pacific.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Hottest planet:",
+      "options": [
+        "Venus",
+        "Mercury",
+        "Mars",
+        "Earth"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Venus.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "River Niger enters sea at:",
+      "options": [
+        "Delta",
+        "Lagos",
+        "Calabar",
+        "Benue"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Delta.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Confluence town:",
+      "options": [
+        "Lokoja",
+        "Kano",
+        "Ibadan",
+        "Kaduna"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Lokoja.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Jos Plateau mineral:",
+      "options": [
+        "Tin",
+        "Coal",
+        "Oil",
+        "Gold"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Tin.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Enugu mineral:",
+      "options": [
+        "Coal",
+        "Tin",
+        "Iron",
+        "Salt"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Coal.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Port Harcourt resource:",
+      "options": [
+        "Petroleum",
+        "Coal",
+        "Tin",
+        "Gold"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Petroleum.",
+      "source": "JAMB 2021",
+      "practice": false
+    }
+  ]
 }

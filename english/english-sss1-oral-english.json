@@ -4,25 +4,25 @@
   "slug": "oral-english",
   "title": "Oral English",
   "outline": [
-    "Pure vowels — short and long",
+    "Pure vowels \u2014 short and long",
     "Voiced and voiceless consonants",
     "Two-syllable word stress",
     "Stress shift between noun and verb"
   ],
   "modules": [
     {
-      "title": "Pure vowels — monophthongs",
-      "html": "<p>A <b>pure vowel</b> (or <b>monophthong</b>) is a vowel sound whose quality does not change during production. Received Pronunciation (RP) English has 12 pure vowels, divided into <b>short</b> and <b>long</b>.</p>\n      <h4>Short vowels (7)</h4>\n      <ul>\n        <li>/ɪ/ as in <i>bit, ship, live</i>.</li>\n        <li>/e/ as in <i>bed, said, head</i>.</li>\n        <li>/æ/ as in <i>cat, sad, hand</i>.</li>\n        <li>/ʌ/ as in <i>cup, love, done</i>.</li>\n        <li>/ɒ/ as in <i>hot, dog, want</i>.</li>\n        <li>/ʊ/ as in <i>put, foot, could</i>.</li>\n        <li>/ə/ (schwa) as in the <i>a</i> of <i>about</i>.</li>\n      </ul>\n      <h4>Long vowels (5)</h4>\n      <ul>\n        <li>/iː/ as in <i>see, meat, key</i>.</li>\n        <li>/ɑː/ as in <i>car, father, arm</i>.</li>\n        <li>/ɔː/ as in <i>saw, port, more</i>.</li>\n        <li>/uː/ as in <i>boot, soup, blue</i>.</li>\n        <li>/ɜː/ as in <i>bird, learn, work</i>.</li>\n      </ul>\n      <p>The two dots (ː) mark <b>length</b>. In an examination, expect to be asked to pick the word whose vowel matches a given symbol or another word.</p>",
+      "title": "Pure vowels \u2014 monophthongs",
+      "html": "<p>A <b>pure vowel</b> (or <b>monophthong</b>) is a vowel sound whose quality does not change during production. Received Pronunciation (RP) English has 12 pure vowels, divided into <b>short</b> and <b>long</b>.</p>\n      <h4>Short vowels (7)</h4>\n      <ul>\n        <li>/\u026a/ as in <i>bit, ship, live</i>.</li>\n        <li>/e/ as in <i>bed, said, head</i>.</li>\n        <li>/\u00e6/ as in <i>cat, sad, hand</i>.</li>\n        <li>/\u028c/ as in <i>cup, love, done</i>.</li>\n        <li>/\u0252/ as in <i>hot, dog, want</i>.</li>\n        <li>/\u028a/ as in <i>put, foot, could</i>.</li>\n        <li>/\u0259/ (schwa) as in the <i>a</i> of <i>about</i>.</li>\n      </ul>\n      <h4>Long vowels (5)</h4>\n      <ul>\n        <li>/i\u02d0/ as in <i>see, meat, key</i>.</li>\n        <li>/\u0251\u02d0/ as in <i>car, father, arm</i>.</li>\n        <li>/\u0254\u02d0/ as in <i>saw, port, more</i>.</li>\n        <li>/u\u02d0/ as in <i>boot, soup, blue</i>.</li>\n        <li>/\u025c\u02d0/ as in <i>bird, learn, work</i>.</li>\n      </ul>\n      <p>The two dots (\u02d0) mark <b>length</b>. In an examination, expect to be asked to pick the word whose vowel matches a given symbol or another word.</p>",
       "examples": [
         {
-          "q": "Which word has the same vowel as <i>ship</i> /ɪ/? <i>seat, sheep, sit, seed</i>",
-          "a": "<b>sit</b> — the others are /iː/."
+          "q": "Which word has the same vowel as <i>ship</i> /\u026a/? <i>seat, sheep, sit, seed</i>",
+          "a": "<b>sit</b> \u2014 the others are /i\u02d0/."
         }
       ]
     },
     {
-      "title": "Consonants — voiced and voiceless pairs",
-      "html": "<p>English has 24 consonant sounds. Many come in <b>pairs</b>: one <b>voiceless</b> (vocal cords do not vibrate) and one <b>voiced</b> (vocal cords vibrate). Test by placing a finger on the throat — you feel the buzz on voiced sounds.</p>\n      <table style=\"width:100%;border-collapse:collapse\"><tr><th style=\"text-align:left;padding:4px 8px\">Voiceless</th><th style=\"padding:4px 8px\">Voiced</th><th style=\"padding:4px 8px\">Examples</th></tr>\n      <tr><td style=\"padding:4px 8px\">/p/</td><td style=\"text-align:center\">/b/</td><td>pat / bat</td></tr>\n      <tr><td style=\"padding:4px 8px\">/t/</td><td style=\"text-align:center\">/d/</td><td>tin / din</td></tr>\n      <tr><td style=\"padding:4px 8px\">/k/</td><td style=\"text-align:center\">/g/</td><td>coat / goat</td></tr>\n      <tr><td style=\"padding:4px 8px\">/f/</td><td style=\"text-align:center\">/v/</td><td>fan / van</td></tr>\n      <tr><td style=\"padding:4px 8px\">/θ/</td><td style=\"text-align:center\">/ð/</td><td>thin / this</td></tr>\n      <tr><td style=\"padding:4px 8px\">/s/</td><td style=\"text-align:center\">/z/</td><td>sip / zip</td></tr>\n      <tr><td style=\"padding:4px 8px\">/ʃ/</td><td style=\"text-align:center\">/ʒ/</td><td>ship / measure</td></tr>\n      <tr><td style=\"padding:4px 8px\">/tʃ/</td><td style=\"text-align:center\">/dʒ/</td><td>chin / gin</td></tr></table>\n      <p>The remaining consonants /m, n, ŋ, l, r, w, j, h/ are voiced (except /h/, which is voiceless).</p>",
+      "title": "Consonants \u2014 voiced and voiceless pairs",
+      "html": "<p>English has 24 consonant sounds. Many come in <b>pairs</b>: one <b>voiceless</b> (vocal cords do not vibrate) and one <b>voiced</b> (vocal cords vibrate). Test by placing a finger on the throat \u2014 you feel the buzz on voiced sounds.</p>\n      <table style=\"width:100%;border-collapse:collapse\"><tr><th style=\"text-align:left;padding:4px 8px\">Voiceless</th><th style=\"padding:4px 8px\">Voiced</th><th style=\"padding:4px 8px\">Examples</th></tr>\n      <tr><td style=\"padding:4px 8px\">/p/</td><td style=\"text-align:center\">/b/</td><td>pat / bat</td></tr>\n      <tr><td style=\"padding:4px 8px\">/t/</td><td style=\"text-align:center\">/d/</td><td>tin / din</td></tr>\n      <tr><td style=\"padding:4px 8px\">/k/</td><td style=\"text-align:center\">/g/</td><td>coat / goat</td></tr>\n      <tr><td style=\"padding:4px 8px\">/f/</td><td style=\"text-align:center\">/v/</td><td>fan / van</td></tr>\n      <tr><td style=\"padding:4px 8px\">/\u03b8/</td><td style=\"text-align:center\">/\u00f0/</td><td>thin / this</td></tr>\n      <tr><td style=\"padding:4px 8px\">/s/</td><td style=\"text-align:center\">/z/</td><td>sip / zip</td></tr>\n      <tr><td style=\"padding:4px 8px\">/\u0283/</td><td style=\"text-align:center\">/\u0292/</td><td>ship / measure</td></tr>\n      <tr><td style=\"padding:4px 8px\">/t\u0283/</td><td style=\"text-align:center\">/d\u0292/</td><td>chin / gin</td></tr></table>\n      <p>The remaining consonants /m, n, \u014b, l, r, w, j, h/ are voiced (except /h/, which is voiceless).</p>",
       "examples": [
         {
           "q": "Give the voiced partner of /p/, /t/ and /f/.",
@@ -32,18 +32,46 @@
     },
     {
       "title": "Word stress in two-syllable words",
-      "html": "<p>Every English word of more than one syllable has one syllable pronounced more strongly — that is the <b>stressed</b> syllable. Marking is with an apostrophe before the stressed syllable, e.g. <i>'ta-ble</i>.</p>\n      <h4>General rules for two-syllable words</h4>\n      <ul>\n        <li>Most two-syllable <b>nouns and adjectives</b> are stressed on the <b>first</b> syllable: <i>'happy, 'table, 'father, 'yellow, 'silver</i>.</li>\n        <li>Most two-syllable <b>verbs</b> are stressed on the <b>second</b> syllable: <i>be'gin, re'ceive, en'joy, for'get, pre'pare</i>.</li>\n        <li>Some words change meaning by shift of stress — <b>noun/adjective</b> (first) vs <b>verb</b> (second):\n          <ul><li><i>'record</i> (noun) / <i>re'cord</i> (verb)</li>\n              <li><i>'present</i> (noun/adj) / <i>pre'sent</i> (verb)</li>\n              <li><i>'object</i> (noun) / <i>ob'ject</i> (verb)</li>\n              <li><i>'suspect</i> (noun) / <i>sus'pect</i> (verb)</li></ul>\n        </li>\n      </ul>",
+      "html": "<p>Every English word of more than one syllable has one syllable pronounced more strongly \u2014 that is the <b>stressed</b> syllable. Marking is with an apostrophe before the stressed syllable, e.g. <i>'ta-ble</i>.</p>\n      <h4>General rules for two-syllable words</h4>\n      <ul>\n        <li>Most two-syllable <b>nouns and adjectives</b> are stressed on the <b>first</b> syllable: <i>'happy, 'table, 'father, 'yellow, 'silver</i>.</li>\n        <li>Most two-syllable <b>verbs</b> are stressed on the <b>second</b> syllable: <i>be'gin, re'ceive, en'joy, for'get, pre'pare</i>.</li>\n        <li>Some words change meaning by shift of stress \u2014 <b>noun/adjective</b> (first) vs <b>verb</b> (second):\n          <ul><li><i>'record</i> (noun) / <i>re'cord</i> (verb)</li>\n              <li><i>'present</i> (noun/adj) / <i>pre'sent</i> (verb)</li>\n              <li><i>'object</i> (noun) / <i>ob'ject</i> (verb)</li>\n              <li><i>'suspect</i> (noun) / <i>sus'pect</i> (verb)</li></ul>\n        </li>\n      </ul>",
       "examples": [
         {
           "q": "Mark the stress: <i>begin, table, receive, silver</i>.",
           "a": "<i>be'gin, 'ta-ble, re'ceive, 'sil-ver</i>."
         }
       ]
+    },
+    {
+      "title": "Stress shift between noun and verb",
+      "html": "<p><b>Stress shift between noun and verb</b> is a key part of Oral English (SSS 1, English). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Every English word of more than one syllable has one syllable pronounced more strongly \u2014 that is the stressed syllable.</li><li>Marking is with an apostrophe before the stressed syllable, e.g.</li><li>General rules for two-syllable words Most two-syllable nouns and adjectives are stressed on the first syllable: 'happy, 'table, 'father, 'yellow, 'silver .</li><li>Most two-syllable verbs are stressed on the second syllable: be'gin, re'ceive, en'joy, for'get, pre'pare .</li><li>Some words change meaning by shift of stress \u2014 noun/adjective (first) vs verb (second): 'record (noun) / re'cord (verb) 'present (noun/adj) / pre'sent (verb) 'object (noun) / ob'ject (verb) 'suspect (noun) / sus'pect (verb)</li></ul><h4>Worked example</h4><p><b>Q:</b> <i>Record</i> as a noun is stressed on the:<br/><b>A:</b> 1st syllable \u2014 'RE-cord.</p><p><b>Q:</b> <i>Record</i> as a verb is stressed on the:<br/><b>A:</b> 2nd syllable \u2014 re-'CORD.</p>",
+      "examples": [
+        {
+          "q": "<i>Record</i> as a noun is stressed on the:",
+          "a": "1st syllable \u2014 'RE-cord."
+        },
+        {
+          "q": "<i>Record</i> as a verb is stressed on the:",
+          "a": "2nd syllable \u2014 re-'CORD."
+        }
+      ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> Which word contains the vowel /i\u02d0/?<br/><b>A:</b> sheep \u2014 <i>Sheep</i> has the long /i\u02d0/.</p><p><b>Q:</b> Which word contains the vowel /\u026a/?<br/><b>A:</b> sit \u2014 <i>Sit</i> has the short /\u026a/.</p><p><b>Q:</b> Which pair of words rhymes?<br/><b>A:</b> hat / bat \u2014 Both have /\u00e6/.</p>",
+      "examples": [
+        {
+          "q": "Which word contains the vowel /i\u02d0/?",
+          "a": "sheep"
+        },
+        {
+          "q": "Which word contains the vowel /\u026a/?",
+          "a": "sit"
+        }
+      ]
     }
   ],
   "quiz": [
     {
-      "q": "Which word contains the vowel /iː/?",
+      "q": "Which word contains the vowel /i\u02d0/?",
       "options": [
         "ship",
         "sheep",
@@ -51,10 +79,12 @@
         "sick"
       ],
       "answer": 1,
-      "solution": "<i>Sheep</i> has the long /iː/."
+      "solution": "<i>Sheep</i> has the long /i\u02d0/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which word contains the vowel /ɪ/?",
+      "q": "Which word contains the vowel /\u026a/?",
       "options": [
         "seat",
         "sit",
@@ -62,7 +92,9 @@
         "see"
       ],
       "answer": 1,
-      "solution": "<i>Sit</i> has the short /ɪ/."
+      "solution": "<i>Sit</i> has the short /\u026a/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which pair of words rhymes?",
@@ -73,10 +105,12 @@
         "cat / cut"
       ],
       "answer": 1,
-      "solution": "Both have /æ/."
+      "solution": "Both have /\u00e6/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which word contains the sound /ɜː/?",
+      "q": "Which word contains the sound /\u025c\u02d0/?",
       "options": [
         "bird",
         "bed",
@@ -84,10 +118,12 @@
         "bud"
       ],
       "answer": 0,
-      "solution": "<i>Bird</i> has the long /ɜː/."
+      "solution": "<i>Bird</i> has the long /\u025c\u02d0/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which word contains /ʌ/?",
+      "q": "Which word contains /\u028c/?",
       "options": [
         "cup",
         "cap",
@@ -95,10 +131,12 @@
         "cape"
       ],
       "answer": 0,
-      "solution": "<i>Cup</i> uses /ʌ/."
+      "solution": "<i>Cup</i> uses /\u028c/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which word has /ɒ/?",
+      "q": "Which word has /\u0252/?",
       "options": [
         "hot",
         "hut",
@@ -106,32 +144,12 @@
         "hat"
       ],
       "answer": 0,
-      "solution": "<i>Hot</i> uses short /ɒ/."
+      "solution": "<i>Hot</i> uses short /\u0252/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which word has /ɑː/?",
-      "options": [
-        "car",
-        "cur",
-        "cot",
-        "cat"
-      ],
-      "answer": 0,
-      "solution": "<i>Car</i> uses long /ɑː/."
-    },
-    {
-      "q": "Which word has /ɔː/?",
-      "options": [
-        "saw",
-        "so",
-        "sow",
-        "sew"
-      ],
-      "answer": 0,
-      "solution": "<i>Saw</i> uses /ɔː/."
-    },
-    {
-      "q": "Which word has /uː/?",
+      "q": "Which word has /u\u02d0/?",
       "options": [
         "boot",
         "book",
@@ -139,18 +157,9 @@
         "bot"
       ],
       "answer": 0,
-      "solution": "<i>Boot</i> uses long /uː/."
-    },
-    {
-      "q": "Which word has /ʊ/?",
-      "options": [
-        "book",
-        "boot",
-        "but",
-        "bat"
-      ],
-      "answer": 0,
-      "solution": "<i>Book</i> uses short /ʊ/."
+      "solution": "<i>Boot</i> uses long /u\u02d0/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Voiced partner of /p/ is:",
@@ -161,7 +170,9 @@
         "/v/"
       ],
       "answer": 0,
-      "solution": "/p/ ↔ /b/."
+      "solution": "/p/ \u2194 /b/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Voiceless partner of /d/ is:",
@@ -172,7 +183,9 @@
         "/s/"
       ],
       "answer": 0,
-      "solution": "/d/ ↔ /t/."
+      "solution": "/d/ \u2194 /t/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Voiced partner of /f/ is:",
@@ -180,32 +193,38 @@
         "/v/",
         "/b/",
         "/z/",
-        "/ð/"
+        "/\u00f0/"
       ],
       "answer": 0,
-      "solution": "/f/ ↔ /v/."
+      "solution": "/f/ \u2194 /v/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Voiceless partner of /z/ is:",
       "options": [
         "/s/",
-        "/ʃ/",
-        "/θ/",
-        "/ʒ/"
+        "/\u0283/",
+        "/\u03b8/",
+        "/\u0292/"
       ],
       "answer": 0,
-      "solution": "/z/ ↔ /s/."
+      "solution": "/z/ \u2194 /s/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Voiceless partner of /ð/ (as in <i>this</i>) is:",
+      "q": "Voiceless partner of /\u00f0/ (as in <i>this</i>) is:",
       "options": [
-        "/θ/",
+        "/\u03b8/",
         "/f/",
         "/s/",
         "/h/"
       ],
       "answer": 0,
-      "solution": "/ð/ ↔ /θ/."
+      "solution": "/\u00f0/ \u2194 /\u03b8/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which consonant is voiceless?",
@@ -216,7 +235,9 @@
         "/z/"
       ],
       "answer": 1,
-      "solution": "/k/ is voiceless."
+      "solution": "/k/ is voiceless.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which consonant is voiced?",
@@ -227,10 +248,12 @@
         "/f/"
       ],
       "answer": 2,
-      "solution": "/g/ is voiced."
+      "solution": "/g/ is voiced.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which word begins with /ʃ/?",
+      "q": "Which word begins with /\u0283/?",
       "options": [
         "ship",
         "sip",
@@ -238,10 +261,12 @@
         "chip"
       ],
       "answer": 0,
-      "solution": "<i>Ship</i> starts with /ʃ/."
+      "solution": "<i>Ship</i> starts with /\u0283/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which word begins with /tʃ/?",
+      "q": "Which word begins with /t\u0283/?",
       "options": [
         "ship",
         "chip",
@@ -249,10 +274,12 @@
         "gyp"
       ],
       "answer": 1,
-      "solution": "<i>Chip</i> begins with /tʃ/."
+      "solution": "<i>Chip</i> begins with /t\u0283/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which word begins with /dʒ/?",
+      "q": "Which word begins with /d\u0292/?",
       "options": [
         "gyp",
         "gin",
@@ -260,7 +287,9 @@
         "chin"
       ],
       "answer": 1,
-      "solution": "<i>Gin</i> begins with /dʒ/."
+      "solution": "<i>Gin</i> begins with /d\u0292/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The word <i>table</i> is stressed on the:",
@@ -271,7 +300,9 @@
         "3rd syllable"
       ],
       "answer": 0,
-      "solution": "'TA-ble."
+      "solution": "'TA-ble.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The word <i>begin</i> is stressed on the:",
@@ -282,7 +313,9 @@
         "4th syllable"
       ],
       "answer": 1,
-      "solution": "be-'GIN."
+      "solution": "be-'GIN.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Record</i> as a noun is stressed on the:",
@@ -293,7 +326,9 @@
         "last syllable"
       ],
       "answer": 0,
-      "solution": "'RE-cord."
+      "solution": "'RE-cord.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Record</i> as a verb is stressed on the:",
@@ -304,7 +339,9 @@
         "last syllable"
       ],
       "answer": 1,
-      "solution": "re-'CORD."
+      "solution": "re-'CORD.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Present</i> as a verb is stressed on the:",
@@ -315,7 +352,9 @@
         "4th"
       ],
       "answer": 1,
-      "solution": "pre-'SENT."
+      "solution": "pre-'SENT.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word has stress on the second syllable?",
@@ -326,7 +365,9 @@
         "silver"
       ],
       "answer": 2,
-      "solution": "for-'GET."
+      "solution": "for-'GET.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word has stress on the first syllable?",
@@ -337,7 +378,9 @@
         "below"
       ],
       "answer": 2,
-      "solution": "'HAP-py."
+      "solution": "'HAP-py.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Object</i> as a noun is stressed on the:",
@@ -348,7 +391,9 @@
         "last"
       ],
       "answer": 0,
-      "solution": "'OB-ject."
+      "solution": "'OB-ject.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Object</i> as a verb is stressed on the:",
@@ -359,7 +404,9 @@
         "last"
       ],
       "answer": 1,
-      "solution": "ob-'JECT."
+      "solution": "ob-'JECT.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word rhymes with <i>bird</i>?",
@@ -370,7 +417,9 @@
         "head"
       ],
       "answer": 0,
-      "solution": "Both /ɜːd/."
+      "solution": "Both /\u025c\u02d0d/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word rhymes with <i>saw</i>?",
@@ -381,7 +430,9 @@
         "so"
       ],
       "answer": 1,
-      "solution": "Both /ɔː/."
+      "solution": "Both /\u0254\u02d0/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word has a short vowel?",
@@ -392,7 +443,9 @@
         "see"
       ],
       "answer": 1,
-      "solution": "<i>Sit</i> is short /ɪ/."
+      "solution": "<i>Sit</i> is short /\u026a/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word has a long vowel?",
@@ -403,7 +456,9 @@
         "cot"
       ],
       "answer": 1,
-      "solution": "<i>Car</i> is long /ɑː/."
+      "solution": "<i>Car</i> is long /\u0251\u02d0/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sound is voiceless?",
@@ -414,7 +469,9 @@
         "/l/"
       ],
       "answer": 2,
-      "solution": "/h/ is voiceless."
+      "solution": "/h/ is voiceless.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sound is a nasal?",
@@ -425,7 +482,9 @@
         "/t/"
       ],
       "answer": 0,
-      "solution": "/m/ is a nasal consonant."
+      "solution": "/m/ is a nasal consonant.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word begins with a nasal consonant?",
@@ -436,7 +495,9 @@
         "fight"
       ],
       "answer": 0,
-      "solution": "<i>Night</i> begins with /n/."
+      "solution": "<i>Night</i> begins with /n/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Number of syllables in <i>university</i>:",
@@ -447,7 +508,9 @@
         "6"
       ],
       "answer": 2,
-      "solution": "u-ni-ver-si-ty = 5."
+      "solution": "u-ni-ver-si-ty = 5.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a monosyllabic word?",
@@ -458,18 +521,22 @@
         "English"
       ],
       "answer": 1,
-      "solution": "<i>Cat</i> — one syllable."
+      "solution": "<i>Cat</i> \u2014 one syllable.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of the following is <u>not</u> a pure vowel in RP?",
       "options": [
-        "/iː/",
-        "/eɪ/",
-        "/ɑː/",
-        "/ʊ/"
+        "/i\u02d0/",
+        "/e\u026a/",
+        "/\u0251\u02d0/",
+        "/\u028a/"
       ],
       "answer": 1,
-      "solution": "/eɪ/ is a diphthong."
+      "solution": "/e\u026a/ is a diphthong.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word has the vowel /e/?",
@@ -480,10 +547,12 @@
         "bird"
       ],
       "answer": 0,
-      "solution": "<i>Bed</i> uses /e/."
+      "solution": "<i>Bed</i> uses /e/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which word has the vowel /æ/?",
+      "q": "Which word has the vowel /\u00e6/?",
       "options": [
         "bat",
         "bet",
@@ -491,43 +560,38 @@
         "bird"
       ],
       "answer": 0,
-      "solution": "<i>Bat</i> uses /æ/."
+      "solution": "<i>Bat</i> uses /\u00e6/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Voiced partner of /tʃ/ is:",
+      "q": "Voiced partner of /t\u0283/ is:",
       "options": [
-        "/dʒ/",
-        "/ʃ/",
-        "/ʒ/",
+        "/d\u0292/",
+        "/\u0283/",
+        "/\u0292/",
         "/g/"
       ],
       "answer": 0,
-      "solution": "/tʃ/ ↔ /dʒ/."
+      "solution": "/t\u0283/ \u2194 /d\u0292/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Voiceless partner of /ʒ/ is:",
+      "q": "Voiceless partner of /\u0292/ is:",
       "options": [
-        "/ʃ/",
+        "/\u0283/",
         "/z/",
         "/s/",
         "/f/"
       ],
       "answer": 0,
-      "solution": "/ʒ/ ↔ /ʃ/."
+      "solution": "/\u0292/ \u2194 /\u0283/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Which word has stress on the second syllable?",
-      "options": [
-        "water",
-        "enjoy",
-        "yellow",
-        "silver"
-      ],
-      "answer": 1,
-      "solution": "en-'JOY."
-    },
-    {
-      "q": "Which word ends with /ŋ/?",
+      "q": "Which word ends with /\u014b/?",
       "options": [
         "sing",
         "sin",
@@ -535,18 +599,22 @@
         "seen"
       ],
       "answer": 0,
-      "solution": "<i>Sing</i> ends in /ŋ/."
+      "solution": "<i>Sing</i> ends in /\u014b/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which vowel is central and unstressed?",
       "options": [
-        "schwa /ə/",
-        "/iː/",
-        "/uː/",
-        "/ɔː/"
+        "schwa /\u0259/",
+        "/i\u02d0/",
+        "/u\u02d0/",
+        "/\u0254\u02d0/"
       ],
       "answer": 0,
-      "solution": "Schwa is the unstressed central vowel."
+      "solution": "Schwa is the unstressed central vowel.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word contains a schwa?",
@@ -557,7 +625,9 @@
         "hat"
       ],
       "answer": 0,
-      "solution": "The first <i>a</i> in <i>about</i> is /ə/."
+      "solution": "The first <i>a</i> in <i>about</i> is /\u0259/.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is the correct stress pattern for <i>enjoy</i>?",
@@ -568,18 +638,22 @@
         "enjoy'"
       ],
       "answer": 1,
-      "solution": "Two-syllable verb, 2nd-syllable stress."
+      "solution": "Two-syllable verb, 2nd-syllable stress.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a diphthong (for contrast)?",
       "options": [
-        "/iː/",
-        "/aɪ/",
-        "/ɑː/",
-        "/ʌ/"
+        "/i\u02d0/",
+        "/a\u026a/",
+        "/\u0251\u02d0/",
+        "/\u028c/"
       ],
       "answer": 1,
-      "solution": "/aɪ/ glides — a diphthong."
+      "solution": "/a\u026a/ glides \u2014 a diphthong.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Ship</i> and <i>sheep</i> differ in:",
@@ -590,7 +664,61 @@
         "spelling only"
       ],
       "answer": 1,
-      "solution": "/ɪ/ vs /iː/ — vowel length/quality."
+      "solution": "/\u026a/ vs /i\u02d0/ \u2014 vowel length/quality.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Oral English: Identify the word that has the primary stress on the first syllable:",
+      "options": [
+        "Between",
+        "Father",
+        "Release",
+        "Agree"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Father.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Oral English: Choose the word with a different vowel sound: <u>C</u>at, <u>B</u>at, <u>M</u>at, <u>Y</u>acht.",
+      "options": [
+        "Cat",
+        "Bat",
+        "Mat",
+        "Yacht"
+      ],
+      "answer": 3,
+      "solution": "Past question (JAMB 2024). Correct answer: Yacht.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Oral English: Which of these words has a silent 'l'?",
+      "options": [
+        "Palm",
+        "Plot",
+        "Play",
+        "Pull"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: Palm.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Oral English: Choose the word that rhymes with 'Light':",
+      "options": [
+        "Lit",
+        "Height",
+        "Eight",
+        "Late"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Height.",
+      "source": "JAMB 2024",
+      "practice": false
     }
   ]
 }

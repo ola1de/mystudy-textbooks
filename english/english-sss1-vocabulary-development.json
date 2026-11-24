@@ -12,31 +12,59 @@
   "modules": [
     {
       "title": "Synonyms and antonyms in context",
-      "html": "<p>A <b>synonym</b> is a word close in meaning to another (<i>begin ~ commence</i>). An <b>antonym</b> is a word of opposite meaning (<i>brave ↔ cowardly</i>). English rarely offers perfect synonyms — the right choice depends on <i>context, register</i> and <i>connotation</i>.</p>\n      <ul>\n        <li><b>Connotation</b>: <i>childish</i> (negative) vs <i>childlike</i> (positive) — both mean 'like a child'.</li>\n        <li><b>Register</b>: <i>buy</i> (neutral), <i>purchase</i> (formal), <i>cop</i> (slang).</li>\n        <li><b>Collocation</b>: we say <i>strong tea</i> and <i>heavy rain</i> — not <i>powerful tea</i>.</li>\n      </ul>\n      <p>Tip: read the whole sentence before choosing a synonym. Test each option in the gap and check that the tone, part of speech and collocation all fit.</p>",
+      "html": "<p>A <b>synonym</b> is a word close in meaning to another (<i>begin ~ commence</i>). An <b>antonym</b> is a word of opposite meaning (<i>brave \u2194 cowardly</i>). English rarely offers perfect synonyms \u2014 the right choice depends on <i>context, register</i> and <i>connotation</i>.</p>\n      <ul>\n        <li><b>Connotation</b>: <i>childish</i> (negative) vs <i>childlike</i> (positive) \u2014 both mean 'like a child'.</li>\n        <li><b>Register</b>: <i>buy</i> (neutral), <i>purchase</i> (formal), <i>cop</i> (slang).</li>\n        <li><b>Collocation</b>: we say <i>strong tea</i> and <i>heavy rain</i> \u2014 not <i>powerful tea</i>.</li>\n      </ul>\n      <p>Tip: read the whole sentence before choosing a synonym. Test each option in the gap and check that the tone, part of speech and collocation all fit.</p>",
       "examples": [
         {
           "q": "Choose the closest in meaning to <i>reluctant</i> in: <i>She was reluctant to answer.</i>",
-          "a": "<b>unwilling</b> — the sentence shows hesitation to speak, not fear or dislike."
+          "a": "<b>unwilling</b> \u2014 the sentence shows hesitation to speak, not fear or dislike."
         }
       ]
     },
     {
-      "title": "Register — Agriculture, Sports, Law",
-      "html": "<p><b>Register</b> is the specialised vocabulary of a subject or profession. Recognising register helps you follow a passage and pick precise answers.</p>\n      <h4>Agriculture</h4>\n      <ul><li><i>arable, fallow, pasture, tuber, weeding, harvest, silo, irrigation, manure, husbandry, seedling, transplanting.</i></li></ul>\n      <h4>Sports</h4>\n      <ul><li><i>referee, umpire, offside, penalty, sprint, marathon, coach, tactics, halftime, knockout, draw, fixture, dribble, tackle.</i></li></ul>\n      <h4>Law</h4>\n      <ul><li><i>plaintiff, defendant, prosecution, verdict, acquit, convict, bail, adjourn, appeal, testimony, evidence, jurisdiction, judgment, litigation.</i></li></ul>",
+      "title": "Register \u2014 Agriculture, Sports, Law",
+      "html": "<p><b>Register</b> is the specialised vocabulary of a subject or profession. Recognising register helps you follow a passage and pick precise answers.</p>\n      <h4>Agriculture</h4>\n      <ul><li><i>arable, fallow, pasture, tuber, weeding, harvest, silo, irrigation, manure, husbandry, seedling, transplanting.</i></li></ul>\n      <h4>Sports</h4>\n      <ul><li><i>referee, umpire, offside, penalty, sprint, marathon, coach, tactics, halftime, knockout, draw, fixture, dribble, tackle.</i></li></ul>\n      <h4>Law</h4>\n      <ul><li><i>plaintiff, defendant, prosecution, verdict, acquit, convict, bail, adjourn, appeal, testimony, evidence, jurisdiction, judgment, litigation.</i></li></ul><h4>Key points</h4><ul><li><i>Fallow</i> land is ploughed but left unsown \u2014 farming term.</li><li><i>Offside</i> is a football/hockey term.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which word belongs to the register of Agriculture?<br/><b>A:</b> fallow</p><p><b>Q:</b> Which word belongs to the register of Sports?<br/><b>A:</b> offside</p>",
       "examples": [
         {
           "q": "Which register does <i>plaintiff, defendant, verdict</i> belong to?",
-          "a": "Law — these are court-room terms."
+          "a": "Law \u2014 these are court-room terms."
         }
       ]
     },
     {
       "title": "Contextual meaning in passages",
-      "html": "<p>Comprehension questions often test what a word or phrase means <i>as used in the passage</i>. That may differ from its dictionary meaning.</p>\n      <ol>\n        <li>Read the whole sentence — sometimes two sentences before and after.</li>\n        <li>Ask what idea the sentence is trying to convey; the word must fit that idea.</li>\n        <li>Substitute each option in the sentence. Reject any that changes the meaning or grammar.</li>\n        <li>Beware of <i>look-alike</i> words that sound similar but mean something different.</li>\n      </ol>",
+      "html": "<p>Comprehension questions often test what a word or phrase means <i>as used in the passage</i>. That may differ from its dictionary meaning.</p>\n      <ol>\n        <li>Read the whole sentence \u2014 sometimes two sentences before and after.</li>\n        <li>Ask what idea the sentence is trying to convey; the word must fit that idea.</li>\n        <li>Substitute each option in the sentence. Reject any that changes the meaning or grammar.</li>\n        <li>Beware of <i>look-alike</i> words that sound similar but mean something different.</li>\n      </ol><h4>Key points</h4><ul><li><i>Commence</i> is a formal synonym for <i>begin</i>.</li><li><i>Concise</i> = short and to the point.</li></ul><h4>Worked example</h4><p><b>Q:</b> Choose the word that is nearest in meaning to <b>commence</b>.<br/><b>A:</b> begin</p><p><b>Q:</b> Choose the closest meaning: <i>She gave a <b>concise</b> answer.</i><br/><b>A:</b> brief</p>",
       "examples": [
         {
           "q": "In <i>Her sharp reply silenced the class</i>, <i>sharp</i> means:",
           "a": "<b>quick and cutting</b> (not literally pointed)."
+        }
+      ]
+    },
+    {
+      "title": "Connotation vs denotation",
+      "html": "<p><b>Connotation vs denotation</b> is a key part of Vocabulary Development (SSS 1, English). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>English rarely offers perfect synonyms \u2014 the right choice depends on context, register and connotation .</li><li>Connotation : childish (negative) vs childlike (positive) \u2014 both mean 'like a child'.</li></ul><h4>Worked example</h4><p><b>Q:</b> Choose the word that is nearest in meaning to <b>commence</b>.<br/><b>A:</b> begin \u2014 <i>Commence</i> is a formal synonym for <i>begin</i>.</p><p><b>Q:</b> Antonym of <b>generous</b>:<br/><b>A:</b> stingy \u2014 <i>Stingy</i> = unwilling to give \u2014 opposite of generous.</p>",
+      "examples": [
+        {
+          "q": "Choose the word that is nearest in meaning to <b>commence</b>.",
+          "a": "begin \u2014 <i>Commence</i> is a formal synonym for <i>begin</i>."
+        },
+        {
+          "q": "Antonym of <b>generous</b>:",
+          "a": "stingy \u2014 <i>Stingy</i> = unwilling to give \u2014 opposite of generous."
+        }
+      ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> Choose the word that is nearest in meaning to <b>commence</b>.<br/><b>A:</b> begin \u2014 <i>Commence</i> is a formal synonym for <i>begin</i>.</p><p><b>Q:</b> Antonym of <b>generous</b>:<br/><b>A:</b> stingy \u2014 <i>Stingy</i> = unwilling to give \u2014 opposite of generous.</p><p><b>Q:</b> Choose the closest meaning: <i>She gave a <b>concise</b> answer.</i><br/><b>A:</b> brief \u2014 <i>Concise</i> = short and to the point.</p>",
+      "examples": [
+        {
+          "q": "Choose the word that is nearest in meaning to <b>commence</b>.",
+          "a": "begin"
+        },
+        {
+          "q": "Antonym of <b>generous</b>:",
+          "a": "stingy"
         }
       ]
     }
@@ -51,7 +79,9 @@
         "delay"
       ],
       "answer": 1,
-      "solution": "<i>Commence</i> is a formal synonym for <i>begin</i>."
+      "solution": "<i>Commence</i> is a formal synonym for <i>begin</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Antonym of <b>generous</b>:",
@@ -62,7 +92,9 @@
         "loving"
       ],
       "answer": 1,
-      "solution": "<i>Stingy</i> = unwilling to give — opposite of generous."
+      "solution": "<i>Stingy</i> = unwilling to give \u2014 opposite of generous.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose the closest meaning: <i>She gave a <b>concise</b> answer.</i>",
@@ -73,7 +105,9 @@
         "confused"
       ],
       "answer": 1,
-      "solution": "<i>Concise</i> = short and to the point."
+      "solution": "<i>Concise</i> = short and to the point.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Antonym of <b>arrogant</b>:",
@@ -84,7 +118,9 @@
         "noisy"
       ],
       "answer": 1,
-      "solution": "<i>Humble</i> = opposite of arrogant."
+      "solution": "<i>Humble</i> = opposite of arrogant.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word belongs to the register of Agriculture?",
@@ -95,7 +131,9 @@
         "affidavit"
       ],
       "answer": 1,
-      "solution": "<i>Fallow</i> land is ploughed but left unsown — farming term."
+      "solution": "<i>Fallow</i> land is ploughed but left unsown \u2014 farming term.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word belongs to the register of Sports?",
@@ -106,7 +144,9 @@
         "tuber"
       ],
       "answer": 1,
-      "solution": "<i>Offside</i> is a football/hockey term."
+      "solution": "<i>Offside</i> is a football/hockey term.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word belongs to the register of Law?",
@@ -117,10 +157,12 @@
         "harvest"
       ],
       "answer": 2,
-      "solution": "<i>Acquit</i> = declare not guilty — a legal act."
+      "solution": "<i>Acquit</i> = declare not guilty \u2014 a legal act.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "The <b>plaintiff</b> in a court case is the person who…",
+      "q": "The <b>plaintiff</b> in a court case is the person who\u2026",
       "options": [
         "is accused",
         "brings the complaint",
@@ -128,10 +170,12 @@
         "defends the accused"
       ],
       "answer": 1,
-      "solution": "The plaintiff begins the lawsuit."
+      "solution": "The plaintiff begins the lawsuit.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "A <b>silo</b> is used to…",
+      "q": "A <b>silo</b> is used to\u2026",
       "options": [
         "referee a match",
         "store grain",
@@ -139,7 +183,9 @@
         "plough land"
       ],
       "answer": 1,
-      "solution": "Silos are tall structures for storing grain."
+      "solution": "Silos are tall structures for storing grain.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Synonym of <b>vast</b>:",
@@ -150,7 +196,9 @@
         "empty"
       ],
       "answer": 1,
-      "solution": "<i>Vast</i> = very large."
+      "solution": "<i>Vast</i> = very large.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Antonym of <b>ancient</b>:",
@@ -161,7 +209,9 @@
         "tired"
       ],
       "answer": 1,
-      "solution": "<i>Modern</i> is opposite of ancient."
+      "solution": "<i>Modern</i> is opposite of ancient.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The referee <b>brandished</b> a red card.</i> <b>Brandished</b> means:",
@@ -172,7 +222,9 @@
         "kept"
       ],
       "answer": 1,
-      "solution": "<i>Brandish</i> = wave menacingly."
+      "solution": "<i>Brandish</i> = wave menacingly.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is <u>not</u> a farming term?",
@@ -183,7 +235,9 @@
         "harvest"
       ],
       "answer": 2,
-      "solution": "<i>Tackle</i> is football / rugby."
+      "solution": "<i>Tackle</i> is football / rugby.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Synonym of <b>swift</b>:",
@@ -194,7 +248,9 @@
         "dull"
       ],
       "answer": 1,
-      "solution": "<i>Swift</i> = fast."
+      "solution": "<i>Swift</i> = fast.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Antonym of <b>victory</b>:",
@@ -205,10 +261,12 @@
         "match"
       ],
       "answer": 0,
-      "solution": "Defeat is the opposite of victory."
+      "solution": "Defeat is the opposite of victory.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "A person accused of a crime is called the…",
+      "q": "A person accused of a crime is called the\u2026",
       "options": [
         "plaintiff",
         "defendant",
@@ -216,7 +274,9 @@
         "juror"
       ],
       "answer": 1,
-      "solution": "Defendant — the one defending against the charge."
+      "solution": "Defendant \u2014 the one defending against the charge.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The land is <b>arable</b>.</i> This means it is:",
@@ -227,10 +287,12 @@
         "forested"
       ],
       "answer": 2,
-      "solution": "Arable land is fit for growing crops."
+      "solution": "Arable land is fit for growing crops.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "A <b>tuber</b> is a…",
+      "q": "A <b>tuber</b> is a\u2026",
       "options": [
         "type of pipe",
         "swollen underground stem",
@@ -238,7 +300,9 @@
         "court order"
       ],
       "answer": 1,
-      "solution": "Tubers include yam, cassava, potato."
+      "solution": "Tubers include yam, cassava, potato.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose the closest meaning: <i>He was <b>elated</b> by the news.</i>",
@@ -249,7 +313,9 @@
         "tired"
       ],
       "answer": 1,
-      "solution": "<i>Elated</i> = very happy."
+      "solution": "<i>Elated</i> = very happy.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Antonym of <b>frequent</b>:",
@@ -260,7 +326,9 @@
         "normal"
       ],
       "answer": 1,
-      "solution": "Rare = not frequent."
+      "solution": "Rare = not frequent.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The verdict is:",
@@ -271,10 +339,12 @@
         "the appeal"
       ],
       "answer": 1,
-      "solution": "Verdict = the decision returned by the judge or jury."
+      "solution": "Verdict = the decision returned by the judge or jury.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "A <b>penalty kick</b> is awarded in football when…",
+      "q": "A <b>penalty kick</b> is awarded in football when\u2026",
       "options": [
         "the ball is out",
         "a foul occurs in the box",
@@ -282,7 +352,9 @@
         "the goalkeeper touches the ball"
       ],
       "answer": 1,
-      "solution": "It follows a foul committed inside the penalty area."
+      "solution": "It follows a foul committed inside the penalty area.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Synonym of <b>abundant</b>:",
@@ -293,7 +365,9 @@
         "little"
       ],
       "answer": 1,
-      "solution": "<i>Abundant</i> = plentiful."
+      "solution": "<i>Abundant</i> = plentiful.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Antonym of <b>expand</b>:",
@@ -304,10 +378,12 @@
         "stretch"
       ],
       "answer": 2,
-      "solution": "Shrink is opposite of expand."
+      "solution": "Shrink is opposite of expand.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "In law, to <b>adjourn</b> a case is to…",
+      "q": "In law, to <b>adjourn</b> a case is to\u2026",
       "options": [
         "dismiss it",
         "postpone it",
@@ -315,7 +391,9 @@
         "appeal it"
       ],
       "answer": 1,
-      "solution": "Adjourn = put off to a later date."
+      "solution": "Adjourn = put off to a later date.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose the closest meaning: <i>a <b>lucrative</b> business</i>",
@@ -326,7 +404,9 @@
         "new"
       ],
       "answer": 2,
-      "solution": "Lucrative = producing much profit."
+      "solution": "Lucrative = producing much profit.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a farming implement?",
@@ -337,10 +417,12 @@
         "subpoena"
       ],
       "answer": 1,
-      "solution": "A hoe is used for weeding."
+      "solution": "A hoe is used for weeding.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "A person who watches a match without playing is a…",
+      "q": "A person who watches a match without playing is a\u2026",
       "options": [
         "referee",
         "spectator",
@@ -348,10 +430,12 @@
         "substitute"
       ],
       "answer": 1,
-      "solution": "Spectators watch."
+      "solution": "Spectators watch.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "<b>Testimony</b> is given by a…",
+      "q": "<b>Testimony</b> is given by a\u2026",
       "options": [
         "juror",
         "witness",
@@ -359,7 +443,9 @@
         "farmer"
       ],
       "answer": 1,
-      "solution": "A witness gives testimony."
+      "solution": "A witness gives testimony.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Synonym of <b>diligent</b>:",
@@ -370,7 +456,9 @@
         "late"
       ],
       "answer": 1,
-      "solution": "Diligent = hardworking."
+      "solution": "Diligent = hardworking.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Antonym of <b>brave</b>:",
@@ -381,7 +469,9 @@
         "careful"
       ],
       "answer": 1,
-      "solution": "Cowardly is opposite of brave."
+      "solution": "Cowardly is opposite of brave.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The farmer planted <b>seedlings</b>.</i> Seedlings are:",
@@ -392,10 +482,12 @@
         "weeds"
       ],
       "answer": 1,
-      "solution": "Small young plants ready for transplanting."
+      "solution": "Small young plants ready for transplanting.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "A <b>coach</b> in sports is one who…",
+      "q": "A <b>coach</b> in sports is one who\u2026",
       "options": [
         "plays in defence",
         "referees the match",
@@ -403,7 +495,9 @@
         "sells tickets"
       ],
       "answer": 2,
-      "solution": "Coaches train and instruct."
+      "solution": "Coaches train and instruct.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose the odd word out.",
@@ -414,18 +508,9 @@
         "referee"
       ],
       "answer": 3,
-      "solution": "Referee is a sports term; the rest are farming."
-    },
-    {
-      "q": "Choose the odd word out.",
-      "options": [
-        "prosecution",
-        "evidence",
-        "bail",
-        "harvest"
-      ],
-      "answer": 3,
-      "solution": "Harvest is farming; the rest are legal."
+      "solution": "Referee is a sports term; the rest are farming.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose the closest meaning: <i>The suspect was <b>acquitted</b>.</i>",
@@ -436,7 +521,9 @@
         "fined"
       ],
       "answer": 1,
-      "solution": "Acquitted = found not guilty."
+      "solution": "Acquitted = found not guilty.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Antonym of <b>innocent</b>:",
@@ -447,10 +534,12 @@
         "kind"
       ],
       "answer": 1,
-      "solution": "Guilty is opposite of innocent."
+      "solution": "Guilty is opposite of innocent.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "A <b>marathon</b> is a…",
+      "q": "A <b>marathon</b> is a\u2026",
       "options": [
         "short sprint",
         "long-distance race",
@@ -458,7 +547,9 @@
         "football fixture"
       ],
       "answer": 1,
-      "solution": "About 42 km — very long distance."
+      "solution": "About 42 km \u2014 very long distance.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which term describes soil left unplanted for a season?",
@@ -469,7 +560,9 @@
         "cultivated"
       ],
       "answer": 0,
-      "solution": "Fallow land is deliberately left uncultivated to recover."
+      "solution": "Fallow land is deliberately left uncultivated to recover.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose the closest meaning: <i>She spoke with <b>candour</b>.</i>",
@@ -480,7 +573,9 @@
         "doubt"
       ],
       "answer": 1,
-      "solution": "Candour = frankness / honesty."
+      "solution": "Candour = frankness / honesty.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Antonym of <b>optimistic</b>:",
@@ -491,7 +586,9 @@
         "confident"
       ],
       "answer": 2,
-      "solution": "Pessimistic is opposite of optimistic."
+      "solution": "Pessimistic is opposite of optimistic.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A <b>subpoena</b> is:",
@@ -502,7 +599,9 @@
         "a type of contract"
       ],
       "answer": 1,
-      "solution": "A court order compelling someone to appear."
+      "solution": "A court order compelling someone to appear.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Synonym of <b>ancient</b>:",
@@ -513,7 +612,9 @@
         "modern"
       ],
       "answer": 2,
-      "solution": "Ancient = old."
+      "solution": "Ancient = old.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose the closest meaning: <i>His story was <b>plausible</b>.</i>",
@@ -524,7 +625,9 @@
         "short"
       ],
       "answer": 1,
-      "solution": "Plausible = seeming reasonable."
+      "solution": "Plausible = seeming reasonable.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these is a court official?",
@@ -535,7 +638,9 @@
         "striker"
       ],
       "answer": 1,
-      "solution": "Bailiff — assists in a court."
+      "solution": "Bailiff \u2014 assists in a court.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Antonym of <b>ally</b>:",
@@ -546,7 +651,9 @@
         "helper"
       ],
       "answer": 1,
-      "solution": "Ally ↔ enemy."
+      "solution": "Ally \u2194 enemy.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The <b>dribble</b> in football is:",
@@ -557,7 +664,9 @@
         "a kick-off"
       ],
       "answer": 1,
-      "solution": "Dribbling = moving the ball with small touches."
+      "solution": "Dribbling = moving the ball with small touches.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose the closest meaning: <i>a <b>meagre</b> meal</i>",
@@ -568,7 +677,9 @@
         "spicy"
       ],
       "answer": 2,
-      "solution": "Meagre = small in quantity."
+      "solution": "Meagre = small in quantity.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which term describes fertile deposits left by a flood?",
@@ -579,7 +690,9 @@
         "seed"
       ],
       "answer": 0,
-      "solution": "Silt — fine fertile mud."
+      "solution": "Silt \u2014 fine fertile mud.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<b>Litigation</b> means:",
@@ -590,7 +703,22 @@
         "training"
       ],
       "answer": 1,
-      "solution": "Litigation = the process of taking legal action."
+      "solution": "Litigation = the process of taking legal action.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The principal was so angry that he _____ his words.",
+      "options": [
+        "mumbled",
+        "minced",
+        "choked",
+        "ate"
+      ],
+      "answer": 1,
+      "solution": "To 'not mince words' means to speak directly. Conversely, to 'mince words' is to use polite or vague language. In this context, it describes the manner of speaking.",
+      "source": "WAEC 2024",
+      "practice": false
     }
   ]
 }

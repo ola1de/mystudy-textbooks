@@ -1,0 +1,737 @@
+{
+  "subject": "Further Mathematics",
+  "level": "SSS 2",
+  "slug": "probability-advanced",
+  "title": "Probability and Statistics (Advanced)",
+  "outline": [
+    "Introduction to Probability and Statistics (Advanced)",
+    "Key facts about Probability and Statistics (Advanced)",
+    "Important terms and examples in Probability and Statistics (Advanced)",
+    "Importance and application of Probability and Statistics (Advanced)",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Probability and Statistics (Advanced)",
+      "html": "<p>Probability distributions, expectation and variance. This section covers introduction to probability and statistics (advanced).</p><h4>Key points</h4><ul><li>The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.</li><li>Three coins are tossed. Probability of getting 3 heads is: \u2014 $$1/8$$.</li><li>A bag contains 3 red and 2 blue balls. Probability of picking a red ball is: \u2014 $$3/5$$.</li><li>Three coins are tossed. Find the probability of getting exactly two heads. \u2014 $$\\frac{3}{8}$$.</li><li>The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The probability of an event A occurring is 0.3. What is the probability of A not occurring?<br/><b>A:</b> $$0.7$$ \u2014 Past question (JAMB 2022). Correct answer: $$0.7$$.</p><p><b>Q:</b> Three coins are tossed. Probability of getting 3 heads is:<br/><b>A:</b> $$1/8$$ \u2014 Past question (JAMB 2022). Correct answer: $$1/8$$.</p>",
+      "examples": [
+        {
+          "q": "The probability of an event A occurring is 0.3. What is the probability of A not occurring?",
+          "a": "$$0.7$$"
+        },
+        {
+          "q": "Three coins are tossed. Probability of getting 3 heads is:",
+          "a": "$$1/8$$"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Probability and Statistics (Advanced)",
+      "html": "<p>Probability distributions, expectation and variance. This section covers key facts about probability and statistics (advanced).</p><h4>Key points</h4><ul><li>The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.</li><li>Three coins are tossed. Probability of getting 3 heads is: \u2014 $$1/8$$.</li><li>A bag contains 3 red and 2 blue balls. Probability of picking a red ball is: \u2014 $$3/5$$.</li><li>Three coins are tossed. Find the probability of getting exactly two heads. \u2014 $$\\frac{3}{8}$$.</li><li>The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The probability of an event A occurring is 0.3. What is the probability of A not occurring?<br/><b>A:</b> $$0.7$$ \u2014 Past question (JAMB 2022). Correct answer: $$0.7$$.</p><p><b>Q:</b> Three coins are tossed. Probability of getting 3 heads is:<br/><b>A:</b> $$1/8$$ \u2014 Past question (JAMB 2022). Correct answer: $$1/8$$.</p>",
+      "examples": [
+        {
+          "q": "The probability of an event A occurring is 0.3. What is the probability of A not occurring?",
+          "a": "$$0.7$$"
+        },
+        {
+          "q": "Three coins are tossed. Probability of getting 3 heads is:",
+          "a": "$$1/8$$"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Probability and Statistics (Advanced)",
+      "html": "<p>Probability distributions, expectation and variance. This section covers important terms and examples in probability and statistics (advanced).</p><h4>Key points</h4><ul><li>The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.</li><li>Three coins are tossed. Probability of getting 3 heads is: \u2014 $$1/8$$.</li><li>A bag contains 3 red and 2 blue balls. Probability of picking a red ball is: \u2014 $$3/5$$.</li><li>Three coins are tossed. Find the probability of getting exactly two heads. \u2014 $$\\frac{3}{8}$$.</li><li>The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The probability of an event A occurring is 0.3. What is the probability of A not occurring?<br/><b>A:</b> $$0.7$$ \u2014 Past question (JAMB 2022). Correct answer: $$0.7$$.</p><p><b>Q:</b> Three coins are tossed. Probability of getting 3 heads is:<br/><b>A:</b> $$1/8$$ \u2014 Past question (JAMB 2022). Correct answer: $$1/8$$.</p>",
+      "examples": [
+        {
+          "q": "The probability of an event A occurring is 0.3. What is the probability of A not occurring?",
+          "a": "$$0.7$$"
+        },
+        {
+          "q": "Three coins are tossed. Probability of getting 3 heads is:",
+          "a": "$$1/8$$"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Probability and Statistics (Advanced)",
+      "html": "<p>Probability distributions, expectation and variance. This section covers importance and application of probability and statistics (advanced).</p><h4>Key points</h4><ul><li>The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.</li><li>Three coins are tossed. Probability of getting 3 heads is: \u2014 $$1/8$$.</li><li>A bag contains 3 red and 2 blue balls. Probability of picking a red ball is: \u2014 $$3/5$$.</li><li>Three coins are tossed. Find the probability of getting exactly two heads. \u2014 $$\\frac{3}{8}$$.</li><li>The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The probability of an event A occurring is 0.3. What is the probability of A not occurring?<br/><b>A:</b> $$0.7$$ \u2014 Past question (JAMB 2022). Correct answer: $$0.7$$.</p><p><b>Q:</b> Three coins are tossed. Probability of getting 3 heads is:<br/><b>A:</b> $$1/8$$ \u2014 Past question (JAMB 2022). Correct answer: $$1/8$$.</p>",
+      "examples": [
+        {
+          "q": "The probability of an event A occurring is 0.3. What is the probability of A not occurring?",
+          "a": "$$0.7$$"
+        },
+        {
+          "q": "Three coins are tossed. Probability of getting 3 heads is:",
+          "a": "$$1/8$$"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Probability distributions, expectation and variance. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.</li><li>Three coins are tossed. Probability of getting 3 heads is: \u2014 $$1/8$$.</li><li>A bag contains 3 red and 2 blue balls. Probability of picking a red ball is: \u2014 $$3/5$$.</li><li>Three coins are tossed. Find the probability of getting exactly two heads. \u2014 $$\\frac{3}{8}$$.</li><li>The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The probability of an event A occurring is 0.3. What is the probability of A not occurring?<br/><b>A:</b> $$0.7$$ \u2014 Past question (JAMB 2022). Correct answer: $$0.7$$.</p><p><b>Q:</b> Three coins are tossed. Probability of getting 3 heads is:<br/><b>A:</b> $$1/8$$ \u2014 Past question (JAMB 2022). Correct answer: $$1/8$$.</p>",
+      "examples": [
+        {
+          "q": "The probability of an event A occurring is 0.3. What is the probability of A not occurring?",
+          "a": "$$0.7$$"
+        },
+        {
+          "q": "Three coins are tossed. Probability of getting 3 heads is:",
+          "a": "$$1/8$$"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "The probability of an event A occurring is 0.3. What is the probability of A not occurring?",
+      "options": [
+        "$$0.3$$",
+        "$$0.7$$",
+        "$$1.0$$",
+        "$$0.0$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$0.7$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Three coins are tossed. Probability of getting 3 heads is:",
+      "options": [
+        "$$1/8$$",
+        "$$3/8$$",
+        "$$1/2$$",
+        "$$1/4$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$1/8$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "A bag contains 3 red and 2 blue balls. Probability of picking a red ball is:",
+      "options": [
+        "$$3/5$$",
+        "$$2/5$$",
+        "$$1/2$$",
+        "$$1/3$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$3/5$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Three coins are tossed. Find the probability of getting exactly two heads.",
+      "options": [
+        "$$\\frac{3}{8}$$",
+        "$$\\frac{1}{2}$$",
+        "$$\\frac{1}{4}$$",
+        "$$\\frac{5}{8}$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$\\frac{3}{8}$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$.",
+      "options": [
+        "$1/6$",
+        "$11/12$",
+        "$5/12$",
+        "$1/12$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $1/6$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "SHM acceleration is proportional to:",
+      "options": [
+        "Displacement",
+        "Velocity",
+        "Time",
+        "Mass"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Displacement.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Limit $$ \\frac{1}{x} $$ as $$ x \\to \\infty $$.",
+      "options": [
+        "0",
+        "Infinity",
+        "1",
+        "Undefined"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 0.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Find the derivative of $$y = \\ln(\\sin x)$$.",
+      "options": [
+        "$$\\tan x$$",
+        "$$\\cot x$$",
+        "$$\\sec x$$",
+        "$$\\csc x$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$\\cot x$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the gradient of the curve $$y = x^2 - 4x$$ at the point where $$x = 3$$.",
+      "options": [
+        "$$1$$",
+        "$$2$$",
+        "$$3$$",
+        "$$4$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$2$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The centroid of a triangle with vertices $$(0,0), (4,0), (2,3)$$ is:",
+      "options": [
+        "$$(2, 1)$$",
+        "$$(2, 3)$$",
+        "$$(3, 1)$$",
+        "$$(1, 2)$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$(2, 1)$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "If $$y = e^{2x} \\cos 3x$$, find $$\\frac{dy}{dx}$$.",
+      "options": [
+        "$$e^{2x}(2\\cos 3x - 3\\sin 3x)$$",
+        "$$e^{2x}(3\\cos 3x - 2\\sin 3x)$$",
+        "$$e^{2x}(\\cos 3x + \\sin 3x)$$",
+        "$$2e^{2x}\\cos 3x$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$e^{2x}(2\\cos 3x - 3\\sin 3x)$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Calculate the mean deviation of the set: 3, 5, 8, 11, 13.",
+      "options": [
+        "$$3.2$$",
+        "$$4.0$$",
+        "$$3.0$$",
+        "$$2.8$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$3.2$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Express $$1 - i\\sqrt{3}$$ in polar form.",
+      "options": [
+        "$$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$",
+        "$$2(\\cos 60^\\circ + i\\sin 60^\\circ)$$",
+        "$$2(\\cos 330^\\circ + i\\sin 330^\\circ)$$",
+        "$$4(\\cos 300^\\circ + i\\sin 300^\\circ)$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the value of $x$ if $^xP_{2} = 110$.",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: 11.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the unit vector in the direction of $3i + 4j$.",
+      "options": [
+        "$0.6i + 0.8j$",
+        "$3i + 4j$",
+        "$0.3i + 0.4j$",
+        "$1i + 1j$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $0.6i + 0.8j$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the midpoint of the line segment joining $(4, -2)$ and $(-2, 6)$.",
+      "options": [
+        "(1, 2)",
+        "(3, 4)",
+        "(1, 4)",
+        "(2, 2)"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: (1, 2).",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the projection of vector $a = 2i + 3j$ onto $i$.",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "1"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 2.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the value of $$ k $$ if the lines $$ 2x - y + 1 = 0 $$ and $$ x + ky - 2 = 0 $$ are perpendicular.",
+      "options": [
+        "2",
+        "-2",
+        "0.5",
+        "-0.5"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: 2.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Find the variance of 1, 2, 3, 4, 5.",
+      "options": [
+        "2",
+        "4",
+        "2.5",
+        "1.414"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: 2.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Correlation coefficient $$ r $$ lies between:",
+      "options": [
+        "0 and 1",
+        "-1 and 1",
+        "-1 and 0",
+        "1 and 2"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: -1 and 1.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Diff $$ y=x^3 $$:",
+      "options": [
+        "$$ 3x^2 $$",
+        "$$ x^2 $$",
+        "$$ 3x $$",
+        "$$ x^3/3 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: $$ 3x^2 $$.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Sum roots $$ x^2-5x+6=0 $$:",
+      "options": [
+        "5",
+        "-5",
+        "6",
+        "-6"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 5.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Circle Rad $$ x^2+y^2=16 $$:",
+      "options": [
+        "4",
+        "16",
+        "8",
+        "2"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 4.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Transpose (1 2):",
+      "options": [
+        "(1; 2)",
+        "(2 1)",
+        "(1 2)",
+        "(2; 1)"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: (1; 2).",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Stat Mean:",
+      "options": [
+        "Sum/N",
+        "Mid",
+        "Freq",
+        "Max"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Sum/N.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "If $$ A = \\begin{pmatrix} 2 & 3 \\\\ 1 & 4 \\end{pmatrix} $$, find $$ |A| $$.",
+      "options": [
+        "5",
+        "11",
+        "7",
+        "-5"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 5.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Derivative of $$ \\ln(2x) $$ is:",
+      "options": [
+        "$$ 1/x $$",
+        "$$ 1/2x $$",
+        "$$ 2/x $$",
+        "$$ 2 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ 1/x $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "SHM acceleration is max at:",
+      "options": [
+        "Amplitude",
+        "Equilibrium",
+        "Midpoint",
+        "Start"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Amplitude.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Definite Integral is:",
+      "options": [
+        "Area under curve",
+        "Slope of tangent",
+        "Rate of change",
+        "Volume"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Area under curve.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Probability and Statistics (Advanced) in Probability and Statistics (Advanced)?",
+      "options": [
+        "The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$."
+      ],
+      "answer": 0,
+      "solution": "The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Probability and Statistics (Advanced) in Probability and Statistics (Advanced)?",
+      "options": [
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$."
+      ],
+      "answer": 1,
+      "solution": "The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Probability and Statistics (Advanced) in Probability and Statistics (Advanced)?",
+      "options": [
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$."
+      ],
+      "answer": 2,
+      "solution": "The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Probability and Statistics (Advanced) in Probability and Statistics (Advanced)?",
+      "options": [
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$.",
+        "The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$."
+      ],
+      "answer": 3,
+      "solution": "The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Probability and Statistics (Advanced)?",
+      "options": [
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$."
+      ],
+      "answer": 2,
+      "solution": "The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'event'?",
+      "options": [
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.",
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$."
+      ],
+      "answer": 2,
+      "solution": "The probability of an event A occurring is 0.3. What is the probability of A not occurring \u2014 $$0.7$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'coins'?",
+      "options": [
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$.",
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "Three coins are tossed. Probability of getting 3 heads is: \u2014 $$1/8$$.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$."
+      ],
+      "answer": 2,
+      "solution": "Three coins are tossed. Probability of getting 3 heads is: \u2014 $$1/8$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'bag'?",
+      "options": [
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "A bag contains 3 red and 2 blue balls. Probability of picking a red ball is: \u2014 $$3/5$$.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$."
+      ],
+      "answer": 2,
+      "solution": "A bag contains 3 red and 2 blue balls. Probability of picking a red ball is: \u2014 $$3/5$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'shm'?",
+      "options": [
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "SHM acceleration is proportional to: \u2014 Displacement.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$."
+      ],
+      "answer": 1,
+      "solution": "SHM acceleration is proportional to: \u2014 Displacement.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'limit'?",
+      "options": [
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$.",
+        "Limit $$ \\frac{1}{x} $$ as $$ x \\to \\infty $$. \u2014 0.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$."
+      ],
+      "answer": 1,
+      "solution": "Limit $$ \\frac{1}{x} $$ as $$ x \\to \\infty $$. \u2014 0.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'find'?",
+      "options": [
+        "Calculate the work done by a force $$\\mathbf{F} = (3\\mathbf{i} + 4\\mathbf{j})N$$ moving a particle from point $$(1, 2)$$ to $$(4, 6)$$. \u2014 $$25J$$.",
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "Find the derivative of $$y = \\ln(\\sin x)$$. \u2014 $$\\cot x$$."
+      ],
+      "answer": 3,
+      "solution": "Find the derivative of $$y = \\ln(\\sin x)$$. \u2014 $$\\cot x$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'centroid'?",
+      "options": [
+        "The centroid of a triangle with vertices $$(0,0), (4,0), (2,3)$$ is: \u2014 $$(2, 1)$$.",
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$."
+      ],
+      "answer": 0,
+      "solution": "The centroid of a triangle with vertices $$(0,0), (4,0), (2,3)$$ is: \u2014 $$(2, 1)$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'cos'?",
+      "options": [
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "If $$y = e^{2x} \\cos 3x$$, find $$\\frac{dy}{dx}$$. \u2014 $$e^{2x}(2\\cos 3x - 3\\sin 3x)$$.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$.",
+        "A force $F = (6i + 8j)N$ acts on a body to move it from the origin to point $(2, 3)m$. Find the work done. \u2014 36J."
+      ],
+      "answer": 1,
+      "solution": "If $$y = e^{2x} \\cos 3x$$, find $$\\frac{dy}{dx}$$. \u2014 $$e^{2x}(2\\cos 3x - 3\\sin 3x)$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'calculate'?",
+      "options": [
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$.",
+        "Calculate the mean deviation of the set: 3, 5, 8, 11, 13. \u2014 $$3.2$$.",
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$."
+      ],
+      "answer": 1,
+      "solution": "Calculate the mean deviation of the set: 3, 5, 8, 11, 13. \u2014 $$3.2$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'express'?",
+      "options": [
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$."
+      ],
+      "answer": 1,
+      "solution": "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'correlation'?",
+      "options": [
+        "Correlation coefficient $$ r $$ lies between: \u2014 -1 and 1.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$."
+      ],
+      "answer": 0,
+      "solution": "Correlation coefficient $$ r $$ lies between: \u2014 -1 and 1.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'diff'?",
+      "options": [
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$.",
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "Diff $$ y=x^3 $$: \u2014 $$ 3x^2 $$."
+      ],
+      "answer": 3,
+      "solution": "Diff $$ y=x^3 $$: \u2014 $$ 3x^2 $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'sum'?",
+      "options": [
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$.",
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "Sum roots $$ x^2-5x+6=0 $$: \u2014 5."
+      ],
+      "answer": 3,
+      "solution": "Sum roots $$ x^2-5x+6=0 $$: \u2014 5.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'circle'?",
+      "options": [
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "Circle Rad $$ x^2+y^2=16 $$: \u2014 4.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$."
+      ],
+      "answer": 2,
+      "solution": "Circle Rad $$ x^2+y^2=16 $$: \u2014 4.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'transpose'?",
+      "options": [
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$.",
+        "Transpose (1 2): \u2014 (1; 2)."
+      ],
+      "answer": 3,
+      "solution": "Transpose (1 2): \u2014 (1; 2).",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Probability and Statistics (Advanced) \u2014 'stat'?",
+      "options": [
+        "Derivative of $$ \\sin x $$. \u2014 $$ \\cos x $$.",
+        "Stat Mean: \u2014 Sum/N.",
+        "Integrate $$ e^{2x} $$. \u2014 $$ \\frac{1}{2}e^{2x} + c $$.",
+        "A force of 10N acts on a body of mass 2kg. Find the acceleration. \u2014 $$5 m/s^2$$."
+      ],
+      "answer": 1,
+      "solution": "Stat Mean: \u2014 Sum/N.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

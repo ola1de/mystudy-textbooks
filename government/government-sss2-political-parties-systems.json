@@ -19,7 +19,7 @@
       "examples": [
         {
           "q": "Why is a trade union not a political party even when it endorses a candidate?",
-          "a": "Its primary purpose is to protect the sectional interest of its members — wages and conditions — not to capture government. It does not present a comprehensive national programme, does not field candidates under its own name, and bears no responsibility for governing. Endorsement is a pressure tactic, not party competition. Where a union does form a party (as with the Labour Party's origins), the new body becomes a party in its own right."
+          "a": "Its primary purpose is to protect the sectional interest of its members \u2014 wages and conditions \u2014 not to capture government. It does not present a comprehensive national programme, does not field candidates under its own name, and bears no responsibility for governing. Endorsement is a pressure tactic, not party competition. Where a union does form a party (as with the Labour Party's origins), the new body becomes a party in its own right."
         },
         {
           "q": "Explain the function of a shadow cabinet.",
@@ -29,7 +29,7 @@
     },
     {
       "title": "Party Systems and Party Organisation",
-      "html": "\n<h4>1. Types of Party System</h4>\n<table class=\"tb-table\">\n<tr><th>System</th><th>Description</th><th>Merits</th><th>Demerits</th><th>Example</th></tr>\n<tr><td>One-party</td><td>Only one legal party</td><td>National unity, avoids ethnic party rivalry, cheap</td><td>Dictatorship, no alternative, apathy, no accountability</td><td>Ghana under Nkrumah; Tanzania under Nyerere</td></tr>\n<tr><td>Two-party</td><td>Two dominant parties alternate in power</td><td>Clear choice, stable majority government, effective opposition</td><td>Limits choice, may exclude minorities, encourages polarisation</td><td>USA, UK; Nigeria 1989–1993 (SDP and NRC)</td></tr>\n<tr><td>Multi-party</td><td>Several parties compete</td><td>Wide choice, reflects diversity, protects minorities</td><td>Coalition instability, expensive, weak governments</td><td>Nigeria's Fourth Republic, India, Italy</td></tr>\n</table>\n<h4>2. Organisation</h4>\n<p>Nigerian parties are structured from the <b>ward</b> through the <b>local government</b> and <b>state</b> to the <b>national</b> level, with organs including the National Convention (supreme organ), National Executive Committee, National Working Committee, and caucuses. Candidates emerge through <b>primaries</b>, which may be direct (all members vote), indirect (delegates vote) or by consensus.</p>\n<h4>3. Party Finance and Discipline</h4>\n<ul><li>Sources: membership dues, nomination fees, levies on office holders, donations, fundraising, and (formerly) government grants.</li><li>Discipline: the whip system, the party constitution, suspension or expulsion, and denial of nomination. In Nigeria a legislator who defects without a division in his party may lose his seat under sections 68 and 109.</li></ul>\n<h4>4. Parties in Nigerian History</h4>\n<ol><li><b>1923</b> — Nigerian National Democratic Party (NNDP), Herbert Macaulay, Nigeria's first party.</li><li><b>1934/1936</b> — Nigerian Youth Movement (NYM).</li><li><b>1944</b> — NCNC (Azikiwe and Macaulay); <b>1951</b> — Action Group (Awolowo); <b>1951</b> — Northern People's Congress (Ahmadu Bello, Balewa).</li><li><b>Second Republic (1979–1983)</b> — NPN, UPN, NPP, GNPP, PRP, later NAP.</li><li><b>Third Republic (1989–1993)</b> — SDP and NRC, created by decree.</li><li><b>Fourth Republic (1999–)</b> — PDP, APP/ANPP, AD; later APC (2013 merger of ACN, CPC, ANPP and a faction of APGA), LP, NNPP and others.</li></ol>\n",
+      "html": "\n<h4>1. Types of Party System</h4>\n<table class=\"tb-table\">\n<tr><th>System</th><th>Description</th><th>Merits</th><th>Demerits</th><th>Example</th></tr>\n<tr><td>One-party</td><td>Only one legal party</td><td>National unity, avoids ethnic party rivalry, cheap</td><td>Dictatorship, no alternative, apathy, no accountability</td><td>Ghana under Nkrumah; Tanzania under Nyerere</td></tr>\n<tr><td>Two-party</td><td>Two dominant parties alternate in power</td><td>Clear choice, stable majority government, effective opposition</td><td>Limits choice, may exclude minorities, encourages polarisation</td><td>USA, UK; Nigeria 1989\u20131993 (SDP and NRC)</td></tr>\n<tr><td>Multi-party</td><td>Several parties compete</td><td>Wide choice, reflects diversity, protects minorities</td><td>Coalition instability, expensive, weak governments</td><td>Nigeria's Fourth Republic, India, Italy</td></tr>\n</table>\n<h4>2. Organisation</h4>\n<p>Nigerian parties are structured from the <b>ward</b> through the <b>local government</b> and <b>state</b> to the <b>national</b> level, with organs including the National Convention (supreme organ), National Executive Committee, National Working Committee, and caucuses. Candidates emerge through <b>primaries</b>, which may be direct (all members vote), indirect (delegates vote) or by consensus.</p>\n<h4>3. Party Finance and Discipline</h4>\n<ul><li>Sources: membership dues, nomination fees, levies on office holders, donations, fundraising, and (formerly) government grants.</li><li>Discipline: the whip system, the party constitution, suspension or expulsion, and denial of nomination. In Nigeria a legislator who defects without a division in his party may lose his seat under sections 68 and 109.</li></ul>\n<h4>4. Parties in Nigerian History</h4>\n<ol><li><b>1923</b> \u2014 Nigerian National Democratic Party (NNDP), Herbert Macaulay, Nigeria's first party.</li><li><b>1934/1936</b> \u2014 Nigerian Youth Movement (NYM).</li><li><b>1944</b> \u2014 NCNC (Azikiwe and Macaulay); <b>1951</b> \u2014 Action Group (Awolowo); <b>1951</b> \u2014 Northern People's Congress (Ahmadu Bello, Balewa).</li><li><b>Second Republic (1979\u20131983)</b> \u2014 NPN, UPN, NPP, GNPP, PRP, later NAP.</li><li><b>Third Republic (1989\u20131993)</b> \u2014 SDP and NRC, created by decree.</li><li><b>Fourth Republic (1999\u2013)</b> \u2014 PDP, APP/ANPP, AD; later APC (2013 merger of ACN, CPC, ANPP and a faction of APGA), LP, NNPP and others.</li></ol>\n",
       "examples": [
         {
           "q": "Why were the SDP and NRC described as government-created parties?",
@@ -37,7 +37,49 @@
         },
         {
           "q": "Identify two dangers of ethnic-based parties, using Nigeria's First Republic.",
-          "a": "(i) They convert elections into ethnic censuses: NPC (North), NCNC (East) and AG (West) each dominated a region, so national contests became regional confrontations. (ii) They make coalitions fragile and encourage regional rather than national policy — contributing to the 1962 Western Region crisis, the disputed 1964 federal election and ultimately the collapse of the First Republic in 1966."
+          "a": "(i) They convert elections into ethnic censuses: NPC (North), NCNC (East) and AG (West) each dominated a region, so national contests became regional confrontations. (ii) They make coalitions fragile and encourage regional rather than national policy \u2014 contributing to the 1962 Western Region crisis, the disputed 1964 federal election and ultimately the collapse of the First Republic in 1966."
+        }
+      ]
+    },
+    {
+      "title": "Meaning and features of a political party",
+      "html": "<p><b>Meaning and features of a political party</b> is a key part of Political Parties and Party Systems (SSS 2, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Definition and Features A political party is an organised group of people sharing broadly similar political beliefs, whose principal aim is to capture and control the machinery of government through constitutional means, usually elections.</li><li>Features: organised structure from ward to national level; a constitution and manifesto; identifiable symbol, name and motto; voluntary membership; a broad programme covering national issues; commitment to winning power lawfully; sources of funds; discipline over members.</li><li>Recruiting and grooming political leaders.</li><li>Political education and socialisation of the electorate.</li><li>Ensuring accountability through internal and inter-party competition.</li></ul><h4>Worked example</h4><p><b>Q:</b> The primary aim of a political party is to:<br/><b>A:</b> Capture and control government \u2014 Parties seek to win governmental power through elections.</p><p><b>Q:</b> Nigeria's first political party was the:<br/><b>A:</b> NNDP (1923) \u2014 Herbert Macaulay founded the Nigerian National Democratic Party in 1923 after the Clifford Constitution introduced elections.</p>",
+      "examples": [
+        {
+          "q": "The primary aim of a political party is to:",
+          "a": "Capture and control government \u2014 Parties seek to win governmental power through elections."
+        },
+        {
+          "q": "Nigeria's first political party was the:",
+          "a": "NNDP (1923) \u2014 Herbert Macaulay founded the Nigerian National Democratic Party in 1923 after the Clifford Constitution introduced elections."
+        }
+      ]
+    },
+    {
+      "title": "Manifestos and party ideology",
+      "html": "<p><b>Manifestos and party ideology</b> is a key part of Political Parties and Party Systems (SSS 2, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Definition and Features A political party is an organised group of people sharing broadly similar political beliefs, whose principal aim is to capture and control the machinery of government through constitutional means, usually elections.</li><li>Ensuring accountability through internal and inter-party competition.</li><li>Party versus Pressure Group Criterion Political party Pressure group Aim Capture government Influence government Scope of interest Broad, national Narrow, sectional Elections Sponsors candidates Does not normally contest Responsibility Accountable if it forms government Bears no governmental responsibility</li><li>Types of Party System System Description Merits Demerits Example One-party Only one legal party National unity, avoids ethnic party rivalry, cheap Dictatorship, no alternative, apathy, no accountability Ghana under Nkrumah; Tanzania under Nyerere Two-party Two dominant parties alternate in power Clear choice, stable majority government, effective opposition Limits choice, may exclude minorities, encourages polarisation USA, UK; Nigeria 1989\u20131993 (SDP and NRC) Multi-party Several parties compete Wide choice, reflects diversity, protects minorities Coalition instability, expensive, weak governments Nigeria's Fourth Republic, India, Italy 2.</li><li>Party Finance and Discipline Sources: membership dues, nomination fees, levies on office holders, donations, fundraising, and (formerly) government grants.</li></ul><h4>Worked example</h4><p><b>Q:</b> The primary aim of a political party is to:<br/><b>A:</b> Capture and control government \u2014 Parties seek to win governmental power through elections.</p><p><b>Q:</b> Nigeria's first political party was the:<br/><b>A:</b> NNDP (1923) \u2014 Herbert Macaulay founded the Nigerian National Democratic Party in 1923 after the Clifford Constitution introduced elections.</p>",
+      "examples": [
+        {
+          "q": "The primary aim of a political party is to:",
+          "a": "Capture and control government \u2014 Parties seek to win governmental power through elections."
+        },
+        {
+          "q": "Nigeria's first political party was the:",
+          "a": "NNDP (1923) \u2014 Herbert Macaulay founded the Nigerian National Democratic Party in 1923 after the Clifford Constitution introduced elections."
+        }
+      ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> The primary aim of a political party is to:<br/><b>A:</b> Capture and control government \u2014 Parties seek to win governmental power through elections.</p><p><b>Q:</b> Nigeria's first political party was the:<br/><b>A:</b> NNDP (1923) \u2014 Herbert Macaulay founded the Nigerian National Democratic Party in 1923 after the Clifford Constitution introduced elections.</p><p><b>Q:</b> Which party was led by Obafemi Awolowo in the First Republic?<br/><b>A:</b> AG \u2014 Awolowo led the Action Group, formed in 1951 from the Egbe Omo Oduduwa.</p>",
+      "examples": [
+        {
+          "q": "The primary aim of a political party is to:",
+          "a": "Capture and control government"
+        },
+        {
+          "q": "Nigeria's first political party was the:",
+          "a": "NNDP (1923)"
         }
       ]
     }
@@ -52,7 +94,9 @@
         "Run a newspaper"
       ],
       "answer": 1,
-      "solution": "Parties seek to win governmental power through elections."
+      "solution": "Parties seek to win governmental power through elections.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nigeria's first political party was the:",
@@ -63,7 +107,9 @@
         "NPC"
       ],
       "answer": 1,
-      "solution": "Herbert Macaulay founded the Nigerian National Democratic Party in 1923 after the Clifford Constitution introduced elections."
+      "solution": "Herbert Macaulay founded the Nigerian National Democratic Party in 1923 after the Clifford Constitution introduced elections.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which party was led by Obafemi Awolowo in the First Republic?",
@@ -74,7 +120,9 @@
         "UMBC"
       ],
       "answer": 1,
-      "solution": "Awolowo led the Action Group, formed in 1951 from the Egbe Omo Oduduwa."
+      "solution": "Awolowo led the Action Group, formed in 1951 from the Egbe Omo Oduduwa.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A system with two dominant parties is a:",
@@ -85,7 +133,9 @@
         "No-party system"
       ],
       "answer": 1,
-      "solution": "Two major parties realistically alternate in power."
+      "solution": "Two major parties realistically alternate in power.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The SDP and NRC were created in:",
@@ -96,7 +146,9 @@
         "1999"
       ],
       "answer": 2,
-      "solution": "The Babangida regime decreed the two parties into existence in 1989."
+      "solution": "The Babangida regime decreed the two parties into existence in 1989.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A document stating a party's programme is its:",
@@ -107,7 +159,9 @@
         "Warrant"
       ],
       "answer": 0,
-      "solution": "The manifesto sets out promises and policies for the electorate."
+      "solution": "The manifesto sets out promises and policies for the electorate.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The supreme organ of a Nigerian political party is normally the:",
@@ -118,7 +172,9 @@
         "Campaign council"
       ],
       "answer": 0,
-      "solution": "The National Convention is the highest decision-making body of the party."
+      "solution": "The National Convention is the highest decision-making body of the party.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Party discipline in the legislature is enforced by the:",
@@ -129,7 +185,9 @@
         "Sergeant-at-arms"
       ],
       "answer": 0,
-      "solution": "The whip ensures members attend and vote along party lines."
+      "solution": "The whip ensures members attend and vote along party lines.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A demerit of the one-party system is:",
@@ -140,7 +198,9 @@
         "Reduced ethnic rivalry"
       ],
       "answer": 1,
-      "solution": "With no legal opposition, citizens have no alternative and accountability weakens."
+      "solution": "With no legal opposition, citizens have no alternative and accountability weakens.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The APC was formed in 2013 by the merger of ACN, CPC, ANPP and a faction of:",
@@ -151,7 +211,9 @@
         "NNPP"
       ],
       "answer": 1,
-      "solution": "A faction of the All Progressives Grand Alliance joined the merger."
+      "solution": "A faction of the All Progressives Grand Alliance joined the merger.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is NOT a function of political parties?",
@@ -162,7 +224,9 @@
         "Political education"
       ],
       "answer": 2,
-      "solution": "Adjudication belongs to the courts, not to parties."
+      "solution": "Adjudication belongs to the courts, not to parties.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Selection of candidates within a party is done through:",
@@ -173,7 +237,9 @@
         "Plebiscite"
       ],
       "answer": 0,
-      "solution": "Party primaries, direct or indirect, nominate candidates."
+      "solution": "Party primaries, direct or indirect, nominate candidates.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Sections 68 and 109 of the 1999 Constitution deal with:",
@@ -184,7 +250,9 @@
         "State creation"
       ],
       "answer": 0,
-      "solution": "A legislator who defects without a division in his party may forfeit his seat."
+      "solution": "A legislator who defects without a division in his party may forfeit his seat.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The NCNC was founded in 1944 by Azikiwe and:",
@@ -195,7 +263,9 @@
         "Aminu Kano"
       ],
       "answer": 0,
-      "solution": "Macaulay was the first president of the NCNC, with Azikiwe as secretary."
+      "solution": "Macaulay was the first president of the NCNC, with Azikiwe as secretary.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A multi-party system is common in societies that are:",
@@ -206,7 +276,9 @@
         "Monarchical"
       ],
       "answer": 1,
-      "solution": "Diversity of interests produces many parties seeking representation."
+      "solution": "Diversity of interests produces many parties seeking representation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A party's ward-level structure exists mainly to:",
@@ -217,7 +289,451 @@
         "Appoint judges"
       ],
       "answer": 0,
-      "solution": "Wards are the base units for membership registration and grassroots mobilisation."
+      "solution": "Wards are the base units for membership registration and grassroots mobilisation.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A one-party system promotes:",
+      "options": [
+        "Democracy",
+        "Dictatorship",
+        "Free press",
+        "Multiple choices"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: Dictatorship.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The transition program of General Sani Abacha had how many registered parties?",
+      "options": [
+        "2",
+        "10",
+        "30",
+        "5"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 5.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which party won the highest number of seats in the 1959 federal elections?",
+      "options": [
+        "Action Group (AG)",
+        "NCNC",
+        "NPC",
+        "NEPU"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: NPC.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The concept of 'Checks and Balances' prevents:",
+      "options": [
+        "Democracy",
+        "Dictatorship",
+        "Election",
+        "Voting"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Dictatorship.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The Aba Women's Riot occurred in:",
+      "options": [
+        "1929",
+        "1945",
+        "1914",
+        "1953"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 1929.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "A vote of no confidence is a feature of:",
+      "options": [
+        "Presidential system",
+        "Parliamentary system",
+        "Unitary system",
+        "Monarchy"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Parliamentary system.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The NYSC scheme was established by:",
+      "options": [
+        "Yakubu Gowon",
+        "Murtala Muhammed",
+        "Obasanjo",
+        "Babangida"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Yakubu Gowon.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Pressure groups aim to:",
+      "options": [
+        "Take over government",
+        "Influence government policies",
+        "Cause war",
+        "Build schools"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Influence government policies.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Who annulled the June 12 1993 election?",
+      "options": [
+        "Sani Abacha",
+        "Ibrahim Babangida",
+        "Yakubu Gowon",
+        "Abdulsalami Abubakar"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Ibrahim Babangida.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The 'Warrant Chief' system was used in:",
+      "options": [
+        "Northern Nigeria",
+        "Eastern Nigeria",
+        "Western Nigeria",
+        "Lagos"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Eastern Nigeria.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The Motion for Independence was moved by:",
+      "options": [
+        "Azikiwe",
+        "Awolowo",
+        "Enahoro",
+        "Balewa"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: Enahoro.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "NEPAD is an initiative of the:",
+      "options": [
+        "AU",
+        "EU",
+        "UN",
+        "ECOWAS"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: AU.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Fascism is associated with:",
+      "options": [
+        "Hitler",
+        "Mussolini",
+        "Stalin",
+        "Churchill"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Mussolini.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a feature of a pressure group?",
+      "options": [
+        "It seeks to control the government",
+        "It nominates candidates for elections",
+        "It protects the interest of members",
+        "It is formed by the government"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: It protects the interest of members.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The Economic Community of West African States (ECOWAS) was established in:",
+      "options": [
+        "1963",
+        "1975",
+        "1980",
+        "1990"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: 1975.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The head of the Commonwealth of Nations is the:",
+      "options": [
+        "British Monarch",
+        "American President",
+        "Secretary General",
+        "Prime Minister of Canada"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: British Monarch.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "A constitution that is difficult to amend is called:",
+      "options": [
+        "Flexible",
+        "Rigid",
+        "Unwritten",
+        "Unitary"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Rigid.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The NCNC was formed in:",
+      "options": [
+        "1944",
+        "1951",
+        "1960",
+        "1922"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: 1944.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The principle of checks and balances prevents:",
+      "options": [
+        "Economic recession",
+        "Dictatorship",
+        "Elections",
+        "Coups"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Dictatorship.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The Warrant Chiefs system was introduced in:",
+      "options": [
+        "Northern Nigeria",
+        "Western Nigeria",
+        "Eastern Nigeria",
+        "Southern Africa"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Eastern Nigeria.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The African Union (AU) replaced the:",
+      "options": [
+        "OAU",
+        "ECOWAS",
+        "UNO",
+        "Commonwealth"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: OAU.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Who is the current Secretary-General of the UN (as of 2022)?",
+      "options": [
+        "Kofi Annan",
+        "Ban Ki-moon",
+        "Antonio Guterres",
+        "Boutros Boutros-Ghali"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Antonio Guterres.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "A vote of no confidence is used to remove the:",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Chief Justice",
+        "Governor"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Prime Minister.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Constitutionalism means:",
+      "options": [
+        "Writing a constitution",
+        "Adherence to the constitution",
+        "Amending the constitution",
+        "Suspending the constitution"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Adherence to the constitution.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The main function of the Judiciary is to:",
+      "options": [
+        "Make laws",
+        "Interpret laws",
+        "Enforce laws",
+        "Amend laws"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Interpret laws.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The Bimodal Voter Accreditation System (BVAS) was introduced to:",
+      "options": [
+        "Enhance credibility of accreditation",
+        "Replace voting",
+        "Count money",
+        "Register parties"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Enhance credibility of accreditation.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The headquarters of ECOWAS is in:",
+      "options": [
+        "Accra",
+        "Lome",
+        "Abuja",
+        "Dakar"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: Abuja.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Clifford Constitution of 1922 introduced:",
+      "options": [
+        "Universal Suffrage",
+        "Elective Principle",
+        "Federalism",
+        "Cabinet System"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Elective Principle.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The motion for independence was moved in 1953 by:",
+      "options": [
+        "Nnamdi Azikiwe",
+        "Anthony Enahoro",
+        "Tafawa Balewa",
+        "Obafemi Awolowo"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Anthony Enahoro.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The NYSC was established by:",
+      "options": [
+        "Yakubu Gowon",
+        "Murtala Muhammed",
+        "Obasanjo",
+        "Babangida"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Yakubu Gowon.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "OPEC headquarters is in:",
+      "options": [
+        "Geneva",
+        "Vienna",
+        "New York",
+        "London"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Vienna.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Checks and Balances prevents:",
+      "options": [
+        "Dictatorship",
+        "Democracy",
+        "Election",
+        "Voting"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Dictatorship.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The primary duty of a citizen is:",
+      "options": [
+        "Allegiance to the state",
+        "Joining a party",
+        "Travelling",
+        "Being rich"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Allegiance to the state.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "A constitution that is difficult to amend is:",
+      "options": [
+        "Flexible",
+        "Rigid",
+        "Unwritten",
+        "Unitary"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Rigid.",
+      "source": "JAMB 2023",
+      "practice": false
     }
   ]
 }

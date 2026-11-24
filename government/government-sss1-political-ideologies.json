@@ -46,11 +46,35 @@
     },
     {
       "title": "Communism, Fascism and Welfarism",
-      "html": "<p><b>Communism</b> is the extreme form of socialism developed by Karl Marx and Friedrich Engels in <i>The Communist Manifesto</i>\n(1848). Key ideas: history is a series of class struggles; capitalism creates its own gravediggers in the proletariat; a\nrevolution establishes a dictatorship of the proletariat; and eventually the state “withers away”, leaving a classless,\nstateless society governed by the principle “from each according to his ability, to each according to his needs.”</p>\n<p><b>Fascism</b> (Mussolini's Italy, 1922) and <b>Nazism</b> (Hitler's Germany, 1933) are extreme right-wing ideologies.\nFeatures: glorification of the state above the individual, one-party rule, an all-powerful leader, militarism and expansionism,\nsuppression of opposition and free press, racialism (in the Nazi form), and corporatist control of the economy.</p>\n<p><b>Welfarism</b> holds that the state is responsible for the basic well-being of its citizens &mdash; free or subsidised\neducation, health care, pensions, unemployment benefit &mdash; financed by progressive taxation while private enterprise\ncontinues. It is the middle way associated with Scandinavian countries and post-1945 Britain, and it underpins Chapter II of\nNigeria's 1999 Constitution (Fundamental Objectives and Directive Principles of State Policy).</p>",
+      "html": "<p><b>Communism</b> is the extreme form of socialism developed by Karl Marx and Friedrich Engels in <i>The Communist Manifesto</i>\n(1848). Key ideas: history is a series of class struggles; capitalism creates its own gravediggers in the proletariat; a\nrevolution establishes a dictatorship of the proletariat; and eventually the state \u201cwithers away\u201d, leaving a classless,\nstateless society governed by the principle \u201cfrom each according to his ability, to each according to his needs.\u201d</p>\n<p><b>Fascism</b> (Mussolini's Italy, 1922) and <b>Nazism</b> (Hitler's Germany, 1933) are extreme right-wing ideologies.\nFeatures: glorification of the state above the individual, one-party rule, an all-powerful leader, militarism and expansionism,\nsuppression of opposition and free press, racialism (in the Nazi form), and corporatist control of the economy.</p>\n<p><b>Welfarism</b> holds that the state is responsible for the basic well-being of its citizens &mdash; free or subsidised\neducation, health care, pensions, unemployment benefit &mdash; financed by progressive taxation while private enterprise\ncontinues. It is the middle way associated with Scandinavian countries and post-1945 Britain, and it underpins Chapter II of\nNigeria's 1999 Constitution (Fundamental Objectives and Directive Principles of State Policy).</p>",
       "examples": [
         {
           "q": "According to Marx, what happens to the state under full communism?",
           "a": "It withers away. Since the state is an instrument of class domination, once classes disappear the state loses its purpose and dissolves into an administration of things."
+        }
+      ]
+    },
+    {
+      "title": "Meaning and functions of ideology",
+      "html": "<p><b>Meaning and functions of ideology</b> is a key part of Major Political Ideologies and Systems (SSS 1, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>An ideology is a coherent set of beliefs, ideas and ideals about how society should be organised, together with a programme for achieving that arrangement.</li><li>Functions of ideology: it provides identity and cohesion for a group, guides policy choice, legitimises a regime, mobilises the masses for action, and offers a yardstick for criticising government.</li><li>Ideology combines a diagnosis, an ideal and a programme.</li></ul><h4>Worked example</h4><p><b>Q:</b> An ideology is best defined as<br/><b>A:</b> A set of beliefs about how society should be organised \u2014 Ideology combines a diagnosis, an ideal and a programme.</p>",
+      "examples": [
+        {
+          "q": "An ideology is best defined as",
+          "a": "A set of beliefs about how society should be organised \u2014 Ideology combines a diagnosis, an ideal and a programme."
+        }
+      ]
+    },
+    {
+      "title": "Capitalism: features, merits and demerits",
+      "html": "<p><b>Capitalism: features, merits and demerits</b> is a key part of Major Political Ideologies and Systems (SSS 1, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Its features: Land and major resources are owned collectively by the community or lineage, not by individuals.</li><li>Its features: Ownership of land by a small class of lords; the serf or peasant works land he does not own.</li><li>Basis Capitalism Socialism Ownership Private ownership of the means of production.</li><li>Merits of capitalism: efficiency, innovation, consumer choice, individual freedom, reward for enterprise.</li><li>Demerits: gross inequality, exploitation of labour, unemployment, boom-and-bust cycles, neglect of unprofitable social services.</li></ul><h4>Worked example</h4><p><b>Q:</b> Collective ownership of land in pre-colonial Africa illustrates<br/><b>A:</b> Communalism \u2014 Communalism features communal ownership and production for use.</p><p><b>Q:</b> The chief motive of capitalism is<br/><b>A:</b> Profit \u2014 Profit maximisation drives capitalist production.</p>",
+      "examples": [
+        {
+          "q": "Collective ownership of land in pre-colonial Africa illustrates",
+          "a": "Communalism \u2014 Communalism features communal ownership and production for use."
+        },
+        {
+          "q": "The chief motive of capitalism is",
+          "a": "Profit \u2014 Profit maximisation drives capitalist production."
         }
       ]
     }
@@ -65,7 +89,9 @@
         "An economic plan"
       ],
       "answer": 1,
-      "solution": "Ideology combines a diagnosis, an ideal and a programme."
+      "solution": "Ideology combines a diagnosis, an ideal and a programme.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Collective ownership of land in pre-colonial Africa illustrates",
@@ -76,7 +102,9 @@
         "Fascism"
       ],
       "answer": 2,
-      "solution": "Communalism features communal ownership and production for use."
+      "solution": "Communalism features communal ownership and production for use.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "In feudalism, the class that works land it does not own is the",
@@ -87,7 +115,9 @@
         "Clergy"
       ],
       "answer": 1,
-      "solution": "Serfs or peasants till the lord's land."
+      "solution": "Serfs or peasants till the lord's land.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The chief motive of capitalism is",
@@ -98,7 +128,9 @@
         "Planning"
       ],
       "answer": 1,
-      "solution": "Profit maximisation drives capitalist production."
+      "solution": "Profit maximisation drives capitalist production.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Socialism advocates",
@@ -109,7 +141,9 @@
         "Hereditary rule"
       ],
       "answer": 1,
-      "solution": "Collective ownership is the core socialist principle."
+      "solution": "Collective ownership is the core socialist principle.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The Communist Manifesto</i> was written by",
@@ -120,7 +154,9 @@
         "Smith and Ricardo"
       ],
       "answer": 1,
-      "solution": "Published in 1848."
+      "solution": "Published in 1848.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "'From each according to his ability, to each according to his needs' describes",
@@ -131,7 +167,9 @@
         "Fascism"
       ],
       "answer": 2,
-      "solution": "It is the distributive principle of full communism."
+      "solution": "It is the distributive principle of full communism.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Fascism is associated with",
@@ -142,7 +180,9 @@
         "Nyerere"
       ],
       "answer": 0,
-      "solution": "Benito Mussolini founded fascism in Italy in 1922."
+      "solution": "Benito Mussolini founded fascism in Italy in 1922.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A distinguishing feature of fascism is",
@@ -153,7 +193,9 @@
         "Free press"
       ],
       "answer": 1,
-      "solution": "The individual is wholly subordinated to the state."
+      "solution": "The individual is wholly subordinated to the state.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An economy combining private and public ownership is",
@@ -164,7 +206,9 @@
         "Barter economy"
       ],
       "answer": 1,
-      "solution": "Nigeria operates a mixed economy."
+      "solution": "Nigeria operates a mixed economy.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A major criticism of capitalism is",
@@ -175,7 +219,9 @@
         "Absence of competition"
       ],
       "answer": 1,
-      "solution": "Capitalism concentrates wealth and widens inequality."
+      "solution": "Capitalism concentrates wealth and widens inequality.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A major criticism of socialism is",
@@ -186,7 +232,9 @@
         "Consumer sovereignty"
       ],
       "answer": 1,
-      "solution": "State planning can dull individual incentive."
+      "solution": "State planning can dull individual incentive.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Ujamaa was practised in",
@@ -197,7 +245,9 @@
         "Zambia"
       ],
       "answer": 1,
-      "solution": "Julius Nyerere's African socialism in Tanzania."
+      "solution": "Julius Nyerere's African socialism in Tanzania.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Welfarism means that the state",
@@ -208,7 +258,9 @@
         "Bans private business"
       ],
       "answer": 1,
-      "solution": "Welfare provision financed by taxation, alongside private enterprise."
+      "solution": "Welfare provision financed by taxation, alongside private enterprise.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Chapter II of the 1999 Constitution deals with",
@@ -219,7 +271,9 @@
         "The judiciary"
       ],
       "answer": 1,
-      "solution": "It sets out welfare-oriented state objectives."
+      "solution": "It sets out welfare-oriented state objectives.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Marx argued that history is essentially a record of",
@@ -230,7 +284,451 @@
         "Constitutional development"
       ],
       "answer": 1,
-      "solution": "Historical materialism sees class struggle as the engine of history."
+      "solution": "Historical materialism sees class struggle as the engine of history.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A major advantage of a bicameral legislature is that it _____.",
+      "options": [
+        "is less expensive to maintain",
+        "hastens the law-making process",
+        "prevents the passage of hasty legislation",
+        "concentrates power in one house"
+      ],
+      "answer": 2,
+      "solution": "Bicameralism (having two houses) allows the second chamber to act as a check on the first, ensuring that bills are thoroughly debated and not passed in a hurry.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A major criticism of the 1946 Richards Constitution was?",
+      "options": [
+        "It was too long",
+        "It was drafted without consultation with Nigerians",
+        "It abolished the regions",
+        "It was too expensive"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: It was drafted without consultation with Nigerians.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A major function of the Civil Service is?",
+      "options": [
+        "Campaigning for the ruling party",
+        "Ensuring continuity in government administration",
+        "Passing laws in the Senate",
+        "Leading the country into war"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Ensuring continuity in government administration.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A major reason for the failure of the \u2018League of Nations\u2019 was?",
+      "options": [
+        "It had too much money",
+        "It failed to prevent World War II",
+        "It had too many members",
+        "It was too powerful"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: It failed to prevent World War II.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Socialism is an ideology that emphasizes _____.",
+      "options": [
+        "Private ownership of means of production",
+        "State ownership and distribution of resources",
+        "Military rule",
+        "Individualism"
+      ],
+      "answer": 1,
+      "solution": "Socialism advocates that the means of production, distribution, and exchange should be owned or regulated by the community as a whole.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The theory of socialism was popularized by:",
+      "options": [
+        "Karl Marx",
+        "Adolf Hitler",
+        "Benito Mussolini",
+        "Adam Smith"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: Karl Marx.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Fascism originated in _____.",
+      "options": [
+        "Germany",
+        "Italy",
+        "Russia",
+        "Spain"
+      ],
+      "answer": 1,
+      "solution": "Fascism was founded by Benito Mussolini in Italy after World War I.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The first military coup in Nigeria took place in:",
+      "options": [
+        "July 1966",
+        "Jan 1966",
+        "1975",
+        "1983"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Jan 1966.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Nigeria became a Republic in:",
+      "options": [
+        "1960",
+        "1963",
+        "1979",
+        "1999"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: 1963.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Who was the first Governor-General of colonial Nigeria?",
+      "options": [
+        "Lord Lugard",
+        "Clifford",
+        "Richards",
+        "Macpherson"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Lord Lugard.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The first Prime Minister of Nigeria was:",
+      "options": [
+        "Nnamdi Azikiwe",
+        "Tafawa Balewa",
+        "Ahmadu Bello",
+        "Okotie Eboh"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Tafawa Balewa.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The struggle for independence in Nigeria was led by:",
+      "options": [
+        "Nationalists",
+        "Traditional rulers",
+        "Military",
+        "Farmers"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Nationalists.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Nigeria operates a:",
+      "options": [
+        "One party system",
+        "Multi-party system",
+        "Zero party system",
+        "Two party system"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Multi-party system.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The head of the Judiciary in Nigeria is:",
+      "options": [
+        "Attorney General",
+        "Chief Justice of Nigeria (CJN)",
+        "President of Appeal Court",
+        "Inspector General"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Chief Justice of Nigeria (CJN).",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Capitalism is characterized by:",
+      "options": [
+        "State ownership",
+        "Private ownership",
+        "Communal living",
+        "No money"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Private ownership.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The first military coup in Nigeria took place on:",
+      "options": [
+        "January 15, 1966",
+        "July 29, 1966",
+        "October 1, 1960",
+        "May 29, 1999"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: January 15, 1966.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Who was the first Governor-General of Nigeria?",
+      "options": [
+        "Lord Lugard",
+        "Sir Clifford",
+        "Nnamdi Azikiwe",
+        "Tafawa Balewa"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: Lord Lugard.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The struggle for nationalism in Nigeria was spearheaded by:",
+      "options": [
+        "Traditional rulers",
+        "Educated elite",
+        "Farmers",
+        "Military"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Educated elite.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The highest court in Nigeria is the:",
+      "options": [
+        "High Court",
+        "Court of Appeal",
+        "Supreme Court",
+        "Sharia Court"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Supreme Court.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The privatization policy in Nigeria was handled by:",
+      "options": [
+        "INEC",
+        "BPE",
+        "EFCC",
+        "NDLEA"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: BPE.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The 2023 General Elections in Nigeria were conducted by:",
+      "options": [
+        "FEDECO",
+        "NEC",
+        "INEC",
+        "NECON"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: INEC.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The legislature in Nigeria is:",
+      "options": [
+        "Unicameral",
+        "Bicameral",
+        "Tricameral",
+        "Multicameral"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Bicameral.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The Civil War in Nigeria lasted from:",
+      "options": [
+        "1960-1963",
+        "1967-1970",
+        "1979-1983",
+        "1993-1999"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: 1967-1970.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Nigeria has how many Geopolitical Zones?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "36"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: 6.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The theory of 'Separation of Powers' was developed to...",
+      "options": [
+        "Make the government more powerful",
+        "Ensure checks and balances and prevent tyranny",
+        "Promote military intervention",
+        "Reduce the number of political parties"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Ensure checks and balances and prevent tyranny.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The policy of 'Indirect Rule' was introduced in Nigeria by...",
+      "options": [
+        "Sir Frederick Lugard",
+        "Sir Arthur Richards",
+        "Lord Milverton",
+        "Sir John Macpherson"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: Sir Frederick Lugard.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Nigeria became a formal Federation under the...",
+      "options": [
+        "1951 Macpherson Constitution",
+        "1954 Lyttleton Constitution",
+        "1960 Independence Constitution",
+        "1963 Republican Constitution"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: 1954 Lyttleton Constitution.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Nigeria's first Prime Minister was...",
+      "options": [
+        "Nnamdi Azikiwe",
+        "Abubakar Tafawa Balewa",
+        "Obafemi Awolowo",
+        "Ahmadu Bello"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Abubakar Tafawa Balewa.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The 1979 Constitution of Nigeria introduced a...",
+      "options": [
+        "Parliamentary system",
+        "Presidential system",
+        "Unitary system",
+        "Confederal system"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Presidential system.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The 'Ombudsman' in Nigeria is known as the...",
+      "options": [
+        "Economic and Financial Crimes Commission",
+        "Public Complaints Commission",
+        "National Human Rights Commission",
+        "Independent Corrupt Practices Commission"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Public Complaints Commission.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Nigeria's foreign policy is mainly 'Afrocentric', which means...",
+      "options": [
+        "Nigeria loves Europe",
+        "Africa is the centerpiece of its policy",
+        "Nigeria does not trade with Asia",
+        "Nigeria is the ruler of Africa"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Africa is the centerpiece of its policy.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The ideology that emphasizes total state control under a single dictator (e.g. Mussolini) is...",
+      "options": [
+        "Socialism",
+        "Fascism",
+        "Capitalism",
+        "Liberalism"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Fascism.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The 1999 Constitution of Nigeria is also known as the...",
+      "options": [
+        "First Republic Constitution",
+        "Fourth Republic Constitution",
+        "Military Constitution",
+        "Regional Constitution"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Fourth Republic Constitution.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Which constitution introduced Federalism in Nigeria?",
+      "options": [
+        "Clifford 1922",
+        "Richards 1946",
+        "Lyttelton 1954",
+        "Macpherson 1951"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: Lyttelton 1954.",
+      "source": "JAMB 2025",
+      "practice": false
     }
   ]
 }

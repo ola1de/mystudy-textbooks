@@ -12,7 +12,7 @@
   "modules": [
     {
       "title": "Narrative essay",
-      "html": "<p>A <b>narrative essay</b> tells a story. It follows a clear <b>plot</b>: exposition → rising action → climax → falling action → resolution.</p>\n      <h4>Key ingredients</h4>\n      <ul><li>A clear <b>setting</b> — time and place.</li>\n      <li>A small number of well-drawn <b>characters</b>.</li>\n      <li>A <b>conflict</b> that drives the story.</li>\n      <li>A definite <b>climax</b> — the turning point.</li>\n      <li>A satisfying <b>ending</b> that ties up the plot.</li></ul>\n      <p>Use past tense throughout; use dialogue sparingly; describe sights, sounds and feelings to make the reader see and hear what happened.</p>",
+      "html": "<p>A <b>narrative essay</b> tells a story. It follows a clear <b>plot</b>: exposition \u2192 rising action \u2192 climax \u2192 falling action \u2192 resolution.</p>\n      <h4>Key ingredients</h4>\n      <ul><li>A clear <b>setting</b> \u2014 time and place.</li>\n      <li>A small number of well-drawn <b>characters</b>.</li>\n      <li>A <b>conflict</b> that drives the story.</li>\n      <li>A definite <b>climax</b> \u2014 the turning point.</li>\n      <li>A satisfying <b>ending</b> that ties up the plot.</li></ul>\n      <p>Use past tense throughout; use dialogue sparingly; describe sights, sounds and feelings to make the reader see and hear what happened.</p><h4>Key points</h4><ul><li>Narrative = story.</li><li>Stories usually told in the past tense.</li></ul><h4>Worked example</h4><p><b>Q:</b> A narrative essay tells:<br/><b>A:</b> a story</p><p><b>Q:</b> Which tense dominates in a narrative essay?<br/><b>A:</b> past</p>",
       "examples": [
         {
           "q": "Give a strong opening for a narrative titled <i>The Day I Was Bullied</i>.",
@@ -22,7 +22,7 @@
     },
     {
       "title": "Descriptive essay",
-      "html": "<p>A <b>descriptive essay</b> paints a picture in words. It appeals to the five senses — sight, sound, smell, taste, touch — so the reader can imagine the person, place or scene.</p>\n      <h4>Tips</h4>\n      <ul><li>Choose a clear point of view (first person or observer).</li>\n      <li>Use vivid <b>adjectives</b> and <b>strong verbs</b> — <i>the market bustled</i>, not <i>the market was busy</i>.</li>\n      <li>Organise details by space (top to bottom, near to far) or by time.</li>\n      <li>Use figurative language: similes, metaphors, personification.</li></ul>",
+      "html": "<p>A <b>descriptive essay</b> paints a picture in words. It appeals to the five senses \u2014 sight, sound, smell, taste, touch \u2014 so the reader can imagine the person, place or scene.</p>\n      <h4>Tips</h4>\n      <ul><li>Choose a clear point of view (first person or observer).</li>\n      <li>Use vivid <b>adjectives</b> and <b>strong verbs</b> \u2014 <i>the market bustled</i>, not <i>the market was busy</i>.</li>\n      <li>Organise details by space (top to bottom, near to far) or by time.</li>\n      <li>Use figurative language: similes, metaphors, personification.</li></ul><h4>Key points</h4><ul><li>Narrative = story.</li><li>Stories usually told in the past tense.</li></ul><h4>Worked example</h4><p><b>Q:</b> A narrative essay tells:<br/><b>A:</b> a story</p><p><b>Q:</b> Which tense dominates in a narrative essay?<br/><b>A:</b> past</p>",
       "examples": [
         {
           "q": "Rewrite for stronger imagery: <i>The market was busy and noisy.</i>",
@@ -31,12 +31,54 @@
       ]
     },
     {
-      "title": "Informal letter — structure and tone",
-      "html": "<p>An <b>informal letter</b> is written to a friend or relative. It is friendly, chatty and personal.</p>\n      <h4>Layout</h4>\n      <ol>\n        <li><b>Writer's address</b> — top right, no name, each line separated by commas, full stop at the end.</li>\n        <li><b>Date</b> — one line below the address.</li>\n        <li><b>Salutation</b> — <i>Dear Musa,</i> (comma after the name).</li>\n        <li><b>Opening paragraph</b> — enquire after the reader's health / respond to the last letter.</li>\n        <li><b>Body</b> — the reason for writing, in two or three paragraphs.</li>\n        <li><b>Closing paragraph</b> — round off, send greetings.</li>\n        <li><b>Complimentary close</b> — <i>Your friend, / Your loving cousin,</i></li>\n        <li><b>Signature</b> — first name only.</li>\n      </ol>",
+      "title": "Informal letter \u2014 structure and tone",
+      "html": "<p>An <b>informal letter</b> is written to a friend or relative. It is friendly, chatty and personal.</p>\n      <h4>Layout</h4>\n      <ol>\n        <li><b>Writer's address</b> \u2014 top right, no name, each line separated by commas, full stop at the end.</li>\n        <li><b>Date</b> \u2014 one line below the address.</li>\n        <li><b>Salutation</b> \u2014 <i>Dear Musa,</i> (comma after the name).</li>\n        <li><b>Opening paragraph</b> \u2014 enquire after the reader's health / respond to the last letter.</li>\n        <li><b>Body</b> \u2014 the reason for writing, in two or three paragraphs.</li>\n        <li><b>Closing paragraph</b> \u2014 round off, send greetings.</li>\n        <li><b>Complimentary close</b> \u2014 <i>Your friend, / Your loving cousin,</i></li>\n        <li><b>Signature</b> \u2014 first name only.</li>\n      </ol><h4>Key points</h4><ul><li>Top right corner.</li><li>Personal \u2014 <i>Dear Father,</i></li></ul><h4>Worked example</h4><p><b>Q:</b> In an informal letter, the writer's address is placed:<br/><b>A:</b> top right</p><p><b>Q:</b> The salutation in an informal letter to your father is:<br/><b>A:</b> Dear Father,</p>",
       "examples": [
         {
           "q": "Correct salutation for a friend called Adaeze?",
-          "a": "<i>Dear Ada,</i> — note the comma after her name."
+          "a": "<i>Dear Ada,</i> \u2014 note the comma after her name."
+        }
+      ]
+    },
+    {
+      "title": "Plot structure of narrative essays",
+      "html": "<p><b>Plot structure of narrative essays</b> is a key part of Continuous Writing (SSS 1, English). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>A narrative essay tells a story.</li><li>It follows a clear plot : exposition \u2192 rising action \u2192 climax \u2192 falling action \u2192 resolution.</li><li>A satisfying ending that ties up the plot.</li><li>Key points Narrative = story.</li><li>Worked example Q: A narrative essay tells: A: a story Q: Which tense dominates in a narrative essay?</li></ul><h4>Worked example</h4><p><b>Q:</b> A narrative essay tells:<br/><b>A:</b> a story \u2014 Narrative = story.</p><p><b>Q:</b> Which tense dominates in a narrative essay?<br/><b>A:</b> past \u2014 Stories usually told in the past tense.</p>",
+      "examples": [
+        {
+          "q": "A narrative essay tells:",
+          "a": "a story \u2014 Narrative = story."
+        },
+        {
+          "q": "Which tense dominates in a narrative essay?",
+          "a": "past \u2014 Stories usually told in the past tense."
+        }
+      ]
+    },
+    {
+      "title": "Characters, setting and dialogue",
+      "html": "<p><b>Characters, setting and dialogue</b> is a key part of Continuous Writing (SSS 1, English). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Key ingredients A clear setting \u2014 time and place.</li><li>A small number of well-drawn characters .</li><li>Use past tense throughout; use dialogue sparingly; describe sights, sounds and feelings to make the reader see and hear what happened.</li><li>Direct speech between characters.</li></ul><h4>Worked example</h4><p><b>Q:</b> <b>Dialogue</b> in a story is:<br/><b>A:</b> conversations \u2014 Direct speech between characters.</p><p><b>Q:</b> The setting of a story is:<br/><b>A:</b> the time and place \u2014 Where and when it happens.</p>",
+      "examples": [
+        {
+          "q": "<b>Dialogue</b> in a story is:",
+          "a": "conversations \u2014 Direct speech between characters."
+        },
+        {
+          "q": "The setting of a story is:",
+          "a": "the time and place \u2014 Where and when it happens."
+        }
+      ]
+    },
+    {
+      "title": "Descriptive techniques and imagery",
+      "html": "<p><b>Descriptive techniques and imagery</b> is a key part of Continuous Writing (SSS 1, English). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>A descriptive essay paints a picture in words.</li><li>Auditory imagery \u2014 strong verb <i>roared</i>.</li></ul><h4>Worked example</h4><p><b>Q:</b> A descriptive essay appeals mainly to:<br/><b>A:</b> the senses \u2014 It creates sensory pictures.</p><p><b>Q:</b> A vivid opening sentence in a description of a market might be:<br/><b>A:</b> The market roared with a hundred voices. \u2014 Auditory imagery \u2014 strong verb <i>roared</i>.</p><h4>More key points</h4><ul><li>A descriptive essay appeals mainly to: \u2014 the senses.</li><li>Which is best in a descriptive essay: <i>The soup was ___</i> \u2014 fiery with pepper and warm with palm-oil.</li><li>In descriptive writing, appealing to smell might use words like: \u2014 fragrant, musty, pungent.</li><li>Descriptive writing should mostly use: \u2014 concrete details.</li></ul>",
+      "examples": [
+        {
+          "q": "A descriptive essay appeals mainly to:",
+          "a": "the senses \u2014 It creates sensory pictures."
+        },
+        {
+          "q": "A vivid opening sentence in a description of a market might be:",
+          "a": "The market roared with a hundred voices. \u2014 Auditory imagery \u2014 strong verb <i>roared</i>."
         }
       ]
     }
@@ -51,7 +93,9 @@
         "an argument"
       ],
       "answer": 0,
-      "solution": "Narrative = story."
+      "solution": "Narrative = story.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The turning point of a story is called the:",
@@ -62,7 +106,9 @@
         "setting"
       ],
       "answer": 0,
-      "solution": "Climax = highest point of tension."
+      "solution": "Climax = highest point of tension.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which tense dominates in a narrative essay?",
@@ -73,7 +119,9 @@
         "perfect"
       ],
       "answer": 1,
-      "solution": "Stories usually told in the past tense."
+      "solution": "Stories usually told in the past tense.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A descriptive essay appeals mainly to:",
@@ -84,7 +132,9 @@
         "time"
       ],
       "answer": 1,
-      "solution": "It creates sensory pictures."
+      "solution": "It creates sensory pictures.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a sensory detail?",
@@ -95,7 +145,9 @@
         "He arrived."
       ],
       "answer": 1,
-      "solution": "Vivid sight image."
+      "solution": "Vivid sight image.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "In an informal letter, the writer's address is placed:",
@@ -106,7 +158,9 @@
         "centre"
       ],
       "answer": 1,
-      "solution": "Top right corner."
+      "solution": "Top right corner.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The salutation in an informal letter to your father is:",
@@ -117,7 +171,9 @@
         "To whom it may concern,"
       ],
       "answer": 1,
-      "solution": "Personal — <i>Dear Father,</i>"
+      "solution": "Personal \u2014 <i>Dear Father,</i>",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The complimentary close of an informal letter is often:",
@@ -128,7 +184,9 @@
         "Yours truly,"
       ],
       "answer": 2,
-      "solution": "Warm and personal."
+      "solution": "Warm and personal.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sentence is best for opening a story?",
@@ -136,10 +194,12 @@
         "I want to tell you a story.",
         "It happened on a chilly Monday morning.",
         "This is a narrative.",
-        "The end.”"
+        "The end.\u201d"
       ],
       "answer": 1,
-      "solution": "Sets time and mood at once."
+      "solution": "Sets time and mood at once.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Show, don't tell</i> in writing means:",
@@ -150,7 +210,9 @@
         "avoid describing"
       ],
       "answer": 1,
-      "solution": "Let the reader experience through detail."
+      "solution": "Let the reader experience through detail.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A <b>simile</b> uses:",
@@ -161,7 +223,9 @@
         "but"
       ],
       "answer": 1,
-      "solution": "Similes compare with <i>as</i> or <i>like</i>."
+      "solution": "Similes compare with <i>as</i> or <i>like</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A <b>metaphor</b>:",
@@ -172,18 +236,22 @@
         "asks a question"
       ],
       "answer": 0,
-      "solution": "Direct comparison."
+      "solution": "Direct comparison.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is the correct order of a plot?",
       "options": [
-        "climax → setting → resolution",
-        "exposition → rising action → climax → resolution",
-        "resolution → climax → setting",
-        "introduction → conclusion → climax"
+        "climax \u2192 setting \u2192 resolution",
+        "exposition \u2192 rising action \u2192 climax \u2192 resolution",
+        "resolution \u2192 climax \u2192 setting",
+        "introduction \u2192 conclusion \u2192 climax"
       ],
       "answer": 1,
-      "solution": "Standard Freytag order."
+      "solution": "Standard Freytag order.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sentence uses personification?",
@@ -194,7 +262,9 @@
         "It was windy."
       ],
       "answer": 0,
-      "solution": "The wind is given human power to whisper."
+      "solution": "The wind is given human power to whisper.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Best synonym for <b>gigantic</b> in description:",
@@ -205,7 +275,9 @@
         "empty"
       ],
       "answer": 1,
-      "solution": "Gigantic = huge."
+      "solution": "Gigantic = huge.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An informal letter should:",
@@ -216,7 +288,9 @@
         "begin with 'To whom it may concern'"
       ],
       "answer": 1,
-      "solution": "Contractions (<i>don't, I'm</i>) are fine."
+      "solution": "Contractions (<i>don't, I'm</i>) are fine.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The date in an informal letter is written:",
@@ -227,7 +301,9 @@
         "in the middle"
       ],
       "answer": 1,
-      "solution": "Just below the address, top right."
+      "solution": "Just below the address, top right.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The best paragraph plan for a narrative is:",
@@ -238,7 +314,9 @@
         "only description"
       ],
       "answer": 1,
-      "solution": "Paragraphs mark stages of the story."
+      "solution": "Paragraphs mark stages of the story.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A narrative essay is usually written from a:",
@@ -249,7 +327,9 @@
         "list of bullet points"
       ],
       "answer": 0,
-      "solution": "Choose I or the narrator."
+      "solution": "Choose I or the narrator.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these words shows the passing of time?",
@@ -260,7 +340,9 @@
         "all of the above"
       ],
       "answer": 3,
-      "solution": "All are time signals."
+      "solution": "All are time signals.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is <u>not</u> appropriate for a friendly letter?",
@@ -271,7 +353,9 @@
         "Hi Chidi,"
       ],
       "answer": 2,
-      "solution": "<i>Sir/Madam</i> is for formal letters."
+      "solution": "<i>Sir/Madam</i> is for formal letters.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<b>Dialogue</b> in a story is:",
@@ -282,7 +366,9 @@
         "summaries"
       ],
       "answer": 2,
-      "solution": "Direct speech between characters."
+      "solution": "Direct speech between characters.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which punctuation encloses direct speech?",
@@ -293,7 +379,9 @@
         "semicolons"
       ],
       "answer": 1,
-      "solution": "'…' or \"…\" encloses spoken words."
+      "solution": "'\u2026' or \"\u2026\" encloses spoken words.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which word signals a new stage in the plot?",
@@ -304,7 +392,9 @@
         "although"
       ],
       "answer": 1,
-      "solution": "<i>Suddenly</i> often marks a twist."
+      "solution": "<i>Suddenly</i> often marks a twist.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A vivid opening sentence in a description of a market might be:",
@@ -315,7 +405,9 @@
         "There are stalls."
       ],
       "answer": 1,
-      "solution": "Auditory imagery — strong verb <i>roared</i>."
+      "solution": "Auditory imagery \u2014 strong verb <i>roared</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The last paragraph of a narrative essay should:",
@@ -326,7 +418,9 @@
         "list characters"
       ],
       "answer": 1,
-      "solution": "Bring the story to a satisfying close."
+      "solution": "Bring the story to a satisfying close.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these is <u>not</u> a feature of an informal letter?",
@@ -337,7 +431,9 @@
         "complimentary close"
       ],
       "answer": 1,
-      "solution": "Subject lines belong to formal letters and memos."
+      "solution": "Subject lines belong to formal letters and memos.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is best in a descriptive essay: <i>The soup was ___</i>?",
@@ -348,7 +444,9 @@
         "okay"
       ],
       "answer": 2,
-      "solution": "Sensory taste details."
+      "solution": "Sensory taste details.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which linking word shows sequence?",
@@ -359,7 +457,9 @@
         "therefore"
       ],
       "answer": 0,
-      "solution": "<i>Firstly</i> lists steps in order."
+      "solution": "<i>Firstly</i> lists steps in order.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a well-formed complimentary close?",
@@ -370,7 +470,9 @@
         "Friend yours,"
       ],
       "answer": 1,
-      "solution": "<i>Your friend,</i> (comma)."
+      "solution": "<i>Your friend,</i> (comma).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The setting of a story is:",
@@ -381,7 +483,9 @@
         "the characters"
       ],
       "answer": 1,
-      "solution": "Where and when it happens."
+      "solution": "Where and when it happens.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a run-on sentence?",
@@ -392,7 +496,9 @@
         "After reading, I slept."
       ],
       "answer": 1,
-      "solution": "Two independent clauses without punctuation."
+      "solution": "Two independent clauses without punctuation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<b>Point of view</b> refers to:",
@@ -403,7 +509,9 @@
         "genre"
       ],
       "answer": 1,
-      "solution": "First-person, third-person, etc."
+      "solution": "First-person, third-person, etc.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "In descriptive writing, appealing to smell might use words like:",
@@ -414,7 +522,9 @@
         "bright, dim, dark"
       ],
       "answer": 0,
-      "solution": "Olfactory adjectives."
+      "solution": "Olfactory adjectives.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a stronger verb than <i>walk</i>?",
@@ -425,7 +535,9 @@
         "do"
       ],
       "answer": 2,
-      "solution": "<i>Stroll</i> is more vivid."
+      "solution": "<i>Stroll</i> is more vivid.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An informal letter should end with:",
@@ -436,7 +548,9 @@
         "your address"
       ],
       "answer": 1,
-      "solution": "Just the first name."
+      "solution": "Just the first name.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sentence best builds suspense?",
@@ -447,7 +561,9 @@
         "We went home."
       ],
       "answer": 1,
-      "solution": "Hints at trouble to come."
+      "solution": "Hints at trouble to come.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A <b>flashback</b> is:",
@@ -458,7 +574,9 @@
         "a description"
       ],
       "answer": 1,
-      "solution": "Return to an earlier moment."
+      "solution": "Return to an earlier moment.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a common weakness in student narratives?",
@@ -469,18 +587,22 @@
         "clear ending"
       ],
       "answer": 0,
-      "solution": "Long chains of <i>and then</i> flatten a story."
+      "solution": "Long chains of <i>and then</i> flatten a story.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is proper paragraphing for a 500-word narrative?",
       "options": [
         "one paragraph",
-        "5–7 focused paragraphs",
+        "5\u20137 focused paragraphs",
         "two paragraphs",
         "every sentence a paragraph"
       ],
       "answer": 1,
-      "solution": "Enough paragraphs to mark plot stages."
+      "solution": "Enough paragraphs to mark plot stages.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is <u>not</u> a purpose of dialogue?",
@@ -491,7 +613,9 @@
         "break monotony"
       ],
       "answer": 2,
-      "solution": "Morals are usually shown, not told."
+      "solution": "Morals are usually shown, not told.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Descriptive writing should mostly use:",
@@ -502,7 +626,9 @@
         "technical jargon"
       ],
       "answer": 1,
-      "solution": "Concrete detail sparks imagination."
+      "solution": "Concrete detail sparks imagination.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sentence is properly capitalised?",
@@ -513,7 +639,9 @@
         "last Friday, I visited lagos."
       ],
       "answer": 1,
-      "solution": "Proper nouns and sentence start capitalised."
+      "solution": "Proper nouns and sentence start capitalised.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which punctuation ends a strong interjection?",
@@ -524,7 +652,9 @@
         ","
       ],
       "answer": 0,
-      "solution": "An exclamation mark."
+      "solution": "An exclamation mark.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An informal letter uses:",
@@ -535,7 +665,9 @@
         "scientific register"
       ],
       "answer": 1,
-      "solution": "It is chatty."
+      "solution": "It is chatty.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "What should NOT appear in an informal letter to a friend?",
@@ -546,7 +678,9 @@
         "greetings to family"
       ],
       "answer": 2,
-      "solution": "That belongs to a formal business letter."
+      "solution": "That belongs to a formal business letter.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a strong closing line for a story?",
@@ -557,7 +691,9 @@
         "This story is over."
       ],
       "answer": 1,
-      "solution": "Provides resolution and image."
+      "solution": "Provides resolution and image.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A <b>protagonist</b> is:",
@@ -568,7 +704,9 @@
         "the narrator only"
       ],
       "answer": 1,
-      "solution": "The central character."
+      "solution": "The central character.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An <b>antagonist</b> is:",
@@ -579,7 +717,9 @@
         "the reader"
       ],
       "answer": 1,
-      "solution": "Opposes the protagonist."
+      "solution": "Opposes the protagonist.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these best describes 'mood' in writing?",
@@ -590,7 +730,9 @@
         "the title"
       ],
       "answer": 1,
-      "solution": "Mood = feeling created in the reader."
+      "solution": "Mood = feeling created in the reader.",
+      "source": "Chapter notes",
+      "practice": false
     }
   ]
 }

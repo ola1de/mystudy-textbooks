@@ -1,0 +1,737 @@
+{
+  "subject": "Further Mathematics",
+  "level": "SSS 2",
+  "slug": "trigonometry-advanced",
+  "title": "Trigonometry (Advanced)",
+  "outline": [
+    "Introduction to Trigonometry (Advanced)",
+    "Key facts about Trigonometry (Advanced)",
+    "Important terms and examples in Trigonometry (Advanced)",
+    "Importance and application of Trigonometry (Advanced)",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Trigonometry (Advanced)",
+      "html": "<p>Trigonometric identities, equations and the sine and cosine rules. This section covers introduction to trigonometry (advanced).</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of trigonometry (advanced).</li><li>Be able to explain trigonometry (advanced) in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$<br/><b>A:</b> 185 \u2014 Past question (JAMB 2024). Correct answer: 185.</p><p><b>Q:</b> If $$ A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$, find $$ |A| $$.<br/><b>A:</b> 5 \u2014 Past question (JAMB 2021). Correct answer: 5.</p>",
+      "examples": [
+        {
+          "q": "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$",
+          "a": "185"
+        },
+        {
+          "q": "If $$ A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$, find $$ |A| $$.",
+          "a": "5"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Trigonometry (Advanced)",
+      "html": "<p>Trigonometric identities, equations and the sine and cosine rules. This section covers key facts about trigonometry (advanced).</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of trigonometry (advanced).</li><li>Be able to explain trigonometry (advanced) in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$<br/><b>A:</b> 185 \u2014 Past question (JAMB 2024). Correct answer: 185.</p><p><b>Q:</b> If $$ A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$, find $$ |A| $$.<br/><b>A:</b> 5 \u2014 Past question (JAMB 2021). Correct answer: 5.</p>",
+      "examples": [
+        {
+          "q": "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$",
+          "a": "185"
+        },
+        {
+          "q": "If $$ A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$, find $$ |A| $$.",
+          "a": "5"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Trigonometry (Advanced)",
+      "html": "<p>Trigonometric identities, equations and the sine and cosine rules. This section covers important terms and examples in trigonometry (advanced).</p><h4>Key points</h4><ul><li>Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$ \u2014 185.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$<br/><b>A:</b> 185 \u2014 Past question (JAMB 2024). Correct answer: 185.</p><p><b>Q:</b> If $$ A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$, find $$ |A| $$.<br/><b>A:</b> 5 \u2014 Past question (JAMB 2021). Correct answer: 5.</p><h4>More key points</h4><ul><li>Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$ \u2014 185.</li></ul>",
+      "examples": [
+        {
+          "q": "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$",
+          "a": "185"
+        },
+        {
+          "q": "If $$ A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$, find $$ |A| $$.",
+          "a": "5"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Trigonometry (Advanced)",
+      "html": "<p>Trigonometric identities, equations and the sine and cosine rules. This section covers importance and application of trigonometry (advanced).</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of trigonometry (advanced).</li><li>Be able to explain trigonometry (advanced) in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$<br/><b>A:</b> 185 \u2014 Past question (JAMB 2024). Correct answer: 185.</p><p><b>Q:</b> If $$ A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$, find $$ |A| $$.<br/><b>A:</b> 5 \u2014 Past question (JAMB 2021). Correct answer: 5.</p>",
+      "examples": [
+        {
+          "q": "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$",
+          "a": "185"
+        },
+        {
+          "q": "If $$ A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$, find $$ |A| $$.",
+          "a": "5"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Trigonometric identities, equations and the sine and cosine rules. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of trigonometry (advanced).</li><li>Be able to explain trigonometry (advanced) in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$<br/><b>A:</b> 185 \u2014 Past question (JAMB 2024). Correct answer: 185.</p><p><b>Q:</b> If $$ A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$, find $$ |A| $$.<br/><b>A:</b> 5 \u2014 Past question (JAMB 2021). Correct answer: 5.</p>",
+      "examples": [
+        {
+          "q": "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$",
+          "a": "185"
+        },
+        {
+          "q": "If $$ A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$, find $$ |A| $$.",
+          "a": "5"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$",
+      "options": [
+        "185",
+        "370",
+        "155",
+        "200"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 185.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "If $$ A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$, find $$ |A| $$.",
+      "options": [
+        "5",
+        "11",
+        "7",
+        "-5"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 5.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Angle between $$ y=x $$ and $$ y=-x $$ is:",
+      "options": [
+        "$$ 90^\\circ $$",
+        "$$ 45^\\circ $$",
+        "$$ 0^\\circ $$",
+        "$$ 180^\\circ $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ 90^\\circ $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Resultant of 3N and 4N at $$ 90^\\circ $$.",
+      "options": [
+        "5N",
+        "7N",
+        "1N",
+        "12N"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 5N.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Time for body to fall 20m ($$ g=10 $$).",
+      "options": [
+        "2s",
+        "4s",
+        "1s",
+        "3s"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 2s.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Geometric Mean of 4 and 16.",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "20"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 8.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Modulus of $$ 5\\mathbf{i} + 12\\mathbf{j} $$.",
+      "options": [
+        "13",
+        "17",
+        "7",
+        "60"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 13.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "A particle moves with velocity $$v = 3t^2 - 2t$$. Find its acceleration at $$t=2$$.",
+      "options": [
+        "$$10$$",
+        "$$12$$",
+        "$$8$$",
+        "$$6$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$10$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The determinant of matrix $$\\begin{pmatrix} 2 & k \\\\ 1 & 4 \\end{pmatrix}$$ is 6. Find $$k$$.",
+      "options": [
+        "$$1$$",
+        "$$2$$",
+        "$$3$$",
+        "$$4$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$2$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the value of $$\\lim_{x \\to 0} \\frac{\\sin x}{x}$$.",
+      "options": [
+        "$$0$$",
+        "$$1$$",
+        "$$\\infty$$",
+        "$$-1$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$1$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the unit vector in the direction of vector $$\\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j}$$.",
+      "options": [
+        "$$\\frac{1}{5}(3\\mathbf{i} - 4\\mathbf{j})$$",
+        "$$\\frac{1}{5}(3\\mathbf{i} + 4\\mathbf{j})$$",
+        "$$5(3\\mathbf{i} - 4\\mathbf{j})$$",
+        "$$3\\mathbf{i} - 4\\mathbf{j}$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$\\frac{1}{5}(3\\mathbf{i} - 4\\mathbf{j})$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$\\int (3x^2 - 4x + 5) \\, dx$$.",
+      "options": [
+        "$$x^3 - 2x^2 + 5x + C$$",
+        "$$3x^3 - 4x^2 + 5x + C$$",
+        "$$x^3 - 4x^2 + 5x + C$$",
+        "$$6x - 4 + C$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$x^3 - 2x^2 + 5x + C$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Evaluate the determinant of $$\\begin{pmatrix} 1 & 2 & 3 \\\\ 0 & 4 & 5 \\\\ 1 & 0 & 6 \\end{pmatrix}$$.",
+      "options": [
+        "$$22$$",
+        "$$18$$",
+        "$$10$$",
+        "$$2$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$22$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Simplify: $$ \\\\sqrt{128} - \\\\sqrt{18} + \\\\sqrt{50} $$",
+      "options": [
+        "$10\\\\sqrt{2}$",
+        "$8\\\\sqrt{2}$",
+        "$6\\\\sqrt{2}$",
+        "$12\\\\sqrt{2}$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $10\\\\sqrt{2}$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = \\\\sin(4x)$ with respect to $x$.",
+      "options": [
+        "$4\\\\cos(4x)$",
+        "$-4\\\\cos(4x)$",
+        "$\\\\cos(4x)$",
+        "$4\\\\sin(4x)$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $4\\\\cos(4x)$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Calculate the coefficient of $x^2$ in the expansion of $(1 + 2x)^5$.",
+      "options": [
+        "40",
+        "10",
+        "80",
+        "20"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 40.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A particle moves with displacement $s = t^3 - 6t^2 + 9t$. Find the time when velocity is zero.",
+      "options": [
+        "1s and 3s",
+        "2s",
+        "0s",
+        "4s"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 1s and 3s.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$ \\frac{d}{dx} (e^{2x} \\sin x) $$",
+      "options": [
+        "$$ e^{2x} (2\\sin x + \\cos x) $$",
+        "$$ e^{2x} (\\sin x + \\cos x) $$",
+        "$$ 2e^{2x} \\cos x $$",
+        "$$ e^{2x} (\\sin x - \\cos x) $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ e^{2x} (2\\sin x + \\cos x) $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "If $$ f(x) = 2x $$ and $$ g(x) = x+1 $$, find $$ fg(x) $$.",
+      "options": [
+        "$$ 2x+2 $$",
+        "$$ 2x+1 $$",
+        "$$ 2x^2+1 $$",
+        "$$ x+3 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ 2x+2 $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a measure of dispersion?",
+      "options": [
+        "Mean",
+        "Mode",
+        "Standard Deviation",
+        "Median"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: Standard Deviation.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Limit $$ \\sin x / x $$ as $$ x \\to 0 $$:",
+      "options": [
+        "1",
+        "0",
+        "Inf",
+        "-1"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 1.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Tangent $$ y=x^2 $$ at (1,1):",
+      "options": [
+        "$$ y=2x-1 $$",
+        "$$ y=x $$",
+        "$$ y=2x $$",
+        "$$ y=x+1 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: $$ y=2x-1 $$.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Corr Coeff -1:",
+      "options": [
+        "Neg Perfect",
+        "Pos Perfect",
+        "None",
+        "Weak"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Neg Perfect.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Diff Cos:",
+      "options": [
+        "-Sin",
+        "Sin",
+        "Cos",
+        "-Cos"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: -Sin.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Matrix Identity:",
+      "options": [
+        "I",
+        "0",
+        "1",
+        "A"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: I.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$ \\int_0^1 (3x^2 + 1) dx $$.",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "8"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 2.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Remainder when $$ x^2 + 2x + 1 $$ divided by $$ x+1 $$.",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 0.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Geometric Mean of 2 and 8.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "16"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 4.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Product of roots of $$ ax^2+bx+c=0 $$:",
+      "options": [
+        "$$ c/a $$",
+        "$$ -b/a $$",
+        "$$ b/a $$",
+        "$$ -c/a $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ c/a $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Trigonometry (Advanced) in Trigonometry (Advanced)?",
+      "options": [
+        "Arrange 'BEER': \u2014 12.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+        "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$ \u2014 185."
+      ],
+      "answer": 3,
+      "solution": "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$ \u2014 185.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Trigonometry (Advanced) in Trigonometry (Advanced)?",
+      "options": [
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+        "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$ \u2014 185.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "Arrange 'BEER': \u2014 12."
+      ],
+      "answer": 1,
+      "solution": "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$ \u2014 185.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Trigonometry (Advanced) in Trigonometry (Advanced)?",
+      "options": [
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$ \u2014 185.",
+        "Arrange 'BEER': \u2014 12."
+      ],
+      "answer": 2,
+      "solution": "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$ \u2014 185.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Trigonometry (Advanced) in Trigonometry (Advanced)?",
+      "options": [
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+        "Arrange 'BEER': \u2014 12.",
+        "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$ \u2014 185."
+      ],
+      "answer": 3,
+      "solution": "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$ \u2014 185.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Trigonometry (Advanced)?",
+      "options": [
+        "Arrange 'BEER': \u2014 12.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+        "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$ \u2014 185.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$."
+      ],
+      "answer": 2,
+      "solution": "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$ \u2014 185.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'find'?",
+      "options": [
+        "Solve for $x$: $$ \\\\log_{2} (x^2 - x + 2) = 3 $$ \u2014 $x=3, -2$.",
+        "Arrange 'BEER': \u2014 12.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$ \u2014 185."
+      ],
+      "answer": 3,
+      "solution": "Find the sum of the first 10 terms of the AP: $5, 8, 11, ...$ \u2014 185.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'begin'?",
+      "options": [
+        "Arrange 'BEER': \u2014 12.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "If $$ A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$, find $$ |A| $$. \u2014 5.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$."
+      ],
+      "answer": 2,
+      "solution": "If $$ A = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$, find $$ |A| $$. \u2014 5.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'angle'?",
+      "options": [
+        "Angle between $$ y=x $$ and $$ y=-x $$ is: \u2014 $$ 90^\\circ $$.",
+        "Arrange 'BEER': \u2014 12.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$."
+      ],
+      "answer": 0,
+      "solution": "Angle between $$ y=x $$ and $$ y=-x $$ is: \u2014 $$ 90^\\circ $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'resultant'?",
+      "options": [
+        "Arrange 'BEER': \u2014 12.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+        "Resultant of 3N and 4N at $$ 90^\\circ $$. \u2014 5N."
+      ],
+      "answer": 3,
+      "solution": "Resultant of 3N and 4N at $$ 90^\\circ $$. \u2014 5N.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'time'?",
+      "options": [
+        "Arrange 'BEER': \u2014 12.",
+        "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$."
+      ],
+      "answer": 1,
+      "solution": "Time for body to fall 20m ($$ g=10 $$). \u2014 2s.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'geometric'?",
+      "options": [
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "Geometric Mean of 4 and 16. \u2014 8.",
+        "Arrange 'BEER': \u2014 12.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$."
+      ],
+      "answer": 1,
+      "solution": "Geometric Mean of 4 and 16. \u2014 8.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'modulus'?",
+      "options": [
+        "Modulus of $$ 5\\mathbf{i} + 12\\mathbf{j} $$. \u2014 13.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+        "Arrange 'BEER': \u2014 12.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$."
+      ],
+      "answer": 0,
+      "solution": "Modulus of $$ 5\\mathbf{i} + 12\\mathbf{j} $$. \u2014 13.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'particle'?",
+      "options": [
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+        "Arrange 'BEER': \u2014 12.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "A particle moves with velocity $$v = 3t^2 - 2t$$. Find its acceleration at $$t=2$$. \u2014 $$10$$."
+      ],
+      "answer": 3,
+      "solution": "A particle moves with velocity $$v = 3t^2 - 2t$$. Find its acceleration at $$t=2$$. \u2014 $$10$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'determinant'?",
+      "options": [
+        "The determinant of matrix $$\\begin{pmatrix} 2 & k \\\\ 1 & 4 \\end{pmatrix}$$ is 6. Find $$k$$. \u2014 $$2$$.",
+        "Arrange 'BEER': \u2014 12.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$."
+      ],
+      "answer": 0,
+      "solution": "The determinant of matrix $$\\begin{pmatrix} 2 & k \\\\ 1 & 4 \\end{pmatrix}$$ is 6. Find $$k$$. \u2014 $$2$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'evaluate'?",
+      "options": [
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "Arrange 'BEER': \u2014 12.",
+        "Evaluate $$\\int (3x^2 - 4x + 5) \\, dx$$. \u2014 $$x^3 - 2x^2 + 5x + C$$.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$."
+      ],
+      "answer": 2,
+      "solution": "Evaluate $$\\int (3x^2 - 4x + 5) \\, dx$$. \u2014 $$x^3 - 2x^2 + 5x + C$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'simplify'?",
+      "options": [
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "Simplify: $$ \\\\sqrt{128} - \\\\sqrt{18} + \\\\sqrt{50} $$ \u2014 $10\\\\sqrt{2}$.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+        "Arrange 'BEER': \u2014 12."
+      ],
+      "answer": 1,
+      "solution": "Simplify: $$ \\\\sqrt{128} - \\\\sqrt{18} + \\\\sqrt{50} $$ \u2014 $10\\\\sqrt{2}$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'differentiate'?",
+      "options": [
+        "Arrange 'BEER': \u2014 12.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+        "Differentiate $y = \\\\sin(4x)$ with respect to $x$. \u2014 $4\\\\cos(4x)$."
+      ],
+      "answer": 3,
+      "solution": "Differentiate $y = \\\\sin(4x)$ with respect to $x$. \u2014 $4\\\\cos(4x)$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'calculate'?",
+      "options": [
+        "Arrange 'BEER': \u2014 12.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "Calculate the coefficient of $x^2$ in the expansion of $(1 + 2x)^5$. \u2014 40.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$."
+      ],
+      "answer": 2,
+      "solution": "Calculate the coefficient of $x^2$ in the expansion of $(1 + 2x)^5$. \u2014 40.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'measure'?",
+      "options": [
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "Which of these is a measure of dispersion \u2014 Standard Deviation.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+        "Arrange 'BEER': \u2014 12."
+      ],
+      "answer": 1,
+      "solution": "Which of these is a measure of dispersion \u2014 Standard Deviation.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'limit'?",
+      "options": [
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+        "Arrange 'BEER': \u2014 12.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$.",
+        "Limit $$ \\sin x / x $$ as $$ x \\to 0 $$: \u2014 1."
+      ],
+      "answer": 3,
+      "solution": "Limit $$ \\sin x / x $$ as $$ x \\to 0 $$: \u2014 1.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Trigonometry (Advanced) \u2014 'tangent'?",
+      "options": [
+        "Tangent $$ y=x^2 $$ at (1,1): \u2014 $$ y=2x-1 $$.",
+        "Arrange 'BEER': \u2014 12.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+        "Integrate $$ \\sin x $$. \u2014 $$ -\\cos x + c $$."
+      ],
+      "answer": 0,
+      "solution": "Tangent $$ y=x^2 $$ at (1,1): \u2014 $$ y=2x-1 $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

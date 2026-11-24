@@ -15,21 +15,21 @@
   "modules": [
     {
       "title": "Nature and Causes of Military Rule",
-      "html": "\n<h4>1. Features of Military Government</h4>\n<ol><li>Comes to power unconstitutionally through a <b>coup d'etat</b>.</li><li>Suspends or modifies the constitution and dissolves elected legislatures.</li><li>Rules by <b>decree</b> (federal) and <b>edict</b> (state), often with <b>ouster clauses</b> excluding the courts.</li><li>Bans political parties and political activity.</li><li>Fusion of executive and legislative powers in a supreme ruling council.</li><li>Centralisation of power — federalism becomes largely nominal.</li><li>Chain of command, secrecy and limited public accountability.</li><li>Restriction of press freedom and human rights.</li></ol>\n<h4>2. Causes of Military Intervention</h4>\n<ul>\n<li>Corruption and self-enrichment by politicians.</li><li>Electoral malpractice, rigging and post-election violence.</li><li>Ethnic and regional conflict threatening national unity.</li><li>Economic mismanagement and inflation.</li><li>Weak and abused institutions; disregard for the rule of law.</li><li>Personal ambition of officers and grievances over promotion, welfare and equipment.</li><li>Contagion — successful coups in neighbouring states.</li><li>Public disillusionment which makes intervention initially popular.</li></ul>\n<h4>3. Structure</h4>\n<table class=\"tb-table\">\n<tr><th>Organ</th><th>Role</th></tr>\n<tr><td>Supreme Military Council / AFRC / PRC</td><td>Highest law-making and policy body</td></tr>\n<tr><td>Head of State and Commander-in-Chief</td><td>Chief executive, chairs the council</td></tr>\n<tr><td>National Council of States</td><td>Advisory body of governors and senior officers</td></tr>\n<tr><td>Federal Executive Council</td><td>Ministers implementing policy</td></tr>\n<tr><td>Military Governors/Administrators</td><td>Head states, issue edicts</td></tr>\n<tr><td>Judiciary</td><td>Retained but limited by ouster clauses and special tribunals</td></tr>\n</table>\n",
+      "html": "\n<h4>1. Features of Military Government</h4>\n<ol><li>Comes to power unconstitutionally through a <b>coup d'etat</b>.</li><li>Suspends or modifies the constitution and dissolves elected legislatures.</li><li>Rules by <b>decree</b> (federal) and <b>edict</b> (state), often with <b>ouster clauses</b> excluding the courts.</li><li>Bans political parties and political activity.</li><li>Fusion of executive and legislative powers in a supreme ruling council.</li><li>Centralisation of power \u2014 federalism becomes largely nominal.</li><li>Chain of command, secrecy and limited public accountability.</li><li>Restriction of press freedom and human rights.</li></ol>\n<h4>2. Causes of Military Intervention</h4>\n<ul>\n<li>Corruption and self-enrichment by politicians.</li><li>Electoral malpractice, rigging and post-election violence.</li><li>Ethnic and regional conflict threatening national unity.</li><li>Economic mismanagement and inflation.</li><li>Weak and abused institutions; disregard for the rule of law.</li><li>Personal ambition of officers and grievances over promotion, welfare and equipment.</li><li>Contagion \u2014 successful coups in neighbouring states.</li><li>Public disillusionment which makes intervention initially popular.</li></ul>\n<h4>3. Structure</h4>\n<table class=\"tb-table\">\n<tr><th>Organ</th><th>Role</th></tr>\n<tr><td>Supreme Military Council / AFRC / PRC</td><td>Highest law-making and policy body</td></tr>\n<tr><td>Head of State and Commander-in-Chief</td><td>Chief executive, chairs the council</td></tr>\n<tr><td>National Council of States</td><td>Advisory body of governors and senior officers</td></tr>\n<tr><td>Federal Executive Council</td><td>Ministers implementing policy</td></tr>\n<tr><td>Military Governors/Administrators</td><td>Head states, issue edicts</td></tr>\n<tr><td>Judiciary</td><td>Retained but limited by ouster clauses and special tribunals</td></tr>\n</table>\n",
       "examples": [
         {
           "q": "What is an ouster clause and why is it objectionable?",
-          "a": "An ouster clause is a provision in a decree stating that no court shall entertain any question about the validity of the decree or of acts done under it. It is objectionable because it destroys judicial review and access to court — core elements of the rule of law — leaving citizens without remedy against detention or seizure of property, as under Decree No. 2 of 1984 which allowed detention without trial."
+          "a": "An ouster clause is a provision in a decree stating that no court shall entertain any question about the validity of the decree or of acts done under it. It is objectionable because it destroys judicial review and access to court \u2014 core elements of the rule of law \u2014 leaving citizens without remedy against detention or seizure of property, as under Decree No. 2 of 1984 which allowed detention without trial."
         },
         {
           "q": "Explain why coups are described as contagious in West Africa.",
-          "a": "A successful coup demonstrates to officers elsewhere that intervention can succeed at low cost and confers power and wealth. Shared training, borders and regional media spread both the example and the justification ('to end corruption'). This is why ECOWAS and the AU now adopt automatic suspension of member states following unconstitutional changes of government — to raise the cost and break the chain."
+          "a": "A successful coup demonstrates to officers elsewhere that intervention can succeed at low cost and confers power and wealth. Shared training, borders and regional media spread both the example and the justification ('to end corruption'). This is why ECOWAS and the AU now adopt automatic suspension of member states following unconstitutional changes of government \u2014 to raise the cost and break the chain."
         }
       ]
     },
     {
       "title": "Nigerian Military Regimes and the Return to Civil Rule",
-      "html": "\n<h4>1. Chronology</h4>\n<table class=\"tb-table\">\n<tr><th>Period</th><th>Head of State</th><th>Key events</th></tr>\n<tr><td>Jan–Jul 1966</td><td>Maj-Gen J. T. U. Aguiyi-Ironsi</td><td>First coup of 15 Jan 1966 led by Maj. Nzeogwu; Decree No. 34 (Unification Decree) abolished federalism</td></tr>\n<tr><td>1966–1975</td><td>Gen. Yakubu Gowon</td><td>Counter-coup Jul 1966; 12 states created 1967; civil war 1967–1970; oil boom; Reconstruction, Reconciliation, Rehabilitation; NYSC 1973</td></tr>\n<tr><td>1975–1976</td><td>Gen. Murtala Mohammed</td><td>Purge of public service; 19 states (1976); Abuja chosen as capital; Local Government Reform 1976; assassinated Feb 1976</td></tr>\n<tr><td>1976–1979</td><td>Gen. Olusegun Obasanjo</td><td>Completed transition; 1979 Constitution; handover to Shagari 1 Oct 1979</td></tr>\n<tr><td>1983–1985</td><td>Maj-Gen Muhammadu Buhari</td><td>War Against Indiscipline; Decrees 2 and 4; economic austerity</td></tr>\n<tr><td>1985–1993</td><td>Gen. Ibrahim Babangida</td><td>SAP 1986; two-party system SDP/NRC; annulment of 12 June 1993 election; 'stepped aside' Aug 1993</td></tr>\n<tr><td>Aug–Nov 1993</td><td>Chief Ernest Shonekan</td><td>Interim National Government, declared illegal by court</td></tr>\n<tr><td>1993–1998</td><td>Gen. Sani Abacha</td><td>Six states created 1996 (total 36); PRC; repression; death June 1998</td></tr>\n<tr><td>1998–1999</td><td>Gen. Abdulsalami Abubakar</td><td>Rapid transition; 1999 Constitution; handover 29 May 1999</td></tr>\n</table>\n<h4>2. Achievements and Failures</h4>\n<p><i>Achievements:</i> preservation of national unity after the civil war; creation of states and the 1976 local government reform; establishment of the FCT, NYSC, universities and infrastructure; indigenisation decrees; quick decision-making in emergencies; UPE (1976); ECOMOG peacekeeping.</p>\n<p><i>Failures:</i> suspension of the constitution and rights; abolition of true federalism; corruption on a large scale; repression of the press and the judiciary; annulment of the 12 June 1993 election, widely regarded as Nigeria's freest; economic hardship under SAP; erosion of professionalism in the armed forces.</p>\n<h4>3. Preventing Military Rule</h4>\n<ul><li>Credible elections and genuine democratic legitimacy.</li><li>Good governance, accountability and anti-corruption enforcement.</li><li>Professional, well-equipped and well-paid armed forces confined to constitutional roles.</li><li>Strong institutions: independent judiciary, active legislature, free press, vibrant civil society.</li><li>Civic education so that citizens reject unconstitutional change.</li><li>Regional sanctions — the AU and ECOWAS suspension regimes.</li><li>Constitutional criminalisation of coups as treason.</li></ul>\n",
+      "html": "\n<h4>1. Chronology</h4>\n<table class=\"tb-table\">\n<tr><th>Period</th><th>Head of State</th><th>Key events</th></tr>\n<tr><td>Jan\u2013Jul 1966</td><td>Maj-Gen J. T. U. Aguiyi-Ironsi</td><td>First coup of 15 Jan 1966 led by Maj. Nzeogwu; Decree No. 34 (Unification Decree) abolished federalism</td></tr>\n<tr><td>1966\u20131975</td><td>Gen. Yakubu Gowon</td><td>Counter-coup Jul 1966; 12 states created 1967; civil war 1967\u20131970; oil boom; Reconstruction, Reconciliation, Rehabilitation; NYSC 1973</td></tr>\n<tr><td>1975\u20131976</td><td>Gen. Murtala Mohammed</td><td>Purge of public service; 19 states (1976); Abuja chosen as capital; Local Government Reform 1976; assassinated Feb 1976</td></tr>\n<tr><td>1976\u20131979</td><td>Gen. Olusegun Obasanjo</td><td>Completed transition; 1979 Constitution; handover to Shagari 1 Oct 1979</td></tr>\n<tr><td>1983\u20131985</td><td>Maj-Gen Muhammadu Buhari</td><td>War Against Indiscipline; Decrees 2 and 4; economic austerity</td></tr>\n<tr><td>1985\u20131993</td><td>Gen. Ibrahim Babangida</td><td>SAP 1986; two-party system SDP/NRC; annulment of 12 June 1993 election; 'stepped aside' Aug 1993</td></tr>\n<tr><td>Aug\u2013Nov 1993</td><td>Chief Ernest Shonekan</td><td>Interim National Government, declared illegal by court</td></tr>\n<tr><td>1993\u20131998</td><td>Gen. Sani Abacha</td><td>Six states created 1996 (total 36); PRC; repression; death June 1998</td></tr>\n<tr><td>1998\u20131999</td><td>Gen. Abdulsalami Abubakar</td><td>Rapid transition; 1999 Constitution; handover 29 May 1999</td></tr>\n</table>\n<h4>2. Achievements and Failures</h4>\n<p><i>Achievements:</i> preservation of national unity after the civil war; creation of states and the 1976 local government reform; establishment of the FCT, NYSC, universities and infrastructure; indigenisation decrees; quick decision-making in emergencies; UPE (1976); ECOMOG peacekeeping.</p>\n<p><i>Failures:</i> suspension of the constitution and rights; abolition of true federalism; corruption on a large scale; repression of the press and the judiciary; annulment of the 12 June 1993 election, widely regarded as Nigeria's freest; economic hardship under SAP; erosion of professionalism in the armed forces.</p>\n<h4>3. Preventing Military Rule</h4>\n<ul><li>Credible elections and genuine democratic legitimacy.</li><li>Good governance, accountability and anti-corruption enforcement.</li><li>Professional, well-equipped and well-paid armed forces confined to constitutional roles.</li><li>Strong institutions: independent judiciary, active legislature, free press, vibrant civil society.</li><li>Civic education so that citizens reject unconstitutional change.</li><li>Regional sanctions \u2014 the AU and ECOWAS suspension regimes.</li><li>Constitutional criminalisation of coups as treason.</li></ul>\n",
       "examples": [
         {
           "q": "Why is 12 June 1993 significant in Nigerian political history?",
@@ -38,6 +38,48 @@
         {
           "q": "Compare Decree No. 34 of 1966 with the federal structure it replaced.",
           "a": "Decree No. 34, Ironsi's Unification Decree, abolished the regions and the federal structure, converted Nigeria into a <b>unitary state</b> with a single national civil service, and renamed regions 'groups of provinces'. Northerners read it as a design for Southern bureaucratic domination; the resulting riots and the July counter-coup made it the clearest example of how military centralisation destabilised a plural federation. It was repealed shortly afterwards."
+        }
+      ]
+    },
+    {
+      "title": "Structure of military government in Nigeria",
+      "html": "<p><b>Structure of military government in Nigeria</b> is a key part of Military Rule and Democratic Transitions (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Features of Military Government Comes to power unconstitutionally through a coup d'etat .</li><li>Causes of Military Intervention Corruption and self-enrichment by politicians.</li><li>Structure Organ Role Supreme Military Council / AFRC / PRC Highest law-making and policy body Head of State and Commander-in-Chief Chief executive, chairs the council National Council of States Advisory body of governors and senior officers Federal Executive Council Ministers implementing policy Military Governors/Administrators Head states, issue edicts Judiciary Retained but limited by ouster clauses and special tribunals</li><li>Murtala Mohammed Purge of public service; 19 states (1976); Abuja chosen as capital; Local Government Reform 1976; assassinated Feb 1976 1976\u20131979 Gen.</li><li>Ibrahim Babangida SAP 1986; two-party system SDP/NRC; annulment of 12 June 1993 election; 'stepped aside' Aug 1993 Aug\u2013Nov 1993 Chief Ernest Shonekan Interim National Government, declared illegal by court 1993\u20131998 Gen.</li></ul><h4>Worked example</h4><p><b>Q:</b> Nigeria's first military coup occurred on:<br/><b>A:</b> 15 January 1966 \u2014 Major Nzeogwu and others struck on 15 January 1966, ending the First Republic.</p><p><b>Q:</b> Military governments legislate through:<br/><b>A:</b> Decrees and edicts \u2014 Federal decrees and state edicts replace Acts and laws.</p>",
+      "examples": [
+        {
+          "q": "Nigeria's first military coup occurred on:",
+          "a": "15 January 1966 \u2014 Major Nzeogwu and others struck on 15 January 1966, ending the First Republic."
+        },
+        {
+          "q": "Military governments legislate through:",
+          "a": "Decrees and edicts \u2014 Federal decrees and state edicts replace Acts and laws."
+        }
+      ]
+    },
+    {
+      "title": "How to prevent military intervention",
+      "html": "<p><b>How to prevent military intervention</b> is a key part of Military Rule and Democratic Transitions (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Features of Military Government Comes to power unconstitutionally through a coup d'etat .</li><li>Causes of Military Intervention Corruption and self-enrichment by politicians.</li><li>Public disillusionment which makes intervention initially popular.</li><li>Structure Organ Role Supreme Military Council / AFRC / PRC Highest law-making and policy body Head of State and Commander-in-Chief Chief executive, chairs the council National Council of States Advisory body of governors and senior officers Federal Executive Council Ministers implementing policy Military Governors/Administrators Head states, issue edicts Judiciary Retained but limited by ouster clauses and special tribunals</li><li>Preventing Military Rule Credible elections and genuine democratic legitimacy.</li></ul><h4>Worked example</h4><p><b>Q:</b> Nigeria's first military coup occurred on:<br/><b>A:</b> 15 January 1966 \u2014 Major Nzeogwu and others struck on 15 January 1966, ending the First Republic.</p><p><b>Q:</b> Military governments legislate through:<br/><b>A:</b> Decrees and edicts \u2014 Federal decrees and state edicts replace Acts and laws.</p>",
+      "examples": [
+        {
+          "q": "Nigeria's first military coup occurred on:",
+          "a": "15 January 1966 \u2014 Major Nzeogwu and others struck on 15 January 1966, ending the First Republic."
+        },
+        {
+          "q": "Military governments legislate through:",
+          "a": "Decrees and edicts \u2014 Federal decrees and state edicts replace Acts and laws."
+        }
+      ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> Nigeria's first military coup occurred on:<br/><b>A:</b> 15 January 1966 \u2014 Major Nzeogwu and others struck on 15 January 1966, ending the First Republic.</p><p><b>Q:</b> Military governments legislate through:<br/><b>A:</b> Decrees and edicts \u2014 Federal decrees and state edicts replace Acts and laws.</p><p><b>Q:</b> Decree No. 34 of 1966 introduced:<br/><b>A:</b> A unitary system \u2014 Ironsi's Unification Decree abolished the federal structure.</p>",
+      "examples": [
+        {
+          "q": "Nigeria's first military coup occurred on:",
+          "a": "15 January 1966"
+        },
+        {
+          "q": "Military governments legislate through:",
+          "a": "Decrees and edicts"
         }
       ]
     }
@@ -52,7 +94,9 @@
         "27 August 1985"
       ],
       "answer": 0,
-      "solution": "Major Nzeogwu and others struck on 15 January 1966, ending the First Republic."
+      "solution": "Major Nzeogwu and others struck on 15 January 1966, ending the First Republic.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Military governments legislate through:",
@@ -63,7 +107,9 @@
         "Referenda"
       ],
       "answer": 1,
-      "solution": "Federal decrees and state edicts replace Acts and laws."
+      "solution": "Federal decrees and state edicts replace Acts and laws.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Decree No. 34 of 1966 introduced:",
@@ -74,7 +120,9 @@
         "Privatisation"
       ],
       "answer": 0,
-      "solution": "Ironsi's Unification Decree abolished the federal structure."
+      "solution": "Ironsi's Unification Decree abolished the federal structure.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Nigerian Civil War was fought between:",
@@ -85,7 +133,9 @@
         "1983 and 1985"
       ],
       "answer": 1,
-      "solution": "The war lasted from July 1967 to January 1970."
+      "solution": "The war lasted from July 1967 to January 1970.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Twelve states were created in Nigeria in:",
@@ -96,7 +146,9 @@
         "1991"
       ],
       "answer": 1,
-      "solution": "Gowon created twelve states in May 1967 on the eve of the civil war."
+      "solution": "Gowon created twelve states in May 1967 on the eve of the civil war.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Head of State assassinated in February 1976 was:",
@@ -107,7 +159,9 @@
         "Sani Abacha"
       ],
       "answer": 1,
-      "solution": "General Murtala Mohammed was killed in the Dimka coup attempt."
+      "solution": "General Murtala Mohammed was killed in the Dimka coup attempt.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The 1979 handover was to President:",
@@ -118,7 +172,9 @@
         "Aminu Kano"
       ],
       "answer": 0,
-      "solution": "Alhaji Shehu Shagari of the NPN became President on 1 October 1979."
+      "solution": "Alhaji Shehu Shagari of the NPN became President on 1 October 1979.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Decree No. 4 of 1984 targeted:",
@@ -129,7 +185,9 @@
         "Traditional rulers"
       ],
       "answer": 0,
-      "solution": "It criminalised publications embarrassing to public officers, even if true."
+      "solution": "It criminalised publications embarrassing to public officers, even if true.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Structural Adjustment Programme was introduced in:",
@@ -140,7 +198,9 @@
         "1999"
       ],
       "answer": 1,
-      "solution": "Babangida adopted SAP in 1986 with currency devaluation and deregulation."
+      "solution": "Babangida adopted SAP in 1986 with currency devaluation and deregulation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The 12 June 1993 election was won by:",
@@ -151,7 +211,9 @@
         "Olu Falae"
       ],
       "answer": 0,
-      "solution": "Abiola of the SDP was widely acknowledged as winner before annulment."
+      "solution": "Abiola of the SDP was widely acknowledged as winner before annulment.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Interim National Government was headed by:",
@@ -162,7 +224,9 @@
         "Ibrahim Babangida"
       ],
       "answer": 0,
-      "solution": "Chief Ernest Shonekan led the ING from August to November 1993."
+      "solution": "Chief Ernest Shonekan led the ING from August to November 1993.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nigeria attained 36 states in:",
@@ -173,7 +237,9 @@
         "1999"
       ],
       "answer": 2,
-      "solution": "Abacha created six additional states in October 1996."
+      "solution": "Abacha created six additional states in October 1996.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An ouster clause is intended to:",
@@ -184,7 +250,9 @@
         "Fund elections"
       ],
       "answer": 0,
-      "solution": "It bars courts from questioning decrees or acts done under them."
+      "solution": "It bars courts from questioning decrees or acts done under them.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is an achievement of military rule in Nigeria?",
@@ -195,7 +263,9 @@
         "Guaranteed rights"
       ],
       "answer": 0,
-      "solution": "The uniform third-tier reform of 1976 was a lasting military-era achievement."
+      "solution": "The uniform third-tier reform of 1976 was a lasting military-era achievement.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A key way to prevent military intervention is:",
@@ -206,7 +276,9 @@
         "Reducing soldiers' pay"
       ],
       "answer": 0,
-      "solution": "Legitimate, accountable civilian government removes the pretext for coups."
+      "solution": "Legitimate, accountable civilian government removes the pretext for coups.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Democracy Day in Nigeria was moved to 12 June in:",
@@ -217,7 +289,451 @@
         "2020"
       ],
       "answer": 2,
-      "solution": "In 2018 the date was changed to honour the annulled 1993 election."
+      "solution": "In 2018 the date was changed to honour the annulled 1993 election.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "What is \u2018Nationalization\u2019?",
+      "options": [
+        "Selling a national company",
+        "Government taking control of a private industry",
+        "Singing the national anthem",
+        "Becoming a citizen of a nation"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Government taking control of a private industry.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is a \u2018Monarchy\u2019?",
+      "options": [
+        "Rule by a single person like a King or Queen",
+        "Rule by all the people",
+        "Rule by a small group of scholars",
+        "A state with no rules or laws"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Rule by a single person like a King or Queen.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is an \u2018Aristocracy\u2019?",
+      "options": [
+        "Rule by the best-qualified or noble class",
+        "Rule by the very poor",
+        "Rule by machines and technology",
+        "Rule by the military"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Rule by the best-qualified or noble class.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is a \u2018Plutocracy\u2019?",
+      "options": [
+        "Rule by the wealthy class",
+        "Rule by the students",
+        "Rule by the military",
+        "Rule by outer-space planets"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Rule by the wealthy class.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which of the following correctly describes decree?",
+      "options": [
+        "is a key part of Military Rule and Democratic Transitions (SSS 3, Government)",
+        "(federal) and edict (state), often with ouster clauses excluding the courts",
+        "excluding the courts",
+        "(state), often with ouster clauses excluding the courts"
+      ],
+      "answer": 1,
+      "solution": "decree: (federal) and edict (state), often with ouster clauses excluding the courts",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes edict?",
+      "options": [
+        "(federal) and edict (state), often with ouster clauses excluding the courts",
+        "is a key part of Military Rule and Democratic Transitions (SSS 3, Government)",
+        "excluding the courts",
+        "(state), often with ouster clauses excluding the courts"
+      ],
+      "answer": 3,
+      "solution": "edict: (state), often with ouster clauses excluding the courts",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes ouster clauses?",
+      "options": [
+        "(state), often with ouster clauses excluding the courts",
+        "excluding the courts",
+        "(federal) and edict (state), often with ouster clauses excluding the courts",
+        "is a key part of Military Rule and Democratic Transitions (SSS 3, Government)"
+      ],
+      "answer": 1,
+      "solution": "ouster clauses: excluding the courts",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Structure of military government in Nigeria?",
+      "options": [
+        "(state), often with ouster clauses excluding the courts",
+        "is a key part of Military Rule and Democratic Transitions (SSS 3, Government)",
+        "(federal) and edict (state), often with ouster clauses excluding the courts",
+        "excluding the courts"
+      ],
+      "answer": 1,
+      "solution": "Structure of military government in Nigeria: is a key part of Military Rule and Democratic Transitions (SSS 3, Government)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes How to prevent military intervention?",
+      "options": [
+        "(federal) and edict (state), often with ouster clauses excluding the courts",
+        "excluding the courts",
+        "(state), often with ouster clauses excluding the courts",
+        "is a key part of Military Rule and Democratic Transitions (SSS 3, Government)"
+      ],
+      "answer": 3,
+      "solution": "How to prevent military intervention: is a key part of Military Rule and Democratic Transitions (SSS 3, Government)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Nature and Causes of Military Rule in Military Rule and Democratic Transitions?",
+      "options": [
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "Nigeria's first military coup occurred on: \u2014 15 January 1966."
+      ],
+      "answer": 3,
+      "solution": "Nigeria's first military coup occurred on: \u2014 15 January 1966.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Nigerian Military Regimes and the Return to Civil Rule in Military Rule and Democratic Transitions?",
+      "options": [
+        "Nigeria's first military coup occurred on: \u2014 15 January 1966.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens."
+      ],
+      "answer": 0,
+      "solution": "Nigeria's first military coup occurred on: \u2014 15 January 1966.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Structure of military government in Nigeria in Military Rule and Democratic Transitions?",
+      "options": [
+        "Nigeria's first military coup occurred on: \u2014 15 January 1966.",
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens."
+      ],
+      "answer": 0,
+      "solution": "Nigeria's first military coup occurred on: \u2014 15 January 1966.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about How to prevent military intervention in Military Rule and Democratic Transitions?",
+      "options": [
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "Nigeria's first military coup occurred on: \u2014 15 January 1966."
+      ],
+      "answer": 3,
+      "solution": "Nigeria's first military coup occurred on: \u2014 15 January 1966.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and exam focus in Military Rule and Democratic Transitions?",
+      "options": [
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Nigeria's first military coup occurred on: \u2014 15 January 1966.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "Which organization replaced the League of Nations \u2014 United Nations."
+      ],
+      "answer": 1,
+      "solution": "Nigeria's first military coup occurred on: \u2014 15 January 1966.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'nigeria'?",
+      "options": [
+        "Nigeria's first military coup occurred on: \u2014 15 January 1966.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "Which organization replaced the League of Nations \u2014 United Nations."
+      ],
+      "answer": 0,
+      "solution": "Nigeria's first military coup occurred on: \u2014 15 January 1966.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'governments'?",
+      "options": [
+        "Military governments legislate through: \u2014 Decrees and edicts.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "Which organization replaced the League of Nations \u2014 United Nations."
+      ],
+      "answer": 0,
+      "solution": "Military governments legislate through: \u2014 Decrees and edicts.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'decree'?",
+      "options": [
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Decree No. 34 of 1966 introduced: \u2014 A unitary system.",
+        "Which organization replaced the League of Nations \u2014 United Nations."
+      ],
+      "answer": 2,
+      "solution": "Decree No. 34 of 1966 introduced: \u2014 A unitary system.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'nigerian'?",
+      "options": [
+        "The Mid-Western Region was created in: \u2014 1963.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "The Nigerian Civil War was fought between: \u2014 1967 and 1970."
+      ],
+      "answer": 3,
+      "solution": "The Nigerian Civil War was fought between: \u2014 1967 and 1970.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'twelve'?",
+      "options": [
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Twelve states were created in Nigeria in: \u2014 1967."
+      ],
+      "answer": 3,
+      "solution": "Twelve states were created in Nigeria in: \u2014 1967.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'head'?",
+      "options": [
+        "The Head of State assassinated in February 1976 was: \u2014 Murtala Mohammed.",
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens."
+      ],
+      "answer": 0,
+      "solution": "The Head of State assassinated in February 1976 was: \u2014 Murtala Mohammed.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 '1979'?",
+      "options": [
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "The 1979 handover was to President: \u2014 Shehu Shagari."
+      ],
+      "answer": 3,
+      "solution": "The 1979 handover was to President: \u2014 Shehu Shagari.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'structural'?",
+      "options": [
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "The Structural Adjustment Programme was introduced in: \u2014 1986."
+      ],
+      "answer": 3,
+      "solution": "The Structural Adjustment Programme was introduced in: \u2014 1986.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'june'?",
+      "options": [
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "The 12 June 1993 election was won by: \u2014 M. K. O. Abiola.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement."
+      ],
+      "answer": 1,
+      "solution": "The 12 June 1993 election was won by: \u2014 M. K. O. Abiola.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'interim'?",
+      "options": [
+        "The Interim National Government was headed by: \u2014 Ernest Shonekan.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement."
+      ],
+      "answer": 0,
+      "solution": "The Interim National Government was headed by: \u2014 Ernest Shonekan.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'ouster'?",
+      "options": [
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "An ouster clause is intended to: \u2014 Exclude the courts' jurisdiction.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement."
+      ],
+      "answer": 1,
+      "solution": "An ouster clause is intended to: \u2014 Exclude the courts' jurisdiction.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'achievement'?",
+      "options": [
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "Which is an achievement of military rule in Nigeria \u2014 1976 Local Government Reform."
+      ],
+      "answer": 3,
+      "solution": "Which is an achievement of military rule in Nigeria \u2014 1976 Local Government Reform.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'key'?",
+      "options": [
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "A key way to prevent military intervention is: \u2014 Good governance and credible elections.",
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement."
+      ],
+      "answer": 1,
+      "solution": "A key way to prevent military intervention is: \u2014 Good governance and credible elections.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'democracy'?",
+      "options": [
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "Democracy Day in Nigeria was moved to 12 June in: \u2014 2018."
+      ],
+      "answer": 3,
+      "solution": "Democracy Day in Nigeria was moved to 12 June in: \u2014 2018.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'nationalization'?",
+      "options": [
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "What is \u2018Nationalization\u2019 \u2014 Government taking control of a private industry."
+      ],
+      "answer": 3,
+      "solution": "What is \u2018Nationalization\u2019 \u2014 Government taking control of a private industry.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'monarchy'?",
+      "options": [
+        "What is a \u2018Monarchy\u2019 \u2014 Rule by a single person like a King or Queen.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement."
+      ],
+      "answer": 0,
+      "solution": "What is a \u2018Monarchy\u2019 \u2014 Rule by a single person like a King or Queen.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'aristocracy'?",
+      "options": [
+        "Which organization replaced the League of Nations \u2014 United Nations.",
+        "What is an \u2018Aristocracy\u2019 \u2014 Rule by the best-qualified or noble class.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement."
+      ],
+      "answer": 1,
+      "solution": "What is an \u2018Aristocracy\u2019 \u2014 Rule by the best-qualified or noble class.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Military Rule and Democratic Transitions \u2014 'plutocracy'?",
+      "options": [
+        "A Nigerian presidential candidate must score at least 25% in: \u2014 Two-thirds of the states and the FCT requirement.",
+        "Fundamental Human Rights are intended to: \u2014 Protect the citizens.",
+        "What is a \u2018Plutocracy\u2019 \u2014 Rule by the wealthy class.",
+        "Which organization replaced the League of Nations \u2014 United Nations."
+      ],
+      "answer": 2,
+      "solution": "What is a \u2018Plutocracy\u2019 \u2014 Rule by the wealthy class.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'coup', which of the following is true in Military Rule and Democratic Transitions?",
+      "options": [
+        "Citizenship acquired because one's parent is a citizen illustrates: \u2014 Jus sanguinis.",
+        "Nigeria's first military coup occurred on: \u2014 15 January 1966.",
+        "The media function of deciding which issues receive attention is: \u2014 Agenda setting.",
+        "The process of depriving a person of his citizenship is known as _____. \u2014 denaturalization."
+      ],
+      "answer": 1,
+      "solution": "Nigeria's first military coup occurred on: \u2014 15 January 1966.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'decrees', which of the following is true in Military Rule and Democratic Transitions?",
+      "options": [
+        "The media function of deciding which issues receive attention is: \u2014 Agenda setting.",
+        "Military governments legislate through: \u2014 Decrees and edicts.",
+        "The process of depriving a person of his citizenship is known as _____. \u2014 denaturalization.",
+        "Citizenship acquired because one's parent is a citizen illustrates: \u2014 Jus sanguinis."
+      ],
+      "answer": 1,
+      "solution": "Military governments legislate through: \u2014 Decrees and edicts.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
     }
   ]
 }

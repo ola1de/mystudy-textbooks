@@ -16,7 +16,7 @@
   "modules": [
     {
       "title": "What Government Means",
-      "html": "<p><b>Government</b> is the machinery through which the will of the state is formulated, expressed and carried out.\nBecause the state is an abstract legal person, it cannot act on its own; it needs living human beings organised into\noffices and institutions. Those offices, taken together, are the government.</p>\n<p>Scholars use the word in three distinct senses, and every examination question turns on knowing which sense is meant:</p>\n<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Sense</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Meaning</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Illustration</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">As an <b>institution</b></td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The set of organs and offices established by the constitution to exercise state power.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The National Assembly, the Presidency and the Supreme Court of Nigeria.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">As a <b>process</b></td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The activity or art of governing &mdash; making, applying and enforcing rules.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The passage of the annual Appropriation Bill from first reading to presidential assent.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">As a <b>field of study</b></td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The academic discipline that examines political institutions and behaviour.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Government offered as a WASSCE subject; Political Science in a university.</td></tr></tbody></table>\n<p>Notice that the first sense answers <i>who</i>, the second answers <i>how</i>, and the third answers <i>what is studied</i>.\nA candidate who defines government only as “the people in power” captures just one third of the concept.</p>",
+      "html": "<p><b>Government</b> is the machinery through which the will of the state is formulated, expressed and carried out.\nBecause the state is an abstract legal person, it cannot act on its own; it needs living human beings organised into\noffices and institutions. Those offices, taken together, are the government.</p>\n<p>Scholars use the word in three distinct senses, and every examination question turns on knowing which sense is meant:</p>\n<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Sense</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Meaning</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Illustration</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">As an <b>institution</b></td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The set of organs and offices established by the constitution to exercise state power.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The National Assembly, the Presidency and the Supreme Court of Nigeria.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">As a <b>process</b></td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The activity or art of governing &mdash; making, applying and enforcing rules.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The passage of the annual Appropriation Bill from first reading to presidential assent.</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">As a <b>field of study</b></td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">The academic discipline that examines political institutions and behaviour.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Government offered as a WASSCE subject; Political Science in a university.</td></tr></tbody></table>\n<p>Notice that the first sense answers <i>who</i>, the second answers <i>how</i>, and the third answers <i>what is studied</i>.\nA candidate who defines government only as \u201cthe people in power\u201d captures just one third of the concept.</p>",
       "examples": [
         {
           "q": "A student writes: 'Government is the President and his ministers.' Correct the answer.",
@@ -46,11 +46,39 @@
     },
     {
       "title": "Levels of Government and Related Concepts",
-      "html": "<p>In a federation such as Nigeria, government also exists at <b>levels</b>. The 1999 Constitution recognises the\n<b>federal</b> government (36 states plus the FCT), <b>state</b> governments, and <b>774 local government councils</b>.\nPowers are shared through the Exclusive Legislative List (federal only), the Concurrent List (federal and state) and the\nResidual List (state only).</p>\n<p>Three related words are often confused:</p>\n<ul>\n<li><b>Politics</b> &mdash; the struggle to acquire, retain and use governmental power; famously described by Harold Lasswell as\n“who gets what, when and how”.</li>\n<li><b>Policy</b> &mdash; a deliberate course of action adopted by government, e.g. the Universal Basic Education policy.</li>\n<li><b>Public administration</b> &mdash; the machinery, personnel and procedures by which policy is carried out day to day.</li>\n</ul>\n<p><b>Why study government?</b> It produces informed citizens who understand their rights and duties, trains future\nadministrators and leaders, promotes political stability by explaining institutions, and equips students for careers in law,\ndiplomacy, journalism and public service.</p>",
+      "html": "<p>In a federation such as Nigeria, government also exists at <b>levels</b>. The 1999 Constitution recognises the\n<b>federal</b> government (36 states plus the FCT), <b>state</b> governments, and <b>774 local government councils</b>.\nPowers are shared through the Exclusive Legislative List (federal only), the Concurrent List (federal and state) and the\nResidual List (state only).</p>\n<p>Three related words are often confused:</p>\n<ul>\n<li><b>Politics</b> &mdash; the struggle to acquire, retain and use governmental power; famously described by Harold Lasswell as\n\u201cwho gets what, when and how\u201d.</li>\n<li><b>Policy</b> &mdash; a deliberate course of action adopted by government, e.g. the Universal Basic Education policy.</li>\n<li><b>Public administration</b> &mdash; the machinery, personnel and procedures by which policy is carried out day to day.</li>\n</ul>\n<p><b>Why study government?</b> It produces informed citizens who understand their rights and duties, trains future\nadministrators and leaders, promotes political stability by explaining institutions, and equips students for careers in law,\ndiplomacy, journalism and public service.</p>",
       "examples": [
         {
           "q": "Distinguish between politics and public administration in one sentence each.",
           "a": "Politics is the competitive struggle over who exercises state power and for what ends; public administration is the neutral, professional execution of the decisions that emerge from that struggle."
+        }
+      ]
+    },
+    {
+      "title": "Government as an institution of the state",
+      "html": "<p><b>Government as an institution of the state</b> is a key part of Basic Concepts and Definitions of Government (SSS 1, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Government is the machinery through which the will of the state is formulated, expressed and carried out.</li><li>Because the state is an abstract legal person, it cannot act on its own; it needs living human beings organised into offices and institutions.</li><li>Those offices, taken together, are the government.</li><li>Scholars use the word in three distinct senses, and every examination question turns on knowing which sense is meant: Sense Meaning Illustration As an institution The set of organs and offices established by the constitution to exercise state power.</li><li>As a field of study The academic discipline that examines political institutions and behaviour.</li></ul><h4>Worked example</h4><p><b>Q:</b> Government as an institution refers to<br/><b>A:</b> The organs and offices that exercise state power \u2014 As an institution, government is the set of established organs &ndash; legislature, executive, judiciary.</p><p><b>Q:</b> Which of the following is NOT an organ of government?<br/><b>A:</b> Electorate \u2014 The electorate is the body of voters, not an organ of government.</p>",
+      "examples": [
+        {
+          "q": "Government as an institution refers to",
+          "a": "The organs and offices that exercise state power \u2014 As an institution, government is the set of established organs &ndash; legislature, executive, judiciary."
+        },
+        {
+          "q": "Which of the following is NOT an organ of government?",
+          "a": "Electorate \u2014 The electorate is the body of voters, not an organ of government."
+        }
+      ]
+    },
+    {
+      "title": "Government as a process or art of governing",
+      "html": "<p><b>Government as a process or art of governing</b> is a key part of Basic Concepts and Definitions of Government (SSS 1, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Government is the machinery through which the will of the state is formulated, expressed and carried out.</li><li>Those offices, taken together, are the government.</li><li>As a process The activity or art of governing &mdash; making, applying and enforcing rules.</li><li>Government offered as a WASSCE subject; Political Science in a university.</li><li>A candidate who defines government only as \u201cthe people in power\u201d captures just one third of the concept.</li></ul><h4>Worked example</h4><p><b>Q:</b> Government as an institution refers to<br/><b>A:</b> The organs and offices that exercise state power \u2014 As an institution, government is the set of established organs &ndash; legislature, executive, judiciary.</p><p><b>Q:</b> Which of the following is NOT an organ of government?<br/><b>A:</b> Electorate \u2014 The electorate is the body of voters, not an organ of government.</p>",
+      "examples": [
+        {
+          "q": "Government as an institution refers to",
+          "a": "The organs and offices that exercise state power \u2014 As an institution, government is the set of established organs &ndash; legislature, executive, judiciary."
+        },
+        {
+          "q": "Which of the following is NOT an organ of government?",
+          "a": "Electorate \u2014 The electorate is the body of voters, not an organ of government."
         }
       ]
     }
@@ -65,7 +93,9 @@
         "The ruling political party"
       ],
       "answer": 1,
-      "solution": "As an institution, government is the set of established organs &ndash; legislature, executive, judiciary."
+      "solution": "As an institution, government is the set of established organs &ndash; legislature, executive, judiciary.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of the following is NOT an organ of government?",
@@ -76,7 +106,9 @@
         "Judiciary"
       ],
       "answer": 2,
-      "solution": "The electorate is the body of voters, not an organ of government."
+      "solution": "The electorate is the body of voters, not an organ of government.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The organ of government that interprets the law is the",
@@ -87,7 +119,9 @@
         "Judiciary"
       ],
       "answer": 3,
-      "solution": "Interpretation of law is the constitutional duty of the judiciary."
+      "solution": "Interpretation of law is the constitutional duty of the judiciary.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Montesquieu's doctrine of separation of powers appeared in",
@@ -98,7 +132,9 @@
         "Two Treatises of Government"
       ],
       "answer": 1,
-      "solution": "Montesquieu published <i>The Spirit of the Laws</i> in 1748."
+      "solution": "Montesquieu published <i>The Spirit of the Laws</i> in 1748.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The primary function of government is best illustrated by",
@@ -109,7 +145,9 @@
         "Subsidising fertiliser"
       ],
       "answer": 1,
-      "solution": "Law and order is a traditional or primary function."
+      "solution": "Law and order is a traditional or primary function.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A state that limits itself to defence, law and order is described as a",
@@ -120,7 +158,9 @@
         "Police state"
       ],
       "answer": 1,
-      "solution": "The laissez-faire or night-watchman state performs only minimal functions."
+      "solution": "The laissez-faire or night-watchman state performs only minimal functions.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Government as a process means",
@@ -131,7 +171,9 @@
         "The constitution"
       ],
       "answer": 1,
-      "solution": "As a process, government is the art or activity of governing."
+      "solution": "As a process, government is the art or activity of governing.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which body approves the annual budget in Nigeria?",
@@ -142,7 +184,9 @@
         "INEC"
       ],
       "answer": 1,
-      "solution": "Approval of the Appropriation Bill is a legislative function."
+      "solution": "Approval of the Appropriation Bill is a legislative function.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The legislature is often called the",
@@ -153,7 +197,9 @@
         "Engine room of policy"
       ],
       "answer": 1,
-      "solution": "The legislature is the first estate because law precedes execution and interpretation."
+      "solution": "The legislature is the first estate because law precedes execution and interpretation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Judicial review enables the courts to",
@@ -164,7 +210,9 @@
         "Prepare the budget"
       ],
       "answer": 1,
-      "solution": "Judicial review nullifies acts that are ultra vires the constitution."
+      "solution": "Judicial review nullifies acts that are ultra vires the constitution.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Harold Lasswell defined politics as",
@@ -175,7 +223,9 @@
         "Government in action"
       ],
       "answer": 1,
-      "solution": "Lasswell's classic formulation is 'who gets what, when and how'."
+      "solution": "Lasswell's classic formulation is 'who gets what, when and how'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nigeria operates how many levels of government?",
@@ -186,7 +236,9 @@
         "Four"
       ],
       "answer": 2,
-      "solution": "Federal, state and local government make three levels."
+      "solution": "Federal, state and local government make three levels.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Matters on which only the Federal Government may legislate are on the",
@@ -197,7 +249,9 @@
         "Reserved list"
       ],
       "answer": 2,
-      "solution": "The Exclusive Legislative List is reserved to the Federal Government."
+      "solution": "The Exclusive Legislative List is reserved to the Federal Government.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The number of local government councils recognised by the 1999 Constitution is",
@@ -208,7 +262,9 @@
         "776"
       ],
       "answer": 2,
-      "solution": "There are 774 constitutionally recognised local government areas."
+      "solution": "There are 774 constitutionally recognised local government areas.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A deliberate course of action adopted by government is called",
@@ -219,7 +275,9 @@
         "Legislation"
       ],
       "answer": 1,
-      "solution": "That is the definition of a public policy."
+      "solution": "That is the definition of a public policy.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Conduct of foreign relations belongs to which organ?",
@@ -230,7 +288,451 @@
         "Local council"
       ],
       "answer": 2,
-      "solution": "Diplomacy and treaty-making are executive functions, though treaties may need legislative ratification."
+      "solution": "Diplomacy and treaty-making are executive functions, though treaties may need legislative ratification.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Government as an academic field of study refers to...",
+      "options": [
+        "The art of making laws",
+        "The study of political institutions and processes",
+        "The administration of justice",
+        "The control of the military"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: The study of political institutions and processes.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The process by which people are moved from a centralized government to local units is _____.",
+      "options": [
+        "Centralization",
+        "Decentralization",
+        "Nationalization",
+        "Socialization"
+      ],
+      "answer": 1,
+      "solution": "Decentralization involves the transfer of powers and responsibilities from the central government to local or regional authorities.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The smallest unit of local government administration in Nigeria is the:",
+      "options": [
+        "Ward",
+        "State",
+        "District",
+        "Zone"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: Ward.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which system of government entails the fusion of the Executive and Legislature?",
+      "options": [
+        "Presidential",
+        "Parliamentary",
+        "Unitary",
+        "Confederal"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Parliamentary.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The head of a local government council in Nigeria is the _____.",
+      "options": [
+        "Councilor",
+        "Chairman",
+        "Governor",
+        "Secretary"
+      ],
+      "answer": 1,
+      "solution": "The Chairman is the executive head of a Local Government Area (LGA) in Nigeria.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The main reason for the 1976 Local Government Reforms in Nigeria was to _____.",
+      "options": [
+        "abolish local governments",
+        "make them uniform and effective",
+        "reduce their powers",
+        "allow the military to rule them"
+      ],
+      "answer": 1,
+      "solution": "The 1976 reforms aimed to create a uniform structure for local governments across Nigeria and make them a third tier of government.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The official in charge of the records of a local government is the _____.",
+      "options": [
+        "Chairman",
+        "Treasurer",
+        "Secretary",
+        "Councilor"
+      ],
+      "answer": 2,
+      "solution": "The Secretary to the Local Government manages the administrative records and correspondence of the council.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The 1976 Local Government Reforms in Nigeria aimed at _____.",
+      "options": [
+        "Abolishing local governments",
+        "Making local government a third tier of government",
+        "Giving states more power over councils",
+        "Introducing a single-party system"
+      ],
+      "answer": 1,
+      "solution": "The 1976 reforms established local government as a distinct, uniform third tier of government with specific functions and funding.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "A system of government where the state is ruled by the wealthy is called _____.",
+      "options": [
+        "Aristocracy",
+        "Theocracy",
+        "Plutocracy",
+        "Oligarchy"
+      ],
+      "answer": 2,
+      "solution": "Plutocracy is a society or system ruled and dominated by the small minority of its wealthiest citizens.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Local Government is the:",
+      "options": [
+        "First tier",
+        "Second tier",
+        "Third tier",
+        "Fourth tier"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: Third tier.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The executive arm of government includes:",
+      "options": [
+        "President, Ministers, Civil Service",
+        "Senators, Reps",
+        "Judges, Lawyers",
+        "Press"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: President, Ministers, Civil Service.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The legislative arm at the Local Government is the:",
+      "options": [
+        "Council",
+        "House of Assembly",
+        "Senate",
+        "Cabinet"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Council.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The head of the Executive arm of government is the:",
+      "options": [
+        "Senate President",
+        "Chief Justice",
+        "President",
+        "IGP"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: President.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "A system of government where the head of state is also the head of government is...",
+      "options": [
+        "Cabinet system",
+        "Presidential system",
+        "Monarchy",
+        "Unitary system"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Presidential system.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The main reason for the 1976 Local Government Reform was to...",
+      "options": [
+        "Abolish local governments",
+        "Make local government a functional third tier of government",
+        "Empower traditional rulers",
+        "Increase taxes"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Make local government a functional third tier of government.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The judiciary is the organ of government that...",
+      "options": [
+        "Enforces laws",
+        "Interprets laws",
+        "Drafts laws",
+        "Executes laws"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Interprets laws.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The study of government is important because it:",
+      "options": [
+        "Teaches how to overthrow governments",
+        "Educates citizens on their rights and duties",
+        "Encourages laziness",
+        "Promotes ethnic rivalry"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: Educates citizens on their rights and duties.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Who is the political head of a Local Government in Nigeria?",
+      "options": [
+        "Governor",
+        "Mayor",
+        "Chairman",
+        "Councilor"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Chairman.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The President is both Head of State and Head of Government in a?",
+      "options": [
+        "Parliamentary system",
+        "Presidential system",
+        "Constitutional Monarchy",
+        "Diarchy"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Presidential system.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018NCNC-NPC\u2019 coalition formed the federal government in?",
+      "options": [
+        "1954",
+        "1979",
+        "1999",
+        "1959"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 1959.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018State\u2019 has four elements: Population, Territory, Government, and?",
+      "options": [
+        "Money",
+        "Sovereignty",
+        "Army",
+        "Language"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Sovereignty.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\u2018Limited Government\u2019 means?",
+      "options": [
+        "Government has no money",
+        "Government is small in size",
+        "There are constitutional checks on power",
+        "No elections are held"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: There are constitutional checks on power.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\u2018Local Government\u2019 is considered the?",
+      "options": [
+        "First tier of government",
+        "Second tier of government",
+        "Third tier of government",
+        "Private sector"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Third tier of government.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "How many Local Government Areas (LGAs) are currently in Nigeria?",
+      "options": [
+        "36",
+        "774",
+        "1000",
+        "419"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 774.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A major feature of a unitary system of government is that _____.",
+      "options": [
+        "power is shared between the center and components",
+        "it has a rigid constitution",
+        "the central government is supreme",
+        "it is most suitable for large countries"
+      ],
+      "answer": 2,
+      "solution": "In a unitary system, all constitutional powers are vested in the central government, which may delegate tasks to sub-national levels at its own discretion.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A system of government where power is held by a few wealthy people is called _____.",
+      "options": [
+        "Oligarchy",
+        "Aristocracy",
+        "Plutocracy",
+        "Monarchy"
+      ],
+      "answer": 2,
+      "solution": "Plutocracy is a society or system ruled and dominated by the small minority of the wealthiest citizens.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The method used to remove a President in a presidential system of government is _____.",
+      "options": [
+        "Vote of no confidence",
+        "Recall",
+        "Impeachment",
+        "Resignation"
+      ],
+      "answer": 2,
+      "solution": "Impeachment is the formal process by which a legislative body levels charges against a government official for misconduct, which can lead to removal from office.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "In a parliamentary system of government, the Head of Government is the _____.",
+      "options": [
+        "President",
+        "Monarch",
+        "Prime Minister",
+        "Chief Justice"
+      ],
+      "answer": 2,
+      "solution": "In a parliamentary system (e.g., Britain), the Prime Minister is the Head of Government and exercises executive power, while the Monarch or President is the Head of State.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The organ of government that protects the citizens from arbitrary use of power is the _____.",
+      "options": [
+        "Executive",
+        "Judiciary",
+        "Legislature",
+        "Police"
+      ],
+      "answer": 1,
+      "solution": "Through the power of judicial review and the issuance of writs like Habeas Corpus, the Judiciary protects citizens' rights against executive excesses.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Fascism as a system of government originated in _____.",
+      "options": [
+        "Germany",
+        "Italy",
+        "Russia",
+        "Spain"
+      ],
+      "answer": 1,
+      "solution": "Fascism was founded by Benito Mussolini in Italy after World War I, characterized by dictatorial power and strong regimentation.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A system of government where power is shared between the central government and the component units is called _____.",
+      "options": [
+        "Unitary system",
+        "Confederal system",
+        "Federal system",
+        "Monarchical system"
+      ],
+      "answer": 2,
+      "solution": "Federalism is a system where constitutional power is divided between a central authority and constituent political units like states or regions.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The 1979 Constitution of Nigeria introduced the _____ system of government.",
+      "options": [
+        "Parliamentary",
+        "Presidential",
+        "Confederal",
+        "Unitary"
+      ],
+      "answer": 1,
+      "solution": "The 1979 Constitution marked Nigeria's shift from the British parliamentary system to the American-style presidential system.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "In a confederal system of government, sovereignty resides in the _____.",
+      "options": [
+        "Central government",
+        "Component units",
+        "Legislature",
+        "Judiciary"
+      ],
+      "answer": 1,
+      "solution": "In a confederation, independent states unite for common purposes but retain their individual sovereignty, making the center weak.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which organ of government is responsible for interpreting the law?",
+      "options": [
+        "The Executive",
+        "The Legislature",
+        "The Judiciary",
+        "The Police"
+      ],
+      "answer": 2,
+      "solution": "The Judiciary interprets laws and adjudicates disputes according to the constitution and statutes.",
+      "source": "NECO 2024",
+      "practice": false
     }
   ]
 }

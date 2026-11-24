@@ -15,15 +15,15 @@
   "modules": [
     {
       "title": "British Indirect Rule",
-      "html": "\n<h4>1. Meaning</h4>\n<p><b>Indirect Rule</b> was the British system of administering colonies through existing traditional rulers and institutions, supervised by British officials. Introduced in Northern Nigeria by <b>Lord Frederick Lugard</b> from 1900 and extended to the South after the 1914 amalgamation.</p>\n<h4>2. Machinery</h4>\n<table class=\"tb-table\">\n<tr><th>Component</th><th>Role</th></tr>\n<tr><td>Governor-General</td><td>Overall head of the colony and protectorate</td></tr>\n<tr><td>Lieutenant-Governors / Chief Commissioners</td><td>Headed the groups of provinces (North, South)</td></tr>\n<tr><td>Residents</td><td>Supervised a province and advised the Emir/Native Authority</td></tr>\n<tr><td>District Officers</td><td>Supervised divisions and native courts</td></tr>\n<tr><td>Native Authority</td><td>Traditional ruler-in-council exercising local executive power</td></tr>\n<tr><td>Native Treasury (Beit-el-mal)</td><td>Kept a share of local revenue for local administration</td></tr>\n<tr><td>Native Courts</td><td>Applied customary and Islamic law in local disputes</td></tr>\n</table>\n<h4>3. Reasons for Adoption</h4>\n<ol><li>Shortage of British personnel and funds.</li><li>Vastness of territory and poor communications.</li><li>Existence of well-organised traditional authorities, especially in the North.</li><li>Desire to avoid resistance by preserving familiar institutions.</li><li>Language and cultural barriers.</li><li>Belief in gradual, evolutionary development of Africans.</li></ol>\n<h4>4. Regional Outcomes</h4>\n<ul><li><b>North:</b> highly successful — the emirate hierarchy, taxation and Alkali courts fitted the model. Christian missions and Western education were restricted, widening the North–South educational gap.</li><li><b>West:</b> partially successful — Obas existed but were constitutionally limited by chiefs and cults; educated elites and a vocal press resisted, and the 1918 Adubi war and Egba unrest showed strain.</li><li><b>East:</b> largely a failure — no centralised chiefs, so <b>warrant chiefs</b> were imposed. Their abuses provoked the <b>1929 Aba Women's Riot</b>, after which the system was reformed.</li></ul>\n<h4>5. Merits and Demerits</h4>\n<p><i>Merits:</i> cheap, preserved traditional institutions, minimised friction, trained locals in administration, maintained order. <i>Demerits:</i> strengthened autocratic chiefs beyond custom, excluded educated elites, retarded political development and education in the North, entrenched regional disparities, and made chiefs unpopular as agents of colonial taxation.</p>\n",
+      "html": "\n<h4>1. Meaning</h4>\n<p><b>Indirect Rule</b> was the British system of administering colonies through existing traditional rulers and institutions, supervised by British officials. Introduced in Northern Nigeria by <b>Lord Frederick Lugard</b> from 1900 and extended to the South after the 1914 amalgamation.</p>\n<h4>2. Machinery</h4>\n<table class=\"tb-table\">\n<tr><th>Component</th><th>Role</th></tr>\n<tr><td>Governor-General</td><td>Overall head of the colony and protectorate</td></tr>\n<tr><td>Lieutenant-Governors / Chief Commissioners</td><td>Headed the groups of provinces (North, South)</td></tr>\n<tr><td>Residents</td><td>Supervised a province and advised the Emir/Native Authority</td></tr>\n<tr><td>District Officers</td><td>Supervised divisions and native courts</td></tr>\n<tr><td>Native Authority</td><td>Traditional ruler-in-council exercising local executive power</td></tr>\n<tr><td>Native Treasury (Beit-el-mal)</td><td>Kept a share of local revenue for local administration</td></tr>\n<tr><td>Native Courts</td><td>Applied customary and Islamic law in local disputes</td></tr>\n</table>\n<h4>3. Reasons for Adoption</h4>\n<ol><li>Shortage of British personnel and funds.</li><li>Vastness of territory and poor communications.</li><li>Existence of well-organised traditional authorities, especially in the North.</li><li>Desire to avoid resistance by preserving familiar institutions.</li><li>Language and cultural barriers.</li><li>Belief in gradual, evolutionary development of Africans.</li></ol>\n<h4>4. Regional Outcomes</h4>\n<ul><li><b>North:</b> highly successful \u2014 the emirate hierarchy, taxation and Alkali courts fitted the model. Christian missions and Western education were restricted, widening the North\u2013South educational gap.</li><li><b>West:</b> partially successful \u2014 Obas existed but were constitutionally limited by chiefs and cults; educated elites and a vocal press resisted, and the 1918 Adubi war and Egba unrest showed strain.</li><li><b>East:</b> largely a failure \u2014 no centralised chiefs, so <b>warrant chiefs</b> were imposed. Their abuses provoked the <b>1929 Aba Women's Riot</b>, after which the system was reformed.</li></ul>\n<h4>5. Merits and Demerits</h4>\n<p><i>Merits:</i> cheap, preserved traditional institutions, minimised friction, trained locals in administration, maintained order. <i>Demerits:</i> strengthened autocratic chiefs beyond custom, excluded educated elites, retarded political development and education in the North, entrenched regional disparities, and made chiefs unpopular as agents of colonial taxation.</p>\n",
       "examples": [
         {
           "q": "Why did educated Nigerians oppose Indirect Rule?",
-          "a": "Because it excluded them. The system reserved authority for hereditary chiefs whom the British could control, while lawyers, journalists and teachers — the very people equipped to demand representation — were kept out of the Native Authorities. Nationalists such as Herbert Macaulay and later Azikiwe therefore argued it was designed to divide the elite from the masses and delay self-government."
+          "a": "Because it excluded them. The system reserved authority for hereditary chiefs whom the British could control, while lawyers, journalists and teachers \u2014 the very people equipped to demand representation \u2014 were kept out of the Native Authorities. Nationalists such as Herbert Macaulay and later Azikiwe therefore argued it was designed to divide the elite from the masses and delay self-government."
         },
         {
           "q": "State two lasting consequences of the 1914 amalgamation.",
-          "a": "(i) It created a single Nigerian state out of the Northern and Southern Protectorates and Lagos Colony for administrative and financial convenience — using the South's surplus to fund the North — without integrating their peoples, leaving a legacy of North–South suspicion. (ii) It preserved separate administrative systems and educational policies, entrenching the developmental imbalance that later shaped constitutional bargaining, regionalism and revenue allocation disputes."
+          "a": "(i) It created a single Nigerian state out of the Northern and Southern Protectorates and Lagos Colony for administrative and financial convenience \u2014 using the South's surplus to fund the North \u2014 without integrating their peoples, leaving a legacy of North\u2013South suspicion. (ii) It preserved separate administrative systems and educational policies, entrenching the developmental imbalance that later shaped constitutional bargaining, regionalism and revenue allocation disputes."
         }
       ]
     },
@@ -40,6 +40,48 @@
           "a": "Indirect Rule preserved local institutions and produced legislative councils that evolved into national parliaments, giving Nigerians earlier experience of representative politics; but it neglected mass education and entrenched regionalism. Assimilation produced a small, highly trained elite closely tied to France with weak local institutions. Neither prepared colonies fully; the British model transferred more institutional machinery, the French model more administrative centralisation."
         }
       ]
+    },
+    {
+      "title": "Successes and failures of Indirect Rule by region",
+      "html": "<p><b>Successes and failures of Indirect Rule by region</b> is a key part of Colonial Administration Systems (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Indirect Rule was the British system of administering colonies through existing traditional rulers and institutions, supervised by British officials.</li><li>Machinery Component Role Governor-General Overall head of the colony and protectorate Lieutenant-Governors / Chief Commissioners Headed the groups of provinces (North, South) Residents Supervised a province and advised the Emir/Native Authority District Officers Supervised divisions and native courts Native Authority Traditional ruler-in-council exercising local executive power Native Treasury (Beit-el-mal) Kept a share of local revenue for local administration Native Courts Applied customary and Islamic law in local disputes 3.</li><li>Regional Outcomes North: highly successful \u2014 the emirate hierarchy, taxation and Alkali courts fitted the model.</li><li>Demerits: strengthened autocratic chiefs beyond custom, excluded educated elites, retarded political development and education in the North, entrenched regional disparities, and made chiefs unpopular as agents of colonial taxation.</li><li>Association After 1900 France shifted to Association : cooperation with African institutions while keeping ultimate French control, with more use of chiefs (though chiefs were appointed officials, not traditional rulers) and recognition of some African custom.</li></ul><h4>Worked example</h4><p><b>Q:</b> Indirect Rule in Nigeria is associated with:<br/><b>A:</b> Lord Lugard \u2014 Lugard introduced and systematised Indirect Rule from 1900 in the North.</p><p><b>Q:</b> Indirect Rule failed most in:<br/><b>A:</b> Eastern Nigeria \u2014 The absence of centralised chiefs in Igboland led to the imposition of warrant chiefs.</p>",
+      "examples": [
+        {
+          "q": "Indirect Rule in Nigeria is associated with:",
+          "a": "Lord Lugard \u2014 Lugard introduced and systematised Indirect Rule from 1900 in the North."
+        },
+        {
+          "q": "Indirect Rule failed most in:",
+          "a": "Eastern Nigeria \u2014 The absence of centralised chiefs in Igboland led to the imposition of warrant chiefs."
+        }
+      ]
+    },
+    {
+      "title": "Legacies of colonial administration",
+      "html": "<p><b>Legacies of colonial administration</b> is a key part of Colonial Administration Systems (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Machinery Component Role Governor-General Overall head of the colony and protectorate Lieutenant-Governors / Chief Commissioners Headed the groups of provinces (North, South) Residents Supervised a province and advised the Emir/Native Authority District Officers Supervised divisions and native courts Native Authority Traditional ruler-in-council exercising local executive power Native Treasury (Beit-el-mal) Kept a share of local revenue for local administration Native Courts Applied customary and Islamic law in local disputes 3.</li><li>Merits and Demerits Merits: cheap, preserved traditional institutions, minimised friction, trained locals in administration, maintained order.</li><li>Demerits: strengthened autocratic chiefs beyond custom, excluded educated elites, retarded political development and education in the North, entrenched regional disparities, and made chiefs unpopular as agents of colonial taxation.</li><li>Comparison Criterion British Indirect Rule French Assimilation/Association Philosophy Preserve African institutions; gradual self-government Absorb Africans into French civilisation; permanent union Administration Decentralised; through traditional rulers Highly centralised from Paris via Dakar Role of chiefs Traditional rulers retained real authority Chiefs were paid agents, removable at will Law Customary and Islamic law retained in native courts French law imposed; indigenat for subjects Citizenship Colonial subjects; no British citizenship Citizenship possible for evolues Representation Legislative councils in the colony Deputies in the French Parliament Outcome Federal, English-speaking states with strong local identity Unitary, French-oriented states tied closely to France</li><li>Successes and failures of Indirect Rule by region is a key part of Colonial Administration Systems (SSS 3, Government).</li></ul><h4>Worked example</h4><p><b>Q:</b> The colonial officer who supervised a province was the:<br/><b>A:</b> Resident \u2014 Residents advised Native Authorities at provincial level.</p><p><b>Q:</b> The harsh legal code applied to French colonial subjects was the:<br/><b>A:</b> Indigenat \u2014 The indigenat allowed summary punishment and forced labour on sujets.</p>",
+      "examples": [
+        {
+          "q": "The colonial officer who supervised a province was the:",
+          "a": "Resident \u2014 Residents advised Native Authorities at provincial level."
+        },
+        {
+          "q": "The harsh legal code applied to French colonial subjects was the:",
+          "a": "Indigenat \u2014 The indigenat allowed summary punishment and forced labour on sujets."
+        }
+      ]
+    },
+    {
+      "title": "Amalgamation of 1914 and its consequences",
+      "html": "<p><b>Amalgamation of 1914 and its consequences</b> is a key part of Colonial Administration Systems (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Introduced in Northern Nigeria by Lord Frederick Lugard from 1900 and extended to the South after the 1914 amalgamation.</li><li>Lugard amalgamated the protectorates on 1 January 1914.</li><li>Blaise Diagne was elected in 1914 from the four communes.</li></ul><h4>Worked example</h4><p><b>Q:</b> Amalgamation of Northern and Southern Nigeria occurred in:<br/><b>A:</b> 1914 \u2014 Lugard amalgamated the protectorates on 1 January 1914.</p><p><b>Q:</b> The first African deputy elected to the French Parliament was:<br/><b>A:</b> Blaise Diagne \u2014 Blaise Diagne was elected in 1914 from the four communes.</p>",
+      "examples": [
+        {
+          "q": "Amalgamation of Northern and Southern Nigeria occurred in:",
+          "a": "1914 \u2014 Lugard amalgamated the protectorates on 1 January 1914."
+        },
+        {
+          "q": "The first African deputy elected to the French Parliament was:",
+          "a": "Blaise Diagne \u2014 Blaise Diagne was elected in 1914 from the four communes."
+        }
+      ]
     }
   ],
   "quiz": [
@@ -52,7 +94,9 @@
         "Sir John Macpherson"
       ],
       "answer": 0,
-      "solution": "Lugard introduced and systematised Indirect Rule from 1900 in the North."
+      "solution": "Lugard introduced and systematised Indirect Rule from 1900 in the North.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The colonial officer who supervised a province was the:",
@@ -63,7 +107,9 @@
         "Consul"
       ],
       "answer": 0,
-      "solution": "Residents advised Native Authorities at provincial level."
+      "solution": "Residents advised Native Authorities at provincial level.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Indirect Rule failed most in:",
@@ -74,7 +120,9 @@
         "Lagos Colony"
       ],
       "answer": 2,
-      "solution": "The absence of centralised chiefs in Igboland led to the imposition of warrant chiefs."
+      "solution": "The absence of centralised chiefs in Igboland led to the imposition of warrant chiefs.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Aba Women's Riot took place in:",
@@ -85,7 +133,9 @@
         "1945"
       ],
       "answer": 1,
-      "solution": "Women protested warrant chief abuses and rumoured taxation in 1929."
+      "solution": "Women protested warrant chief abuses and rumoured taxation in 1929.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "French policy that sought to turn Africans into Frenchmen was:",
@@ -96,7 +146,9 @@
         "Paternalism"
       ],
       "answer": 1,
-      "solution": "Assimilation aimed at cultural and legal absorption into France."
+      "solution": "Assimilation aimed at cultural and legal absorption into France.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The four communes were located in:",
@@ -107,7 +159,9 @@
         "Guinea"
       ],
       "answer": 1,
-      "solution": "Dakar, Goree, Rufisque and Saint-Louis were in Senegal."
+      "solution": "Dakar, Goree, Rufisque and Saint-Louis were in Senegal.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Africans who qualified as French citizens were called:",
@@ -118,7 +172,9 @@
         "Warrant chiefs"
       ],
       "answer": 1,
-      "solution": "Evolues were the assimilated elite with citizenship rights."
+      "solution": "Evolues were the assimilated elite with citizenship rights.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The harsh legal code applied to French colonial subjects was the:",
@@ -129,7 +185,9 @@
         "Common law"
       ],
       "answer": 0,
-      "solution": "The indigenat allowed summary punishment and forced labour on sujets."
+      "solution": "The indigenat allowed summary punishment and forced labour on sujets.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Amalgamation of Northern and Southern Nigeria occurred in:",
@@ -140,7 +198,9 @@
         "1922"
       ],
       "answer": 2,
-      "solution": "Lugard amalgamated the protectorates on 1 January 1914."
+      "solution": "Lugard amalgamated the protectorates on 1 January 1914.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A major reason for Indirect Rule was:",
@@ -151,7 +211,9 @@
         "Absence of chiefs"
       ],
       "answer": 0,
-      "solution": "Ruling through existing rulers was cheap and manpower-efficient."
+      "solution": "Ruling through existing rulers was cheap and manpower-efficient.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Native treasuries in the North were known as:",
@@ -162,7 +224,9 @@
         "Hakimi"
       ],
       "answer": 0,
-      "solution": "The Beit-el-mal retained a share of local revenue for local administration."
+      "solution": "The Beit-el-mal retained a share of local revenue for local administration.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "French colonial administration was:",
@@ -173,7 +237,9 @@
         "Non-existent"
       ],
       "answer": 0,
-      "solution": "Power flowed from Paris through Governors-General at Dakar and Brazzaville."
+      "solution": "Power flowed from Paris through Governors-General at Dakar and Brazzaville.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A demerit of Indirect Rule was that it:",
@@ -184,7 +250,9 @@
         "Abolished chieftaincy"
       ],
       "answer": 0,
-      "solution": "Authority was reserved to chiefs, alienating the Western-educated class."
+      "solution": "Authority was reserved to chiefs, alienating the Western-educated class.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Under Association, French-appointed chiefs were:",
@@ -195,7 +263,9 @@
         "Religious leaders"
       ],
       "answer": 1,
-      "solution": "They were administrative agents rather than legitimate traditional rulers."
+      "solution": "They were administrative agents rather than legitimate traditional rulers.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The first African deputy elected to the French Parliament was:",
@@ -206,7 +276,9 @@
         "Sekou Toure"
       ],
       "answer": 0,
-      "solution": "Blaise Diagne was elected in 1914 from the four communes."
+      "solution": "Blaise Diagne was elected in 1914 from the four communes.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Indirect Rule widened the North-South gap mainly by:",
@@ -217,7 +289,451 @@
         "Banning trade"
       ],
       "answer": 0,
-      "solution": "Missions and Western education were restricted in the North, delaying elite formation there."
+      "solution": "Missions and Western education were restricted in the North, delaying elite formation there.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A country's foreign policy is primarily determined by its?",
+      "options": [
+        "Local weather",
+        "Geography and rivers",
+        "National interest",
+        "Performance in sports"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: National interest.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The French Revolution, which promoted Liberty, Equality, and Fraternity, happened in?",
+      "options": [
+        "1776",
+        "1815",
+        "1914",
+        "1789"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 1789.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a non-renewable resource?",
+      "options": [
+        "Water",
+        "Petroleum",
+        "Solar",
+        "Wind"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Petroleum.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Who was the lead planner of the January 1966 coup?",
+      "options": [
+        "Major Chukwuma Nzeogwu",
+        "General Aguiyi Ironsi",
+        "General Yakubu Gowon",
+        "General Murtala Muhammed"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Major Chukwuma Nzeogwu.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A bicameral legislature consists of?",
+      "options": [
+        "One house",
+        "Three houses",
+        "No houses",
+        "Two houses"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Two houses.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The first African Secretary-General of the UN was?",
+      "options": [
+        "Kofi Annan",
+        "Boutros Boutros-Ghali",
+        "Emeka Anyaoku",
+        "Ban Ki-moon"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Boutros Boutros-Ghali.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The Red Cross is an example of an?",
+      "options": [
+        "IGO (Inter-governmental Org)",
+        "NGO (Non-governmental Org)",
+        "MNC (Multi-national Corp)",
+        "Sovereign State"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: NGO (Non-governmental Org).",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The 1963 Constitution was a?",
+      "options": [
+        "Monarchical Constitution",
+        "Republican Constitution",
+        "Colonial Constitution",
+        "Unitary Constitution"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Republican Constitution.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The 'Cold War' was a period of tension primarily between?",
+      "options": [
+        "USA and China",
+        "UK and France",
+        "USA and USSR",
+        "North and South Korea"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: USA and USSR.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The 1946 Richards Constitution created?",
+      "options": [
+        "States",
+        "LGAs",
+        "Regions",
+        "Wards"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Regions.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The Magna Carta was signed in England in?",
+      "options": [
+        "1215",
+        "1789",
+        "1914",
+        "1945"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 1215.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The 'G-77' is a coalition of?",
+      "options": [
+        "Industrialized nations",
+        "Developing nations",
+        "Oil-exporting nations",
+        "Island nations"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Developing nations.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The 1999 Constitution ushered in the?",
+      "options": [
+        "1st Republic",
+        "2nd Republic",
+        "4th Republic",
+        "3rd Republic"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 4th Republic.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The ECOWAS treaty was signed in Lagos in?",
+      "options": [
+        "1963",
+        "1990",
+        "1975",
+        "2000"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 1975.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The 1951 Constitution is also called the?",
+      "options": [
+        "Clifford Constitution",
+        "Macpherson Constitution",
+        "Richards Constitution",
+        "Lyttleton Constitution"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Macpherson Constitution.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The headquarters of the Commonwealth is located in?",
+      "options": [
+        "New York",
+        "Abuja",
+        "London",
+        "Canberra"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: London.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Judicial review refers to?",
+      "options": [
+        "Increasing judge salaries",
+        "Courts checking the constitutionality of laws",
+        "Hiring new lawyers",
+        "Proofreading legal textbooks"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Courts checking the constitutionality of laws.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The main reason for the failure of the 1963 Census was?",
+      "options": [
+        "Poor weather conditions",
+        "Lack of census paper",
+        "Political manipulation and inflation of figures",
+        "Low population"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Political manipulation and inflation of figures.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Who was the first African President of the UN General Assembly?",
+      "options": [
+        "Alex Quaison-Sackey",
+        "Kofi Annan",
+        "Nelson Mandela",
+        "Nnamdi Azikiwe"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Alex Quaison-Sackey.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The 1954 Lyttleton Constitution established?",
+      "options": [
+        "A Unitary system",
+        "A Monarchy",
+        "A Federal system",
+        "A Military Colony"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: A Federal system.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The Aba Women's Riot of 1929 was sparked by?",
+      "options": [
+        "Shortage of food",
+        "Rumors of taxing women",
+        "Lack of schools",
+        "High cost of clothing"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Rumors of taxing women.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "In a federation, the \u2018Concurrent List\u2019 contains powers for?",
+      "options": [
+        "Federal government only",
+        "Both Federal and State governments",
+        "State government only",
+        "Local government only"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Both Federal and State governments.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The term of office for a Commonwealth Secretary-General is?",
+      "options": [
+        "2 years",
+        "6 years",
+        "8 years",
+        "4 years"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 4 years.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A primary function of the legislature is?",
+      "options": [
+        "To arrest criminals",
+        "To judge court cases",
+        "Oversight of the executive branch",
+        "To drive national transport"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Oversight of the executive branch.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The Berlin Conference of 1884\u20131885 was held for the?",
+      "options": [
+        "Promotion of peace in Europe",
+        "Partition of Africa among European powers",
+        "Abolition of slavery in Asia",
+        "Establishment of trade with America"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Partition of Africa among European powers.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The International Court of Justice (ICJ) is located in?",
+      "options": [
+        "New York",
+        "Geneva",
+        "The Hague",
+        "Addis Ababa"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: The Hague.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\u2018National Interest\u2019 refers to?",
+      "options": [
+        "A President\u2019s personal goal",
+        "The fundamental goals and ambitions of a country",
+        "A private company's goal",
+        "Interest paid on national debt"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: The fundamental goals and ambitions of a country.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Great Purge\u2019 is a historical event associated with?",
+      "options": [
+        "USA",
+        "UK",
+        "Rome",
+        "USSR under Stalin"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: USSR under Stalin.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What was the original name of the NCNC when it was formed in 1944?",
+      "options": [
+        "National Council of Nigerian Citizens",
+        "National Council of Nigeria and the Cameroons",
+        "Nigerian Congress of National Citizens",
+        "New Council for Nigeria"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: National Council of Nigeria and the Cameroons.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The OAU was founded in 1963 in?",
+      "options": [
+        "Lagos",
+        "Cairo",
+        "Accra",
+        "Addis Ababa"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Addis Ababa.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The proposed common currency for ECOWAS is the?",
+      "options": [
+        "Dollar",
+        "Naira",
+        "CFA Franc",
+        "Eco"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Eco.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Hansard\u2019 is?",
+      "options": [
+        "A local news magazine",
+        "The official record of parliamentary debates",
+        "A textbook on law",
+        "A type of diplomatic passport"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: The official record of parliamentary debates.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\u2018Self-determination\u2019 refers to the?",
+      "options": [
+        "Right of a people to choose their own political status",
+        "Right to declare war on neighbors",
+        "Right to steal from the state",
+        "Power of the military to rule"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Right of a people to choose their own political status.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Waziri\u2019 in the Sokoto Caliphate acted as the?",
+      "options": [
+        "Chief Priest",
+        "Grand Commander of the Army",
+        "Chief Palace Guard",
+        "Prime Minister/Chief Advisor"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Prime Minister/Chief Advisor.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
     }
   ]
 }

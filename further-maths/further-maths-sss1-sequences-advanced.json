@@ -1,0 +1,737 @@
+{
+  "subject": "Further Mathematics",
+  "level": "SSS 1",
+  "slug": "sequences-advanced",
+  "title": "Sequences and Series (Advanced)",
+  "outline": [
+    "Introduction to Sequences and Series (Advanced)",
+    "Key facts about Sequences and Series (Advanced)",
+    "Important terms and examples in Sequences and Series (Advanced)",
+    "Importance and application of Sequences and Series (Advanced)",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Sequences and Series (Advanced)",
+      "html": "<p>Arithmetic and geometric progressions, and sums to infinity. This section covers introduction to sequences and series (advanced).</p><h4>Key points</h4><ul><li>The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$.</li><li>Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$. \u2014 $$\\frac{3}{2}$$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio.<br/><b>A:</b> $$2/3$$ \u2014 Past question (JAMB 2022). Correct answer: $$2/3$$.</p><p><b>Q:</b> Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$.<br/><b>A:</b> $$\\frac{3}{2}$$ \u2014 Past question (JAMB 2023). Correct answer: $$\\frac{3}{2}$$.</p>",
+      "examples": [
+        {
+          "q": "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio.",
+          "a": "$$2/3$$"
+        },
+        {
+          "q": "Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$.",
+          "a": "$$\\frac{3}{2}$$"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Sequences and Series (Advanced)",
+      "html": "<p>Arithmetic and geometric progressions, and sums to infinity. This section covers key facts about sequences and series (advanced).</p><h4>Key points</h4><ul><li>The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$.</li><li>Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$. \u2014 $$\\frac{3}{2}$$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio.<br/><b>A:</b> $$2/3$$ \u2014 Past question (JAMB 2022). Correct answer: $$2/3$$.</p><p><b>Q:</b> Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$.<br/><b>A:</b> $$\\frac{3}{2}$$ \u2014 Past question (JAMB 2023). Correct answer: $$\\frac{3}{2}$$.</p>",
+      "examples": [
+        {
+          "q": "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio.",
+          "a": "$$2/3$$"
+        },
+        {
+          "q": "Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$.",
+          "a": "$$\\frac{3}{2}$$"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Sequences and Series (Advanced)",
+      "html": "<p>Arithmetic and geometric progressions, and sums to infinity. This section covers important terms and examples in sequences and series (advanced).</p><h4>Key points</h4><ul><li>The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$.</li><li>Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$. \u2014 $$\\frac{3}{2}$$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio.<br/><b>A:</b> $$2/3$$ \u2014 Past question (JAMB 2022). Correct answer: $$2/3$$.</p><p><b>Q:</b> Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$.<br/><b>A:</b> $$\\frac{3}{2}$$ \u2014 Past question (JAMB 2023). Correct answer: $$\\frac{3}{2}$$.</p>",
+      "examples": [
+        {
+          "q": "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio.",
+          "a": "$$2/3$$"
+        },
+        {
+          "q": "Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$.",
+          "a": "$$\\frac{3}{2}$$"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Sequences and Series (Advanced)",
+      "html": "<p>Arithmetic and geometric progressions, and sums to infinity. This section covers importance and application of sequences and series (advanced).</p><h4>Key points</h4><ul><li>The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$.</li><li>Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$. \u2014 $$\\frac{3}{2}$$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio.<br/><b>A:</b> $$2/3$$ \u2014 Past question (JAMB 2022). Correct answer: $$2/3$$.</p><p><b>Q:</b> Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$.<br/><b>A:</b> $$\\frac{3}{2}$$ \u2014 Past question (JAMB 2023). Correct answer: $$\\frac{3}{2}$$.</p>",
+      "examples": [
+        {
+          "q": "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio.",
+          "a": "$$2/3$$"
+        },
+        {
+          "q": "Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$.",
+          "a": "$$\\frac{3}{2}$$"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Arithmetic and geometric progressions, and sums to infinity. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$.</li><li>Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$. \u2014 $$\\frac{3}{2}$$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio.<br/><b>A:</b> $$2/3$$ \u2014 Past question (JAMB 2022). Correct answer: $$2/3$$.</p><p><b>Q:</b> Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$.<br/><b>A:</b> $$\\frac{3}{2}$$ \u2014 Past question (JAMB 2023). Correct answer: $$\\frac{3}{2}$$.</p>",
+      "examples": [
+        {
+          "q": "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio.",
+          "a": "$$2/3$$"
+        },
+        {
+          "q": "Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$.",
+          "a": "$$\\frac{3}{2}$$"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio.",
+      "options": [
+        "$$1/3$$",
+        "$$2/3$$",
+        "$$1/2$$",
+        "$$3/4$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$2/3$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$.",
+      "options": [
+        "$$\\frac{3}{2}$$",
+        "$$\\frac{4}{3}$$",
+        "$$\\frac{2}{3}$$",
+        "$$2$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$\\frac{3}{2}$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "If $$ y = e^{2x} $$, find $$ d^2y/dx^2 $$.",
+      "options": [
+        "$$ 4e^{2x} $$",
+        "$$ 2e^{2x} $$",
+        "$$ e^{2x} $$",
+        "$$ 8e^{2x} $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ 4e^{2x} $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which is a scalar quantity?",
+      "options": [
+        "Mass",
+        "Velocity",
+        "Force",
+        "Displacement"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Mass.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Sum to infinity $$ 1, 1/2, 1/4... $$",
+      "options": [
+        "2",
+        "1.5",
+        "1",
+        "3"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 2.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Scalar product $$ \\mathbf{i} \\cdot \\mathbf{j} $$ is:",
+      "options": [
+        "0",
+        "1",
+        "k",
+        "-1"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 0.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Derivative of $$ x^n $$.",
+      "options": [
+        "$$ nx^{n-1} $$",
+        "$$ x^{n+1} $$",
+        "$$ x^n $$",
+        "$$ n x $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ nx^{n-1} $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Find the center of the circle $$x^2 + y^2 - 6x + 4y - 12 = 0$$.",
+      "options": [
+        "$$(3, -2)$$",
+        "$$(-3, 2)$$",
+        "$$(6, -4)$$",
+        "$$(-6, 4)$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$(3, -2)$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Permutation: In how many ways can 5 people sit in a row?",
+      "options": [
+        "$$120$$",
+        "$$24$$",
+        "$$720$$",
+        "$$60$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$120$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The moment of a force of 10N at a distance of 2m is:",
+      "options": [
+        "$$20 Nm$$",
+        "$$5 Nm$$",
+        "$$12 Nm$$",
+        "$$8 Nm$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$20 Nm$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "If $$f(x) = 3x^2 - 2x + 1$$, find the value of $$\\lim_{h \\to 0} \\frac{f(x+h) - f(x)}{h}$$.",
+      "options": [
+        "$$6x - 2$$",
+        "$$3x - 2$$",
+        "$$6x + 2$$",
+        "$$6x$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$6x - 2$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Determine the value of $$k$$ for which the matrix $$\\begin{pmatrix} 2 & k \\\\ 3 & 6 \\end{pmatrix}$$ is singular.",
+      "options": [
+        "$$4$$",
+        "$$2$$",
+        "$$9$$",
+        "$$3$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$4$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "If $$P(A) = 0.4$$, $$P(B) = 0.5$$ and $$A$$ and $$B$$ are independent, find $$P(A \\cup B)$$.",
+      "options": [
+        "$$0.7$$",
+        "$$0.9$$",
+        "$$0.2$$",
+        "$$0.5$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$0.7$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$\\int_1^2 \\frac{1}{x} \\, dx$$.",
+      "options": [
+        "$$\\ln 2$$",
+        "$$1$$",
+        "$$\\ln 3$$",
+        "$$0.5$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$\\ln 2$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the magnitude of the vector $\\\\mathbf{v} = 6i - 8j$.",
+      "options": [
+        "10",
+        "14",
+        "2",
+        "100"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 10.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the focus of the parabola $y^2 = 12x$.",
+      "options": [
+        "(3, 0)",
+        "(0, 3)",
+        "(6, 0)",
+        "(0, 0)"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: (3, 0).",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the coordinates of the point that divides the line joining $(2, 3)$ and $(7, 8)$ in the ratio 2:3.",
+      "options": [
+        "(4, 5)",
+        "(5, 4)",
+        "(3, 4)",
+        "(4.5, 5.5)"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: (4, 5).",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the center of the circle $$ x^2 + y^2 - 4x + 6y - 12 = 0 $$.",
+      "options": [
+        "(2, -3)",
+        "(-2, 3)",
+        "(4, -6)",
+        "(-4, 6)"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: (2, -3).",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Two forces 3N and 4N act at right angles. The resultant is:",
+      "options": [
+        "7N",
+        "1N",
+        "5N",
+        "12N"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: 5N.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Integrate $$ \\int \\cos 2x dx $$",
+      "options": [
+        "$$ \\frac{1}{2} \\sin 2x + C $$",
+        "$$ 2 \\sin 2x + C $$",
+        "$$ -\\frac{1}{2} \\sin 2x + C $$",
+        "$$ \\sin 2x + C $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ \\frac{1}{2} \\sin 2x + C $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Simple Harmonic Motion is defined by $$ a = ? $$",
+      "options": [
+        "$$ -\\omega^2 x $$",
+        "$$ \\omega^2 x $$",
+        "$$ -\\omega x $$",
+        "$$ \\omega x^2 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ -\\omega^2 x $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Vel if $$ s=t^2 $$ at $$ t=3 $$:",
+      "options": [
+        "6",
+        "9",
+        "3",
+        "1"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 6.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Log3 x = 2:",
+      "options": [
+        "9",
+        "6",
+        "8",
+        "5"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 9.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Poly Factor (x-1):",
+      "options": [
+        "P(1)=0",
+        "P(0)=1",
+        "P(-1)=0",
+        "P(1)=1"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: P(1)=0.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Mod 3i+4j:",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "12"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 5.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "If $$ f(x) = 2x^3 - 3x^2 + 4 $$, find $$ f'(1) $$.",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 0.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "If $$ P(A)=0.4, P(B)=0.5 $$, Independent. Find $$ P(A \\cap B) $$.",
+      "options": [
+        "0.2",
+        "0.9",
+        "0.1",
+        "0.5"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 0.2.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Scalar product $$ \\mathbf{i} \\cdot \\mathbf{i} $$ is:",
+      "options": [
+        "1",
+        "0",
+        "i",
+        "-1"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 1.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Limit $$ \\frac{2x}{x} $$ as $$ x \\to \\infty $$.",
+      "options": [
+        "2",
+        "0",
+        "Infinity",
+        "1"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 2.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Sequences and Series (Advanced) in Sequences and Series (Advanced)?",
+      "options": [
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$.",
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$.",
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$."
+      ],
+      "answer": 2,
+      "solution": "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Sequences and Series (Advanced) in Sequences and Series (Advanced)?",
+      "options": [
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$.",
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$."
+      ],
+      "answer": 3,
+      "solution": "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Sequences and Series (Advanced) in Sequences and Series (Advanced)?",
+      "options": [
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$.",
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$."
+      ],
+      "answer": 1,
+      "solution": "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Sequences and Series (Advanced) in Sequences and Series (Advanced)?",
+      "options": [
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$."
+      ],
+      "answer": 2,
+      "solution": "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Sequences and Series (Advanced)?",
+      "options": [
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$.",
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$."
+      ],
+      "answer": 3,
+      "solution": "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'sum'?",
+      "options": [
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$.",
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$.",
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$."
+      ],
+      "answer": 2,
+      "solution": "The sum to infinity of a geometric series is 12 and the first term is 4. Find the common ratio. \u2014 $$2/3$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'find'?",
+      "options": [
+        "Derivative of $$ k $$ (constant). \u2014 0.",
+        "Determine the nature of the roots of $$x^2 + 4x + 4 = 0$$. \u2014 Real and equal.",
+        "Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$. \u2014 $$\\frac{3}{2}$$.",
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$."
+      ],
+      "answer": 2,
+      "solution": "Find the sum to infinity of the series $$1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots$$. \u2014 $$\\frac{3}{2}$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'scalar'?",
+      "options": [
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$.",
+        "Which is a scalar quantity \u2014 Mass.",
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$."
+      ],
+      "answer": 2,
+      "solution": "Which is a scalar quantity \u2014 Mass.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'derivative'?",
+      "options": [
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$.",
+        "Derivative of $$ x^n $$. \u2014 $$ nx^{n-1} $$.",
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$."
+      ],
+      "answer": 2,
+      "solution": "Derivative of $$ x^n $$. \u2014 $$ nx^{n-1} $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'permutation'?",
+      "options": [
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$.",
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "Permutation: In how many ways can 5 people sit in a row \u2014 $$120$$."
+      ],
+      "answer": 3,
+      "solution": "Permutation: In how many ways can 5 people sit in a row \u2014 $$120$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'moment'?",
+      "options": [
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$.",
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "The moment of a force of 10N at a distance of 2m is: \u2014 $$20 Nm$$."
+      ],
+      "answer": 3,
+      "solution": "The moment of a force of 10N at a distance of 2m is: \u2014 $$20 Nm$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'determine'?",
+      "options": [
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "Determine the value of $$k$$ for which the matrix $$\\begin{pmatrix} 2 & k \\\\ 3 & 6 \\end{pmatrix}$$ is singular. \u2014 $$4$$.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$."
+      ],
+      "answer": 2,
+      "solution": "Determine the value of $$k$$ for which the matrix $$\\begin{pmatrix} 2 & k \\\\ 3 & 6 \\end{pmatrix}$$ is singular. \u2014 $$4$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'independent'?",
+      "options": [
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "If $$P(A) = 0.4$$, $$P(B) = 0.5$$ and $$A$$ and $$B$$ are independent, find $$P(A \\cup B)$$. \u2014 $$0.7$$.",
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$."
+      ],
+      "answer": 1,
+      "solution": "If $$P(A) = 0.4$$, $$P(B) = 0.5$$ and $$A$$ and $$B$$ are independent, find $$P(A \\cup B)$$. \u2014 $$0.7$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'evaluate'?",
+      "options": [
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "Evaluate $$\\int_1^2 \\frac{1}{x} \\, dx$$. \u2014 $$\\ln 2$$.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$."
+      ],
+      "answer": 2,
+      "solution": "Evaluate $$\\int_1^2 \\frac{1}{x} \\, dx$$. \u2014 $$\\ln 2$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'forces'?",
+      "options": [
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$.",
+        "Two forces 3N and 4N act at right angles. The resultant is: \u2014 5N."
+      ],
+      "answer": 3,
+      "solution": "Two forces 3N and 4N act at right angles. The resultant is: \u2014 5N.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'integrate'?",
+      "options": [
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "Integrate $$ \\int \\cos 2x dx $$ \u2014 $$ \\frac{1}{2} \\sin 2x + C $$.",
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$."
+      ],
+      "answer": 1,
+      "solution": "Integrate $$ \\int \\cos 2x dx $$ \u2014 $$ \\frac{1}{2} \\sin 2x + C $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'simple'?",
+      "options": [
+        "Simple Harmonic Motion is defined by $$ a = ? $$ \u2014 $$ -\\omega^2 x $$.",
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$."
+      ],
+      "answer": 0,
+      "solution": "Simple Harmonic Motion is defined by $$ a = ? $$ \u2014 $$ -\\omega^2 x $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'vel'?",
+      "options": [
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "Vel if $$ s=t^2 $$ at $$ t=3 $$: \u2014 6.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$."
+      ],
+      "answer": 2,
+      "solution": "Vel if $$ s=t^2 $$ at $$ t=3 $$: \u2014 6.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'log3'?",
+      "options": [
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "Log3 x = 2: \u2014 9.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$."
+      ],
+      "answer": 2,
+      "solution": "Log3 x = 2: \u2014 9.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'poly'?",
+      "options": [
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$.",
+        "Poly Factor (x-1): \u2014 P(1)=0."
+      ],
+      "answer": 3,
+      "solution": "Poly Factor (x-1): \u2014 P(1)=0.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sequences and Series (Advanced) \u2014 'mod'?",
+      "options": [
+        "Mod 3i+4j: \u2014 5.",
+        "Find the equation of the circle with center $(2, -3)$ and radius 4. \u2014 $x^2 + y^2 - 4x + 6y - 3 = 0$.",
+        "If $f(x) = 3x - 1$, find $f^{-1}(x)$. \u2014 $(x+1)/3$.",
+        "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is: \u2014 $$ \\frac{1}{1+x^2} $$."
+      ],
+      "answer": 0,
+      "solution": "Mod 3i+4j: \u2014 5.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

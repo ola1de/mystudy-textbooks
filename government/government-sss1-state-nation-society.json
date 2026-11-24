@@ -46,11 +46,39 @@
     },
     {
       "title": "Theories of the Origin of the State",
-      "html": "<p>Four theories are examined at this level.</p>\n<ol>\n<li><b>Divine Right Theory:</b> the state was created by God and the ruler is God's deputy, answerable only to God. Popular in\nmedieval Europe (King James I of England, Louis XIV of France). Criticised as unverifiable and a licence for tyranny.</li>\n<li><b>Social Contract Theory:</b> the state arose from an agreement among people to escape the state of nature.\n<i>Thomas Hobbes</i> described life in the state of nature as “solitary, poor, nasty, brutish and short” and surrendered all\nrights to an absolute sovereign; <i>John Locke</i> saw the state of nature as tolerable and surrendered only limited powers,\nretaining life, liberty and property, with a right of revolt; <i>Jean-Jacques Rousseau</i> based the state on the\n<b>general will</b> of the people.</li>\n<li><b>Force Theory:</b> the state grew out of conquest &mdash; the strong subdued the weak. Explains the growth of empires such as\nthe Oyo and Sokoto, but cannot explain voluntary allegiance.</li>\n<li><b>Evolutionary (Natural/Patriarchal) Theory:</b> the state grew gradually from the family to the clan, the village and the\nkingdom. Aristotle's dictum that “man is by nature a political animal” supports this view, which most scholars accept.</li>\n</ol>",
+      "html": "<p>Four theories are examined at this level.</p>\n<ol>\n<li><b>Divine Right Theory:</b> the state was created by God and the ruler is God's deputy, answerable only to God. Popular in\nmedieval Europe (King James I of England, Louis XIV of France). Criticised as unverifiable and a licence for tyranny.</li>\n<li><b>Social Contract Theory:</b> the state arose from an agreement among people to escape the state of nature.\n<i>Thomas Hobbes</i> described life in the state of nature as \u201csolitary, poor, nasty, brutish and short\u201d and surrendered all\nrights to an absolute sovereign; <i>John Locke</i> saw the state of nature as tolerable and surrendered only limited powers,\nretaining life, liberty and property, with a right of revolt; <i>Jean-Jacques Rousseau</i> based the state on the\n<b>general will</b> of the people.</li>\n<li><b>Force Theory:</b> the state grew out of conquest &mdash; the strong subdued the weak. Explains the growth of empires such as\nthe Oyo and Sokoto, but cannot explain voluntary allegiance.</li>\n<li><b>Evolutionary (Natural/Patriarchal) Theory:</b> the state grew gradually from the family to the clan, the village and the\nkingdom. Aristotle's dictum that \u201cman is by nature a political animal\u201d supports this view, which most scholars accept.</li>\n</ol>",
       "examples": [
         {
           "q": "Which social contract theorist justified the right of the people to overthrow a bad government?",
           "a": "John Locke. Because the contract was limited and conditional, a ruler who violates natural rights breaks the trust and may lawfully be resisted."
+        }
+      ]
+    },
+    {
+      "title": "Meaning and features of a state",
+      "html": "<p><b>Meaning and features of a state</b> is a key part of The State, Nation, and Society (SSS 1, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>A state is a politically organised body of people occupying a definite territory, under a government, and free from external control.</li><li>Four elements must be present together; the absence of any one means the entity is not a state.</li><li>Permanence is sometimes added as a fifth feature: the state outlives any particular government or generation.</li><li>Governments change every four years in Nigeria; the Nigerian state persists.</li><li>It is a sociological and psychological concept, whereas the state is a legal and political one.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which element distinguishes a state from a colony?<br/><b>A:</b> Sovereignty \u2014 A colony has the other three but its sovereignty lies elsewhere.</p><p><b>Q:</b> Nigeria is best described as a<br/><b>A:</b> Multi-national state \u2014 Over 250 ethnic nations live within one Nigerian state.</p>",
+      "examples": [
+        {
+          "q": "Which element distinguishes a state from a colony?",
+          "a": "Sovereignty \u2014 A colony has the other three but its sovereignty lies elsewhere."
+        },
+        {
+          "q": "Nigeria is best described as a",
+          "a": "Multi-national state \u2014 Over 250 ethnic nations live within one Nigerian state."
+        }
+      ]
+    },
+    {
+      "title": "Population, territory, government and sovereignty",
+      "html": "<p><b>Population, territory, government and sovereignty</b> is a key part of The State, Nation, and Society (SSS 1, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>A state is a politically organised body of people occupying a definite territory, under a government, and free from external control.</li><li>Element Explanation Note Population A permanent body of people living together.</li><li>Territory A defined geographical area including land, territorial waters and airspace.</li><li>Government The machinery that formulates and enforces the collective will.</li><li>Sovereignty Supreme legal authority internally and independence externally.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which element distinguishes a state from a colony?<br/><b>A:</b> Sovereignty \u2014 A colony has the other three but its sovereignty lies elsewhere.</p><p><b>Q:</b> Territory of a state includes all EXCEPT<br/><b>A:</b> Foreign embassies of other countries on its soil \u2014 Foreign embassies enjoy extra-territorial status.</p>",
+      "examples": [
+        {
+          "q": "Which element distinguishes a state from a colony?",
+          "a": "Sovereignty \u2014 A colony has the other three but its sovereignty lies elsewhere."
+        },
+        {
+          "q": "Territory of a state includes all EXCEPT",
+          "a": "Foreign embassies of other countries on its soil \u2014 Foreign embassies enjoy extra-territorial status."
         }
       ]
     }
@@ -65,7 +93,9 @@
         "Government"
       ],
       "answer": 2,
-      "solution": "A colony has the other three but its sovereignty lies elsewhere."
+      "solution": "A colony has the other three but its sovereignty lies elsewhere.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A nation is best described as",
@@ -76,7 +106,9 @@
         "An organ of government"
       ],
       "answer": 1,
-      "solution": "The nation is a cultural and psychological grouping."
+      "solution": "The nation is a cultural and psychological grouping.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nigeria is best described as a",
@@ -87,7 +119,9 @@
         "Confederation"
       ],
       "answer": 2,
-      "solution": "Over 250 ethnic nations live within one Nigerian state."
+      "solution": "Over 250 ethnic nations live within one Nigerian state.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The state differs from other associations because it alone",
@@ -98,7 +132,9 @@
         "Collects dues"
       ],
       "answer": 2,
-      "solution": "Max Weber's definition emphasises the monopoly of legitimate force."
+      "solution": "Max Weber's definition emphasises the monopoly of legitimate force.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "'Man is by nature a political animal' was said by",
@@ -109,7 +145,9 @@
         "Rousseau"
       ],
       "answer": 1,
-      "solution": "Aristotle in <i>The Politics</i>."
+      "solution": "Aristotle in <i>The Politics</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Hobbes described life in the state of nature as",
@@ -120,7 +158,9 @@
         "Guided by natural law"
       ],
       "answer": 1,
-      "solution": "This is the famous phrase from <i>Leviathan</i> (1651)."
+      "solution": "This is the famous phrase from <i>Leviathan</i> (1651).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The theory that the state was created by God is the",
@@ -131,7 +171,9 @@
         "Evolutionary theory"
       ],
       "answer": 1,
-      "solution": "Divine right theory holds the ruler to be God's deputy."
+      "solution": "Divine right theory holds the ruler to be God's deputy.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The concept of the general will is associated with",
@@ -142,7 +184,9 @@
         "Bodin"
       ],
       "answer": 2,
-      "solution": "Rousseau developed the general will in <i>The Social Contract</i>."
+      "solution": "Rousseau developed the general will in <i>The Social Contract</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these is NOT an element of a state?",
@@ -153,7 +197,9 @@
         "Population"
       ],
       "answer": 2,
-      "solution": "Parties are voluntary associations, not elements of statehood."
+      "solution": "Parties are voluntary associations, not elements of statehood.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Society differs from the state because society is",
@@ -164,7 +210,9 @@
         "Territorially defined"
       ],
       "answer": 1,
-      "solution": "Society precedes and contains the state."
+      "solution": "Society precedes and contains the state.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A nation without a state of its own is exemplified by the",
@@ -175,7 +223,9 @@
         "Ghanaians"
       ],
       "answer": 1,
-      "solution": "The Kurds are a nation spread across several states."
+      "solution": "The Kurds are a nation spread across several states.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The most widely accepted theory of the origin of the state is the",
@@ -186,7 +236,9 @@
         "Matriarchal theory"
       ],
       "answer": 2,
-      "solution": "Gradual evolution from family to state is the most defensible account."
+      "solution": "Gradual evolution from family to state is the most defensible account.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which theorist favoured an absolute sovereign?",
@@ -197,7 +249,9 @@
         "Montesquieu"
       ],
       "answer": 2,
-      "solution": "Hobbes surrendered all rights to an absolute sovereign."
+      "solution": "Hobbes surrendered all rights to an absolute sovereign.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Territory of a state includes all EXCEPT",
@@ -208,7 +262,9 @@
         "Foreign embassies of other countries on its soil"
       ],
       "answer": 3,
-      "solution": "Foreign embassies enjoy extra-territorial status."
+      "solution": "Foreign embassies enjoy extra-territorial status.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The permanence of the state means that",
@@ -219,7 +275,9 @@
         "Citizens never change"
       ],
       "answer": 1,
-      "solution": "The state persists while governments come and go."
+      "solution": "The state persists while governments come and go.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Membership of a state is",
@@ -230,7 +288,451 @@
         "By election"
       ],
       "answer": 1,
-      "solution": "One is born into or naturalised into a state; it is not optional."
+      "solution": "One is born into or naturalised into a state; it is not optional.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A state is distinguished from a nation by:",
+      "options": [
+        "Culture",
+        "Sovereignty",
+        "Language",
+        "Population"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: Sovereignty.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is an essential element of a state?",
+      "options": [
+        "Common language",
+        "Defined territory",
+        "A large army",
+        "A single religion"
+      ],
+      "answer": 1,
+      "solution": "A state must have four essential elements: population, defined territory, government, and sovereignty.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Who was the first military Head of State in Nigeria?",
+      "options": [
+        "Yakubu Gowon",
+        "Aguiyi Ironsi",
+        "Murtala Muhammed",
+        "Olusegun Obasanjo"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Aguiyi Ironsi.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The first military head of state in Nigeria was?",
+      "options": [
+        "Murtala Muhammed",
+        "Johnson Aguiyi Ironsi",
+        "Olusegun Obasanjo",
+        "Muhammadu Buhari"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Johnson Aguiyi Ironsi.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "How many Senators represent each state in the Nigerian National Assembly?",
+      "options": [
+        "2",
+        "5",
+        "10",
+        "3"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 3.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The first woman to serve as an acting governor in Nigeria (Anambra State) was?",
+      "options": [
+        "Virginia Etiaba",
+        "Ngozi Okonjo-Iweala",
+        "Dora Akunyili",
+        "Funmilayo Ransome-Kuti"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Virginia Etiaba.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which of the following defines a 'State'?",
+      "options": [
+        "A group of people with common language",
+        "A defined territory with a government and sovereignty",
+        "A geographical area with many resources",
+        "A collection of political parties"
+      ],
+      "answer": 1,
+      "solution": "A state must have four essential elements: population, territory, government, and sovereignty.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following defines a 'Nation'?",
+      "options": [
+        "A geographical area",
+        "A group of people with a shared culture and history",
+        "A sovereign government",
+        "A collection of political parties"
+      ],
+      "answer": 1,
+      "solution": "A nation is a cultural and psychological entity; a group of people who feel they belong together based on shared history, language, or values.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Who is the head of the Executive at the State level?",
+      "options": [
+        "President",
+        "Chairman",
+        "Governor",
+        "Senator"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2021). Correct answer: Governor.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a feature of a state?",
+      "options": [
+        "Sovereignty",
+        "Language",
+        "Religion",
+        "Wealth"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Sovereignty.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "A sovereign state must have:",
+      "options": [
+        "A defined territory",
+        "Nuclear weapons",
+        "A king",
+        "Rich resources"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: A defined territory.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Which of these is not a feature of a state?",
+      "options": [
+        "Population",
+        "Territory",
+        "Sovereignty",
+        "Wealth"
+      ],
+      "answer": 3,
+      "solution": "Past question (JAMB 2022). Correct answer: Wealth.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Who was the first Military Head of State?",
+      "options": [
+        "Yakubu Gowon",
+        "Aguiyi Ironsi",
+        "Murtala Muhammed",
+        "Olusegun Obasanjo"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Aguiyi Ironsi.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "A state of emergency is declared by the:",
+      "options": [
+        "President",
+        "Governor",
+        "Chief Justice",
+        "Senate President"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: President.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "A sovereign state has:",
+      "options": [
+        "A defined territory",
+        "A king",
+        "Nuclear weapons",
+        "A large army"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: A defined territory.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "A state is defined by the presence of...",
+      "options": [
+        "Military, Police, and Judiciary",
+        "Population, Territory, Government, and Sovereignty",
+        "Flags, Anthem, and Constitution",
+        "Political parties and pressure groups"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Population, Territory, Government, and Sovereignty.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A one-party state is a feature of:",
+      "options": [
+        "Democracy",
+        "Totalitarianism",
+        "Capitalism",
+        "Federalism"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Totalitarianism.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "A state is defined by:",
+      "options": [
+        "Population, Territory, Government, Sovereignty",
+        "Money, Army, Police, Courts",
+        "Schools, Roads, Hospitals, Banks",
+        "Culture, Language, Dress, Food"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Population, Territory, Government, Sovereignty.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The legislative arm at the state level is the:",
+      "options": [
+        "National Assembly",
+        "State House of Assembly",
+        "Council",
+        "Senate"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: State House of Assembly.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which theory suggests the state originated from force?",
+      "options": [
+        "Force Theory",
+        "Divine Right Theory",
+        "Social Contract Theory",
+        "Evolutionary Theory"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Force Theory.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "A sovereign state must possess:",
+      "options": [
+        "A defined territory",
+        "Nuclear weapons",
+        "A king",
+        "Rich resources"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: A defined territory.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "A key feature of a socialist state is?",
+      "options": [
+        "Private ownership of all land",
+        "State ownership of means of production",
+        "Zero taxation",
+        "Free market competition"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: State ownership of means of production.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "In pre-colonial Igbo society, the \u2018Eze\u2019 was often a?",
+      "options": [
+        "Military dictator",
+        "Symbolic or spiritual leader",
+        "British administrative agent",
+        "Hausa tax collector"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Symbolic or spiritual leader.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Bicameralism in a federal state is primarily used to?",
+      "options": [
+        "Increase the speed of lawmaking",
+        "Ensure equal representation of component units/states",
+        "Spend more government money",
+        "Support the ruling party"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Ensure equal representation of component units/states.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A \u2018Secular State\u2019 is one that?",
+      "options": [
+        "Has only one official religion",
+        "Has no official state religion",
+        "Bans all forms of worship",
+        "Is ruled by many kings"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Has no official state religion.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which constitution formally abolished the monarchy and the Queen as Head of State?",
+      "options": [
+        "1960",
+        "1963",
+        "1979",
+        "1999"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 1963.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The FCT (Abuja) was created in 1976. Which state provided the largest portion of its land?",
+      "options": [
+        "Kaduna",
+        "Kwara",
+        "Plateau",
+        "Niger"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Niger.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The primary duty of the Attorney-General (at State or Federal level) is to?",
+      "options": [
+        "Make laws for the people",
+        "Serve as the chief legal adviser to the government",
+        "Pass judgment on criminals",
+        "Arrest and detain suspects"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Serve as the chief legal adviser to the government.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "An Ambassador represents a country in a foreign state, while a High Commissioner represents a country in a?",
+      "options": [
+        "Dictatorship",
+        "UN member state",
+        "Colony",
+        "Commonwealth country"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Commonwealth country.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Upper House\u2019 in Nigeria\u2019s National Assembly is the?",
+      "options": [
+        "House of Representatives",
+        "State House of Assembly",
+        "Local Government Council",
+        "Senate"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Senate.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Lower House\u2019 in Nigeria\u2019s National Assembly is the?",
+      "options": [
+        "Senate",
+        "Cabinet",
+        "House of Representatives",
+        "Judiciary"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: House of Representatives.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The Commonwealth is an association of:",
+      "options": [
+        "African states",
+        "European states",
+        "Former British colonies",
+        "Oil producers"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: Former British colonies.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The Commonwealth of Nations is an association of...",
+      "options": [
+        "All African countries",
+        "Former British colonies and territories",
+        "Only European countries",
+        "Oil-producing nations"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Former British colonies and territories.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The legislative body in the Second Republic of Nigeria was the:",
+      "options": [
+        "Supreme Military Council",
+        "National Assembly",
+        "Armed Forces Ruling Council",
+        "Legislative Council"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: National Assembly.",
+      "source": "JAMB 2025",
+      "practice": false
     }
   ]
 }

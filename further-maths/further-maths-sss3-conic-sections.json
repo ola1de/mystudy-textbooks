@@ -1,0 +1,737 @@
+{
+  "subject": "Further Mathematics",
+  "level": "SSS 3",
+  "slug": "conic-sections",
+  "title": "Conic Sections",
+  "outline": [
+    "Introduction to Conic Sections",
+    "Key facts about Conic Sections",
+    "Important terms and examples in Conic Sections",
+    "Importance and application of Conic Sections",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Conic Sections",
+      "html": "<p>The circle, parabola, ellipse and hyperbola. This section covers introduction to conic sections.</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of conic sections.</li><li>Be able to explain conic sections in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$.<br/><b>A:</b> 3 \u2014 Past question (JAMB 2021). Correct answer: 3.</p><p><b>Q:</b> Find the center of the circle $$ x^2 + y^2 - 4x + 6y = 0 $$.<br/><b>A:</b> (2, -3) \u2014 Past question (JAMB 2021). Correct answer: (2, -3).</p>",
+      "examples": [
+        {
+          "q": "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$.",
+          "a": "3"
+        },
+        {
+          "q": "Find the center of the circle $$ x^2 + y^2 - 4x + 6y = 0 $$.",
+          "a": "(2, -3)"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Conic Sections",
+      "html": "<p>The circle, parabola, ellipse and hyperbola. This section covers key facts about conic sections.</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of conic sections.</li><li>Be able to explain conic sections in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$.<br/><b>A:</b> 3 \u2014 Past question (JAMB 2021). Correct answer: 3.</p><p><b>Q:</b> Find the center of the circle $$ x^2 + y^2 - 4x + 6y = 0 $$.<br/><b>A:</b> (2, -3) \u2014 Past question (JAMB 2021). Correct answer: (2, -3).</p>",
+      "examples": [
+        {
+          "q": "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$.",
+          "a": "3"
+        },
+        {
+          "q": "Find the center of the circle $$ x^2 + y^2 - 4x + 6y = 0 $$.",
+          "a": "(2, -3)"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Conic Sections",
+      "html": "<p>The circle, parabola, ellipse and hyperbola. This section covers important terms and examples in conic sections.</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of conic sections.</li><li>Be able to explain conic sections in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$.<br/><b>A:</b> 3 \u2014 Past question (JAMB 2021). Correct answer: 3.</p><p><b>Q:</b> Find the center of the circle $$ x^2 + y^2 - 4x + 6y = 0 $$.<br/><b>A:</b> (2, -3) \u2014 Past question (JAMB 2021). Correct answer: (2, -3).</p>",
+      "examples": [
+        {
+          "q": "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$.",
+          "a": "3"
+        },
+        {
+          "q": "Find the center of the circle $$ x^2 + y^2 - 4x + 6y = 0 $$.",
+          "a": "(2, -3)"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Conic Sections",
+      "html": "<p>The circle, parabola, ellipse and hyperbola. This section covers importance and application of conic sections.</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of conic sections.</li><li>Be able to explain conic sections in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$.<br/><b>A:</b> 3 \u2014 Past question (JAMB 2021). Correct answer: 3.</p><p><b>Q:</b> Find the center of the circle $$ x^2 + y^2 - 4x + 6y = 0 $$.<br/><b>A:</b> (2, -3) \u2014 Past question (JAMB 2021). Correct answer: (2, -3).</p>",
+      "examples": [
+        {
+          "q": "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$.",
+          "a": "3"
+        },
+        {
+          "q": "Find the center of the circle $$ x^2 + y^2 - 4x + 6y = 0 $$.",
+          "a": "(2, -3)"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>The circle, parabola, ellipse and hyperbola. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of conic sections.</li><li>Be able to explain conic sections in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$.<br/><b>A:</b> 3 \u2014 Past question (JAMB 2021). Correct answer: 3.</p><p><b>Q:</b> Find the center of the circle $$ x^2 + y^2 - 4x + 6y = 0 $$.<br/><b>A:</b> (2, -3) \u2014 Past question (JAMB 2021). Correct answer: (2, -3).</p>",
+      "examples": [
+        {
+          "q": "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$.",
+          "a": "3"
+        },
+        {
+          "q": "Find the center of the circle $$ x^2 + y^2 - 4x + 6y = 0 $$.",
+          "a": "(2, -3)"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$.",
+      "options": [
+        "3",
+        "1",
+        "0",
+        "1/3"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 3.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Find the center of the circle $$ x^2 + y^2 - 4x + 6y = 0 $$.",
+      "options": [
+        "(2, -3)",
+        "(-2, 3)",
+        "(4, -6)",
+        "(-4, 6)"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: (2, -3).",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Sum of roots of $$ 2x^2 - 5x + 1 = 0 $$ is:",
+      "options": [
+        "2.5",
+        "5",
+        "-2.5",
+        "0.5"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 2.5.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Remainder when $$ x^2 - 3x + 2 $$ divided by $$ x-1 $$.",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 0.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "If $$ \\tan \\theta = 1 $$, $$ \\theta $$ is:",
+      "options": [
+        "$$ 45^\\circ $$",
+        "$$ 30^\\circ $$",
+        "$$ 60^\\circ $$",
+        "$$ 90^\\circ $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ 45^\\circ $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Derivative of $$ \\cos x $$.",
+      "options": [
+        "$$ -\\sin x $$",
+        "$$ \\sin x $$",
+        "$$ \\cos x $$",
+        "$$ -\\cos x $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ -\\sin x $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Find the limit: $$\\lim_{x \\to 2} \\frac{x^2 - 4}{x - 2}$$.",
+      "options": [
+        "$$0$$",
+        "$$2$$",
+        "$$4$$",
+        "$$\\infty$$"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: $$4$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Solve for $$x$$: $$\\log_2(x) + \\log_2(x-2) = 3$$.",
+      "options": [
+        "$$4$$",
+        "$$2$$",
+        "$$-2$$",
+        "$$6$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$4$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Equation of the parabola with focus $$(2, 0)$$ and directrix $$x = -2$$ is:",
+      "options": [
+        "$$y^2 = 4x$$",
+        "$$y^2 = 8x$$",
+        "$$x^2 = 8y$$",
+        "$$y^2 = -8x$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$y^2 = 8x$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Given $$f(x) = 2x + 1$$, find $$f^{-1}(x)$$.",
+      "options": [
+        "$$(x-1)/2$$",
+        "$$(x+1)/2$$",
+        "$$2x-1$$",
+        "$$1/(2x+1)$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$(x-1)/2$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the coefficient of $$x^3$$ in the expansion of $$(2 + x)^6$$.",
+      "options": [
+        "$$160$$",
+        "$$20$$",
+        "$$120$$",
+        "$$64$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$160$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "A committee of 3 men and 2 women is to be formed from 6 men and 5 women. In how many ways can this be done?",
+      "options": [
+        "$$200$$",
+        "$$150$$",
+        "$$300$$",
+        "$$120$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$200$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a scalar quantity?",
+      "options": [
+        "Work",
+        "Velocity",
+        "Force",
+        "Displacement"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Work.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Solve for $x$: $$ \\\\log_{2} (x^2 - x + 2) = 3 $$",
+      "options": [
+        "$x=3, -2$",
+        "$x=-3, 2$",
+        "$x=2, -1$",
+        "$x=-2, 1$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $x=3, -2$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A force $F = (6i + 8j)N$ acts on a body to move it from the origin to point $(2, 3)m$. Find the work done.",
+      "options": [
+        "36J",
+        "12J",
+        "24J",
+        "14J"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 36J.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Evaluate: $$ \\\\int \\\\frac{1}{x} \\\\, dx $$",
+      "options": [
+        "$\\\\ln x + C$",
+        "$-1/x^2 + C$",
+        "$1 + C$",
+        "$x^2/2 + C$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $\\\\ln x + C$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the derivative of $$ y = x^3 - 2x^2 + 5 $$",
+      "options": [
+        "$$ 3x^2 - 4x $$",
+        "$$ 3x^2 - 2x $$",
+        "$$ x^2 - 4x $$",
+        "$$ 3x^2 + 4x $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ 3x^2 - 4x $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The cross product of $$ \\mathbf{i} $$ and $$ \\mathbf{j} $$ is:",
+      "options": [
+        "0",
+        "1",
+        "$$ \\mathbf{k} $$",
+        "$$ -\\mathbf{k} $$"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ \\mathbf{k} $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "If $$ y = \\tan^{-1} x $$, then $$ \\frac{dy}{dx} $$ is:",
+      "options": [
+        "$$ \\frac{1}{1+x^2} $$",
+        "$$ \\frac{1}{1-x^2} $$",
+        "$$ \\frac{1}{\\sqrt{1-x^2}} $$",
+        "$$ \\sec^2 x $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ \\frac{1}{1+x^2} $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Find the gradient of $$ x^2 + y^2 = 25 $$ at (3, 4).",
+      "options": [
+        "$$ -\\frac{3}{4} $$",
+        "$$ \\frac{3}{4} $$",
+        "$$ -\\frac{4}{3} $$",
+        "$$ \\frac{4}{3} $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ -\\frac{3}{4} $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Int $$ 2x dx $$:",
+      "options": [
+        "$$ x^2+c $$",
+        "$$ 2x^2 $$",
+        "$$ x $$",
+        "$$ 2 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: $$ x^2+c $$.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Int $$ \\cos x $$:",
+      "options": [
+        "$$ \\sin x $$",
+        "$$ -\\sin x $$",
+        "$$ \\cos x $$",
+        "$$ -\\cos x $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: $$ \\sin x $$.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Dist (0,0) to 3x+4y=5:",
+      "options": [
+        "1",
+        "2",
+        "5",
+        "0"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 1.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Diff Const:",
+      "options": [
+        "0",
+        "1",
+        "x",
+        "inf"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 0.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Work:",
+      "options": [
+        "Fd",
+        "F/d",
+        "ma",
+        "mv"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Fd.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Particle moves $$ s = t^3 - 3t $$. Find velocity at $$ t=2 $$.",
+      "options": [
+        "9",
+        "0",
+        "3",
+        "27"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 9.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Value of $$ {}^6C_2 $$.",
+      "options": [
+        "15",
+        "30",
+        "12",
+        "6"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 15.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Order of $$ \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix} $$.",
+      "options": [
+        "$$ 2 \\times 2 $$",
+        "$$ 2 \\times 1 $$",
+        "$$ 1 \\times 2 $$",
+        "$$ 4 \\times 1 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ 2 \\times 2 $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Inverse of matrix exists if:",
+      "options": [
+        "Determinant is not 0",
+        "Determinant is 0",
+        "Square",
+        "Identity"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Determinant is not 0.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Conic Sections in Conic Sections?",
+      "options": [
+        "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$. \u2014 3.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$.",
+        "Int Reverse: \u2014 Diff."
+      ],
+      "answer": 0,
+      "solution": "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$. \u2014 3.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Conic Sections in Conic Sections?",
+      "options": [
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$.",
+        "Int Reverse: \u2014 Diff.",
+        "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$. \u2014 3.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$."
+      ],
+      "answer": 2,
+      "solution": "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$. \u2014 3.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Conic Sections in Conic Sections?",
+      "options": [
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$. \u2014 3.",
+        "Int Reverse: \u2014 Diff.",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$."
+      ],
+      "answer": 1,
+      "solution": "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$. \u2014 3.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Conic Sections in Conic Sections?",
+      "options": [
+        "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$. \u2014 3.",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$.",
+        "Int Reverse: \u2014 Diff.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$."
+      ],
+      "answer": 0,
+      "solution": "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$. \u2014 3.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Conic Sections?",
+      "options": [
+        "Int Reverse: \u2014 Diff.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$. \u2014 3.",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$."
+      ],
+      "answer": 2,
+      "solution": "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$. \u2014 3.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'evaluate'?",
+      "options": [
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$.",
+        "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$. \u2014 3.",
+        "Int Reverse: \u2014 Diff."
+      ],
+      "answer": 2,
+      "solution": "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 3x}{x} $$. \u2014 3.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'find'?",
+      "options": [
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Int Reverse: \u2014 Diff.",
+        "Find the center of the circle $$ x^2 + y^2 - 4x + 6y = 0 $$. \u2014 (2, -3).",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$."
+      ],
+      "answer": 2,
+      "solution": "Find the center of the circle $$ x^2 + y^2 - 4x + 6y = 0 $$. \u2014 (2, -3).",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'sum'?",
+      "options": [
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$.",
+        "Int Reverse: \u2014 Diff.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Sum of roots of $$ 2x^2 - 5x + 1 = 0 $$ is: \u2014 2.5."
+      ],
+      "answer": 3,
+      "solution": "Sum of roots of $$ 2x^2 - 5x + 1 = 0 $$ is: \u2014 2.5.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'remainder'?",
+      "options": [
+        "Int Reverse: \u2014 Diff.",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$.",
+        "Remainder when $$ x^2 - 3x + 2 $$ divided by $$ x-1 $$. \u2014 0.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$."
+      ],
+      "answer": 2,
+      "solution": "Remainder when $$ x^2 - 3x + 2 $$ divided by $$ x-1 $$. \u2014 0.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'tan'?",
+      "options": [
+        "If $$ \\tan \\theta = 1 $$, $$ \\theta $$ is: \u2014 $$ 45^\\circ $$.",
+        "Int Reverse: \u2014 Diff.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$."
+      ],
+      "answer": 0,
+      "solution": "If $$ \\tan \\theta = 1 $$, $$ \\theta $$ is: \u2014 $$ 45^\\circ $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'derivative'?",
+      "options": [
+        "Derivative of $$ \\cos x $$. \u2014 $$ -\\sin x $$.",
+        "Int Reverse: \u2014 Diff.",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$."
+      ],
+      "answer": 0,
+      "solution": "Derivative of $$ \\cos x $$. \u2014 $$ -\\sin x $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'solve'?",
+      "options": [
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Int Reverse: \u2014 Diff.",
+        "Solve for $$x$$: $$\\log_2(x) + \\log_2(x-2) = 3$$. \u2014 $$4$$.",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$."
+      ],
+      "answer": 2,
+      "solution": "Solve for $$x$$: $$\\log_2(x) + \\log_2(x-2) = 3$$. \u2014 $$4$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'equation'?",
+      "options": [
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$.",
+        "Int Reverse: \u2014 Diff.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Equation of the parabola with focus $$(2, 0)$$ and directrix $$x = -2$$ is: \u2014 $$y^2 = 8x$$."
+      ],
+      "answer": 3,
+      "solution": "Equation of the parabola with focus $$(2, 0)$$ and directrix $$x = -2$$ is: \u2014 $$y^2 = 8x$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'given'?",
+      "options": [
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$.",
+        "Given $$f(x) = 2x + 1$$, find $$f^{-1}(x)$$. \u2014 $$(x-1)/2$$.",
+        "Int Reverse: \u2014 Diff."
+      ],
+      "answer": 2,
+      "solution": "Given $$f(x) = 2x + 1$$, find $$f^{-1}(x)$$. \u2014 $$(x-1)/2$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'committee'?",
+      "options": [
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$.",
+        "A committee of 3 men and 2 women is to be formed from 6 men and 5 women. In how many ways can this be done \u2014 $$200$$.",
+        "Int Reverse: \u2014 Diff."
+      ],
+      "answer": 2,
+      "solution": "A committee of 3 men and 2 women is to be formed from 6 men and 5 women. In how many ways can this be done \u2014 $$200$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'following'?",
+      "options": [
+        "Int Reverse: \u2014 Diff.",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$.",
+        "Which of the following is a scalar quantity \u2014 Work.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$."
+      ],
+      "answer": 2,
+      "solution": "Which of the following is a scalar quantity \u2014 Work.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'force'?",
+      "options": [
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$.",
+        "A force $F = (6i + 8j)N$ acts on a body to move it from the origin to point $(2, 3)m$. Find the work done. \u2014 36J.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Int Reverse: \u2014 Diff."
+      ],
+      "answer": 1,
+      "solution": "A force $F = (6i + 8j)N$ acts on a body to move it from the origin to point $(2, 3)m$. Find the work done. \u2014 36J.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'cross'?",
+      "options": [
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Int Reverse: \u2014 Diff.",
+        "The cross product of $$ \\mathbf{i} $$ and $$ \\mathbf{j} $$ is: \u2014 $$ \\mathbf{k} $$.",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$."
+      ],
+      "answer": 2,
+      "solution": "The cross product of $$ \\mathbf{i} $$ and $$ \\mathbf{j} $$ is: \u2014 $$ \\mathbf{k} $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'int'?",
+      "options": [
+        "Matrix multiplication $$ AB $$ is possible if: \u2014 Cols A = Rows B.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Unit Vector $$ 3i-4j $$: \u2014 $$ (3i-4j)/5 $$.",
+        "Int $$ 2x dx $$: \u2014 $$ x^2+c $$."
+      ],
+      "answer": 3,
+      "solution": "Int $$ 2x dx $$: \u2014 $$ x^2+c $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'dist'?",
+      "options": [
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Dist (0,0) to 3x+4y=5: \u2014 1.",
+        "Int Reverse: \u2014 Diff.",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$."
+      ],
+      "answer": 1,
+      "solution": "Dist (0,0) to 3x+4y=5: \u2014 1.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Conic Sections \u2014 'diff'?",
+      "options": [
+        "Unit Vector $$ 3i-4j $$: \u2014 $$ (3i-4j)/5 $$.",
+        "Differentiate $$ y = 4x^3 - 2x^2 + 5 $$. \u2014 $$ 12x^2 - 4x $$.",
+        "Diff Const: \u2014 0.",
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$."
+      ],
+      "answer": 2,
+      "solution": "Diff Const: \u2014 0.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

@@ -13,7 +13,7 @@
   "modules": [
     {
       "title": "Direct and indirect (reported) speech",
-      "html": "<p><b>Direct speech</b> gives the exact words of a speaker inside quotation marks: <i>She said, \"I am tired.\"</i></p>\n  <p><b>Indirect (reported) speech</b> gives the meaning without quotation marks and usually shifts the tense one step back.</p>\n  <h4>Tense shifts</h4>\n  <table style=\"width:100%;border-collapse:collapse\"><tr><th style=\"text-align:left;padding:4px 8px\">Direct</th><th style=\"padding:4px 8px\">Indirect</th></tr>\n  <tr><td>simple present</td><td>simple past</td></tr>\n  <tr><td>present continuous</td><td>past continuous</td></tr>\n  <tr><td>present perfect / simple past</td><td>past perfect</td></tr>\n  <tr><td>will</td><td>would</td></tr>\n  <tr><td>can</td><td>could</td></tr>\n  <tr><td>may</td><td>might</td></tr>\n  <tr><td>must</td><td>had to</td></tr></table>\n  <h4>Other changes</h4>\n  <ul>\n    <li>Time and place words shift: <i>today→that day, tomorrow→the next day, yesterday→the day before, now→then, here→there, this→that.</i></li>\n    <li>Pronouns adjust to the reporter's perspective.</li>\n    <li>Questions become statements: use <i>if / whether</i> for yes/no questions; keep WH-words for WH-questions; drop <i>do / does / did</i>.</li>\n    <li>Commands use <i>told + object + to-infinitive</i>: <i>He said, \"Sit down.\" → He told them to sit down.</i></li>\n  </ul>",
+      "html": "<p><b>Direct speech</b> gives the exact words of a speaker inside quotation marks: <i>She said, \"I am tired.\"</i></p>\n  <p><b>Indirect (reported) speech</b> gives the meaning without quotation marks and usually shifts the tense one step back.</p>\n  <h4>Tense shifts</h4>\n  <table style=\"width:100%;border-collapse:collapse\"><tr><th style=\"text-align:left;padding:4px 8px\">Direct</th><th style=\"padding:4px 8px\">Indirect</th></tr>\n  <tr><td>simple present</td><td>simple past</td></tr>\n  <tr><td>present continuous</td><td>past continuous</td></tr>\n  <tr><td>present perfect / simple past</td><td>past perfect</td></tr>\n  <tr><td>will</td><td>would</td></tr>\n  <tr><td>can</td><td>could</td></tr>\n  <tr><td>may</td><td>might</td></tr>\n  <tr><td>must</td><td>had to</td></tr></table>\n  <h4>Other changes</h4>\n  <ul>\n    <li>Time and place words shift: <i>today\u2192that day, tomorrow\u2192the next day, yesterday\u2192the day before, now\u2192then, here\u2192there, this\u2192that.</i></li>\n    <li>Pronouns adjust to the reporter's perspective.</li>\n    <li>Questions become statements: use <i>if / whether</i> for yes/no questions; keep WH-words for WH-questions; drop <i>do / does / did</i>.</li>\n    <li>Commands use <i>told + object + to-infinitive</i>: <i>He said, \"Sit down.\" \u2192 He told them to sit down.</i></li>\n  </ul>",
       "examples": [
         {
           "q": "Report: <i>She said, \"I will help you tomorrow.\"</i>",
@@ -23,21 +23,49 @@
     },
     {
       "title": "Complex concord and grammatical exceptions",
-      "html": "<p>Some concord (agreement) situations trip up even careful writers.</p>\n  <ol>\n    <li><i>Neither of / either of / each of / one of + plural noun</i> → singular verb: <i>Neither of the boys <b>is</b> here.</i></li>\n    <li><i>None of + plural noun</i> — plural verb: <i>None of the students <b>have</b> arrived.</i></li>\n    <li><i>The rich / the poor / the sick</i> — plural: <i>The rich <b>are</b> not always happy.</i></li>\n    <li><i>A pair of, a series of, a variety of, a bunch of</i> — singular: <i>A series of tests <b>has</b> been scheduled.</i></li>\n    <li><i>More than one</i> — singular: <i>More than one student <b>was</b> late.</i></li>\n    <li>Countries and titles ending in -s (<i>the United States, the Philippines, Wuthering Heights</i>) — singular.</li>\n    <li>Percentages / fractions agree with the noun after <i>of</i>: <i>Two-thirds of the cake <b>is</b> gone; two-thirds of the students <b>are</b> ready.</i></li>\n  </ol>",
+      "html": "<p>Some concord (agreement) situations trip up even careful writers.</p>\n  <ol>\n    <li><i>Neither of / either of / each of / one of + plural noun</i> \u2192 singular verb: <i>Neither of the boys <b>is</b> here.</i></li>\n    <li><i>None of + plural noun</i> \u2014 plural verb: <i>None of the students <b>have</b> arrived.</i></li>\n    <li><i>The rich / the poor / the sick</i> \u2014 plural: <i>The rich <b>are</b> not always happy.</i></li>\n    <li><i>A pair of, a series of, a variety of, a bunch of</i> \u2014 singular: <i>A series of tests <b>has</b> been scheduled.</i></li>\n    <li><i>More than one</i> \u2014 singular: <i>More than one student <b>was</b> late.</i></li>\n    <li>Countries and titles ending in -s (<i>the United States, the Philippines, Wuthering Heights</i>) \u2014 singular.</li>\n    <li>Percentages / fractions agree with the noun after <i>of</i>: <i>Two-thirds of the cake <b>is</b> gone; two-thirds of the students <b>are</b> ready.</i></li>\n  </ol>",
       "examples": [
         {
           "q": "Correct: <i>None of the water (is/are) contaminated.</i>",
-          "a": "<b>is</b> — <i>water</i> is uncountable/singular."
+          "a": "<b>is</b> \u2014 <i>water</i> is uncountable/singular."
         }
       ]
     },
     {
       "title": "Question tags, relatives and syntactic analysis",
-      "html": "<p><b>Question tags</b> confirm or seek agreement.</p>\n  <ul>\n    <li>Positive statement → negative tag: <i>She sings well, doesn't she?</i></li>\n    <li>Negative statement → positive tag: <i>He has not left, has he?</i></li>\n    <li>Special: <i>I am, aren't I?; Let's go, shall we?; Open the door, will you?; Everyone is here, aren't they?; Nobody came, did they?</i></li>\n  </ul>\n  <p><b>Relative pronouns</b>: <i>who</i> (people), <i>which</i> (things), <i>whose</i> (possession), <i>that</i> (defining), <i>whom</i> (object). Non-defining clauses take commas: <i>My father, who lives in Kano, is a lawyer.</i></p>\n  <h4>Syntactic analysis</h4>\n  <p>Break a sentence into <b>subject + predicate</b>, then the predicate into <b>verb + object / complement + adjuncts</b>. Identify each clause: main (independent) or subordinate.</p>\n  <p><i>Although it was raining (subordinate: adverbial), the boys, who had planned the game (relative), continued to play in the field (main).</i></p>",
+      "html": "<p><b>Question tags</b> confirm or seek agreement.</p>\n  <ul>\n    <li>Positive statement \u2192 negative tag: <i>She sings well, doesn't she?</i></li>\n    <li>Negative statement \u2192 positive tag: <i>He has not left, has he?</i></li>\n    <li>Special: <i>I am, aren't I?; Let's go, shall we?; Open the door, will you?; Everyone is here, aren't they?; Nobody came, did they?</i></li>\n  </ul>\n  <p><b>Relative pronouns</b>: <i>who</i> (people), <i>which</i> (things), <i>whose</i> (possession), <i>that</i> (defining), <i>whom</i> (object). Non-defining clauses take commas: <i>My father, who lives in Kano, is a lawyer.</i></p>\n  <h4>Syntactic analysis</h4>\n  <p>Break a sentence into <b>subject + predicate</b>, then the predicate into <b>verb + object / complement + adjuncts</b>. Identify each clause: main (independent) or subordinate.</p>\n  <p><i>Although it was raining (subordinate: adverbial), the boys, who had planned the game (relative), continued to play in the field (main).</i></p>",
       "examples": [
         {
           "q": "Add a tag: <i>She has finished the assignment, __?</i>",
           "a": "<i>hasn't she?</i>"
+        }
+      ]
+    },
+    {
+      "title": "Relative pronouns and clauses",
+      "html": "<p><b>Relative pronouns and clauses</b> is a key part of Grammar and Structure (SSS 3, English). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Pronouns adjust to the reporter's perspective.</li><li>Relative pronouns : who (people), which (things), whose (possession), that (defining), whom (object).</li><li>Non-defining clauses take commas: My father, who lives in Kano, is a lawyer.</li><li>Although it was raining (subordinate: adverbial), the boys, who had planned the game (relative), continued to play in the field (main).</li><li>Commas mark non-defining clauses.</li></ul><h4>Worked example</h4><p><b>Q:</b> Relative pronoun for people (subject):<br/><b>A:</b> who \u2014 'Who' \u2014 subject for people.</p><p><b>Q:</b> Relative pronoun for possession:<br/><b>A:</b> whose \u2014 'Whose' shows possession.</p>",
+      "examples": [
+        {
+          "q": "Relative pronoun for people (subject):",
+          "a": "who \u2014 'Who' \u2014 subject for people."
+        },
+        {
+          "q": "Relative pronoun for possession:",
+          "a": "whose \u2014 'Whose' shows possession."
+        }
+      ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> Report: <i>She said, \"I am tired.\"</i><br/><b>A:</b> She said she was tired. \u2014 Present \u2192 past.</p><p><b>Q:</b> Report: <i>He said, \"I have finished the work.\"</i><br/><b>A:</b> He said he had finished the work. \u2014 Present perfect \u2192 past perfect.</p><p><b>Q:</b> Report: <i>They said, \"We will come tomorrow.\"</i><br/><b>A:</b> They said they would come the next day. \u2014 will\u2192would; tomorrow\u2192the next day.</p>",
+      "examples": [
+        {
+          "q": "Report: <i>She said, \"I am tired.\"</i>",
+          "a": "She said she was tired."
+        },
+        {
+          "q": "Report: <i>He said, \"I have finished the work.\"</i>",
+          "a": "He said he had finished the work."
         }
       ]
     }
@@ -52,7 +80,9 @@
         "She said she will be tired."
       ],
       "answer": 1,
-      "solution": "Present → past."
+      "solution": "Present \u2192 past.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Report: <i>He said, \"I have finished the work.\"</i>",
@@ -63,7 +93,9 @@
         "He said he was finishing the work."
       ],
       "answer": 1,
-      "solution": "Present perfect → past perfect."
+      "solution": "Present perfect \u2192 past perfect.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Report: <i>They said, \"We will come tomorrow.\"</i>",
@@ -74,7 +106,9 @@
         "They said they had come tomorrow."
       ],
       "answer": 1,
-      "solution": "will→would; tomorrow→the next day."
+      "solution": "will\u2192would; tomorrow\u2192the next day.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Report: <i>Ada asked, \"Where are you going?\"</i>",
@@ -85,7 +119,9 @@
         "Ada asked I where I was going."
       ],
       "answer": 1,
-      "solution": "Statement word-order + past tense."
+      "solution": "Statement word-order + past tense.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Report: <i>He said, \"Sit down.\"</i>",
@@ -96,7 +132,9 @@
         "He asked to sit down."
       ],
       "answer": 2,
-      "solution": "Command → told + to-infinitive."
+      "solution": "Command \u2192 told + to-infinitive.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Report: <i>She asked, \"Do you speak French?\"</i>",
@@ -107,7 +145,9 @@
         "She asked I speak French."
       ],
       "answer": 1,
-      "solution": "Yes/no question → if + past."
+      "solution": "Yes/no question \u2192 if + past.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Report: <i>He said, \"I can swim.\"</i>",
@@ -118,7 +158,9 @@
         "He said he had to swim."
       ],
       "answer": 1,
-      "solution": "can → could."
+      "solution": "can \u2192 could.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Report: <i>She said, \"I must go now.\"</i>",
@@ -129,7 +171,9 @@
         "She said she should go now."
       ],
       "answer": 1,
-      "solution": "must → had to; now → then."
+      "solution": "must \u2192 had to; now \u2192 then.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Concord: <i>Neither of the answers _____ correct.</i>",
@@ -140,7 +184,9 @@
         "have been"
       ],
       "answer": 1,
-      "solution": "Neither = singular."
+      "solution": "Neither = singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Concord: <i>None of the water _____ contaminated.</i>",
@@ -151,7 +197,9 @@
         "have been"
       ],
       "answer": 1,
-      "solution": "Uncountable — singular."
+      "solution": "Uncountable \u2014 singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Concord: <i>The rich _____ not always happy.</i>",
@@ -162,7 +210,9 @@
         "has been"
       ],
       "answer": 1,
-      "solution": "'The rich' = plural."
+      "solution": "'The rich' = plural.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Concord: <i>A series of tests _____ been scheduled.</i>",
@@ -173,7 +223,9 @@
         "were"
       ],
       "answer": 1,
-      "solution": "'A series of' — singular."
+      "solution": "'A series of' \u2014 singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Concord: <i>More than one student _____ absent.</i>",
@@ -184,7 +236,9 @@
         "have been"
       ],
       "answer": 2,
-      "solution": "'More than one' — singular."
+      "solution": "'More than one' \u2014 singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Concord: <i>The Philippines _____ in Asia.</i>",
@@ -195,7 +249,9 @@
         "have been"
       ],
       "answer": 1,
-      "solution": "Country name — singular."
+      "solution": "Country name \u2014 singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Concord: <i>Two-thirds of the cake _____ eaten.</i>",
@@ -206,7 +262,9 @@
         "were"
       ],
       "answer": 1,
-      "solution": "Cake is singular — singular verb."
+      "solution": "Cake is singular \u2014 singular verb.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Concord: <i>Two-thirds of the students _____ present.</i>",
@@ -217,7 +275,9 @@
         "has been"
       ],
       "answer": 1,
-      "solution": "Students = plural."
+      "solution": "Students = plural.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Tag: <i>She sings well, __?</i>",
@@ -228,7 +288,9 @@
         "won't she"
       ],
       "answer": 0,
-      "solution": "Positive present → negative tag with does."
+      "solution": "Positive present \u2192 negative tag with does.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Tag: <i>He has not finished, __?</i>",
@@ -239,7 +301,9 @@
         "doesn't he"
       ],
       "answer": 1,
-      "solution": "Negative → positive tag."
+      "solution": "Negative \u2192 positive tag.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Tag: <i>I am late, __?</i>",
@@ -250,7 +314,9 @@
         "isn't I"
       ],
       "answer": 1,
-      "solution": "Special form 'aren't I'."
+      "solution": "Special form 'aren't I'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Tag: <i>Let's go, __?</i>",
@@ -261,7 +327,9 @@
         "aren't we"
       ],
       "answer": 0,
-      "solution": "'Let's' takes 'shall we'."
+      "solution": "'Let's' takes 'shall we'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Tag: <i>Open the door, __?</i>",
@@ -272,7 +340,9 @@
         "shall you"
       ],
       "answer": 0,
-      "solution": "Imperative tag = 'will you'."
+      "solution": "Imperative tag = 'will you'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Tag: <i>Everyone was ready, __?</i>",
@@ -283,7 +353,9 @@
         "didn't they"
       ],
       "answer": 2,
-      "solution": "'Everyone' tags with 'they'."
+      "solution": "'Everyone' tags with 'they'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Tag: <i>Nobody came, __?</i>",
@@ -294,7 +366,9 @@
         "didn't nobody"
       ],
       "answer": 1,
-      "solution": "Negative (nobody) → positive tag."
+      "solution": "Negative (nobody) \u2192 positive tag.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Relative pronoun for people (subject):",
@@ -305,7 +379,9 @@
         "whom"
       ],
       "answer": 1,
-      "solution": "'Who' — subject for people."
+      "solution": "'Who' \u2014 subject for people.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Relative pronoun for possession:",
@@ -316,7 +392,9 @@
         "whom"
       ],
       "answer": 2,
-      "solution": "'Whose' shows possession."
+      "solution": "'Whose' shows possession.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Relative pronoun for things:",
@@ -327,7 +405,9 @@
         "whom"
       ],
       "answer": 0,
-      "solution": "'Which' for things/animals."
+      "solution": "'Which' for things/animals.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Non-defining relative clause is set off by:",
@@ -338,7 +418,9 @@
         "semicolons"
       ],
       "answer": 1,
-      "solution": "Commas mark non-defining clauses."
+      "solution": "Commas mark non-defining clauses.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>My father, who lives in Kano, is a lawyer.</i> The relative clause is:",
@@ -349,7 +431,9 @@
         "noun"
       ],
       "answer": 1,
-      "solution": "Non-defining — adds extra info."
+      "solution": "Non-defining \u2014 adds extra info.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The book that I bought is new.</i> Relative clause is:",
@@ -360,7 +444,9 @@
         "adverbial"
       ],
       "answer": 0,
-      "solution": "Defining — no commas."
+      "solution": "Defining \u2014 no commas.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sentence has correct concord?",
@@ -371,7 +457,9 @@
         "Each of the boys have been here."
       ],
       "answer": 1,
-      "solution": "'Each of' — singular."
+      "solution": "'Each of' \u2014 singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is the object of the verb in <i>Ada gave Musa a book</i>?",
@@ -382,7 +470,9 @@
         "Musa a book"
       ],
       "answer": 2,
-      "solution": "'A book' is the direct object; 'Musa' is indirect."
+      "solution": "'A book' is the direct object; 'Musa' is indirect.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The indirect object in <i>Ada gave Musa a book</i>:",
@@ -393,7 +483,9 @@
         "gave"
       ],
       "answer": 1,
-      "solution": "'Musa' — receives the direct object."
+      "solution": "'Musa' \u2014 receives the direct object.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "In <i>The chairman appointed her secretary</i>, <i>secretary</i> is:",
@@ -404,7 +496,9 @@
         "subject complement"
       ],
       "answer": 2,
-      "solution": "Renames the object 'her'."
+      "solution": "Renames the object 'her'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "In <i>Ada is a teacher</i>, <i>a teacher</i> is:",
@@ -415,7 +509,9 @@
         "adverbial"
       ],
       "answer": 1,
-      "solution": "Follows linking verb 'is'."
+      "solution": "Follows linking verb 'is'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a compound sentence?",
@@ -426,7 +522,9 @@
         "Ada came."
       ],
       "answer": 0,
-      "solution": "Two independent clauses joined by 'and'."
+      "solution": "Two independent clauses joined by 'and'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a complex sentence?",
@@ -437,7 +535,9 @@
         "Ada left."
       ],
       "answer": 1,
-      "solution": "Contains a subordinate clause."
+      "solution": "Contains a subordinate clause.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a simple sentence?",
@@ -448,7 +548,9 @@
         "Ada came, and after that Musa left."
       ],
       "answer": 2,
-      "solution": "One independent clause."
+      "solution": "One independent clause.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a compound-complex sentence?",
@@ -459,7 +561,9 @@
         "When Ada came, Musa left."
       ],
       "answer": 2,
-      "solution": "Two independent clauses + one subordinate."
+      "solution": "Two independent clauses + one subordinate.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The subject of <i>Under the tree lay a dog</i> is:",
@@ -470,7 +574,9 @@
         "lay"
       ],
       "answer": 2,
-      "solution": "Inverted order — 'a dog' is subject."
+      "solution": "Inverted order \u2014 'a dog' is subject.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Adjunct in <i>She sang beautifully in the concert</i>:",
@@ -481,7 +587,9 @@
         "concert"
       ],
       "answer": 2,
-      "solution": "Adverbials of manner + place."
+      "solution": "Adverbials of manner + place.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Report: <i>He said, \"This is my book.\"</i>",
@@ -492,7 +600,9 @@
         "He said that his book."
       ],
       "answer": 1,
-      "solution": "this→that; is→was."
+      "solution": "this\u2192that; is\u2192was.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Report: <i>She said, \"I saw him yesterday.\"</i>",
@@ -503,7 +613,9 @@
         "She said she was seeing him yesterday."
       ],
       "answer": 1,
-      "solution": "Past → past perfect; yesterday → the day before."
+      "solution": "Past \u2192 past perfect; yesterday \u2192 the day before.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Tag: <i>They will come, __?</i>",
@@ -514,7 +626,9 @@
         "aren't they"
       ],
       "answer": 1,
-      "solution": "Positive → negative tag."
+      "solution": "Positive \u2192 negative tag.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Tag: <i>You'd like some water, __?</i>",
@@ -525,10 +639,12 @@
         "aren't you"
       ],
       "answer": 0,
-      "solution": "'You'd' = you would → wouldn't you."
+      "solution": "'You'd' = you would \u2192 wouldn't you.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "<i>Whom did you see?</i> — 'whom' is:",
+      "q": "<i>Whom did you see?</i> \u2014 'whom' is:",
       "options": [
         "subject",
         "object",
@@ -536,7 +652,9 @@
         "adverb"
       ],
       "answer": 1,
-      "solution": "Object of 'see'."
+      "solution": "Object of 'see'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The car whose engine is loud is mine.</i> 'Whose' refers to:",
@@ -547,7 +665,9 @@
         "the road"
       ],
       "answer": 0,
-      "solution": "Possession of the car."
+      "solution": "Possession of the car.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The man to whom I spoke is my uncle.</i> Formal use of:",
@@ -558,7 +678,9 @@
         "whose"
       ],
       "answer": 2,
-      "solution": "Object of preposition = whom."
+      "solution": "Object of preposition = whom.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Concord: <i>Mumps _____ a childhood disease.</i>",
@@ -569,7 +691,9 @@
         "have been"
       ],
       "answer": 1,
-      "solution": "Diseases ending in -s take singular verb."
+      "solution": "Diseases ending in -s take singular verb.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Concord: <i>Physics _____ a science subject.</i>",
@@ -580,7 +704,9 @@
         "have been"
       ],
       "answer": 1,
-      "solution": "Subject name — singular."
+      "solution": "Subject name \u2014 singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "In <i>Although it rained, we went out</i>, <i>although it rained</i> is:",
@@ -591,7 +717,9 @@
         "relative clause"
       ],
       "answer": 1,
-      "solution": "Concession clause."
+      "solution": "Concession clause.",
+      "source": "Chapter notes",
+      "practice": false
     }
   ]
 }

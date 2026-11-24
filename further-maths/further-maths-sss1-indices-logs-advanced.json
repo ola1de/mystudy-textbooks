@@ -1,0 +1,737 @@
+{
+  "subject": "Further Mathematics",
+  "level": "SSS 1",
+  "slug": "indices-logs-advanced",
+  "title": "Indices, Logarithms and Surds (Advanced)",
+  "outline": [
+    "Introduction to Indices, Logarithms and Surds (Advanced)",
+    "Key facts about Indices, Logarithms and Surds (Advanced)",
+    "Important terms and examples in Indices, Logarithms and Surds (Advanced)",
+    "Importance and application of Indices, Logarithms and Surds (Advanced)",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Indices, Logarithms and Surds (Advanced)",
+      "html": "<p>Laws of indices and logarithms, and equations involving surds. This section covers introduction to indices, logarithms and surds (advanced).</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of indices, logarithms and surds (advanced).</li><li>Be able to explain indices, logarithms and surds (advanced) in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$<br/><b>A:</b> 6560 \u2014 Past question (JAMB 2024). Correct answer: 6560.</p><p><b>Q:</b> If $$ z = 3 + 4i $$, find $$ |z| $$.<br/><b>A:</b> 5 \u2014 Past question (JAMB 2021). Correct answer: 5.</p>",
+      "examples": [
+        {
+          "q": "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$",
+          "a": "6560"
+        },
+        {
+          "q": "If $$ z = 3 + 4i $$, find $$ |z| $$.",
+          "a": "5"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Indices, Logarithms and Surds (Advanced)",
+      "html": "<p>Laws of indices and logarithms, and equations involving surds. This section covers key facts about indices, logarithms and surds (advanced).</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of indices, logarithms and surds (advanced).</li><li>Be able to explain indices, logarithms and surds (advanced) in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$<br/><b>A:</b> 6560 \u2014 Past question (JAMB 2024). Correct answer: 6560.</p><p><b>Q:</b> If $$ z = 3 + 4i $$, find $$ |z| $$.<br/><b>A:</b> 5 \u2014 Past question (JAMB 2021). Correct answer: 5.</p>",
+      "examples": [
+        {
+          "q": "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$",
+          "a": "6560"
+        },
+        {
+          "q": "If $$ z = 3 + 4i $$, find $$ |z| $$.",
+          "a": "5"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Indices, Logarithms and Surds (Advanced)",
+      "html": "<p>Laws of indices and logarithms, and equations involving surds. This section covers important terms and examples in indices, logarithms and surds (advanced).</p><h4>Key points</h4><ul><li>Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$ \u2014 6560.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$<br/><b>A:</b> 6560 \u2014 Past question (JAMB 2024). Correct answer: 6560.</p><p><b>Q:</b> If $$ z = 3 + 4i $$, find $$ |z| $$.<br/><b>A:</b> 5 \u2014 Past question (JAMB 2021). Correct answer: 5.</p><h4>More key points</h4><ul><li>Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$ \u2014 6560.</li></ul>",
+      "examples": [
+        {
+          "q": "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$",
+          "a": "6560"
+        },
+        {
+          "q": "If $$ z = 3 + 4i $$, find $$ |z| $$.",
+          "a": "5"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Indices, Logarithms and Surds (Advanced)",
+      "html": "<p>Laws of indices and logarithms, and equations involving surds. This section covers importance and application of indices, logarithms and surds (advanced).</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of indices, logarithms and surds (advanced).</li><li>Be able to explain indices, logarithms and surds (advanced) in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$<br/><b>A:</b> 6560 \u2014 Past question (JAMB 2024). Correct answer: 6560.</p><p><b>Q:</b> If $$ z = 3 + 4i $$, find $$ |z| $$.<br/><b>A:</b> 5 \u2014 Past question (JAMB 2021). Correct answer: 5.</p>",
+      "examples": [
+        {
+          "q": "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$",
+          "a": "6560"
+        },
+        {
+          "q": "If $$ z = 3 + 4i $$, find $$ |z| $$.",
+          "a": "5"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Laws of indices and logarithms, and equations involving surds. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>Study the meaning, main features and examples of indices, logarithms and surds (advanced).</li><li>Be able to explain indices, logarithms and surds (advanced) in your own words and give examples.</li><li>Practise the 50-question quiz for this topic until you score well without notes.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$<br/><b>A:</b> 6560 \u2014 Past question (JAMB 2024). Correct answer: 6560.</p><p><b>Q:</b> If $$ z = 3 + 4i $$, find $$ |z| $$.<br/><b>A:</b> 5 \u2014 Past question (JAMB 2021). Correct answer: 5.</p>",
+      "examples": [
+        {
+          "q": "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$",
+          "a": "6560"
+        },
+        {
+          "q": "If $$ z = 3 + 4i $$, find $$ |z| $$.",
+          "a": "5"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$",
+      "options": [
+        "6560",
+        "2186",
+        "6561",
+        "13120"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 6560.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "If $$ z = 3 + 4i $$, find $$ |z| $$.",
+      "options": [
+        "5",
+        "3",
+        "4",
+        "7"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 5.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Number of ways to arrange letters of 'APPLE'.",
+      "options": [
+        "60",
+        "120",
+        "24",
+        "12"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 60.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Binary operation $$ a*b = a+b-ab $$. Find $$ 2*3 $$.",
+      "options": [
+        "-1",
+        "5",
+        "1",
+        "6"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: -1.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Matrix multiplication $$ AB $$ requires:",
+      "options": [
+        "Cols A = Rows B",
+        "Rows A = Cols B",
+        "Rows A = Rows B",
+        "Cols A = Cols B"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Cols A = Rows B.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Distance point (1,1) to $$ 3x+4y+3=0 $$.",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 2.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Solve $$ |x| < 2 $$.",
+      "options": [
+        "$$ -2 < x < 2 $$",
+        "$$ x > 2 $$",
+        "$$ x < -2 $$",
+        "$$ x = 2 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ -2 < x < 2 $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$\\int_0^1 (2x + 1)^3 \\, dx$$.",
+      "options": [
+        "$$5$$",
+        "$$10$$",
+        "$$20$$",
+        "$$40$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$10$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Determine the nature of the roots of $$x^2 + 4x + 4 = 0$$.",
+      "options": [
+        "Real and distinct",
+        "Real and equal",
+        "Complex",
+        "Rational"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Real and equal.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the cross product $$\\mathbf{i} \\times \\mathbf{j}$$.",
+      "options": [
+        "$$\\mathbf{k}$$",
+        "$$-\\mathbf{k}$$",
+        "$$\\mathbf{0}$$",
+        "$$1$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$\\mathbf{k}$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which is a measure of dispersion?",
+      "options": [
+        "Mean",
+        "Median",
+        "Mode",
+        "Variance"
+      ],
+      "answer": 3,
+      "solution": "Past question (JAMB 2022). Correct answer: Variance.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Calculate the area bounded by the curve $$y = x^2$$ and the line $$y = 4$$.",
+      "options": [
+        "$$\\frac{32}{3}$$",
+        "$$\\frac{16}{3}$$",
+        "$$\\frac{64}{3}$$",
+        "$$32$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$\\frac{32}{3}$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the derivative of $$y = \\tan^{-1} x$$.",
+      "options": [
+        "$$\\frac{1}{1+x^2}$$",
+        "$$\\frac{1}{1-x^2}$$",
+        "$$\\sec^2 x$$",
+        "$$\\frac{1}{\\sqrt{1-x^2}}$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$\\frac{1}{1+x^2}$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the range of the function $$f(x) = \\frac{1}{1+x^2}$$.",
+      "options": [
+        "$$0 < y \\le 1$$",
+        "$$0 \\le y \\le 1$$",
+        "$$y \\ge 1$$",
+        "$$y \\in \\mathbb{R}$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$0 < y \\le 1$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the gradient of the curve $y = x^3 - 2x^2 + x$ at the point $x = 2$.",
+      "options": [
+        "5",
+        "3",
+        "4",
+        "1"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 5.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the range of values of $x$ for which $x^2 - 5x + 6 < 0$.",
+      "options": [
+        "$2 < x < 3$",
+        "$x < 2$ or $x > 3$",
+        "$x < 6$",
+        "$-3 < x < -2$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $2 < x < 3$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the value of $n$ if $^nC_{n-2} = 15$.",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "4"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 6.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$ \\int_1^2 (3x^2 + 1) dx $$",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: 8.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "If $$ y = \\ln(x^2 + 1) $$, find $$ y' $$.",
+      "options": [
+        "$$ \\frac{2x}{x^2+1} $$",
+        "$$ \\frac{1}{x^2+1} $$",
+        "$$ 2x $$",
+        "$$ \\frac{x}{x^2+1} $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ \\frac{2x}{x^2+1} $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Find the coordinates of the focus of $$ y^2 = 8x $$.",
+      "options": [
+        "(2, 0)",
+        "(0, 2)",
+        "(4, 0)",
+        "(-2, 0)"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: (2, 0).",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Calculate $$ (1+i)^2 $$",
+      "options": [
+        "2i",
+        "-2i",
+        "2",
+        "0"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: 2i.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Arrange 'BEER':",
+      "options": [
+        "12",
+        "24",
+        "6",
+        "4"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 12.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Diff $$ \\ln x $$:",
+      "options": [
+        "$$ 1/x $$",
+        "$$ x $$",
+        "$$ e^x $$",
+        "$$ 1 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: $$ 1/x $$.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Dot Prod i.i:",
+      "options": [
+        "1",
+        "0",
+        "i",
+        "-1"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 1.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Area v-t graph:",
+      "options": [
+        "Dist",
+        "Acc",
+        "Force",
+        "Power"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Dist.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Power:",
+      "options": [
+        "Work/t",
+        "Fd",
+        "ma",
+        "mv"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Work/t.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Sum of roots of $$ 3x^2 - 6x + 2 = 0 $$ is:",
+      "options": [
+        "2",
+        "6",
+        "-2",
+        "0.67"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 2.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Distance point (0,0) to $$ 3x+4y=10 $$.",
+      "options": [
+        "2",
+        "1",
+        "5",
+        "10"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 2.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Slope of normal to $$ y=x $$ is:",
+      "options": [
+        "-1",
+        "1",
+        "0",
+        "x"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: -1.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Projectile max height depends on:",
+      "options": [
+        "Vertical velocity",
+        "Horizontal velocity",
+        "Mass",
+        "Shape"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Vertical velocity.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Indices, Logarithms and Surds (Advanced) in Indices, Logarithms and Surds (Advanced)?",
+      "options": [
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.",
+        "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$ \u2014 6560.",
+        "5C2: \u2014 10.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$."
+      ],
+      "answer": 1,
+      "solution": "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$ \u2014 6560.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Indices, Logarithms and Surds (Advanced) in Indices, Logarithms and Surds (Advanced)?",
+      "options": [
+        "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$ \u2014 6560.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$.",
+        "5C2: \u2014 10.",
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$."
+      ],
+      "answer": 0,
+      "solution": "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$ \u2014 6560.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Indices, Logarithms and Surds (Advanced) in Indices, Logarithms and Surds (Advanced)?",
+      "options": [
+        "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$ \u2014 6560.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$.",
+        "5C2: \u2014 10.",
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$."
+      ],
+      "answer": 0,
+      "solution": "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$ \u2014 6560.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Indices, Logarithms and Surds (Advanced) in Indices, Logarithms and Surds (Advanced)?",
+      "options": [
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.",
+        "5C2: \u2014 10.",
+        "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$ \u2014 6560.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$."
+      ],
+      "answer": 2,
+      "solution": "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$ \u2014 6560.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Indices, Logarithms and Surds (Advanced)?",
+      "options": [
+        "5C2: \u2014 10.",
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.",
+        "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$ \u2014 6560.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$."
+      ],
+      "answer": 2,
+      "solution": "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$ \u2014 6560.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Indices, Logarithms and Surds (Advanced) \u2014 'find'?",
+      "options": [
+        "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$ \u2014 6560.",
+        "5C2: \u2014 10.",
+        "Value of $$ {}^5C_2 $$. \u2014 10.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$."
+      ],
+      "answer": 0,
+      "solution": "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$ \u2014 6560.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Indices, Logarithms and Surds (Advanced) \u2014 'number'?",
+      "options": [
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$.",
+        "5C2: \u2014 10.",
+        "Number of ways to arrange letters of 'APPLE'. \u2014 60."
+      ],
+      "answer": 3,
+      "solution": "Number of ways to arrange letters of 'APPLE'. \u2014 60.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Indices, Logarithms and Surds (Advanced) \u2014 'binary'?",
+      "options": [
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.",
+        "Binary operation $$ a*b = a+b-ab $$. Find $$ 2*3 $$. \u2014 -1.",
+        "5C2: \u2014 10.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$."
+      ],
+      "answer": 1,
+      "solution": "Binary operation $$ a*b = a+b-ab $$. Find $$ 2*3 $$. \u2014 -1.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Indices, Logarithms and Surds (Advanced) \u2014 'matrix'?",
+      "options": [
+        "5C2: \u2014 10.",
+        "Matrix multiplication $$ AB $$ requires: \u2014 Cols A = Rows B.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$.",
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$."
+      ],
+      "answer": 1,
+      "solution": "Matrix multiplication $$ AB $$ requires: \u2014 Cols A = Rows B.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Indices, Logarithms and Surds (Advanced) \u2014 'distance'?",
+      "options": [
+        "5C2: \u2014 10.",
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.",
+        "Distance point (1,1) to $$ 3x+4y+3=0 $$. \u2014 2.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$."
+      ],
+      "answer": 2,
+      "solution": "Distance point (1,1) to $$ 3x+4y+3=0 $$. \u2014 2.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Indices, Logarithms and Surds (Advanced) \u2014 'solve'?",
+      "options": [
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$.",
+        "Solve $$ |x| < 2 $$. \u2014 $$ -2 < x < 2 $$.",
+        "5C2: \u2014 10.",
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$."
+      ],
+      "answer": 1,
+      "solution": "Solve $$ |x| < 2 $$. \u2014 $$ -2 < x < 2 $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Indices, Logarithms and Surds (Advanced) \u2014 'evaluate'?",
+      "options": [
+        "Evaluate $$\\int_0^1 (2x + 1)^3 \\, dx$$. \u2014 $$10$$.",
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.",
+        "5C2: \u2014 10.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$."
+      ],
+      "answer": 0,
+      "solution": "Evaluate $$\\int_0^1 (2x + 1)^3 \\, dx$$. \u2014 $$10$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Indices, Logarithms and Surds (Advanced) \u2014 'determine'?",
+      "options": [
+        "Determine the nature of the roots of $$x^2 + 4x + 4 = 0$$. \u2014 Real and equal.",
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.",
+        "5C2: \u2014 10.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$."
+      ],
+      "answer": 0,
+      "solution": "Determine the nature of the roots of $$x^2 + 4x + 4 = 0$$. \u2014 Real and equal.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Indices, Logarithms and Surds (Advanced) \u2014 'measure'?",
+      "options": [
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$.",
+        "Which is a measure of dispersion \u2014 Variance.",
+        "5C2: \u2014 10."
+      ],
+      "answer": 2,
+      "solution": "Which is a measure of dispersion \u2014 Variance.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Indices, Logarithms and Surds (Advanced) \u2014 'calculate'?",
+      "options": [
+        "Calculate the area bounded by the curve $$y = x^2$$ and the line $$y = 4$$. \u2014 $$\\frac{32}{3}$$.",
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$.",
+        "5C2: \u2014 10."
+      ],
+      "answer": 0,
+      "solution": "Calculate the area bounded by the curve $$y = x^2$$ and the line $$y = 4$$. \u2014 $$\\frac{32}{3}$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Indices, Logarithms and Surds (Advanced) \u2014 'arrange'?",
+      "options": [
+        "Arrange 'BEER': \u2014 12.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$.",
+        "5C2: \u2014 10.",
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$."
+      ],
+      "answer": 0,
+      "solution": "Arrange 'BEER': \u2014 12.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Indices, Logarithms and Surds (Advanced) \u2014 'diff'?",
+      "options": [
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$.",
+        "5C2: \u2014 10.",
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.",
+        "Diff $$ \\ln x $$: \u2014 $$ 1/x $$."
+      ],
+      "answer": 3,
+      "solution": "Diff $$ \\ln x $$: \u2014 $$ 1/x $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Indices, Logarithms and Surds (Advanced) \u2014 'dot'?",
+      "options": [
+        "Dot Prod i.i: \u2014 1.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$.",
+        "5C2: \u2014 10.",
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$."
+      ],
+      "answer": 0,
+      "solution": "Dot Prod i.i: \u2014 1.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Indices, Logarithms and Surds (Advanced) \u2014 'area'?",
+      "options": [
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$.",
+        "5C2: \u2014 10.",
+        "Area v-t graph: \u2014 Dist.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$."
+      ],
+      "answer": 2,
+      "solution": "Area v-t graph: \u2014 Dist.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Indices, Logarithms and Surds (Advanced) \u2014 'power'?",
+      "options": [
+        "5C2: \u2014 10.",
+        "Power: \u2014 Work/t.",
+        "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$. \u2014 $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$.",
+        "The probability of an event $A$ is $2/3$ and event $B$ is $1/4$. If they are independent, find $P(A \\\\cap B)$. \u2014 $1/6$."
+      ],
+      "answer": 1,
+      "solution": "Power: \u2014 Work/t.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

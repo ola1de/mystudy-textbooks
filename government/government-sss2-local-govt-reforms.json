@@ -19,7 +19,7 @@
       "examples": [
         {
           "q": "Why is local government described as a training ground for democracy?",
-          "a": "Councils give ordinary citizens direct experience of election campaigns, budgeting, debate, committee work and accountability at a small, comprehensible scale. Many national leaders begin as councillors or council chairmen. Frequent contact with electors over tangible issues — markets, roads, refuse — builds civic competence and habits of participation that sustain democracy nationally."
+          "a": "Councils give ordinary citizens direct experience of election campaigns, budgeting, debate, committee work and accountability at a small, comprehensible scale. Many national leaders begin as councillors or council chairmen. Frequent contact with electors over tangible issues \u2014 markets, roads, refuse \u2014 builds civic competence and habits of participation that sustain democracy nationally."
         },
         {
           "q": "A council builds a market without consulting traders and it remains empty. What principle was ignored?",
@@ -33,11 +33,49 @@
       "examples": [
         {
           "q": "Explain how the State Joint Local Government Account undermines council autonomy.",
-          "a": "Section 162(6) requires each state to maintain a joint account into which federal allocations to its councils are paid. Because the state controls disbursement, it may deduct for projects the councils did not approve, delay releases, or use funds as leverage over chairmen. Councils therefore cannot plan reliably, and financial dependence translates into political subordination — the main reason for demands that allocations be paid directly to councils."
+          "a": "Section 162(6) requires each state to maintain a joint account into which federal allocations to its councils are paid. Because the state controls disbursement, it may deduct for projects the councils did not approve, delay releases, or use funds as leverage over chairmen. Councils therefore cannot plan reliably, and financial dependence translates into political subordination \u2014 the main reason for demands that allocations be paid directly to councils."
         },
         {
           "q": "Why did the 1976 reform reduce the role of traditional rulers?",
           "a": "Under the Native Authority system emirs and chiefs exercised executive, legislative and judicial powers, which was incompatible with elected democratic government and had produced arbitrary rule and resistance (as in the 1929 Aba riots and the 1950s tax protests). The reform confined traditional rulers to advisory councils of chiefs so that policy-making and finance would rest with elected representatives accountable to the people."
+        }
+      ]
+    },
+    {
+      "title": "Structure and organs of a local council",
+      "html": "<p><b>Structure and organs of a local council</b> is a key part of Local Government and the 1976 Reforms (SSS 2, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Local government is government at the grassroots, exercised through elected councils established by law, with substantial control over local affairs, staff and financial resources, within a defined area.</li><li>An elected council: chairman, vice-chairman and councillors.</li><li>Own staff, recruited through a Local Government Service Commission.</li><li>Reasons for Local Government To bring government closer to the people and provide local services efficiently.</li><li>To relieve central and state governments of purely local duties.</li></ul><h4>Worked example</h4><p><b>Q:</b> Local government is best described as:<br/><b>A:</b> Government at the grassroots by elected councils \u2014 It is a statutory tier exercising defined powers over a local area.</p><p><b>Q:</b> The landmark reform that made local government a third tier occurred in:<br/><b>A:</b> 1976 \u2014 The 1976 Local Government Reforms created a uniform third tier.</p>",
+      "examples": [
+        {
+          "q": "Local government is best described as:",
+          "a": "Government at the grassroots by elected councils \u2014 It is a statutory tier exercising defined powers over a local area."
+        },
+        {
+          "q": "The landmark reform that made local government a third tier occurred in:",
+          "a": "1976 \u2014 The 1976 Local Government Reforms created a uniform third tier."
+        }
+      ]
+    },
+    {
+      "title": "Inter-governmental relations and control",
+      "html": "<p><b>Inter-governmental relations and control</b> is a key part of Local Government and the 1976 Reforms (SSS 2, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Local government is government at the grassroots, exercised through elected councils established by law, with substantial control over local affairs, staff and financial resources, within a defined area.</li><li>Functions (Fourth Schedule, 1999 Constitution) Mandatory: collection of rates and radio/television licences; establishment and maintenance of markets, motor parks and public conveniences; construction and maintenance of roads, streets, drains and street lighting; naming of streets and numbering of houses; registration of births, deaths and marriages; licensing of bicycles, trucks, canoes and carts; refuse disposal; control of outdoor advertising, movement of animals, and shops and kiosks; sewage and cemeteries; homes for the destitute.</li><li>Councils differed in structure, powers and finance, many were dominated by traditional rulers or party interests, and most lacked funds and trained staff.</li><li>Sources of Revenue Internal External Tenement rates and property rates Statutory allocation from the Federation Account Market and motor park fees 10% of state internally generated revenue Licences and permits (bicycles, kiosks, adverts) Grants-in-aid from state and federal government Fines and court fees Loans approved by the state Rents from council property and commercial ventures Donations and international agency support 4.</li><li>Problems Financial dependence and inadequate internally generated revenue.</li></ul><h4>Worked example</h4><p><b>Q:</b> A major problem of Nigerian local government is:<br/><b>A:</b> Financial dependence on higher tiers \u2014 Weak internal revenue makes councils reliant on allocations they do not control.</p>",
+      "examples": [
+        {
+          "q": "A major problem of Nigerian local government is:",
+          "a": "Financial dependence on higher tiers \u2014 Weak internal revenue makes councils reliant on allocations they do not control."
+        }
+      ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> Local government is best described as:<br/><b>A:</b> Government at the grassroots by elected councils \u2014 It is a statutory tier exercising defined powers over a local area.</p><p><b>Q:</b> The landmark reform that made local government a third tier occurred in:<br/><b>A:</b> 1976 \u2014 The 1976 Local Government Reforms created a uniform third tier.</p><p><b>Q:</b> Local government functions are contained in which schedule of the 1999 Constitution?<br/><b>A:</b> Fourth \u2014 The Fourth Schedule lists mandatory and concurrent local government functions.</p>",
+      "examples": [
+        {
+          "q": "Local government is best described as:",
+          "a": "Government at the grassroots by elected councils"
+        },
+        {
+          "q": "The landmark reform that made local government a third tier occurred in:",
+          "a": "1976"
         }
       ]
     }
@@ -52,7 +90,9 @@
         "A pressure group"
       ],
       "answer": 0,
-      "solution": "It is a statutory tier exercising defined powers over a local area."
+      "solution": "It is a statutory tier exercising defined powers over a local area.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The landmark reform that made local government a third tier occurred in:",
@@ -63,7 +103,9 @@
         "1999"
       ],
       "answer": 1,
-      "solution": "The 1976 Local Government Reforms created a uniform third tier."
+      "solution": "The 1976 Local Government Reforms created a uniform third tier.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Local government functions are contained in which schedule of the 1999 Constitution?",
@@ -74,7 +116,9 @@
         "Fifth"
       ],
       "answer": 2,
-      "solution": "The Fourth Schedule lists mandatory and concurrent local government functions."
+      "solution": "The Fourth Schedule lists mandatory and concurrent local government functions.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nigeria currently has how many local government areas?",
@@ -85,7 +129,9 @@
         "301"
       ],
       "answer": 1,
-      "solution": "The 1999 Constitution's First Schedule lists 774 local government areas."
+      "solution": "The 1999 Constitution's First Schedule lists 774 local government areas.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The 1976 reform recommended a population range of about:",
@@ -96,7 +142,9 @@
         "5m and above"
       ],
       "answer": 1,
-      "solution": "Councils were to serve between 150,000 and 800,000 people for viability."
+      "solution": "Councils were to serve between 150,000 and 800,000 people for viability.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An internal source of local government revenue is:",
@@ -107,7 +155,9 @@
         "Foreign aid"
       ],
       "answer": 1,
-      "solution": "Tenement rates are levied and collected by the council itself."
+      "solution": "Tenement rates are levied and collected by the council itself.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The State Joint Local Government Account is provided for in section:",
@@ -118,7 +168,9 @@
         "214"
       ],
       "answer": 1,
-      "solution": "Section 162(6) mandates the joint account maintained by each state."
+      "solution": "Section 162(6) mandates the joint account maintained by each state.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Before 1976, Northern Nigeria used the:",
@@ -129,7 +181,9 @@
         "Cabinet system"
       ],
       "answer": 0,
-      "solution": "The North operated Native Authorities under emirs."
+      "solution": "The North operated Native Authorities under emirs.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a mandatory local government function?",
@@ -140,7 +194,9 @@
         "Foreign policy"
       ],
       "answer": 0,
-      "solution": "Sanitation and refuse disposal are listed local functions."
+      "solution": "Sanitation and refuse disposal are listed local functions.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Councils are staffed through the:",
@@ -151,7 +207,9 @@
         "NNPC"
       ],
       "answer": 0,
-      "solution": "State Local Government Service Commissions handle recruitment and discipline."
+      "solution": "State Local Government Service Commissions handle recruitment and discipline.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Caretaker committees undermine local government because they are:",
@@ -162,7 +220,9 @@
         "Federal agencies"
       ],
       "answer": 1,
-      "solution": "Section 7 requires a democratically elected council; appointed caretakers lack a mandate."
+      "solution": "Section 7 requires a democratically elected council; appointed caretakers lack a mandate.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A major problem of Nigerian local government is:",
@@ -173,7 +233,9 @@
         "Surplus revenue"
       ],
       "answer": 0,
-      "solution": "Weak internal revenue makes councils reliant on allocations they do not control."
+      "solution": "Weak internal revenue makes councils reliant on allocations they do not control.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Primary education and primary health care are:",
@@ -184,7 +246,9 @@
         "Judicial functions"
       ],
       "answer": 1,
-      "solution": "The Fourth Schedule makes them shared responsibilities with the state."
+      "solution": "The Fourth Schedule makes them shared responsibilities with the state.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The head of an elected local council in Nigeria is the:",
@@ -195,7 +259,9 @@
         "Permanent Secretary"
       ],
       "answer": 0,
-      "solution": "An executive chairman heads the council, deputised by a vice-chairman."
+      "solution": "An executive chairman heads the council, deputised by a vice-chairman.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "One justification for local government is:",
@@ -206,7 +272,9 @@
         "Commanding the army"
       ],
       "answer": 0,
-      "solution": "Proximity allows services tailored to local needs and greater participation."
+      "solution": "Proximity allows services tailored to local needs and greater participation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The 1976 reform reduced traditional rulers to:",
@@ -217,7 +285,451 @@
         "Auditors"
       ],
       "answer": 1,
-      "solution": "Policy and finance passed to elected councillors, leaving chiefs an advisory function."
+      "solution": "Policy and finance passed to elected councillors, leaving chiefs an advisory function.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The Privy Council in London was Nigeria's highest court until?",
+      "options": [
+        "1960",
+        "1979",
+        "1963",
+        "1999"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 1963.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which constitution introduced the ministerial system (Council of Ministers) to Nigeria?",
+      "options": [
+        "Clifford",
+        "Macpherson",
+        "Richards",
+        "Lyttleton"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Macpherson.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The non-permanent members of the UN Security Council are elected for:",
+      "options": [
+        "2 years",
+        "4 years",
+        "5 years",
+        "10 years"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: 2 years.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "In the pre-colonial Hausa/Fulani system, the Emir was assisted by a council led by...",
+      "options": [
+        "The Oba",
+        "The Waziri",
+        "The Bashorun",
+        "The Eze"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: The Waziri.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A strategy used by the media to control or hide information is...",
+      "options": [
+        "Propaganda",
+        "Censorship",
+        "Publicity",
+        "Advertising"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Censorship.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a permanent member of the UN Security Council?",
+      "options": [
+        "Nigeria",
+        "Japan",
+        "France",
+        "Brazil"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: France.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Who is the administrative head of the Judiciary in Nigeria?",
+      "options": [
+        "The President",
+        "The Attorney General",
+        "The Chief Justice of Nigeria",
+        "The Speaker of the House"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: The Chief Justice of Nigeria.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "ECOSOC (Economic and Social Council) is an organ of the?",
+      "options": [
+        "AU",
+        "EU",
+        "UN",
+        "OPEC"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: UN.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Who moved the first motion for Nigeria\u2019s independence in 1953?",
+      "options": [
+        "Nnamdi Azikiwe",
+        "Anthony Enahoro",
+        "Ahmadu Bello",
+        "Obafemi Awolowo"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Anthony Enahoro.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The 1946 Richards Constitution divided Nigeria into?",
+      "options": [
+        "2 regions",
+        "4 regions",
+        "12 states",
+        "3 regions"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 3 regions.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The first Governor-General of amalgamated Nigeria was?",
+      "options": [
+        "John Macpherson",
+        "Arthur Richards",
+        "Frederick Lugard",
+        "Donald Cameron"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Frederick Lugard.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The Mid-Western Region of Nigeria was created in?",
+      "options": [
+        "1960",
+        "1967",
+        "1970",
+        "1963"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 1963.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Who was the first ceremonial President of Nigeria (1963\u20131966)?",
+      "options": [
+        "Abubakar Tafawa Balewa",
+        "Aguiyi Ironsi",
+        "Nnamdi Azikiwe",
+        "Yakubu Gowon"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Nnamdi Azikiwe.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The elective principle in Nigeria was first introduced by?",
+      "options": [
+        "Hugh Clifford",
+        "Arthur Richards",
+        "John Macpherson",
+        "Oliver Lyttleton"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Hugh Clifford.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which region was not represented in the Central Legislative Council under the 1922 Clifford Constitution?",
+      "options": [
+        "West",
+        "East",
+        "North",
+        "Lagos"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: North.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Nigeria became a Republic on October 1st of what year?",
+      "options": [
+        "1960",
+        "1963",
+        "1979",
+        "1999"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 1963.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "In Nigeria's federalism, \u2018Residual Powers\u2019 usually refer to matters like?",
+      "options": [
+        "Defense",
+        "Currency",
+        "Markets and Chieftaincy affairs",
+        "External Affairs"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Markets and Chieftaincy affairs.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The first Executive President of Nigeria was?",
+      "options": [
+        "Nnamdi Azikiwe",
+        "Shehu Shagari",
+        "Olusegun Obasanjo",
+        "Umaru Yar'Adua"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Shehu Shagari.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Who was the Prime Minister of Nigeria during the First Republic?",
+      "options": [
+        "Ahmadu Bello",
+        "Obafemi Awolowo",
+        "Aminu Kano",
+        "Abubakar Tafawa Balewa"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Abubakar Tafawa Balewa.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The current 1999 Constitution of Nigeria has been?",
+      "options": [
+        "Amended only once",
+        "Amended multiple times",
+        "Never amended",
+        "Scrapped entirely"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Amended multiple times.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is the constitutional age requirement to vote in Nigeria?",
+      "options": [
+        "16",
+        "21",
+        "25",
+        "18"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 18.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is the constitutional age requirement to run for the office of President in Nigeria?",
+      "options": [
+        "30",
+        "40",
+        "45",
+        "35"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 35.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "How many countries are permanent members of the UN Security Council?",
+      "options": [
+        "10",
+        "15",
+        "193",
+        "5"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 5.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Nigeria joined the United Nations (UN) in?",
+      "options": [
+        "1963",
+        "1970",
+        "1945",
+        "1960"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 1960.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Since independence, Nigeria\u2019s foreign policy has been primarily?",
+      "options": [
+        "Americocentric",
+        "Asiocentric",
+        "Eurocentric",
+        "Afrocentric"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Afrocentric.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Technical Aid Corps\u2019 (TAC) was established by Nigeria to?",
+      "options": [
+        "Fight local wars",
+        "Provide manpower assistance to other African/Caribbean states",
+        "Build local bridges",
+        "Collect taxes from foreigners"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Provide manpower assistance to other African/Caribbean states.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Nigeria\u2019s \u2018Afrocentric\u2019 foreign policy means that?",
+      "options": [
+        "She hates all European countries",
+        "Africa is the center-piece of her foreign policy interests",
+        "She wants to conquer other African nations",
+        "Only Africans can do business in Nigeria"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Africa is the center-piece of her foreign policy interests.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Ombudsman\u2019 is also known in Nigeria as the?",
+      "options": [
+        "Auditor General",
+        "Police Commissioner",
+        "Public Complaints Commission",
+        "Chief Justice"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Public Complaints Commission.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The Commonwealth is an organization of:",
+      "options": [
+        "European countries",
+        "Former British colonies",
+        "African countries",
+        "Oil producers"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Former British colonies.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The United Nations Organization (UNO) was founded in:",
+      "options": [
+        "1919",
+        "1945",
+        "1960",
+        "1990"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: 1945.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "OPEC headquarters is located in:",
+      "options": [
+        "Geneva",
+        "Vienna",
+        "New York",
+        "London"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Vienna.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The African Union (AU) replaced:",
+      "options": [
+        "ECOWAS",
+        "OAU",
+        "UNO",
+        "EU"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: OAU.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "A bi-cameral legislature has:",
+      "options": [
+        "One house",
+        "Two houses",
+        "Three houses",
+        "No house"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Two houses.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The 1999 Constitution (as amended) is:",
+      "options": [
+        "Unwritten",
+        "Written and Rigid",
+        "Flexible",
+        "Confederal"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Written and Rigid.",
+      "source": "JAMB 2021",
+      "practice": false
     }
   ]
 }

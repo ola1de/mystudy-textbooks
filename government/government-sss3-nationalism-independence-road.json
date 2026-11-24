@@ -15,11 +15,11 @@
   "modules": [
     {
       "title": "Growth of Nigerian Nationalism",
-      "html": "\n<h4>1. Meaning and Phases</h4>\n<p><b>Nationalism</b> is the desire and struggle of a people for self-determination and freedom from foreign rule. Nigerian nationalism passed through three broad phases: an <b>early elitist phase</b> (1900–1922) of petitions by Lagos lawyers and merchants; a <b>constitutional phase</b> (1923–1944) of parties and press agitation for representation; and a <b>mass phase</b> (1944–1960) of nationwide parties, strikes and demands for full independence.</p>\n<h4>2. Factors that Promoted Nationalism</h4>\n<ol>\n<li><b>Western education</b> — produced a class exposed to ideas of liberty, self-determination and democracy.</li>\n<li><b>The Second World War (1939–45)</b> — Nigerian ex-servicemen who fought in Burma and India saw whites defeated and returned questioning colonial superiority.</li>\n<li><b>The Atlantic Charter (1941)</b> — Roosevelt and Churchill affirmed the right of all peoples to choose their government.</li>\n<li><b>The United Nations Charter (1945)</b> — endorsed self-determination and trusteeship.</li>\n<li><b>Pan-Africanism</b> — the Manchester Congress of 1945 (Nkrumah, Kenyatta, Du Bois, Padmore) and the ideas of Marcus Garvey.</li>\n<li><b>Independence of India and Pakistan (1947)</b> and later Ghana (1957) — proved decolonisation possible.</li>\n<li><b>Racial discrimination</b> in the colonial service, salaries and social life.</li>\n<li><b>Economic exploitation</b> — marketing boards, expatriate control of trade, and the 1945 general strike over wages.</li>\n<li><b>Improved communications</b> — railways, roads, telegraph and newspapers created a national arena.</li>\n<li><b>The nationalist press</b> — the most effective mobilising instrument.</li>\n</ol>\n<h4>3. Early Organisations</h4>\n<table class=\"tb-table\">\n<tr><th>Year</th><th>Organisation</th><th>Leaders</th></tr>\n<tr><td>1908</td><td>People's Union</td><td>Dr John Randle, Dr Orisadipe Obasa</td></tr>\n<tr><td>1920</td><td>National Congress of British West Africa</td><td>Casely Hayford, Herbert Macaulay's allies</td></tr>\n<tr><td>1923</td><td>Nigerian National Democratic Party</td><td>Herbert Macaulay</td></tr>\n<tr><td>1934/36</td><td>Lagos Youth Movement / Nigerian Youth Movement</td><td>Ernest Ikoli, H. O. Davies, Samuel Akinsanya, Azikiwe</td></tr>\n<tr><td>1944</td><td>NCNC</td><td>Herbert Macaulay (president), Nnamdi Azikiwe (secretary)</td></tr>\n<tr><td>1948/51</td><td>Egbe Omo Oduduwa / Action Group</td><td>Obafemi Awolowo</td></tr>\n<tr><td>1949/51</td><td>Jamiyyar Mutanen Arewa / NPC</td><td>Ahmadu Bello, Tafawa Balewa</td></tr>\n<tr><td>1950</td><td>NEPU</td><td>Aminu Kano</td></tr>\n</table>\n",
+      "html": "\n<h4>1. Meaning and Phases</h4>\n<p><b>Nationalism</b> is the desire and struggle of a people for self-determination and freedom from foreign rule. Nigerian nationalism passed through three broad phases: an <b>early elitist phase</b> (1900\u20131922) of petitions by Lagos lawyers and merchants; a <b>constitutional phase</b> (1923\u20131944) of parties and press agitation for representation; and a <b>mass phase</b> (1944\u20131960) of nationwide parties, strikes and demands for full independence.</p>\n<h4>2. Factors that Promoted Nationalism</h4>\n<ol>\n<li><b>Western education</b> \u2014 produced a class exposed to ideas of liberty, self-determination and democracy.</li>\n<li><b>The Second World War (1939\u201345)</b> \u2014 Nigerian ex-servicemen who fought in Burma and India saw whites defeated and returned questioning colonial superiority.</li>\n<li><b>The Atlantic Charter (1941)</b> \u2014 Roosevelt and Churchill affirmed the right of all peoples to choose their government.</li>\n<li><b>The United Nations Charter (1945)</b> \u2014 endorsed self-determination and trusteeship.</li>\n<li><b>Pan-Africanism</b> \u2014 the Manchester Congress of 1945 (Nkrumah, Kenyatta, Du Bois, Padmore) and the ideas of Marcus Garvey.</li>\n<li><b>Independence of India and Pakistan (1947)</b> and later Ghana (1957) \u2014 proved decolonisation possible.</li>\n<li><b>Racial discrimination</b> in the colonial service, salaries and social life.</li>\n<li><b>Economic exploitation</b> \u2014 marketing boards, expatriate control of trade, and the 1945 general strike over wages.</li>\n<li><b>Improved communications</b> \u2014 railways, roads, telegraph and newspapers created a national arena.</li>\n<li><b>The nationalist press</b> \u2014 the most effective mobilising instrument.</li>\n</ol>\n<h4>3. Early Organisations</h4>\n<table class=\"tb-table\">\n<tr><th>Year</th><th>Organisation</th><th>Leaders</th></tr>\n<tr><td>1908</td><td>People's Union</td><td>Dr John Randle, Dr Orisadipe Obasa</td></tr>\n<tr><td>1920</td><td>National Congress of British West Africa</td><td>Casely Hayford, Herbert Macaulay's allies</td></tr>\n<tr><td>1923</td><td>Nigerian National Democratic Party</td><td>Herbert Macaulay</td></tr>\n<tr><td>1934/36</td><td>Lagos Youth Movement / Nigerian Youth Movement</td><td>Ernest Ikoli, H. O. Davies, Samuel Akinsanya, Azikiwe</td></tr>\n<tr><td>1944</td><td>NCNC</td><td>Herbert Macaulay (president), Nnamdi Azikiwe (secretary)</td></tr>\n<tr><td>1948/51</td><td>Egbe Omo Oduduwa / Action Group</td><td>Obafemi Awolowo</td></tr>\n<tr><td>1949/51</td><td>Jamiyyar Mutanen Arewa / NPC</td><td>Ahmadu Bello, Tafawa Balewa</td></tr>\n<tr><td>1950</td><td>NEPU</td><td>Aminu Kano</td></tr>\n</table>\n",
       "examples": [
         {
           "q": "Explain the significance of the 1945 general strike.",
-          "a": "Led by Michael Imoudu of the Railway Workers Union and supported by the press, the strike of 17 days (some 200,000 workers) was the first mass, cross-ethnic confrontation with the colonial state over cost-of-living allowances. It demonstrated that ordinary workers, not only the Lagos elite, could paralyse the colonial economy, deepened the alliance between unions and nationalists, and provoked the banning of Azikiwe's newspapers — which further radicalised opinion."
+          "a": "Led by Michael Imoudu of the Railway Workers Union and supported by the press, the strike of 17 days (some 200,000 workers) was the first mass, cross-ethnic confrontation with the colonial state over cost-of-living allowances. It demonstrated that ordinary workers, not only the Lagos elite, could paralyse the colonial economy, deepened the alliance between unions and nationalists, and provoked the banning of Azikiwe's newspapers \u2014 which further radicalised opinion."
         },
         {
           "q": "How did the Second World War accelerate decolonisation in Nigeria?",
@@ -29,7 +29,7 @@
     },
     {
       "title": "The Press, Trade Unions and the Transfer of Power",
-      "html": "\n<h4>1. The Nationalist Press</h4>\n<table class=\"tb-table\">\n<tr><th>Newspaper</th><th>Year</th><th>Founder</th></tr>\n<tr><td>Iwe Irohin</td><td>1859</td><td>Rev. Henry Townsend (first Nigerian newspaper)</td></tr>\n<tr><td>Lagos Weekly Record</td><td>1891</td><td>John Payne Jackson</td></tr>\n<tr><td>Lagos Daily News</td><td>1925</td><td>Herbert Macaulay</td></tr>\n<tr><td>West African Pilot</td><td>1937</td><td>Nnamdi Azikiwe</td></tr>\n<tr><td>Nigerian Tribune</td><td>1949</td><td>Obafemi Awolowo</td></tr>\n</table>\n<p>The press exposed colonial abuses, articulated demands, unified opinion across regions and trained political leaders. Colonial responses included sedition laws, the Newspaper Ordinance and prosecution of editors.</p>\n<h4>2. Trade Unions</h4>\n<p>Michael Imoudu, 'Labour Leader Number One', and the Nigerian Union of Railwaymen mobilised workers; the 1945 general strike and later actions linked economic grievance to political demand. Unions supplied organisation, funds and mass membership to nationalist parties.</p>\n<h4>3. Steps to Independence</h4>\n<ol>\n<li><b>1951</b> Macpherson Constitution: ministers and regional legislatures.</li><li><b>1953</b> Enahoro self-government motion; London Conference.</li><li><b>1954</b> Lyttelton federal constitution.</li><li><b>1957</b> Internal self-government for East and West; Balewa becomes Prime Minister of the federation; Willink Commission on minorities.</li><li><b>1958</b> London Conference fixes independence for 1960; Willink reports, recommending a bill of rights instead of new states.</li><li><b>1959</b> Northern self-government; federal elections in December — NPC 134, NCNC 89, AG 73 seats, leading to an NPC/NCNC coalition.</li><li><b>1 October 1960</b> Independence, with Balewa as Prime Minister and Azikiwe as Governor-General.</li><li><b>1963</b> Republic declared.</li></ol>\n<h4>4. Problems of the Nationalists</h4>\n<ul><li>Ethnic and regional rivalry among parties and leaders.</li><li>Colonial repression: sedition laws, detentions, bans.</li><li>Illiteracy and rural apathy.</li><li>Shortage of funds.</li><li>Different pace of political development between North and South.</li><li>Divide-and-rule tactics and the co-option of traditional rulers.</li></ul>\n",
+      "html": "\n<h4>1. The Nationalist Press</h4>\n<table class=\"tb-table\">\n<tr><th>Newspaper</th><th>Year</th><th>Founder</th></tr>\n<tr><td>Iwe Irohin</td><td>1859</td><td>Rev. Henry Townsend (first Nigerian newspaper)</td></tr>\n<tr><td>Lagos Weekly Record</td><td>1891</td><td>John Payne Jackson</td></tr>\n<tr><td>Lagos Daily News</td><td>1925</td><td>Herbert Macaulay</td></tr>\n<tr><td>West African Pilot</td><td>1937</td><td>Nnamdi Azikiwe</td></tr>\n<tr><td>Nigerian Tribune</td><td>1949</td><td>Obafemi Awolowo</td></tr>\n</table>\n<p>The press exposed colonial abuses, articulated demands, unified opinion across regions and trained political leaders. Colonial responses included sedition laws, the Newspaper Ordinance and prosecution of editors.</p>\n<h4>2. Trade Unions</h4>\n<p>Michael Imoudu, 'Labour Leader Number One', and the Nigerian Union of Railwaymen mobilised workers; the 1945 general strike and later actions linked economic grievance to political demand. Unions supplied organisation, funds and mass membership to nationalist parties.</p>\n<h4>3. Steps to Independence</h4>\n<ol>\n<li><b>1951</b> Macpherson Constitution: ministers and regional legislatures.</li><li><b>1953</b> Enahoro self-government motion; London Conference.</li><li><b>1954</b> Lyttelton federal constitution.</li><li><b>1957</b> Internal self-government for East and West; Balewa becomes Prime Minister of the federation; Willink Commission on minorities.</li><li><b>1958</b> London Conference fixes independence for 1960; Willink reports, recommending a bill of rights instead of new states.</li><li><b>1959</b> Northern self-government; federal elections in December \u2014 NPC 134, NCNC 89, AG 73 seats, leading to an NPC/NCNC coalition.</li><li><b>1 October 1960</b> Independence, with Balewa as Prime Minister and Azikiwe as Governor-General.</li><li><b>1963</b> Republic declared.</li></ol>\n<h4>4. Problems of the Nationalists</h4>\n<ul><li>Ethnic and regional rivalry among parties and leaders.</li><li>Colonial repression: sedition laws, detentions, bans.</li><li>Illiteracy and rural apathy.</li><li>Shortage of funds.</li><li>Different pace of political development between North and South.</li><li>Divide-and-rule tactics and the co-option of traditional rulers.</li></ul>\n",
       "examples": [
         {
           "q": "Assess the contribution of Herbert Macaulay to Nigerian nationalism.",
@@ -37,7 +37,55 @@
         },
         {
           "q": "Why did the 1959 federal election produce a coalition government?",
-          "a": "No party won an overall majority in the 312-seat House: the NPC took about 134 seats, the NCNC 89 and the AG 73, because each party's strength was concentrated in its home region. Government formation therefore required agreement between two of them; the NPC and NCNC formed a coalition with Balewa as Prime Minister and Azikiwe as Governor-General, leaving the AG as opposition — a regional arithmetic that shaped and destabilised the First Republic."
+          "a": "No party won an overall majority in the 312-seat House: the NPC took about 134 seats, the NCNC 89 and the AG 73, because each party's strength was concentrated in its home region. Government formation therefore required agreement between two of them; the NPC and NCNC formed a coalition with Balewa as Prime Minister and Azikiwe as Governor-General, leaving the AG as opposition \u2014 a regional arithmetic that shaped and destabilised the First Republic."
+        }
+      ]
+    },
+    {
+      "title": "Factors that promoted nationalism",
+      "html": "<p><b>Factors that promoted nationalism</b> is a key part of Nationalism and the Road to Independence (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning and Phases Nationalism is the desire and struggle of a people for self-determination and freedom from foreign rule.</li><li>Nigerian nationalism passed through three broad phases: an early elitist phase (1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence.</li><li>Factors that Promoted Nationalism Western education \u2014 produced a class exposed to ideas of liberty, self-determination and democracy.</li></ul><h4>Worked example</h4><p><b>Q:</b> The father of Nigerian nationalism is:<br/><b>A:</b> Herbert Macaulay \u2014 Macaulay pioneered organised nationalist politics from 1923.</p><p><b>Q:</b> Nigerian ex-servicemen contributed to nationalism because they:<br/><b>A:</b> Returned questioning white supremacy \u2014 Wartime experience abroad undermined the myth of European invincibility.</p>",
+      "examples": [
+        {
+          "q": "The father of Nigerian nationalism is:",
+          "a": "Herbert Macaulay \u2014 Macaulay pioneered organised nationalist politics from 1923."
+        },
+        {
+          "q": "Nigerian ex-servicemen contributed to nationalism because they:",
+          "a": "Returned questioning white supremacy \u2014 Wartime experience abroad undermined the myth of European invincibility."
+        }
+      ]
+    },
+    {
+      "title": "Early nationalist organisations and leaders",
+      "html": "<p><b>Early nationalist organisations and leaders</b> is a key part of Nationalism and the Road to Independence (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Nigerian nationalism passed through three broad phases: an early elitist phase (1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence.</li><li>The nationalist press \u2014 the most effective mobilising instrument.</li><li>Early Organisations Year Organisation Leaders 1908 People's Union Dr John Randle, Dr Orisadipe Obasa 1920 National Congress of British West Africa Casely Hayford, Herbert Macaulay's allies 1923 Nigerian National Democratic Party Herbert Macaulay 1934/36 Lagos Youth Movement / Nigerian Youth Movement Ernest Ikoli, H.</li><li>The Nationalist Press Newspaper Year Founder Iwe Irohin 1859 Rev.</li><li>Henry Townsend (first Nigerian newspaper) Lagos Weekly Record 1891 John Payne Jackson Lagos Daily News 1925 Herbert Macaulay West African Pilot 1937 Nnamdi Azikiwe Nigerian Tribune 1949 Obafemi Awolowo The press exposed colonial abuses, articulated demands, unified opinion across regions and trained political leaders.</li></ul><h4>Worked example</h4><p><b>Q:</b> The father of Nigerian nationalism is:<br/><b>A:</b> Herbert Macaulay \u2014 Macaulay pioneered organised nationalist politics from 1923.</p>",
+      "examples": [
+        {
+          "q": "The father of Nigerian nationalism is:",
+          "a": "Herbert Macaulay \u2014 Macaulay pioneered organised nationalist politics from 1923."
+        }
+      ]
+    },
+    {
+      "title": "Pan-Africanism and external influences",
+      "html": "<p><b>Pan-Africanism and external influences</b> is a key part of Nationalism and the Road to Independence (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Pan-Africanism \u2014 the Manchester Congress of 1945 (Nkrumah, Kenyatta, Du Bois, Padmore) and the ideas of Marcus Garvey.</li><li>The fifth Pan-African Congress of 1945 demanded African independence.</li></ul><h4>Worked example</h4><p><b>Q:</b> The Manchester Pan-African Congress held in:<br/><b>A:</b> 1945 \u2014 The fifth Pan-African Congress of 1945 demanded African independence.</p><h4>More key points</h4><ul><li>The Manchester Pan-African Congress held in: \u2014 1945.</li></ul>",
+      "examples": [
+        {
+          "q": "The Manchester Pan-African Congress held in:",
+          "a": "1945 \u2014 The fifth Pan-African Congress of 1945 demanded African independence."
+        }
+      ]
+    },
+    {
+      "title": "Problems faced by nationalists",
+      "html": "<p><b>Problems faced by nationalists</b> is a key part of Nationalism and the Road to Independence (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Problems of the Nationalists Ethnic and regional rivalry among parties and leaders.</li><li>Ghana's success under Nkrumah encouraged Nigerian nationalists.</li></ul><h4>Worked example</h4><p><b>Q:</b> Ghana's independence in 1957 influenced Nigeria by:<br/><b>A:</b> Proving decolonisation achievable \u2014 Ghana's success under Nkrumah encouraged Nigerian nationalists.</p><p><b>Q:</b> A major internal problem of Nigerian nationalists was:<br/><b>A:</b> Ethnic and regional rivalry \u2014 Regional parties competed rather than presenting a united front.</p>",
+      "examples": [
+        {
+          "q": "Ghana's independence in 1957 influenced Nigeria by:",
+          "a": "Proving decolonisation achievable \u2014 Ghana's success under Nkrumah encouraged Nigerian nationalists."
+        },
+        {
+          "q": "A major internal problem of Nigerian nationalists was:",
+          "a": "Ethnic and regional rivalry \u2014 Regional parties competed rather than presenting a united front."
         }
       ]
     }
@@ -52,7 +100,9 @@
         "Ahmadu Bello"
       ],
       "answer": 0,
-      "solution": "Macaulay pioneered organised nationalist politics from 1923."
+      "solution": "Macaulay pioneered organised nationalist politics from 1923.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The West African Pilot was established in:",
@@ -63,7 +113,9 @@
         "1951"
       ],
       "answer": 1,
-      "solution": "Azikiwe founded the Pilot in 1937 to campaign for African rights."
+      "solution": "Azikiwe founded the Pilot in 1937 to campaign for African rights.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The first Nigerian newspaper was:",
@@ -74,7 +126,9 @@
         "Daily Times"
       ],
       "answer": 0,
-      "solution": "Iwe Irohin was published in Abeokuta from 1859 by Rev. Henry Townsend."
+      "solution": "Iwe Irohin was published in Abeokuta from 1859 by Rev. Henry Townsend.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The 1945 general strike was led by:",
@@ -85,7 +139,9 @@
         "Ernest Ikoli"
       ],
       "answer": 0,
-      "solution": "Imoudu, leader of the railway workers, headed the strike."
+      "solution": "Imoudu, leader of the railway workers, headed the strike.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Atlantic Charter was signed in:",
@@ -96,7 +152,9 @@
         "1948"
       ],
       "answer": 1,
-      "solution": "Roosevelt and Churchill signed it in 1941, affirming self-determination."
+      "solution": "Roosevelt and Churchill signed it in 1941, affirming self-determination.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The NCNC was formed in:",
@@ -107,7 +165,9 @@
         "1959"
       ],
       "answer": 1,
-      "solution": "The National Council of Nigeria and the Cameroons was formed in 1944."
+      "solution": "The National Council of Nigeria and the Cameroons was formed in 1944.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Action Group grew out of:",
@@ -118,7 +178,9 @@
         "NYM"
       ],
       "answer": 0,
-      "solution": "Awolowo transformed the Yoruba cultural society into a political party in 1951."
+      "solution": "Awolowo transformed the Yoruba cultural society into a political party in 1951.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "NEPU was founded by:",
@@ -129,7 +191,9 @@
         "J. S. Tarka"
       ],
       "answer": 0,
-      "solution": "The Northern Elements Progressive Union was a radical Northern party led by Aminu Kano."
+      "solution": "The Northern Elements Progressive Union was a radical Northern party led by Aminu Kano.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Willink Commission reported in:",
@@ -140,7 +204,9 @@
         "1963"
       ],
       "answer": 1,
-      "solution": "It recommended a bill of rights rather than the creation of more regions."
+      "solution": "It recommended a bill of rights rather than the creation of more regions.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The 1958 London Conference fixed independence for:",
@@ -151,7 +217,9 @@
         "1962"
       ],
       "answer": 1,
-      "solution": "Independence was agreed for 1 October 1960."
+      "solution": "Independence was agreed for 1 October 1960.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which party won the largest number of seats in the 1959 federal election?",
@@ -162,7 +230,9 @@
         "NEPU"
       ],
       "answer": 2,
-      "solution": "The NPC won about 134 seats and formed a coalition with the NCNC."
+      "solution": "The NPC won about 134 seats and formed a coalition with the NCNC.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Manchester Pan-African Congress held in:",
@@ -173,7 +243,9 @@
         "1963"
       ],
       "answer": 1,
-      "solution": "The fifth Pan-African Congress of 1945 demanded African independence."
+      "solution": "The fifth Pan-African Congress of 1945 demanded African independence.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Ghana's independence in 1957 influenced Nigeria by:",
@@ -184,7 +256,9 @@
         "Banning parties"
       ],
       "answer": 0,
-      "solution": "Ghana's success under Nkrumah encouraged Nigerian nationalists."
+      "solution": "Ghana's success under Nkrumah encouraged Nigerian nationalists.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Colonial governments countered the press with:",
@@ -195,7 +269,9 @@
         "Public subsidies"
       ],
       "answer": 0,
-      "solution": "Editors were prosecuted and papers banned under sedition provisions."
+      "solution": "Editors were prosecuted and papers banned under sedition provisions.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A major internal problem of Nigerian nationalists was:",
@@ -206,7 +282,9 @@
         "Absence of colonial rule"
       ],
       "answer": 0,
-      "solution": "Regional parties competed rather than presenting a united front."
+      "solution": "Regional parties competed rather than presenting a united front.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nigerian ex-servicemen contributed to nationalism because they:",
@@ -217,7 +295,451 @@
         "Emigrated permanently"
       ],
       "answer": 0,
-      "solution": "Wartime experience abroad undermined the myth of European invincibility."
+      "solution": "Wartime experience abroad undermined the myth of European invincibility.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of the following correctly describes Nationalism?",
+      "options": [
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "(1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule"
+      ],
+      "answer": 3,
+      "solution": "Nationalism: is the desire and struggle of a people for self-determination and freedom from foreign rule",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes early elitist phase?",
+      "options": [
+        "(1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence"
+      ],
+      "answer": 2,
+      "solution": "early elitist phase: (1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes constitutional phase?",
+      "options": [
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "(1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio"
+      ],
+      "answer": 2,
+      "solution": "constitutional phase: (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes mass phase?",
+      "options": [
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "(1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio"
+      ],
+      "answer": 1,
+      "solution": "mass phase: (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Western education?",
+      "options": [
+        "\u2014 produced a class exposed to ideas of liberty, self-determination and democracy",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence"
+      ],
+      "answer": 0,
+      "solution": "Western education: \u2014 produced a class exposed to ideas of liberty, self-determination and democracy",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes The Second World War (1939\u201345)?",
+      "options": [
+        "\u2014 Nigerian ex-servicemen who fought in Burma and India saw whites defeated and returned questioning colonial superiority",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule"
+      ],
+      "answer": 0,
+      "solution": "The Second World War (1939\u201345): \u2014 Nigerian ex-servicemen who fought in Burma and India saw whites defeated and returned questioning colonial superiority",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes The Atlantic Charter (1941)?",
+      "options": [
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "\u2014 Roosevelt and Churchill affirmed the right of all peoples to choose their government",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio"
+      ],
+      "answer": 1,
+      "solution": "The Atlantic Charter (1941): \u2014 Roosevelt and Churchill affirmed the right of all peoples to choose their government",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes The United Nations Charter (1945)?",
+      "options": [
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "\u2014 endorsed self-determination and trusteeship",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio"
+      ],
+      "answer": 2,
+      "solution": "The United Nations Charter (1945): \u2014 endorsed self-determination and trusteeship",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Pan-Africanism?",
+      "options": [
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "\u2014 the Manchester Congress of 1945 (Nkrumah, Kenyatta, Du Bois, Padmore) and the ideas of Marcus Garvey"
+      ],
+      "answer": 3,
+      "solution": "Pan-Africanism: \u2014 the Manchester Congress of 1945 (Nkrumah, Kenyatta, Du Bois, Padmore) and the ideas of Marcus Garvey",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Independence of India and Pakistan (1947)?",
+      "options": [
+        "and later Ghana (1957) \u2014 proved decolonisation possible",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio"
+      ],
+      "answer": 0,
+      "solution": "Independence of India and Pakistan (1947): and later Ghana (1957) \u2014 proved decolonisation possible",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Racial discrimination?",
+      "options": [
+        "in the colonial service, salaries and social life",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence"
+      ],
+      "answer": 0,
+      "solution": "Racial discrimination: in the colonial service, salaries and social life",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Economic exploitation?",
+      "options": [
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "\u2014 marketing boards, expatriate control of trade, and the 1945 general strike over wages",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence"
+      ],
+      "answer": 2,
+      "solution": "Economic exploitation: \u2014 marketing boards, expatriate control of trade, and the 1945 general strike over wages",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Improved communications?",
+      "options": [
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "\u2014 railways, roads, telegraph and newspapers created a national arena",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule"
+      ],
+      "answer": 2,
+      "solution": "Improved communications: \u2014 railways, roads, telegraph and newspapers created a national arena",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes The nationalist press?",
+      "options": [
+        "\u2014 the most effective mobilising instrument",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule"
+      ],
+      "answer": 0,
+      "solution": "The nationalist press: \u2014 the most effective mobilising instrument",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes 1951?",
+      "options": [
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "Macpherson Constitution: ministers and regional legislatures",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule"
+      ],
+      "answer": 1,
+      "solution": "1951: Macpherson Constitution: ministers and regional legislatures",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes 1953?",
+      "options": [
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "Enahoro self-government motion; London Conference",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence"
+      ],
+      "answer": 2,
+      "solution": "1953: Enahoro self-government motion; London Conference",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes 1954?",
+      "options": [
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "Lyttelton federal constitution",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence"
+      ],
+      "answer": 1,
+      "solution": "1954: Lyttelton federal constitution",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes 1957?",
+      "options": [
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "Internal self-government for East and West; Balewa becomes Prime Minister of the federation; Willink Commission on minorities",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence"
+      ],
+      "answer": 2,
+      "solution": "1957: Internal self-government for East and West; Balewa becomes Prime Minister of the federation; Willink Commission on minorities",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes 1958?",
+      "options": [
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "London Conference fixes independence for 1960; Willink reports, recommending a bill of rights instead of new states",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence"
+      ],
+      "answer": 1,
+      "solution": "1958: London Conference fixes independence for 1960; Willink reports, recommending a bill of rights instead of new states",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes 1959?",
+      "options": [
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "Northern self-government; federal elections in December \u2014 NPC 134, NCNC 89, AG 73 seats, leading to an NPC/NCNC coalition"
+      ],
+      "answer": 3,
+      "solution": "1959: Northern self-government; federal elections in December \u2014 NPC 134, NCNC 89, AG 73 seats, leading to an NPC/NCNC coalition",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes 1 October 1960?",
+      "options": [
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "Independence, with Balewa as Prime Minister and Azikiwe as Governor-General",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio"
+      ],
+      "answer": 1,
+      "solution": "1 October 1960: Independence, with Balewa as Prime Minister and Azikiwe as Governor-General",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes 1963?",
+      "options": [
+        "Republic declared",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule"
+      ],
+      "answer": 0,
+      "solution": "1963: Republic declared",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Factors that promoted nationalism?",
+      "options": [
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "is a key part of Nationalism and the Road to Independence (SSS 3, Government)",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio"
+      ],
+      "answer": 2,
+      "solution": "Factors that promoted nationalism: is a key part of Nationalism and the Road to Independence (SSS 3, Government)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Early nationalist organisations and leaders?",
+      "options": [
+        "is a key part of Nationalism and the Road to Independence (SSS 3, Government)",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence"
+      ],
+      "answer": 0,
+      "solution": "Early nationalist organisations and leaders: is a key part of Nationalism and the Road to Independence (SSS 3, Government)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Pan-Africanism and external influences?",
+      "options": [
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "is a key part of Nationalism and the Road to Independence (SSS 3, Government)",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio"
+      ],
+      "answer": 1,
+      "solution": "Pan-Africanism and external influences: is a key part of Nationalism and the Road to Independence (SSS 3, Government)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Problems faced by nationalists?",
+      "options": [
+        "is the desire and struggle of a people for self-determination and freedom from foreign rule",
+        "(1900\u20131922) of petitions by Lagos lawyers and merchants; a constitutional phase (1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of natio",
+        "(1923\u20131944) of parties and press agitation for representation; and a mass phase (1944\u20131960) of nationwide parties, strikes and demands for full independence",
+        "is a key part of Nationalism and the Road to Independence (SSS 3, Government)"
+      ],
+      "answer": 3,
+      "solution": "Problems faced by nationalists: is a key part of Nationalism and the Road to Independence (SSS 3, Government)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Growth of Nigerian Nationalism in Nationalism and the Road to Independence?",
+      "options": [
+        "The father of Nigerian nationalism is: \u2014 Herbert Macaulay.",
+        "What is a \u2018Constitution\u2019 \u2014 A body of fundamental principles and laws.",
+        "The Organization of African Unity (OAU) was replaced by the African Union (AU) in... \u2014 2002.",
+        "What is \u2018Political Culture\u2019 \u2014 Patterns of orientation toward political action and belief."
+      ],
+      "answer": 0,
+      "solution": "The father of Nigerian nationalism is: \u2014 Herbert Macaulay.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about The Press, Trade Unions and the Transfer of Power in Nationalism and the Road to Independence?",
+      "options": [
+        "The father of Nigerian nationalism is: \u2014 Herbert Macaulay.",
+        "The Organization of African Unity (OAU) was replaced by the African Union (AU) in... \u2014 2002.",
+        "What is a \u2018Constitution\u2019 \u2014 A body of fundamental principles and laws.",
+        "What is \u2018Political Culture\u2019 \u2014 Patterns of orientation toward political action and belief."
+      ],
+      "answer": 0,
+      "solution": "The father of Nigerian nationalism is: \u2014 Herbert Macaulay.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Factors that promoted nationalism in Nationalism and the Road to Independence?",
+      "options": [
+        "What is a \u2018Constitution\u2019 \u2014 A body of fundamental principles and laws.",
+        "The father of Nigerian nationalism is: \u2014 Herbert Macaulay.",
+        "What is \u2018Political Culture\u2019 \u2014 Patterns of orientation toward political action and belief.",
+        "The Organization of African Unity (OAU) was replaced by the African Union (AU) in... \u2014 2002."
+      ],
+      "answer": 1,
+      "solution": "The father of Nigerian nationalism is: \u2014 Herbert Macaulay.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Early nationalist organisations and leaders in Nationalism and the Road to Independence?",
+      "options": [
+        "What is a \u2018Constitution\u2019 \u2014 A body of fundamental principles and laws.",
+        "What is \u2018Political Culture\u2019 \u2014 Patterns of orientation toward political action and belief.",
+        "The father of Nigerian nationalism is: \u2014 Herbert Macaulay.",
+        "The Organization of African Unity (OAU) was replaced by the African Union (AU) in... \u2014 2002."
+      ],
+      "answer": 2,
+      "solution": "The father of Nigerian nationalism is: \u2014 Herbert Macaulay.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Pan-Africanism and external influences in Nationalism and the Road to Independence?",
+      "options": [
+        "What is \u2018Political Culture\u2019 \u2014 Patterns of orientation toward political action and belief.",
+        "The Organization of African Unity (OAU) was replaced by the African Union (AU) in... \u2014 2002.",
+        "What is a \u2018Constitution\u2019 \u2014 A body of fundamental principles and laws.",
+        "The father of Nigerian nationalism is: \u2014 Herbert Macaulay."
+      ],
+      "answer": 3,
+      "solution": "The father of Nigerian nationalism is: \u2014 Herbert Macaulay.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Problems faced by nationalists in Nationalism and the Road to Independence?",
+      "options": [
+        "The father of Nigerian nationalism is: \u2014 Herbert Macaulay.",
+        "What is a \u2018Constitution\u2019 \u2014 A body of fundamental principles and laws.",
+        "What is \u2018Political Culture\u2019 \u2014 Patterns of orientation toward political action and belief.",
+        "The Organization of African Unity (OAU) was replaced by the African Union (AU) in... \u2014 2002."
+      ],
+      "answer": 0,
+      "solution": "The father of Nigerian nationalism is: \u2014 Herbert Macaulay.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Nationalism and the Road to Independence \u2014 'father'?",
+      "options": [
+        "The Organization of African Unity (OAU) was replaced by the African Union (AU) in... \u2014 2002.",
+        "What is \u2018Political Culture\u2019 \u2014 Patterns of orientation toward political action and belief.",
+        "What is a \u2018Constitution\u2019 \u2014 A body of fundamental principles and laws.",
+        "The father of Nigerian nationalism is: \u2014 Herbert Macaulay."
+      ],
+      "answer": 3,
+      "solution": "The father of Nigerian nationalism is: \u2014 Herbert Macaulay.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Nationalism and the Road to Independence \u2014 'west'?",
+      "options": [
+        "The Organization of African Unity (OAU) was replaced by the African Union (AU) in... \u2014 2002.",
+        "What is a \u2018Constitution\u2019 \u2014 A body of fundamental principles and laws.",
+        "What is \u2018Political Culture\u2019 \u2014 Patterns of orientation toward political action and belief.",
+        "The West African Pilot was established in: \u2014 1937."
+      ],
+      "answer": 3,
+      "solution": "The West African Pilot was established in: \u2014 1937.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
     }
   ]
 }

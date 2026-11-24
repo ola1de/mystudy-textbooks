@@ -1,0 +1,737 @@
+{
+  "subject": "Further Mathematics",
+  "level": "SSS 2",
+  "slug": "matrices-advanced",
+  "title": "Matrices and Determinants",
+  "outline": [
+    "Introduction to Matrices and Determinants",
+    "Key facts about Matrices and Determinants",
+    "Important terms and examples in Matrices and Determinants",
+    "Importance and application of Matrices and Determinants",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Matrices and Determinants",
+      "html": "<p>Matrix operations, inverses and solving simultaneous equations. This section covers introduction to matrices and determinants.</p><h4>Key points</h4><ul><li>If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ ?<br/><b>A:</b> $$I$$ \u2014 Past question (JAMB 2022). Correct answer: $$I$$.</p><p><b>Q:</b> Find the unit vector parallel to $$ \\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j} $$.<br/><b>A:</b> $$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$ \u2014 Past question (JAMB 2021). Correct answer: $$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$.</p><h4>More key points</h4><ul><li>If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.</li></ul>",
+      "examples": [
+        {
+          "q": "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ ?",
+          "a": "$$I$$"
+        },
+        {
+          "q": "Find the unit vector parallel to $$ \\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j} $$.",
+          "a": "$$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Matrices and Determinants",
+      "html": "<p>Matrix operations, inverses and solving simultaneous equations. This section covers key facts about matrices and determinants.</p><h4>Key points</h4><ul><li>If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ ?<br/><b>A:</b> $$I$$ \u2014 Past question (JAMB 2022). Correct answer: $$I$$.</p><p><b>Q:</b> Find the unit vector parallel to $$ \\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j} $$.<br/><b>A:</b> $$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$ \u2014 Past question (JAMB 2021). Correct answer: $$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$.</p><h4>More key points</h4><ul><li>If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.</li></ul>",
+      "examples": [
+        {
+          "q": "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ ?",
+          "a": "$$I$$"
+        },
+        {
+          "q": "Find the unit vector parallel to $$ \\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j} $$.",
+          "a": "$$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Matrices and Determinants",
+      "html": "<p>Matrix operations, inverses and solving simultaneous equations. This section covers important terms and examples in matrices and determinants.</p><h4>Key points</h4><ul><li>If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ ?<br/><b>A:</b> $$I$$ \u2014 Past question (JAMB 2022). Correct answer: $$I$$.</p><p><b>Q:</b> Find the unit vector parallel to $$ \\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j} $$.<br/><b>A:</b> $$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$ \u2014 Past question (JAMB 2021). Correct answer: $$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$.</p><h4>More key points</h4><ul><li>If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.</li></ul>",
+      "examples": [
+        {
+          "q": "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ ?",
+          "a": "$$I$$"
+        },
+        {
+          "q": "Find the unit vector parallel to $$ \\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j} $$.",
+          "a": "$$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Matrices and Determinants",
+      "html": "<p>Matrix operations, inverses and solving simultaneous equations. This section covers importance and application of matrices and determinants.</p><h4>Key points</h4><ul><li>If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ ?<br/><b>A:</b> $$I$$ \u2014 Past question (JAMB 2022). Correct answer: $$I$$.</p><p><b>Q:</b> Find the unit vector parallel to $$ \\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j} $$.<br/><b>A:</b> $$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$ \u2014 Past question (JAMB 2021). Correct answer: $$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$.</p><h4>More key points</h4><ul><li>If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.</li></ul>",
+      "examples": [
+        {
+          "q": "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ ?",
+          "a": "$$I$$"
+        },
+        {
+          "q": "Find the unit vector parallel to $$ \\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j} $$.",
+          "a": "$$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Matrix operations, inverses and solving simultaneous equations. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ ?<br/><b>A:</b> $$I$$ \u2014 Past question (JAMB 2022). Correct answer: $$I$$.</p><p><b>Q:</b> Find the unit vector parallel to $$ \\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j} $$.<br/><b>A:</b> $$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$ \u2014 Past question (JAMB 2021). Correct answer: $$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$.</p>",
+      "examples": [
+        {
+          "q": "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ ?",
+          "a": "$$I$$"
+        },
+        {
+          "q": "Find the unit vector parallel to $$ \\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j} $$.",
+          "a": "$$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ ?",
+      "options": [
+        "$$0$$",
+        "$$I$$",
+        "$$A$$",
+        "$$B$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$I$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the unit vector parallel to $$ \\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j} $$.",
+      "options": [
+        "$$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$",
+        "$$ 3\\mathbf{i} - 4\\mathbf{j} $$",
+        "$$ 5(\\mathbf{i} + \\mathbf{j}) $$",
+        "$$ \\mathbf{i} - \\mathbf{j} $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Particle moves $$ s = t^3 - 3t^2 $$. Find velocity at $$ t=3 $$.",
+      "options": [
+        "9",
+        "0",
+        "3",
+        "27"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 9.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Integrate $$ \\cos x $$.",
+      "options": [
+        "$$ \\sin x + c $$",
+        "$$ -\\sin x + c $$",
+        "$$ \\cos x + c $$",
+        "$$ -\\cos x + c $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ \\sin x + c $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Correlation $$ r = -1 $$ means:",
+      "options": [
+        "Perfect negative",
+        "Perfect positive",
+        "No correlation",
+        "Weak"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Perfect negative.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Polynomial factor $$ (x-2) $$ means $$ P(2) $$ is:",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "-1"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 0.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Area under velocity-time graph is:",
+      "options": [
+        "Distance",
+        "Acceleration",
+        "Force",
+        "Power"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Distance.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "If $$\\alpha$$ and $$\\beta$$ are roots of $$2x^2 - 3x + 4 = 0$$, find $$\\alpha + \\beta$$.",
+      "options": [
+        "$$1.5$$",
+        "$$-1.5$$",
+        "$$2$$",
+        "$$-2$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$1.5$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Simplify $$\\frac{1 - \\tan^2 \\theta}{1 + \\tan^2 \\theta}$$.",
+      "options": [
+        "$$\\cos 2\\theta$$",
+        "$$\\sin 2\\theta$$",
+        "$$\\tan 2\\theta$$",
+        "$$1$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$\\cos 2\\theta$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the slope of the tangent to $$y = x^3$$ at $$x = -1$$.",
+      "options": [
+        "$$-1$$",
+        "$$-3$$",
+        "$$3$$",
+        "$$1$$"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: $$3$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the centre of the circle given by the equation $$x^2 + y^2 - 4x + 6y - 12 = 0$$.",
+      "options": [
+        "$$(2, -3)$$",
+        "$$(-2, 3)$$",
+        "$$(2, 3)$$",
+        "$$(-2, -3)$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$(2, -3)$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "A body of mass 5kg is acted upon by forces $$\\mathbf{F_1} = (2\\mathbf{i} + 5\\mathbf{j})N$$ and $$\\mathbf{F_2} = (3\\mathbf{i} - 10\\mathbf{j})N$$. Find the magnitude of the acceleration.",
+      "options": [
+        "$$\\sqrt{2} m/s^2$$",
+        "$$5\\sqrt{2} m/s^2$$",
+        "$$2\\sqrt{2} m/s^2$$",
+        "$$1 m/s^2$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$\\sqrt{2} m/s^2$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Two forces of 30N and 40N act at right angles. Determine the magnitude of the resultant force.",
+      "options": [
+        "$$50N$$",
+        "$$70N$$",
+        "$$10N$$",
+        "$$35N$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$50N$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Calculate the work done by a force $$\\mathbf{F} = (3\\mathbf{i} + 4\\mathbf{j})N$$ moving a particle from point $$(1, 2)$$ to $$(4, 6)$$.",
+      "options": [
+        "$$25J$$",
+        "$$20J$$",
+        "$$50J$$",
+        "$$15J$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$25J$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the value of $k$ if the lines $3x - y = 5$ and $kx + 2y = 8$ are perpendicular.",
+      "options": [
+        "$2/3$",
+        "$-2/3$",
+        "$-3/2$",
+        "$1/6$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $2/3$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Differentiate $y = e^{3x}$ with respect to $x$.",
+      "options": [
+        "$3e^{3x}$",
+        "$e^{3x}$",
+        "$\\\\frac{1}{3}e^{3x}$",
+        "$3x e^{3x-1}$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $3e^{3x}$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "If $f(x) = 3x - 1$, find $f^{-1}(x)$.",
+      "options": [
+        "$(x+1)/3$",
+        "$3x+1$",
+        "$x/3 + 1$",
+        "$-3x+1$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $(x+1)/3$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "A particle moves with velocity $$ v = (3t^2 - 2t) m/s $$. Find acceleration at $$ t=2s $$.",
+      "options": [
+        "10",
+        "12",
+        "8",
+        "6"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: 10.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The inverse of matrix $$ \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix} $$ is multiplied by:",
+      "options": [
+        "$$ -\\frac{1}{2} $$",
+        "$$ \\frac{1}{2} $$",
+        "2",
+        "-2"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ -\\frac{1}{2} $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Find the geometric mean of 4 and 16.",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "64"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: 8.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Differentiation of a constant is:",
+      "options": [
+        "1",
+        "0",
+        "x",
+        "Undefined"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: 0.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Variance 1,2,3:",
+      "options": [
+        "0.67",
+        "1",
+        "0",
+        "2"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 0.67.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Sum Inf GP 1, 0.5:",
+      "options": [
+        "2",
+        "1.5",
+        "1",
+        "3"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 2.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "GM 2, 8:",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "10"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 4.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Int Reverse:",
+      "options": [
+        "Diff",
+        "Alg",
+        "Trig",
+        "Geom"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Diff.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Find the unit vector parallel to $$ \\mathbf{r} = 5\\mathbf{i} + 12\\mathbf{j} $$.",
+      "options": [
+        "$$ \\frac{1}{13}(5\\mathbf{i}+12\\mathbf{j}) $$",
+        "$$ 5\\mathbf{i}+12\\mathbf{j} $$",
+        "$$ \\frac{1}{17}(5\\mathbf{i}+12\\mathbf{j}) $$",
+        "$$ 13(5\\mathbf{i}+12\\mathbf{j}) $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ \\frac{1}{13}(5\\mathbf{i}+12\\mathbf{j}) $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Resultant of 5N and 12N at $$ 90^\\circ $$.",
+      "options": [
+        "13N",
+        "17N",
+        "7N",
+        "60N"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 13N.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Polynomial factor $$ (x-a) $$ means $$ P(a) $$ is:",
+      "options": [
+        "0",
+        "1",
+        "a",
+        "-a"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 0.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "If $$ f(x) = \\sqrt{x} $$, domain is:",
+      "options": [
+        "$$ x \\ge 0 $$",
+        "$$ x > 0 $$",
+        "$$ x \\le 0 $$",
+        "All Reals"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ x \\ge 0 $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Matrices and Determinants in Matrices and Determinants?",
+      "options": [
+        "Binomial distribution parameters: \u2014 n and p.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$."
+      ],
+      "answer": 3,
+      "solution": "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Matrices and Determinants in Matrices and Determinants?",
+      "options": [
+        "Binomial distribution parameters: \u2014 n and p.",
+        "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.",
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0)."
+      ],
+      "answer": 1,
+      "solution": "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Matrices and Determinants in Matrices and Determinants?",
+      "options": [
+        "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.",
+        "Binomial distribution parameters: \u2014 n and p.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$."
+      ],
+      "answer": 0,
+      "solution": "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Matrices and Determinants in Matrices and Determinants?",
+      "options": [
+        "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Binomial distribution parameters: \u2014 n and p.",
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$."
+      ],
+      "answer": 0,
+      "solution": "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Matrices and Determinants?",
+      "options": [
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "Binomial distribution parameters: \u2014 n and p.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$."
+      ],
+      "answer": 3,
+      "solution": "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'inverse'?",
+      "options": [
+        "Binomial distribution parameters: \u2014 n and p.",
+        "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$."
+      ],
+      "answer": 1,
+      "solution": "If matrices $$A$$ and $$B$$ are inverse to each other, then $$AB =$$ \u2014 $$I$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'find'?",
+      "options": [
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Product of roots of $$ ax^2+bx+c=0 $$: \u2014 $$ c/a $$.",
+        "Binomial distribution parameters: \u2014 n and p.",
+        "Find the unit vector parallel to $$ \\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j} $$. \u2014 $$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$."
+      ],
+      "answer": 3,
+      "solution": "Find the unit vector parallel to $$ \\mathbf{a} = 3\\mathbf{i} - 4\\mathbf{j} $$. \u2014 $$ 0.6\\mathbf{i} - 0.8\\mathbf{j} $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'particle'?",
+      "options": [
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Particle moves $$ s = t^3 - 3t^2 $$. Find velocity at $$ t=3 $$. \u2014 9.",
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "Binomial distribution parameters: \u2014 n and p."
+      ],
+      "answer": 1,
+      "solution": "Particle moves $$ s = t^3 - 3t^2 $$. Find velocity at $$ t=3 $$. \u2014 9.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'integrate'?",
+      "options": [
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Integrate $$ \\cos x $$. \u2014 $$ \\sin x + c $$.",
+        "Binomial distribution parameters: \u2014 n and p."
+      ],
+      "answer": 2,
+      "solution": "Integrate $$ \\cos x $$. \u2014 $$ \\sin x + c $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'correlation'?",
+      "options": [
+        "Binomial distribution parameters: \u2014 n and p.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Correlation $$ r = -1 $$ means: \u2014 Perfect negative.",
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$."
+      ],
+      "answer": 2,
+      "solution": "Correlation $$ r = -1 $$ means: \u2014 Perfect negative.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'polynomial'?",
+      "options": [
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Binomial distribution parameters: \u2014 n and p.",
+        "Polynomial factor $$ (x-2) $$ means $$ P(2) $$ is: \u2014 0."
+      ],
+      "answer": 3,
+      "solution": "Polynomial factor $$ (x-2) $$ means $$ P(2) $$ is: \u2014 0.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'area'?",
+      "options": [
+        "Area under velocity-time graph is: \u2014 Distance.",
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Binomial distribution parameters: \u2014 n and p."
+      ],
+      "answer": 0,
+      "solution": "Area under velocity-time graph is: \u2014 Distance.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'alpha'?",
+      "options": [
+        "Binomial distribution parameters: \u2014 n and p.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "If $$\\alpha$$ and $$\\beta$$ are roots of $$2x^2 - 3x + 4 = 0$$, find $$\\alpha + \\beta$$. \u2014 $$1.5$$."
+      ],
+      "answer": 3,
+      "solution": "If $$\\alpha$$ and $$\\beta$$ are roots of $$2x^2 - 3x + 4 = 0$$, find $$\\alpha + \\beta$$. \u2014 $$1.5$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'simplify'?",
+      "options": [
+        "Binomial distribution parameters: \u2014 n and p.",
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "Simplify $$\\frac{1 - \\tan^2 \\theta}{1 + \\tan^2 \\theta}$$. \u2014 $$\\cos 2\\theta$$.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0)."
+      ],
+      "answer": 2,
+      "solution": "Simplify $$\\frac{1 - \\tan^2 \\theta}{1 + \\tan^2 \\theta}$$. \u2014 $$\\cos 2\\theta$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'body'?",
+      "options": [
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "Binomial distribution parameters: \u2014 n and p.",
+        "A body of mass 5kg is acted upon by forces $$\\mathbf{F_1} = (2\\mathbf{i} + 5\\mathbf{j})N$$ and $$\\mathbf{F_2} = (3\\mathbf{i} - 10\\mathbf{j})N$$. Find the magnitude of the acceleration. \u2014 $$\\sqrt{2} m/s^2$$.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0)."
+      ],
+      "answer": 2,
+      "solution": "A body of mass 5kg is acted upon by forces $$\\mathbf{F_1} = (2\\mathbf{i} + 5\\mathbf{j})N$$ and $$\\mathbf{F_2} = (3\\mathbf{i} - 10\\mathbf{j})N$$. Find the magnitude of the acceleration. \u2014 $$\\sqrt{2} m/s^2$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'forces'?",
+      "options": [
+        "Binomial distribution parameters: \u2014 n and p.",
+        "Two forces of 30N and 40N act at right angles. Determine the magnitude of the resultant force. \u2014 $$50N$$.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$."
+      ],
+      "answer": 1,
+      "solution": "Two forces of 30N and 40N act at right angles. Determine the magnitude of the resultant force. \u2014 $$50N$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'calculate'?",
+      "options": [
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Calculate the work done by a force $$\\mathbf{F} = (3\\mathbf{i} + 4\\mathbf{j})N$$ moving a particle from point $$(1, 2)$$ to $$(4, 6)$$. \u2014 $$25J$$.",
+        "Binomial distribution parameters: \u2014 n and p."
+      ],
+      "answer": 2,
+      "solution": "Calculate the work done by a force $$\\mathbf{F} = (3\\mathbf{i} + 4\\mathbf{j})N$$ moving a particle from point $$(1, 2)$$ to $$(4, 6)$$. \u2014 $$25J$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'differentiate'?",
+      "options": [
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Differentiate $y = e^{3x}$ with respect to $x$. \u2014 $3e^{3x}$.",
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "Binomial distribution parameters: \u2014 n and p."
+      ],
+      "answer": 1,
+      "solution": "Differentiate $y = e^{3x}$ with respect to $x$. \u2014 $3e^{3x}$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'differentiation'?",
+      "options": [
+        "Differentiation of a constant is: \u2014 0.",
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Binomial distribution parameters: \u2014 n and p."
+      ],
+      "answer": 0,
+      "solution": "Differentiation of a constant is: \u2014 0.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'variance'?",
+      "options": [
+        "Variance 1,2,3: \u2014 0.67.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "Binomial distribution parameters: \u2014 n and p."
+      ],
+      "answer": 0,
+      "solution": "Variance 1,2,3: \u2014 0.67.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Matrices and Determinants \u2014 'sum'?",
+      "options": [
+        "Sum Inf GP 1, 0.5: \u2014 2.",
+        "Circle Center $$ x^2+y^2-4x=0 $$: \u2014 (2,0).",
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "Binomial distribution parameters: \u2014 n and p."
+      ],
+      "answer": 0,
+      "solution": "Sum Inf GP 1, 0.5: \u2014 2.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

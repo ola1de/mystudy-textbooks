@@ -15,7 +15,7 @@
   "modules": [
     {
       "title": "Pressure Groups",
-      "html": "\n<h4>1. Meaning and Types</h4>\n<p>A <b>pressure group</b> (interest group) is an organised body of persons who seek to influence government policy in favour of their interest without seeking to control government themselves.</p>\n<table class=\"tb-table\">\n<tr><th>Type</th><th>Basis</th><th>Nigerian examples</th></tr>\n<tr><td>Occupational / economic</td><td>Work and income</td><td>NLC, TUC, NMA, NBA, NUT, MAN</td></tr>\n<tr><td>Promotional / attitude</td><td>A cause or belief</td><td>CLO, Transparency International chapters, SERAP</td></tr>\n<tr><td>Religious</td><td>Faith</td><td>CAN, JNI, NSCIA</td></tr>\n<tr><td>Ethnic / cultural</td><td>Identity</td><td>Afenifere, Ohanaeze Ndigbo, Arewa Consultative Forum</td></tr>\n<tr><td>Student / youth</td><td>Age and education</td><td>NANS, ASUU (also occupational)</td></tr>\n<tr><td>Anomic</td><td>Spontaneous, unorganised</td><td>Riots and spontaneous protests</td></tr>\n</table>\n<h4>2. Methods</h4>\n<ol><li>Lobbying legislators and officials.</li><li>Petitions, memoranda and delegations.</li><li>Public enlightenment through the media.</li><li>Strikes, boycotts, work-to-rule and picketing.</li><li>Peaceful demonstrations and rallies.</li><li>Litigation and public-interest suits.</li><li>Financial support to sympathetic candidates.</li><li>Research and expert advice to government.</li></ol>\n<h4>3. Determinants of Effectiveness</h4>\n<ul><li>Size and cohesion of membership.</li><li>Financial strength and organisation.</li><li>Quality of leadership and expertise.</li><li>Strategic importance of the group's function (doctors, oil workers).</li><li>Public sympathy for the cause.</li><li>Access to decision-makers and media.</li><li>Openness of the political system — groups are weakest under authoritarian rule.</li></ul>\n",
+      "html": "\n<h4>1. Meaning and Types</h4>\n<p>A <b>pressure group</b> (interest group) is an organised body of persons who seek to influence government policy in favour of their interest without seeking to control government themselves.</p>\n<table class=\"tb-table\">\n<tr><th>Type</th><th>Basis</th><th>Nigerian examples</th></tr>\n<tr><td>Occupational / economic</td><td>Work and income</td><td>NLC, TUC, NMA, NBA, NUT, MAN</td></tr>\n<tr><td>Promotional / attitude</td><td>A cause or belief</td><td>CLO, Transparency International chapters, SERAP</td></tr>\n<tr><td>Religious</td><td>Faith</td><td>CAN, JNI, NSCIA</td></tr>\n<tr><td>Ethnic / cultural</td><td>Identity</td><td>Afenifere, Ohanaeze Ndigbo, Arewa Consultative Forum</td></tr>\n<tr><td>Student / youth</td><td>Age and education</td><td>NANS, ASUU (also occupational)</td></tr>\n<tr><td>Anomic</td><td>Spontaneous, unorganised</td><td>Riots and spontaneous protests</td></tr>\n</table>\n<h4>2. Methods</h4>\n<ol><li>Lobbying legislators and officials.</li><li>Petitions, memoranda and delegations.</li><li>Public enlightenment through the media.</li><li>Strikes, boycotts, work-to-rule and picketing.</li><li>Peaceful demonstrations and rallies.</li><li>Litigation and public-interest suits.</li><li>Financial support to sympathetic candidates.</li><li>Research and expert advice to government.</li></ol>\n<h4>3. Determinants of Effectiveness</h4>\n<ul><li>Size and cohesion of membership.</li><li>Financial strength and organisation.</li><li>Quality of leadership and expertise.</li><li>Strategic importance of the group's function (doctors, oil workers).</li><li>Public sympathy for the cause.</li><li>Access to decision-makers and media.</li><li>Openness of the political system \u2014 groups are weakest under authoritarian rule.</li></ul>\n",
       "examples": [
         {
           "q": "Explain the leverage that the Nigeria Labour Congress exerts during a fuel-price dispute.",
@@ -23,23 +23,56 @@
         },
         {
           "q": "Distinguish anomic from associational interest groups.",
-          "a": "<b>Anomic</b> groups are spontaneous, short-lived and unstructured — a crowd that riots after a police killing. <b>Associational</b> groups such as the NBA or NMA are formally organised with a constitution, officers, dues and continuous existence, and they influence policy through regular, institutionalised channels."
+          "a": "<b>Anomic</b> groups are spontaneous, short-lived and unstructured \u2014 a crowd that riots after a police killing. <b>Associational</b> groups such as the NBA or NMA are formally organised with a constitution, officers, dues and continuous existence, and they influence policy through regular, institutionalised channels."
         }
       ]
     },
     {
       "title": "Public Opinion and the Mass Media",
-      "html": "\n<h4>1. Public Opinion</h4>\n<p><b>Public opinion</b> is the aggregate of views held by a significant proportion of the community on a matter of public concern at a particular time. To count as public opinion the view must be widely shared, publicly expressed, and about a public issue.</p>\n<h4>2. How Public Opinion is Formed</h4>\n<ul><li>Family, school and religious teaching.</li><li>Mass media reporting and commentary.</li><li>Pressure groups and political parties.</li><li>Personal experience of government performance.</li><li>Opinion leaders — traditional rulers, clerics, celebrities, columnists.</li><li>Social media discussion and viral content.</li></ul>\n<h4>3. Measurement</h4>\n<ol><li>Election and referendum results.</li><li>Scientific opinion polls and surveys using representative samples.</li><li>Media content: letters to the editor, phone-in programmes, editorials.</li><li>Public rallies, protests and turnout at meetings.</li><li>Reports of intelligence and orientation agencies.</li></ol>\n<p><b>Limitations of polls:</b> unrepresentative samples, badly worded questions, respondents concealing true intentions, rapid change of mood, low literacy, and the bandwagon effect where a published poll itself alters behaviour.</p>\n<h4>4. Functions of the Mass Media</h4>\n<ul><li>Information and news dissemination.</li><li>Education and political socialisation.</li><li>Agenda-setting: deciding which issues matter.</li><li>Surveillance and watchdog role — exposing corruption.</li><li>Providing a forum for debate and feedback.</li><li>Entertainment and cultural transmission.</li><li>Mobilisation during elections and emergencies.</li></ul>\n<p>Section 22 of the 1999 Constitution charges the press with the duty of holding government accountable to the people, while section 39 guarantees freedom of expression. Constraints include ownership bias, sedition and defamation laws, commercial pressure from advertisers, insecurity of journalists, and 'brown envelope' corruption.</p>\n",
+      "html": "\n<h4>1. Public Opinion</h4>\n<p><b>Public opinion</b> is the aggregate of views held by a significant proportion of the community on a matter of public concern at a particular time. To count as public opinion the view must be widely shared, publicly expressed, and about a public issue.</p>\n<h4>2. How Public Opinion is Formed</h4>\n<ul><li>Family, school and religious teaching.</li><li>Mass media reporting and commentary.</li><li>Pressure groups and political parties.</li><li>Personal experience of government performance.</li><li>Opinion leaders \u2014 traditional rulers, clerics, celebrities, columnists.</li><li>Social media discussion and viral content.</li></ul>\n<h4>3. Measurement</h4>\n<ol><li>Election and referendum results.</li><li>Scientific opinion polls and surveys using representative samples.</li><li>Media content: letters to the editor, phone-in programmes, editorials.</li><li>Public rallies, protests and turnout at meetings.</li><li>Reports of intelligence and orientation agencies.</li></ol>\n<p><b>Limitations of polls:</b> unrepresentative samples, badly worded questions, respondents concealing true intentions, rapid change of mood, low literacy, and the bandwagon effect where a published poll itself alters behaviour.</p>\n<h4>4. Functions of the Mass Media</h4>\n<ul><li>Information and news dissemination.</li><li>Education and political socialisation.</li><li>Agenda-setting: deciding which issues matter.</li><li>Surveillance and watchdog role \u2014 exposing corruption.</li><li>Providing a forum for debate and feedback.</li><li>Entertainment and cultural transmission.</li><li>Mobilisation during elections and emergencies.</li></ul>\n<p>Section 22 of the 1999 Constitution charges the press with the duty of holding government accountable to the people, while section 39 guarantees freedom of expression. Constraints include ownership bias, sedition and defamation laws, commercial pressure from advertisers, insecurity of journalists, and 'brown envelope' corruption.</p>\n",
       "examples": [
         {
           "q": "A poll predicts party X will win by 20% but party Y wins narrowly. Give three explanations.",
-          "a": "(i) <b>Sampling error or bias</b> — the sample may have over-represented urban or literate voters; (ii) <b>late swing</b> — opinion shifted after the poll due to a scandal or debate; (iii) <b>differential turnout</b> — party Y's supporters voted in greater proportion, or respondents concealed their true preference for fear of social disapproval."
+          "a": "(i) <b>Sampling error or bias</b> \u2014 the sample may have over-represented urban or literate voters; (ii) <b>late swing</b> \u2014 opinion shifted after the poll due to a scandal or debate; (iii) <b>differential turnout</b> \u2014 party Y's supporters voted in greater proportion, or respondents concealed their true preference for fear of social disapproval."
         },
         {
           "q": "How did the press aid nationalism in Nigeria?",
           "a": "Newspapers such as Macaulay's <i>Lagos Daily News</i> (1925) and Azikiwe's <i>West African Pilot</i> (1937) exposed colonial injustice, publicised nationalist demands, created a shared political vocabulary across ethnic lines and mobilised the urban educated elite. They turned scattered grievances into an organised movement, showing the media's agenda-setting and mobilising functions."
         }
       ]
+    },
+    {
+      "title": "Factors determining pressure group effectiveness",
+      "html": "<p><b>Factors determining pressure group effectiveness</b> is a key part of Pressure Groups and Public Opinion (SSS 2, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning and Types A pressure group (interest group) is an organised body of persons who seek to influence government policy in favour of their interest without seeking to control government themselves.</li><li>Determinants of Effectiveness Size and cohesion of membership.</li><li>Strategic importance of the group's function (doctors, oil workers).</li><li>Openness of the political system \u2014 groups are weakest under authoritarian rule.</li><li>Pressure groups and political parties.</li></ul><h4>Worked example</h4><p><b>Q:</b> A pressure group differs from a party because it:<br/><b>A:</b> Seeks to influence rather than control government \u2014 Pressure groups influence policy without seeking to form government.</p><p><b>Q:</b> Spontaneous riots represent which type of interest group?<br/><b>A:</b> Anomic \u2014 Anomic groups are unorganised and spontaneous.</p>",
+      "examples": [
+        {
+          "q": "A pressure group differs from a party because it:",
+          "a": "Seeks to influence rather than control government \u2014 Pressure groups influence policy without seeking to form government."
+        },
+        {
+          "q": "Spontaneous riots represent which type of interest group?",
+          "a": "Anomic \u2014 Anomic groups are unorganised and spontaneous."
+        }
+      ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> A pressure group differs from a party because it:<br/><b>A:</b> Seeks to influence rather than control government \u2014 Pressure groups influence policy without seeking to form government.</p><p><b>Q:</b> The NMA is best classified as a(n):<br/><b>A:</b> Occupational pressure group \u2014 The Nigerian Medical Association organises members of a profession.</p><p><b>Q:</b> Spontaneous riots represent which type of interest group?<br/><b>A:</b> Anomic \u2014 Anomic groups are unorganised and spontaneous.</p>",
+      "examples": [
+        {
+          "q": "A pressure group differs from a party because it:",
+          "a": "Seeks to influence rather than control government"
+        },
+        {
+          "q": "The NMA is best classified as a(n):",
+          "a": "Occupational pressure group"
+        }
+      ]
+    },
+    {
+      "title": "Key definitions",
+      "html": "<p>Learn these definitions exactly as stated \u2014 they are the terms examiners use.</p><ul><li><b>pressure group</b>: (interest group) is an organised body of persons who seek to influence government policy in favour of their interest without seeking to control government themselves</li><li><b>Public opinion</b>: is the aggregate of views held by a significant proportion of the community on a matter of public concern at a particular time</li><li><b>Limitations of polls:</b>: unrepresentative samples, badly worded questions, respondents concealing true intentions, rapid change of mood, low literacy, and the bandwagon effect where a published poll itself</li><li><b>Factors determining pressure group effectiveness</b>: is a key part of Pressure Groups and Public Opinion (SSS 2, Government)</li></ul>",
+      "examples": []
     }
   ],
   "quiz": [
@@ -52,7 +85,9 @@
         "Is illegal"
       ],
       "answer": 1,
-      "solution": "Pressure groups influence policy without seeking to form government."
+      "solution": "Pressure groups influence policy without seeking to form government.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The NMA is best classified as a(n):",
@@ -63,7 +98,9 @@
         "Religious group"
       ],
       "answer": 1,
-      "solution": "The Nigerian Medical Association organises members of a profession."
+      "solution": "The Nigerian Medical Association organises members of a profession.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Spontaneous riots represent which type of interest group?",
@@ -74,7 +111,9 @@
         "Promotional"
       ],
       "answer": 2,
-      "solution": "Anomic groups are unorganised and spontaneous."
+      "solution": "Anomic groups are unorganised and spontaneous.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Lobbying means:",
@@ -85,7 +124,9 @@
         "Registering voters"
       ],
       "answer": 0,
-      "solution": "Lobbying is direct persuasion of legislators and officials."
+      "solution": "Lobbying is direct persuasion of legislators and officials.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Public opinion is best measured scientifically by:",
@@ -96,7 +137,9 @@
         "Party claims"
       ],
       "answer": 1,
-      "solution": "Properly drawn samples allow inference about the whole population."
+      "solution": "Properly drawn samples allow inference about the whole population.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a promotional pressure group?",
@@ -107,7 +150,9 @@
         "NUT"
       ],
       "answer": 1,
-      "solution": "SERAP campaigns for a cause — socio-economic rights — rather than for members' occupational interests."
+      "solution": "SERAP campaigns for a cause \u2014 socio-economic rights \u2014 rather than for members' occupational interests.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Section 22 of the 1999 Constitution charges the press with:",
@@ -118,7 +163,9 @@
         "Appointing ministers"
       ],
       "answer": 0,
-      "solution": "It makes the media responsible for monitoring governance and upholding constitutional objectives."
+      "solution": "It makes the media responsible for monitoring governance and upholding constitutional objectives.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The media function of deciding which issues receive attention is:",
@@ -129,7 +176,9 @@
         "Legislation"
       ],
       "answer": 0,
-      "solution": "By selecting and emphasising stories, media shape the public agenda."
+      "solution": "By selecting and emphasising stories, media shape the public agenda.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which weakens pressure group effectiveness?",
@@ -140,7 +189,9 @@
         "Good leadership"
       ],
       "answer": 1,
-      "solution": "A divided membership cannot bargain credibly."
+      "solution": "A divided membership cannot bargain credibly.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The West African Pilot was founded by:",
@@ -151,7 +202,9 @@
         "Ernest Ikoli"
       ],
       "answer": 1,
-      "solution": "Azikiwe founded the Pilot in 1937 as a nationalist newspaper."
+      "solution": "Azikiwe founded the Pilot in 1937 as a nationalist newspaper.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A bandwagon effect occurs when:",
@@ -162,7 +215,9 @@
         "Turnout falls"
       ],
       "answer": 0,
-      "solution": "Published polls can attract voters to the leading candidate."
+      "solution": "Published polls can attract voters to the leading candidate.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Ohanaeze Ndigbo is an example of a(n):",
@@ -173,7 +228,9 @@
         "Trade union"
       ],
       "answer": 0,
-      "solution": "It articulates the interests of an ethnic community."
+      "solution": "It articulates the interests of an ethnic community.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A strike is a pressure group method belonging to:",
@@ -184,7 +241,9 @@
         "Research"
       ],
       "answer": 0,
-      "solution": "Withdrawal of labour is a form of direct industrial action."
+      "solution": "Withdrawal of labour is a form of direct industrial action.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Pressure groups are least effective under:",
@@ -195,7 +254,9 @@
         "Multi-party systems"
       ],
       "answer": 1,
-      "solution": "Authoritarian regimes restrict association, protest and free media."
+      "solution": "Authoritarian regimes restrict association, protest and free media.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which limits the reliability of opinion polls in Nigeria?",
@@ -206,7 +267,9 @@
         "Too many pollsters"
       ],
       "answer": 1,
-      "solution": "Unrepresentative samples and misunderstanding of questions distort results."
+      "solution": "Unrepresentative samples and misunderstanding of questions distort results.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A newspaper exposing embezzlement performs the ____ role.",
@@ -217,7 +280,451 @@
         "Executive"
       ],
       "answer": 0,
-      "solution": "Investigative reporting is the surveillance or watchdog function of the press."
+      "solution": "Investigative reporting is the surveillance or watchdog function of the press.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Pressure groups primarily aim to:",
+      "options": [
+        "Take over government",
+        "Influence government policies",
+        "Rig elections",
+        "Start riots"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Influence government policies.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The main function of pressure groups is to:",
+      "options": [
+        "Take over power",
+        "Influence government policies",
+        "Rig elections",
+        "Form a government"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: Influence government policies.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a Pressure Group?",
+      "options": [
+        "APC (All Progressives Congress)",
+        "ASUU (Academic Staff Union of Universities)",
+        "INEC",
+        "The Nigerian Army"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: ASUU (Academic Staff Union of Universities).",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A \u2018Pressure Group\u2019 that uses strikes as a common tool is?",
+      "options": [
+        "Religious",
+        "Educational",
+        "Professional/Labor",
+        "Economic"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Professional/Labor.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The leader of the Action Group (AG) was?",
+      "options": [
+        "Nnamdi Azikiwe",
+        "Ahmadu Bello",
+        "Anthony Enahoro",
+        "Obafemi Awolowo"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Obafemi Awolowo.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A key feature of Capitalism is?",
+      "options": [
+        "Absence of private property",
+        "State-owned shops only",
+        "The profit motive",
+        "Equal pay for all workers"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: The profit motive.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The motto of the Action Group (AG) was?",
+      "options": [
+        "One North, One People",
+        "Freedom and Life More Abundant",
+        "Power to the People",
+        "Forward Ever, Backward Never"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Freedom and Life More Abundant.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018G-7\u2019 (Group of Seven) consists of?",
+      "options": [
+        "The world's poorest nations",
+        "7 African nations",
+        "Leading oil producers",
+        "The world's most advanced industrialized economies"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: The world's most advanced industrialized economies.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A bicameral legislature involves:",
+      "options": [
+        "One chamber",
+        "Two chambers",
+        "Three chambers",
+        "The Judiciary"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Two chambers.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Who is the current Secretary-General of the UN (2025 Context)?",
+      "options": [
+        "Kofi Annan",
+        "Ban Ki-moon",
+        "Antonio Guterres",
+        "Boutros Ghali"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: Antonio Guterres.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "ECOMOG is the military wing of:",
+      "options": [
+        "AU",
+        "UNO",
+        "ECOWAS",
+        "EU"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: ECOWAS.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The primary function of the legislature is:",
+      "options": [
+        "Law interpretation",
+        "Law making",
+        "Law enforcement",
+        "Punishment"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Law making.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The policy of 'Assimilation' was used by the:",
+      "options": [
+        "British",
+        "French",
+        "Portuguese",
+        "Germans"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: French.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The constitution is:",
+      "options": [
+        "A lawyer's book",
+        "The supreme law of the land",
+        "A religious text",
+        "A manifesto"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: The supreme law of the land.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The act of removing a President from office before his tenure ends is:",
+      "options": [
+        "Recall",
+        "Impeachment",
+        "Veto",
+        "Prorogation"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Impeachment.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "OPEC stands for:",
+      "options": [
+        "Organization of Petrol Exporting Countries",
+        "Organization of Petroleum Exporting Countries",
+        "Oil Producing Economic Countries",
+        "Organization of People Exporting Cars"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Organization of Petroleum Exporting Countries.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The Executive arm comprises:",
+      "options": [
+        "President, Ministers, Civil Service",
+        "Judges, Lawyers",
+        "Senators, Reps",
+        "Police, Army"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: President, Ministers, Civil Service.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The Judiciary interprets:",
+      "options": [
+        "The Law/Constitution",
+        "The Budget",
+        "The News",
+        "The Future"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: The Law/Constitution.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "A Unicameral Legislature has:",
+      "options": [
+        "One Chamber",
+        "Two Chambers",
+        "Three Chambers",
+        "No Chamber"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: One Chamber.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "A Bicameral Legislature has:",
+      "options": [
+        "Two Chambers",
+        "One Chamber",
+        "Three Chambers",
+        "Four Chambers"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Two Chambers.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "NNDP was founded by:",
+      "options": [
+        "Herbert Macaulay",
+        "Azikiwe",
+        "Awolowo",
+        "Balewa"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Herbert Macaulay.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The Clifford Constitution of 1922 introduced:",
+      "options": [
+        "Elective Principle",
+        "Federalism",
+        "Republic",
+        "Monarchy"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Elective Principle.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The Richards Constitution of 1946 introduced:",
+      "options": [
+        "Regionalism",
+        "Unitary System",
+        "Independence",
+        "Military Rule"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Regionalism.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The Macpherson Constitution was in:",
+      "options": [
+        "1951",
+        "1946",
+        "1954",
+        "1960"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 1951.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The first Prime Minister was:",
+      "options": [
+        "Tafawa Balewa",
+        "Azikiwe",
+        "Awolowo",
+        "Bello"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Tafawa Balewa.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The first Governor-General (Indigenous):",
+      "options": [
+        "Nnamdi Azikiwe",
+        "Balewa",
+        "Awolowo",
+        "Macaulay"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Nnamdi Azikiwe.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The first Military Coup was in:",
+      "options": [
+        "Jan 1966",
+        "July 1966",
+        "1975",
+        "1983"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Jan 1966.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The 1979 Constitution introduced:",
+      "options": [
+        "Presidential System",
+        "Parliamentary System",
+        "Unitary System",
+        "Monarchy"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Presidential System.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The Fourth Republic began in:",
+      "options": [
+        "1999",
+        "1993",
+        "1979",
+        "1960"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 1999.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The capital was moved to Abuja by:",
+      "options": [
+        "Ibrahim Babangida",
+        "Murtala",
+        "Abacha",
+        "Obasanjo"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Ibrahim Babangida.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "ECOWAS HQ is in:",
+      "options": [
+        "Abuja",
+        "Accra",
+        "Lome",
+        "Dakar"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Abuja.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The UN was founded in:",
+      "options": [
+        "1945",
+        "1919",
+        "1960",
+        "1990"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 1945.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The Commonwealth consists of:",
+      "options": [
+        "Former British Colonies",
+        "European States",
+        "Asian States",
+        "American States"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Former British Colonies.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "OPEC deals with:",
+      "options": [
+        "Petroleum",
+        "Gold",
+        "Agriculture",
+        "Technology"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Petroleum.",
+      "source": "NECO 2025",
+      "practice": false
     }
   ]
 }

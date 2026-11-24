@@ -1,0 +1,737 @@
+{
+  "subject": "Further Mathematics",
+  "level": "SSS 1",
+  "slug": "sets-logic",
+  "title": "Sets and Logic",
+  "outline": [
+    "Introduction to Sets and Logic",
+    "Key facts about Sets and Logic",
+    "Important terms and examples in Sets and Logic",
+    "Importance and application of Sets and Logic",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Sets and Logic",
+      "html": "<p>Set operations, Venn diagrams and the logic of statements. This section covers introduction to sets and logic.</p><h4>Key points</h4><ul><li>Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.</li><li>Logic AND: \u2014 1.1=1.</li><li>Logic: p AND q is true if: \u2014 Both True.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is:<br/><b>A:</b> False \u2014 Past question (JAMB 2025). Correct answer: False.</p><p><b>Q:</b> Logic AND:<br/><b>A:</b> 1.1=1 \u2014 Past question (NECO 2025). Correct answer: 1.1=1.</p>",
+      "examples": [
+        {
+          "q": "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is:",
+          "a": "False"
+        },
+        {
+          "q": "Logic AND:",
+          "a": "1.1=1"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Sets and Logic",
+      "html": "<p>Set operations, Venn diagrams and the logic of statements. This section covers key facts about sets and logic.</p><h4>Key points</h4><ul><li>Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.</li><li>Logic AND: \u2014 1.1=1.</li><li>Logic: p AND q is true if: \u2014 Both True.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is:<br/><b>A:</b> False \u2014 Past question (JAMB 2025). Correct answer: False.</p><p><b>Q:</b> Logic AND:<br/><b>A:</b> 1.1=1 \u2014 Past question (NECO 2025). Correct answer: 1.1=1.</p>",
+      "examples": [
+        {
+          "q": "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is:",
+          "a": "False"
+        },
+        {
+          "q": "Logic AND:",
+          "a": "1.1=1"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Sets and Logic",
+      "html": "<p>Set operations, Venn diagrams and the logic of statements. This section covers important terms and examples in sets and logic.</p><h4>Key points</h4><ul><li>Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.</li><li>Logic AND: \u2014 1.1=1.</li><li>Logic: p AND q is true if: \u2014 Both True.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is:<br/><b>A:</b> False \u2014 Past question (JAMB 2025). Correct answer: False.</p><p><b>Q:</b> Logic AND:<br/><b>A:</b> 1.1=1 \u2014 Past question (NECO 2025). Correct answer: 1.1=1.</p>",
+      "examples": [
+        {
+          "q": "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is:",
+          "a": "False"
+        },
+        {
+          "q": "Logic AND:",
+          "a": "1.1=1"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Sets and Logic",
+      "html": "<p>Set operations, Venn diagrams and the logic of statements. This section covers importance and application of sets and logic.</p><h4>Key points</h4><ul><li>Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.</li><li>Logic AND: \u2014 1.1=1.</li><li>Logic: p AND q is true if: \u2014 Both True.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is:<br/><b>A:</b> False \u2014 Past question (JAMB 2025). Correct answer: False.</p><p><b>Q:</b> Logic AND:<br/><b>A:</b> 1.1=1 \u2014 Past question (NECO 2025). Correct answer: 1.1=1.</p>",
+      "examples": [
+        {
+          "q": "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is:",
+          "a": "False"
+        },
+        {
+          "q": "Logic AND:",
+          "a": "1.1=1"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Set operations, Venn diagrams and the logic of statements. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.</li><li>Logic AND: \u2014 1.1=1.</li><li>Logic: p AND q is true if: \u2014 Both True.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is:<br/><b>A:</b> False \u2014 Past question (JAMB 2025). Correct answer: False.</p><p><b>Q:</b> Logic AND:<br/><b>A:</b> 1.1=1 \u2014 Past question (NECO 2025). Correct answer: 1.1=1.</p>",
+      "examples": [
+        {
+          "q": "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is:",
+          "a": "False"
+        },
+        {
+          "q": "Logic AND:",
+          "a": "1.1=1"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is:",
+      "options": [
+        "True",
+        "False",
+        "Undefined",
+        "Both"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: False.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Logic AND:",
+      "options": [
+        "1.1=1",
+        "1.0=1",
+        "0.0=1",
+        "0.1=1"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 1.1=1.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Logic: p AND q is true if:",
+      "options": [
+        "Both True",
+        "One True",
+        "Both False",
+        "Any False"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Both True.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "If $$ P(A)=0.5, P(B)=0.4 $$, Independent. Find $$ P(A \\cap B) $$.",
+      "options": [
+        "0.2",
+        "0.9",
+        "0.1",
+        "0.5"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 0.2.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Equation of circle center (0,0) radius 5.",
+      "options": [
+        "$$ x^2 + y^2 = 25 $$",
+        "$$ x^2 + y^2 = 5 $$",
+        "$$ x^2 - y^2 = 25 $$",
+        "$$ x + y = 5 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ x^2 + y^2 = 25 $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Integrate $$ e^x $$.",
+      "options": [
+        "$$ e^x + c $$",
+        "$$ xe^x + c $$",
+        "$$ e^{2x} + c $$",
+        "$$ 1 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ e^x + c $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Slope of tangent to $$ y=x $$ is:",
+      "options": [
+        "1",
+        "x",
+        "0",
+        "-1"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: 1.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The coefficient of $$x^3$$ in the expansion of $$(1 - 2x)^5$$ is:",
+      "options": [
+        "$$-80$$",
+        "$$80$$",
+        "$$-40$$",
+        "$$40$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$-80$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the standard deviation of 1, 2, 3, 4, 5.",
+      "options": [
+        "$$\\sqrt{2}$$",
+        "$$\\sqrt{2.5}$$",
+        "$$2$$",
+        "$$1.414$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$\\sqrt{2}$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the range of $$f(x) = \\sin x$$.",
+      "options": [
+        "$$(-1, 1)$$",
+        "$$[-1, 1]$$",
+        "$$[0, 1]$$",
+        "$$(-\\infty, \\infty)$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$[-1, 1]$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$\\int_{0}^{\\pi/2} \\sin^2 x \\, dx$$.",
+      "options": [
+        "$$\\frac{\\pi}{2}$$",
+        "$$\\frac{\\pi}{4}$$",
+        "$$\\pi$$",
+        "$$1$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: $$\\frac{\\pi}{4}$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the equation of the tangent to the curve $$y = x^2 - 3x + 2$$ at the point where $$x = 3$$.",
+      "options": [
+        "$$y = 3x - 7$$",
+        "$$y = 3x + 7$$",
+        "$$y = -3x + 7$$",
+        "$$y = 2x - 4$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$y = 3x - 7$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the gradient of the normal to the curve $$y = x^3 - 2x + 1$$ at $$x = 1$$.",
+      "options": [
+        "$$-1$$",
+        "$$1$$",
+        "$$-3$$",
+        "$$3$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$-1$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the constant term in the expansion of $$\\left(x + \\frac{1}{x}\\right)^4$$.",
+      "options": [
+        "$$6$$",
+        "$$4$$",
+        "$$1$$",
+        "$$8$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$6$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the equation of the circle with center $(2, -3)$ and radius 4.",
+      "options": [
+        "$x^2 + y^2 - 4x + 6y - 3 = 0$",
+        "$x^2 + y^2 + 4x - 6y - 3 = 0$",
+        "$x^2 + y^2 - 4x + 6y + 13 = 0$",
+        "$x^2 + y^2 - 4x + 6y - 12 = 0$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $x^2 + y^2 - 4x + 6y - 3 = 0$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the eccentricity of an ellipse where $a=5$ and $b=3$.",
+      "options": [
+        "0.8",
+        "0.6",
+        "1.25",
+        "0.4"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 0.8.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Evaluate: $$ \\\\int_{0}^{1} e^x \\\\, dx $$",
+      "options": [
+        "$e - 1$",
+        "$e$",
+        "$1$",
+        "$e + 1$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $e - 1$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "How many ways can 5 people sit around a circular table?",
+      "options": [
+        "120",
+        "24",
+        "60",
+        "12"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: 24.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The coefficient of static friction is $$ \\mu $$. The limiting friction $$ F $$ is:",
+      "options": [
+        "$$ \\mu R $$",
+        "$$ \\frac{R}{\\mu} $$",
+        "$$ \\mu + R $$",
+        "$$ R - \\mu $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ \\mu R $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "If three forces are in equilibrium, they can be represented by a:",
+      "options": [
+        "Square",
+        "Triangle",
+        "Circle",
+        "Line"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Triangle.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Find the radius of $$ 2x^2 + 2y^2 = 8 $$.",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "$$ \\sqrt{2} $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: 2.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Angle $$ y=x, y=-x $$:",
+      "options": [
+        "90",
+        "45",
+        "0",
+        "180"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 90.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Mat Mult:",
+      "options": [
+        "Col A = Row B",
+        "Row A = Col B",
+        "Row=Row",
+        "Col=Col"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Col A = Row B.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "SHM Acc:",
+      "options": [
+        "Prop -Disp",
+        "Prop Vel",
+        "Const",
+        "Zero"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Prop -Disp.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Range x^2:",
+      "options": [
+        ">=0",
+        ">0",
+        "<=0",
+        "All"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: >=0.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$ \\lim_{x \\to 0} \\frac{\\sin 4x}{x} $$.",
+      "options": [
+        "4",
+        "1",
+        "0",
+        "1/4"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 4.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Integrate $$ \\sin x $$.",
+      "options": [
+        "$$ -\\cos x + c $$",
+        "$$ \\sin x + c $$",
+        "$$ \\cos x + c $$",
+        "$$ -\\sin x + c $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ -\\cos x + c $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Integrate $$ e^{2x} $$.",
+      "options": [
+        "$$ \\frac{1}{2}e^{2x} + c $$",
+        "$$ 2e^{2x} + c $$",
+        "$$ e^{2x} + c $$",
+        "$$ e^x $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ \\frac{1}{2}e^{2x} + c $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$.",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "25"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 5.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Sets and Logic in Sets and Logic?",
+      "options": [
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.",
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$."
+      ],
+      "answer": 2,
+      "solution": "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Sets and Logic in Sets and Logic?",
+      "options": [
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+        "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.",
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$."
+      ],
+      "answer": 1,
+      "solution": "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Sets and Logic in Sets and Logic?",
+      "options": [
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.",
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$."
+      ],
+      "answer": 1,
+      "solution": "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Sets and Logic in Sets and Logic?",
+      "options": [
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+        "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.",
+        "Modulus $$ 3+4i $$: \u2014 5."
+      ],
+      "answer": 2,
+      "solution": "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Sets and Logic?",
+      "options": [
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$."
+      ],
+      "answer": 2,
+      "solution": "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sets and Logic \u2014 'true'?",
+      "options": [
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$."
+      ],
+      "answer": 2,
+      "solution": "Logic: If $$ p $$ is True and $$ q $$ is False, then $$ p \\implies q $$ is: \u2014 False.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sets and Logic \u2014 'independent'?",
+      "options": [
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+        "If $$ P(A)=0.5, P(B)=0.4 $$, Independent. Find $$ P(A \\cap B) $$. \u2014 0.2.",
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$."
+      ],
+      "answer": 2,
+      "solution": "If $$ P(A)=0.5, P(B)=0.4 $$, Independent. Find $$ P(A \\cap B) $$. \u2014 0.2.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sets and Logic \u2014 'equation'?",
+      "options": [
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+        "Equation of circle center (0,0) radius 5. \u2014 $$ x^2 + y^2 = 25 $$."
+      ],
+      "answer": 3,
+      "solution": "Equation of circle center (0,0) radius 5. \u2014 $$ x^2 + y^2 = 25 $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sets and Logic \u2014 'integrate'?",
+      "options": [
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+        "Integrate $$ e^x $$. \u2014 $$ e^x + c $$."
+      ],
+      "answer": 3,
+      "solution": "Integrate $$ e^x $$. \u2014 $$ e^x + c $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sets and Logic \u2014 'slope'?",
+      "options": [
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+        "Slope of tangent to $$ y=x $$ is: \u2014 1."
+      ],
+      "answer": 3,
+      "solution": "Slope of tangent to $$ y=x $$ is: \u2014 1.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sets and Logic \u2014 'coefficient'?",
+      "options": [
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "The coefficient of $$x^3$$ in the expansion of $$(1 - 2x)^5$$ is: \u2014 $$-80$$."
+      ],
+      "answer": 3,
+      "solution": "The coefficient of $$x^3$$ in the expansion of $$(1 - 2x)^5$$ is: \u2014 $$-80$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sets and Logic \u2014 'find'?",
+      "options": [
+        "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$."
+      ],
+      "answer": 0,
+      "solution": "Find the standard deviation of 1, 2, 3, 4, 5. \u2014 $$\\sqrt{2}$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sets and Logic \u2014 'evaluate'?",
+      "options": [
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+        "Evaluate $$\\int_{0}^{\\pi/2} \\sin^2 x \\, dx$$. \u2014 $$\\frac{\\pi}{4}$$.",
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Modulus $$ 3+4i $$: \u2014 5."
+      ],
+      "answer": 1,
+      "solution": "Evaluate $$\\int_{0}^{\\pi/2} \\sin^2 x \\, dx$$. \u2014 $$\\frac{\\pi}{4}$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sets and Logic \u2014 'many'?",
+      "options": [
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "How many ways can 5 people sit around a circular table \u2014 24."
+      ],
+      "answer": 3,
+      "solution": "How many ways can 5 people sit around a circular table \u2014 24.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sets and Logic \u2014 'forces'?",
+      "options": [
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+        "If three forces are in equilibrium, they can be represented by a: \u2014 Triangle.",
+        "Modulus $$ 3+4i $$: \u2014 5."
+      ],
+      "answer": 2,
+      "solution": "If three forces are in equilibrium, they can be represented by a: \u2014 Triangle.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sets and Logic \u2014 'angle'?",
+      "options": [
+        "Angle $$ y=x, y=-x $$: \u2014 90.",
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$."
+      ],
+      "answer": 0,
+      "solution": "Angle $$ y=x, y=-x $$: \u2014 90.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sets and Logic \u2014 'mat'?",
+      "options": [
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+        "Mat Mult: \u2014 Col A = Row B."
+      ],
+      "answer": 3,
+      "solution": "Mat Mult: \u2014 Col A = Row B.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sets and Logic \u2014 'shm'?",
+      "options": [
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "SHM Acc: \u2014 Prop -Disp.",
+        "Modulus $$ 3+4i $$: \u2014 5."
+      ],
+      "answer": 2,
+      "solution": "SHM Acc: \u2014 Prop -Disp.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sets and Logic \u2014 'range'?",
+      "options": [
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "Range x^2: \u2014 >=0.",
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$."
+      ],
+      "answer": 1,
+      "solution": "Range x^2: \u2014 >=0.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Sets and Logic \u2014 'modulus'?",
+      "options": [
+        "Expand $$ (1+x)^4 $$ up to $$ x^2 $$. \u2014 $$ 1 + 4x + 6x^2 $$.",
+        "Find the sum of the first 8 terms of the GP: $2, 6, 18, ...$ \u2014 6560.",
+        "Express $$1 - i\\sqrt{3}$$ in polar form. \u2014 $$2(\\cos 300^\\circ + i\\sin 300^\\circ)$$.",
+        "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5."
+      ],
+      "answer": 3,
+      "solution": "Modulus of $$ 3\\mathbf{i} + 4\\mathbf{j} $$. \u2014 5.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Find the determinant of $\\begin{pmatrix}2&8\\\\3&4\\end{pmatrix}$.",
+      "options": [
+        "-17",
+        "-15",
+        "-16",
+        "-14"
+      ],
+      "answer": 2,
+      "solution": "Determinant $= 2\\times4 - 8\\times3 = -16$.",
+      "source": "Syllabus-modelled practice (computed)",
+      "practice": true
+    }
+  ]
+}

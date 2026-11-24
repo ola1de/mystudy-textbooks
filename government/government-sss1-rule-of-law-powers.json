@@ -26,7 +26,7 @@
     },
     {
       "title": "Separation of Powers",
-      "html": "<p><b>Separation of powers</b> requires that the three functions of government &mdash; legislative, executive and judicial &mdash;\nbe exercised by three separate sets of persons and bodies, so that no one organ becomes tyrannical. Montesquieu argued that\n“when the legislative and executive powers are united in the same person&hellip; there can be no liberty.”</p>\n<p>Complete separation is impossible; what modern constitutions adopt is separation plus <b>checks and balances</b>:</p>\n<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Checking organ</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Check exercised</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">On whom</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Legislature</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Impeachment; approval of appointments and budgets; override of veto; oversight and investigation.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Executive and judiciary</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Executive</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Veto of bills; appointment of judges (subject to confirmation); prerogative of mercy.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Legislature and judiciary</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Judiciary</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Judicial review; declaring laws or acts unconstitutional; interpreting the constitution.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Legislature and executive</td></tr></tbody></table>\n<p><b>Merits:</b> prevents dictatorship, protects liberty, promotes efficiency through specialisation, guarantees judicial\nindependence. <b>Demerits:</b> can cause deadlock and delay, encourages friction between organs, and is difficult to apply\nstrictly in a parliamentary system where the executive sits in the legislature.</p>",
+      "html": "<p><b>Separation of powers</b> requires that the three functions of government &mdash; legislative, executive and judicial &mdash;\nbe exercised by three separate sets of persons and bodies, so that no one organ becomes tyrannical. Montesquieu argued that\n\u201cwhen the legislative and executive powers are united in the same person&hellip; there can be no liberty.\u201d</p>\n<p>Complete separation is impossible; what modern constitutions adopt is separation plus <b>checks and balances</b>:</p>\n<table style=\"width:100%;border-collapse:collapse;margin:14px 0;font-size:.94rem\"><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Checking organ</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">Check exercised</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#f1f5f9;text-align:left\">On whom</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Legislature</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Impeachment; approval of appointments and budgets; override of veto; oversight and investigation.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Executive and judiciary</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Executive</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Veto of bills; appointment of judges (subject to confirmation); prerogative of mercy.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Legislature and judiciary</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Judiciary</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Judicial review; declaring laws or acts unconstitutional; interpreting the constitution.</td><td style=\"border:1px solid #cbd5e1;padding:8px;vertical-align:top\">Legislature and executive</td></tr></tbody></table>\n<p><b>Merits:</b> prevents dictatorship, protects liberty, promotes efficiency through specialisation, guarantees judicial\nindependence. <b>Demerits:</b> can cause deadlock and delay, encourages friction between organs, and is difficult to apply\nstrictly in a parliamentary system where the executive sits in the legislature.</p>",
       "examples": [
         {
           "q": "The National Assembly refuses to confirm a ministerial nominee. Which doctrine is at work?",
@@ -53,6 +53,30 @@
           "a": "Habeas corpus &ndash; an order directing the detaining authority to produce the detainee before the court and justify the detention, failing which the person must be released."
         }
       ]
+    },
+    {
+      "title": "A.V. Dicey's three pillars",
+      "html": "<p><b>A.V. Dicey's three pillars</b> is a key part of Rule of Law, Separation of Powers, and Human Rights (SSS 1, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Dicey in An Introduction to the Study of the Law of the Constitution (1885) under three pillars: Supremacy of the law &mdash; no person may be punished except for a definite breach of law established in an ordinary court; there is no arbitrary or discretionary punishment.</li><li>Dicey set out the doctrine in 1885.</li></ul><h4>Worked example</h4><p><b>Q:</b> The rule of law was popularised by<br/><b>A:</b> A. V. Dicey \u2014 Dicey set out the doctrine in 1885.</p><p><b>Q:</b> Which is one of Dicey's pillars of the rule of law?<br/><b>A:</b> Equality before the law \u2014 Equality before the law is the second pillar.</p>",
+      "examples": [
+        {
+          "q": "The rule of law was popularised by",
+          "a": "A. V. Dicey \u2014 Dicey set out the doctrine in 1885."
+        },
+        {
+          "q": "Which is one of Dicey's pillars of the rule of law?",
+          "a": "Equality before the law \u2014 Equality before the law is the second pillar."
+        }
+      ]
+    },
+    {
+      "title": "Checks and balances in practice",
+      "html": "<p><b>Checks and balances in practice</b> is a key part of Rule of Law, Separation of Powers, and Human Rights (SSS 1, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Limitations in practice: diplomatic immunity; immunity of the President, Vice-President, Governors and their deputies under section 308; parliamentary privileges; delegated legislation and administrative tribunals; states of emergency; detention under security legislation; the cost and delay of litigation; and, historically, military decrees with ouster clauses.</li><li>Montesquieu argued that \u201cwhen the legislative and executive powers are united in the same person&hellip; there can be no liberty.\u201d Complete separation is impossible; what modern constitutions adopt is separation plus checks and balances : Checking organ Check exercised On whom Legislature Impeachment; approval of appointments and budgets; override of veto; oversight and investigation.</li></ul><h4>Worked example</h4><p><b>Q:</b> The judiciary checks the legislature mainly through<br/><b>A:</b> Judicial review \u2014 Courts may declare a statute unconstitutional.</p>",
+      "examples": [
+        {
+          "q": "The judiciary checks the legislature mainly through",
+          "a": "Judicial review \u2014 Courts may declare a statute unconstitutional."
+        }
+      ]
     }
   ],
   "quiz": [
@@ -65,7 +89,9 @@
         "Jean Bodin"
       ],
       "answer": 1,
-      "solution": "Dicey set out the doctrine in 1885."
+      "solution": "Dicey set out the doctrine in 1885.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is one of Dicey's pillars of the rule of law?",
@@ -76,7 +102,9 @@
         "Military justice"
       ],
       "answer": 1,
-      "solution": "Equality before the law is the second pillar."
+      "solution": "Equality before the law is the second pillar.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Section 308 of the 1999 Constitution provides for",
@@ -87,7 +115,9 @@
         "Local government"
       ],
       "answer": 1,
-      "solution": "It grants immunity to the President, VP, Governors and their deputies."
+      "solution": "It grants immunity to the President, VP, Governors and their deputies.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Separation of powers is associated with",
@@ -98,7 +128,9 @@
         "Marx"
       ],
       "answer": 1,
-      "solution": "Montesquieu, <i>The Spirit of the Laws</i>, 1748."
+      "solution": "Montesquieu, <i>The Spirit of the Laws</i>, 1748.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Impeachment of the President is a check exercised by the",
@@ -109,7 +141,9 @@
         "Electorate"
       ],
       "answer": 1,
-      "solution": "The legislature impeaches and removes."
+      "solution": "The legislature impeaches and removes.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The judiciary checks the legislature mainly through",
@@ -120,7 +154,9 @@
         "Budget approval"
       ],
       "answer": 1,
-      "solution": "Courts may declare a statute unconstitutional."
+      "solution": "Courts may declare a statute unconstitutional.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Chapter IV of the 1999 Constitution deals with",
@@ -131,7 +167,9 @@
         "Revenue allocation"
       ],
       "answer": 1,
-      "solution": "Sections 33-46 guarantee fundamental rights."
+      "solution": "Sections 33-46 guarantee fundamental rights.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The right to fair hearing is contained in",
@@ -142,7 +180,9 @@
         "Section 42"
       ],
       "answer": 2,
-      "solution": "Section 36 guarantees fair hearing."
+      "solution": "Section 36 guarantees fair hearing.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Rights in Chapter II of the Nigerian Constitution are",
@@ -153,7 +193,9 @@
         "Reserved for aliens"
       ],
       "answer": 1,
-      "solution": "Fundamental objectives and directive principles are not directly enforceable."
+      "solution": "Fundamental objectives and directive principles are not directly enforceable.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The writ that secures the release of an unlawfully detained person is",
@@ -164,7 +206,9 @@
         "Prohibition"
       ],
       "answer": 2,
-      "solution": "Habeas corpus tests the legality of detention."
+      "solution": "Habeas corpus tests the legality of detention.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "An order compelling a public officer to perform a duty is",
@@ -175,7 +219,9 @@
         "Injunction"
       ],
       "answer": 1,
-      "solution": "Mandamus commands performance of a public duty."
+      "solution": "Mandamus commands performance of a public duty.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Section 45 of the 1999 Constitution provides for",
@@ -186,7 +232,9 @@
         "Electoral offences"
       ],
       "answer": 1,
-      "solution": "It permits derogation on grounds such as public order and safety."
+      "solution": "It permits derogation on grounds such as public order and safety.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Security of tenure for judges is designed to ensure",
@@ -197,7 +245,9 @@
         "Party loyalty"
       ],
       "answer": 1,
-      "solution": "Judges must decide without fear of removal."
+      "solution": "Judges must decide without fear of removal.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which body recommends the appointment and discipline of judges in Nigeria?",
@@ -208,7 +258,9 @@
         "Nigerian Bar Association"
       ],
       "answer": 1,
-      "solution": "The NJC handles judicial appointments and discipline."
+      "solution": "The NJC handles judicial appointments and discipline.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A demerit of strict separation of powers is",
@@ -219,7 +271,9 @@
         "Judicial dependence"
       ],
       "answer": 1,
-      "solution": "Rival organs may frustrate one another."
+      "solution": "Rival organs may frustrate one another.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Third-generation rights include the right to",
@@ -230,7 +284,451 @@
         "Personal liberty"
       ],
       "answer": 2,
-      "solution": "Solidarity or collective rights are third generation."
+      "solution": "Solidarity or collective rights are third generation.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The Rule of Law is based on three principles EXCEPT...",
+      "options": [
+        "Equality before the law",
+        "Supremacy of the law",
+        "Immunity for the leaders",
+        "Fundamental human rights"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: Immunity for the leaders.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Fundamental Human Rights are intended to:",
+      "options": [
+        "Protect the government",
+        "Protect the citizens",
+        "Protect the police",
+        "Protect the army"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: Protect the citizens.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Fundamental human rights are typically contained in the?",
+      "options": [
+        "National Dictionary",
+        "Holy Books",
+        "Constitution",
+        "Daily Newspapers"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Constitution.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The principle of separation of powers is intended to prevent _____.",
+      "options": [
+        "the rule of law",
+        "tyranny",
+        "democracy",
+        "federalism"
+      ],
+      "answer": 1,
+      "solution": "Separation of powers ensures that no single organ of government becomes too powerful, thereby protecting the liberty of citizens and preventing autocracy.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The principle of 'Separation of Powers' was proposed to prevent _____.",
+      "options": [
+        "Democracy",
+        "Dictatorship",
+        "Bureaucracy",
+        "Federalism"
+      ],
+      "answer": 1,
+      "solution": "Separation of powers ensures that no single organ of government (Executive, Legislature, Judiciary) possesses absolute power, thereby preventing tyranny.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a limitation to the Rule of Law?",
+      "options": [
+        "Independent Judiciary",
+        "State of Emergency",
+        "Public opinion",
+        "Free press"
+      ],
+      "answer": 1,
+      "solution": "During a state of emergency, the government may legally suspend certain laws and rights to maintain public order.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The principle of separation of powers is meant to:",
+      "options": [
+        "Make the executive powerful",
+        "Prevent tyranny and dictatorship",
+        "Allow the police to rule",
+        "Make the judiciary weak"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Prevent tyranny and dictatorship.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The Rule of Law was propounded by:",
+      "options": [
+        "A.V. Dicey",
+        "Karl Marx",
+        "Hobbes",
+        "Locke"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: A.V. Dicey.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The principle of separation of powers was propounded by:",
+      "options": [
+        "A.V. Dicey",
+        "Baron de Montesquieu",
+        "Jean Bodin",
+        "Karl Marx"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Baron de Montesquieu.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The rule of law implies that:",
+      "options": [
+        "Judges can do no wrong",
+        "The President is above the law",
+        "Everyone is equal before the law",
+        "Lawyers are supreme"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Everyone is equal before the law.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The principle of 'Separation of Powers' was proposed by:",
+      "options": [
+        "Baron de Montesquieu",
+        "A.V. Dicey",
+        "John Locke",
+        "Thomas Hobbes"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Baron de Montesquieu.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The Rule of Law was popularized by:",
+      "options": [
+        "A.V. Dicey",
+        "Karl Marx",
+        "Plato",
+        "Aristotle"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: A.V. Dicey.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The concept of 'Separation of Powers' was propounded by:",
+      "options": [
+        "A.V. Dicey",
+        "Baron de Montesquieu",
+        "Jean Bodin",
+        "Karl Marx"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Baron de Montesquieu.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The principle of 'Rule of Law' implies:",
+      "options": [
+        "The President is above the law",
+        "Lawyers rule the country",
+        "Equality before the law",
+        "Military supremacy"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2025). Correct answer: Equality before the law.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Separation of Powers was propounded by:",
+      "options": [
+        "Baron de Montesquieu",
+        "A.V. Dicey",
+        "Karl Marx",
+        "Plato"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Baron de Montesquieu.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Rule of Law implies:",
+      "options": [
+        "Supremacy of the Law",
+        "Supremacy of the King",
+        "Military Rule",
+        "Anarchy"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Supremacy of the Law.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The concept of 'Separation of Powers' was popularized by:",
+      "options": [
+        "A.V. Dicey",
+        "Baron de Montesquieu",
+        "Thomas Hobbes",
+        "Jean Bodin"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: Baron de Montesquieu.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The rule of law implies:",
+      "options": [
+        "Supremacy of the law",
+        "Immunity for leaders",
+        "Arbitrary use of power",
+        "Absence of courts"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Supremacy of the law.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "A common limitation to the Rule of Law is?",
+      "options": [
+        "Having too many law books",
+        "Executive interference/State of Emergency",
+        "Having too many lawyers",
+        "Public holidays"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Executive interference/State of Emergency.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The theory of \u2018Separation of Powers\u2019 was most famously popularized by?",
+      "options": [
+        "Thomas Hobbes",
+        "Baron de Montesquieu",
+        "John Locke",
+        "J.J. Rousseau"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Baron de Montesquieu.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which country was suspended from the Commonwealth in 1995 over human rights abuses?",
+      "options": [
+        "Ghana",
+        "South Africa",
+        "Zimbabwe",
+        "Nigeria"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Nigeria.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Rule of Law\u2019 means?",
+      "options": [
+        "No laws exist",
+        "The Law is supreme and applies to all",
+        "Rulers are above the law",
+        "The Police are the ultimate authority"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: The Law is supreme and applies to all.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is \u2018Separation of Powers\u2019?",
+      "options": [
+        "Dividing the army into branches",
+        "Dividing money between states",
+        "Dividing powers into Legislative, Executive, and Judicial",
+        "Dividing the country into LGAs"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Dividing powers into Legislative, Executive, and Judicial.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a fundamental human right?",
+      "options": [
+        "Freedom of speech",
+        "Right to steal",
+        "Right to skip school",
+        "Right to fight in public"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Freedom of speech.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "In the pre-colonial Hausa/Fulani system, the Emir's adviser on Islamic law was the _____.",
+      "options": [
+        "Waziri",
+        "Madawaki",
+        "Galadima",
+        "Sarkin Pada"
+      ],
+      "answer": 0,
+      "solution": "The Waziri acted as the Prime Minister and the chief legal adviser to the Emir on administrative and Islamic matters.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Rule by the best and most talented people is called _____.",
+      "options": [
+        "Democracy",
+        "Aristocracy",
+        "Meritocracy",
+        "Oligarchy"
+      ],
+      "answer": 2,
+      "solution": "Meritocracy is a system where power and positions are assigned based on ability and achievement rather than wealth or class.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Indirect Rule was a colonial policy introduced by _____.",
+      "options": [
+        "Lord Milverton",
+        "Sir Hugh Clifford",
+        "Lord Lugard",
+        "Sir Arthur Richards"
+      ],
+      "answer": 2,
+      "solution": "Lord Frederick Lugard implemented the policy of Indirect Rule, using traditional institutions to govern colonized people.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Indirect Rule succeeded most in:",
+      "options": [
+        "Northern Nigeria",
+        "Eastern Nigeria",
+        "Southern Nigeria",
+        "Western Nigeria"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Northern Nigeria.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Indirect Rule was most successful in:",
+      "options": [
+        "Eastern Nigeria",
+        "Northern Nigeria",
+        "Western Nigeria",
+        "Southern Africa"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Northern Nigeria.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "A bill becomes law when signed by the:",
+      "options": [
+        "Senate President",
+        "Speaker",
+        "President (Assent)",
+        "Chief Justice"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: President (Assent).",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Which organ interprets the law?",
+      "options": [
+        "Legislature",
+        "Executive",
+        "Judiciary",
+        "Press"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2023). Correct answer: Judiciary.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Indirect Rule was introduced by:",
+      "options": [
+        "Lord Lugard",
+        "Clifford",
+        "Richards",
+        "Macpherson"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Lord Lugard.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Rule by a few powerful and wealthy people is called...",
+      "options": [
+        "Democracy",
+        "Oligarchy",
+        "Autocracy",
+        "Aristocracy"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Oligarchy.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Indirect Rule was introduced in Nigeria by:",
+      "options": [
+        "Sir Hugh Clifford",
+        "Lord Lugard",
+        "Arthur Richards",
+        "John Macpherson"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: Lord Lugard.",
+      "source": "WAEC 2025",
+      "practice": false
     }
   ]
 }

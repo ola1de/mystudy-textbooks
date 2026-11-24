@@ -15,7 +15,7 @@
   "modules": [
     {
       "title": "Public Corporations",
-      "html": "\n<h4>1. Meaning and Features</h4>\n<p>A <b>public corporation</b> (statutory corporation or parastatal) is an organisation set up by an Act of parliament or decree, wholly or mainly owned by government, to provide essential goods and services on a commercial or quasi-commercial basis.</p>\n<p><b>Features:</b> creation by law; separate legal personality — it may sue and be sued in its own name; a governing board appointed by government; public ownership of capital; some managerial autonomy; provision of essential services; monopoly in many cases; staff who are not ordinary civil servants; accounts audited and laid before the legislature.</p>\n<h4>2. Reasons for Establishment</h4>\n<ol><li>To provide essential services that private capital cannot or will not supply.</li><li>To avoid exploitation by private monopolies in utilities.</li><li>To control the commanding heights of the economy.</li><li>To generate revenue and employment.</li><li>To promote even development across regions.</li><li>To prevent foreign domination of strategic sectors.</li><li>Because of the huge capital outlay required (railways, power, refineries).</li></ol>\n<h4>3. Examples</h4>\n<p>NNPC (now NNPC Limited), NEPA/PHCN (now unbundled), Nigerian Railway Corporation, NPA, NTA, FRCN, NIPOST, CBN, NDIC, NAFDAC, JAMB, WAEC, FAAN, NCC.</p>\n<h4>4. Control</h4>\n<table class=\"tb-table\">\n<tr><th>Controller</th><th>Instruments</th></tr>\n<tr><td>Legislature</td><td>Enabling Act, budgetary approval, oversight committees, Public Accounts Committee, annual reports</td></tr>\n<tr><td>Executive</td><td>Appointment and removal of board members, ministerial directives, approval of major projects</td></tr>\n<tr><td>Judiciary</td><td>Suits by aggrieved persons; judicial review of ultra vires acts</td></tr>\n<tr><td>Public / consumers</td><td>Consumer complaints, media pressure, Public Complaints Commission, regulatory agencies</td></tr>\n<tr><td>Auditors</td><td>Auditor-General's reports and external audit</td></tr>\n</table>\n<h4>5. Problems</h4>\n<ul><li>Political interference in appointments and pricing.</li><li>Corruption and mismanagement of funds.</li><li>Overstaffing and bloated recurrent costs.</li><li>Obsolete equipment and poor maintenance.</li><li>Inadequate capital and dependence on subventions.</li><li>Monopoly leading to inefficiency and poor service.</li><li>Conflict between commercial viability and social obligation.</li><li>Frequent policy changes and unstable boards.</li></ul>\n",
+      "html": "\n<h4>1. Meaning and Features</h4>\n<p>A <b>public corporation</b> (statutory corporation or parastatal) is an organisation set up by an Act of parliament or decree, wholly or mainly owned by government, to provide essential goods and services on a commercial or quasi-commercial basis.</p>\n<p><b>Features:</b> creation by law; separate legal personality \u2014 it may sue and be sued in its own name; a governing board appointed by government; public ownership of capital; some managerial autonomy; provision of essential services; monopoly in many cases; staff who are not ordinary civil servants; accounts audited and laid before the legislature.</p>\n<h4>2. Reasons for Establishment</h4>\n<ol><li>To provide essential services that private capital cannot or will not supply.</li><li>To avoid exploitation by private monopolies in utilities.</li><li>To control the commanding heights of the economy.</li><li>To generate revenue and employment.</li><li>To promote even development across regions.</li><li>To prevent foreign domination of strategic sectors.</li><li>Because of the huge capital outlay required (railways, power, refineries).</li></ol>\n<h4>3. Examples</h4>\n<p>NNPC (now NNPC Limited), NEPA/PHCN (now unbundled), Nigerian Railway Corporation, NPA, NTA, FRCN, NIPOST, CBN, NDIC, NAFDAC, JAMB, WAEC, FAAN, NCC.</p>\n<h4>4. Control</h4>\n<table class=\"tb-table\">\n<tr><th>Controller</th><th>Instruments</th></tr>\n<tr><td>Legislature</td><td>Enabling Act, budgetary approval, oversight committees, Public Accounts Committee, annual reports</td></tr>\n<tr><td>Executive</td><td>Appointment and removal of board members, ministerial directives, approval of major projects</td></tr>\n<tr><td>Judiciary</td><td>Suits by aggrieved persons; judicial review of ultra vires acts</td></tr>\n<tr><td>Public / consumers</td><td>Consumer complaints, media pressure, Public Complaints Commission, regulatory agencies</td></tr>\n<tr><td>Auditors</td><td>Auditor-General's reports and external audit</td></tr>\n</table>\n<h4>5. Problems</h4>\n<ul><li>Political interference in appointments and pricing.</li><li>Corruption and mismanagement of funds.</li><li>Overstaffing and bloated recurrent costs.</li><li>Obsolete equipment and poor maintenance.</li><li>Inadequate capital and dependence on subventions.</li><li>Monopoly leading to inefficiency and poor service.</li><li>Conflict between commercial viability and social obligation.</li><li>Frequent policy changes and unstable boards.</li></ul>\n",
       "examples": [
         {
           "q": "Why is a public corporation given separate legal personality?",
@@ -29,15 +29,57 @@
     },
     {
       "title": "Privatization and Commercialization",
-      "html": "\n<h4>1. Definitions</h4>\n<ul>\n<li><b>Privatization</b> — the transfer of ownership, wholly or partly, of a public enterprise to private individuals or firms, usually by sale of shares or assets.</li>\n<li><b>Commercialization</b> — reorganising a public enterprise so that it operates on profitable, business principles while remaining in public ownership.</li>\n</ul>\n<table class=\"tb-table\">\n<tr><th>Type</th><th>Meaning</th></tr>\n<tr><td>Full privatization</td><td>Government divests 100% of its equity</td></tr>\n<tr><td>Partial privatization</td><td>Government sells part and retains a shareholding</td></tr>\n<tr><td>Full commercialization</td><td>Enterprise finances itself entirely from revenue, no subvention, fixes own prices</td></tr>\n<tr><td>Partial commercialization</td><td>Enterprise generates some revenue but still receives capital support from government</td></tr>\n</table>\n<h4>2. Nigerian Framework</h4>\n<p>The <b>Privatisation and Commercialisation Decree No. 25 of 1988</b> created the Technical Committee on Privatisation and Commercialisation (TCPC) under Dr Hamza Zayyad. The <b>Public Enterprises (Privatisation and Commercialisation) Act 1999</b> established the <b>Bureau of Public Enterprises (BPE)</b> as the implementing agency and the <b>National Council on Privatisation (NCP)</b>, chaired by the Vice-President, as the policy organ. Major transactions have included Nigerian Telecommunications (NITEL), the cement and steel companies, NAFCON, and the unbundling and sale of PHCN successor generation and distribution companies in 2013.</p>\n<h4>3. Arguments For</h4>\n<ol><li>Improves efficiency through the profit motive and competition.</li><li>Reduces the fiscal burden of subventions on government.</li><li>Raises revenue from sale proceeds.</li><li>Attracts foreign investment, technology and management skill.</li><li>Broadens share ownership and deepens the capital market.</li><li>Frees government to concentrate on regulation and core functions.</li><li>Reduces political interference and corruption in commercial operations.</li></ol>\n<h4>4. Arguments Against</h4>\n<ol><li>Mass retrenchment and unemployment.</li><li>Higher prices once social pricing ends.</li><li>Concentration of national assets in few wealthy or foreign hands.</li><li>Sale of viable assets below value amid opaque bidding.</li><li>Neglect of unprofitable rural areas.</li><li>Loss of government revenue from profitable enterprises.</li><li>Threat to national security and sovereignty in strategic sectors.</li></ol>\n",
+      "html": "\n<h4>1. Definitions</h4>\n<ul>\n<li><b>Privatization</b> \u2014 the transfer of ownership, wholly or partly, of a public enterprise to private individuals or firms, usually by sale of shares or assets.</li>\n<li><b>Commercialization</b> \u2014 reorganising a public enterprise so that it operates on profitable, business principles while remaining in public ownership.</li>\n</ul>\n<table class=\"tb-table\">\n<tr><th>Type</th><th>Meaning</th></tr>\n<tr><td>Full privatization</td><td>Government divests 100% of its equity</td></tr>\n<tr><td>Partial privatization</td><td>Government sells part and retains a shareholding</td></tr>\n<tr><td>Full commercialization</td><td>Enterprise finances itself entirely from revenue, no subvention, fixes own prices</td></tr>\n<tr><td>Partial commercialization</td><td>Enterprise generates some revenue but still receives capital support from government</td></tr>\n</table>\n<h4>2. Nigerian Framework</h4>\n<p>The <b>Privatisation and Commercialisation Decree No. 25 of 1988</b> created the Technical Committee on Privatisation and Commercialisation (TCPC) under Dr Hamza Zayyad. The <b>Public Enterprises (Privatisation and Commercialisation) Act 1999</b> established the <b>Bureau of Public Enterprises (BPE)</b> as the implementing agency and the <b>National Council on Privatisation (NCP)</b>, chaired by the Vice-President, as the policy organ. Major transactions have included Nigerian Telecommunications (NITEL), the cement and steel companies, NAFCON, and the unbundling and sale of PHCN successor generation and distribution companies in 2013.</p>\n<h4>3. Arguments For</h4>\n<ol><li>Improves efficiency through the profit motive and competition.</li><li>Reduces the fiscal burden of subventions on government.</li><li>Raises revenue from sale proceeds.</li><li>Attracts foreign investment, technology and management skill.</li><li>Broadens share ownership and deepens the capital market.</li><li>Frees government to concentrate on regulation and core functions.</li><li>Reduces political interference and corruption in commercial operations.</li></ol>\n<h4>4. Arguments Against</h4>\n<ol><li>Mass retrenchment and unemployment.</li><li>Higher prices once social pricing ends.</li><li>Concentration of national assets in few wealthy or foreign hands.</li><li>Sale of viable assets below value amid opaque bidding.</li><li>Neglect of unprofitable rural areas.</li><li>Loss of government revenue from profitable enterprises.</li><li>Threat to national security and sovereignty in strategic sectors.</li></ol>\n",
       "examples": [
         {
           "q": "Assess the 2013 privatization of PHCN.",
-          "a": "PHCN was unbundled into six generation companies, eleven distribution companies and a state-owned transmission company, most of which were sold to private core investors under the BPE. Gains: private capital and metering investment, clearer commercial accountability, and an end to open-ended subvention. Shortcomings: liquidity crisis from non-cost-reflective tariffs, weak gas supply and transmission (still public), retained estimated billing, and mass staff disengagement — showing that privatization without a functioning regulator, tariff realism and complementary infrastructure yields limited improvement."
+          "a": "PHCN was unbundled into six generation companies, eleven distribution companies and a state-owned transmission company, most of which were sold to private core investors under the BPE. Gains: private capital and metering investment, clearer commercial accountability, and an end to open-ended subvention. Shortcomings: liquidity crisis from non-cost-reflective tariffs, weak gas supply and transmission (still public), retained estimated billing, and mass staff disengagement \u2014 showing that privatization without a functioning regulator, tariff realism and complementary infrastructure yields limited improvement."
         },
         {
           "q": "Distinguish privatization from commercialization with an example.",
-          "a": "When government sold its shares in NITEL to a private consortium, ownership left the public sector — that is <b>privatization</b>. When the Nigerian Ports Authority was directed to run on business lines, charge economic rates and stop relying on subventions while remaining government-owned, that is <b>commercialization</b>."
+          "a": "When government sold its shares in NITEL to a private consortium, ownership left the public sector \u2014 that is <b>privatization</b>. When the Nigerian Ports Authority was directed to run on business lines, charge economic rates and stop relying on subventions while remaining government-owned, that is <b>commercialization</b>."
+        }
+      ]
+    },
+    {
+      "title": "Types and examples in Nigeria",
+      "html": "<p><b>Types and examples in Nigeria</b> is a key part of Public Corporations and Privatization (SSS 2, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Examples NNPC (now NNPC Limited), NEPA/PHCN (now unbundled), Nigerian Railway Corporation, NPA, NTA, FRCN, NIPOST, CBN, NDIC, NAFDAC, JAMB, WAEC, FAAN, NCC.</li><li>Nigerian Framework The Privatisation and Commercialisation Decree No.</li><li>Major transactions have included Nigerian Telecommunications (NITEL), the cement and steel companies, NAFCON, and the unbundling and sale of PHCN successor generation and distribution companies in 2013.</li><li>The Nigerian Communications Commission regulates the telecoms sector.</li></ul><h4>Worked example</h4><p><b>Q:</b> The agency implementing privatization in Nigeria is the:<br/><b>A:</b> BPE \u2014 The Bureau of Public Enterprises executes NCP policy.</p><p><b>Q:</b> Which corporation regulates telecommunications in Nigeria?<br/><b>A:</b> NCC \u2014 The Nigerian Communications Commission regulates the telecoms sector.</p>",
+      "examples": [
+        {
+          "q": "The agency implementing privatization in Nigeria is the:",
+          "a": "BPE \u2014 The Bureau of Public Enterprises executes NCP policy."
+        },
+        {
+          "q": "Which corporation regulates telecommunications in Nigeria?",
+          "a": "NCC \u2014 The Nigerian Communications Commission regulates the telecoms sector."
+        }
+      ]
+    },
+    {
+      "title": "Arguments for and against privatization",
+      "html": "<p><b>Arguments for and against privatization</b> is a key part of Public Corporations and Privatization (SSS 2, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Definitions Privatization \u2014 the transfer of ownership, wholly or partly, of a public enterprise to private individuals or firms, usually by sale of shares or assets.</li><li>Type Meaning Full privatization Government divests 100% of its equity Partial privatization Government sells part and retains a shareholding Full commercialization Enterprise finances itself entirely from revenue, no subvention, fixes own prices Partial commercialization Enterprise generates some revenue but still receives capital support from government 2.</li><li>Arguments For Improves efficiency through the profit motive and competition.</li><li>Arguments Against Mass retrenchment and unemployment.</li><li>Types and examples in Nigeria is a key part of Public Corporations and Privatization (SSS 2, Government).</li></ul><h4>Worked example</h4><p><b>Q:</b> Transfer of ownership of a public enterprise to private hands is:<br/><b>A:</b> Privatization \u2014 Privatization changes ownership; commercialization changes only operating principles.</p><p><b>Q:</b> The agency implementing privatization in Nigeria is the:<br/><b>A:</b> BPE \u2014 The Bureau of Public Enterprises executes NCP policy.</p>",
+      "examples": [
+        {
+          "q": "Transfer of ownership of a public enterprise to private hands is:",
+          "a": "Privatization \u2014 Privatization changes ownership; commercialization changes only operating principles."
+        },
+        {
+          "q": "The agency implementing privatization in Nigeria is the:",
+          "a": "BPE \u2014 The Bureau of Public Enterprises executes NCP policy."
+        }
+      ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> A public corporation is established by:<br/><b>A:</b> An Act of the legislature or decree \u2014 Statutory corporations owe their existence to an enabling law.</p><p><b>Q:</b> Which is a feature of a public corporation?<br/><b>A:</b> Separate legal personality \u2014 It can sue and be sued in its own name.</p><p><b>Q:</b> Transfer of ownership of a public enterprise to private hands is:<br/><b>A:</b> Privatization \u2014 Privatization changes ownership; commercialization changes only operating principles.</p>",
+      "examples": [
+        {
+          "q": "A public corporation is established by:",
+          "a": "An Act of the legislature or decree"
+        },
+        {
+          "q": "Which is a feature of a public corporation?",
+          "a": "Separate legal personality"
         }
       ]
     }
@@ -52,7 +94,9 @@
         "A private trust deed"
       ],
       "answer": 0,
-      "solution": "Statutory corporations owe their existence to an enabling law."
+      "solution": "Statutory corporations owe their existence to an enabling law.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a feature of a public corporation?",
@@ -63,7 +107,9 @@
         "No enabling law"
       ],
       "answer": 0,
-      "solution": "It can sue and be sued in its own name."
+      "solution": "It can sue and be sued in its own name.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Transfer of ownership of a public enterprise to private hands is:",
@@ -74,7 +120,9 @@
         "Indigenisation"
       ],
       "answer": 1,
-      "solution": "Privatization changes ownership; commercialization changes only operating principles."
+      "solution": "Privatization changes ownership; commercialization changes only operating principles.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The agency implementing privatization in Nigeria is the:",
@@ -85,7 +133,9 @@
         "NCC"
       ],
       "answer": 0,
-      "solution": "The Bureau of Public Enterprises executes NCP policy."
+      "solution": "The Bureau of Public Enterprises executes NCP policy.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The National Council on Privatisation is chaired by the:",
@@ -96,7 +146,9 @@
         "Senate President"
       ],
       "answer": 1,
-      "solution": "Under the 1999 Act the Vice-President chairs the NCP."
+      "solution": "Under the 1999 Act the Vice-President chairs the NCP.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Decree No. 25 of 1988 established the:",
@@ -107,7 +159,9 @@
         "NDIC"
       ],
       "answer": 0,
-      "solution": "The Technical Committee on Privatisation and Commercialisation was set up in 1988."
+      "solution": "The Technical Committee on Privatisation and Commercialisation was set up in 1988.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A public enterprise that funds itself fully from revenue but stays government-owned is:",
@@ -118,7 +172,9 @@
         "Liquidated"
       ],
       "answer": 1,
-      "solution": "Full commercialization means self-financing without change of ownership."
+      "solution": "Full commercialization means self-financing without change of ownership.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is an argument against privatization?",
@@ -129,7 +185,9 @@
         "Revenue from sales"
       ],
       "answer": 1,
-      "solution": "Restructuring by private buyers usually reduces staff numbers."
+      "solution": "Restructuring by private buyers usually reduces staff numbers.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Public corporations are controlled by the legislature mainly through:",
@@ -140,7 +198,9 @@
         "Consumer boycott"
       ],
       "answer": 0,
-      "solution": "Committees, appropriations and annual reports are legislative instruments."
+      "solution": "Committees, appropriations and annual reports are legislative instruments.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "PHCN successor companies were largely sold in:",
@@ -151,7 +211,9 @@
         "2019"
       ],
       "answer": 2,
-      "solution": "The handover of generation and distribution companies took place on 1 November 2013."
+      "solution": "The handover of generation and distribution companies took place on 1 November 2013.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A major reason for establishing public corporations is:",
@@ -162,7 +224,9 @@
         "To draft the constitution"
       ],
       "answer": 0,
-      "solution": "Utilities like rail and power need capital beyond private reach in developing economies."
+      "solution": "Utilities like rail and power need capital beyond private reach in developing economies.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Overstaffing in parastatals leads to:",
@@ -173,7 +237,9 @@
         "Better maintenance"
       ],
       "answer": 0,
-      "solution": "Excess personnel raise costs and reduce funds for capital investment."
+      "solution": "Excess personnel raise costs and reduce funds for capital investment.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which corporation regulates telecommunications in Nigeria?",
@@ -184,7 +250,9 @@
         "NTA"
       ],
       "answer": 0,
-      "solution": "The Nigerian Communications Commission regulates the telecoms sector."
+      "solution": "The Nigerian Communications Commission regulates the telecoms sector.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Partial privatization means government:",
@@ -195,7 +263,9 @@
         "Nationalises the firm"
       ],
       "answer": 1,
-      "solution": "Government divests part of its holding while retaining a stake."
+      "solution": "Government divests part of its holding while retaining a stake.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A common cause of inefficiency in public corporations is:",
@@ -206,7 +276,9 @@
         "Audit"
       ],
       "answer": 0,
-      "solution": "Politically driven appointments and pricing distort commercial management."
+      "solution": "Politically driven appointments and pricing distort commercial management.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Privatization is expected to deepen the capital market by:",
@@ -217,7 +289,451 @@
         "Fixing prices"
       ],
       "answer": 0,
-      "solution": "Public offers of divested shares increase listings and retail participation."
+      "solution": "Public offers of divested shares increase listings and retail participation.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "\u2018Privatization\u2019 means?",
+      "options": [
+        "Government taking over private shops",
+        "Selling government-owned businesses to private individuals",
+        "Making a public park private",
+        "Closing down a public school"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Selling government-owned businesses to private individuals.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "During the struggle against colonialism, the OAU\u2019s \u2018Liberation Committee\u2019 was based in?",
+      "options": [
+        "Lagos, Nigeria",
+        "Cairo, Egypt",
+        "Addis Ababa, Ethiopia",
+        "Dar-es-Salaam, Tanzania"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Dar-es-Salaam, Tanzania.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\u2018Commercialization\u2019 means?",
+      "options": [
+        "Selling advertisements for the government",
+        "Buying a new government car",
+        "Giving away public services for free",
+        "Reorganizing a government agency to be self-funding/profit-oriented"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Reorganizing a government agency to be self-funding/profit-oriented.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A constitution that is easy to amend:",
+      "options": [
+        "Flexible",
+        "Rigid",
+        "Written",
+        "Federal"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Flexible.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "A constitution that is hard to amend:",
+      "options": [
+        "Rigid",
+        "Flexible",
+        "Unwritten",
+        "Unitary"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Rigid.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Nazism is associated with:",
+      "options": [
+        "Hitler",
+        "Mussolini",
+        "Marx",
+        "Lenin"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Hitler.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Capitalism emphasizes:",
+      "options": [
+        "Private ownership",
+        "State ownership",
+        "Communal living",
+        "No money"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Private ownership.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Socialism emphasizes:",
+      "options": [
+        "State control/Welfare",
+        "Private profit",
+        "Individualism",
+        "Competition"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: State control/Welfare.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The Aba Women's Riot was in:",
+      "options": [
+        "1929",
+        "1945",
+        "1914",
+        "1950"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 1929.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The legislative mace symbolizes:",
+      "options": [
+        "Authority",
+        "Wealth",
+        "Power",
+        "Justice"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Authority.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "A referendum determines:",
+      "options": [
+        "Public opinion on an issue",
+        "Election of president",
+        "Appointment of ministers",
+        "Creation of money"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Public opinion on an issue.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "NEPAD initiative is of the:",
+      "options": [
+        "AU",
+        "UN",
+        "EU",
+        "ECOWAS"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: AU.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Who annulled June 12 election?",
+      "options": [
+        "Babangida",
+        "Abacha",
+        "Shonekan",
+        "Gowon"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Babangida.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "The head of the Commonwealth is:",
+      "options": [
+        "The British Monarch",
+        "The US President",
+        "The UN Secretary General",
+        "The Nigerian President"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: The British Monarch.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "ECOWAS was established in:",
+      "options": [
+        "1975",
+        "1963",
+        "1980",
+        "1990"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 1975.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The headquarters of the AU is in:",
+      "options": [
+        "Abuja",
+        "Accra",
+        "Addis Ababa",
+        "Cairo"
+      ],
+      "answer": 2,
+      "solution": "Past question (WAEC 2025). Correct answer: Addis Ababa.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The organ of the UN responsible for peace is the:",
+      "options": [
+        "General Assembly",
+        "Security Council",
+        "Secretariat",
+        "ICJ"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: Security Council.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The Lyttelton Constitution of 1954 introduced:",
+      "options": [
+        "Federalism",
+        "Unitary system",
+        "Confederalism",
+        "Monarchy"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Federalism.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The 1999 Constitution (as amended) provides for:",
+      "options": [
+        "Two party system",
+        "Multi-party system",
+        "One party system",
+        "Zero party system"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: Multi-party system.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of these is not a feature of the 1999 constitution?",
+      "options": [
+        "Federalism",
+        "Presidentialism",
+        "Written",
+        "Parliamentary"
+      ],
+      "answer": 3,
+      "solution": "Past question (WAEC 2025). Correct answer: Parliamentary.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The NYSC was established to promote:",
+      "options": [
+        "Education",
+        "National Unity",
+        "Agriculture",
+        "Sports"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: National Unity.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The judiciary is responsible for:",
+      "options": [
+        "Making laws",
+        "Interpreting laws",
+        "Executing laws",
+        "Drafting bills"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: Interpreting laws.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The Aba Women's Riot took place in:",
+      "options": [
+        "1929",
+        "1945",
+        "1914",
+        "1953"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 1929.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The Executive arm includes:",
+      "options": [
+        "President and Ministers",
+        "Senators and Reps",
+        "Judges",
+        "Lawyers"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: President and Ministers.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Who moved the motion for independence in 1953?",
+      "options": [
+        "Nnamdi Azikiwe",
+        "Anthony Enahoro",
+        "Tafawa Balewa",
+        "Awolowo"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: Anthony Enahoro.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The Code of Conduct Bureau deals with:",
+      "options": [
+        "Public servants' assets",
+        "Elections",
+        "Crimes",
+        "Road safety"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Public servants' assets.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Decentralization is a feature of:",
+      "options": [
+        "Federalism",
+        "Unitary system",
+        "Monarchy",
+        "Dictatorship"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Federalism.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Who is regarded as the father of Communism?",
+      "options": [
+        "John Locke",
+        "Adam Smith",
+        "Karl Marx",
+        "Baron Montesquieu"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Karl Marx.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The transition from OAU to AU took place in?",
+      "options": [
+        "2002",
+        "2000",
+        "2004",
+        "2010"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 2002.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The primary function of the Judiciary is to?",
+      "options": [
+        "Execute laws",
+        "Interpret laws",
+        "Make laws",
+        "Amend laws"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Interpret laws.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The 1922 Clifford Constitution introduced the?",
+      "options": [
+        "Elective principle",
+        "Federal system",
+        "Ministerial system",
+        "Diarchy"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Elective principle.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The symbolic head of the Commonwealth of Nations is?",
+      "options": [
+        "British Prime Minister",
+        "UN Secretary-General",
+        "British Monarch",
+        "US President"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: British Monarch.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The main aim of the OAU was to?",
+      "options": [
+        "Promote trade with Europe",
+        "Eradicate colonialism in Africa",
+        "Create a single African army",
+        "Build a trans-African highway"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Eradicate colonialism in Africa.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The UN headquarters is located in?",
+      "options": [
+        "London",
+        "Geneva",
+        "New York",
+        "Paris"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: New York.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
     }
   ]
 }

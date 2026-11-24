@@ -19,7 +19,7 @@
       "examples": [
         {
           "q": "Explain how the veto power can paralyse the Security Council.",
-          "a": "A substantive resolution fails if any of the five permanent members votes against it, regardless of majority support. Thus a proposal to sanction or authorise force against a P5 member or its ally is effectively impossible — as seen repeatedly over Syria, Ukraine and the Middle East. This reflects 1945 power realities, protects great-power interests and is the central argument for Security Council reform, including Africa's demand for permanent representation."
+          "a": "A substantive resolution fails if any of the five permanent members votes against it, regardless of majority support. Thus a proposal to sanction or authorise force against a P5 member or its ally is effectively impossible \u2014 as seen repeatedly over Syria, Ukraine and the Middle East. This reflects 1945 power realities, protects great-power interests and is the central argument for Security Council reform, including Africa's demand for permanent representation."
         },
         {
           "q": "Why does Nigeria campaign for a permanent Security Council seat?",
@@ -29,15 +29,67 @@
     },
     {
       "title": "The Commonwealth and OPEC",
-      "html": "\n<h4>1. The Commonwealth of Nations</h4>\n<p>A voluntary association of 56 independent states, mostly former British colonies, tracing its modern form to the <b>1949 London Declaration</b>. Headquarters: Marlborough House, London. The King is Head of the Commonwealth (a symbolic office); a Secretary-General heads the Secretariat.</p>\n<ul><li><b>Aims:</b> promote democracy, human rights, good governance and the rule of law; foster economic and social development and trade; encourage educational, cultural and sporting cooperation; support small member states; consultation on world affairs.</li>\n<li><b>Organs and instruments:</b> the biennial <b>Commonwealth Heads of Government Meeting (CHOGM)</b>, the Secretariat, the Commonwealth Foundation, Commonwealth of Learning, Commonwealth Fund for Technical Cooperation, the Commonwealth Ministerial Action Group (CMAG), and the Commonwealth Games.</li>\n<li><b>Achievements:</b> scholarships and technical assistance; election observation; the <b>Harare Declaration (1991)</b> on democratic values; pressure against apartheid South Africa (which left in 1961 and returned in 1994); suspension of Nigeria (1995–1999), Pakistan, Fiji and Zimbabwe for undemocratic conduct.</li>\n<li><b>Problems:</b> no enforcement power beyond suspension; unequal economic weight; declining relevance to trade; funding limitations.</li></ul>\n<h4>2. OPEC</h4>\n<p>The <b>Organization of the Petroleum Exporting Countries</b> was founded at the <b>Baghdad Conference, 14 September 1960</b>, by Iran, Iraq, Kuwait, Saudi Arabia and Venezuela. Headquarters moved from Geneva to <b>Vienna</b> in 1965. <b>Nigeria joined in 1971.</b></p>\n<ul><li><b>Objectives:</b> coordinate and unify petroleum policies of member states; secure fair and stable prices for producers; ensure efficient, economic and regular supply to consumers; guarantee a fair return on capital to investors; eliminate harmful and unnecessary price fluctuations.</li>\n<li><b>Organs:</b> the Conference of ministers (supreme organ, meets at least twice yearly), the Board of Governors, the Secretariat headed by a Secretary-General, and the Economic Commission.</li>\n<li><b>Instruments:</b> production quotas allocated to members, price benchmarks, and coordination with non-OPEC producers (OPEC+ since 2016).</li>\n<li><b>Achievements:</b> transfer of pricing power from the international oil companies to producing states in the 1970s; higher revenues funding national development; the 1973 embargo demonstrated collective bargaining power; the OPEC Fund for International Development assists poorer countries; technical training and data.</li>\n<li><b>Problems:</b> quota violations and cheating; political and religious rivalries among members (Iran–Saudi Arabia, Iran–Iraq war); dependence on a single commodity; competition from non-OPEC producers, US shale and renewables; global energy transition and climate pressure.</li></ul>\n<h4>3. Nigeria's Benefits and Obligations</h4>\n<p>Through OPEC Nigeria gains price stabilisation, market intelligence, training and a share of collective bargaining power; it accepts quota discipline in return, which sometimes conflicts with domestic revenue needs. Through the Commonwealth Nigeria gains scholarships, technical cooperation and diplomatic access, and accepts scrutiny of its democratic conduct.</p>\n",
+      "html": "\n<h4>1. The Commonwealth of Nations</h4>\n<p>A voluntary association of 56 independent states, mostly former British colonies, tracing its modern form to the <b>1949 London Declaration</b>. Headquarters: Marlborough House, London. The King is Head of the Commonwealth (a symbolic office); a Secretary-General heads the Secretariat.</p>\n<ul><li><b>Aims:</b> promote democracy, human rights, good governance and the rule of law; foster economic and social development and trade; encourage educational, cultural and sporting cooperation; support small member states; consultation on world affairs.</li>\n<li><b>Organs and instruments:</b> the biennial <b>Commonwealth Heads of Government Meeting (CHOGM)</b>, the Secretariat, the Commonwealth Foundation, Commonwealth of Learning, Commonwealth Fund for Technical Cooperation, the Commonwealth Ministerial Action Group (CMAG), and the Commonwealth Games.</li>\n<li><b>Achievements:</b> scholarships and technical assistance; election observation; the <b>Harare Declaration (1991)</b> on democratic values; pressure against apartheid South Africa (which left in 1961 and returned in 1994); suspension of Nigeria (1995\u20131999), Pakistan, Fiji and Zimbabwe for undemocratic conduct.</li>\n<li><b>Problems:</b> no enforcement power beyond suspension; unequal economic weight; declining relevance to trade; funding limitations.</li></ul>\n<h4>2. OPEC</h4>\n<p>The <b>Organization of the Petroleum Exporting Countries</b> was founded at the <b>Baghdad Conference, 14 September 1960</b>, by Iran, Iraq, Kuwait, Saudi Arabia and Venezuela. Headquarters moved from Geneva to <b>Vienna</b> in 1965. <b>Nigeria joined in 1971.</b></p>\n<ul><li><b>Objectives:</b> coordinate and unify petroleum policies of member states; secure fair and stable prices for producers; ensure efficient, economic and regular supply to consumers; guarantee a fair return on capital to investors; eliminate harmful and unnecessary price fluctuations.</li>\n<li><b>Organs:</b> the Conference of ministers (supreme organ, meets at least twice yearly), the Board of Governors, the Secretariat headed by a Secretary-General, and the Economic Commission.</li>\n<li><b>Instruments:</b> production quotas allocated to members, price benchmarks, and coordination with non-OPEC producers (OPEC+ since 2016).</li>\n<li><b>Achievements:</b> transfer of pricing power from the international oil companies to producing states in the 1970s; higher revenues funding national development; the 1973 embargo demonstrated collective bargaining power; the OPEC Fund for International Development assists poorer countries; technical training and data.</li>\n<li><b>Problems:</b> quota violations and cheating; political and religious rivalries among members (Iran\u2013Saudi Arabia, Iran\u2013Iraq war); dependence on a single commodity; competition from non-OPEC producers, US shale and renewables; global energy transition and climate pressure.</li></ul>\n<h4>3. Nigeria's Benefits and Obligations</h4>\n<p>Through OPEC Nigeria gains price stabilisation, market intelligence, training and a share of collective bargaining power; it accepts quota discipline in return, which sometimes conflicts with domestic revenue needs. Through the Commonwealth Nigeria gains scholarships, technical cooperation and diplomatic access, and accepts scrutiny of its democratic conduct.</p>\n",
       "examples": [
         {
           "q": "Why did OPEC's 1973 action reshape world politics?",
-          "a": "During the Arab–Israeli war, Arab OPEC members imposed an <b>oil embargo</b> on states supporting Israel and cut production, quadrupling crude prices. It transferred pricing power from the multinational oil companies to producing governments, created huge petro-dollar surpluses (Nigeria's oil boom of the 1970s), triggered recession and inflation in the West, and proved that developing-country producer cartels could exert real leverage — fuelling demands for a New International Economic Order."
+          "a": "During the Arab\u2013Israeli war, Arab OPEC members imposed an <b>oil embargo</b> on states supporting Israel and cut production, quadrupling crude prices. It transferred pricing power from the multinational oil companies to producing governments, created huge petro-dollar surpluses (Nigeria's oil boom of the 1970s), triggered recession and inflation in the West, and proved that developing-country producer cartels could exert real leverage \u2014 fuelling demands for a New International Economic Order."
         },
         {
           "q": "Evaluate the effect of Nigeria's suspension from the Commonwealth in 1995.",
-          "a": "Following the execution of Ken Saro-Wiwa and eight Ogoni activists during the Auckland CHOGM, Nigeria was suspended for breaching the Harare Declaration. The effect was largely diplomatic and reputational: loss of technical assistance and observer status, deepened isolation of the Abacha regime, and encouragement for internal pro-democracy forces. It did not force immediate change — showing the Commonwealth's reliance on moral rather than coercive pressure — but Nigeria's readmission in 1999 was tied to the return of civil rule."
+          "a": "Following the execution of Ken Saro-Wiwa and eight Ogoni activists during the Auckland CHOGM, Nigeria was suspended for breaching the Harare Declaration. The effect was largely diplomatic and reputational: loss of technical assistance and observer status, deepened isolation of the Abacha regime, and encouragement for internal pro-democracy forces. It did not force immediate change \u2014 showing the Commonwealth's reliance on moral rather than coercive pressure \u2014 but Nigeria's readmission in 1999 was tied to the return of civil rule."
+        }
+      ]
+    },
+    {
+      "title": "Principal organs of the UN and their functions",
+      "html": "<p><b>Principal organs of the UN and their functions</b> is a key part of Global Organizations (UN, Commonwealth, OPEC) (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Principal Organs Organ Composition Functions General Assembly All 193 members, one vote each Deliberates on any Charter matter, approves budget, admits members, elects non-permanent SC members Security Council 15 members: 5 permanent (USA, UK, France, Russia, China) with veto, 10 elected for two years Primary responsibility for peace and security; authorises sanctions and peacekeeping Economic and Social Council 54 members Coordinates economic, social and humanitarian work and specialised agencies Trusteeship Council Suspended 1994 Supervised trust territories until Palau's independence International Court of Justice 15 judges, The Hague Settles disputes between states; advisory opinions Secretariat Headed by the Secretary-General Administration and day-to-day work 4.</li><li>Organs and instruments: the biennial Commonwealth Heads of Government Meeting (CHOGM) , the Secretariat, the Commonwealth Foundation, Commonwealth of Learning, Commonwealth Fund for Technical Cooperation, the Commonwealth Ministerial Action Group (CMAG), and the Commonwealth Games.</li><li>Organs: the Conference of ministers (supreme organ, meets at least twice yearly), the Board of Governors, the Secretariat headed by a Secretary-General, and the Economic Commission.</li></ul><h4>Worked example</h4><p><b>Q:</b> The United Nations was founded on:<br/><b>A:</b> 24 October 1945 \u2014 The Charter came into force on 24 October 1945, celebrated as UN Day.</p><p><b>Q:</b> The UN organ with primary responsibility for peace and security is the:<br/><b>A:</b> Security Council \u2014 The Security Council may authorise sanctions and the use of force.</p>",
+      "examples": [
+        {
+          "q": "The United Nations was founded on:",
+          "a": "24 October 1945 \u2014 The Charter came into force on 24 October 1945, celebrated as UN Day."
+        },
+        {
+          "q": "The UN organ with primary responsibility for peace and security is the:",
+          "a": "Security Council \u2014 The Security Council may authorise sanctions and the use of force."
+        }
+      ]
+    },
+    {
+      "title": "Specialised agencies and achievements",
+      "html": "<p><b>Specialised agencies and achievements</b> is a key part of Global Organizations (UN, Commonwealth, OPEC) (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Principal Organs Organ Composition Functions General Assembly All 193 members, one vote each Deliberates on any Charter matter, approves budget, admits members, elects non-permanent SC members Security Council 15 members: 5 permanent (USA, UK, France, Russia, China) with veto, 10 elected for two years Primary responsibility for peace and security; authorises sanctions and peacekeeping Economic and Social Council 54 members Coordinates economic, social and humanitarian work and specialised agencies Trusteeship Council Suspended 1994 Supervised trust territories until Palau's independence International Court of Justice 15 judges, The Hague Settles disputes between states; advisory opinions Secretariat Headed by the Secretary-General Administration and day-to-day work 4.</li><li>Specialised Agencies WHO, UNESCO, FAO, ILO, UNICEF, UNHCR, IMF, World Bank, IAEA, UNDP, UNIDO, WTO (related).</li><li>Achievements and Problems Achievements: prevention of a third world war; decolonisation of more than 80 territories; peacekeeping from the Congo to Mali; the Universal Declaration of Human Rights (1948); eradication of smallpox and near-eradication of polio; humanitarian relief; development goals (MDGs and SDGs); disarmament treaties.</li><li>Achievements: scholarships and technical assistance; election observation; the Harare Declaration (1991) on democratic values; pressure against apartheid South Africa (which left in 1961 and returned in 1994); suspension of Nigeria (1995\u20131999), Pakistan, Fiji and Zimbabwe for undemocratic conduct.</li><li>Achievements: transfer of pricing power from the international oil companies to producing states in the 1970s; higher revenues funding national development; the 1973 embargo demonstrated collective bargaining power; the OPEC Fund for International Development assists poorer countries; technical training and data.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which is a UN specialised agency?<br/><b>A:</b> WHO \u2014 The World Health Organization is a UN specialised agency.</p>",
+      "examples": [
+        {
+          "q": "Which is a UN specialised agency?",
+          "a": "WHO \u2014 The World Health Organization is a UN specialised agency."
+        }
+      ]
+    },
+    {
+      "title": "The Commonwealth of Nations: aims and organs",
+      "html": "<p><b>The Commonwealth of Nations: aims and organs</b> is a key part of Global Organizations (UN, Commonwealth, OPEC) (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Formation The United Nations was founded on 24 October 1945 when the Charter, drafted at the San Francisco Conference, came into force, replacing the failed League of Nations.</li><li>Aims Maintain international peace and security.</li><li>Be a centre for harmonising the actions of nations.</li><li>Principal Organs Organ Composition Functions General Assembly All 193 members, one vote each Deliberates on any Charter matter, approves budget, admits members, elects non-permanent SC members Security Council 15 members: 5 permanent (USA, UK, France, Russia, China) with veto, 10 elected for two years Primary responsibility for peace and security; authorises sanctions and peacekeeping Economic and Social Council 54 members Coordinates economic, social and humanitarian work and specialised agencies Trusteeship Council Suspended 1994 Supervised trust territories until Palau's independence International Court of Justice 15 judges, The Hague Settles disputes between states; advisory opinions Secretariat Headed by the Secretary-General Administration and day-to-day work 4.</li><li>The Commonwealth of Nations A voluntary association of 56 independent states, mostly former British colonies, tracing its modern form to the 1949 London Declaration .</li></ul><h4>Worked example</h4><p><b>Q:</b> The United Nations was founded on:<br/><b>A:</b> 24 October 1945 \u2014 The Charter came into force on 24 October 1945, celebrated as UN Day.</p><p><b>Q:</b> Nigeria joined the United Nations in:<br/><b>A:</b> 1960 \u2014 Nigeria was admitted on 7 October 1960.</p>",
+      "examples": [
+        {
+          "q": "The United Nations was founded on:",
+          "a": "24 October 1945 \u2014 The Charter came into force on 24 October 1945, celebrated as UN Day."
+        },
+        {
+          "q": "Nigeria joined the United Nations in:",
+          "a": "1960 \u2014 Nigeria was admitted on 7 October 1960."
+        }
+      ]
+    },
+    {
+      "title": "OPEC: formation, objectives and instruments",
+      "html": "<p><b>OPEC: formation, objectives and instruments</b> is a key part of Global Organizations (UN, Commonwealth, OPEC) (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Formation The United Nations was founded on 24 October 1945 when the Charter, drafted at the San Francisco Conference, came into force, replacing the failed League of Nations.</li><li>Organs and instruments: the biennial Commonwealth Heads of Government Meeting (CHOGM) , the Secretariat, the Commonwealth Foundation, Commonwealth of Learning, Commonwealth Fund for Technical Cooperation, the Commonwealth Ministerial Action Group (CMAG), and the Commonwealth Games.</li><li>OPEC The Organization of the Petroleum Exporting Countries was founded at the Baghdad Conference, 14 September 1960 , by Iran, Iraq, Kuwait, Saudi Arabia and Venezuela.</li><li>Objectives: coordinate and unify petroleum policies of member states; secure fair and stable prices for producers; ensure efficient, economic and regular supply to consumers; guarantee a fair return on capital to investors; eliminate harmful and unnecessary price fluctuations.</li><li>Instruments: production quotas allocated to members, price benchmarks, and coordination with non-OPEC producers (OPEC+ since 2016).</li></ul><h4>Worked example</h4><p><b>Q:</b> OPEC was founded in:<br/><b>A:</b> 1960 \u2014 The Baghdad Conference of September 1960 created OPEC.</p><p><b>Q:</b> Nigeria joined OPEC in:<br/><b>A:</b> 1971 \u2014 Nigeria became a member in 1971 after oil exports grew.</p>",
+      "examples": [
+        {
+          "q": "OPEC was founded in:",
+          "a": "1960 \u2014 The Baghdad Conference of September 1960 created OPEC."
+        },
+        {
+          "q": "Nigeria joined OPEC in:",
+          "a": "1971 \u2014 Nigeria became a member in 1971 after oil exports grew."
         }
       ]
     }
@@ -52,7 +104,9 @@
         "25 May 1963"
       ],
       "answer": 0,
-      "solution": "The Charter came into force on 24 October 1945, celebrated as UN Day."
+      "solution": "The Charter came into force on 24 October 1945, celebrated as UN Day.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The UN organ with primary responsibility for peace and security is the:",
@@ -63,7 +117,9 @@
         "ICJ"
       ],
       "answer": 1,
-      "solution": "The Security Council may authorise sanctions and the use of force."
+      "solution": "The Security Council may authorise sanctions and the use of force.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "How many permanent members does the Security Council have?",
@@ -74,7 +130,9 @@
         "Twenty"
       ],
       "answer": 0,
-      "solution": "The USA, UK, France, Russia and China hold permanent seats with veto power."
+      "solution": "The USA, UK, France, Russia and China hold permanent seats with veto power.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The International Court of Justice sits at:",
@@ -85,7 +143,9 @@
         "Vienna"
       ],
       "answer": 2,
-      "solution": "The ICJ is located in the Peace Palace, The Hague."
+      "solution": "The ICJ is located in the Peace Palace, The Hague.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nigeria joined the United Nations in:",
@@ -96,7 +156,9 @@
         "1971"
       ],
       "answer": 1,
-      "solution": "Nigeria was admitted on 7 October 1960."
+      "solution": "Nigeria was admitted on 7 October 1960.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Trusteeship Council suspended operations in:",
@@ -107,7 +169,9 @@
         "2002"
       ],
       "answer": 2,
-      "solution": "It suspended work after Palau, the last trust territory, became independent in 1994."
+      "solution": "It suspended work after Palau, the last trust territory, became independent in 1994.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "OPEC was founded in:",
@@ -118,7 +182,9 @@
         "1973"
       ],
       "answer": 1,
-      "solution": "The Baghdad Conference of September 1960 created OPEC."
+      "solution": "The Baghdad Conference of September 1960 created OPEC.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nigeria joined OPEC in:",
@@ -129,7 +195,9 @@
         "1979"
       ],
       "answer": 2,
-      "solution": "Nigeria became a member in 1971 after oil exports grew."
+      "solution": "Nigeria became a member in 1971 after oil exports grew.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "OPEC's headquarters is in:",
@@ -140,7 +208,9 @@
         "Riyadh"
       ],
       "answer": 2,
-      "solution": "The Secretariat moved from Geneva to Vienna in 1965."
+      "solution": "The Secretariat moved from Geneva to Vienna in 1965.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The supreme organ of OPEC is the:",
@@ -151,7 +221,9 @@
         "Economic Commission"
       ],
       "answer": 0,
-      "solution": "The Conference of member-state ministers determines policy."
+      "solution": "The Conference of member-state ministers determines policy.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Commonwealth declaration on democratic values adopted in 1991 was the:",
@@ -162,7 +234,9 @@
         "Sirte Declaration"
       ],
       "answer": 0,
-      "solution": "The Harare Declaration committed members to democracy and human rights."
+      "solution": "The Harare Declaration committed members to democracy and human rights.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nigeria was suspended from the Commonwealth in:",
@@ -173,7 +247,9 @@
         "1999"
       ],
       "answer": 1,
-      "solution": "Suspension followed the execution of Ken Saro-Wiwa in November 1995."
+      "solution": "Suspension followed the execution of Ken Saro-Wiwa in November 1995.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Commonwealth body that deals with serious violations of political values is:",
@@ -184,7 +260,9 @@
         "CFTC"
       ],
       "answer": 0,
-      "solution": "The Commonwealth Ministerial Action Group handles persistent violations."
+      "solution": "The Commonwealth Ministerial Action Group handles persistent violations.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a UN specialised agency?",
@@ -195,7 +273,9 @@
         "AU"
       ],
       "answer": 0,
-      "solution": "The World Health Organization is a UN specialised agency."
+      "solution": "The World Health Organization is a UN specialised agency.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A major weakness of the UN is:",
@@ -206,7 +286,9 @@
         "An independent army"
       ],
       "answer": 0,
-      "solution": "The veto can block action even where the majority supports it."
+      "solution": "The veto can block action even where the majority supports it.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "OPEC controls prices mainly through:",
@@ -217,7 +299,451 @@
         "Tariffs on imports"
       ],
       "answer": 0,
-      "solution": "Members agree output ceilings to influence global supply and price."
+      "solution": "Members agree output ceilings to influence global supply and price.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Who is the \u2018Chief Administrative Officer\u2019 of the United Nations?",
+      "options": [
+        "The President",
+        "The Speaker",
+        "The Chief Justice",
+        "The Secretary-General"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: The Secretary-General.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Concert of Nations\u2019/League of Nations was a historical precursor to the?",
+      "options": [
+        "EU",
+        "OAU",
+        "ECOWAS",
+        "UN"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: UN.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Green Tree Agreement\u2019 was signed to settle the land boundary between?",
+      "options": [
+        "Nigeria and Ghana",
+        "Nigeria and Chad",
+        "Nigeria and Benin",
+        "Nigeria and Cameroon"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Nigeria and Cameroon.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Following an ICJ ruling, the Bakassi Peninsula was ceded to?",
+      "options": [
+        "Nigeria",
+        "Niger",
+        "Equatorial Guinea",
+        "Cameroon"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Cameroon.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What does \u2018Diplomatic Immunity\u2019 provide for foreign diplomats?",
+      "options": [
+        "Right to vote in the host country",
+        "Right to avoid paying all local taxes",
+        "Right to travel without a passport",
+        "Protection from prosecution under the host country's laws"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Protection from prosecution under the host country's laws.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "How many member states are currently in the African Union (AU)?",
+      "options": [
+        "50",
+        "54",
+        "60",
+        "55"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 55.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a specialized agency of the UN?",
+      "options": [
+        "Security Council",
+        "General Assembly",
+        "Secretariat",
+        "FAO (Food and Agriculture Organization)"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: FAO (Food and Agriculture Organization).",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\u2018Globalization\u2019 refers to?",
+      "options": [
+        "The closing of national borders",
+        "Increasing global interconnectedness in trade and culture",
+        "War between all nations",
+        "Traveling exclusively to space"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Increasing global interconnectedness in trade and culture.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A \u2018Bilateral Agreement\u2019 is a formal agreement between?",
+      "options": [
+        "10 countries",
+        "A world law body and a state",
+        "A trade ban group",
+        "Two countries"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Two countries.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A \u2018Multilateral Agreement\u2019 is a formal agreement between?",
+      "options": [
+        "Exactly 2 countries",
+        "More than 2 countries/parties",
+        "One country and itself",
+        "A local government and a state"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: More than 2 countries/parties.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Magna Carta\u2019 of 1215 is significant historically for?",
+      "options": [
+        "Scientific discovery",
+        "Establishing human rights and limiting absolute royal power",
+        "Discovering the American continent",
+        "Starting the first world war"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Establishing human rights and limiting absolute royal power.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The term \u2018Iron Curtain\u2019 was famously used during the Cold War by?",
+      "options": [
+        "Ronald Reagan",
+        "Joseph Stalin",
+        "John F. Kennedy",
+        "Winston Churchill"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Winston Churchill.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\u2018Xenophobia\u2019 is defined as?",
+      "options": [
+        "Fear of heights",
+        "Fear of water",
+        "Love for foreign animals",
+        "Intense dislike or fear of foreigners"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Intense dislike or fear of foreigners.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Arab Spring\u2019 started in?",
+      "options": [
+        "Libya",
+        "Egypt",
+        "Tunisia",
+        "Syria"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Tunisia.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is \u2018Propaganda\u2019?",
+      "options": [
+        "Honest news reporting",
+        "A government law",
+        "A type of classical music",
+        "Biased info used to promote a cause"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Biased info used to promote a cause.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Judiciary\u2019 is considered independent when?",
+      "options": [
+        "It is controlled by the Executive",
+        "It has fixed salaries and security of tenure",
+        "It has no permanent judges",
+        "It has the power to make new laws"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: It has fixed salaries and security of tenure.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is \u2018Delegated Legislation\u2019?",
+      "options": [
+        "Laws made by the executive under authority of Parliament",
+        "Laws made directly by Parliament",
+        "Military decrees",
+        "Illegal or unconstitutional laws"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Laws made by the executive under authority of Parliament.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A \u2018By-election\u2019 is held when?",
+      "options": [
+        "A new political party is formed",
+        "A legislative seat becomes vacant before a general election",
+        "The President dies in office",
+        "Every 4 years automatically"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: A legislative seat becomes vacant before a general election.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is \u2018Red-tapeism\u2019?",
+      "options": [
+        "Building roads and infrastructure",
+        "Using red ink for official signatures",
+        "Military parades",
+        "Excessive bureaucracy and delay"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Excessive bureaucracy and delay.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A \u2018Statutory Corporation\u2019 is established by?",
+      "options": [
+        "An Act of Parliament/Legislature",
+        "A private businessman",
+        "A trade union",
+        "A verbal order from a Governor"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: An Act of Parliament/Legislature.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which of these best describes a \u2018Naturalized Citizen\u2019?",
+      "options": [
+        "Someone born in the country",
+        "A tourist on vacation",
+        "Someone granted citizenship after a formal application",
+        "A foreign ambassador"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Someone granted citizenship after a formal application.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\u2018Totalitarianism\u2019 refers to?",
+      "options": [
+        "Total freedom for all citizens",
+        "Rule by a simple majority",
+        "Total control of all aspects of life by the state",
+        "A state with no government"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Total control of all aspects of life by the state.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A \u2018Coup d\u2019etat\u2019 is?",
+      "options": [
+        "A peaceful election",
+        "A violent or illegal change of government",
+        "A new legislative bill",
+        "A formal peace treaty"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: A violent or illegal change of government.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Fourth Estate of the Realm\u2019 refers to?",
+      "options": [
+        "The Judiciary",
+        "Traditional Rulers",
+        "The Press/Media",
+        "The Police"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: The Press/Media.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is \u2018Fascism\u2019?",
+      "options": [
+        "Radical democracy",
+        "Rule by the poor",
+        "Rule by priests",
+        "Radical authoritarian nationalism"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Radical authoritarian nationalism.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is \u2018Nazism\u2019?",
+      "options": [
+        "Fascism specifically in Germany",
+        "Fascism specifically in Italy",
+        "Democracy in the USA",
+        "Socialism in China"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Fascism specifically in Germany.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Electorate\u2019 refers to?",
+      "options": [
+        "People who run for office",
+        "People who count the votes",
+        "The police guarding the polls",
+        "People who are eligible to vote"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: People who are eligible to vote.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\u2018Gerrymandering\u2019 is the practice of?",
+      "options": [
+        "Manipulating electoral boundaries for political gain",
+        "Voting twice in an election",
+        "Campaigning on election day",
+        "Counting votes in secret"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Manipulating electoral boundaries for political gain.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A \u2018Manifesto\u2019 is?",
+      "options": [
+        "A party\u2019s program or list of promises",
+        "A passenger list for a ship",
+        "A court order for an arrest",
+        "A new law passed by the Senate"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: A party\u2019s program or list of promises.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is \u2018Decentralization\u2019?",
+      "options": [
+        "Moving all power to the capital city",
+        "Spreading power and authority away from the center",
+        "Closing down local government offices",
+        "Increasing federal taxes"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Spreading power and authority away from the center.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Judiciary\u2019 consists of?",
+      "options": [
+        "Ministers and Commissioners",
+        "Senators and Members of the House",
+        "Judges and Courts",
+        "The Police and Army"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Judges and Courts.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Speaker\u2019 presides over the?",
+      "options": [
+        "Senate",
+        "Supreme Court",
+        "House of Representatives",
+        "Federal Executive Council"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: House of Representatives.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018President of the Senate\u2019 is the?",
+      "options": [
+        "Vice President of the country",
+        "Presiding officer of the Senate",
+        "Chief Justice of Nigeria",
+        "Speaker of the House"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Presiding officer of the Senate.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \u2018Accountant General\u2019 is primarily responsible for?",
+      "options": [
+        "Making new financial laws",
+        "Managing government accounts and finances",
+        "Arresting financial criminals",
+        "Judging tax cases in court"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Managing government accounts and finances.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
     }
   ]
 }

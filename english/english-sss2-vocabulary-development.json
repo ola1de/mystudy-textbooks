@@ -12,7 +12,7 @@
   "modules": [
     {
       "title": "Homophones, homonyms, homographs",
-      "html": "<p><b>Homophones</b> — sound the same but differ in spelling and meaning: <i>their / there / they're; principal / principle; stationery / stationary; bare / bear; peace / piece</i>.</p>\n  <p><b>Homonyms</b> — same spelling <u>and</u> same sound but different meanings: <i>bank</i> (river / financial); <i>bark</i> (of a tree / of a dog); <i>fair</i> (just / market).</p>\n  <p><b>Homographs</b> — same spelling but different meaning and often different pronunciation: <i>lead</i> (metal, /led/) vs <i>lead</i> (to guide, /liːd/); <i>tear</i> (from the eye, /tɪə/) vs <i>tear</i> (to rip, /teə/); <i>row</i> (a line) vs <i>row</i> (a quarrel).</p>",
+      "html": "<p><b>Homophones</b> \u2014 sound the same but differ in spelling and meaning: <i>their / there / they're; principal / principle; stationery / stationary; bare / bear; peace / piece</i>.</p>\n  <p><b>Homonyms</b> \u2014 same spelling <u>and</u> same sound but different meanings: <i>bank</i> (river / financial); <i>bark</i> (of a tree / of a dog); <i>fair</i> (just / market).</p>\n  <p><b>Homographs</b> \u2014 same spelling but different meaning and often different pronunciation: <i>lead</i> (metal, /led/) vs <i>lead</i> (to guide, /li\u02d0d/); <i>tear</i> (from the eye, /t\u026a\u0259/) vs <i>tear</i> (to rip, /te\u0259/); <i>row</i> (a line) vs <i>row</i> (a quarrel).</p><h4>Key points</h4><ul><li>Same sound, different spelling.</li><li>Same spelling, different sound and meaning.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which pair are homophones?<br/><b>A:</b> their / there</p><p><b>Q:</b> Which pair are homographs (differ in sound)?<br/><b>A:</b> lead (metal) / lead (guide)</p>",
       "examples": [
         {
           "q": "Choose the right word: <i>The wound had a (bare / bear) minimum of bandage.</i>",
@@ -22,7 +22,7 @@
     },
     {
       "title": "Phrasal verbs, idioms and collocations",
-      "html": "<p>A <b>phrasal verb</b> is a verb + particle whose meaning is often not obvious from its parts: <i>put off</i> (postpone), <i>give up</i> (quit), <i>look after</i> (care for), <i>break down</i> (stop functioning; cry).</p>\n  <p>An <b>idiom</b> is a fixed expression whose meaning is not literal: <i>kick the bucket</i> (die), <i>let the cat out of the bag</i> (reveal a secret), <i>burn the midnight oil</i> (work late), <i>a piece of cake</i> (very easy).</p>\n  <p>A <b>collocation</b> is a natural word partnership: <i>make a decision</i> (not 'do a decision'), <i>strong tea</i> (not 'powerful tea'), <i>heavy rain</i>, <i>catch a cold</i>.</p>",
+      "html": "<p>A <b>phrasal verb</b> is a verb + particle whose meaning is often not obvious from its parts: <i>put off</i> (postpone), <i>give up</i> (quit), <i>look after</i> (care for), <i>break down</i> (stop functioning; cry).</p>\n  <p>An <b>idiom</b> is a fixed expression whose meaning is not literal: <i>kick the bucket</i> (die), <i>let the cat out of the bag</i> (reveal a secret), <i>burn the midnight oil</i> (work late), <i>a piece of cake</i> (very easy).</p>\n  <p>A <b>collocation</b> is a natural word partnership: <i>make a decision</i> (not 'do a decision'), <i>strong tea</i> (not 'powerful tea'), <i>heavy rain</i>, <i>catch a cold</i>.</p><h4>Key points</h4><ul><li>'Fast food' is the fixed collocation.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which pair are correct collocations?<br/><b>A:</b> fast food only</p>",
       "examples": [
         {
           "q": "Give the meaning of <i>burn the midnight oil</i>.",
@@ -31,14 +31,33 @@
       ]
     },
     {
-      "title": "Registers — Medicine, Science, ICT",
-      "html": "<p><b>Medicine</b>: diagnosis, prognosis, symptom, prescription, dosage, antibiotic, epidemic, surgery, anaesthetic, quarantine, immunisation.</p>\n  <p><b>Science</b> (general): hypothesis, experiment, control, variable, molecule, compound, catalyst, momentum, evaporation, ecosystem.</p>\n  <p><b>ICT</b>: hardware, software, byte, browser, encryption, algorithm, database, malware, cloud, bandwidth, firewall, protocol.</p>",
+      "title": "Registers \u2014 Medicine, Science, ICT",
+      "html": "<p><b>Medicine</b>: diagnosis, prognosis, symptom, prescription, dosage, antibiotic, epidemic, surgery, anaesthetic, quarantine, immunisation.</p>\n  <p><b>Science</b> (general): hypothesis, experiment, control, variable, molecule, compound, catalyst, momentum, evaporation, ecosystem.</p>\n  <p><b>ICT</b>: hardware, software, byte, browser, encryption, algorithm, database, malware, cloud, bandwidth, firewall, protocol.</p><h4>Key points</h4><ul><li>Encryption \u2014 computing/ICT.</li><li>Science.</li></ul><h4>Worked example</h4><p><b>Q:</b> <i>Encryption</i> belongs to which register?<br/><b>A:</b> ICT</p><p><b>Q:</b> <i>Hypothesis</i> belongs to which register?<br/><b>A:</b> Science</p><h4>More key points</h4><ul><li><i>Firewall</i> in ICT is: \u2014 security software / hardware to block threats.</li><li><i>Compound</i> in Science means: \u2014 a substance from two or more elements chemically joined.</li><li><i>Cloud</i> in ICT means: \u2014 internet-hosted computing storage.</li></ul>",
       "examples": [
         {
           "q": "Which register does <i>algorithm, encryption, malware</i> belong to?",
           "a": "ICT / Computing."
         }
       ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> Which pair are homophones?<br/><b>A:</b> their / there \u2014 Same sound, different spelling.</p><p><b>Q:</b> Which pair are homographs (differ in sound)?<br/><b>A:</b> lead (metal) / lead (guide) \u2014 Same spelling, different sound and meaning.</p><p><b>Q:</b> <i>Bank</i> (river bank / money bank) is an example of a:<br/><b>A:</b> homonym \u2014 Same spelling and sound, different meanings.</p>",
+      "examples": [
+        {
+          "q": "Which pair are homophones?",
+          "a": "their / there"
+        },
+        {
+          "q": "Which pair are homographs (differ in sound)?",
+          "a": "lead (metal) / lead (guide)"
+        }
+      ]
+    },
+    {
+      "title": "Key definitions",
+      "html": "<p>Learn these definitions exactly as stated \u2014 they are the terms examiners use.</p><ul><li><b>Homophones</b>: \u2014 sound the same but differ in spelling and meaning: their / there / they're; principal / principle; stationery / stationary; bare / bear; peace / piece</li><li><b>Homonyms</b>: \u2014 same spelling and same sound but different meanings: bank (river / financial); bark (of a tree / of a dog); fair (just / market)</li><li><b>Homographs</b>: \u2014 same spelling but different meaning and often different pronunciation: lead (metal, /led/) vs lead (to guide, /li\u02d0d/); tear (from the eye, /t\u026a\u0259/) vs tear (to rip, /te\u0259/); row (a</li><li><b>phrasal verb</b>: is a verb + particle whose meaning is often not obvious from its parts: put off (postpone), give up (quit), look after (care for), break down (stop functioning; cry)</li><li><b>idiom</b>: is a fixed expression whose meaning is not literal: kick the bucket (die), let the cat out of the bag (reveal a secret), burn the midnight oil (work late), a piece of cake (very ea</li><li><b>collocation</b>: is a natural word partnership: make a decision (not 'do a decision'), strong tea (not 'powerful tea'), heavy rain , catch a cold</li></ul>",
+      "examples": []
     }
   ],
   "quiz": [
@@ -51,7 +70,9 @@
         "row / row"
       ],
       "answer": 0,
-      "solution": "Same sound, different spelling."
+      "solution": "Same sound, different spelling.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which pair are homographs (differ in sound)?",
@@ -62,7 +83,9 @@
         "stationery / stationary"
       ],
       "answer": 2,
-      "solution": "Same spelling, different sound and meaning."
+      "solution": "Same spelling, different sound and meaning.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Bank</i> (river bank / money bank) is an example of a:",
@@ -73,7 +96,9 @@
         "synonym"
       ],
       "answer": 1,
-      "solution": "Same spelling and sound, different meanings."
+      "solution": "Same spelling and sound, different meanings.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose correct: <i>Please write on the (stationary / stationery).</i>",
@@ -84,7 +109,9 @@
         "stationeries"
       ],
       "answer": 1,
-      "solution": "<i>Stationery</i> = writing materials; <i>stationary</i> = not moving."
+      "solution": "<i>Stationery</i> = writing materials; <i>stationary</i> = not moving.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Principal</i> vs <i>principle</i>: which means a rule or belief?",
@@ -95,7 +122,9 @@
         "neither"
       ],
       "answer": 1,
-      "solution": "<i>Principle</i> = rule."
+      "solution": "<i>Principle</i> = rule.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>put off</i>:",
@@ -106,7 +135,9 @@
         "support"
       ],
       "answer": 1,
-      "solution": "Put off = postpone."
+      "solution": "Put off = postpone.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>give up</i>:",
@@ -117,7 +148,9 @@
         "travel"
       ],
       "answer": 0,
-      "solution": "To stop trying."
+      "solution": "To stop trying.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>look after</i>:",
@@ -128,7 +161,9 @@
         "postpone"
       ],
       "answer": 2,
-      "solution": "To care for someone."
+      "solution": "To care for someone.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>break down</i>:",
@@ -139,7 +174,9 @@
         "assemble"
       ],
       "answer": 1,
-      "solution": "Machines break down; people break down (cry)."
+      "solution": "Machines break down; people break down (cry).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>a piece of cake</i>:",
@@ -150,7 +187,9 @@
         "boring"
       ],
       "answer": 1,
-      "solution": "Idiom = very easy."
+      "solution": "Idiom = very easy.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>burn the midnight oil</i>:",
@@ -161,7 +200,9 @@
         "sleep early"
       ],
       "answer": 1,
-      "solution": "Work late into the night."
+      "solution": "Work late into the night.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>kick the bucket</i>:",
@@ -172,7 +213,9 @@
         "kick a ball"
       ],
       "answer": 1,
-      "solution": "Slang / idiom for die."
+      "solution": "Slang / idiom for die.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>let the cat out of the bag</i>:",
@@ -183,7 +226,9 @@
         "tell a joke"
       ],
       "answer": 1,
-      "solution": "Reveal a secret."
+      "solution": "Reveal a secret.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>bury the hatchet</i>:",
@@ -194,7 +239,9 @@
         "hide a weapon"
       ],
       "answer": 1,
-      "solution": "Idiom = end a quarrel."
+      "solution": "Idiom = end a quarrel.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>hit the books</i>:",
@@ -205,7 +252,9 @@
         "cook"
       ],
       "answer": 1,
-      "solution": "Study hard."
+      "solution": "Study hard.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is the correct collocation?",
@@ -216,7 +265,9 @@
         "give a decision"
       ],
       "answer": 0,
-      "solution": "'Make a decision' is standard; <i>take</i> is also used in British English."
+      "solution": "'Make a decision' is standard; <i>take</i> is also used in British English.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which collocation is correct?",
@@ -227,29 +278,9 @@
         "hard tea"
       ],
       "answer": 0,
-      "solution": "'Strong tea' is standard."
-    },
-    {
-      "q": "Which collocation is correct?",
-      "options": [
-        "heavy rain",
-        "strong rain",
-        "big rain",
-        "hard rain"
-      ],
-      "answer": 0,
-      "solution": "'Heavy rain' is standard."
-    },
-    {
-      "q": "Which collocation is correct?",
-      "options": [
-        "catch a cold",
-        "take a cold",
-        "have a cold",
-        "get a cold"
-      ],
-      "answer": 0,
-      "solution": "'Catch a cold' is standard."
+      "solution": "'Strong tea' is standard.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Diagnosis</i> belongs to which register?",
@@ -260,7 +291,9 @@
         "Sports"
       ],
       "answer": 1,
-      "solution": "Diagnosis — medical."
+      "solution": "Diagnosis \u2014 medical.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Encryption</i> belongs to which register?",
@@ -271,7 +304,9 @@
         "Agriculture"
       ],
       "answer": 2,
-      "solution": "Encryption — computing/ICT."
+      "solution": "Encryption \u2014 computing/ICT.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Hypothesis</i> belongs to which register?",
@@ -282,7 +317,9 @@
         "Law"
       ],
       "answer": 0,
-      "solution": "Science."
+      "solution": "Science.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Prescription</i> is:",
@@ -293,7 +330,9 @@
         "farming term"
       ],
       "answer": 1,
-      "solution": "Written order for medicine."
+      "solution": "Written order for medicine.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Antibiotic</i> is used to treat:",
@@ -304,7 +343,9 @@
         "allergies"
       ],
       "answer": 1,
-      "solution": "Bacterial infections."
+      "solution": "Bacterial infections.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Quarantine</i> means:",
@@ -315,7 +356,9 @@
         "vaccination"
       ],
       "answer": 1,
-      "solution": "Isolation."
+      "solution": "Isolation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Symptom</i> is:",
@@ -326,7 +369,9 @@
         "test"
       ],
       "answer": 1,
-      "solution": "A sign of illness."
+      "solution": "A sign of illness.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Malware</i> refers to:",
@@ -337,7 +382,9 @@
         "cable"
       ],
       "answer": 1,
-      "solution": "Malicious software."
+      "solution": "Malicious software.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Firewall</i> in ICT is:",
@@ -348,7 +395,9 @@
         "a printer"
       ],
       "answer": 1,
-      "solution": "Blocks unauthorised access."
+      "solution": "Blocks unauthorised access.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Bandwidth</i> refers to:",
@@ -359,7 +408,9 @@
         "printer speed"
       ],
       "answer": 1,
-      "solution": "Capacity of a network."
+      "solution": "Capacity of a network.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Database</i> is:",
@@ -370,7 +421,9 @@
         "internet cable"
       ],
       "answer": 1,
-      "solution": "Organised collection of data."
+      "solution": "Organised collection of data.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Compound</i> in Science means:",
@@ -381,7 +434,9 @@
         "an element"
       ],
       "answer": 1,
-      "solution": "Chemistry sense; the residence sense is another meaning."
+      "solution": "Chemistry sense; the residence sense is another meaning.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Catalyst</i> is:",
@@ -392,7 +447,9 @@
         "a fuel"
       ],
       "answer": 1,
-      "solution": "Speeds a reaction without being used up."
+      "solution": "Speeds a reaction without being used up.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of the idiom <i>a bolt from the blue</i>:",
@@ -403,7 +460,9 @@
         "a slow event"
       ],
       "answer": 1,
-      "solution": "Sudden surprise."
+      "solution": "Sudden surprise.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of the idiom <i>once in a blue moon</i>:",
@@ -414,7 +473,9 @@
         "monthly"
       ],
       "answer": 2,
-      "solution": "Very rarely."
+      "solution": "Very rarely.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of the idiom <i>through thick and thin</i>:",
@@ -425,7 +486,9 @@
         "secretly"
       ],
       "answer": 1,
-      "solution": "In all circumstances."
+      "solution": "In all circumstances.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Take after</i> means:",
@@ -436,7 +499,9 @@
         "imitate on purpose"
       ],
       "answer": 0,
-      "solution": "To resemble (a parent, etc.)."
+      "solution": "To resemble (a parent, etc.).",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Turn down</i> means:",
@@ -447,7 +512,9 @@
         "invite"
       ],
       "answer": 1,
-      "solution": "To reject; also to lower volume."
+      "solution": "To reject; also to lower volume.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Bring up</i> a child means:",
@@ -458,7 +525,9 @@
         "teach at school"
       ],
       "answer": 1,
-      "solution": "Raise a child."
+      "solution": "Raise a child.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Run into</i> an old friend means:",
@@ -469,7 +538,9 @@
         "avoid"
       ],
       "answer": 1,
-      "solution": "Meet by chance."
+      "solution": "Meet by chance.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Look up</i> a word means:",
@@ -480,7 +551,9 @@
         "write"
       ],
       "answer": 1,
-      "solution": "Search in a dictionary."
+      "solution": "Search in a dictionary.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a homophone of <i>flower</i>?",
@@ -491,7 +564,9 @@
         "flew"
       ],
       "answer": 0,
-      "solution": "<i>Flower / flour</i> sound alike."
+      "solution": "<i>Flower / flour</i> sound alike.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a homophone of <i>peace</i>?",
@@ -502,7 +577,9 @@
         "peas"
       ],
       "answer": 0,
-      "solution": "Same sound."
+      "solution": "Same sound.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a homophone of <i>knight</i>?",
@@ -513,7 +590,9 @@
         "note"
       ],
       "answer": 0,
-      "solution": "Sound alike."
+      "solution": "Sound alike.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a homophone of <i>meet</i>?",
@@ -524,7 +603,9 @@
         "met"
       ],
       "answer": 0,
-      "solution": "Sound alike."
+      "solution": "Sound alike.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which pair are correct collocations?",
@@ -535,18 +616,9 @@
         "both wrong"
       ],
       "answer": 1,
-      "solution": "'Fast food' is the fixed collocation."
-    },
-    {
-      "q": "Which pair are correct collocations?",
-      "options": [
-        "make a mistake",
-        "do a mistake",
-        "take a mistake",
-        "have a mistake"
-      ],
-      "answer": 0,
-      "solution": "'Make a mistake' is standard."
+      "solution": "'Fast food' is the fixed collocation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Cloud</i> in ICT means:",
@@ -557,7 +629,9 @@
         "a name"
       ],
       "answer": 1,
-      "solution": "Remote servers/storage."
+      "solution": "Remote servers/storage.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Epidemic</i> refers to:",
@@ -568,7 +642,9 @@
         "a doctor"
       ],
       "answer": 1,
-      "solution": "Wide outbreak of disease."
+      "solution": "Wide outbreak of disease.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Prognosis</i> means:",
@@ -579,7 +655,9 @@
         "test"
       ],
       "answer": 1,
-      "solution": "Prediction of how a disease will develop."
+      "solution": "Prediction of how a disease will develop.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Algorithm</i> is:",
@@ -590,7 +668,48 @@
         "a printer"
       ],
       "answer": 1,
-      "solution": "A defined set of steps."
+      "solution": "A defined set of steps.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Choose the word that rhymes with: <u>KEY</u>",
+      "options": [
+        "Play",
+        "Quay",
+        "Grey",
+        "Pray"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Quay.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Choose the word with the same vowel sound as 'Key':",
+      "options": [
+        "Sit",
+        "Quay",
+        "Die",
+        "Play"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: Quay.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "He works hard ___ he can pass the exam.",
+      "options": [
+        "so that",
+        "because",
+        "in order to",
+        "and"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: so that.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
     }
   ]
 }

@@ -15,7 +15,7 @@
   "modules": [
     {
       "title": "ECOWAS",
-      "html": "\n<h4>1. Formation</h4>\n<p>The <b>Economic Community of West African States</b> was established by the <b>Treaty of Lagos on 28 May 1975</b>, largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo. It has fifteen member states with headquarters in Abuja; the revised treaty of 1993 broadened its mandate to political cooperation and security.</p>\n<h4>2. Aims and Objectives</h4>\n<ol><li>Promote cooperation and integration leading to an economic union in West Africa.</li><li>Abolish customs duties and other trade barriers among members.</li><li>Establish a common external tariff and commercial policy.</li><li>Ensure <b>free movement of persons, goods, services and capital</b>, and the right of residence and establishment.</li><li>Harmonise agricultural, industrial, transport, energy and monetary policies.</li><li>Raise living standards and maintain economic stability.</li><li>Maintain peace, security and democratic governance in the sub-region.</li></ol>\n<h4>3. Organs</h4>\n<table class=\"tb-table\">\n<tr><th>Organ</th><th>Function</th></tr>\n<tr><td>Authority of Heads of State and Government</td><td>Supreme organ; sets policy, meets annually</td></tr>\n<tr><td>Council of Ministers</td><td>Recommends policy, supervises the Commission</td></tr>\n<tr><td>ECOWAS Commission (formerly Executive Secretariat)</td><td>Day-to-day administration, headed by a President of the Commission</td></tr>\n<tr><td>Community Parliament</td><td>Advisory representative assembly in Abuja</td></tr>\n<tr><td>Community Court of Justice</td><td>Interprets the treaty; hears human-rights cases from citizens</td></tr>\n<tr><td>EBID (ECOWAS Bank for Investment and Development)</td><td>Finances projects and compensates members for losses from integration</td></tr>\n<tr><td>Specialised commissions</td><td>Trade, industry, transport, social and cultural affairs, defence</td></tr>\n</table>\n<h4>4. Achievements</h4>\n<ul><li>Free movement of persons within the sub-region, and the ECOWAS passport and travel certificate.</li><li>Removal of visa requirements for 90-day stays among members.</li><li><b>ECOMOG</b> peacekeeping in Liberia (1990), Sierra Leone (1997), Guinea-Bissau, Cote d'Ivoire, Mali and the Gambia (2017, ECOMIG restoring the elected President Barrow).</li><li>Protocol on Democracy and Good Governance (2001) and automatic suspension of members after coups.</li><li>Trade Liberalisation Scheme; West African Power Pool and Gas Pipeline; ECOWAS Standby Force.</li><li>Regional collaboration on agriculture, health (Ebola and COVID-19 responses) and education.</li></ul>\n<h4>5. Problems</h4>\n<ul><li>Language and colonial-heritage divisions between anglophone, francophone and lusophone members, and francophone attachment to UEMOA and the CFA franc.</li><li>Political instability and repeated coups; the announced withdrawal of Mali, Burkina Faso and Niger in 2024–2025 tested cohesion.</li><li>Non-implementation of protocols and persistent border harassment and checkpoints.</li><li>Similar, competing primary-product economies limiting intra-regional trade.</li><li>Poor transport and communication links; currency inconvertibility and the delayed single currency, the eco.</li><li>Financial arrears and dependence on Nigeria for funding.</li></ul>\n",
+      "html": "\n<h4>1. Formation</h4>\n<p>The <b>Economic Community of West African States</b> was established by the <b>Treaty of Lagos on 28 May 1975</b>, largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo. It has fifteen member states with headquarters in Abuja; the revised treaty of 1993 broadened its mandate to political cooperation and security.</p>\n<h4>2. Aims and Objectives</h4>\n<ol><li>Promote cooperation and integration leading to an economic union in West Africa.</li><li>Abolish customs duties and other trade barriers among members.</li><li>Establish a common external tariff and commercial policy.</li><li>Ensure <b>free movement of persons, goods, services and capital</b>, and the right of residence and establishment.</li><li>Harmonise agricultural, industrial, transport, energy and monetary policies.</li><li>Raise living standards and maintain economic stability.</li><li>Maintain peace, security and democratic governance in the sub-region.</li></ol>\n<h4>3. Organs</h4>\n<table class=\"tb-table\">\n<tr><th>Organ</th><th>Function</th></tr>\n<tr><td>Authority of Heads of State and Government</td><td>Supreme organ; sets policy, meets annually</td></tr>\n<tr><td>Council of Ministers</td><td>Recommends policy, supervises the Commission</td></tr>\n<tr><td>ECOWAS Commission (formerly Executive Secretariat)</td><td>Day-to-day administration, headed by a President of the Commission</td></tr>\n<tr><td>Community Parliament</td><td>Advisory representative assembly in Abuja</td></tr>\n<tr><td>Community Court of Justice</td><td>Interprets the treaty; hears human-rights cases from citizens</td></tr>\n<tr><td>EBID (ECOWAS Bank for Investment and Development)</td><td>Finances projects and compensates members for losses from integration</td></tr>\n<tr><td>Specialised commissions</td><td>Trade, industry, transport, social and cultural affairs, defence</td></tr>\n</table>\n<h4>4. Achievements</h4>\n<ul><li>Free movement of persons within the sub-region, and the ECOWAS passport and travel certificate.</li><li>Removal of visa requirements for 90-day stays among members.</li><li><b>ECOMOG</b> peacekeeping in Liberia (1990), Sierra Leone (1997), Guinea-Bissau, Cote d'Ivoire, Mali and the Gambia (2017, ECOMIG restoring the elected President Barrow).</li><li>Protocol on Democracy and Good Governance (2001) and automatic suspension of members after coups.</li><li>Trade Liberalisation Scheme; West African Power Pool and Gas Pipeline; ECOWAS Standby Force.</li><li>Regional collaboration on agriculture, health (Ebola and COVID-19 responses) and education.</li></ul>\n<h4>5. Problems</h4>\n<ul><li>Language and colonial-heritage divisions between anglophone, francophone and lusophone members, and francophone attachment to UEMOA and the CFA franc.</li><li>Political instability and repeated coups; the announced withdrawal of Mali, Burkina Faso and Niger in 2024\u20132025 tested cohesion.</li><li>Non-implementation of protocols and persistent border harassment and checkpoints.</li><li>Similar, competing primary-product economies limiting intra-regional trade.</li><li>Poor transport and communication links; currency inconvertibility and the delayed single currency, the eco.</li><li>Financial arrears and dependence on Nigeria for funding.</li></ul>\n",
       "examples": [
         {
           "q": "Assess ECOMOG's intervention in Liberia.",
@@ -23,21 +23,77 @@
         },
         {
           "q": "Why has intra-ECOWAS trade remained low?",
-          "a": "Members produce similar primary commodities — cocoa, oil, groundnuts, timber — and therefore compete rather than complement each other; their trade is oriented towards former colonial powers. Add poor road and rail links, multiple currencies with limited convertibility, non-tariff barriers and checkpoints, smuggling, and slow implementation of the Trade Liberalisation Scheme, and formal intra-regional trade remains a small fraction of total trade."
+          "a": "Members produce similar primary commodities \u2014 cocoa, oil, groundnuts, timber \u2014 and therefore compete rather than complement each other; their trade is oriented towards former colonial powers. Add poor road and rail links, multiple currencies with limited convertibility, non-tariff barriers and checkpoints, smuggling, and slow implementation of the Trade Liberalisation Scheme, and formal intra-regional trade remains a small fraction of total trade."
         }
       ]
     },
     {
       "title": "From the OAU to the African Union",
-      "html": "\n<h4>1. The OAU, 1963–2002</h4>\n<p>Formed in <b>Addis Ababa on 25 May 1963</b> by 32 states, compromising between the radical <b>Casablanca group</b> (Nkrumah's immediate political union) and the moderate <b>Monrovia group</b> (gradual functional cooperation, favoured by Nigeria).</p>\n<p><i>Aims:</i> promote unity and solidarity; coordinate cooperation for a better life; defend sovereignty and territorial integrity; eradicate colonialism; promote international cooperation under the UN Charter.</p>\n<p><i>Achievements:</i> decolonisation through the Liberation Committee, contribution to the end of apartheid, mediation in the Algeria–Morocco and Somalia–Ethiopia disputes, the African Charter on Human and Peoples' Rights (1981), and a common African voice at the UN.</p>\n<p><i>Weaknesses:</i> strict non-interference allowed dictators to abuse citizens with impunity; no standing army; financial arrears; ideological and linguistic splits; the Western Sahara dispute; inability to prevent the Rwandan genocide.</p>\n<h4>2. The African Union, 2002</h4>\n<p>Proposed in the <b>Sirte Declaration (1999)</b>, given legal form in the <b>Constitutive Act (Lome, 2000)</b> and launched at <b>Durban in July 2002</b>. Headquarters: Addis Ababa. Membership: 55 states.</p>\n<h4>3. Organs of the AU</h4>\n<table class=\"tb-table\">\n<tr><th>Organ</th><th>Function</th></tr>\n<tr><td>Assembly of Heads of State and Government</td><td>Supreme policy organ</td></tr>\n<tr><td>Executive Council</td><td>Foreign ministers; prepares Assembly decisions</td></tr>\n<tr><td>AU Commission</td><td>Secretariat headed by a Chairperson</td></tr>\n<tr><td>Pan-African Parliament</td><td>Representative body sited in Midrand, South Africa</td></tr>\n<tr><td>Peace and Security Council</td><td>Conflict prevention, management and resolution; authorises intervention</td></tr>\n<tr><td>African Court on Human and Peoples' Rights</td><td>Adjudicates human-rights cases</td></tr>\n<tr><td>ECOSOCC</td><td>Advisory organ of civil society</td></tr>\n<tr><td>Specialised agencies</td><td>African Development Bank, NEPAD/AUDA, African Peer Review Mechanism</td></tr>\n</table>\n<h4>4. Key Differences from the OAU</h4>\n<ul><li>The AU may <b>intervene</b> in a member state in grave circumstances — war crimes, genocide, crimes against humanity (Article 4(h)) — replacing absolute non-interference.</li><li>It <b>suspends</b> governments that come to power unconstitutionally.</li><li>It has stronger economic ambitions: AfCFTA (operational 2021), a projected monetary union and Agenda 2063.</li><li>It provides for a standby force and a Pan-African Parliament.</li></ul>\n<h4>5. Problems</h4>\n<p>Funding arrears and dependence on external donors, weak enforcement of decisions, persistent coups and conflicts, poor intra-African trade infrastructure, and the gap between ambitious protocols and implementation.</p>\n",
+      "html": "\n<h4>1. The OAU, 1963\u20132002</h4>\n<p>Formed in <b>Addis Ababa on 25 May 1963</b> by 32 states, compromising between the radical <b>Casablanca group</b> (Nkrumah's immediate political union) and the moderate <b>Monrovia group</b> (gradual functional cooperation, favoured by Nigeria).</p>\n<p><i>Aims:</i> promote unity and solidarity; coordinate cooperation for a better life; defend sovereignty and territorial integrity; eradicate colonialism; promote international cooperation under the UN Charter.</p>\n<p><i>Achievements:</i> decolonisation through the Liberation Committee, contribution to the end of apartheid, mediation in the Algeria\u2013Morocco and Somalia\u2013Ethiopia disputes, the African Charter on Human and Peoples' Rights (1981), and a common African voice at the UN.</p>\n<p><i>Weaknesses:</i> strict non-interference allowed dictators to abuse citizens with impunity; no standing army; financial arrears; ideological and linguistic splits; the Western Sahara dispute; inability to prevent the Rwandan genocide.</p>\n<h4>2. The African Union, 2002</h4>\n<p>Proposed in the <b>Sirte Declaration (1999)</b>, given legal form in the <b>Constitutive Act (Lome, 2000)</b> and launched at <b>Durban in July 2002</b>. Headquarters: Addis Ababa. Membership: 55 states.</p>\n<h4>3. Organs of the AU</h4>\n<table class=\"tb-table\">\n<tr><th>Organ</th><th>Function</th></tr>\n<tr><td>Assembly of Heads of State and Government</td><td>Supreme policy organ</td></tr>\n<tr><td>Executive Council</td><td>Foreign ministers; prepares Assembly decisions</td></tr>\n<tr><td>AU Commission</td><td>Secretariat headed by a Chairperson</td></tr>\n<tr><td>Pan-African Parliament</td><td>Representative body sited in Midrand, South Africa</td></tr>\n<tr><td>Peace and Security Council</td><td>Conflict prevention, management and resolution; authorises intervention</td></tr>\n<tr><td>African Court on Human and Peoples' Rights</td><td>Adjudicates human-rights cases</td></tr>\n<tr><td>ECOSOCC</td><td>Advisory organ of civil society</td></tr>\n<tr><td>Specialised agencies</td><td>African Development Bank, NEPAD/AUDA, African Peer Review Mechanism</td></tr>\n</table>\n<h4>4. Key Differences from the OAU</h4>\n<ul><li>The AU may <b>intervene</b> in a member state in grave circumstances \u2014 war crimes, genocide, crimes against humanity (Article 4(h)) \u2014 replacing absolute non-interference.</li><li>It <b>suspends</b> governments that come to power unconstitutionally.</li><li>It has stronger economic ambitions: AfCFTA (operational 2021), a projected monetary union and Agenda 2063.</li><li>It provides for a standby force and a Pan-African Parliament.</li></ul>\n<h4>5. Problems</h4>\n<p>Funding arrears and dependence on external donors, weak enforcement of decisions, persistent coups and conflicts, poor intra-African trade infrastructure, and the gap between ambitious protocols and implementation.</p>\n",
       "examples": [
         {
           "q": "Explain the significance of Article 4(h) of the AU Constitutive Act.",
-          "a": "It gives the Union the <b>right to intervene</b> in a member state, pursuant to an Assembly decision, in respect of grave circumstances — war crimes, genocide and crimes against humanity. This reverses the OAU's absolute doctrine of non-interference, which had left the Union powerless during the Rwandan genocide of 1994. It embodies the shift from 'non-interference' to 'non-indifference' and underpins AU peace-support deployments in Burundi, Darfur and Somalia."
+          "a": "It gives the Union the <b>right to intervene</b> in a member state, pursuant to an Assembly decision, in respect of grave circumstances \u2014 war crimes, genocide and crimes against humanity. This reverses the OAU's absolute doctrine of non-interference, which had left the Union powerless during the Rwandan genocide of 1994. It embodies the shift from 'non-interference' to 'non-indifference' and underpins AU peace-support deployments in Burundi, Darfur and Somalia."
         },
         {
           "q": "Contrast the Casablanca and Monrovia groups.",
           "a": "The <b>Casablanca group</b> (Ghana, Guinea, Mali, Egypt, Morocco, Algeria) under Nkrumah wanted immediate political union with a continental government, common army and currency. The <b>Monrovia group</b> (Nigeria, Liberia, Ethiopia and most francophone states) preferred gradual functional cooperation while preserving sovereign equality and non-interference. The OAU Charter of 1963 largely reflected the Monrovia position; the AU's stronger institutions represent a partial, delayed victory for the Casablanca vision."
+        }
+      ]
+    },
+    {
+      "title": "Meaning and rationale of regional integration",
+      "html": "<p><b>Meaning and rationale of regional integration</b> is a key part of Regional and Continental Organizations (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Aims and Objectives Promote cooperation and integration leading to an economic union in West Africa.</li><li>Organs Organ Function Authority of Heads of State and Government Supreme organ; sets policy, meets annually Council of Ministers Recommends policy, supervises the Commission ECOWAS Commission (formerly Executive Secretariat) Day-to-day administration, headed by a President of the Commission Community Parliament Advisory representative assembly in Abuja Community Court of Justice Interprets the treaty; hears human-rights cases from citizens EBID (ECOWAS Bank for Investment and Development) Finances projects and compensates members for losses from integration Specialised commissions Trade, industry, transport, social and cultural affairs, defence 4.</li><li>Regional collaboration on agriculture, health (Ebola and COVID-19 responses) and education.</li><li>Similar, competing primary-product economies limiting intra-regional trade.</li></ul><h4>Worked example</h4><p><b>Q:</b> ECOWAS was established by the Treaty of:<br/><b>A:</b> Lagos \u2014 The Treaty of Lagos was signed on 28 May 1975.</p><p><b>Q:</b> The Nigerian leader who championed the formation of ECOWAS was:<br/><b>A:</b> Gowon \u2014 General Gowon, with Eyadema of Togo, drove the ECOWAS initiative.</p>",
+      "examples": [
+        {
+          "q": "ECOWAS was established by the Treaty of:",
+          "a": "Lagos \u2014 The Treaty of Lagos was signed on 28 May 1975."
+        },
+        {
+          "q": "The Nigerian leader who championed the formation of ECOWAS was:",
+          "a": "Gowon \u2014 General Gowon, with Eyadema of Togo, drove the ECOWAS initiative."
+        }
+      ]
+    },
+    {
+      "title": "Formation and aims of ECOWAS",
+      "html": "<p><b>Formation and aims of ECOWAS</b> is a key part of Regional and Continental Organizations (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Formation The Economic Community of West African States was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo.</li><li>Aims and Objectives Promote cooperation and integration leading to an economic union in West Africa.</li><li>Organs Organ Function Authority of Heads of State and Government Supreme organ; sets policy, meets annually Council of Ministers Recommends policy, supervises the Commission ECOWAS Commission (formerly Executive Secretariat) Day-to-day administration, headed by a President of the Commission Community Parliament Advisory representative assembly in Abuja Community Court of Justice Interprets the treaty; hears human-rights cases from citizens EBID (ECOWAS Bank for Investment and Development) Finances projects and compensates members for losses from integration Specialised commissions Trade, industry, transport, social and cultural affairs, defence 4.</li><li>Achievements Free movement of persons within the sub-region, and the ECOWAS passport and travel certificate.</li><li>Trade Liberalisation Scheme; West African Power Pool and Gas Pipeline; ECOWAS Standby Force.</li></ul><h4>Worked example</h4><p><b>Q:</b> ECOWAS was established by the Treaty of:<br/><b>A:</b> Lagos \u2014 The Treaty of Lagos was signed on 28 May 1975.</p><p><b>Q:</b> The Nigerian leader who championed the formation of ECOWAS was:<br/><b>A:</b> Gowon \u2014 General Gowon, with Eyadema of Togo, drove the ECOWAS initiative.</p>",
+      "examples": [
+        {
+          "q": "ECOWAS was established by the Treaty of:",
+          "a": "Lagos \u2014 The Treaty of Lagos was signed on 28 May 1975."
+        },
+        {
+          "q": "The Nigerian leader who championed the formation of ECOWAS was:",
+          "a": "Gowon \u2014 General Gowon, with Eyadema of Togo, drove the ECOWAS initiative."
+        }
+      ]
+    },
+    {
+      "title": "Achievements and problems of ECOWAS",
+      "html": "<p><b>Achievements and problems of ECOWAS</b> is a key part of Regional and Continental Organizations (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Organs Organ Function Authority of Heads of State and Government Supreme organ; sets policy, meets annually Council of Ministers Recommends policy, supervises the Commission ECOWAS Commission (formerly Executive Secretariat) Day-to-day administration, headed by a President of the Commission Community Parliament Advisory representative assembly in Abuja Community Court of Justice Interprets the treaty; hears human-rights cases from citizens EBID (ECOWAS Bank for Investment and Development) Finances projects and compensates members for losses from integration Specialised commissions Trade, industry, transport, social and cultural affairs, defence 4.</li><li>Achievements Free movement of persons within the sub-region, and the ECOWAS passport and travel certificate.</li><li>Trade Liberalisation Scheme; West African Power Pool and Gas Pipeline; ECOWAS Standby Force.</li><li>Problems Language and colonial-heritage divisions between anglophone, francophone and lusophone members, and francophone attachment to UEMOA and the CFA franc.</li><li>Achievements: decolonisation through the Liberation Committee, contribution to the end of apartheid, mediation in the Algeria\u2013Morocco and Somalia\u2013Ethiopia disputes, the African Charter on Human and Peoples' Rights (1981), and a common African voice at the UN.</li></ul><h4>Worked example</h4><p><b>Q:</b> ECOWAS was established by the Treaty of:<br/><b>A:</b> Lagos \u2014 The Treaty of Lagos was signed on 28 May 1975.</p><p><b>Q:</b> The Nigerian leader who championed the formation of ECOWAS was:<br/><b>A:</b> Gowon \u2014 General Gowon, with Eyadema of Togo, drove the ECOWAS initiative.</p>",
+      "examples": [
+        {
+          "q": "ECOWAS was established by the Treaty of:",
+          "a": "Lagos \u2014 The Treaty of Lagos was signed on 28 May 1975."
+        },
+        {
+          "q": "The Nigerian leader who championed the formation of ECOWAS was:",
+          "a": "Gowon \u2014 General Gowon, with Eyadema of Togo, drove the ECOWAS initiative."
+        }
+      ]
+    },
+    {
+      "title": "Organs, aims and achievements of the AU",
+      "html": "<p><b>Organs, aims and achievements of the AU</b> is a key part of Regional and Continental Organizations (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Aims and Objectives Promote cooperation and integration leading to an economic union in West Africa.</li><li>Organs Organ Function Authority of Heads of State and Government Supreme organ; sets policy, meets annually Council of Ministers Recommends policy, supervises the Commission ECOWAS Commission (formerly Executive Secretariat) Day-to-day administration, headed by a President of the Commission Community Parliament Advisory representative assembly in Abuja Community Court of Justice Interprets the treaty; hears human-rights cases from citizens EBID (ECOWAS Bank for Investment and Development) Finances projects and compensates members for losses from integration Specialised commissions Trade, industry, transport, social and cultural affairs, defence 4.</li><li>Achievements Free movement of persons within the sub-region, and the ECOWAS passport and travel certificate.</li><li>Aims: promote unity and solidarity; coordinate cooperation for a better life; defend sovereignty and territorial integrity; eradicate colonialism; promote international cooperation under the UN Charter.</li><li>Achievements: decolonisation through the Liberation Committee, contribution to the end of apartheid, mediation in the Algeria\u2013Morocco and Somalia\u2013Ethiopia disputes, the African Charter on Human and Peoples' Rights (1981), and a common African voice at the UN.</li></ul><h4>Worked example</h4><p><b>Q:</b> ECOWAS was established by the Treaty of:<br/><b>A:</b> Lagos \u2014 The Treaty of Lagos was signed on 28 May 1975.</p><p><b>Q:</b> The Nigerian leader who championed the formation of ECOWAS was:<br/><b>A:</b> Gowon \u2014 General Gowon, with Eyadema of Togo, drove the ECOWAS initiative.</p>",
+      "examples": [
+        {
+          "q": "ECOWAS was established by the Treaty of:",
+          "a": "Lagos \u2014 The Treaty of Lagos was signed on 28 May 1975."
+        },
+        {
+          "q": "The Nigerian leader who championed the formation of ECOWAS was:",
+          "a": "Gowon \u2014 General Gowon, with Eyadema of Togo, drove the ECOWAS initiative."
         }
       ]
     }
@@ -52,7 +108,9 @@
         "Accra"
       ],
       "answer": 1,
-      "solution": "The Treaty of Lagos was signed on 28 May 1975."
+      "solution": "The Treaty of Lagos was signed on 28 May 1975.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Nigerian leader who championed the formation of ECOWAS was:",
@@ -63,7 +121,9 @@
         "Obasanjo"
       ],
       "answer": 1,
-      "solution": "General Gowon, with Eyadema of Togo, drove the ECOWAS initiative."
+      "solution": "General Gowon, with Eyadema of Togo, drove the ECOWAS initiative.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The headquarters of the ECOWAS Commission is in:",
@@ -74,7 +134,9 @@
         "Dakar"
       ],
       "answer": 1,
-      "solution": "The Commission is based in Abuja, Nigeria."
+      "solution": "The Commission is based in Abuja, Nigeria.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The supreme organ of ECOWAS is the:",
@@ -85,7 +147,9 @@
         "Commission"
       ],
       "answer": 1,
-      "solution": "The Authority determines general policy and direction."
+      "solution": "The Authority determines general policy and direction.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "ECOMOG first intervened in:",
@@ -96,7 +160,9 @@
         "The Gambia"
       ],
       "answer": 0,
-      "solution": "The Liberian civil war prompted the first ECOMOG deployment in 1990."
+      "solution": "The Liberian civil war prompted the first ECOMOG deployment in 1990.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The OAU was formed in:",
@@ -107,7 +173,9 @@
         "1975"
       ],
       "answer": 2,
-      "solution": "The OAU Charter was signed in Addis Ababa on 25 May 1963."
+      "solution": "The OAU Charter was signed in Addis Ababa on 25 May 1963.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The group that favoured immediate political union in 1963 was the:",
@@ -118,7 +186,9 @@
         "Lagos group"
       ],
       "answer": 1,
-      "solution": "Nkrumah's Casablanca group wanted a continental government at once."
+      "solution": "Nkrumah's Casablanca group wanted a continental government at once.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The AU was formally launched in:",
@@ -129,7 +199,9 @@
         "Addis Ababa, 2005"
       ],
       "answer": 2,
-      "solution": "The Union was inaugurated at the Durban summit in July 2002."
+      "solution": "The Union was inaugurated at the Durban summit in July 2002.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Article 4(h) of the Constitutive Act permits the AU to:",
@@ -140,7 +212,9 @@
         "Levy income tax"
       ],
       "answer": 0,
-      "solution": "It allows intervention in cases of genocide, war crimes and crimes against humanity."
+      "solution": "It allows intervention in cases of genocide, war crimes and crimes against humanity.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The AU organ responsible for conflict management is the:",
@@ -151,7 +225,9 @@
         "Executive Council"
       ],
       "answer": 0,
-      "solution": "The PSC handles prevention, management and resolution of conflicts."
+      "solution": "The PSC handles prevention, management and resolution of conflicts.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Pan-African Parliament is located in:",
@@ -162,7 +238,9 @@
         "Nairobi"
       ],
       "answer": 1,
-      "solution": "It sits at Midrand near Johannesburg."
+      "solution": "It sits at Midrand near Johannesburg.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A major problem of ECOWAS is:",
@@ -173,7 +251,9 @@
         "Absence of members"
       ],
       "answer": 0,
-      "solution": "Colonial heritage and rival groupings such as UEMOA weaken cohesion."
+      "solution": "Colonial heritage and rival groupings such as UEMOA weaken cohesion.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The proposed single ECOWAS currency is the:",
@@ -184,7 +264,9 @@
         "Cedi"
       ],
       "answer": 0,
-      "solution": "The eco has been repeatedly postponed due to unmet convergence criteria."
+      "solution": "The eco has been repeatedly postponed due to unmet convergence criteria.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The African Charter on Human and Peoples' Rights was adopted in:",
@@ -195,7 +277,9 @@
         "2002"
       ],
       "answer": 2,
-      "solution": "It was adopted in Nairobi in 1981 and came into force in 1986."
+      "solution": "It was adopted in Nairobi in 1981 and came into force in 1986.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "ECOWAS restored the elected President of The Gambia in:",
@@ -206,7 +290,9 @@
         "2020"
       ],
       "answer": 2,
-      "solution": "ECOMIG deployment in January 2017 enforced Adama Barrow's election victory."
+      "solution": "ECOMIG deployment in January 2017 enforced Adama Barrow's election victory.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The continental free trade area launched under the AU is:",
@@ -217,7 +303,451 @@
         "ECOSOCC"
       ],
       "answer": 0,
-      "solution": "The African Continental Free Trade Area began trading in January 2021."
+      "solution": "The African Continental Free Trade Area began trading in January 2021.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of the following correctly describes Economic Community of West African States?",
+      "options": [
+        ", largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        "peacekeeping in Liberia (1990), Sierra Leone (1997), Guinea-Bissau, Cote d'Ivoire, Mali and the Gambia (2017, ECOMIG restoring the elected President Barrow)",
+        "was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        ", and the right of residence and establishment"
+      ],
+      "answer": 2,
+      "solution": "Economic Community of West African States: was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Treaty of Lagos on 28 May 1975?",
+      "options": [
+        ", largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        "was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        ", and the right of residence and establishment",
+        "peacekeeping in Liberia (1990), Sierra Leone (1997), Guinea-Bissau, Cote d'Ivoire, Mali and the Gambia (2017, ECOMIG restoring the elected President Barrow)"
+      ],
+      "answer": 0,
+      "solution": "Treaty of Lagos on 28 May 1975: , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes free movement of persons, goods, services and capital?",
+      "options": [
+        ", and the right of residence and establishment",
+        "peacekeeping in Liberia (1990), Sierra Leone (1997), Guinea-Bissau, Cote d'Ivoire, Mali and the Gambia (2017, ECOMIG restoring the elected President Barrow)",
+        "was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        ", largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo"
+      ],
+      "answer": 0,
+      "solution": "free movement of persons, goods, services and capital: , and the right of residence and establishment",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes ECOMOG?",
+      "options": [
+        "peacekeeping in Liberia (1990), Sierra Leone (1997), Guinea-Bissau, Cote d'Ivoire, Mali and the Gambia (2017, ECOMIG restoring the elected President Barrow)",
+        ", largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        ", and the right of residence and establishment",
+        "was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo"
+      ],
+      "answer": 0,
+      "solution": "ECOMOG: peacekeeping in Liberia (1990), Sierra Leone (1997), Guinea-Bissau, Cote d'Ivoire, Mali and the Gambia (2017, ECOMIG restoring the elected President Barrow)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Addis Ababa on 25 May 1963?",
+      "options": [
+        ", and the right of residence and establishment",
+        "was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        ", largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        "by 32 states, compromising between the radical Casablanca group (Nkrumah's immediate political union) and the moderate Monrovia group (gradual functional cooperation, favoured by N"
+      ],
+      "answer": 3,
+      "solution": "Addis Ababa on 25 May 1963: by 32 states, compromising between the radical Casablanca group (Nkrumah's immediate political union) and the moderate Monrovia group (gradual functional cooperation, favoured by N",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Casablanca group?",
+      "options": [
+        ", and the right of residence and establishment",
+        "was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        ", largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        "(Nkrumah's immediate political union) and the moderate Monrovia group (gradual functional cooperation, favoured by Nigeria)"
+      ],
+      "answer": 3,
+      "solution": "Casablanca group: (Nkrumah's immediate political union) and the moderate Monrovia group (gradual functional cooperation, favoured by Nigeria)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Monrovia group?",
+      "options": [
+        "(gradual functional cooperation, favoured by Nigeria)",
+        ", and the right of residence and establishment",
+        ", largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        "was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo"
+      ],
+      "answer": 0,
+      "solution": "Monrovia group: (gradual functional cooperation, favoured by Nigeria)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Sirte Declaration (1999)?",
+      "options": [
+        ", and the right of residence and establishment",
+        ", largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        "was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        ", given legal form in the Constitutive Act (Lome, 2000) and launched at Durban in July 2002"
+      ],
+      "answer": 3,
+      "solution": "Sirte Declaration (1999): , given legal form in the Constitutive Act (Lome, 2000) and launched at Durban in July 2002",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Constitutive Act (Lome, 2000)?",
+      "options": [
+        "and launched at Durban in July 2002",
+        ", and the right of residence and establishment",
+        "was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        ", largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo"
+      ],
+      "answer": 0,
+      "solution": "Constitutive Act (Lome, 2000): and launched at Durban in July 2002",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes intervene?",
+      "options": [
+        "was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        "in a member state in grave circumstances \u2014 war crimes, genocide, crimes against humanity (Article 4(h)) \u2014 replacing absolute non-interference",
+        ", and the right of residence and establishment",
+        ", largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo"
+      ],
+      "answer": 1,
+      "solution": "intervene: in a member state in grave circumstances \u2014 war crimes, genocide, crimes against humanity (Article 4(h)) \u2014 replacing absolute non-interference",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes suspends?",
+      "options": [
+        "governments that come to power unconstitutionally",
+        ", and the right of residence and establishment",
+        "was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        ", largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo"
+      ],
+      "answer": 0,
+      "solution": "suspends: governments that come to power unconstitutionally",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Meaning and rationale of regional integration?",
+      "options": [
+        ", largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        ", and the right of residence and establishment",
+        "was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        "is a key part of Regional and Continental Organizations (SSS 3, Government)"
+      ],
+      "answer": 3,
+      "solution": "Meaning and rationale of regional integration: is a key part of Regional and Continental Organizations (SSS 3, Government)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Formation and aims of ECOWAS?",
+      "options": [
+        ", largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        "was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        "is a key part of Regional and Continental Organizations (SSS 3, Government)",
+        ", and the right of residence and establishment"
+      ],
+      "answer": 2,
+      "solution": "Formation and aims of ECOWAS: is a key part of Regional and Continental Organizations (SSS 3, Government)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Achievements and problems of ECOWAS?",
+      "options": [
+        "is a key part of Regional and Continental Organizations (SSS 3, Government)",
+        ", and the right of residence and establishment",
+        "was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        ", largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo"
+      ],
+      "answer": 0,
+      "solution": "Achievements and problems of ECOWAS: is a key part of Regional and Continental Organizations (SSS 3, Government)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Organs, aims and achievements of the AU?",
+      "options": [
+        "is a key part of Regional and Continental Organizations (SSS 3, Government)",
+        "was established by the Treaty of Lagos on 28 May 1975 , largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        ", largely through the initiative of General Yakubu Gowon of Nigeria and President Gnassingbe Eyadema of Togo",
+        ", and the right of residence and establishment"
+      ],
+      "answer": 0,
+      "solution": "Organs, aims and achievements of the AU: is a key part of Regional and Continental Organizations (SSS 3, Government)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about ECOWAS in Regional and Continental Organizations?",
+      "options": [
+        "A system where power is shared between the center and the component units is... \u2014 Federal.",
+        "ECOWAS was established by the Treaty of: \u2014 Lagos.",
+        "The permanence of the state means that \u2014 The state survives changes of government.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion."
+      ],
+      "answer": 1,
+      "solution": "ECOWAS was established by the Treaty of: \u2014 Lagos.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about From the OAU to the African Union in Regional and Continental Organizations?",
+      "options": [
+        "The OAU was formed in: \u2014 1963.",
+        "The permanence of the state means that \u2014 The state survives changes of government.",
+        "A system where power is shared between the center and the component units is... \u2014 Federal.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion."
+      ],
+      "answer": 0,
+      "solution": "The OAU was formed in: \u2014 1963.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Meaning and rationale of regional integration in Regional and Continental Organizations?",
+      "options": [
+        "The continental free trade area launched under the AU is: \u2014 AfCFTA.",
+        "A system where power is shared between the center and the component units is... \u2014 Federal.",
+        "The permanence of the state means that \u2014 The state survives changes of government.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion."
+      ],
+      "answer": 0,
+      "solution": "The continental free trade area launched under the AU is: \u2014 AfCFTA.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Formation and aims of ECOWAS in Regional and Continental Organizations?",
+      "options": [
+        "A system where power is shared between the center and the component units is... \u2014 Federal.",
+        "ECOWAS was established by the Treaty of: \u2014 Lagos.",
+        "The permanence of the state means that \u2014 The state survives changes of government.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion."
+      ],
+      "answer": 1,
+      "solution": "ECOWAS was established by the Treaty of: \u2014 Lagos.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Achievements and problems of ECOWAS in Regional and Continental Organizations?",
+      "options": [
+        "ECOWAS was established by the Treaty of: \u2014 Lagos.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion.",
+        "The permanence of the state means that \u2014 The state survives changes of government.",
+        "A system where power is shared between the center and the component units is... \u2014 Federal."
+      ],
+      "answer": 0,
+      "solution": "ECOWAS was established by the Treaty of: \u2014 Lagos.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Organs, aims and achievements of the AU in Regional and Continental Organizations?",
+      "options": [
+        "A system where power is shared between the center and the component units is... \u2014 Federal.",
+        "The continental free trade area launched under the AU is: \u2014 AfCFTA.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion.",
+        "The permanence of the state means that \u2014 The state survives changes of government."
+      ],
+      "answer": 1,
+      "solution": "The continental free trade area launched under the AU is: \u2014 AfCFTA.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Regional and Continental Organizations \u2014 'ecowas'?",
+      "options": [
+        "A system where power is shared between the center and the component units is... \u2014 Federal.",
+        "ECOWAS was established by the Treaty of: \u2014 Lagos.",
+        "The permanence of the state means that \u2014 The state survives changes of government.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion."
+      ],
+      "answer": 1,
+      "solution": "ECOWAS was established by the Treaty of: \u2014 Lagos.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Regional and Continental Organizations \u2014 'nigerian'?",
+      "options": [
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion.",
+        "A system where power is shared between the center and the component units is... \u2014 Federal.",
+        "The Nigerian leader who championed the formation of ECOWAS was: \u2014 Gowon.",
+        "The permanence of the state means that \u2014 The state survives changes of government."
+      ],
+      "answer": 2,
+      "solution": "The Nigerian leader who championed the formation of ECOWAS was: \u2014 Gowon.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Regional and Continental Organizations \u2014 'headquarters'?",
+      "options": [
+        "A system where power is shared between the center and the component units is... \u2014 Federal.",
+        "The headquarters of the ECOWAS Commission is in: \u2014 Abuja.",
+        "The permanence of the state means that \u2014 The state survives changes of government.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion."
+      ],
+      "answer": 1,
+      "solution": "The headquarters of the ECOWAS Commission is in: \u2014 Abuja.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Regional and Continental Organizations \u2014 'supreme'?",
+      "options": [
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion.",
+        "The permanence of the state means that \u2014 The state survives changes of government.",
+        "The supreme organ of ECOWAS is the: \u2014 Authority of Heads of State and Government.",
+        "A system where power is shared between the center and the component units is... \u2014 Federal."
+      ],
+      "answer": 2,
+      "solution": "The supreme organ of ECOWAS is the: \u2014 Authority of Heads of State and Government.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Regional and Continental Organizations \u2014 'ecomog'?",
+      "options": [
+        "The permanence of the state means that \u2014 The state survives changes of government.",
+        "A system where power is shared between the center and the component units is... \u2014 Federal.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion.",
+        "ECOMOG first intervened in: \u2014 Liberia."
+      ],
+      "answer": 3,
+      "solution": "ECOMOG first intervened in: \u2014 Liberia.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Regional and Continental Organizations \u2014 'oau'?",
+      "options": [
+        "The OAU was formed in: \u2014 1963.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion.",
+        "The permanence of the state means that \u2014 The state survives changes of government.",
+        "A system where power is shared between the center and the component units is... \u2014 Federal."
+      ],
+      "answer": 0,
+      "solution": "The OAU was formed in: \u2014 1963.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Regional and Continental Organizations \u2014 'group'?",
+      "options": [
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion.",
+        "The group that favoured immediate political union in 1963 was the: \u2014 Casablanca group.",
+        "The permanence of the state means that \u2014 The state survives changes of government.",
+        "A system where power is shared between the center and the component units is... \u2014 Federal."
+      ],
+      "answer": 1,
+      "solution": "The group that favoured immediate political union in 1963 was the: \u2014 Casablanca group.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Regional and Continental Organizations \u2014 'formally'?",
+      "options": [
+        "A system where power is shared between the center and the component units is... \u2014 Federal.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion.",
+        "The AU was formally launched in: \u2014 Durban, 2002.",
+        "The permanence of the state means that \u2014 The state survives changes of government."
+      ],
+      "answer": 2,
+      "solution": "The AU was formally launched in: \u2014 Durban, 2002.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Regional and Continental Organizations \u2014 'article'?",
+      "options": [
+        "A system where power is shared between the center and the component units is... \u2014 Federal.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion.",
+        "Article 4(h) of the Constitutive Act permits the AU to: \u2014 Intervene in grave circumstances.",
+        "The permanence of the state means that \u2014 The state survives changes of government."
+      ],
+      "answer": 2,
+      "solution": "Article 4(h) of the Constitutive Act permits the AU to: \u2014 Intervene in grave circumstances.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Regional and Continental Organizations \u2014 'organ'?",
+      "options": [
+        "The permanence of the state means that \u2014 The state survives changes of government.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion.",
+        "The AU organ responsible for conflict management is the: \u2014 Peace and Security Council.",
+        "A system where power is shared between the center and the component units is... \u2014 Federal."
+      ],
+      "answer": 2,
+      "solution": "The AU organ responsible for conflict management is the: \u2014 Peace and Security Council.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Regional and Continental Organizations \u2014 'pan'?",
+      "options": [
+        "The Pan-African Parliament is located in: \u2014 Midrand, South Africa.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion.",
+        "A system where power is shared between the center and the component units is... \u2014 Federal.",
+        "The permanence of the state means that \u2014 The state survives changes of government."
+      ],
+      "answer": 0,
+      "solution": "The Pan-African Parliament is located in: \u2014 Midrand, South Africa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Regional and Continental Organizations \u2014 'major'?",
+      "options": [
+        "A system where power is shared between the center and the component units is... \u2014 Federal.",
+        "A major problem of ECOWAS is: \u2014 Anglophone-francophone division.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion.",
+        "The permanence of the state means that \u2014 The state survives changes of government."
+      ],
+      "answer": 1,
+      "solution": "A major problem of ECOWAS is: \u2014 Anglophone-francophone division.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Regional and Continental Organizations \u2014 'proposed'?",
+      "options": [
+        "The permanence of the state means that \u2014 The state survives changes of government.",
+        "The proposed single ECOWAS currency is the: \u2014 Eco.",
+        "A \u2018Secular State\u2019 is one that \u2014 Has no official state religion.",
+        "A system where power is shared between the center and the component units is... \u2014 Federal."
+      ],
+      "answer": 1,
+      "solution": "The proposed single ECOWAS currency is the: \u2014 Eco.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
     }
   ]
 }

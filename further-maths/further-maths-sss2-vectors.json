@@ -1,0 +1,737 @@
+{
+  "subject": "Further Mathematics",
+  "level": "SSS 2",
+  "slug": "vectors",
+  "title": "Vectors",
+  "outline": [
+    "Introduction to Vectors",
+    "Key facts about Vectors",
+    "Important terms and examples in Vectors",
+    "Importance and application of Vectors",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Vectors",
+      "html": "<p>Vector addition, scalar products and position vectors. This section covers introduction to vectors.</p><h4>Key points</h4><ul><li>Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.</li><li>Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is: \u2014 $$11$$.</li><li>Find the dot product of vectors $$\\mathbf{u} = 2\\mathbf{i} + 3\\mathbf{j}$$ and $$\\mathbf{v} = -\\mathbf{i} + 5\\mathbf{j}$$. \u2014 $$13$$.</li><li>Find the angle between the vectors $$\\mathbf{a} = 3\\mathbf{i} + 4\\mathbf{j}$$ and $$\\mathbf{b} = 5\\mathbf{i} + 12\\mathbf{j}$$. \u2014 $$\\cos^{-1}\\left(\\frac{63}{65}\\right)$$.</li><li>Calculate the scalar product of vectors $\\\\mathbf{a} = 3i - 2j$ and $\\\\mathbf{b} = 4i + 5j$. \u2014 -2.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$.<br/><b>A:</b> $$90^\\circ$$ \u2014 Past question (JAMB 2022). Correct answer: $$90^\\circ$$.</p><p><b>Q:</b> Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is:<br/><b>A:</b> $$11$$ \u2014 Past question (JAMB 2022). Correct answer: $$11$$.</p>",
+      "examples": [
+        {
+          "q": "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$.",
+          "a": "$$90^\\circ$$"
+        },
+        {
+          "q": "Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is:",
+          "a": "$$11$$"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Vectors",
+      "html": "<p>Vector addition, scalar products and position vectors. This section covers key facts about vectors.</p><h4>Key points</h4><ul><li>Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.</li><li>Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is: \u2014 $$11$$.</li><li>Find the dot product of vectors $$\\mathbf{u} = 2\\mathbf{i} + 3\\mathbf{j}$$ and $$\\mathbf{v} = -\\mathbf{i} + 5\\mathbf{j}$$. \u2014 $$13$$.</li><li>Find the angle between the vectors $$\\mathbf{a} = 3\\mathbf{i} + 4\\mathbf{j}$$ and $$\\mathbf{b} = 5\\mathbf{i} + 12\\mathbf{j}$$. \u2014 $$\\cos^{-1}\\left(\\frac{63}{65}\\right)$$.</li><li>Calculate the scalar product of vectors $\\\\mathbf{a} = 3i - 2j$ and $\\\\mathbf{b} = 4i + 5j$. \u2014 -2.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$.<br/><b>A:</b> $$90^\\circ$$ \u2014 Past question (JAMB 2022). Correct answer: $$90^\\circ$$.</p><p><b>Q:</b> Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is:<br/><b>A:</b> $$11$$ \u2014 Past question (JAMB 2022). Correct answer: $$11$$.</p>",
+      "examples": [
+        {
+          "q": "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$.",
+          "a": "$$90^\\circ$$"
+        },
+        {
+          "q": "Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is:",
+          "a": "$$11$$"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Vectors",
+      "html": "<p>Vector addition, scalar products and position vectors. This section covers important terms and examples in vectors.</p><h4>Key points</h4><ul><li>Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.</li><li>Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is: \u2014 $$11$$.</li><li>Find the dot product of vectors $$\\mathbf{u} = 2\\mathbf{i} + 3\\mathbf{j}$$ and $$\\mathbf{v} = -\\mathbf{i} + 5\\mathbf{j}$$. \u2014 $$13$$.</li><li>Find the angle between the vectors $$\\mathbf{a} = 3\\mathbf{i} + 4\\mathbf{j}$$ and $$\\mathbf{b} = 5\\mathbf{i} + 12\\mathbf{j}$$. \u2014 $$\\cos^{-1}\\left(\\frac{63}{65}\\right)$$.</li><li>Calculate the scalar product of vectors $\\\\mathbf{a} = 3i - 2j$ and $\\\\mathbf{b} = 4i + 5j$. \u2014 -2.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$.<br/><b>A:</b> $$90^\\circ$$ \u2014 Past question (JAMB 2022). Correct answer: $$90^\\circ$$.</p><p><b>Q:</b> Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is:<br/><b>A:</b> $$11$$ \u2014 Past question (JAMB 2022). Correct answer: $$11$$.</p>",
+      "examples": [
+        {
+          "q": "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$.",
+          "a": "$$90^\\circ$$"
+        },
+        {
+          "q": "Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is:",
+          "a": "$$11$$"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Vectors",
+      "html": "<p>Vector addition, scalar products and position vectors. This section covers importance and application of vectors.</p><h4>Key points</h4><ul><li>Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.</li><li>Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is: \u2014 $$11$$.</li><li>Find the dot product of vectors $$\\mathbf{u} = 2\\mathbf{i} + 3\\mathbf{j}$$ and $$\\mathbf{v} = -\\mathbf{i} + 5\\mathbf{j}$$. \u2014 $$13$$.</li><li>Find the angle between the vectors $$\\mathbf{a} = 3\\mathbf{i} + 4\\mathbf{j}$$ and $$\\mathbf{b} = 5\\mathbf{i} + 12\\mathbf{j}$$. \u2014 $$\\cos^{-1}\\left(\\frac{63}{65}\\right)$$.</li><li>Calculate the scalar product of vectors $\\\\mathbf{a} = 3i - 2j$ and $\\\\mathbf{b} = 4i + 5j$. \u2014 -2.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$.<br/><b>A:</b> $$90^\\circ$$ \u2014 Past question (JAMB 2022). Correct answer: $$90^\\circ$$.</p><p><b>Q:</b> Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is:<br/><b>A:</b> $$11$$ \u2014 Past question (JAMB 2022). Correct answer: $$11$$.</p>",
+      "examples": [
+        {
+          "q": "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$.",
+          "a": "$$90^\\circ$$"
+        },
+        {
+          "q": "Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is:",
+          "a": "$$11$$"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Vector addition, scalar products and position vectors. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.</li><li>Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is: \u2014 $$11$$.</li><li>Find the dot product of vectors $$\\mathbf{u} = 2\\mathbf{i} + 3\\mathbf{j}$$ and $$\\mathbf{v} = -\\mathbf{i} + 5\\mathbf{j}$$. \u2014 $$13$$.</li><li>Find the angle between the vectors $$\\mathbf{a} = 3\\mathbf{i} + 4\\mathbf{j}$$ and $$\\mathbf{b} = 5\\mathbf{i} + 12\\mathbf{j}$$. \u2014 $$\\cos^{-1}\\left(\\frac{63}{65}\\right)$$.</li><li>Calculate the scalar product of vectors $\\\\mathbf{a} = 3i - 2j$ and $\\\\mathbf{b} = 4i + 5j$. \u2014 -2.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$.<br/><b>A:</b> $$90^\\circ$$ \u2014 Past question (JAMB 2022). Correct answer: $$90^\\circ$$.</p><p><b>Q:</b> Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is:<br/><b>A:</b> $$11$$ \u2014 Past question (JAMB 2022). Correct answer: $$11$$.</p>",
+      "examples": [
+        {
+          "q": "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$.",
+          "a": "$$90^\\circ$$"
+        },
+        {
+          "q": "Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is:",
+          "a": "$$11$$"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$.",
+      "options": [
+        "$$0^\\circ$$",
+        "$$45^\\circ$$",
+        "$$90^\\circ$$",
+        "$$180^\\circ$$"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: $$90^\\circ$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is:",
+      "options": [
+        "$$11$$",
+        "$$10$$",
+        "$$7$$",
+        "$$3$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$11$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Find the dot product of vectors $$\\mathbf{u} = 2\\mathbf{i} + 3\\mathbf{j}$$ and $$\\mathbf{v} = -\\mathbf{i} + 5\\mathbf{j}$$.",
+      "options": [
+        "$$13$$",
+        "$$17$$",
+        "$$-2$$",
+        "$$15$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$13$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the angle between the vectors $$\\mathbf{a} = 3\\mathbf{i} + 4\\mathbf{j}$$ and $$\\mathbf{b} = 5\\mathbf{i} + 12\\mathbf{j}$$.",
+      "options": [
+        "$$\\cos^{-1}\\left(\\frac{63}{65}\\right)$$",
+        "$$\\cos^{-1}\\left(\\frac{33}{65}\\right)$$",
+        "$$90^\\circ$$",
+        "$$45^\\circ$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$\\cos^{-1}\\left(\\frac{63}{65}\\right)$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Calculate the scalar product of vectors $\\\\mathbf{a} = 3i - 2j$ and $\\\\mathbf{b} = 4i + 5j$.",
+      "options": [
+        "2",
+        "22",
+        "-2",
+        "7"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2024). Correct answer: -2.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the angle between vectors $i + j$ and $i - j$.",
+      "options": [
+        "$90^\\\\circ$",
+        "$0^\\\\circ$",
+        "$45^\\\\circ$",
+        "$180^\\\\circ$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $90^\\\\circ$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "If $$ f(x) = x^2 $$, range for $$ x \\in R $$ is:",
+      "options": [
+        "$$ y \\ge 0 $$",
+        "$$ y > 0 $$",
+        "$$ y \\le 0 $$",
+        "All Reals"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: $$ y \\ge 0 $$.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "If $$f(x) = x^3 - 2x^2 + x - 5$$, find the remainder when divided by $$x - 2$$.",
+      "options": [
+        "$$-3$$",
+        "$$0$$",
+        "$$5$$",
+        "$$-1$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: $$-3$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "A binary operation $$*$$ is defined by $$a * b = a + b + ab$$. Find $$2 * 3$$.",
+      "options": [
+        "$$5$$",
+        "$$6$$",
+        "$$11$$",
+        "$$10$$"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: $$11$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "If $$y = \\ln x$$, then $$\\frac{dy}{dx}$$ is:",
+      "options": [
+        "$$e^x$$",
+        "$$1/x$$",
+        "$$x$$",
+        "$$\\ln x$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$1/x$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Solve for $$x$$ if $$ \\log_3(2x + 1) - \\log_3(x - 2) = 1 $$.",
+      "options": [
+        "$$x = 7$$",
+        "$$x = 5$$",
+        "$$x = 4$$",
+        "$$x = 3$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$x = 7$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "If $$^nP_2 = 30$$, find the value of $$n$$.",
+      "options": [
+        "$$6$$",
+        "$$5$$",
+        "$$10$$",
+        "$$15$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$6$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "A mapping $$f: \\mathbb{R} \\to \\mathbb{R}$$ is defined by $$f(x) = 2x - 3$$. Find $$f^{-1}(x)$$.",
+      "options": [
+        "$$\\frac{x+3}{2}$$",
+        "$$\\frac{x-3}{2}$$",
+        "$$2x + 3$$",
+        "$$\\frac{1}{2x-3}$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$\\frac{x+3}{2}$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the remainder when $2x^3 - 3x^2 + 4x - 1$ is divided by $(x - 1)$.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: 2.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$",
+      "options": [
+        "$\\\\frac{1}{2} \\\\sin 2x + C$",
+        "$-\\\\frac{1}{2} \\\\sin 2x + C$",
+        "$2 \\\\sin 2x + C$",
+        "$\\\\sin 2x + C$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: $\\\\frac{1}{2} \\\\sin 2x + C$.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "If $\\\\tan A = 3/4$ and $\\\\tan B = 1/7$, find $\\\\tan(A + B)$.",
+      "options": [
+        "1",
+        "0.5",
+        "11/28",
+        "25/31"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 1.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the correlation coefficient if $\\\\sum xy = 50, \\\\sum x^2 = 40, \\\\sum y^2 = 90$.",
+      "options": [
+        "0.83",
+        "0.50",
+        "0.75",
+        "1.00"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 0.83.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The sum of the roots of $$ 2x^2 - 5x + 3 = 0 $$ is:",
+      "options": [
+        "$$ \\frac{5}{2} $$",
+        "$$ -\\frac{5}{2} $$",
+        "$$ \\frac{3}{2} $$",
+        "$$ -\\frac{3}{2} $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ \\frac{5}{2} $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The eccentricity of a parabola is:",
+      "options": [
+        "0",
+        "1",
+        "$$ <1 $$",
+        "$$ >1 $$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: 1.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "If $$ \\mathbf{a} $$ and $$ \\mathbf{b} $$ are parallel, then:",
+      "options": [
+        "$$ \\mathbf{a} \\cdot \\mathbf{b} = 0 $$",
+        "$$ \\mathbf{a} \\times \\mathbf{b} = 0 $$",
+        "$$ |\\mathbf{a}| = |\\mathbf{b}| $$",
+        "$$ \\mathbf{a} + \\mathbf{b} = 0 $$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ \\mathbf{a} \\times \\mathbf{b} = 0 $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Modulus $$ 3+4i $$:",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "25"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 5.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Binary $$ a*b=a+b $$ Find 2*3:",
+      "options": [
+        "5",
+        "6",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 5.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Fall 20m time:",
+      "options": [
+        "2s",
+        "4s",
+        "1s",
+        "3s"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 2s.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Friction:",
+      "options": [
+        "$$ \\mu R $$",
+        "$$ R/\\mu $$",
+        "$$ \\mu+R $$",
+        "$$ R-\\mu $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: $$ \\mu R $$.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Newton Law 2:",
+      "options": [
+        "F=ma",
+        "F=0",
+        "Act=React",
+        "Inertia"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: F=ma.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Find the center of the circle $$ x^2 + y^2 - 6x + 8y = 0 $$.",
+      "options": [
+        "(3, -4)",
+        "(-3, 4)",
+        "(6, -8)",
+        "(-6, 8)"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: (3, -4).",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Solve $$ \\log_3 x = 2 $$.",
+      "options": [
+        "9",
+        "6",
+        "8",
+        "5"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 9.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Transpose of $$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$.",
+      "options": [
+        "$$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$",
+        "$$ \\begin{pmatrix} 2 & 1 \\end{pmatrix} $$",
+        "$$ \\begin{pmatrix} 2 \\\\ 1 \\end{pmatrix} $$",
+        "$$ \\begin{pmatrix} 1 & 2 \\end{pmatrix} $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Cross product $$ \\mathbf{i} \\times \\mathbf{j} $$:",
+      "options": [
+        "$$ \\mathbf{k} $$",
+        "$$ 0 $$",
+        "$$ 1 $$",
+        "$$ -\\mathbf{k} $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ \\mathbf{k} $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Vectors in Vectors?",
+      "options": [
+        "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.",
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$.",
+        "Int Reverse: \u2014 Diff."
+      ],
+      "answer": 0,
+      "solution": "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Vectors in Vectors?",
+      "options": [
+        "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.",
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Int Reverse: \u2014 Diff.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$."
+      ],
+      "answer": 0,
+      "solution": "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Vectors in Vectors?",
+      "options": [
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$.",
+        "Int Reverse: \u2014 Diff.",
+        "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$."
+      ],
+      "answer": 3,
+      "solution": "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Vectors in Vectors?",
+      "options": [
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$.",
+        "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.",
+        "Int Reverse: \u2014 Diff.",
+        "Corr Coeff -1: \u2014 Neg Perfect."
+      ],
+      "answer": 1,
+      "solution": "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Vectors?",
+      "options": [
+        "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$.",
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Int Reverse: \u2014 Diff."
+      ],
+      "answer": 0,
+      "solution": "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'find'?",
+      "options": [
+        "Int Reverse: \u2014 Diff.",
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$."
+      ],
+      "answer": 2,
+      "solution": "Find the angle between vectors $$\\mathbf{a} = \\mathbf{i} + \\mathbf{j}$$ and $$\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$$. \u2014 $$90^\\circ$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'scalar'?",
+      "options": [
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$.",
+        "Int Reverse: \u2014 Diff.",
+        "Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is: \u2014 $$11$$."
+      ],
+      "answer": 3,
+      "solution": "Scalar product of vectors $$\\mathbf{a}=(1,2)$$ and $$\\mathbf{b}=(3,4)$$ is: \u2014 $$11$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'calculate'?",
+      "options": [
+        "Int Reverse: \u2014 Diff.",
+        "Calculate the scalar product of vectors $\\\\mathbf{a} = 3i - 2j$ and $\\\\mathbf{b} = 4i + 5j$. \u2014 -2.",
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$."
+      ],
+      "answer": 1,
+      "solution": "Calculate the scalar product of vectors $\\\\mathbf{a} = 3i - 2j$ and $\\\\mathbf{b} = 4i + 5j$. \u2014 -2.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'range'?",
+      "options": [
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$.",
+        "Int Reverse: \u2014 Diff.",
+        "If $$ f(x) = x^2 $$, range for $$ x \\in R $$ is: \u2014 $$ y \\ge 0 $$.",
+        "Corr Coeff -1: \u2014 Neg Perfect."
+      ],
+      "answer": 2,
+      "solution": "If $$ f(x) = x^2 $$, range for $$ x \\in R $$ is: \u2014 $$ y \\ge 0 $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'binary'?",
+      "options": [
+        "Int Reverse: \u2014 Diff.",
+        "A binary operation $$*$$ is defined by $$a * b = a + b + ab$$. Find $$2 * 3$$. \u2014 $$11$$.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$.",
+        "Corr Coeff -1: \u2014 Neg Perfect."
+      ],
+      "answer": 1,
+      "solution": "A binary operation $$*$$ is defined by $$a * b = a + b + ab$$. Find $$2 * 3$$. \u2014 $$11$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'frac'?",
+      "options": [
+        "Int Reverse: \u2014 Diff.",
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$.",
+        "If $$y = \\ln x$$, then $$\\frac{dy}{dx}$$ is: \u2014 $$1/x$$."
+      ],
+      "answer": 3,
+      "solution": "If $$y = \\ln x$$, then $$\\frac{dy}{dx}$$ is: \u2014 $$1/x$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'solve'?",
+      "options": [
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Solve for $$x$$ if $$ \\log_3(2x + 1) - \\log_3(x - 2) = 1 $$. \u2014 $$x = 7$$.",
+        "Int Reverse: \u2014 Diff.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$."
+      ],
+      "answer": 1,
+      "solution": "Solve for $$x$$ if $$ \\log_3(2x + 1) - \\log_3(x - 2) = 1 $$. \u2014 $$x = 7$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'mapping'?",
+      "options": [
+        "Int Reverse: \u2014 Diff.",
+        "A mapping $$f: \\mathbb{R} \\to \\mathbb{R}$$ is defined by $$f(x) = 2x - 3$$. Find $$f^{-1}(x)$$. \u2014 $$\\frac{x+3}{2}$$.",
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$."
+      ],
+      "answer": 1,
+      "solution": "A mapping $$f: \\mathbb{R} \\to \\mathbb{R}$$ is defined by $$f(x) = 2x - 3$$. Find $$f^{-1}(x)$$. \u2014 $$\\frac{x+3}{2}$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'integrate'?",
+      "options": [
+        "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$.",
+        "Int Reverse: \u2014 Diff.",
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$."
+      ],
+      "answer": 0,
+      "solution": "Integrate with respect to $x$: $$ \\\\int \\\\cos 2x \\\\, dx $$ \u2014 $\\\\frac{1}{2} \\\\sin 2x + C$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'tan'?",
+      "options": [
+        "Int Reverse: \u2014 Diff.",
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$.",
+        "If $\\\\tan A = 3/4$ and $\\\\tan B = 1/7$, find $\\\\tan(A + B)$. \u2014 1."
+      ],
+      "answer": 3,
+      "solution": "If $\\\\tan A = 3/4$ and $\\\\tan B = 1/7$, find $\\\\tan(A + B)$. \u2014 1.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'sum'?",
+      "options": [
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Int Reverse: \u2014 Diff.",
+        "The sum of the roots of $$ 2x^2 - 5x + 3 = 0 $$ is: \u2014 $$ \\frac{5}{2} $$.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$."
+      ],
+      "answer": 2,
+      "solution": "The sum of the roots of $$ 2x^2 - 5x + 3 = 0 $$ is: \u2014 $$ \\frac{5}{2} $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'eccentricity'?",
+      "options": [
+        "Int Reverse: \u2014 Diff.",
+        "The eccentricity of a parabola is: \u2014 1.",
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$."
+      ],
+      "answer": 1,
+      "solution": "The eccentricity of a parabola is: \u2014 1.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'mathbf'?",
+      "options": [
+        "Int Reverse: \u2014 Diff.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$.",
+        "If $$ \\mathbf{a} $$ and $$ \\mathbf{b} $$ are parallel, then: \u2014 $$ \\mathbf{a} \\times \\mathbf{b} = 0 $$.",
+        "Corr Coeff -1: \u2014 Neg Perfect."
+      ],
+      "answer": 2,
+      "solution": "If $$ \\mathbf{a} $$ and $$ \\mathbf{b} $$ are parallel, then: \u2014 $$ \\mathbf{a} \\times \\mathbf{b} = 0 $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'modulus'?",
+      "options": [
+        "Modulus $$ 3+4i $$: \u2014 5.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$.",
+        "Int Reverse: \u2014 Diff.",
+        "Corr Coeff -1: \u2014 Neg Perfect."
+      ],
+      "answer": 0,
+      "solution": "Modulus $$ 3+4i $$: \u2014 5.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'fall'?",
+      "options": [
+        "Int Reverse: \u2014 Diff.",
+        "Fall 20m time: \u2014 2s.",
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$."
+      ],
+      "answer": 1,
+      "solution": "Fall 20m time: \u2014 2s.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Vectors \u2014 'friction'?",
+      "options": [
+        "Diff $$ e^{2x} $$: \u2014 $$ 2e^{2x} $$.",
+        "Int Reverse: \u2014 Diff.",
+        "Corr Coeff -1: \u2014 Neg Perfect.",
+        "Friction: \u2014 $$ \\mu R $$."
+      ],
+      "answer": 3,
+      "solution": "Friction: \u2014 $$ \\mu R $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

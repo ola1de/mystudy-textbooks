@@ -6,13 +6,13 @@
   "outline": [
     "Advanced idioms and proverbs",
     "Registers: Aviation, Maritime, Commerce, Banking, Administration",
-    "Word formation — prefixes, roots, suffixes",
+    "Word formation \u2014 prefixes, roots, suffixes",
     "Contextual word study"
   ],
   "modules": [
     {
       "title": "Advanced idioms, proverbs and figures of speech",
-      "html": "<p>Senior candidates must recognise <b>advanced idioms</b> — fixed expressions whose meaning is not literal.</p>\n  <ul>\n    <li><i>a wolf in sheep's clothing</i> — a dangerous person pretending to be harmless.</li>\n    <li><i>bite the bullet</i> — accept an unpleasant duty bravely.</li>\n    <li><i>call it a day</i> — stop working.</li>\n    <li><i>cut corners</i> — do something in the easiest but poorest way.</li>\n    <li><i>the ball is in your court</i> — it is your turn to decide.</li>\n    <li><i>throw in the towel</i> — give up.</li>\n    <li><i>hit the nail on the head</i> — describe something exactly right.</li>\n    <li><i>a storm in a teacup</i> — a big fuss about a small matter.</li>\n  </ul>\n  <p><b>Proverbs</b> compress wisdom: <i>A stitch in time saves nine; too many cooks spoil the broth; every cloud has a silver lining; when the going gets tough, the tough get going.</i></p>",
+      "html": "<p>Senior candidates must recognise <b>advanced idioms</b> \u2014 fixed expressions whose meaning is not literal.</p>\n  <ul>\n    <li><i>a wolf in sheep's clothing</i> \u2014 a dangerous person pretending to be harmless.</li>\n    <li><i>bite the bullet</i> \u2014 accept an unpleasant duty bravely.</li>\n    <li><i>call it a day</i> \u2014 stop working.</li>\n    <li><i>cut corners</i> \u2014 do something in the easiest but poorest way.</li>\n    <li><i>the ball is in your court</i> \u2014 it is your turn to decide.</li>\n    <li><i>throw in the towel</i> \u2014 give up.</li>\n    <li><i>hit the nail on the head</i> \u2014 describe something exactly right.</li>\n    <li><i>a storm in a teacup</i> \u2014 a big fuss about a small matter.</li>\n  </ul>\n  <p><b>Proverbs</b> compress wisdom: <i>A stitch in time saves nine; too many cooks spoil the broth; every cloud has a silver lining; when the going gets tough, the tough get going.</i></p>",
       "examples": [
         {
           "q": "Explain <i>throw in the towel</i>.",
@@ -21,22 +21,46 @@
       ]
     },
     {
-      "title": "Registers — Aviation, Maritime, Commerce, Banking, Administration",
-      "html": "<p><b>Aviation</b>: cockpit, cabin crew, altitude, turbulence, runway, taxiing, boarding pass, aviation fuel, air-traffic control, hangar, jet lag, itinerary, callsign.</p>\n  <p><b>Maritime</b>: vessel, cargo, port, harbour, quay, buoy, anchor, stevedore, freight, bill of lading, keel, deck, mast, tanker.</p>\n  <p><b>Commerce</b>: retailer, wholesaler, invoice, quotation, discount, dispatch, warehouse, consignment, gross, net, turnover, credit facility.</p>\n  <p><b>Banking</b>: deposit, withdrawal, ledger, overdraft, credit balance, interest rate, mortgage, cheque, standing order, remittance, teller.</p>\n  <p><b>Administration</b>: memorandum, agenda, minutes, quorum, resolution, ex-officio, delegation, dossier, protocol, secretariat.</p>",
+      "title": "Registers \u2014 Aviation, Maritime, Commerce, Banking, Administration",
+      "html": "<p><b>Aviation</b>: cockpit, cabin crew, altitude, turbulence, runway, taxiing, boarding pass, aviation fuel, air-traffic control, hangar, jet lag, itinerary, callsign.</p>\n  <p><b>Maritime</b>: vessel, cargo, port, harbour, quay, buoy, anchor, stevedore, freight, bill of lading, keel, deck, mast, tanker.</p>\n  <p><b>Commerce</b>: retailer, wholesaler, invoice, quotation, discount, dispatch, warehouse, consignment, gross, net, turnover, credit facility.</p>\n  <p><b>Banking</b>: deposit, withdrawal, ledger, overdraft, credit balance, interest rate, mortgage, cheque, standing order, remittance, teller.</p>\n  <p><b>Administration</b>: memorandum, agenda, minutes, quorum, resolution, ex-officio, delegation, dossier, protocol, secretariat.</p><h4>Key points</h4><ul><li>Aviation.</li><li>Banking term.</li></ul><h4>Worked example</h4><p><b>Q:</b> Register: <i>cockpit</i> belongs to:<br/><b>A:</b> Aviation</p><p><b>Q:</b> Register: <i>overdraft</i>:<br/><b>A:</b> Banking</p>",
       "examples": [
         {
           "q": "Which register is <i>bill of lading</i>?",
-          "a": "Maritime (shipping) — the document listing goods being shipped."
+          "a": "Maritime (shipping) \u2014 the document listing goods being shipped."
         }
       ]
     },
     {
       "title": "Advanced word study",
-      "html": "<p>Beyond memorising lists, examine words by their <b>parts</b>:</p>\n  <ul>\n    <li><b>Prefix</b> — added at the front (<i>un-, dis-, mis-, over-, anti-, pre-</i>): <i>uneducated, mislead, overrule, anti-social.</i></li>\n    <li><b>Root</b> — the core meaning (<i>bene</i> = good; <i>ject</i> = throw; <i>graph</i> = write).</li>\n    <li><b>Suffix</b> — added at the end (<i>-ness, -ity, -ment, -tion, -able</i>): <i>happiness, ability, movement, decision, readable.</i></li>\n  </ul>\n  <p>Use word roots to guess meaning: <i>benefactor</i> — someone who <b>does good</b> (bene + factor).</p>",
+      "html": "<p>Beyond memorising lists, examine words by their <b>parts</b>:</p>\n  <ul>\n    <li><b>Prefix</b> \u2014 added at the front (<i>un-, dis-, mis-, over-, anti-, pre-</i>): <i>uneducated, mislead, overrule, anti-social.</i></li>\n    <li><b>Root</b> \u2014 the core meaning (<i>bene</i> = good; <i>ject</i> = throw; <i>graph</i> = write).</li>\n    <li><b>Suffix</b> \u2014 added at the end (<i>-ness, -ity, -ment, -tion, -able</i>): <i>happiness, ability, movement, decision, readable.</i></li>\n  </ul>\n  <p>Use word roots to guess meaning: <i>benefactor</i> \u2014 someone who <b>does good</b> (bene + factor).</p><h4>Key points</h4><ul><li>Against.</li></ul><h4>Worked example</h4><p><b>Q:</b> Word from parts: <i>anti- + social</i> means:<br/><b>A:</b> opposed to society</p><h4>More key points</h4><ul><li>Word from parts: <i>anti- + social</i> means: \u2014 opposed to society.</li></ul>",
       "examples": [
         {
           "q": "Break down <i>unhappiness</i>: prefix / root / suffix.",
           "a": "un- (prefix, not) + happy (root) + -ness (suffix, state). Meaning: state of not being happy."
+        }
+      ]
+    },
+    {
+      "title": "Word formation \u2014 prefixes, roots, suffixes",
+      "html": "<p><b>Word formation \u2014 prefixes, roots, suffixes</b> is a key part of Vocabulary Development (SSS 3, English). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Beyond memorising lists, examine words by their parts : Prefix \u2014 added at the front ( un-, dis-, mis-, over-, anti-, pre- ): uneducated, mislead, overrule, anti-social.</li><li>Use word roots to guess meaning: benefactor \u2014 someone who does good (bene + factor).</li><li>Worked example Q: Word from parts: anti- + social means: A: opposed to society</li><li>To give wrong information.</li></ul><h4>Worked example</h4><p><b>Q:</b> Word from parts: <i>anti- + social</i> means:<br/><b>A:</b> opposed to society \u2014 Against.</p>",
+      "examples": [
+        {
+          "q": "Word from parts: <i>anti- + social</i> means:",
+          "a": "opposed to society \u2014 Against."
+        }
+      ]
+    },
+    {
+      "title": "Revision and exam focus",
+      "html": "<p>Revise the whole topic by working through its key points in order, then test yourself with the 50-question quiz for this topic. Pay attention to definitions, differences between similar terms, and questions that ask you to apply the topic rather than only recall it.</p><h4>Worked examples</h4><p><b>Q:</b> Meaning of <i>a wolf in sheep's clothing</i>:<br/><b>A:</b> a dangerous person appearing harmless \u2014 Deceptive appearance.</p><p><b>Q:</b> Meaning of <i>bite the bullet</i>:<br/><b>A:</b> bear pain bravely \u2014 Accept difficulty.</p><p><b>Q:</b> Meaning of <i>call it a day</i>:<br/><b>A:</b> stop working \u2014 Finish for the day.</p>",
+      "examples": [
+        {
+          "q": "Meaning of <i>a wolf in sheep's clothing</i>:",
+          "a": "a dangerous person appearing harmless"
+        },
+        {
+          "q": "Meaning of <i>bite the bullet</i>:",
+          "a": "bear pain bravely"
         }
       ]
     }
@@ -51,7 +75,9 @@
         "a farm tool"
       ],
       "answer": 1,
-      "solution": "Deceptive appearance."
+      "solution": "Deceptive appearance.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>bite the bullet</i>:",
@@ -62,7 +88,9 @@
         "escape"
       ],
       "answer": 1,
-      "solution": "Accept difficulty."
+      "solution": "Accept difficulty.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>call it a day</i>:",
@@ -73,7 +101,9 @@
         "name a holiday"
       ],
       "answer": 1,
-      "solution": "Finish for the day."
+      "solution": "Finish for the day.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>cut corners</i>:",
@@ -84,7 +114,9 @@
         "measure"
       ],
       "answer": 1,
-      "solution": "Skimp on quality."
+      "solution": "Skimp on quality.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>the ball is in your court</i>:",
@@ -95,7 +127,9 @@
         "begin now"
       ],
       "answer": 0,
-      "solution": "Decision is yours."
+      "solution": "Decision is yours.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>throw in the towel</i>:",
@@ -106,7 +140,9 @@
         "attack"
       ],
       "answer": 1,
-      "solution": "Concede/surrender."
+      "solution": "Concede/surrender.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>hit the nail on the head</i>:",
@@ -117,7 +153,9 @@
         "hammer"
       ],
       "answer": 1,
-      "solution": "Correctly identify the issue."
+      "solution": "Correctly identify the issue.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>a storm in a teacup</i>:",
@@ -128,7 +166,9 @@
         "a chore"
       ],
       "answer": 1,
-      "solution": "Trivial issue exaggerated."
+      "solution": "Trivial issue exaggerated.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Proverb: <i>A stitch in time saves ___.</i>",
@@ -139,7 +179,9 @@
         "many"
       ],
       "answer": 1,
-      "solution": "'nine' — early action saves more work."
+      "solution": "'nine' \u2014 early action saves more work.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Proverb meaning of <i>Every cloud has a silver lining</i>:",
@@ -150,7 +192,9 @@
         "silver comes from clouds"
       ],
       "answer": 1,
-      "solution": "Hopeful outlook."
+      "solution": "Hopeful outlook.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Register: <i>cockpit</i> belongs to:",
@@ -161,7 +205,9 @@
         "Law"
       ],
       "answer": 1,
-      "solution": "Aviation."
+      "solution": "Aviation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Register: <i>bill of lading</i>:",
@@ -172,7 +218,9 @@
         "Sports"
       ],
       "answer": 1,
-      "solution": "Shipping doc."
+      "solution": "Shipping doc.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Register: <i>overdraft</i>:",
@@ -183,7 +231,9 @@
         "Law"
       ],
       "answer": 0,
-      "solution": "Banking term."
+      "solution": "Banking term.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Register: <i>quorum</i>:",
@@ -194,7 +244,9 @@
         "Sports"
       ],
       "answer": 0,
-      "solution": "Meeting term."
+      "solution": "Meeting term.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Register: <i>invoice</i>:",
@@ -205,7 +257,9 @@
         "Sports"
       ],
       "answer": 0,
-      "solution": "Commerce."
+      "solution": "Commerce.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Register: <i>turbulence</i>:",
@@ -216,7 +270,9 @@
         "Commerce"
       ],
       "answer": 0,
-      "solution": "Aviation."
+      "solution": "Aviation.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Register: <i>consignment</i>:",
@@ -227,7 +283,9 @@
         "Sports"
       ],
       "answer": 0,
-      "solution": "Commerce/shipping goods sent."
+      "solution": "Commerce/shipping goods sent.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Register: <i>agenda</i>:",
@@ -238,7 +296,9 @@
         "Banking"
       ],
       "answer": 0,
-      "solution": "Meeting/administration."
+      "solution": "Meeting/administration.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Register: <i>quay</i> is a:",
@@ -249,7 +309,9 @@
         "office"
       ],
       "answer": 0,
-      "solution": "A landing place at a port."
+      "solution": "A landing place at a port.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Register: <i>stevedore</i>:",
@@ -260,7 +322,9 @@
         "farmer"
       ],
       "answer": 0,
-      "solution": "Maritime worker."
+      "solution": "Maritime worker.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>net</i> (Commerce):",
@@ -271,7 +335,9 @@
         "tax"
       ],
       "answer": 1,
-      "solution": "'Net' = after deductions."
+      "solution": "'Net' = after deductions.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>gross</i> (Commerce):",
@@ -282,7 +348,9 @@
         "interest"
       ],
       "answer": 1,
-      "solution": "'Gross' = before deductions."
+      "solution": "'Gross' = before deductions.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>remittance</i> (Banking):",
@@ -293,7 +361,9 @@
         "deposit only"
       ],
       "answer": 1,
-      "solution": "Money sent."
+      "solution": "Money sent.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>ex-officio</i> (Administration):",
@@ -304,7 +374,9 @@
         "retired"
       ],
       "answer": 1,
-      "solution": "Serving by right of office."
+      "solution": "Serving by right of office.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Prefix <i>un-</i> means:",
@@ -315,7 +387,9 @@
         "after"
       ],
       "answer": 1,
-      "solution": "Not / opposite."
+      "solution": "Not / opposite.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Prefix <i>re-</i> means:",
@@ -326,7 +400,9 @@
         "under"
       ],
       "answer": 0,
-      "solution": "Again."
+      "solution": "Again.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Prefix <i>pre-</i> means:",
@@ -337,7 +413,9 @@
         "against"
       ],
       "answer": 1,
-      "solution": "Before."
+      "solution": "Before.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Suffix <i>-able</i> means:",
@@ -348,7 +426,9 @@
         "full of"
       ],
       "answer": 0,
-      "solution": "'Readable' = able to be read."
+      "solution": "'Readable' = able to be read.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Suffix <i>-ness</i> forms:",
@@ -359,7 +439,9 @@
         "adverbs"
       ],
       "answer": 0,
-      "solution": "'Kindness' from 'kind'."
+      "solution": "'Kindness' from 'kind'.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Root <i>bene</i> means:",
@@ -370,7 +452,9 @@
         "without"
       ],
       "answer": 1,
-      "solution": "'Benefit', 'benefactor' — good."
+      "solution": "'Benefit', 'benefactor' \u2014 good.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>malicious</i> (root <i>mal</i>):",
@@ -381,7 +465,9 @@
         "weak"
       ],
       "answer": 1,
-      "solution": "'Mal-' = bad."
+      "solution": "'Mal-' = bad.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Word from parts: <i>anti- + social</i> means:",
@@ -392,7 +478,9 @@
         "for society"
       ],
       "answer": 1,
-      "solution": "Against."
+      "solution": "Against.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>overrule</i>:",
@@ -403,7 +491,9 @@
         "measure"
       ],
       "answer": 1,
-      "solution": "To reject/reverse."
+      "solution": "To reject/reverse.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>misinform</i>:",
@@ -414,7 +504,9 @@
         "re-inform"
       ],
       "answer": 1,
-      "solution": "To give wrong information."
+      "solution": "To give wrong information.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Register: <i>hangar</i>:",
@@ -425,7 +517,9 @@
         "office"
       ],
       "answer": 0,
-      "solution": "Aircraft storage."
+      "solution": "Aircraft storage.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Register: <i>keel</i> is part of:",
@@ -436,7 +530,9 @@
         "train"
       ],
       "answer": 1,
-      "solution": "Bottom structure of a ship."
+      "solution": "Bottom structure of a ship.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Register: <i>freight</i>:",
@@ -447,7 +543,9 @@
         "fare"
       ],
       "answer": 1,
-      "solution": "Goods transported."
+      "solution": "Goods transported.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Register: <i>ledger</i>:",
@@ -458,7 +556,9 @@
         "farm tool"
       ],
       "answer": 0,
-      "solution": "Banking/accounting."
+      "solution": "Banking/accounting.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Register: <i>protocol</i> (Administration):",
@@ -469,7 +569,9 @@
         "recipe"
       ],
       "answer": 0,
-      "solution": "Diplomatic/procedural rules."
+      "solution": "Diplomatic/procedural rules.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>reservation</i> (Aviation):",
@@ -480,7 +582,9 @@
         "refund"
       ],
       "answer": 1,
-      "solution": "To reserve = book."
+      "solution": "To reserve = book.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>chartered</i> in <i>chartered flight</i>:",
@@ -491,7 +595,9 @@
         "free"
       ],
       "answer": 0,
-      "solution": "Booked for private use."
+      "solution": "Booked for private use.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>collateral</i> (Banking):",
@@ -502,7 +608,9 @@
         "tax"
       ],
       "answer": 1,
-      "solution": "Security for a loan."
+      "solution": "Security for a loan.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>subsidy</i> (Commerce/Administration):",
@@ -513,7 +621,9 @@
         "dividend"
       ],
       "answer": 0,
-      "solution": "Government support."
+      "solution": "Government support.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>manifesto</i> (Administration):",
@@ -524,7 +634,9 @@
         "bank slip"
       ],
       "answer": 0,
-      "solution": "Public statement."
+      "solution": "Public statement.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>itinerary</i> (Aviation/travel):",
@@ -535,7 +647,9 @@
         "seat"
       ],
       "answer": 1,
-      "solution": "Journey plan."
+      "solution": "Journey plan.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>consignor</i>:",
@@ -546,7 +660,9 @@
         "banker"
       ],
       "answer": 0,
-      "solution": "Sender."
+      "solution": "Sender.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>consignee</i>:",
@@ -557,7 +673,9 @@
         "judge"
       ],
       "answer": 1,
-      "solution": "Receiver."
+      "solution": "Receiver.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Meaning of <i>litigation</i>:",
@@ -568,7 +686,9 @@
         "aviation"
       ],
       "answer": 1,
-      "solution": "Legal process."
+      "solution": "Legal process.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Idiom: <i>burn one's bridges</i>:",
@@ -579,7 +699,9 @@
         "invest"
       ],
       "answer": 1,
-      "solution": "Cut off retreat."
+      "solution": "Cut off retreat.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Idiom: <i>the tip of the iceberg</i>:",
@@ -590,7 +712,9 @@
         "a summit"
       ],
       "answer": 1,
-      "solution": "Small visible part of a bigger issue."
+      "solution": "Small visible part of a bigger issue.",
+      "source": "Chapter notes",
+      "practice": false
     }
   ]
 }

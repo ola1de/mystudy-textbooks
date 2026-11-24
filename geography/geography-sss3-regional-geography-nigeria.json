@@ -1,235 +1,746 @@
 {
- "subject": "Geography",
- "level": "SSS 3",
- "slug": "regional-geography-nigeria",
- "title": "Regional Geography of Nigeria",
- "outline": [
-  "Location, size, position and political divisions of Nigeria",
-  "Geology and relief regions",
-  "Climate and vegetation belts",
-  "Soils and drainage systems",
-  "Agriculture: crops, livestock, fishing and forestry",
-  "Mineral resources and mining",
-  "Manufacturing industries and industrial regions",
-  "Transport, trade, population and environmental problems"
- ],
- "modules": [
-  {
-   "title": "Location, Relief, Climate and Soils",
-   "html": "\n<h4>Location and Size</h4>\n<p>Nigeria lies between latitudes \\(4^\\circ\\text{N}\\) and \\(14^\\circ\\text{N}\\) and longitudes \\(3^\\circ\\text{E}\\) and \\(15^\\circ\\text{E}\\), covering about \\(923{,}768\\text{ km}^2\\). It is bounded by Niger to the north, Chad to the north-east, Cameroon to the east, Benin to the west and the Atlantic Ocean (Gulf of Guinea) to the south. Its north-south extent of about \\(10^\\circ\\) of latitude corresponds to a ground distance of</p>\n$$10 \\times 111 = 1110\\text{ km}$$\n<p>and its longitudinal extent of \\(12^\\circ\\) means the sun rises about \\(12\\times4 = 48\\) minutes earlier in the east (Maiduguri area) than in the west (Lagos area), although the whole country keeps one standard time based on \\(15^\\circ\\text{E}\\), i.e. GMT + 1 hour.</p>\n<h4>Geology</h4>\n<p>Two broad geological units occur: the <strong>Basement Complex</strong> of ancient crystalline rocks (granite, gneiss, schist) covering about half the country in the north-central, west and south-east; and <strong>sedimentary basins</strong> - the Sokoto (Iullemmeden) Basin, Chad Basin, Middle Niger (Nupe) Basin, Benue Trough, Anambra Basin and the Niger Delta / coastal sedimentary belt. Volcanic rocks occur on the Jos Plateau and the Biu Plateau and along the Cameroon volcanic line.</p>\n<h4>Relief Regions</h4>\n<ul>\n<li>Highlands: Jos Plateau (Shere Hills, 1,829 m), Adamawa Highlands with Chappal Waddi (about 2,419 m, the highest point), Obudu and Oban Hills, Mandara Mountains, Biu Plateau, Udi-Nsukka Escarpment and the Western Uplands.</li>\n<li>Lowlands and plains: Sokoto Plains, Chad Basin, Niger-Benue Trough, Cross River Basin, coastal lowlands and the Niger Delta.</li>\n</ul>\n<h4>Drainage</h4>\n<p>The Niger enters from the north-west and is joined by the Benue at Lokoja, flowing south to the delta; tributaries include the Sokoto, Kaduna, Anambra, Gongola and Katsina-Ala. Other systems drain to the Chad Basin (Yobe, Komadugu) and directly to the Atlantic (Ogun, Osun, Imo, Cross). Major dams are Kainji, Jebba, Shiroro, Tiga, Bakolori, Challawa Gorge and Dadin Kowa.</p>\n<h4>Climate, Vegetation and Soils</h4>\n<table class=\"tb-table\"><tr><th>Belt</th><th>Rainfall</th><th>Vegetation</th><th>Soil</th></tr>\n<tr><td>Coastal / Delta</td><td>over 2,500 mm</td><td>Mangrove and freshwater swamp</td><td>Saline hydromorphic alluvium</td></tr>\n<tr><td>South</td><td>1,500-2,500 mm</td><td>Tropical rainforest</td><td>Ferralitic (deeply leached)</td></tr>\n<tr><td>Middle Belt</td><td>1,000-1,500 mm</td><td>Guinea savanna</td><td>Ferruginous tropical soils</td></tr>\n<tr><td>Far north</td><td>500-1,000 mm</td><td>Sudan and Sahel savanna</td><td>Sandy, low humus; aeolian in the north-east</td></tr></table>\n",
-   "examples": [
+  "subject": "Geography",
+  "level": "SSS 3",
+  "slug": "regional-geography-nigeria",
+  "title": "Regional Geography of Nigeria",
+  "outline": [
+    "Location, size, position and political divisions of Nigeria",
+    "Geology and relief regions",
+    "Climate and vegetation belts",
+    "Soils and drainage systems",
+    "Agriculture: crops, livestock, fishing and forestry",
+    "Mineral resources and mining",
+    "Manufacturing industries and industrial regions",
+    "Transport, trade, population and environmental problems"
+  ],
+  "modules": [
     {
-     "q": "Explain why Nigeria adopts one standard time although it spans 12 degrees of longitude.",
-     "a": "A longitudinal spread of \\(12^\\circ\\) gives a local time difference of \\(12\\times4 = 48\\) minutes between the eastern and western borders. Operating many local times within one country would confuse transport timetables, broadcasting, banking and administration, so the standard meridian \\(15^\\circ\\text{E}\\) is adopted, giving GMT + 1 hour for the whole country; the 48-minute variation is small enough to be tolerated in daily life."
+      "title": "Location, Relief, Climate and Soils",
+      "html": "\n<h4>Location and Size</h4>\n<p>Nigeria lies between latitudes \\(4^\\circ\\text{N}\\) and \\(14^\\circ\\text{N}\\) and longitudes \\(3^\\circ\\text{E}\\) and \\(15^\\circ\\text{E}\\), covering about \\(923{,}768\\text{ km}^2\\). It is bounded by Niger to the north, Chad to the north-east, Cameroon to the east, Benin to the west and the Atlantic Ocean (Gulf of Guinea) to the south. Its north-south extent of about \\(10^\\circ\\) of latitude corresponds to a ground distance of</p>\n$$10 \\times 111 = 1110\\text{ km}$$\n<p>and its longitudinal extent of \\(12^\\circ\\) means the sun rises about \\(12\\times4 = 48\\) minutes earlier in the east (Maiduguri area) than in the west (Lagos area), although the whole country keeps one standard time based on \\(15^\\circ\\text{E}\\), i.e. GMT + 1 hour.</p>\n<h4>Geology</h4>\n<p>Two broad geological units occur: the <strong>Basement Complex</strong> of ancient crystalline rocks (granite, gneiss, schist) covering about half the country in the north-central, west and south-east; and <strong>sedimentary basins</strong> - the Sokoto (Iullemmeden) Basin, Chad Basin, Middle Niger (Nupe) Basin, Benue Trough, Anambra Basin and the Niger Delta / coastal sedimentary belt. Volcanic rocks occur on the Jos Plateau and the Biu Plateau and along the Cameroon volcanic line.</p>\n<h4>Relief Regions</h4>\n<ul>\n<li>Highlands: Jos Plateau (Shere Hills, 1,829 m), Adamawa Highlands with Chappal Waddi (about 2,419 m, the highest point), Obudu and Oban Hills, Mandara Mountains, Biu Plateau, Udi-Nsukka Escarpment and the Western Uplands.</li>\n<li>Lowlands and plains: Sokoto Plains, Chad Basin, Niger-Benue Trough, Cross River Basin, coastal lowlands and the Niger Delta.</li>\n</ul>\n<h4>Drainage</h4>\n<p>The Niger enters from the north-west and is joined by the Benue at Lokoja, flowing south to the delta; tributaries include the Sokoto, Kaduna, Anambra, Gongola and Katsina-Ala. Other systems drain to the Chad Basin (Yobe, Komadugu) and directly to the Atlantic (Ogun, Osun, Imo, Cross). Major dams are Kainji, Jebba, Shiroro, Tiga, Bakolori, Challawa Gorge and Dadin Kowa.</p>\n<h4>Climate, Vegetation and Soils</h4>\n<table class=\"tb-table\"><tr><th>Belt</th><th>Rainfall</th><th>Vegetation</th><th>Soil</th></tr>\n<tr><td>Coastal / Delta</td><td>over 2,500 mm</td><td>Mangrove and freshwater swamp</td><td>Saline hydromorphic alluvium</td></tr>\n<tr><td>South</td><td>1,500-2,500 mm</td><td>Tropical rainforest</td><td>Ferralitic (deeply leached)</td></tr>\n<tr><td>Middle Belt</td><td>1,000-1,500 mm</td><td>Guinea savanna</td><td>Ferruginous tropical soils</td></tr>\n<tr><td>Far north</td><td>500-1,000 mm</td><td>Sudan and Sahel savanna</td><td>Sandy, low humus; aeolian in the north-east</td></tr></table>\n",
+      "examples": [
+        {
+          "q": "Explain why Nigeria adopts one standard time although it spans 12 degrees of longitude.",
+          "a": "A longitudinal spread of \\(12^\\circ\\) gives a local time difference of \\(12\\times4 = 48\\) minutes between the eastern and western borders. Operating many local times within one country would confuse transport timetables, broadcasting, banking and administration, so the standard meridian \\(15^\\circ\\text{E}\\) is adopted, giving GMT + 1 hour for the whole country; the 48-minute variation is small enough to be tolerated in daily life."
+        },
+        {
+          "q": "Give three reasons why the Niger Delta soils are of limited agricultural value.",
+          "a": "(i) They are waterlogged and poorly drained, so root crops rot; (ii) the mangrove areas are saline and acid-sulphate, which few crops tolerate; (iii) frequent flooding and oil pollution destroy soil structure and kill soil organisms. Farming is therefore restricted to raffia, rice and vegetables on levee crests, while fishing dominates."
+        }
+      ]
     },
     {
-     "q": "Give three reasons why the Niger Delta soils are of limited agricultural value.",
-     "a": "(i) They are waterlogged and poorly drained, so root crops rot; (ii) the mangrove areas are saline and acid-sulphate, which few crops tolerate; (iii) frequent flooding and oil pollution destroy soil structure and kill soil organisms. Farming is therefore restricted to raffia, rice and vegetables on levee crests, while fishing dominates."
-    }
-   ]
-  },
-  {
-   "title": "Resources, Agriculture and Industry",
-   "html": "\n<h4>Agriculture</h4>\n<p>Agriculture employs a large share of the labour force and is mainly smallholder based. Regional crop patterns are:</p>\n<ul>\n<li><em>South</em>: oil palm, rubber, cocoa (south-west), cassava, yam, plantain, timber.</li>\n<li><em>Middle Belt</em>: yam, cereals, soya beans, benniseed, citrus, cattle in the drier parts.</li>\n<li><em>North</em>: groundnut, cotton, millet, sorghum, cowpea, wheat and rice under irrigation, and extensive livestock rearing.</li>\n</ul>\n<p>Problems include land tenure, inadequate credit, poor storage and rural roads, pests and diseases, unpredictable rainfall, low mechanisation, insecurity and rural-urban migration. Solutions involve improved seeds, fertiliser supply, irrigation through River Basin Development Authorities, farm credit, rural infrastructure and extension services.</p>\n<h4>Fishing and Forestry</h4>\n<p>Fishing is carried out in coastal and delta waters, the Niger-Benue system, Lake Chad and fish ponds. Forestry supplies timber (iroko, mahogany, obeche), fuelwood, gum arabic and forest reserves for conservation.</p>\n<h4>Mineral Resources</h4>\n<table class=\"tb-table\"><tr><th>Mineral</th><th>Location</th><th>Use</th></tr>\n<tr><td>Crude oil and natural gas</td><td>Niger Delta, offshore, Bayelsa, Rivers, Delta, Imo</td><td>Fuel, petrochemicals, export earnings</td></tr>\n<tr><td>Coal</td><td>Enugu, Okaba, Lafia</td><td>Fuel, power</td></tr>\n<tr><td>Tin and columbite</td><td>Jos Plateau</td><td>Alloys, electronics</td></tr>\n<tr><td>Limestone</td><td>Ewekoro, Nkalagu, Sokoto, Obajana, Ashaka</td><td>Cement</td></tr>\n<tr><td>Iron ore</td><td>Itakpe, Agbaja</td><td>Steel making</td></tr>\n<tr><td>Others</td><td>Lead-zinc (Zurak, Abakaliki), gold (Ilesha), gypsum, marble, kaolin, bitumen (Ondo)</td><td>Various industries</td></tr></table>\n<h4>Manufacturing and Industrial Regions</h4>\n<p>Main industrial nodes are Lagos-Ikeja-Agbara, Ibadan, Kano, Kaduna, Aba-Onitsha-Nnewi, Port Harcourt-Warri, Enugu and Jos. Industries include food and beverage, textiles, cement, iron and steel (Ajaokuta, Delta Steel), petroleum refining (Port Harcourt, Warri, Kaduna, Dangote), vehicle assembly, plastics and breweries. Constraints are unreliable power supply, poor infrastructure, weak local raw material linkages, low capital and competition from imports.</p>\n<h4>Population and Environmental Problems</h4>\n<p>Nigeria is Africa's most populous country, with a young age structure and rapid urbanisation. Key environmental problems are gully erosion in the south-east, desertification in the north, flooding along the Niger-Benue and in coastal cities, deforestation, oil pollution and gas flaring, and urban waste management.</p>\n",
-   "examples": [
-    {
-     "q": "Account for the concentration of manufacturing industries in the Lagos area.",
-     "a": "Lagos possesses the largest seaport complex (Apapa and Tin Can Island), giving cheap access to imported raw materials and machinery and to export markets. It has the biggest urban market and purchasing power in West Africa, an abundant skilled and unskilled labour force, the best road, rail, air and telecommunication links, concentrated banking and insurance services, comparatively better electricity and water supply, and industrial estates with government incentives at Ikeja, Apapa, Agbara and Ilupeju."
+      "title": "Resources, Agriculture and Industry",
+      "html": "\n<h4>Agriculture</h4>\n<p>Agriculture employs a large share of the labour force and is mainly smallholder based. Regional crop patterns are:</p>\n<ul>\n<li><em>South</em>: oil palm, rubber, cocoa (south-west), cassava, yam, plantain, timber.</li>\n<li><em>Middle Belt</em>: yam, cereals, soya beans, benniseed, citrus, cattle in the drier parts.</li>\n<li><em>North</em>: groundnut, cotton, millet, sorghum, cowpea, wheat and rice under irrigation, and extensive livestock rearing.</li>\n</ul>\n<p>Problems include land tenure, inadequate credit, poor storage and rural roads, pests and diseases, unpredictable rainfall, low mechanisation, insecurity and rural-urban migration. Solutions involve improved seeds, fertiliser supply, irrigation through River Basin Development Authorities, farm credit, rural infrastructure and extension services.</p>\n<h4>Fishing and Forestry</h4>\n<p>Fishing is carried out in coastal and delta waters, the Niger-Benue system, Lake Chad and fish ponds. Forestry supplies timber (iroko, mahogany, obeche), fuelwood, gum arabic and forest reserves for conservation.</p>\n<h4>Mineral Resources</h4>\n<table class=\"tb-table\"><tr><th>Mineral</th><th>Location</th><th>Use</th></tr>\n<tr><td>Crude oil and natural gas</td><td>Niger Delta, offshore, Bayelsa, Rivers, Delta, Imo</td><td>Fuel, petrochemicals, export earnings</td></tr>\n<tr><td>Coal</td><td>Enugu, Okaba, Lafia</td><td>Fuel, power</td></tr>\n<tr><td>Tin and columbite</td><td>Jos Plateau</td><td>Alloys, electronics</td></tr>\n<tr><td>Limestone</td><td>Ewekoro, Nkalagu, Sokoto, Obajana, Ashaka</td><td>Cement</td></tr>\n<tr><td>Iron ore</td><td>Itakpe, Agbaja</td><td>Steel making</td></tr>\n<tr><td>Others</td><td>Lead-zinc (Zurak, Abakaliki), gold (Ilesha), gypsum, marble, kaolin, bitumen (Ondo)</td><td>Various industries</td></tr></table>\n<h4>Manufacturing and Industrial Regions</h4>\n<p>Main industrial nodes are Lagos-Ikeja-Agbara, Ibadan, Kano, Kaduna, Aba-Onitsha-Nnewi, Port Harcourt-Warri, Enugu and Jos. Industries include food and beverage, textiles, cement, iron and steel (Ajaokuta, Delta Steel), petroleum refining (Port Harcourt, Warri, Kaduna, Dangote), vehicle assembly, plastics and breweries. Constraints are unreliable power supply, poor infrastructure, weak local raw material linkages, low capital and competition from imports.</p>\n<h4>Population and Environmental Problems</h4>\n<p>Nigeria is Africa's most populous country, with a young age structure and rapid urbanisation. Key environmental problems are gully erosion in the south-east, desertification in the north, flooding along the Niger-Benue and in coastal cities, deforestation, oil pollution and gas flaring, and urban waste management.</p>\n",
+      "examples": [
+        {
+          "q": "Account for the concentration of manufacturing industries in the Lagos area.",
+          "a": "Lagos possesses the largest seaport complex (Apapa and Tin Can Island), giving cheap access to imported raw materials and machinery and to export markets. It has the biggest urban market and purchasing power in West Africa, an abundant skilled and unskilled labour force, the best road, rail, air and telecommunication links, concentrated banking and insurance services, comparatively better electricity and water supply, and industrial estates with government incentives at Ikeja, Apapa, Agbara and Ilupeju."
+        },
+        {
+          "q": "State four reasons why groundnut production declined in northern Nigeria.",
+          "a": "(i) The oil boom of the 1970s diverted attention, labour and investment away from agriculture; (ii) rosette disease and drought in the Sahel destroyed large areas of the crop; (iii) collapse of marketing boards and unstable producer prices discouraged farmers; (iv) rural-urban migration of youths, poor rural infrastructure, and rising demand for local processing rather than export all reduced recorded output."
+        }
+      ]
     },
     {
-     "q": "State four reasons why groundnut production declined in northern Nigeria.",
-     "a": "(i) The oil boom of the 1970s diverted attention, labour and investment away from agriculture; (ii) rosette disease and drought in the Sahel destroyed large areas of the crop; (iii) collapse of marketing boards and unstable producer prices discouraged farmers; (iv) rural-urban migration of youths, poor rural infrastructure, and rising demand for local processing rather than export all reduced recorded output."
+      "title": "Location, size, position and political divisions of Nigeria",
+      "html": "<p><b>Location, size, position and political divisions of Nigeria</b> is a key part of Regional Geography of Nigeria (SSS 3, Geography). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Location and Size Nigeria lies between latitudes \\(4^\\circ\\text{N}\\) and \\(14^\\circ\\text{N}\\) and longitudes \\(3^\\circ\\text{E}\\) and \\(15^\\circ\\text{E}\\), covering about \\(923{,}768\\text{ km}^2\\).</li><li>Mineral Resources Mineral Location Use Crude oil and natural gas Niger Delta, offshore, Bayelsa, Rivers, Delta, Imo Fuel, petrochemicals, export earnings Coal Enugu, Okaba, Lafia Fuel, power Tin and columbite Jos Plateau Alloys, electronics Limestone Ewekoro, Nkalagu, Sokoto, Obajana, Ashaka Cement Iron ore Itakpe, Agbaja Steel making Others Lead-zinc (Zurak, Abakaliki), gold (Ilesha), gypsum, marble, kaolin, bitumen (Ondo) Various industries Manufacturing and Industrial Regions Main industrial nodes are Lagos-Ikeja-Agbara, Ibadan, Kano, Kaduna, Aba-Onitsha-Nnewi, Port Harcourt-Warri, Enugu and Jos.</li><li>Population and Environmental Problems Nigeria is Africa's most populous country, with a young age structure and rapid urbanisation.</li><li>Nigeria covers roughly 923,768 square kilometres.</li></ul><h4>Worked example</h4><p><b>Q:</b> Nigeria lies approximately between latitudes<br/><b>A:</b> 4 N and 14 N \u2014 The country extends from about 4 degrees N on the coast to about 14 degrees N near Lake Chad.</p><p><b>Q:</b> The total land area of Nigeria is about<br/><b>A:</b> 923,768 sq km \u2014 Nigeria covers roughly 923,768 square kilometres.</p>",
+      "examples": [
+        {
+          "q": "Nigeria lies approximately between latitudes",
+          "a": "4 N and 14 N \u2014 The country extends from about 4 degrees N on the coast to about 14 degrees N near Lake Chad."
+        },
+        {
+          "q": "The total land area of Nigeria is about",
+          "a": "923,768 sq km \u2014 Nigeria covers roughly 923,768 square kilometres."
+        }
+      ]
+    },
+    {
+      "title": "Geology and relief regions",
+      "html": "<p><b>Geology and relief regions</b> is a key part of Regional Geography of Nigeria (SSS 3, Geography). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Geology Two broad geological units occur: the Basement Complex of ancient crystalline rocks (granite, gneiss, schist) covering about half the country in the north-central, west and south-east; and sedimentary basins - the Sokoto (Iullemmeden) Basin, Chad Basin, Middle Niger (Nupe) Basin, Benue Trough, Anambra Basin and the Niger Delta / coastal sedimentary belt.</li><li>Relief Regions Highlands: Jos Plateau (Shere Hills, 1,829 m), Adamawa Highlands with Chappal Waddi (about 2,419 m, the highest point), Obudu and Oban Hills, Mandara Mountains, Biu Plateau, Udi-Nsukka Escarpment and the Western Uplands.</li><li>Mineral Resources Mineral Location Use Crude oil and natural gas Niger Delta, offshore, Bayelsa, Rivers, Delta, Imo Fuel, petrochemicals, export earnings Coal Enugu, Okaba, Lafia Fuel, power Tin and columbite Jos Plateau Alloys, electronics Limestone Ewekoro, Nkalagu, Sokoto, Obajana, Ashaka Cement Iron ore Itakpe, Agbaja Steel making Others Lead-zinc (Zurak, Abakaliki), gold (Ilesha), gypsum, marble, kaolin, bitumen (Ondo) Various industries Manufacturing and Industrial Regions Main industrial nodes are Lagos-Ikeja-Agbara, Ibadan, Kano, Kaduna, Aba-Onitsha-Nnewi, Port Harcourt-Warri, Enugu and Jos.</li></ul><h4>Worked example</h4><p><b>Q:</b> Nigeria lies approximately between latitudes<br/><b>A:</b> 4 N and 14 N \u2014 The country extends from about 4 degrees N on the coast to about 14 degrees N near Lake Chad.</p><p><b>Q:</b> The total land area of Nigeria is about<br/><b>A:</b> 923,768 sq km \u2014 Nigeria covers roughly 923,768 square kilometres.</p>",
+      "examples": [
+        {
+          "q": "Nigeria lies approximately between latitudes",
+          "a": "4 N and 14 N \u2014 The country extends from about 4 degrees N on the coast to about 14 degrees N near Lake Chad."
+        },
+        {
+          "q": "The total land area of Nigeria is about",
+          "a": "923,768 sq km \u2014 Nigeria covers roughly 923,768 square kilometres."
+        }
+      ]
+    },
+    {
+      "title": "Climate and vegetation belts",
+      "html": "<p><b>Climate and vegetation belts</b> is a key part of Regional Geography of Nigeria (SSS 3, Geography). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Climate, Vegetation and Soils Belt Rainfall Vegetation Soil Coastal / Delta over 2,500 mm Mangrove and freshwater swamp Saline hydromorphic alluvium South 1,500-2,500 mm Tropical rainforest Ferralitic (deeply leached) Middle Belt 1,000-1,500 mm Guinea savanna Ferruginous tropical soils Far north 500-1,000 mm Sudan and Sahel savanna Sandy, low humus; aeolian in the north-east</li></ul><h4>Worked example</h4><p><b>Q:</b> Mangrove vegetation in Nigeria is found in the<br/><b>A:</b> Niger Delta and coastal creeks \u2014 Saline, tidal swamps of the delta support mangrove species.</p>",
+      "examples": [
+        {
+          "q": "Mangrove vegetation in Nigeria is found in the",
+          "a": "Niger Delta and coastal creeks \u2014 Saline, tidal swamps of the delta support mangrove species."
+        }
+      ]
+    },
+    {
+      "title": "Soils and drainage systems",
+      "html": "<p><b>Soils and drainage systems</b> is a key part of Regional Geography of Nigeria (SSS 3, Geography). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Drainage The Niger enters from the north-west and is joined by the Benue at Lokoja, flowing south to the delta; tributaries include the Sokoto, Kaduna, Anambra, Gongola and Katsina-Ala.</li><li>Other systems drain to the Chad Basin (Yobe, Komadugu) and directly to the Atlantic (Ogun, Osun, Imo, Cross).</li><li>Climate, Vegetation and Soils Belt Rainfall Vegetation Soil Coastal / Delta over 2,500 mm Mangrove and freshwater swamp Saline hydromorphic alluvium South 1,500-2,500 mm Tropical rainforest Ferralitic (deeply leached) Middle Belt 1,000-1,500 mm Guinea savanna Ferruginous tropical soils Far north 500-1,000 mm Sudan and Sahel savanna Sandy, low humus; aeolian in the north-east</li><li>Key points Climate, Vegetation and Soils Belt Rainfall Vegetation Soil Coastal / Delta over 2,500 mm Mangrove and freshwater swamp Saline hydromorphic alluvium South 1,500-2,500 mm Tropical rainforest Ferralitic (deeply leached) Middle Belt 1,000-1,500 mm Guinea savanna Ferruginous tropical soils Far north 500-1,000 mm Sudan and Sahel savanna Sandy, low humus; aeolian in the north-east Worked example Q: Mangrove vegetation in Nigeria is found in the A: Niger Delta and coastal creeks \u2014 Saline, tidal swamps of the delta support mangrove species.</li><li>Deeply weathered sandy soils around Agulu-Nanka and Nnewi are badly gullied.</li></ul><h4>Worked example</h4><p><b>Q:</b> Gully erosion is most severe in which part of Nigeria?<br/><b>A:</b> South-east \u2014 Deeply weathered sandy soils around Agulu-Nanka and Nnewi are badly gullied.</p>",
+      "examples": [
+        {
+          "q": "Gully erosion is most severe in which part of Nigeria?",
+          "a": "South-east \u2014 Deeply weathered sandy soils around Agulu-Nanka and Nnewi are badly gullied."
+        }
+      ]
     }
-   ]
-  }
- ],
- "quiz": [
-  {
-   "q": "Nigeria lies approximately between latitudes",
-   "options": [
-    "4 N and 14 N",
-    "0 and 10 N",
-    "10 S and 4 N",
-    "14 N and 24 N"
-   ],
-   "answer": "0",
-   "solution": "The country extends from about 4 degrees N on the coast to about 14 degrees N near Lake Chad."
-  },
-  {
-   "q": "The total land area of Nigeria is about",
-   "options": [
-    "356,000 sq km",
-    "663,000 sq km",
-    "923,768 sq km",
-    "1,200,000 sq km"
-   ],
-   "answer": "2",
-   "solution": "Nigeria covers roughly 923,768 square kilometres."
-  },
-  {
-   "q": "Nigeria's standard time is based on the meridian",
-   "options": [
-    "0 degrees",
-    "8 degrees E",
-    "15 degrees E",
-    "30 degrees E"
-   ],
-   "answer": "2",
-   "solution": "15 degrees E gives GMT + 1 hour."
-  },
-  {
-   "q": "The highest point in Nigeria is found in the",
-   "options": [
-    "Jos Plateau",
-    "Adamawa Highlands",
-    "Udi Escarpment",
-    "Oban Hills"
-   ],
-   "answer": "1",
-   "solution": "Chappal Waddi in the Adamawa Highlands rises to about 2,419 m."
-  },
-  {
-   "q": "The Niger and Benue rivers meet at",
-   "options": [
-    "Onitsha",
-    "Lokoja",
-    "Makurdi",
-    "Yenagoa"
-   ],
-   "answer": "1",
-   "solution": "Lokoja is the confluence town of the two rivers."
-  },
-  {
-   "q": "Which of these is a sedimentary basin in Nigeria?",
-   "options": [
-    "Jos Plateau",
-    "Benue Trough",
-    "Oban Massif",
-    "Western Uplands"
-   ],
-   "answer": "1",
-   "solution": "The Benue Trough is a major sedimentary basin containing coal and lead-zinc."
-  },
-  {
-   "q": "Tin and columbite are mined mainly on the",
-   "options": [
-    "Obudu Plateau",
-    "Jos Plateau",
-    "Mambilla Plateau",
-    "Biu Plateau"
-   ],
-   "answer": "1",
-   "solution": "Alluvial tin and columbite have long been worked on the Jos Plateau."
-  },
-  {
-   "q": "Cocoa is produced mainly in which part of Nigeria?",
-   "options": [
-    "North-east",
-    "South-west",
-    "North-west",
-    "Far north"
-   ],
-   "answer": "1",
-   "solution": "Ondo, Osun, Oyo, Ogun and Ekiti States dominate cocoa output."
-  },
-  {
-   "q": "The Kainji Dam was built primarily for",
-   "options": [
-    "irrigation only",
-    "hydro-electric power generation",
-    "fish farming",
-    "flood control only"
-   ],
-   "answer": "1",
-   "solution": "Its main purpose is HEP, with navigation, fishing and irrigation as secondary benefits."
-  },
-  {
-   "q": "Iron ore for the Ajaokuta steel plant is obtained mainly from",
-   "options": [
-    "Itakpe",
-    "Enugu",
-    "Nkalagu",
-    "Zurak"
-   ],
-   "answer": "0",
-   "solution": "Itakpe in Kogi State supplies iron ore to Ajaokuta."
-  },
-  {
-   "q": "Mangrove vegetation in Nigeria is found in the",
-   "options": [
-    "Sahel zone",
-    "Niger Delta and coastal creeks",
-    "Jos Plateau",
-    "Sokoto Plains"
-   ],
-   "answer": "1",
-   "solution": "Saline, tidal swamps of the delta support mangrove species."
-  },
-  {
-   "q": "Rainfall in Nigeria generally",
-   "options": [
-    "increases northwards",
-    "decreases northwards",
-    "is uniform throughout",
-    "is highest in Kano"
-   ],
-   "answer": "1",
-   "solution": "Totals fall from over 2,500 mm on the coast to under 600 mm in the far north."
-  },
-  {
-   "q": "Groundnut and cotton are typical crops of the",
-   "options": [
-    "rainforest belt",
-    "Sudan savanna",
-    "mangrove swamp",
-    "montane zone"
-   ],
-   "answer": "1",
-   "solution": "They suit the moderate rainfall and long dry season of the Sudan zone."
-  },
-  {
-   "q": "Which of the following is a major problem of Nigerian agriculture?",
-   "options": [
-    "Excess mechanisation",
-    "Inadequate storage and rural roads",
-    "Surplus capital",
-    "Too much research funding"
-   ],
-   "answer": "1",
-   "solution": "Post-harvest losses are high because of poor storage and transport."
-  },
-  {
-   "q": "Gully erosion is most severe in which part of Nigeria?",
-   "options": [
-    "North-west",
-    "South-east",
-    "North-east",
-    "South-west"
-   ],
-   "answer": "1",
-   "solution": "Deeply weathered sandy soils around Agulu-Nanka and Nnewi are badly gullied."
-  },
-  {
-   "q": "Cement manufacturing at Obajana and Ewekoro depends on",
-   "options": [
-    "iron ore",
-    "limestone",
-    "coal",
-    "bitumen"
-   ],
-   "answer": "1",
-   "solution": "Limestone is the principal raw material for cement."
-  },
-  {
-   "q": "A major challenge facing manufacturing industries in Nigeria is",
-   "options": [
-    "surplus electricity",
-    "unreliable power supply",
-    "absence of markets",
-    "lack of labour"
-   ],
-   "answer": "1",
-   "solution": "Erratic electricity raises production costs through reliance on generators."
-  }
- ]
+  ],
+  "quiz": [
+    {
+      "q": "Nigeria lies approximately between latitudes",
+      "options": [
+        "4 N and 14 N",
+        "0 and 10 N",
+        "10 S and 4 N",
+        "14 N and 24 N"
+      ],
+      "answer": 0,
+      "solution": "The country extends from about 4 degrees N on the coast to about 14 degrees N near Lake Chad.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The total land area of Nigeria is about",
+      "options": [
+        "356,000 sq km",
+        "663,000 sq km",
+        "923,768 sq km",
+        "1,200,000 sq km"
+      ],
+      "answer": 2,
+      "solution": "Nigeria covers roughly 923,768 square kilometres.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Nigeria's standard time is based on the meridian",
+      "options": [
+        "0 degrees",
+        "8 degrees E",
+        "15 degrees E",
+        "30 degrees E"
+      ],
+      "answer": 2,
+      "solution": "15 degrees E gives GMT + 1 hour.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The highest point in Nigeria is found in the",
+      "options": [
+        "Jos Plateau",
+        "Adamawa Highlands",
+        "Udi Escarpment",
+        "Oban Hills"
+      ],
+      "answer": 1,
+      "solution": "Chappal Waddi in the Adamawa Highlands rises to about 2,419 m.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The Niger and Benue rivers meet at",
+      "options": [
+        "Onitsha",
+        "Lokoja",
+        "Makurdi",
+        "Yenagoa"
+      ],
+      "answer": 1,
+      "solution": "Lokoja is the confluence town of the two rivers.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a sedimentary basin in Nigeria?",
+      "options": [
+        "Jos Plateau",
+        "Benue Trough",
+        "Oban Massif",
+        "Western Uplands"
+      ],
+      "answer": 1,
+      "solution": "The Benue Trough is a major sedimentary basin containing coal and lead-zinc.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Tin and columbite are mined mainly on the",
+      "options": [
+        "Obudu Plateau",
+        "Jos Plateau",
+        "Mambilla Plateau",
+        "Biu Plateau"
+      ],
+      "answer": 1,
+      "solution": "Alluvial tin and columbite have long been worked on the Jos Plateau.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Cocoa is produced mainly in which part of Nigeria?",
+      "options": [
+        "North-east",
+        "South-west",
+        "North-west",
+        "Far north"
+      ],
+      "answer": 1,
+      "solution": "Ondo, Osun, Oyo, Ogun and Ekiti States dominate cocoa output.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The Kainji Dam was built primarily for",
+      "options": [
+        "irrigation only",
+        "hydro-electric power generation",
+        "fish farming",
+        "flood control only"
+      ],
+      "answer": 1,
+      "solution": "Its main purpose is HEP, with navigation, fishing and irrigation as secondary benefits.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Iron ore for the Ajaokuta steel plant is obtained mainly from",
+      "options": [
+        "Itakpe",
+        "Enugu",
+        "Nkalagu",
+        "Zurak"
+      ],
+      "answer": 0,
+      "solution": "Itakpe in Kogi State supplies iron ore to Ajaokuta.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Mangrove vegetation in Nigeria is found in the",
+      "options": [
+        "Sahel zone",
+        "Niger Delta and coastal creeks",
+        "Jos Plateau",
+        "Sokoto Plains"
+      ],
+      "answer": 1,
+      "solution": "Saline, tidal swamps of the delta support mangrove species.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Rainfall in Nigeria generally",
+      "options": [
+        "increases northwards",
+        "decreases northwards",
+        "is uniform throughout",
+        "is highest in Kano"
+      ],
+      "answer": 1,
+      "solution": "Totals fall from over 2,500 mm on the coast to under 600 mm in the far north.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Groundnut and cotton are typical crops of the",
+      "options": [
+        "rainforest belt",
+        "Sudan savanna",
+        "mangrove swamp",
+        "montane zone"
+      ],
+      "answer": 1,
+      "solution": "They suit the moderate rainfall and long dry season of the Sudan zone.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a major problem of Nigerian agriculture?",
+      "options": [
+        "Excess mechanisation",
+        "Inadequate storage and rural roads",
+        "Surplus capital",
+        "Too much research funding"
+      ],
+      "answer": 1,
+      "solution": "Post-harvest losses are high because of poor storage and transport.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Gully erosion is most severe in which part of Nigeria?",
+      "options": [
+        "North-west",
+        "South-east",
+        "North-east",
+        "South-west"
+      ],
+      "answer": 1,
+      "solution": "Deeply weathered sandy soils around Agulu-Nanka and Nnewi are badly gullied.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Cement manufacturing at Obajana and Ewekoro depends on",
+      "options": [
+        "iron ore",
+        "limestone",
+        "coal",
+        "bitumen"
+      ],
+      "answer": 1,
+      "solution": "Limestone is the principal raw material for cement.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A major challenge facing manufacturing industries in Nigeria is",
+      "options": [
+        "surplus electricity",
+        "unreliable power supply",
+        "absence of markets",
+        "lack of labour"
+      ],
+      "answer": 1,
+      "solution": "Erratic electricity raises production costs through reliance on generators.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A mineral found in Jos, Nigeria is?",
+      "options": [
+        "Gold",
+        "Petroleum",
+        "Tin",
+        "Coal"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Tin.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Iron and Steel industry in Nigeria is located at?",
+      "options": [
+        "Ibadan",
+        "Onitsha",
+        "Calabar",
+        "Ajaokuta"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Ajaokuta.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Nigeria South veg:",
+      "options": [
+        "Rainforest",
+        "Savanna",
+        "Desert",
+        "Tundra"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Rainforest.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Nigeria North veg:",
+      "options": [
+        "Savanna",
+        "Rainforest",
+        "Mangrove",
+        "Montane"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Savanna.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The most common cereal crop in Northern Nigeria is?",
+      "options": [
+        "Rice",
+        "Yam",
+        "Millet/Sorghum",
+        "Cocoa"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Millet/Sorghum.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Cocoa is mostly grown in which part of Nigeria?",
+      "options": [
+        "South-West",
+        "North-East",
+        "South-East",
+        "North-West"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: South-West.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Coal is mined in Nigeria at?",
+      "options": [
+        "Enugu",
+        "Port Harcourt",
+        "Jos",
+        "Warri"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Enugu.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Petroleum was first discovered in Nigeria at?",
+      "options": [
+        "Kaduna",
+        "Oloibiri",
+        "Ikeja",
+        "Lokoja"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Oloibiri.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Hydro-Electric Power (HEP) in Nigeria is generated at?",
+      "options": [
+        "Lagos",
+        "Benin",
+        "Kainji Dam",
+        "Sokoto"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Kainji Dam.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Desertification is most severe in Nigeria's?",
+      "options": [
+        "Far North",
+        "South-South",
+        "Middle Belt",
+        "South-East"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Far North.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The highest point in Nigeria is?",
+      "options": [
+        "Zuma Rock",
+        "Olumo Rock",
+        "Chappal Waddi",
+        "Idanre Hills"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Chappal Waddi.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The two main rivers in Nigeria are?",
+      "options": [
+        "Nile and Congo",
+        "Niger and Benue",
+        "Volta and Orange",
+        "Zambezi and Limpopo"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Niger and Benue.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \"Sahel\" is found in which part of Nigeria?",
+      "options": [
+        "Middle Belt",
+        "Niger Delta",
+        "Coast",
+        "Extreme North"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Extreme North.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Limestone for cement in Nigeria is found at?",
+      "options": [
+        "Port Harcourt",
+        "Ewekoro/Shagamu",
+        "Jos",
+        "Maiduguri"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Ewekoro/Shagamu.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The capital city of Nigeria is?",
+      "options": [
+        "Lagos",
+        "Kaduna",
+        "Abuja",
+        "Enugu"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Abuja.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The \"Lake Chad\" is shared by Nigeria and?",
+      "options": [
+        "Ghana, Togo",
+        "Benin, Mali",
+        "Chad, Niger, Cameroon",
+        "Sudan, Ethiopia"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Chad, Niger, Cameroon.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which industry relies on forestry?",
+      "options": [
+        "Textile",
+        "Pulp and Paper",
+        "Cement",
+        "Petrochemical"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Pulp and Paper.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The main mineral mined in Jos Plateau is:",
+      "options": [
+        "Coal",
+        "Tin",
+        "Gold",
+        "Iron Ore"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2023). Correct answer: Tin.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Enugu is known for mining:",
+      "options": [
+        "Coal",
+        "Tin",
+        "Gold",
+        "Salt"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Coal.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Which mineral resource is mined on the Jos Plateau?",
+      "options": [
+        "Coal",
+        "Tin and Columbite",
+        "Crude Oil",
+        "Gold"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Tin and Columbite.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The Mediterranean climate is characterized by...",
+      "options": [
+        "Hot wet summers",
+        "Hot dry summers and mild wet winters",
+        "Cold dry winters",
+        "Heavy rainfall throughout the year"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Hot dry summers and mild wet winters.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The main mineral resource in Enugu is:",
+      "options": [
+        "Tin",
+        "Coal",
+        "Gold",
+        "Petroleum"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Coal.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Jos Plateau is famous for mining:",
+      "options": [
+        "Coal",
+        "Tin and Columbite",
+        "Gold",
+        "Limestone"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Tin and Columbite.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Which soil type is best for agriculture?",
+      "options": [
+        "Sandy",
+        "Loam",
+        "Clay",
+        "Gravel"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Loam.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Jos mineral:",
+      "options": [
+        "Tin",
+        "Coal",
+        "Oil",
+        "Gold"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: Tin.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "The hardest known mineral is?",
+      "options": [
+        "Quartz",
+        "Diamond",
+        "Talc",
+        "Feldspar"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Diamond.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Zonal soils are determined mainly by?",
+      "options": [
+        "Parent rock",
+        "Slope",
+        "Climate",
+        "Age"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Climate.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The climate characterized by hot, dry summers and mild, wet winters is?",
+      "options": [
+        "Equatorial",
+        "Mediterranean",
+        "Tropical Monsoon",
+        "Tundra"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Mediterranean.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "A population pyramid with a wide base indicates?",
+      "options": [
+        "High birth rate",
+        "Low birth rate",
+        "Ageing population",
+        "High life expectancy"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: High birth rate.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Intensive subsistence agriculture is common in?",
+      "options": [
+        "Sahara Desert",
+        "Canadian Prairies",
+        "South-East Asia",
+        "Amazon Basin"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: South-East Asia.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The fastest mode of transport is?",
+      "options": [
+        "Air",
+        "Road",
+        "Sea",
+        "Pipeline"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Air.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "\"Trans-Saharan Trade\" was between?",
+      "options": [
+        "Europe and Asia",
+        "Nigeria and USA",
+        "North Africa and West Africa",
+        "East Africa and India"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: North Africa and West Africa.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The country with the largest population is?",
+      "options": [
+        "China",
+        "India",
+        "USA",
+        "Indonesia"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: India.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    }
+  ]
 }

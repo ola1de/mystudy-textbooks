@@ -1,0 +1,737 @@
+{
+  "subject": "Further Mathematics",
+  "level": "SSS 3",
+  "slug": "complex-numbers",
+  "title": "Complex Numbers",
+  "outline": [
+    "Introduction to Complex Numbers",
+    "Key facts about Complex Numbers",
+    "Important terms and examples in Complex Numbers",
+    "Importance and application of Complex Numbers",
+    "Revision and worked examples"
+  ],
+  "modules": [
+    {
+      "title": "Introduction to Complex Numbers",
+      "html": "<p>Modulus, argument and operations with complex numbers. This section covers introduction to complex numbers.</p><h4>Key points</h4><ul><li>Find the value of $i^2$ in complex numbers. \u2014 -1.</li><li>Find the modulus of the complex number $$z = 3 - 4i$$. \u2014 $$5$$.</li><li>The binary operation $$*$$ is defined on the set of real numbers by $$a * b = a + b - ab$$. Find the identity element. \u2014 $$0$$.</li><li>Find the variance of the numbers: 2, 4, 6, 8, 10. \u2014 $$8$$.</li><li>Calculate the standard deviation of numbers: 2, 3, 5, 6, 9. \u2014 $$2.45$$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the value of $i^2$ in complex numbers.<br/><b>A:</b> -1 \u2014 Past question (JAMB 2024). Correct answer: -1.</p><p><b>Q:</b> Find the modulus of the complex number $$z = 3 - 4i$$.<br/><b>A:</b> $$5$$ \u2014 Past question (JAMB 2022). Correct answer: $$5$$.</p>",
+      "examples": [
+        {
+          "q": "Find the value of $i^2$ in complex numbers.",
+          "a": "-1"
+        },
+        {
+          "q": "Find the modulus of the complex number $$z = 3 - 4i$$.",
+          "a": "$$5$$"
+        }
+      ]
+    },
+    {
+      "title": "Key facts about Complex Numbers",
+      "html": "<p>Modulus, argument and operations with complex numbers. This section covers key facts about complex numbers.</p><h4>Key points</h4><ul><li>Find the value of $i^2$ in complex numbers. \u2014 -1.</li><li>Find the modulus of the complex number $$z = 3 - 4i$$. \u2014 $$5$$.</li><li>The binary operation $$*$$ is defined on the set of real numbers by $$a * b = a + b - ab$$. Find the identity element. \u2014 $$0$$.</li><li>Find the variance of the numbers: 2, 4, 6, 8, 10. \u2014 $$8$$.</li><li>Calculate the standard deviation of numbers: 2, 3, 5, 6, 9. \u2014 $$2.45$$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the value of $i^2$ in complex numbers.<br/><b>A:</b> -1 \u2014 Past question (JAMB 2024). Correct answer: -1.</p><p><b>Q:</b> Find the modulus of the complex number $$z = 3 - 4i$$.<br/><b>A:</b> $$5$$ \u2014 Past question (JAMB 2022). Correct answer: $$5$$.</p>",
+      "examples": [
+        {
+          "q": "Find the value of $i^2$ in complex numbers.",
+          "a": "-1"
+        },
+        {
+          "q": "Find the modulus of the complex number $$z = 3 - 4i$$.",
+          "a": "$$5$$"
+        }
+      ]
+    },
+    {
+      "title": "Important terms and examples in Complex Numbers",
+      "html": "<p>Modulus, argument and operations with complex numbers. This section covers important terms and examples in complex numbers.</p><h4>Key points</h4><ul><li>Find the value of $i^2$ in complex numbers. \u2014 -1.</li><li>Find the modulus of the complex number $$z = 3 - 4i$$. \u2014 $$5$$.</li><li>The binary operation $$*$$ is defined on the set of real numbers by $$a * b = a + b - ab$$. Find the identity element. \u2014 $$0$$.</li><li>Find the variance of the numbers: 2, 4, 6, 8, 10. \u2014 $$8$$.</li><li>Calculate the standard deviation of numbers: 2, 3, 5, 6, 9. \u2014 $$2.45$$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the value of $i^2$ in complex numbers.<br/><b>A:</b> -1 \u2014 Past question (JAMB 2024). Correct answer: -1.</p><p><b>Q:</b> Find the modulus of the complex number $$z = 3 - 4i$$.<br/><b>A:</b> $$5$$ \u2014 Past question (JAMB 2022). Correct answer: $$5$$.</p>",
+      "examples": [
+        {
+          "q": "Find the value of $i^2$ in complex numbers.",
+          "a": "-1"
+        },
+        {
+          "q": "Find the modulus of the complex number $$z = 3 - 4i$$.",
+          "a": "$$5$$"
+        }
+      ]
+    },
+    {
+      "title": "Importance and application of Complex Numbers",
+      "html": "<p>Modulus, argument and operations with complex numbers. This section covers importance and application of complex numbers.</p><h4>Key points</h4><ul><li>Find the value of $i^2$ in complex numbers. \u2014 -1.</li><li>Find the modulus of the complex number $$z = 3 - 4i$$. \u2014 $$5$$.</li><li>The binary operation $$*$$ is defined on the set of real numbers by $$a * b = a + b - ab$$. Find the identity element. \u2014 $$0$$.</li><li>Find the variance of the numbers: 2, 4, 6, 8, 10. \u2014 $$8$$.</li><li>Calculate the standard deviation of numbers: 2, 3, 5, 6, 9. \u2014 $$2.45$$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the value of $i^2$ in complex numbers.<br/><b>A:</b> -1 \u2014 Past question (JAMB 2024). Correct answer: -1.</p><p><b>Q:</b> Find the modulus of the complex number $$z = 3 - 4i$$.<br/><b>A:</b> $$5$$ \u2014 Past question (JAMB 2022). Correct answer: $$5$$.</p>",
+      "examples": [
+        {
+          "q": "Find the value of $i^2$ in complex numbers.",
+          "a": "-1"
+        },
+        {
+          "q": "Find the modulus of the complex number $$z = 3 - 4i$$.",
+          "a": "$$5$$"
+        }
+      ]
+    },
+    {
+      "title": "Revision and worked examples",
+      "html": "<p>Modulus, argument and operations with complex numbers. This section covers revision and worked examples.</p><h4>Key points</h4><ul><li>Find the value of $i^2$ in complex numbers. \u2014 -1.</li><li>Find the modulus of the complex number $$z = 3 - 4i$$. \u2014 $$5$$.</li><li>The binary operation $$*$$ is defined on the set of real numbers by $$a * b = a + b - ab$$. Find the identity element. \u2014 $$0$$.</li><li>Find the variance of the numbers: 2, 4, 6, 8, 10. \u2014 $$8$$.</li><li>Calculate the standard deviation of numbers: 2, 3, 5, 6, 9. \u2014 $$2.45$$.</li></ul><h4>Worked examples</h4><p><b>Q:</b> Find the value of $i^2$ in complex numbers.<br/><b>A:</b> -1 \u2014 Past question (JAMB 2024). Correct answer: -1.</p><p><b>Q:</b> Find the modulus of the complex number $$z = 3 - 4i$$.<br/><b>A:</b> $$5$$ \u2014 Past question (JAMB 2022). Correct answer: $$5$$.</p>",
+      "examples": [
+        {
+          "q": "Find the value of $i^2$ in complex numbers.",
+          "a": "-1"
+        },
+        {
+          "q": "Find the modulus of the complex number $$z = 3 - 4i$$.",
+          "a": "$$5$$"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Find the value of $i^2$ in complex numbers.",
+      "options": [
+        "-1",
+        "1",
+        "0",
+        "$\\\\sqrt{-1}$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: -1.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the modulus of the complex number $$z = 3 - 4i$$.",
+      "options": [
+        "$$1$$",
+        "$$5$$",
+        "$$7$$",
+        "$$25$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$5$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The binary operation $$*$$ is defined on the set of real numbers by $$a * b = a + b - ab$$. Find the identity element.",
+      "options": [
+        "$$0$$",
+        "$$1$$",
+        "$$-1$$",
+        "$$2$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$0$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the variance of the numbers: 2, 4, 6, 8, 10.",
+      "options": [
+        "$$8$$",
+        "$$6$$",
+        "$$10$$",
+        "$$4$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$8$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Calculate the standard deviation of numbers: 2, 3, 5, 6, 9.",
+      "options": [
+        "$$2.45$$",
+        "$$6.0$$",
+        "$$5.0$$",
+        "$$2.0$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$2.45$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the mean of the numbers: 2, 4, 8, 12, 14.",
+      "options": [
+        "8",
+        "7",
+        "9",
+        "10"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 8.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Complex conjugate of $$ 1+i $$:",
+      "options": [
+        "$$ 1-i $$",
+        "$$ -1-i $$",
+        "$$ -1+i $$",
+        "$$ 1+i $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ 1-i $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Evaluate $$\\int \\cos(3x) \\, dx$$.",
+      "options": [
+        "$$3\\sin(3x) + C$$",
+        "$$\\frac{1}{3}\\sin(3x) + C$$",
+        "$$-\\frac{1}{3}\\sin(3x) + C$$",
+        "$$\\sin(3x) + C$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$\\frac{1}{3}\\sin(3x) + C$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "If $$^nC_2 = 10$$, find $$n$$.",
+      "options": [
+        "$$4$$",
+        "$$5$$",
+        "$$6$$",
+        "$$3$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$5$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The derivative of a constant is:",
+      "options": [
+        "$$1$$",
+        "$$0$$",
+        "$$x$$",
+        "$$\\infty$$"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: $$0$$.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "If $$\\alpha$$ and $$\\beta$$ are the roots of $$2x^2 - 5x + 3 = 0$$, find the value of $$\\alpha^2 + \\beta^2$$.",
+      "options": [
+        "$$\\frac{13}{4}$$",
+        "$$\\frac{25}{4}$$",
+        "$$\\frac{19}{4}$$",
+        "$$\\frac{7}{4}$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$\\frac{13}{4}$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$.",
+      "options": [
+        "$$1$$",
+        "$$0.5$$",
+        "$$2$$",
+        "$$0$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$1$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "Find the value of $$x$$ if the distance between points $$P(2, -3)$$ and $$Q(x, 5)$$ is $$10$$.",
+      "options": [
+        "$$8$$ or $$-4$$",
+        "$$6$$ or $$-2$$",
+        "$$8$$ or $$4$$",
+        "$$-8$$ or $$4$$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: $$8$$ or $$-4$$.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "If $(x + 2)$ is a factor of $x^3 + kx^2 + 4$, find the value of $k$.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: 2.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Calculate the distance of the point $(3, 4)$ from the line $3x + 4y - 10 = 0$.",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "15"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: 3.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the coordinates of the turning point of $y = x^2 - 6x + 5$.",
+      "options": [
+        "(3, -4)",
+        "(3, 5)",
+        "(-3, 4)",
+        "(6, 5)"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: (3, -4).",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "If $A$ is a 3x3 identity matrix, find $|A|$.",
+      "options": [
+        "1",
+        "0",
+        "3",
+        "9"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: 1.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Find the equation of the normal to $$ y=x^2 $$ at $$ x=1 $$.",
+      "options": [
+        "$$ x+2y-3=0 $$",
+        "$$ 2x-y-1=0 $$",
+        "$$ x-2y+1=0 $$",
+        "$$ x+2y+3=0 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ x+2y-3=0 $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The expansion of $$ (1-x)^{-1} $$ is:",
+      "options": [
+        "$$ 1+x+x^2+x^3... $$",
+        "$$ 1-x+x^2-x^3... $$",
+        "$$ 1+2x+3x^2... $$",
+        "$$ 1-2x+3x^2... $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: $$ 1+x+x^2+x^3... $$.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The mapping $$ f: x \\to x^2 $$ is:",
+      "options": [
+        "One-to-one",
+        "Many-to-one",
+        "One-to-many",
+        "Undefined"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Many-to-one.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Det $$ \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$:",
+      "options": [
+        "5",
+        "11",
+        "7",
+        "-5"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 5.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Prob Indep A, B:",
+      "options": [
+        "$$ P(A)P(B) $$",
+        "$$ P(A)+P(B) $$",
+        "$$ P(A)-P(B) $$",
+        "0"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: $$ P(A)P(B) $$.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Tan x = 1:",
+      "options": [
+        "45",
+        "30",
+        "60",
+        "90"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 45.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Order (1 2):",
+      "options": [
+        "1x2",
+        "2x1",
+        "2x2",
+        "1x1"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: 1x2.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "Impulse:",
+      "options": [
+        "Change Mom",
+        "Force",
+        "Energy",
+        "Work"
+      ],
+      "answer": 0,
+      "solution": "Past question (NECO 2025). Correct answer: Change Mom.",
+      "source": "NECO 2025",
+      "practice": false
+    },
+    {
+      "q": "If $$ y = e^{3x} $$, find $$ d^2y/dx^2 $$.",
+      "options": [
+        "$$ 9e^{3x} $$",
+        "$$ 3e^{3x} $$",
+        "$$ e^{3x} $$",
+        "$$ 6e^{3x} $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ 9e^{3x} $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Equation of circle center (0,0) radius 3.",
+      "options": [
+        "$$ x^2 + y^2 = 9 $$",
+        "$$ x^2 + y^2 = 3 $$",
+        "$$ x^2 - y^2 = 9 $$",
+        "$$ x + y = 3 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ x^2 + y^2 = 9 $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Solve $$ |x-1| < 3 $$.",
+      "options": [
+        "$$ -2 < x < 4 $$",
+        "$$ x > 4 $$",
+        "$$ x < -2 $$",
+        "$$ x = 3 $$"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: $$ -2 < x < 4 $$.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Eccentricity of parabola:",
+      "options": [
+        "1",
+        "0",
+        ">1",
+        "<1"
+      ],
+      "answer": 0,
+      "solution": "Past question (WAEC 2025). Correct answer: 1.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is a key point about Introduction to Complex Numbers in Complex Numbers?",
+      "options": [
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity.",
+        "Find the value of $i^2$ in complex numbers. \u2014 -1.",
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$."
+      ],
+      "answer": 2,
+      "solution": "Find the value of $i^2$ in complex numbers. \u2014 -1.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Key facts about Complex Numbers in Complex Numbers?",
+      "options": [
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm.",
+        "Find the value of $i^2$ in complex numbers. \u2014 -1.",
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity."
+      ],
+      "answer": 1,
+      "solution": "Find the value of $i^2$ in complex numbers. \u2014 -1.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Important terms and examples in Complex Numbers in Complex Numbers?",
+      "options": [
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity.",
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm.",
+        "Find the value of $i^2$ in complex numbers. \u2014 -1."
+      ],
+      "answer": 3,
+      "solution": "Find the value of $i^2$ in complex numbers. \u2014 -1.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Importance and application of Complex Numbers in Complex Numbers?",
+      "options": [
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$.",
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm.",
+        "Find the value of $i^2$ in complex numbers. \u2014 -1.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity."
+      ],
+      "answer": 2,
+      "solution": "Find the value of $i^2$ in complex numbers. \u2014 -1.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Revision and worked examples in Complex Numbers?",
+      "options": [
+        "Find the value of $i^2$ in complex numbers. \u2014 -1.",
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity.",
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm."
+      ],
+      "answer": 0,
+      "solution": "Find the value of $i^2$ in complex numbers. \u2014 -1.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 'find'?",
+      "options": [
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity.",
+        "Find the value of $i^2$ in complex numbers. \u2014 -1.",
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm."
+      ],
+      "answer": 2,
+      "solution": "Find the value of $i^2$ in complex numbers. \u2014 -1.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 'binary'?",
+      "options": [
+        "The binary operation $$*$$ is defined on the set of real numbers by $$a * b = a + b - ab$$. Find the identity element. \u2014 $$0$$.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity.",
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$.",
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm."
+      ],
+      "answer": 0,
+      "solution": "The binary operation $$*$$ is defined on the set of real numbers by $$a * b = a + b - ab$$. Find the identity element. \u2014 $$0$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 'calculate'?",
+      "options": [
+        "Calculate the standard deviation of numbers: 2, 3, 5, 6, 9. \u2014 $$2.45$$.",
+        "Resolve $$ \\frac{1}{x^2 - 4} $$ into partial fractions. \u2014 $$ \\frac{1}{4(x-2)} - \\frac{1}{4(x+2)} $$.",
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity."
+      ],
+      "answer": 0,
+      "solution": "Calculate the standard deviation of numbers: 2, 3, 5, 6, 9. \u2014 $$2.45$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 'conjugate'?",
+      "options": [
+        "Complex conjugate of $$ 1+i $$: \u2014 $$ 1-i $$.",
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$.",
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity."
+      ],
+      "answer": 0,
+      "solution": "Complex conjugate of $$ 1+i $$: \u2014 $$ 1-i $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 'evaluate'?",
+      "options": [
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity.",
+        "Evaluate $$\\int \\cos(3x) \\, dx$$. \u2014 $$\\frac{1}{3}\\sin(3x) + C$$.",
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm."
+      ],
+      "answer": 2,
+      "solution": "Evaluate $$\\int \\cos(3x) \\, dx$$. \u2014 $$\\frac{1}{3}\\sin(3x) + C$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 'derivative'?",
+      "options": [
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$.",
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm.",
+        "The derivative of a constant is: \u2014 $$0$$.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity."
+      ],
+      "answer": 2,
+      "solution": "The derivative of a constant is: \u2014 $$0$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 'alpha'?",
+      "options": [
+        "If $$\\alpha$$ and $$\\beta$$ are the roots of $$2x^2 - 5x + 3 = 0$$, find the value of $$\\alpha^2 + \\beta^2$$. \u2014 $$\\frac{13}{4}$$.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity.",
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm.",
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$."
+      ],
+      "answer": 0,
+      "solution": "If $$\\alpha$$ and $$\\beta$$ are the roots of $$2x^2 - 5x + 3 = 0$$, find the value of $$\\alpha^2 + \\beta^2$$. \u2014 $$\\frac{13}{4}$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 'given'?",
+      "options": [
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$.",
+        "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity.",
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm."
+      ],
+      "answer": 1,
+      "solution": "Given $$f(x) = \\ln(x^2 + 1)$$, find $$f'(1)$$. \u2014 $$1$$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 'factor'?",
+      "options": [
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm.",
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$.",
+        "If $(x + 2)$ is a factor of $x^3 + kx^2 + 4$, find the value of $k$. \u2014 2.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity."
+      ],
+      "answer": 2,
+      "solution": "If $(x + 2)$ is a factor of $x^3 + kx^2 + 4$, find the value of $k$. \u2014 2.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 '3x3'?",
+      "options": [
+        "If $A$ is a 3x3 identity matrix, find $|A|$. \u2014 1.",
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$.",
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity."
+      ],
+      "answer": 0,
+      "solution": "If $A$ is a 3x3 identity matrix, find $|A|$. \u2014 1.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 'expansion'?",
+      "options": [
+        "The expansion of $$ (1-x)^{-1} $$ is: \u2014 $$ 1+x+x^2+x^3... $$.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity.",
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm.",
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$."
+      ],
+      "answer": 0,
+      "solution": "The expansion of $$ (1-x)^{-1} $$ is: \u2014 $$ 1+x+x^2+x^3... $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 'mapping'?",
+      "options": [
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity.",
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$.",
+        "The mapping $$ f: x \\to x^2 $$ is: \u2014 Many-to-one."
+      ],
+      "answer": 3,
+      "solution": "The mapping $$ f: x \\to x^2 $$ is: \u2014 Many-to-one.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 'det'?",
+      "options": [
+        "Area under acceleration-time graph is: \u2014 Change in Velocity.",
+        "Det $$ \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$: \u2014 5.",
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm.",
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$."
+      ],
+      "answer": 1,
+      "solution": "Det $$ \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix} $$: \u2014 5.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 'prob'?",
+      "options": [
+        "Area under acceleration-time graph is: \u2014 Change in Velocity.",
+        "Prob Indep A, B: \u2014 $$ P(A)P(B) $$.",
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm.",
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$."
+      ],
+      "answer": 1,
+      "solution": "Prob Indep A, B: \u2014 $$ P(A)P(B) $$.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 'tan'?",
+      "options": [
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm.",
+        "Tan x = 1: \u2014 45.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity.",
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$."
+      ],
+      "answer": 1,
+      "solution": "Tan x = 1: \u2014 45.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Complex Numbers \u2014 'order'?",
+      "options": [
+        "Limiting friction $$ F $$ related to $$ R $$ by: \u2014 $$ F = \\mu R $$.",
+        "Area under acceleration-time graph is: \u2014 Change in Velocity.",
+        "Order (1 2): \u2014 1x2.",
+        "Calculate the Moment of a force 10N at a distance 5m. \u2014 50Nm."
+      ],
+      "answer": 2,
+      "solution": "Order (1 2): \u2014 1x2.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    }
+  ]
+}

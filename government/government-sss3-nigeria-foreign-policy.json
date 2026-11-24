@@ -15,11 +15,11 @@
   "modules": [
     {
       "title": "Objectives, Principles and Determinants",
-      "html": "\n<h4>1. Meaning</h4>\n<p><b>Foreign policy</b> is the set of principles, objectives and actions guiding a state's relations with other states and international organisations. It is the projection of <b>national interest</b> — the sum of a state's vital concerns: survival, security, economic wellbeing, prestige and ideological goals — beyond its borders.</p>\n<h4>2. Objectives (section 19, 1999 Constitution)</h4>\n<ol><li>Promotion and protection of the national interest.</li><li>Promotion of African integration and support for African unity.</li><li>Promotion of international cooperation for the consolidation of universal peace and mutual respect among all nations, and elimination of discrimination in all its manifestations.</li><li>Respect for international law and treaty obligations, and seeking settlement of disputes by negotiation, mediation, conciliation, arbitration and adjudication.</li><li>Promotion of a just world economic order.</li></ol>\n<h4>3. Basic Principles</h4>\n<ul>\n<li><b>Africa as the centrepiece</b> of Nigeria's foreign policy.</li>\n<li>Sovereign equality of all states and respect for their territorial integrity.</li>\n<li><b>Non-interference</b> in the internal affairs of other states.</li>\n<li><b>Non-alignment</b> with any power bloc.</li>\n<li>Total eradication of colonialism, apartheid and racial discrimination.</li>\n<li>Peaceful settlement of disputes and multilateralism through the UN, AU and ECOWAS.</li>\n<li>Good neighbourliness and economic diplomacy.</li>\n</ul>\n<h4>4. Determinants</h4>\n<table class=\"tb-table\">\n<tr><th>Internal</th><th>External</th></tr>\n<tr><td>Size, population and geography</td><td>Structure of the international system</td></tr>\n<tr><td>Economic and military capability</td><td>International law and organisations</td></tr>\n<tr><td>Ideology and political system</td><td>Actions of neighbours and great powers</td></tr>\n<tr><td>Leadership and personality of decision-makers</td><td>World public opinion</td></tr>\n<tr><td>Public opinion, press and pressure groups</td><td>Global economic conditions and oil prices</td></tr>\n<tr><td>Historical and colonial experience</td><td>Alliances and treaty commitments</td></tr>\n</table>\n<h4>5. Machinery</h4>\n<p>The President as chief foreign-policy maker, the Ministry of Foreign Affairs, embassies and high commissions, the National Assembly (treaty ratification and budget), the Nigerian Institute of International Affairs (research), Nigerians in Diaspora Commission, and the Technical Aid Corps which posts Nigerian professionals to other developing countries.</p>\n",
+      "html": "\n<h4>1. Meaning</h4>\n<p><b>Foreign policy</b> is the set of principles, objectives and actions guiding a state's relations with other states and international organisations. It is the projection of <b>national interest</b> \u2014 the sum of a state's vital concerns: survival, security, economic wellbeing, prestige and ideological goals \u2014 beyond its borders.</p>\n<h4>2. Objectives (section 19, 1999 Constitution)</h4>\n<ol><li>Promotion and protection of the national interest.</li><li>Promotion of African integration and support for African unity.</li><li>Promotion of international cooperation for the consolidation of universal peace and mutual respect among all nations, and elimination of discrimination in all its manifestations.</li><li>Respect for international law and treaty obligations, and seeking settlement of disputes by negotiation, mediation, conciliation, arbitration and adjudication.</li><li>Promotion of a just world economic order.</li></ol>\n<h4>3. Basic Principles</h4>\n<ul>\n<li><b>Africa as the centrepiece</b> of Nigeria's foreign policy.</li>\n<li>Sovereign equality of all states and respect for their territorial integrity.</li>\n<li><b>Non-interference</b> in the internal affairs of other states.</li>\n<li><b>Non-alignment</b> with any power bloc.</li>\n<li>Total eradication of colonialism, apartheid and racial discrimination.</li>\n<li>Peaceful settlement of disputes and multilateralism through the UN, AU and ECOWAS.</li>\n<li>Good neighbourliness and economic diplomacy.</li>\n</ul>\n<h4>4. Determinants</h4>\n<table class=\"tb-table\">\n<tr><th>Internal</th><th>External</th></tr>\n<tr><td>Size, population and geography</td><td>Structure of the international system</td></tr>\n<tr><td>Economic and military capability</td><td>International law and organisations</td></tr>\n<tr><td>Ideology and political system</td><td>Actions of neighbours and great powers</td></tr>\n<tr><td>Leadership and personality of decision-makers</td><td>World public opinion</td></tr>\n<tr><td>Public opinion, press and pressure groups</td><td>Global economic conditions and oil prices</td></tr>\n<tr><td>Historical and colonial experience</td><td>Alliances and treaty commitments</td></tr>\n</table>\n<h4>5. Machinery</h4>\n<p>The President as chief foreign-policy maker, the Ministry of Foreign Affairs, embassies and high commissions, the National Assembly (treaty ratification and budget), the Nigerian Institute of International Affairs (research), Nigerians in Diaspora Commission, and the Technical Aid Corps which posts Nigerian professionals to other developing countries.</p>\n",
       "examples": [
         {
           "q": "Explain 'Africa as the centrepiece' with two concrete examples.",
-          "a": "It means Nigeria treats African liberation, unity and stability as its first external priority. Examples: (i) the establishment of the <b>Southern Africa Relief Fund</b> and material and diplomatic support for liberation movements in Angola, Mozambique, Zimbabwe and South Africa — Nigeria nationalised British Petroleum's interests in 1979 to press Britain over Rhodesia; (ii) leadership and funding of <b>ECOMOG</b> in Liberia (1990) and Sierra Leone (1997–99), where Nigeria supplied most troops and money to restore peace."
+          "a": "It means Nigeria treats African liberation, unity and stability as its first external priority. Examples: (i) the establishment of the <b>Southern Africa Relief Fund</b> and material and diplomatic support for liberation movements in Angola, Mozambique, Zimbabwe and South Africa \u2014 Nigeria nationalised British Petroleum's interests in 1979 to press Britain over Rhodesia; (ii) leadership and funding of <b>ECOMOG</b> in Liberia (1990) and Sierra Leone (1997\u201399), where Nigeria supplied most troops and money to restore peace."
         },
         {
           "q": "Why did Nigeria adopt non-alignment at independence?",
@@ -29,15 +29,49 @@
     },
     {
       "title": "Nigeria's Foreign Policy in Practice, 1960 to Date",
-      "html": "\n<h4>1. Phases</h4>\n<table class=\"tb-table\">\n<tr><th>Period</th><th>Orientation</th><th>Highlights</th></tr>\n<tr><td>1960–1966 (Balewa)</td><td>Cautious, pro-West, legalistic</td><td>Joined UN and Commonwealth 1960; troops to the Congo (ONUC) 1960; abrogated the Anglo-Nigerian Defence Pact 1962 after student protest; Monrovia group; helped found the OAU 1963</td></tr>\n<tr><td>1966–1975 (Gowon)</td><td>Reconciliation and regionalism</td><td>Civil-war diplomacy; good neighbourliness; founding of <b>ECOWAS in 1975</b> with Togo</td></tr>\n<tr><td>1975–1979 (Murtala/Obasanjo)</td><td>Radical and Afrocentric</td><td>Recognition of the MPLA in Angola against US pressure; 'Africa has come of age' speech; nationalisation of BP assets 1979; FESTAC 1977</td></tr>\n<tr><td>1979–1983 (Shagari)</td><td>Moderate, economic focus</td><td>Expulsion of illegal aliens 1983; Chad conflict mediation</td></tr>\n<tr><td>1985–1993 (Babangida)</td><td>Economic diplomacy</td><td>Debt rescheduling; Technical Aid Corps 1987; ECOMOG intervention in Liberia 1990; controversial OIC membership 1986</td></tr>\n<tr><td>1993–1998 (Abacha)</td><td>Isolation</td><td>Commonwealth suspension after the 1995 execution of Ken Saro-Wiwa; ECOMOG in Sierra Leone</td></tr>\n<tr><td>1999–present</td><td>Shuttle diplomacy and citizen diplomacy</td><td>Re-admission to the Commonwealth; NEPAD and transformation of the OAU into the <b>AU in 2002</b>; peaceful handover of Bakassi to Cameroon in 2008 after the 2002 ICJ judgment; leadership in ECOWAS responses to coups</td></tr>\n</table>\n<h4>2. Achievements</h4>\n<ul><li>Leadership in the OAU/AU and ECOWAS.</li><li>Peacekeeping in the Congo, Chad, Liberia, Sierra Leone, Sudan, Mali and the Gambia.</li><li>Sustained contribution to the fall of apartheid.</li><li>Respect for international adjudication in the Bakassi case.</li><li>Technical Aid Corps assistance to other developing states.</li></ul>\n<h4>3. Constraints</h4>\n<ul><li>Mono-product oil economy and revenue volatility.</li><li>Domestic insecurity, poverty and infrastructural weakness.</li><li>Frequent changes of regime and policy inconsistency.</li><li>Poor image abroad from corruption and internet fraud.</li><li>Rivalry from other regional powers and francophone ties to France.</li><li>Criticism that huge external spending yields little tangible domestic benefit.</li></ul>\n",
+      "html": "\n<h4>1. Phases</h4>\n<table class=\"tb-table\">\n<tr><th>Period</th><th>Orientation</th><th>Highlights</th></tr>\n<tr><td>1960\u20131966 (Balewa)</td><td>Cautious, pro-West, legalistic</td><td>Joined UN and Commonwealth 1960; troops to the Congo (ONUC) 1960; abrogated the Anglo-Nigerian Defence Pact 1962 after student protest; Monrovia group; helped found the OAU 1963</td></tr>\n<tr><td>1966\u20131975 (Gowon)</td><td>Reconciliation and regionalism</td><td>Civil-war diplomacy; good neighbourliness; founding of <b>ECOWAS in 1975</b> with Togo</td></tr>\n<tr><td>1975\u20131979 (Murtala/Obasanjo)</td><td>Radical and Afrocentric</td><td>Recognition of the MPLA in Angola against US pressure; 'Africa has come of age' speech; nationalisation of BP assets 1979; FESTAC 1977</td></tr>\n<tr><td>1979\u20131983 (Shagari)</td><td>Moderate, economic focus</td><td>Expulsion of illegal aliens 1983; Chad conflict mediation</td></tr>\n<tr><td>1985\u20131993 (Babangida)</td><td>Economic diplomacy</td><td>Debt rescheduling; Technical Aid Corps 1987; ECOMOG intervention in Liberia 1990; controversial OIC membership 1986</td></tr>\n<tr><td>1993\u20131998 (Abacha)</td><td>Isolation</td><td>Commonwealth suspension after the 1995 execution of Ken Saro-Wiwa; ECOMOG in Sierra Leone</td></tr>\n<tr><td>1999\u2013present</td><td>Shuttle diplomacy and citizen diplomacy</td><td>Re-admission to the Commonwealth; NEPAD and transformation of the OAU into the <b>AU in 2002</b>; peaceful handover of Bakassi to Cameroon in 2008 after the 2002 ICJ judgment; leadership in ECOWAS responses to coups</td></tr>\n</table>\n<h4>2. Achievements</h4>\n<ul><li>Leadership in the OAU/AU and ECOWAS.</li><li>Peacekeeping in the Congo, Chad, Liberia, Sierra Leone, Sudan, Mali and the Gambia.</li><li>Sustained contribution to the fall of apartheid.</li><li>Respect for international adjudication in the Bakassi case.</li><li>Technical Aid Corps assistance to other developing states.</li></ul>\n<h4>3. Constraints</h4>\n<ul><li>Mono-product oil economy and revenue volatility.</li><li>Domestic insecurity, poverty and infrastructural weakness.</li><li>Frequent changes of regime and policy inconsistency.</li><li>Poor image abroad from corruption and internet fraud.</li><li>Rivalry from other regional powers and francophone ties to France.</li><li>Criticism that huge external spending yields little tangible domestic benefit.</li></ul>\n",
       "examples": [
         {
           "q": "Evaluate Nigeria's handling of the Bakassi Peninsula dispute.",
-          "a": "Cameroon sued Nigeria at the <b>International Court of Justice</b>, which in October 2002 awarded the peninsula to Cameroon. Under the <b>Greentree Agreement (2006)</b> Nigeria withdrew and completed the handover in August 2008. The decision upheld Nigeria's declared principles of respect for international law and peaceful settlement of disputes and avoided war, but it was domestically unpopular for displacing Nigerian inhabitants and surrendering resource-rich territory without a referendum — illustrating the tension between principle and national interest."
+          "a": "Cameroon sued Nigeria at the <b>International Court of Justice</b>, which in October 2002 awarded the peninsula to Cameroon. Under the <b>Greentree Agreement (2006)</b> Nigeria withdrew and completed the handover in August 2008. The decision upheld Nigeria's declared principles of respect for international law and peaceful settlement of disputes and avoided war, but it was domestically unpopular for displacing Nigerian inhabitants and surrendering resource-rich territory without a referendum \u2014 illustrating the tension between principle and national interest."
         },
         {
           "q": "What is meant by citizen diplomacy?",
           "a": "Articulated under Foreign Minister Ojo Maduekwe (2007), it holds that the welfare, dignity and treatment of Nigerian citizens at home and abroad should be the primary measure of foreign policy, rather than costly external commitments. It called for reciprocity in visa and trade matters, protection of Nigerians facing discrimination or deportation, and directing diplomacy toward tangible benefits for ordinary Nigerians."
+        }
+      ]
+    },
+    {
+      "title": "Meaning of foreign policy and national interest",
+      "html": "<p><b>Meaning of foreign policy and national interest</b> is a key part of Principles of Nigeria's Foreign Policy (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Foreign policy is the set of principles, objectives and actions guiding a state's relations with other states and international organisations.</li><li>It is the projection of national interest \u2014 the sum of a state's vital concerns: survival, security, economic wellbeing, prestige and ideological goals \u2014 beyond its borders.</li><li>Objectives (section 19, 1999 Constitution) Promotion and protection of the national interest.</li><li>Promotion of international cooperation for the consolidation of universal peace and mutual respect among all nations, and elimination of discrimination in all its manifestations.</li><li>Respect for international law and treaty obligations, and seeking settlement of disputes by negotiation, mediation, conciliation, arbitration and adjudication.</li></ul><h4>Worked example</h4><p><b>Q:</b> The centrepiece of Nigeria's foreign policy is:<br/><b>A:</b> Africa \u2014 Since 1960 Africa has been declared the centrepiece of Nigerian foreign policy.</p><p><b>Q:</b> Foreign policy objectives are stated in which section of the 1999 Constitution?<br/><b>A:</b> Section 19 \u2014 Section 19 lists the five foreign-policy objectives of the state.</p>",
+      "examples": [
+        {
+          "q": "The centrepiece of Nigeria's foreign policy is:",
+          "a": "Africa \u2014 Since 1960 Africa has been declared the centrepiece of Nigerian foreign policy."
+        },
+        {
+          "q": "Foreign policy objectives are stated in which section of the 1999 Constitution?",
+          "a": "Section 19 \u2014 Section 19 lists the five foreign-policy objectives of the state."
+        }
+      ]
+    },
+    {
+      "title": "Basic principles including Africa as centrepiece",
+      "html": "<p><b>Basic principles including Africa as centrepiece</b> is a key part of Principles of Nigeria's Foreign Policy (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Foreign policy is the set of principles, objectives and actions guiding a state's relations with other states and international organisations.</li><li>Promotion of African integration and support for African unity.</li><li>Basic Principles Africa as the centrepiece of Nigeria's foreign policy.</li><li>Phases Period Orientation Highlights 1960\u20131966 (Balewa) Cautious, pro-West, legalistic Joined UN and Commonwealth 1960; troops to the Congo (ONUC) 1960; abrogated the Anglo-Nigerian Defence Pact 1962 after student protest; Monrovia group; helped found the OAU 1963 1966\u20131975 (Gowon) Reconciliation and regionalism Civil-war diplomacy; good neighbourliness; founding of ECOWAS in 1975 with Togo 1975\u20131979 (Murtala/Obasanjo) Radical and Afrocentric Recognition of the MPLA in Angola against US pressure; 'Africa has come of age' speech; nationalisation of BP assets 1979; FESTAC 1977 1979\u20131983 (Shagari) Moderate, economic focus Expulsion of illegal aliens 1983; Chad conflict mediation 1985\u20131993 (Babangida) Economic diplomacy Debt rescheduling; Technical Aid Corps 1987; ECOMOG intervention in Liberia 1990; controversial OIC membership 1986 1993\u20131998 (Abacha) Isolation Commonwealth suspension after the 1995 execution of Ken Saro-Wiwa; ECOMOG in Sierra Leone 1999\u2013present Shuttle diplomacy and citizen diplomacy Re-admission to the Commonwealth; NEPAD and transformation of the OAU into the AU in 2002 ; peaceful handover of Bakassi to Cameroon in 2008 after the 2002 ICJ judgment; leadership in ECOWAS responses to coups 2.</li><li>Meaning of foreign policy and national interest is a key part of Principles of Nigeria's Foreign Policy (SSS 3, Government).</li></ul><h4>Worked example</h4><p><b>Q:</b> The centrepiece of Nigeria's foreign policy is:<br/><b>A:</b> Africa \u2014 Since 1960 Africa has been declared the centrepiece of Nigerian foreign policy.</p>",
+      "examples": [
+        {
+          "q": "The centrepiece of Nigeria's foreign policy is:",
+          "a": "Africa \u2014 Since 1960 Africa has been declared the centrepiece of Nigerian foreign policy."
+        }
+      ]
+    },
+    {
+      "title": "Non-alignment and its rationale",
+      "html": "<p><b>Non-alignment and its rationale</b> is a key part of Principles of Nigeria's Foreign Policy (SSS 3, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Non-interference in the internal affairs of other states.</li><li>Non-alignment with any power bloc.</li><li>Non-aligned states avoid Cold War bloc membership while judging issues on merit.</li></ul><h4>Worked example</h4><p><b>Q:</b> Non-alignment means:<br/><b>A:</b> Refusing to join any power bloc \u2014 Non-aligned states avoid Cold War bloc membership while judging issues on merit.</p><h4>More key points</h4><ul><li>Non-alignment means: \u2014 Refusing to join any power bloc.</li></ul>",
+      "examples": [
+        {
+          "q": "Non-alignment means:",
+          "a": "Refusing to join any power bloc \u2014 Non-aligned states avoid Cold War bloc membership while judging issues on merit."
         }
       ]
     }
@@ -52,7 +86,9 @@
         "The Americas"
       ],
       "answer": 1,
-      "solution": "Since 1960 Africa has been declared the centrepiece of Nigerian foreign policy."
+      "solution": "Since 1960 Africa has been declared the centrepiece of Nigerian foreign policy.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Foreign policy objectives are stated in which section of the 1999 Constitution?",
@@ -63,7 +99,9 @@
         "Section 162"
       ],
       "answer": 1,
-      "solution": "Section 19 lists the five foreign-policy objectives of the state."
+      "solution": "Section 19 lists the five foreign-policy objectives of the state.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Non-alignment means:",
@@ -74,7 +112,9 @@
         "Isolationism"
       ],
       "answer": 0,
-      "solution": "Non-aligned states avoid Cold War bloc membership while judging issues on merit."
+      "solution": "Non-aligned states avoid Cold War bloc membership while judging issues on merit.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Anglo-Nigerian Defence Pact was abrogated in:",
@@ -85,7 +125,9 @@
         "1970"
       ],
       "answer": 1,
-      "solution": "Student and nationalist protest forced Balewa to cancel it in 1962."
+      "solution": "Student and nationalist protest forced Balewa to cancel it in 1962.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "ECOWAS was founded in:",
@@ -96,7 +138,9 @@
         "2002"
       ],
       "answer": 1,
-      "solution": "The Treaty of Lagos established ECOWAS on 28 May 1975."
+      "solution": "The Treaty of Lagos established ECOWAS on 28 May 1975.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nigeria recognised the MPLA government of Angola under:",
@@ -107,7 +151,9 @@
         "Shagari"
       ],
       "answer": 2,
-      "solution": "Murtala's 1976 OAU speech and recognition of the MPLA marked radical Afrocentrism."
+      "solution": "Murtala's 1976 OAU speech and recognition of the MPLA marked radical Afrocentrism.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The ICJ awarded Bakassi to Cameroon in:",
@@ -118,7 +164,9 @@
         "2008"
       ],
       "answer": 1,
-      "solution": "The judgment came in October 2002; handover was completed in 2008."
+      "solution": "The judgment came in October 2002; handover was completed in 2008.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The Technical Aid Corps was established in:",
@@ -129,7 +177,9 @@
         "2007"
       ],
       "answer": 1,
-      "solution": "Created in 1987 to send Nigerian professionals to other developing countries."
+      "solution": "Created in 1987 to send Nigerian professionals to other developing countries.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nigeria was suspended from the Commonwealth in 1995 because of:",
@@ -140,7 +190,9 @@
         "Border closure"
       ],
       "answer": 0,
-      "solution": "The Ogoni executions during the Auckland summit triggered suspension."
+      "solution": "The Ogoni executions during the Auckland summit triggered suspension.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is an internal determinant of foreign policy?",
@@ -151,7 +203,9 @@
         "Global oil market"
       ],
       "answer": 0,
-      "solution": "Domestic capability determines how far ambitions can be pursued."
+      "solution": "Domestic capability determines how far ambitions can be pursued.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nigeria's peacekeeping force in Liberia from 1990 was:",
@@ -162,7 +216,9 @@
         "AMISOM"
       ],
       "answer": 0,
-      "solution": "The ECOWAS Monitoring Group intervened in the Liberian civil war."
+      "solution": "The ECOWAS Monitoring Group intervened in the Liberian civil war.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The OAU was transformed into the African Union in:",
@@ -173,7 +229,9 @@
         "2005"
       ],
       "answer": 2,
-      "solution": "The AU was formally launched in Durban in July 2002."
+      "solution": "The AU was formally launched in Durban in July 2002.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Citizen diplomacy emphasises:",
@@ -184,7 +242,9 @@
         "Abolition of embassies"
       ],
       "answer": 0,
-      "solution": "It makes the citizen's interest the yardstick of foreign policy."
+      "solution": "It makes the citizen's interest the yardstick of foreign policy.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nigeria joined the UN in:",
@@ -195,7 +255,9 @@
         "1970"
       ],
       "answer": 1,
-      "solution": "Nigeria was admitted on 7 October 1960, days after independence."
+      "solution": "Nigeria was admitted on 7 October 1960, days after independence.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A major constraint on Nigeria's foreign policy is:",
@@ -206,7 +268,9 @@
         "Small population"
       ],
       "answer": 0,
-      "solution": "Oil price volatility limits sustained external commitments."
+      "solution": "Oil price volatility limits sustained external commitments.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Nigeria's first major peacekeeping deployment was to:",
@@ -217,7 +281,451 @@
         "Mali in 2013"
       ],
       "answer": 0,
-      "solution": "Nigerian troops served in the UN operation in the Congo (ONUC) from 1960."
+      "solution": "Nigerian troops served in the UN operation in the Congo (ONUC) from 1960.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of the following correctly describes Foreign policy?",
+      "options": [
+        "in the internal affairs of other states",
+        "\u2014 the sum of a state's vital concerns: survival, security, economic wellbeing, prestige and ideological goals \u2014 beyond its borders",
+        "is the set of principles, objectives and actions guiding a state's relations with other states and international organisations",
+        "of Nigeria's foreign policy"
+      ],
+      "answer": 2,
+      "solution": "Foreign policy: is the set of principles, objectives and actions guiding a state's relations with other states and international organisations",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes national interest?",
+      "options": [
+        "is the set of principles, objectives and actions guiding a state's relations with other states and international organisations",
+        "of Nigeria's foreign policy",
+        "in the internal affairs of other states",
+        "\u2014 the sum of a state's vital concerns: survival, security, economic wellbeing, prestige and ideological goals \u2014 beyond its borders"
+      ],
+      "answer": 3,
+      "solution": "national interest: \u2014 the sum of a state's vital concerns: survival, security, economic wellbeing, prestige and ideological goals \u2014 beyond its borders",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Africa as the centrepiece?",
+      "options": [
+        "is the set of principles, objectives and actions guiding a state's relations with other states and international organisations",
+        "\u2014 the sum of a state's vital concerns: survival, security, economic wellbeing, prestige and ideological goals \u2014 beyond its borders",
+        "of Nigeria's foreign policy",
+        "in the internal affairs of other states"
+      ],
+      "answer": 2,
+      "solution": "Africa as the centrepiece: of Nigeria's foreign policy",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Non-interference?",
+      "options": [
+        "in the internal affairs of other states",
+        "of Nigeria's foreign policy",
+        "is the set of principles, objectives and actions guiding a state's relations with other states and international organisations",
+        "\u2014 the sum of a state's vital concerns: survival, security, economic wellbeing, prestige and ideological goals \u2014 beyond its borders"
+      ],
+      "answer": 0,
+      "solution": "Non-interference: in the internal affairs of other states",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Non-alignment?",
+      "options": [
+        "\u2014 the sum of a state's vital concerns: survival, security, economic wellbeing, prestige and ideological goals \u2014 beyond its borders",
+        "with any power bloc",
+        "is the set of principles, objectives and actions guiding a state's relations with other states and international organisations",
+        "of Nigeria's foreign policy"
+      ],
+      "answer": 1,
+      "solution": "Non-alignment: with any power bloc",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes ECOWAS in 1975?",
+      "options": [
+        "is the set of principles, objectives and actions guiding a state's relations with other states and international organisations",
+        "\u2014 the sum of a state's vital concerns: survival, security, economic wellbeing, prestige and ideological goals \u2014 beyond its borders",
+        "with Togo 1975\u20131979 (Murtala/Obasanjo) Radical and Afrocentric Recognition of the MPLA in Angola against US pressure; 'Africa has come of age' speech; nationalisation of BP assets",
+        "of Nigeria's foreign policy"
+      ],
+      "answer": 2,
+      "solution": "ECOWAS in 1975: with Togo 1975\u20131979 (Murtala/Obasanjo) Radical and Afrocentric Recognition of the MPLA in Angola against US pressure; 'Africa has come of age' speech; nationalisation of BP assets",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes AU in 2002?",
+      "options": [
+        "\u2014 the sum of a state's vital concerns: survival, security, economic wellbeing, prestige and ideological goals \u2014 beyond its borders",
+        "; peaceful handover of Bakassi to Cameroon in 2008 after the 2002 ICJ judgment; leadership in ECOWAS responses to coups 2",
+        "is the set of principles, objectives and actions guiding a state's relations with other states and international organisations",
+        "of Nigeria's foreign policy"
+      ],
+      "answer": 1,
+      "solution": "AU in 2002: ; peaceful handover of Bakassi to Cameroon in 2008 after the 2002 ICJ judgment; leadership in ECOWAS responses to coups 2",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Meaning of foreign policy and national interest?",
+      "options": [
+        "is a key part of Principles of Nigeria's Foreign Policy (SSS 3, Government)",
+        "of Nigeria's foreign policy",
+        "is the set of principles, objectives and actions guiding a state's relations with other states and international organisations",
+        "\u2014 the sum of a state's vital concerns: survival, security, economic wellbeing, prestige and ideological goals \u2014 beyond its borders"
+      ],
+      "answer": 0,
+      "solution": "Meaning of foreign policy and national interest: is a key part of Principles of Nigeria's Foreign Policy (SSS 3, Government)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Basic principles including Africa as centrepiece?",
+      "options": [
+        "\u2014 the sum of a state's vital concerns: survival, security, economic wellbeing, prestige and ideological goals \u2014 beyond its borders",
+        "of Nigeria's foreign policy",
+        "is the set of principles, objectives and actions guiding a state's relations with other states and international organisations",
+        "is a key part of Principles of Nigeria's Foreign Policy (SSS 3, Government)"
+      ],
+      "answer": 3,
+      "solution": "Basic principles including Africa as centrepiece: is a key part of Principles of Nigeria's Foreign Policy (SSS 3, Government)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following correctly describes Non-alignment and its rationale?",
+      "options": [
+        "is a key part of Principles of Nigeria's Foreign Policy (SSS 3, Government)",
+        "\u2014 the sum of a state's vital concerns: survival, security, economic wellbeing, prestige and ideological goals \u2014 beyond its borders",
+        "is the set of principles, objectives and actions guiding a state's relations with other states and international organisations",
+        "of Nigeria's foreign policy"
+      ],
+      "answer": 0,
+      "solution": "Non-alignment and its rationale: is a key part of Principles of Nigeria's Foreign Policy (SSS 3, Government)",
+      "source": "Syllabus-modelled practice (from chapter notes)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Objectives, Principles and Determinants in Principles of Nigeria's Foreign Policy?",
+      "options": [
+        "The centrepiece of Nigeria's foreign policy is: \u2014 Africa.",
+        "Power is defined as: \u2014 The ability to compel obedience.",
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "The earliest agent of political socialization is the \u2014 Family."
+      ],
+      "answer": 0,
+      "solution": "The centrepiece of Nigeria's foreign policy is: \u2014 Africa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Nigeria's Foreign Policy in Practice, 1960 to Date in Principles of Nigeria's Foreign Policy?",
+      "options": [
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "Power is defined as: \u2014 The ability to compel obedience.",
+        "The earliest agent of political socialization is the \u2014 Family.",
+        "The centrepiece of Nigeria's foreign policy is: \u2014 Africa."
+      ],
+      "answer": 3,
+      "solution": "The centrepiece of Nigeria's foreign policy is: \u2014 Africa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Meaning of foreign policy and national interest in Principles of Nigeria's Foreign Policy?",
+      "options": [
+        "Power is defined as: \u2014 The ability to compel obedience.",
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "The centrepiece of Nigeria's foreign policy is: \u2014 Africa.",
+        "The earliest agent of political socialization is the \u2014 Family."
+      ],
+      "answer": 2,
+      "solution": "The centrepiece of Nigeria's foreign policy is: \u2014 Africa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Basic principles including Africa as centrepiece in Principles of Nigeria's Foreign Policy?",
+      "options": [
+        "The centrepiece of Nigeria's foreign policy is: \u2014 Africa.",
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "Power is defined as: \u2014 The ability to compel obedience.",
+        "The earliest agent of political socialization is the \u2014 Family."
+      ],
+      "answer": 0,
+      "solution": "The centrepiece of Nigeria's foreign policy is: \u2014 Africa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is a key point about Non-alignment and its rationale in Principles of Nigeria's Foreign Policy?",
+      "options": [
+        "The earliest agent of political socialization is the \u2014 Family.",
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "The centrepiece of Nigeria's foreign policy is: \u2014 Africa.",
+        "Power is defined as: \u2014 The ability to compel obedience."
+      ],
+      "answer": 2,
+      "solution": "The centrepiece of Nigeria's foreign policy is: \u2014 Africa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Principles of Nigeria's Foreign Policy \u2014 'centrepiece'?",
+      "options": [
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "The centrepiece of Nigeria's foreign policy is: \u2014 Africa.",
+        "The earliest agent of political socialization is the \u2014 Family.",
+        "Power is defined as: \u2014 The ability to compel obedience."
+      ],
+      "answer": 1,
+      "solution": "The centrepiece of Nigeria's foreign policy is: \u2014 Africa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Principles of Nigeria's Foreign Policy \u2014 'objectives'?",
+      "options": [
+        "The earliest agent of political socialization is the \u2014 Family.",
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "Power is defined as: \u2014 The ability to compel obedience.",
+        "Foreign policy objectives are stated in which section of the 1999 Constitution \u2014 Section 19."
+      ],
+      "answer": 3,
+      "solution": "Foreign policy objectives are stated in which section of the 1999 Constitution \u2014 Section 19.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Principles of Nigeria's Foreign Policy \u2014 'non'?",
+      "options": [
+        "Power is defined as: \u2014 The ability to compel obedience.",
+        "Non-alignment means: \u2014 Refusing to join any power bloc.",
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "The earliest agent of political socialization is the \u2014 Family."
+      ],
+      "answer": 1,
+      "solution": "Non-alignment means: \u2014 Refusing to join any power bloc.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Principles of Nigeria's Foreign Policy \u2014 'anglo'?",
+      "options": [
+        "The Anglo-Nigerian Defence Pact was abrogated in: \u2014 1962.",
+        "The earliest agent of political socialization is the \u2014 Family.",
+        "Power is defined as: \u2014 The ability to compel obedience.",
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment."
+      ],
+      "answer": 0,
+      "solution": "The Anglo-Nigerian Defence Pact was abrogated in: \u2014 1962.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Principles of Nigeria's Foreign Policy \u2014 'ecowas'?",
+      "options": [
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "Power is defined as: \u2014 The ability to compel obedience.",
+        "The earliest agent of political socialization is the \u2014 Family.",
+        "ECOWAS was founded in: \u2014 1975."
+      ],
+      "answer": 3,
+      "solution": "ECOWAS was founded in: \u2014 1975.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Principles of Nigeria's Foreign Policy \u2014 'recognised'?",
+      "options": [
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "Nigeria recognised the MPLA government of Angola under: \u2014 Murtala Mohammed.",
+        "Power is defined as: \u2014 The ability to compel obedience.",
+        "The earliest agent of political socialization is the \u2014 Family."
+      ],
+      "answer": 1,
+      "solution": "Nigeria recognised the MPLA government of Angola under: \u2014 Murtala Mohammed.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Principles of Nigeria's Foreign Policy \u2014 'icj'?",
+      "options": [
+        "The earliest agent of political socialization is the \u2014 Family.",
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "The ICJ awarded Bakassi to Cameroon in: \u2014 2002.",
+        "Power is defined as: \u2014 The ability to compel obedience."
+      ],
+      "answer": 2,
+      "solution": "The ICJ awarded Bakassi to Cameroon in: \u2014 2002.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Principles of Nigeria's Foreign Policy \u2014 'technical'?",
+      "options": [
+        "The earliest agent of political socialization is the \u2014 Family.",
+        "The Technical Aid Corps was established in: \u2014 1987.",
+        "Power is defined as: \u2014 The ability to compel obedience.",
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment."
+      ],
+      "answer": 1,
+      "solution": "The Technical Aid Corps was established in: \u2014 1987.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Principles of Nigeria's Foreign Policy \u2014 'suspended'?",
+      "options": [
+        "Power is defined as: \u2014 The ability to compel obedience.",
+        "Nigeria was suspended from the Commonwealth in 1995 because of: \u2014 The execution of Ken Saro-Wiwa.",
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "The earliest agent of political socialization is the \u2014 Family."
+      ],
+      "answer": 1,
+      "solution": "Nigeria was suspended from the Commonwealth in 1995 because of: \u2014 The execution of Ken Saro-Wiwa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Principles of Nigeria's Foreign Policy \u2014 'internal'?",
+      "options": [
+        "Which is an internal determinant of foreign policy \u2014 Economic and military capability.",
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "Power is defined as: \u2014 The ability to compel obedience.",
+        "The earliest agent of political socialization is the \u2014 Family."
+      ],
+      "answer": 0,
+      "solution": "Which is an internal determinant of foreign policy \u2014 Economic and military capability.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Principles of Nigeria's Foreign Policy \u2014 'peacekeeping'?",
+      "options": [
+        "The earliest agent of political socialization is the \u2014 Family.",
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "Power is defined as: \u2014 The ability to compel obedience.",
+        "Nigeria's peacekeeping force in Liberia from 1990 was: \u2014 ECOMOG."
+      ],
+      "answer": 3,
+      "solution": "Nigeria's peacekeeping force in Liberia from 1990 was: \u2014 ECOMOG.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Principles of Nigeria's Foreign Policy \u2014 'oau'?",
+      "options": [
+        "The OAU was transformed into the African Union in: \u2014 2002.",
+        "The earliest agent of political socialization is the \u2014 Family.",
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "Power is defined as: \u2014 The ability to compel obedience."
+      ],
+      "answer": 0,
+      "solution": "The OAU was transformed into the African Union in: \u2014 2002.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Principles of Nigeria's Foreign Policy \u2014 'citizen'?",
+      "options": [
+        "Power is defined as: \u2014 The ability to compel obedience.",
+        "Citizen diplomacy emphasises: \u2014 Welfare and dignity of Nigerians.",
+        "The earliest agent of political socialization is the \u2014 Family.",
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment."
+      ],
+      "answer": 1,
+      "solution": "Citizen diplomacy emphasises: \u2014 Welfare and dignity of Nigerians.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Principles of Nigeria's Foreign Policy \u2014 'joined'?",
+      "options": [
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "Power is defined as: \u2014 The ability to compel obedience.",
+        "Nigeria joined the UN in: \u2014 1960.",
+        "The earliest agent of political socialization is the \u2014 Family."
+      ],
+      "answer": 2,
+      "solution": "Nigeria joined the UN in: \u2014 1960.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "Which of the following is true about Principles of Nigeria's Foreign Policy \u2014 'major'?",
+      "options": [
+        "The process of removing a President from office for gross misconduct is \u2014 Impeachment.",
+        "The earliest agent of political socialization is the \u2014 Family.",
+        "A major constraint on Nigeria's foreign policy is: \u2014 Dependence on oil revenue.",
+        "Power is defined as: \u2014 The ability to compel obedience."
+      ],
+      "answer": 2,
+      "solution": "A major constraint on Nigeria's foreign policy is: \u2014 Dependence on oil revenue.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'africa', which of the following is true in Principles of Nigeria's Foreign Policy?",
+      "options": [
+        "Aristotle's perverted form of monarchy is \u2014 Tyranny.",
+        "The 2023 General Elections in Nigeria were conducted by: \u2014 INEC.",
+        "The four communes were located in: \u2014 Senegal.",
+        "The centrepiece of Nigeria's foreign policy is: \u2014 Africa."
+      ],
+      "answer": 3,
+      "solution": "The centrepiece of Nigeria's foreign policy is: \u2014 Africa.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About '1999', which of the following is true in Principles of Nigeria's Foreign Policy?",
+      "options": [
+        "Foreign policy objectives are stated in which section of the 1999 Constitution \u2014 Section 19.",
+        "Aristotle's perverted form of monarchy is \u2014 Tyranny.",
+        "The four communes were located in: \u2014 Senegal.",
+        "The 2023 General Elections in Nigeria were conducted by: \u2014 INEC."
+      ],
+      "answer": 0,
+      "solution": "Foreign policy objectives are stated in which section of the 1999 Constitution \u2014 Section 19.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About 'alignment', which of the following is true in Principles of Nigeria's Foreign Policy?",
+      "options": [
+        "Non-alignment means: \u2014 Refusing to join any power bloc.",
+        "Aristotle's perverted form of monarchy is \u2014 Tyranny.",
+        "The 2023 General Elections in Nigeria were conducted by: \u2014 INEC.",
+        "The four communes were located in: \u2014 Senegal."
+      ],
+      "answer": 0,
+      "solution": "Non-alignment means: \u2014 Refusing to join any power bloc.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
+    },
+    {
+      "q": "About '1962', which of the following is true in Principles of Nigeria's Foreign Policy?",
+      "options": [
+        "The four communes were located in: \u2014 Senegal.",
+        "The 2023 General Elections in Nigeria were conducted by: \u2014 INEC.",
+        "The Anglo-Nigerian Defence Pact was abrogated in: \u2014 1962.",
+        "Aristotle's perverted form of monarchy is \u2014 Tyranny."
+      ],
+      "answer": 2,
+      "solution": "The Anglo-Nigerian Defence Pact was abrogated in: \u2014 1962.",
+      "source": "Syllabus-modelled practice (from past-question facts)",
+      "practice": true
     }
   ]
 }

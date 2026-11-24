@@ -15,7 +15,7 @@
   "modules": [
     {
       "title": "Acquisition and Loss of Citizenship",
-      "html": "\n<h4>1. Meaning</h4>\n<p><b>Citizenship</b> is full legal membership of a state, carrying the entitlement to its protection and the obligation to obey its laws. A citizen enjoys full political rights (voting, holding office); an <b>alien</b> is a person residing in a state of which he is not a citizen.</p>\n<h4>2. Methods of Acquisition (Chapter III, 1999 Constitution)</h4>\n<table class=\"tb-table\">\n<tr><th>Method</th><th>Constitutional basis</th><th>Explanation</th></tr>\n<tr><td>By birth</td><td>s.25</td><td>A person born in Nigeria before independence whose parent or grandparent belongs to an indigenous community; or born in Nigeria after independence with a Nigerian parent or grandparent; or born outside Nigeria to a Nigerian parent</td></tr>\n<tr><td>By registration</td><td>s.26</td><td>A woman married to a Nigerian citizen, or a person of full age and capacity whose grandparent is a Nigerian citizen — subject to good character, clear intention to be domiciled, and the oath of allegiance</td></tr>\n<tr><td>By naturalisation</td><td>s.27</td><td>An adult of good character who has resided in Nigeria for at least fifteen years (including the twelve months immediately preceding), is acceptable to the local community, has made a useful contribution and intends to reside permanently</td></tr>\n</table>\n<p>Other principles used worldwide: <b>jus soli</b> (right of the soil — place of birth) and <b>jus sanguinis</b> (right of blood — parentage). Nigeria mainly applies jus sanguinis.</p>\n<h4>3. Loss of Citizenship</h4>\n<ol><li><b>Renunciation</b> (s.29) — voluntary declaration by an adult of full capacity.</li><li><b>Deprivation</b> (s.30) — for a naturalised or registered citizen who is disloyal, aids an enemy in war, or is sentenced to at least three years' imprisonment.</li><li>Acquisition of the citizenship of another state, where the law requires renunciation.</li><li>Conquest, cession or annexation of territory.</li></ol>\n<p><b>Dual citizenship:</b> section 28 allows a Nigerian <b>by birth</b> to hold another citizenship, but a citizen by registration or naturalisation forfeits Nigerian citizenship if he acquires another.</p>\n",
+      "html": "\n<h4>1. Meaning</h4>\n<p><b>Citizenship</b> is full legal membership of a state, carrying the entitlement to its protection and the obligation to obey its laws. A citizen enjoys full political rights (voting, holding office); an <b>alien</b> is a person residing in a state of which he is not a citizen.</p>\n<h4>2. Methods of Acquisition (Chapter III, 1999 Constitution)</h4>\n<table class=\"tb-table\">\n<tr><th>Method</th><th>Constitutional basis</th><th>Explanation</th></tr>\n<tr><td>By birth</td><td>s.25</td><td>A person born in Nigeria before independence whose parent or grandparent belongs to an indigenous community; or born in Nigeria after independence with a Nigerian parent or grandparent; or born outside Nigeria to a Nigerian parent</td></tr>\n<tr><td>By registration</td><td>s.26</td><td>A woman married to a Nigerian citizen, or a person of full age and capacity whose grandparent is a Nigerian citizen \u2014 subject to good character, clear intention to be domiciled, and the oath of allegiance</td></tr>\n<tr><td>By naturalisation</td><td>s.27</td><td>An adult of good character who has resided in Nigeria for at least fifteen years (including the twelve months immediately preceding), is acceptable to the local community, has made a useful contribution and intends to reside permanently</td></tr>\n</table>\n<p>Other principles used worldwide: <b>jus soli</b> (right of the soil \u2014 place of birth) and <b>jus sanguinis</b> (right of blood \u2014 parentage). Nigeria mainly applies jus sanguinis.</p>\n<h4>3. Loss of Citizenship</h4>\n<ol><li><b>Renunciation</b> (s.29) \u2014 voluntary declaration by an adult of full capacity.</li><li><b>Deprivation</b> (s.30) \u2014 for a naturalised or registered citizen who is disloyal, aids an enemy in war, or is sentenced to at least three years' imprisonment.</li><li>Acquisition of the citizenship of another state, where the law requires renunciation.</li><li>Conquest, cession or annexation of territory.</li></ol>\n<p><b>Dual citizenship:</b> section 28 allows a Nigerian <b>by birth</b> to hold another citizenship, but a citizen by registration or naturalisation forfeits Nigerian citizenship if he acquires another.</p>\n",
       "examples": [
         {
           "q": "A Ghanaian woman marries a Nigerian man in Lagos. How may she become a Nigerian citizen?",
@@ -29,7 +29,7 @@
     },
     {
       "title": "Rights, Duties and State Obligations",
-      "html": "\n<h4>1. Rights of the Citizen</h4>\n<ul>\n<li><b>Civil rights</b>: life, dignity, personal liberty, fair hearing, privacy, freedom of thought and religion, expression, peaceful assembly and association, movement, freedom from discrimination, and ownership of property.</li>\n<li><b>Political rights</b>: to vote and be voted for, to join a party, to hold public office, to criticise government, to petition.</li>\n<li><b>Economic and social claims</b>: education, health, work and welfare — in Nigeria stated as directive principles in Chapter II.</li>\n</ul>\n<h4>2. Duties of the Citizen</h4>\n<ol><li>Obedience to the constitution and all lawful authority.</li><li>Prompt payment of taxes, rates and levies.</li><li>Defence of the country and rendering national service.</li><li>Respect for the rights and dignity of other citizens.</li><li>Protection of public property and the environment.</li><li>Voting at elections and participating in public affairs.</li><li>Reporting crime and assisting law-enforcement agencies.</li><li>Respect for national symbols: flag, anthem, pledge and coat of arms.</li></ol>\n<h4>3. Obligations of the State</h4>\n<table class=\"tb-table\">\n<tr><th>Obligation</th><th>Illustration</th></tr>\n<tr><td>Security of life and property</td><td>Police, armed forces, courts</td></tr>\n<tr><td>Provision of social services</td><td>Schools, hospitals, water, roads</td></tr>\n<tr><td>Protection of rights</td><td>Legal Aid Council, National Human Rights Commission</td></tr>\n<tr><td>Employment and economic opportunity</td><td>Job creation, empowerment schemes</td></tr>\n<tr><td>Diplomatic protection abroad</td><td>Consular assistance to citizens overseas</td></tr>\n<tr><td>Fair and equitable administration</td><td>Federal character, non-discrimination</td></tr>\n</table>\n<p>Rights and duties are <b>reciprocal</b>: the citizen's right to security is matched by his duty to obey the law and pay tax; the state's right to obedience is matched by its duty to protect and provide.</p>\n",
+      "html": "\n<h4>1. Rights of the Citizen</h4>\n<ul>\n<li><b>Civil rights</b>: life, dignity, personal liberty, fair hearing, privacy, freedom of thought and religion, expression, peaceful assembly and association, movement, freedom from discrimination, and ownership of property.</li>\n<li><b>Political rights</b>: to vote and be voted for, to join a party, to hold public office, to criticise government, to petition.</li>\n<li><b>Economic and social claims</b>: education, health, work and welfare \u2014 in Nigeria stated as directive principles in Chapter II.</li>\n</ul>\n<h4>2. Duties of the Citizen</h4>\n<ol><li>Obedience to the constitution and all lawful authority.</li><li>Prompt payment of taxes, rates and levies.</li><li>Defence of the country and rendering national service.</li><li>Respect for the rights and dignity of other citizens.</li><li>Protection of public property and the environment.</li><li>Voting at elections and participating in public affairs.</li><li>Reporting crime and assisting law-enforcement agencies.</li><li>Respect for national symbols: flag, anthem, pledge and coat of arms.</li></ol>\n<h4>3. Obligations of the State</h4>\n<table class=\"tb-table\">\n<tr><th>Obligation</th><th>Illustration</th></tr>\n<tr><td>Security of life and property</td><td>Police, armed forces, courts</td></tr>\n<tr><td>Provision of social services</td><td>Schools, hospitals, water, roads</td></tr>\n<tr><td>Protection of rights</td><td>Legal Aid Council, National Human Rights Commission</td></tr>\n<tr><td>Employment and economic opportunity</td><td>Job creation, empowerment schemes</td></tr>\n<tr><td>Diplomatic protection abroad</td><td>Consular assistance to citizens overseas</td></tr>\n<tr><td>Fair and equitable administration</td><td>Federal character, non-discrimination</td></tr>\n</table>\n<p>Rights and duties are <b>reciprocal</b>: the citizen's right to security is matched by his duty to obey the law and pay tax; the state's right to obedience is matched by its duty to protect and provide.</p>\n",
       "examples": [
         {
           "q": "A trader refuses to pay tax, arguing that his street has no tarred road. Evaluate.",
@@ -37,7 +37,63 @@
         },
         {
           "q": "State two ways a citizen abroad benefits from citizenship.",
-          "a": "(i) <b>Diplomatic and consular protection</b> — the embassy may intervene where the citizen is detained or distressed; (ii) the right of <b>return and residence</b> in his own country, plus a passport as evidence of nationality, which no state may arbitrarily withdraw from a citizen by birth."
+          "a": "(i) <b>Diplomatic and consular protection</b> \u2014 the embassy may intervene where the citizen is detained or distressed; (ii) the right of <b>return and residence</b> in his own country, plus a passport as evidence of nationality, which no state may arbitrarily withdraw from a citizen by birth."
+        }
+      ]
+    },
+    {
+      "title": "Meaning of citizenship and nationality",
+      "html": "<p><b>Meaning of citizenship and nationality</b> is a key part of Citizenship, Human Rights, and Civic Duties (SSS 2, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Citizenship is full legal membership of a state, carrying the entitlement to its protection and the obligation to obey its laws.</li><li>Loss of Citizenship Renunciation (s.29) \u2014 voluntary declaration by an adult of full capacity.</li><li>Acquisition of the citizenship of another state, where the law requires renunciation.</li><li>Dual citizenship: section 28 allows a Nigerian by birth to hold another citizenship, but a citizen by registration or naturalisation forfeits Nigerian citizenship if he acquires another.</li><li>Jus sanguinis means right of blood \u2014 citizenship follows descent.</li></ul><h4>Worked example</h4><p><b>Q:</b> Citizenship acquired because one's parent is a citizen illustrates:<br/><b>A:</b> Jus sanguinis \u2014 Jus sanguinis means right of blood \u2014 citizenship follows descent.</p><p><b>Q:</b> Dual citizenship in Nigeria is permitted for citizens by:<br/><b>A:</b> Birth \u2014 Section 28 restricts dual citizenship to citizens by birth.</p>",
+      "examples": [
+        {
+          "q": "Citizenship acquired because one's parent is a citizen illustrates:",
+          "a": "Jus sanguinis \u2014 Jus sanguinis means right of blood \u2014 citizenship follows descent."
+        },
+        {
+          "q": "Dual citizenship in Nigeria is permitted for citizens by:",
+          "a": "Birth \u2014 Section 28 restricts dual citizenship to citizens by birth."
+        }
+      ]
+    },
+    {
+      "title": "Methods of acquiring citizenship",
+      "html": "<p><b>Methods of acquiring citizenship</b> is a key part of Citizenship, Human Rights, and Civic Duties (SSS 2, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Citizenship is full legal membership of a state, carrying the entitlement to its protection and the obligation to obey its laws.</li><li>Methods of Acquisition (Chapter III, 1999 Constitution) Method Constitutional basis Explanation By birth s.25 A person born in Nigeria before independence whose parent or grandparent belongs to an indigenous community; or born in Nigeria after independence with a Nigerian parent or grandparent; or born outside Nigeria to a Nigerian parent By registration s.26 A woman married to a Nigerian citizen, or a person of full age and capacity whose grandparent is a Nigerian citizen \u2014 subject to good character, clear intention to be domiciled, and the oath of allegiance By naturalisation s.27 An adult of good character who has resided in Nigeria for at least fifteen years (including the twelve months immediately preceding), is acceptable to the local community, has made a useful contribution and intends to reside permanently Other principles used worldwide: jus soli (right of the soil \u2014 place of birth) and jus sanguinis (right of blood \u2014 parentage).</li><li>Loss of Citizenship Renunciation (s.29) \u2014 voluntary declaration by an adult of full capacity.</li><li>Acquisition of the citizenship of another state, where the law requires renunciation.</li><li>Dual citizenship: section 28 allows a Nigerian by birth to hold another citizenship, but a citizen by registration or naturalisation forfeits Nigerian citizenship if he acquires another.</li></ul><h4>Worked example</h4><p><b>Q:</b> Citizenship acquired because one's parent is a citizen illustrates:<br/><b>A:</b> Jus sanguinis \u2014 Jus sanguinis means right of blood \u2014 citizenship follows descent.</p><p><b>Q:</b> Dual citizenship in Nigeria is permitted for citizens by:<br/><b>A:</b> Birth \u2014 Section 28 restricts dual citizenship to citizens by birth.</p>",
+      "examples": [
+        {
+          "q": "Citizenship acquired because one's parent is a citizen illustrates:",
+          "a": "Jus sanguinis \u2014 Jus sanguinis means right of blood \u2014 citizenship follows descent."
+        },
+        {
+          "q": "Dual citizenship in Nigeria is permitted for citizens by:",
+          "a": "Birth \u2014 Section 28 restricts dual citizenship to citizens by birth."
+        }
+      ]
+    },
+    {
+      "title": "Dual citizenship in Nigerian law",
+      "html": "<p><b>Dual citizenship in Nigerian law</b> is a key part of Citizenship, Human Rights, and Civic Duties (SSS 2, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Citizenship is full legal membership of a state, carrying the entitlement to its protection and the obligation to obey its laws.</li><li>Methods of Acquisition (Chapter III, 1999 Constitution) Method Constitutional basis Explanation By birth s.25 A person born in Nigeria before independence whose parent or grandparent belongs to an indigenous community; or born in Nigeria after independence with a Nigerian parent or grandparent; or born outside Nigeria to a Nigerian parent By registration s.26 A woman married to a Nigerian citizen, or a person of full age and capacity whose grandparent is a Nigerian citizen \u2014 subject to good character, clear intention to be domiciled, and the oath of allegiance By naturalisation s.27 An adult of good character who has resided in Nigeria for at least fifteen years (including the twelve months immediately preceding), is acceptable to the local community, has made a useful contribution and intends to reside permanently Other principles used worldwide: jus soli (right of the soil \u2014 place of birth) and jus sanguinis (right of blood \u2014 parentage).</li><li>Loss of Citizenship Renunciation (s.29) \u2014 voluntary declaration by an adult of full capacity.</li><li>Acquisition of the citizenship of another state, where the law requires renunciation.</li><li>Dual citizenship: section 28 allows a Nigerian by birth to hold another citizenship, but a citizen by registration or naturalisation forfeits Nigerian citizenship if he acquires another.</li></ul><h4>Worked example</h4><p><b>Q:</b> Citizenship acquired because one's parent is a citizen illustrates:<br/><b>A:</b> Jus sanguinis \u2014 Jus sanguinis means right of blood \u2014 citizenship follows descent.</p><p><b>Q:</b> Dual citizenship in Nigeria is permitted for citizens by:<br/><b>A:</b> Birth \u2014 Section 28 restricts dual citizenship to citizens by birth.</p>",
+      "examples": [
+        {
+          "q": "Citizenship acquired because one's parent is a citizen illustrates:",
+          "a": "Jus sanguinis \u2014 Jus sanguinis means right of blood \u2014 citizenship follows descent."
+        },
+        {
+          "q": "Dual citizenship in Nigeria is permitted for citizens by:",
+          "a": "Birth \u2014 Section 28 restricts dual citizenship to citizens by birth."
+        }
+      ]
+    },
+    {
+      "title": "Rights of citizens and their limitations",
+      "html": "<p><b>Rights of citizens and their limitations</b> is a key part of Citizenship, Human Rights, and Civic Duties (SSS 2, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Meaning Citizenship is full legal membership of a state, carrying the entitlement to its protection and the obligation to obey its laws.</li><li>A citizen enjoys full political rights (voting, holding office); an alien is a person residing in a state of which he is not a citizen.</li><li>Loss of Citizenship Renunciation (s.29) \u2014 voluntary declaration by an adult of full capacity.</li><li>Acquisition of the citizenship of another state, where the law requires renunciation.</li><li>Dual citizenship: section 28 allows a Nigerian by birth to hold another citizenship, but a citizen by registration or naturalisation forfeits Nigerian citizenship if he acquires another.</li></ul><h4>Worked example</h4><p><b>Q:</b> Dual citizenship in Nigeria is permitted for citizens by:<br/><b>A:</b> Birth \u2014 Section 28 restricts dual citizenship to citizens by birth.</p><p><b>Q:</b> A person residing in a state of which he is not a citizen is an:<br/><b>A:</b> Alien \u2014 Aliens enjoy protection of the law but lack full political rights.</p>",
+      "examples": [
+        {
+          "q": "Dual citizenship in Nigeria is permitted for citizens by:",
+          "a": "Birth \u2014 Section 28 restricts dual citizenship to citizens by birth."
+        },
+        {
+          "q": "A person residing in a state of which he is not a citizen is an:",
+          "a": "Alien \u2014 Aliens enjoy protection of the law but lack full political rights."
         }
       ]
     }
@@ -52,7 +108,9 @@
         "Registration"
       ],
       "answer": 1,
-      "solution": "Jus sanguinis means right of blood — citizenship follows descent."
+      "solution": "Jus sanguinis means right of blood \u2014 citizenship follows descent.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Naturalisation in Nigeria requires residence of at least:",
@@ -63,7 +121,9 @@
         "20 years"
       ],
       "answer": 2,
-      "solution": "Section 27 requires fifteen years' residence, including the twelve months immediately preceding the application."
+      "solution": "Section 27 requires fifteen years' residence, including the twelve months immediately preceding the application.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Dual citizenship in Nigeria is permitted for citizens by:",
@@ -74,7 +134,9 @@
         "Honour"
       ],
       "answer": 0,
-      "solution": "Section 28 restricts dual citizenship to citizens by birth."
+      "solution": "Section 28 restricts dual citizenship to citizens by birth.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A person residing in a state of which he is not a citizen is an:",
@@ -85,7 +147,9 @@
         "Elector"
       ],
       "answer": 0,
-      "solution": "Aliens enjoy protection of the law but lack full political rights."
+      "solution": "Aliens enjoy protection of the law but lack full political rights.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which chapter of the 1999 Constitution deals with citizenship?",
@@ -96,7 +160,9 @@
         "Chapter IV"
       ],
       "answer": 2,
-      "solution": "Chapter III, sections 25–32, governs citizenship."
+      "solution": "Chapter III, sections 25\u201332, governs citizenship.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Voluntary giving up of citizenship is:",
@@ -107,7 +173,9 @@
         "Registration"
       ],
       "answer": 1,
-      "solution": "Renunciation under section 29 is the citizen's own declaration."
+      "solution": "Renunciation under section 29 is the citizen's own declaration.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a duty rather than a right of the citizen?",
@@ -118,7 +186,9 @@
         "Right to life"
       ],
       "answer": 0,
-      "solution": "Taxation is an obligation owed to the state."
+      "solution": "Taxation is an obligation owed to the state.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Deprivation of citizenship may apply to a person who is a citizen by:",
@@ -129,7 +199,9 @@
         "Blood"
       ],
       "answer": 1,
-      "solution": "Section 30 permits deprivation only for registered or naturalised citizens, e.g. for disloyalty."
+      "solution": "Section 30 permits deprivation only for registered or naturalised citizens, e.g. for disloyalty.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The right to vote and be voted for is a:",
@@ -140,7 +212,9 @@
         "Economic right"
       ],
       "answer": 1,
-      "solution": "Political rights concern participation in the choice and exercise of government power."
+      "solution": "Political rights concern participation in the choice and exercise of government power.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Consular assistance abroad is an obligation of the:",
@@ -151,7 +225,9 @@
         "United Nations"
       ],
       "answer": 1,
-      "solution": "A state protects its nationals abroad through its embassies and consulates."
+      "solution": "A state protects its nationals abroad through its embassies and consulates.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A woman married to a Nigerian may acquire citizenship by:",
@@ -162,7 +238,9 @@
         "Adoption"
       ],
       "answer": 1,
-      "solution": "Section 26(2)(a) provides for registration of a woman married to a Nigerian citizen."
+      "solution": "Section 26(2)(a) provides for registration of a woman married to a Nigerian citizen.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Rights and duties are said to be:",
@@ -173,7 +251,9 @@
         "Optional"
       ],
       "answer": 1,
-      "solution": "Every right implies a corresponding duty on the citizen and the state."
+      "solution": "Every right implies a corresponding duty on the citizen and the state.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which state obligation is directly served by the police?",
@@ -184,7 +264,9 @@
         "Constitutional amendment"
       ],
       "answer": 0,
-      "solution": "Internal security is a core obligation performed through the police."
+      "solution": "Internal security is a core obligation performed through the police.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A citizen who exposes corruption is exercising the right to:",
@@ -195,7 +277,9 @@
         "Property"
       ],
       "answer": 0,
-      "solution": "Freedom of expression covers criticism of government and disclosure of wrongdoing."
+      "solution": "Freedom of expression covers criticism of government and disclosure of wrongdoing.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Jus soli means citizenship by:",
@@ -206,7 +290,9 @@
         "Purchase"
       ],
       "answer": 1,
-      "solution": "Jus soli, the right of the soil, confers citizenship on those born within the territory."
+      "solution": "Jus soli, the right of the soil, confers citizenship on those born within the territory.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "National service under the NYSC illustrates the citizen's duty to:",
@@ -217,7 +303,451 @@
         "Own property"
       ],
       "answer": 0,
-      "solution": "Rendering national service is a civic obligation encouraged by the constitution."
+      "solution": "Rendering national service is a civic obligation encouraged by the constitution.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The process of depriving a person of their citizenship is known as _____.",
+      "options": [
+        "Deportation",
+        "Denaturalization",
+        "Expatriation",
+        "Disenfranchisement"
+      ],
+      "answer": 1,
+      "solution": "Denaturalization is the legal act of stripping a person of citizenship, usually for those who acquired it through naturalization.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "Citizenship can be acquired by all EXCEPT:",
+      "options": [
+        "Birth",
+        "Registration",
+        "Naturalization",
+        "Conquest"
+      ],
+      "answer": 3,
+      "solution": "Past question (JAMB 2022). Correct answer: Conquest.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Citizenship can be acquired by:",
+      "options": [
+        "Birth, Registration, Naturalization",
+        "Buying, Selling, Renting",
+        "Voting, Singing, Dancing",
+        "None"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2023). Correct answer: Birth, Registration, Naturalization.",
+      "source": "JAMB 2023",
+      "practice": false
+    },
+    {
+      "q": "The process of withdrawing a lawmaker from the legislature by their constituents is _____.",
+      "options": [
+        "Impeachment",
+        "Recall",
+        "Resignation",
+        "Dissolution"
+      ],
+      "answer": 1,
+      "solution": "Recall is a democratic procedure that allows voters to remove an elected official from office before their term expires.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The Nigerian Civil War started in:",
+      "options": [
+        "1966",
+        "1967",
+        "1970",
+        "1963"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: 1967.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The first Nigerian President to die in office was...",
+      "options": [
+        "Murtala Muhammed",
+        "Umaru Musa Yar'Adua",
+        "Sani Abacha",
+        "Nnamdi Azikiwe"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Umaru Musa Yar'Adua.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The right of citizens to vote and be voted for is:",
+      "options": [
+        "Franchise",
+        "Sovereignty",
+        "Feudalism",
+        "Socialism"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2025). Correct answer: Franchise.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "The Nigerian Civil War ended in:",
+      "options": [
+        "1967",
+        "1970",
+        "1960",
+        "1975"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: 1970.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "How many members are in the Nigerian Senate?",
+      "options": [
+        "360",
+        "109",
+        "400",
+        "100"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 109.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The supreme law-making body under the Babangida military regime was the?",
+      "options": [
+        "Supreme Military Council (SMC)",
+        "Armed Forces Ruling Council (AFRC)",
+        "Provisional Ruling Council (PRC)",
+        "Federal Executive Council (FEC)"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Armed Forces Ruling Council (AFRC).",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "How many members are in the Nigerian House of Representatives?",
+      "options": [
+        "109",
+        "400",
+        "469",
+        "360"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 360.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Which Nigerian leader was the first to serve as the Chairman of the African Union?",
+      "options": [
+        "Ibrahim Babangida",
+        "Sani Abacha",
+        "Muhammadu Buhari",
+        "Olusegun Obasanjo"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Olusegun Obasanjo.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Who was the first Nigerian to serve as the Commonwealth Secretary-General?",
+      "options": [
+        "Joseph Garba",
+        "Ibrahim Gambari",
+        "Ken Nnamani",
+        "Emeka Anyaoku"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Emeka Anyaoku.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The administrative headquarters of the United Nations is located in _____.",
+      "options": [
+        "Geneva",
+        "London",
+        "New York",
+        "Washington D.C."
+      ],
+      "answer": 2,
+      "solution": "The UN headquarters is in New York City, USA, where the General Assembly and Security Council primarily meet.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The term of office for the Secretary-General of the Commonwealth is _____.",
+      "options": [
+        "three years",
+        "four years",
+        "five years",
+        "six years"
+      ],
+      "answer": 1,
+      "solution": "The Commonwealth Secretary-General serves a four-year term and is eligible for re-election only once.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The primary aim of the Economic Community of West African States (ECOWAS) is _____.",
+      "options": [
+        "military defense",
+        "economic integration",
+        "cultural exchange",
+        "political unification"
+      ],
+      "answer": 1,
+      "solution": "ECOWAS was established in 1975 primarily to promote cooperation and integration in economic, social, and cultural activity in West Africa.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Delegated legislation is made by _____.",
+      "options": [
+        "the Judiciary",
+        "the Legislature",
+        "administrative bodies",
+        "political parties"
+      ],
+      "answer": 2,
+      "solution": "Delegated legislation (also known as subordinate legislation) is law made by an executive authority under powers given to them by an Act of the Legislature.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The African Union (AU) was established in 2002 to replace the _____.",
+      "options": [
+        "ECA",
+        "OAU",
+        "ECOWAS",
+        "SADC"
+      ],
+      "answer": 1,
+      "solution": "The AU replaced the Organization of African Unity (OAU) to better address the challenges of integration and development on the continent.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Which of the following is an obligation of a citizen?",
+      "options": [
+        "Right to life",
+        "Freedom of speech",
+        "Payment of taxes",
+        "Right to fair hearing"
+      ],
+      "answer": 2,
+      "solution": "Citizens have duties or obligations to the state, such as paying taxes, obeying laws, and voting, which are different from their rights/claims.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The 'Oyo Mesi' were _____ in the pre-colonial Oyo Empire.",
+      "options": [
+        "tax collectors",
+        "palace guards",
+        "king makers",
+        "religious leaders"
+      ],
+      "answer": 2,
+      "solution": "The Oyo Mesi was a council of seven chiefs who acted as king-makers and provided checks on the Alaafin's power.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Universal Adult Suffrage means the right of _____.",
+      "options": [
+        "all adults to vote",
+        "only men to vote",
+        "only taxpayers to vote",
+        "only educated people to vote"
+      ],
+      "answer": 0,
+      "solution": "Suffrage refers to the right to vote. Universal adult suffrage ensures that all qualified adults can vote regardless of property or gender.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The main objective of the Commonwealth of Nations is _____.",
+      "options": [
+        "to establish a global government",
+        "to foster cooperation among former British colonies",
+        "to promote a single currency",
+        "to replace the United Nations"
+      ],
+      "answer": 1,
+      "solution": "The Commonwealth is a voluntary association of independent states, most of which were formerly under British rule, collaborating on social and economic goals.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A disadvantage of a one-party system is that it _____.",
+      "options": [
+        "is very expensive",
+        "leads to political instability",
+        "promotes dictatorship",
+        "causes frequent elections"
+      ],
+      "answer": 2,
+      "solution": "Because there is no legal opposition, a one-party system often leads to the suppression of dissenting voices and the rise of authoritarianism.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "In the pre-colonial Hausa/Fulani system, the head of a district was the _____.",
+      "options": [
+        "Hakimi",
+        "Alkili",
+        "Galadima",
+        "Dogari"
+      ],
+      "answer": 0,
+      "solution": "The Hakimi was the district head appointed by the Emir to oversee a specific area within the Emirate.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Non-alignment as a foreign policy means _____.",
+      "options": [
+        "joining all military alliances",
+        "not taking sides in the Cold War between East and West",
+        "complete isolation from world affairs",
+        "supporting only African nations"
+      ],
+      "answer": 1,
+      "solution": "The Non-Aligned Movement (NAM) was formed by countries that did not want to be formally aligned with either the USA-led or the Soviet-led blocs.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The primary purpose of the Civil Service Commission is to _____.",
+      "options": [
+        "make laws for the country",
+        "recruit and manage civil servants",
+        "campaign for the ruling party",
+        "adjudicate criminal cases"
+      ],
+      "answer": 1,
+      "solution": "The Commission is an independent body that ensures merit-based recruitment, promotion, and discipline of workers in the civil service.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Bicameralism refers to _____.",
+      "options": [
+        "government by two political parties",
+        "a legislature with two houses",
+        "separation of powers between two organs",
+        "a federation with two regions"
+      ],
+      "answer": 1,
+      "solution": "Bicameralism is the practice of having two legislative or parliamentary chambers (e.g., the Senate and House of Representatives).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "In the pre-colonial Igbo system, the 'Ofo' was a symbol of _____.",
+      "options": [
+        "military strength",
+        "wealth",
+        "authority and justice",
+        "youthful energy"
+      ],
+      "answer": 2,
+      "solution": "The Ofo was a sacred staff representing the authority of the ancestors and the principle of truth and justice in Igbo traditional society.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A 'Confederation' is a system where _____.",
+      "options": [
+        "the center is very strong",
+        "component units are more powerful than the center",
+        "power is shared equally",
+        "there is only one level of government"
+      ],
+      "answer": 1,
+      "solution": "In a confederation, independent states unite for common purposes but retain their individual sovereignty, making the central authority weak.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The headquarters of the African Union (AU) is in _____.",
+      "options": [
+        "Lagos",
+        "Cairo",
+        "Addis Ababa",
+        "Nairobi"
+      ],
+      "answer": 2,
+      "solution": "Addis Ababa, Ethiopia, is the capital of the AU, inherited from the OAU.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Gerrymandering is a term used in _____.",
+      "options": [
+        "Judicial proceedings",
+        "Electoral practice",
+        "Legislative debate",
+        "Budgeting"
+      ],
+      "answer": 1,
+      "solution": "Gerrymandering is the manipulation of electoral boundaries to favor one political party over another.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The first President of the OAU was _____.",
+      "options": [
+        "Kwame Nkrumah",
+        "Haile Selassie",
+        "Julius Nyerere",
+        "Jomo Kenyatta"
+      ],
+      "answer": 1,
+      "solution": "Emperor Haile Selassie of Ethiopia served as the first chairperson of the OAU in 1963.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "A bureaucratic organization is characterized by _____.",
+      "options": [
+        "informality",
+        "hierarchy of authority",
+        "partisan recruitment",
+        "flexible rules"
+      ],
+      "answer": 1,
+      "solution": "Bureaucracy is defined by a clear hierarchy, division of labor, and adherence to formal rules and procedures.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The permanent members of the UN Security Council are _____.",
+      "options": [
+        "3",
+        "5",
+        "10",
+        "15"
+      ],
+      "answer": 1,
+      "solution": "There are 5 permanent members and 10 non-permanent members elected for two-year terms.",
+      "source": "WAEC 2024",
+      "practice": false
     }
   ]
 }

@@ -7,12 +7,12 @@
     "Noun, adjectival and adverbial phrases and clauses",
     "Rules of concord (grammatical, proximity, notional, mathematical)",
     "Perfect and perfect continuous tenses",
-    "Adverbs — types, position and comparison"
+    "Adverbs \u2014 types, position and comparison"
   ],
   "modules": [
     {
       "title": "Phrases and clauses",
-      "html": "<p>A <b>phrase</b> is a group of related words without a subject-verb pair. A <b>clause</b> has both a subject and a finite verb. Phrases and clauses are classified by the job they do — like a noun, an adjective or an adverb.</p>\n  <h4>1. Noun phrase / noun clause</h4>\n  <ul><li>Noun phrase: <i>The tall boy in blue</i> won the race. (subject)</li>\n  <li>Noun clause: <i>That he came late</i> annoyed the teacher. (subject)</li></ul>\n  <h4>2. Adjectival (adjective) phrase / clause</h4>\n  <ul><li>Adjectival phrase (modifies a noun): <i>The book on the table</i> is mine.</li>\n  <li>Adjective clause (relative): The girl <i>who won the prize</i> is my sister.</li></ul>\n  <h4>3. Adverbial phrase / clause</h4>\n  <ul><li>Adverbial phrase: She spoke <i>in a loud voice</i>. (manner)</li>\n  <li>Adverbial clause: I stayed at home <i>because it was raining</i>. (reason)</li></ul>\n  <p>Common adverbial clause types: <b>time</b> (when, before), <b>reason</b> (because, since), <b>condition</b> (if, unless), <b>concession</b> (although, though), <b>purpose</b> (so that), <b>result</b> (so…that, so that), <b>comparison</b> (than, as…as).</p>",
+      "html": "<p>A <b>phrase</b> is a group of related words without a subject-verb pair. A <b>clause</b> has both a subject and a finite verb. Phrases and clauses are classified by the job they do \u2014 like a noun, an adjective or an adverb.</p>\n  <h4>1. Noun phrase / noun clause</h4>\n  <ul><li>Noun phrase: <i>The tall boy in blue</i> won the race. (subject)</li>\n  <li>Noun clause: <i>That he came late</i> annoyed the teacher. (subject)</li></ul>\n  <h4>2. Adjectival (adjective) phrase / clause</h4>\n  <ul><li>Adjectival phrase (modifies a noun): <i>The book on the table</i> is mine.</li>\n  <li>Adjective clause (relative): The girl <i>who won the prize</i> is my sister.</li></ul>\n  <h4>3. Adverbial phrase / clause</h4>\n  <ul><li>Adverbial phrase: She spoke <i>in a loud voice</i>. (manner)</li>\n  <li>Adverbial clause: I stayed at home <i>because it was raining</i>. (reason)</li></ul>\n  <p>Common adverbial clause types: <b>time</b> (when, before), <b>reason</b> (because, since), <b>condition</b> (if, unless), <b>concession</b> (although, though), <b>purpose</b> (so that), <b>result</b> (so\u2026that, so that), <b>comparison</b> (than, as\u2026as).</p>",
       "examples": [
         {
           "q": "Identify the function of the underlined clause: <i>The man <u>who spoke first</u> is the chairman.</i>",
@@ -21,32 +21,60 @@
       ]
     },
     {
-      "title": "Concord (subject–verb agreement)",
-      "html": "<p><b>Concord</b> is the grammatical agreement between subject and verb (also pronoun and antecedent).</p>\n  <h4>Common rules</h4>\n  <ol>\n    <li><b>Singular subject → singular verb; plural subject → plural verb.</b> <i>The girl <b>sings</b>. The girls <b>sing</b>.</i></li>\n    <li><b>Two subjects joined by <i>and</i></b> take a plural verb: <i>Ada and Musa <b>are</b> here.</i></li>\n    <li><b>Two singular subjects joined by <i>or / nor / either…or / neither…nor</i></b> take a singular verb; if one is plural, the verb agrees with the nearer subject (<b>rule of proximity</b>): <i>Neither the teacher nor the students <b>are</b> ready.</i></li>\n    <li><b>Collective nouns</b> take a singular verb when the group acts together, plural when members act individually.</li>\n    <li><b>Indefinite pronouns</b> like <i>each, either, neither, everyone, somebody, nothing</i> take a singular verb.</li>\n    <li><b>Notional concord</b>: certain words are singular in form but plural in sense (or vice versa) — <i>The police <b>are</b>…</i>; <i>Mathematics <b>is</b>…</i>.</li>\n    <li><b>Mathematical concord</b>: <i>Two and two <b>is</b> four</i> (treated as a single sum).</li>\n  </ol>",
+      "title": "Concord (subject\u2013verb agreement)",
+      "html": "<p><b>Concord</b> is the grammatical agreement between subject and verb (also pronoun and antecedent).</p>\n  <h4>Common rules</h4>\n  <ol>\n    <li><b>Singular subject \u2192 singular verb; plural subject \u2192 plural verb.</b> <i>The girl <b>sings</b>. The girls <b>sing</b>.</i></li>\n    <li><b>Two subjects joined by <i>and</i></b> take a plural verb: <i>Ada and Musa <b>are</b> here.</i></li>\n    <li><b>Two singular subjects joined by <i>or / nor / either\u2026or / neither\u2026nor</i></b> take a singular verb; if one is plural, the verb agrees with the nearer subject (<b>rule of proximity</b>): <i>Neither the teacher nor the students <b>are</b> ready.</i></li>\n    <li><b>Collective nouns</b> take a singular verb when the group acts together, plural when members act individually.</li>\n    <li><b>Indefinite pronouns</b> like <i>each, either, neither, everyone, somebody, nothing</i> take a singular verb.</li>\n    <li><b>Notional concord</b>: certain words are singular in form but plural in sense (or vice versa) \u2014 <i>The police <b>are</b>\u2026</i>; <i>Mathematics <b>is</b>\u2026</i>.</li>\n    <li><b>Mathematical concord</b>: <i>Two and two <b>is</b> four</i> (treated as a single sum).</li>\n  </ol>",
       "examples": [
         {
           "q": "Correct or wrong? <i>Every one of the boys are present.</i>",
-          "a": "Wrong — <i>every one</i> is singular; use <b>is</b>."
+          "a": "Wrong \u2014 <i>every one</i> is singular; use <b>is</b>."
         }
       ]
     },
     {
-      "title": "Verb tenses — perfect and perfect continuous",
+      "title": "Verb tenses \u2014 perfect and perfect continuous",
       "html": "<p>The <b>perfect</b> tenses use <b>have/has/had + past participle</b> to link an action to another time. The <b>perfect continuous</b> tenses use <b>have/has/had + been + -ing</b> to emphasise duration.</p>\n  <table style=\"width:100%;border-collapse:collapse\"><tr><th style=\"text-align:left;padding:4px 8px\">Tense</th><th style=\"padding:4px 8px\">Form</th><th style=\"padding:4px 8px\">Example</th></tr>\n  <tr><td style=\"padding:4px 8px\">Present perfect</td><td>have/has + past participle</td><td>She has written the letter.</td></tr>\n  <tr><td style=\"padding:4px 8px\">Past perfect</td><td>had + past participle</td><td>She had written before I arrived.</td></tr>\n  <tr><td style=\"padding:4px 8px\">Future perfect</td><td>will have + past participle</td><td>She will have written by noon.</td></tr>\n  <tr><td style=\"padding:4px 8px\">Present perfect continuous</td><td>have/has been + -ing</td><td>She has been writing for two hours.</td></tr>\n  <tr><td style=\"padding:4px 8px\">Past perfect continuous</td><td>had been + -ing</td><td>She had been writing when the light went out.</td></tr>\n  <tr><td style=\"padding:4px 8px\">Future perfect continuous</td><td>will have been + -ing</td><td>By noon she will have been writing for three hours.</td></tr></table>",
       "examples": [
         {
           "q": "Complete: <i>By next month I ______ (finish) the project.</i>",
-          "a": "<b>will have finished</b> — future perfect."
+          "a": "<b>will have finished</b> \u2014 future perfect."
         }
       ]
     },
     {
-      "title": "Adverbs — types, position, comparison",
-      "html": "<p>An <b>adverb</b> modifies a verb, adjective, another adverb or a whole sentence.</p>\n  <h4>Types</h4>\n  <ul><li>Manner: <i>quickly</i>. Place: <i>here</i>. Time: <i>yesterday</i>. Frequency: <i>often</i>. Degree: <i>very</i>. Focusing: <i>only, even</i>. Sentence: <i>fortunately</i>.</li></ul>\n  <h4>Position</h4>\n  <ul><li>Adverbs of frequency go before the main verb: <i>She <b>often</b> visits her aunt</i>; but after the verb <i>be</i>: <i>She is <b>often</b> late</i>.</li>\n  <li>Adverbs of manner usually go after the object: <i>He spoke to us <b>politely</b></i>.</li></ul>\n  <h4>Comparison</h4>\n  <ul><li>Most short adverbs: <i>fast → faster → fastest</i>.</li>\n  <li>Most -ly adverbs: <i>carefully → more carefully → most carefully</i>.</li>\n  <li>Irregular: <i>well → better → best; badly → worse → worst; little → less → least; much → more → most</i>.</li></ul>",
+      "title": "Adverbs \u2014 types, position, comparison",
+      "html": "<p>An <b>adverb</b> modifies a verb, adjective, another adverb or a whole sentence.</p>\n  <h4>Types</h4>\n  <ul><li>Manner: <i>quickly</i>. Place: <i>here</i>. Time: <i>yesterday</i>. Frequency: <i>often</i>. Degree: <i>very</i>. Focusing: <i>only, even</i>. Sentence: <i>fortunately</i>.</li></ul>\n  <h4>Position</h4>\n  <ul><li>Adverbs of frequency go before the main verb: <i>She <b>often</b> visits her aunt</i>; but after the verb <i>be</i>: <i>She is <b>often</b> late</i>.</li>\n  <li>Adverbs of manner usually go after the object: <i>He spoke to us <b>politely</b></i>.</li></ul>\n  <h4>Comparison</h4>\n  <ul><li>Most short adverbs: <i>fast \u2192 faster \u2192 fastest</i>.</li>\n  <li>Most -ly adverbs: <i>carefully \u2192 more carefully \u2192 most carefully</i>.</li>\n  <li>Irregular: <i>well \u2192 better \u2192 best; badly \u2192 worse \u2192 worst; little \u2192 less \u2192 least; much \u2192 more \u2192 most</i>.</li></ul>",
       "examples": [
         {
           "q": "Comparative and superlative of <i>badly</i>?",
-          "a": "<i>badly → worse → worst</i>."
+          "a": "<i>badly \u2192 worse \u2192 worst</i>."
+        }
+      ]
+    },
+    {
+      "title": "Noun, adjectival and adverbial phrases and clauses",
+      "html": "<p><b>Noun, adjectival and adverbial phrases and clauses</b> is a key part of Grammar and Structure (SSS 2, English). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Phrases and clauses are classified by the job they do \u2014 like a noun, an adjective or an adverb.</li><li>Noun phrase / noun clause Noun phrase: The tall boy in blue won the race.</li><li>(subject) Noun clause: That he came late annoyed the teacher.</li><li>Adjectival (adjective) phrase / clause Adjectival phrase (modifies a noun): The book on the table is mine.</li><li>Adverbial phrase / clause Adverbial phrase: She spoke in a loud voice .</li></ul><h4>Worked example</h4><p><b>Q:</b> Identify the noun clause: <i>What she said surprised everyone.</i><br/><b>A:</b> What she said \u2014 'What she said' functions as the subject.</p><p><b>Q:</b> <i>The jury _____ divided in its opinion.</i><br/><b>A:</b> is \u2014 Collective noun acting as a body \u2014 singular.</p>",
+      "examples": [
+        {
+          "q": "Identify the noun clause: <i>What she said surprised everyone.</i>",
+          "a": "What she said \u2014 'What she said' functions as the subject."
+        },
+        {
+          "q": "<i>The jury _____ divided in its opinion.</i>",
+          "a": "is \u2014 Collective noun acting as a body \u2014 singular."
+        }
+      ]
+    },
+    {
+      "title": "Rules of concord (grammatical, proximity, notional, mathematical)",
+      "html": "<p><b>Rules of concord (grammatical, proximity, notional, mathematical)</b> is a key part of Grammar and Structure (SSS 2, English). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Concord is the grammatical agreement between subject and verb (also pronoun and antecedent).</li><li>Common rules Singular subject \u2192 singular verb; plural subject \u2192 plural verb.</li><li>Two singular subjects joined by or / nor / either\u2026or / neither\u2026nor take a singular verb; if one is plural, the verb agrees with the nearer subject ( rule of proximity ): Neither the teacher nor the students are ready.</li><li>Notional concord : certain words are singular in form but plural in sense (or vice versa) \u2014 The police are \u2026 ; Mathematics is \u2026 .</li><li>Mathematical concord : Two and two is four (treated as a single sum).</li></ul><h4>Worked example</h4><p><b>Q:</b> Choose the correct verb: <i>Neither the teacher nor the students _____ ready.</i><br/><b>A:</b> are \u2014 Rule of proximity \u2014 <i>students</i> is plural.</p><p><b>Q:</b> <i>Mathematics _____ my favourite subject.</i><br/><b>A:</b> is \u2014 Notional \u2014 singular subject.</p>",
+      "examples": [
+        {
+          "q": "Choose the correct verb: <i>Neither the teacher nor the students _____ ready.</i>",
+          "a": "are \u2014 Rule of proximity \u2014 <i>students</i> is plural."
+        },
+        {
+          "q": "<i>Mathematics _____ my favourite subject.</i>",
+          "a": "is \u2014 Notional \u2014 singular subject."
         }
       ]
     }
@@ -61,7 +89,9 @@
         "only a noun"
       ],
       "answer": 1,
-      "solution": "Clause = subject + finite verb."
+      "solution": "Clause = subject + finite verb.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Because it was raining</i> is a(n):",
@@ -72,7 +102,9 @@
         "noun clause"
       ],
       "answer": 1,
-      "solution": "Introduced by <i>because</i>."
+      "solution": "Introduced by <i>because</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Identify the noun clause: <i>What she said surprised everyone.</i>",
@@ -83,7 +115,9 @@
         "everyone"
       ],
       "answer": 0,
-      "solution": "'What she said' functions as the subject."
+      "solution": "'What she said' functions as the subject.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The girl who won the prize is my sister.</i> The underlined clause is:",
@@ -94,7 +128,9 @@
         "independent"
       ],
       "answer": 1,
-      "solution": "It modifies <i>girl</i>."
+      "solution": "It modifies <i>girl</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose the correct verb: <i>Neither the teacher nor the students _____ ready.</i>",
@@ -105,7 +141,9 @@
         "has"
       ],
       "answer": 1,
-      "solution": "Rule of proximity — <i>students</i> is plural."
+      "solution": "Rule of proximity \u2014 <i>students</i> is plural.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Each of the students _____ a book.</i>",
@@ -116,7 +154,9 @@
         "were"
       ],
       "answer": 1,
-      "solution": "<i>Each</i> is singular."
+      "solution": "<i>Each</i> is singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The jury _____ divided in its opinion.</i>",
@@ -127,7 +167,9 @@
         "have been"
       ],
       "answer": 0,
-      "solution": "Collective noun acting as a body — singular."
+      "solution": "Collective noun acting as a body \u2014 singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The jury _____ arguing among themselves.</i>",
@@ -138,7 +180,9 @@
         "has"
       ],
       "answer": 1,
-      "solution": "Members acting individually — plural."
+      "solution": "Members acting individually \u2014 plural.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Mathematics _____ my favourite subject.</i>",
@@ -149,7 +193,9 @@
         "have been"
       ],
       "answer": 1,
-      "solution": "Notional — singular subject."
+      "solution": "Notional \u2014 singular subject.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The police _____ investigating the case.</i>",
@@ -160,7 +206,9 @@
         "has"
       ],
       "answer": 1,
-      "solution": "<i>Police</i> is plural in English."
+      "solution": "<i>Police</i> is plural in English.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Twenty naira _____ a small amount.</i>",
@@ -171,7 +219,9 @@
         "have been"
       ],
       "answer": 1,
-      "solution": "Money as a sum takes singular verb."
+      "solution": "Money as a sum takes singular verb.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Ten kilometres _____ a long distance.</i>",
@@ -182,7 +232,9 @@
         "were"
       ],
       "answer": 1,
-      "solution": "Distance as one unit — singular."
+      "solution": "Distance as one unit \u2014 singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Perfect tense uses:",
@@ -193,7 +245,9 @@
         "do + verb"
       ],
       "answer": 1,
-      "solution": "That is the perfect formula."
+      "solution": "That is the perfect formula.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>She has written the letter.</i> Tense is:",
@@ -204,7 +258,9 @@
         "present continuous"
       ],
       "answer": 2,
-      "solution": "has + written = present perfect."
+      "solution": "has + written = present perfect.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>They had left before I arrived.</i> Tense is:",
@@ -215,7 +271,9 @@
         "future perfect"
       ],
       "answer": 1,
-      "solution": "had + past participle."
+      "solution": "had + past participle.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>By 8 o'clock, we will have finished.</i> Tense is:",
@@ -226,7 +284,9 @@
         "future continuous"
       ],
       "answer": 2,
-      "solution": "will have + past participle."
+      "solution": "will have + past participle.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>She has been working since 6 a.m.</i> Tense is:",
@@ -237,7 +297,9 @@
         "future perfect continuous"
       ],
       "answer": 1,
-      "solution": "has been + -ing."
+      "solution": "has been + -ing.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>He had been reading for two hours when the light went out.</i> Tense is:",
@@ -248,7 +310,9 @@
         "past continuous"
       ],
       "answer": 1,
-      "solution": "had been + -ing."
+      "solution": "had been + -ing.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose correct: <i>Ada as well as her friends _____ present.</i>",
@@ -259,7 +323,9 @@
         "have been"
       ],
       "answer": 2,
-      "solution": "<i>As well as</i> does not add to the subject — singular."
+      "solution": "<i>As well as</i> does not add to the subject \u2014 singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose correct: <i>The number of applicants _____ growing.</i>",
@@ -270,7 +336,9 @@
         "were"
       ],
       "answer": 1,
-      "solution": "<i>The number of</i> is singular."
+      "solution": "<i>The number of</i> is singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose correct: <i>A number of students _____ absent.</i>",
@@ -281,7 +349,9 @@
         "has been"
       ],
       "answer": 1,
-      "solution": "<i>A number of</i> is plural."
+      "solution": "<i>A number of</i> is plural.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>None of the answers _____ correct.</i>",
@@ -292,7 +362,9 @@
         "were"
       ],
       "answer": 1,
-      "solution": "With plural noun after <i>of</i>, <i>none</i> takes plural verb."
+      "solution": "With plural noun after <i>of</i>, <i>none</i> takes plural verb.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Bread and butter _____ my breakfast.</i>",
@@ -303,7 +375,9 @@
         "were"
       ],
       "answer": 1,
-      "solution": "Compound noun treated as one item — singular."
+      "solution": "Compound noun treated as one item \u2014 singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Two and two _____ four.</i>",
@@ -314,10 +388,12 @@
         "was"
       ],
       "answer": 1,
-      "solution": "Mathematical concord — singular."
+      "solution": "Mathematical concord \u2014 singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Position the adverb: (often) — <i>She (often) visits her aunt.</i>",
+      "q": "Position the adverb: (often) \u2014 <i>She (often) visits her aunt.</i>",
       "options": [
         "before main verb",
         "after main verb",
@@ -325,10 +401,12 @@
         "start"
       ],
       "answer": 0,
-      "solution": "Adverbs of frequency go before the main verb."
+      "solution": "Adverbs of frequency go before the main verb.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Position the adverb: (often) — <i>She is (often) late.</i>",
+      "q": "Position the adverb: (often) \u2014 <i>She is (often) late.</i>",
       "options": [
         "before is",
         "after is",
@@ -336,7 +414,9 @@
         "end"
       ],
       "answer": 1,
-      "solution": "After the verb <i>be</i>."
+      "solution": "After the verb <i>be</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Comparative of <i>well</i>:",
@@ -347,7 +427,9 @@
         "best"
       ],
       "answer": 1,
-      "solution": "Irregular: well → better → best."
+      "solution": "Irregular: well \u2192 better \u2192 best.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Superlative of <i>little</i>:",
@@ -358,7 +440,9 @@
         "lesser"
       ],
       "answer": 2,
-      "solution": "little → less → least."
+      "solution": "little \u2192 less \u2192 least.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Comparative of <i>carefully</i>:",
@@ -369,7 +453,9 @@
         "carefullest"
       ],
       "answer": 1,
-      "solution": "Multi-syllable adverb uses <i>more</i>."
+      "solution": "Multi-syllable adverb uses <i>more</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is a sentence adverb?",
@@ -380,7 +466,9 @@
         "very"
       ],
       "answer": 1,
-      "solution": "<i>Fortunately</i> modifies the whole sentence."
+      "solution": "<i>Fortunately</i> modifies the whole sentence.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is an adverb of degree?",
@@ -391,7 +479,9 @@
         "here"
       ],
       "answer": 2,
-      "solution": "<i>Very</i> shows degree."
+      "solution": "<i>Very</i> shows degree.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is an adverb of frequency?",
@@ -402,7 +492,9 @@
         "today"
       ],
       "answer": 0,
-      "solution": "<i>Seldom</i> = how often."
+      "solution": "<i>Seldom</i> = how often.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Adverbial clause of condition begins with:",
@@ -413,7 +505,9 @@
         "when"
       ],
       "answer": 0,
-      "solution": "<i>If / unless</i> introduce condition."
+      "solution": "<i>If / unless</i> introduce condition.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Adverbial clause of concession begins with:",
@@ -424,7 +518,9 @@
         "so that"
       ],
       "answer": 0,
-      "solution": "<i>Although / though</i> = concession."
+      "solution": "<i>Although / though</i> = concession.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Adverbial clause of purpose begins with:",
@@ -435,7 +531,9 @@
         "although"
       ],
       "answer": 1,
-      "solution": "<i>So that</i> = purpose."
+      "solution": "<i>So that</i> = purpose.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sentence contains a noun clause?",
@@ -446,7 +544,9 @@
         "He arrived early."
       ],
       "answer": 1,
-      "solution": "<i>That he is honest</i> is the object noun clause."
+      "solution": "<i>That he is honest</i> is the object noun clause.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sentence contains an adjective clause?",
@@ -457,7 +557,9 @@
         "She sings sweetly."
       ],
       "answer": 1,
-      "solution": "<i>That I bought</i> modifies <i>house</i>."
+      "solution": "<i>That I bought</i> modifies <i>house</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is an adjectival phrase?",
@@ -468,7 +570,9 @@
         "that she came"
       ],
       "answer": 1,
-      "solution": "<i>On the table</i> modifies a noun."
+      "solution": "<i>On the table</i> modifies a noun.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sentence uses the past perfect correctly?",
@@ -479,7 +583,9 @@
         "She will have leave."
       ],
       "answer": 1,
-      "solution": "had + past participle + before-clause."
+      "solution": "had + past participle + before-clause.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sentence uses the present perfect correctly?",
@@ -490,7 +596,9 @@
         "I am seeing him already."
       ],
       "answer": 1,
-      "solution": "Present perfect with <i>already</i> — no exact past time."
+      "solution": "Present perfect with <i>already</i> \u2014 no exact past time.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>Neither of them _____ willing to help.</i>",
@@ -501,7 +609,9 @@
         "have been"
       ],
       "answer": 2,
-      "solution": "<i>Neither</i> = singular."
+      "solution": "<i>Neither</i> = singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The scissors _____ on the table.</i>",
@@ -512,7 +622,9 @@
         "has been"
       ],
       "answer": 1,
-      "solution": "<i>Scissors</i> is always plural."
+      "solution": "<i>Scissors</i> is always plural.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sentence follows the rule of proximity?",
@@ -523,7 +635,9 @@
         "Either you or he were wrong."
       ],
       "answer": 1,
-      "solution": "Verb agrees with <i>he</i> — the nearer subject."
+      "solution": "Verb agrees with <i>he</i> \u2014 the nearer subject.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>The team _____ won its match.</i>",
@@ -534,7 +648,9 @@
         "were"
       ],
       "answer": 0,
-      "solution": "Team acting as a unit — singular."
+      "solution": "Team acting as a unit \u2014 singular.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "<i>My family _____ having breakfast when I called.</i>",
@@ -545,7 +661,9 @@
         "has"
       ],
       "answer": 1,
-      "solution": "Members acting individually — plural."
+      "solution": "Members acting individually \u2014 plural.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which sentence is correct?",
@@ -556,7 +674,9 @@
         "Rarely he goes out."
       ],
       "answer": 0,
-      "solution": "Adverb of frequency before main verb."
+      "solution": "Adverb of frequency before main verb.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which of these adverbs shows manner?",
@@ -567,7 +687,9 @@
         "very"
       ],
       "answer": 1,
-      "solution": "<i>Quickly</i> — how something is done."
+      "solution": "<i>Quickly</i> \u2014 how something is done.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose correct: <i>She sings _____ than her brother.</i>",
@@ -578,7 +700,9 @@
         "more better"
       ],
       "answer": 0,
-      "solution": "Comparative of <i>well</i> = <i>better</i>."
+      "solution": "Comparative of <i>well</i> = <i>better</i>.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Choose the sentence with correct concord.",
@@ -589,18 +713,22 @@
         "The set of books were new."
       ],
       "answer": 1,
-      "solution": "<i>Set</i> is singular; <i>of books</i> is a prepositional phrase."
+      "solution": "<i>Set</i> is singular; <i>of books</i> is a prepositional phrase.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
-      "q": "Choose the sentence with correct concord.",
+      "q": "The driver was _____ for breaking the traffic rules.",
       "options": [
-        "Each boy and girl have a seat.",
-        "Each boy and girl has a seat.",
-        "Each boy and girl are seated.",
-        "Each boy and girl were seated."
+        "penalized",
+        "charged",
+        "rewarded",
+        "cautioned"
       ],
-      "answer": 1,
-      "solution": "<i>Each…</i> is singular."
+      "answer": 0,
+      "solution": "To be 'penalized' is to be punished for breaking a rule.",
+      "source": "WAEC 2024",
+      "practice": false
     }
   ]
 }

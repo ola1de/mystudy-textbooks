@@ -53,6 +53,20 @@
           "a": "Because it is moving from largely parochial and subject orientations, reinforced by decades of military rule, towards a participant culture, without having fully arrived; elements of all three co-exist."
         }
       ]
+    },
+    {
+      "title": "Types: parochial, subject and participant",
+      "html": "<p><b>Types: parochial, subject and participant</b> is a key part of Political Culture and Socialization (SSS 1, Government). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Type Orientation of citizens Typical setting Parochial Little or no awareness of the national political system; loyalty to clan or village.</li><li>Subject Aware of government and its output, but passive &ndash; they obey rather than participate.</li><li>Participant Aware, informed and actively involved in inputs (voting, party work, protest).</li><li>Nation-building instruments &mdash; the federal character principle, NYSC, unity schools, quota admissions and a national language policy &mdash; are deliberate attempts to build a common participant culture out of these fragments.</li><li>Subject culture is passive awareness.</li></ul><h4>Worked example</h4><p><b>Q:</b> Citizens who are aware of government but do not participate display a<br/><b>A:</b> Subject culture \u2014 Subject culture is passive awareness.</p><p><b>Q:</b> A political culture in which people are totally unaware of the national system is<br/><b>A:</b> Parochial \u2014 Parochial orientation is limited to the local community.</p>",
+      "examples": [
+        {
+          "q": "Citizens who are aware of government but do not participate display a",
+          "a": "Subject culture \u2014 Subject culture is passive awareness."
+        },
+        {
+          "q": "A political culture in which people are totally unaware of the national system is",
+          "a": "Parochial \u2014 Parochial orientation is limited to the local community."
+        }
+      ]
     }
   ],
   "quiz": [
@@ -65,7 +79,9 @@
         "Weber and Bodin"
       ],
       "answer": 0,
-      "solution": "<i>The Civic Culture</i> (1963) by Gabriel Almond and Sidney Verba."
+      "solution": "<i>The Civic Culture</i> (1963) by Gabriel Almond and Sidney Verba.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Citizens who are aware of government but do not participate display a",
@@ -76,7 +92,9 @@
         "Civic culture"
       ],
       "answer": 1,
-      "solution": "Subject culture is passive awareness."
+      "solution": "Subject culture is passive awareness.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A political culture in which people are totally unaware of the national system is",
@@ -87,7 +105,9 @@
         "Mixed"
       ],
       "answer": 2,
-      "solution": "Parochial orientation is limited to the local community."
+      "solution": "Parochial orientation is limited to the local community.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Political socialization means",
@@ -98,7 +118,9 @@
         "Making laws"
       ],
       "answer": 1,
-      "solution": "It is the learning process that transmits political culture."
+      "solution": "It is the learning process that transmits political culture.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The earliest agent of political socialization is the",
@@ -109,7 +131,9 @@
         "Party"
       ],
       "answer": 1,
-      "solution": "The family is first and most enduring."
+      "solution": "The family is first and most enduring.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which is NOT an agent of political socialization?",
@@ -120,7 +144,9 @@
         "Religious body"
       ],
       "answer": 2,
-      "solution": "Territory is an element of the state, not an agent of socialization."
+      "solution": "Territory is an element of the state, not an agent of socialization.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The NYSC contributes to political socialization mainly by",
@@ -131,7 +157,9 @@
         "Conducting elections"
       ],
       "answer": 1,
-      "solution": "Cross-posting corps members promotes unity."
+      "solution": "Cross-posting corps members promotes unity.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Political apathy means",
@@ -142,7 +170,9 @@
         "Voter registration"
       ],
       "answer": 1,
-      "solution": "Apathy is lack of interest in political activity."
+      "solution": "Apathy is lack of interest in political activity.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A major cause of voter apathy in Nigeria is",
@@ -153,7 +183,9 @@
         "Short queues"
       ],
       "answer": 1,
-      "solution": "Rigging convinces voters their ballots do not count."
+      "solution": "Rigging convinces voters their ballots do not count.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The highest form of political participation is",
@@ -164,7 +196,9 @@
         "Reading newspapers"
       ],
       "answer": 2,
-      "solution": "Holding office is the most demanding form."
+      "solution": "Holding office is the most demanding form.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "A blend of parochial, subject and participant orientations is called",
@@ -175,7 +209,9 @@
         "Dominant culture"
       ],
       "answer": 1,
-      "solution": "Almond and Verba's civic culture."
+      "solution": "Almond and Verba's civic culture.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Godfatherism in Nigerian politics is an example of",
@@ -186,7 +222,9 @@
         "Parochialism"
       ],
       "answer": 1,
-      "solution": "Sponsorship in exchange for patronage is clientelism."
+      "solution": "Sponsorship in exchange for patronage is clientelism.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Which agency conducts voter education in Nigeria?",
@@ -197,7 +235,9 @@
         "NNPC"
       ],
       "answer": 1,
-      "solution": "The Independent National Electoral Commission."
+      "solution": "The Independent National Electoral Commission.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Sub-culture in politics refers to",
@@ -208,7 +248,9 @@
         "Military culture"
       ],
       "answer": 1,
-      "solution": "A minority pattern differing from the dominant culture."
+      "solution": "A minority pattern differing from the dominant culture.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "Political participation is best encouraged by",
@@ -219,7 +261,9 @@
         "Raising taxes"
       ],
       "answer": 1,
-      "solution": "Education plus credible elections restore confidence."
+      "solution": "Education plus credible elections restore confidence.",
+      "source": "Chapter notes",
+      "practice": false
     },
     {
       "q": "The federal character principle is designed to",
@@ -230,7 +274,451 @@
         "Reduce the size of government"
       ],
       "answer": 1,
-      "solution": "It spreads appointments across states and groups to build unity."
+      "solution": "It spreads appointments across states and groups to build unity.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Political socialization begins in the:",
+      "options": [
+        "School",
+        "Family",
+        "Church",
+        "Party"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2021). Correct answer: Family.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The process of learning political values and culture is called...",
+      "options": [
+        "Political socialization",
+        "Political participation",
+        "Political apathy",
+        "Political culture"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2024). Correct answer: Political socialization.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Political socialization typically begins in the:",
+      "options": [
+        "School",
+        "Family",
+        "Church",
+        "Party"
+      ],
+      "answer": 1,
+      "solution": "Past question (WAEC 2025). Correct answer: Family.",
+      "source": "WAEC 2025",
+      "practice": false
+    },
+    {
+      "q": "Which of these is a primary agent of political socialization?",
+      "options": [
+        "The Bank",
+        "The Family",
+        "The Grocery Store",
+        "The Highway"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: The Family.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is \u2018Political Culture\u2019?",
+      "options": [
+        "Patterns of orientation toward political action and belief",
+        "Traditional clothing worn by politicians",
+        "Dancing at political rallies",
+        "Religious beliefs of the rulers"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Patterns of orientation toward political action and belief.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The first political party in Nigeria was the _____.",
+      "options": [
+        "NCNC",
+        "NNDP",
+        "NPC",
+        "AG"
+      ],
+      "answer": 1,
+      "solution": "The Nigerian National Democratic Party (NNDP), founded by Herbert Macaulay in 1923, was the first formal political party in Nigeria.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The first political party in Nigeria was:",
+      "options": [
+        "NCNC",
+        "AG",
+        "NNDP",
+        "NPC"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: NNDP.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The first political party in Nigeria (NNDP) was formed in?",
+      "options": [
+        "1922",
+        "1944",
+        "1951",
+        "1923"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 1923.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The first political party in Nigeria (formed 1923) was the?",
+      "options": [
+        "NCNC",
+        "NPC",
+        "NNDP",
+        "Action Group"
+      ],
+      "answer": 2,
+      "solution": "Past-question bank (legacy TXT). Correct answer: NNDP.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The Yoruba pre-colonial political system was based on the principle of _____.",
+      "options": [
+        "checks and balances",
+        "divine right of kings",
+        "acephalous structure",
+        "military autocracy"
+      ],
+      "answer": 0,
+      "solution": "The Old Oyo Empire utilized a system of checks and balances where the Oyomesi (King makers) could check the powers of the Alaafin (the King).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Pressure groups differ from political parties in that they _____.",
+      "options": [
+        "aim at winning elections",
+        "interest themselves in governance",
+        "seek to influence government policies",
+        "have wide manifestoes"
+      ],
+      "answer": 2,
+      "solution": "Unlike political parties that seek to control state power by winning elections, pressure groups only seek to influence government decisions in favor of their members.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The pre-colonial Igbo political system was described as acephalous because _____.",
+      "options": [
+        "it was highly centralized",
+        "it was led by powerful kings",
+        "it lacked a central authority",
+        "it was governed by the military"
+      ],
+      "answer": 2,
+      "solution": "'Acephalous' means 'headless'. The Igbo system was decentralized, based on village assemblies and age grades rather than a single monarch.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "Socialism is an economic and political system based on _____.",
+      "options": [
+        "private ownership of means of production",
+        "state ownership of means of production",
+        "rule by the military",
+        "religious laws"
+      ],
+      "answer": 1,
+      "solution": "Socialism advocates that the means of production, distribution, and exchange should be owned or regulated by the community as a whole.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The document that contains the rules of a political party is the _____.",
+      "options": [
+        "Constitution",
+        "Manifesto",
+        "Hansard",
+        "Gazette"
+      ],
+      "answer": 0,
+      "solution": "While the manifesto contains the party's plans/promises, the party's constitution contains the internal rules and structure.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The process by which an individual is integrated into the political system and acquires political values is _____.",
+      "options": [
+        "Political socialization",
+        "Political participation",
+        "Political culture",
+        "Political apathy"
+      ],
+      "answer": 0,
+      "solution": "Political socialization is the lifelong process by which people form their political ideas and acquire political values.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "The administrative structure of a political party is usually headed by the _____.",
+      "options": [
+        "Chairman",
+        "President",
+        "Secretary-General",
+        "Patron"
+      ],
+      "answer": 0,
+      "solution": "The National Chairman is typically the head of the party's executive committee and its administrative leader.",
+      "source": "NECO 2024",
+      "practice": false
+    },
+    {
+      "q": "A state with a single political party is described as:",
+      "options": [
+        "Democratic",
+        "Totalitarian",
+        "Republican",
+        "Federal"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Totalitarian.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "In the pre-colonial Yoruba political system, the Oyomesi were:",
+      "options": [
+        "Kingmakers",
+        "Warriors",
+        "Priests",
+        "Slaves"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2022). Correct answer: Kingmakers.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The manifesto of a political party is its:",
+      "options": [
+        "Constitution",
+        "Proposed programme",
+        "List of members",
+        "History"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Proposed programme.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The pre-colonial Yoruba political system was characterized by...",
+      "options": [
+        "An absolute monarchy",
+        "A system of checks and balances",
+        "A segmentary system",
+        "A decentralized administration"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: A system of checks and balances.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The pre-colonial Igbo political system was described as...",
+      "options": [
+        "Highly centralized",
+        "Acephalous (Segmentary)",
+        "A feudal system",
+        "A caliphate"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Acephalous (Segmentary).",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "Pressure groups differ from political parties because they...",
+      "options": [
+        "Contest elections",
+        "Seek to influence government policy rather than capture power",
+        "Are only found in democracies",
+        "Have more members"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2024). Correct answer: Seek to influence government policy rather than capture power.",
+      "source": "JAMB 2024",
+      "practice": false
+    },
+    {
+      "q": "The Igbo pre-colonial political system was:",
+      "options": [
+        "Monarchical",
+        "Acephalous (Decentralized)",
+        "Theocratic",
+        "Feudal"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Acephalous (Decentralized).",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Fascism was a political ideology associated with:",
+      "options": [
+        "Adolf Hitler",
+        "Benito Mussolini",
+        "Karl Marx",
+        "Joseph Stalin"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2025). Correct answer: Benito Mussolini.",
+      "source": "JAMB 2025",
+      "practice": false
+    },
+    {
+      "q": "Fascism as a political movement started in?",
+      "options": [
+        "Germany",
+        "Russia",
+        "Japan",
+        "Italy"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Italy.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The head of the 1986 Political Bureau was?",
+      "options": [
+        "Samuel Cookey",
+        "Justice Udo Udoma",
+        "Balarabe Musa",
+        "Rotimi Williams"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Samuel Cookey.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "What is \u2018Communism\u2019 as an economic and political system?",
+      "options": [
+        "Private ownership of all business",
+        "Rule by hereditary kings",
+        "Rule by the military only",
+        "State/Public ownership of the means of production"
+      ],
+      "answer": 3,
+      "solution": "Past-question bank (legacy TXT). Correct answer: State/Public ownership of the means of production.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The highest court of appeal in Nigeria during the colonial era was the _____.",
+      "options": [
+        "Supreme Court",
+        "Federal High Court",
+        "Judicial Committee of the Privy Council",
+        "West African Court of Appeal"
+      ],
+      "answer": 2,
+      "solution": "Before Nigeria became a republic in 1963, the final appellate body was the Judicial Committee of the Privy Council in London.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The first indigenous Governor-General of Nigeria was _____.",
+      "options": [
+        "Sir Abubakar Tafawa Balewa",
+        "Sir Ahmadu Bello",
+        "Dr. Nnamdi Azikiwe",
+        "Chief Obafemi Awolowo"
+      ],
+      "answer": 2,
+      "solution": "Dr. Nnamdi Azikiwe became the first indigenous Governor-General in 1960 and later the first President when Nigeria became a Republic in 1963.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The 'Elective Principle' was first introduced in Nigeria by the _____.",
+      "options": [
+        "Richards Constitution",
+        "Clifford Constitution",
+        "Macpherson Constitution",
+        "Lyttleton Constitution"
+      ],
+      "answer": 1,
+      "solution": "The 1922 Clifford Constitution introduced the elective principle, which allowed for the first time the election of four representatives to the Legislative Council (3 for Lagos, 1 for Calabar).",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The first military coup d'\u00e9tat in Nigeria occurred on _____.",
+      "options": [
+        "January 15, 1966",
+        "July 29, 1966",
+        "July 29, 1975",
+        "December 31, 1983"
+      ],
+      "answer": 0,
+      "solution": "The first coup was led by Major Chukwuma Kaduna Nzeogwu on January 15, 1966, bringing an end to the First Republic.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The administrative structure of Nigeria's foreign policy is headed by the _____.",
+      "options": [
+        "Ministry of Finance",
+        "Ministry of Foreign Affairs",
+        "National Intelligence Agency",
+        "Ministry of Interior"
+      ],
+      "answer": 1,
+      "solution": "The Ministry of Foreign Affairs is the government body responsible for the day-to-day management of Nigeria's external relations.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The system of 'Indirect Rule' was introduced in Nigeria by _____.",
+      "options": [
+        "Lord Milverton",
+        "Sir Bernard Bourdillon",
+        "Lord Frederick Lugard",
+        "Sir Hugh Clifford"
+      ],
+      "answer": 2,
+      "solution": "Lord Lugard implemented the policy of using traditional rulers to govern the people under British supervision.",
+      "source": "WAEC 2024",
+      "practice": false
+    },
+    {
+      "q": "The first military coup in Nigeria occurred on _____.",
+      "options": [
+        "January 15, 1966",
+        "July 29, 1966",
+        "July 29, 1975",
+        "December 31, 1983"
+      ],
+      "answer": 0,
+      "solution": "The first military coup, led by Major Chukwuma Kaduna Nzeogwu, took place on January 15, 1966, ending the First Republic.",
+      "source": "NECO 2024",
+      "practice": false
     }
   ]
 }

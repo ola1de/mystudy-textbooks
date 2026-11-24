@@ -1,235 +1,754 @@
 {
- "subject": "Geography",
- "level": "SSS 3",
- "slug": "advanced-mapwork",
- "title": "Advanced Mapwork and Interpretation",
- "outline": [
-  "Revision of scale, distance and area",
-  "Map reduction and enlargement",
-  "Scale changes resulting from reduction and enlargement",
-  "Cross-sections, gradient and vertical exaggeration revisited",
-  "Interpretation of relief, drainage and landuse",
-  "Settlement and communication interpretation",
-  "Relationship between physical features and human activities",
-  "Answering WAEC/NECO map interpretation questions"
- ],
- "modules": [
-  {
-   "title": "Map Reduction and Enlargement",
-   "html": "\n<h4>Principles</h4>\n<p><strong>Reduction</strong> means redrawing a map to a smaller size; <strong>enlargement</strong> means redrawing it to a larger size. In both cases the shape and relative positions of features must remain the same, and the scale must be adjusted.</p>\n<h4>The Square (Grid) Method</h4>\n<ol>\n<li>Draw a grid of squares over the original map (or use the existing grid).</li>\n<li>Draw a second grid with the same number of squares, but with each side multiplied by the enlargement factor \\(n\\) or divided by the reduction factor.</li>\n<li>Copy the detail square by square, keeping relative positions.</li>\n<li>Add a title, key, north arrow and the <em>new</em> scale.</li>\n</ol>\n<h4>New Scale After Reduction or Enlargement</h4>\n<p>If the original R.F. is \\(1:D\\):</p>\n$$\\text{Enlargement } n \\text{ times} \\Rightarrow \\text{New R.F.} = 1:\\frac{D}{n}$$\n$$\\text{Reduction to } \\frac{1}{n} \\Rightarrow \\text{New R.F.} = 1:(D\\times n)$$\n<p>Note that enlargement gives a <em>larger</em> scale (smaller denominator) and reduction gives a <em>smaller</em> scale. The new linear scale must always be drawn on the new map.</p>\n<h4>Effect on Area</h4>\n<p>Because area is two-dimensional, enlarging a map \\(n\\) times increases its area by \\(n^{2}\\), while reducing it to \\(1/n\\) reduces its area to \\(1/n^{2}\\). The ground area represented, however, does not change.</p>\n<h4>Percentage Changes</h4>\n<p>An enlargement of 50% means each linear dimension becomes \\(1.5\\) times the original, so the factor is \\(n=1.5\\); a reduction of 25% means each dimension becomes \\(0.75\\) of the original, so \\(D\\) is divided by 0.75, i.e. multiplied by \\(\\tfrac{4}{3}\\).</p>\n",
-   "examples": [
+  "subject": "Geography",
+  "level": "SSS 3",
+  "slug": "advanced-mapwork",
+  "title": "Advanced Mapwork and Interpretation",
+  "outline": [
+    "Revision of scale, distance and area",
+    "Map reduction and enlargement",
+    "Scale changes resulting from reduction and enlargement",
+    "Cross-sections, gradient and vertical exaggeration revisited",
+    "Interpretation of relief, drainage and landuse",
+    "Settlement and communication interpretation",
+    "Relationship between physical features and human activities",
+    "Answering WAEC/NECO map interpretation questions"
+  ],
+  "modules": [
     {
-     "q": "A map of scale 1:50,000 is enlarged three times. State the new scale and the effect on the area of the drawing.",
-     "a": "New R.F. \\(= 1:\\dfrac{50{,}000}{3} = 1{:}16{,}667\\) (approximately). Each linear dimension becomes three times as long, so the area of the drawing becomes \\(3^{2}=9\\) times the original, although the ground area represented remains unchanged."
+      "title": "Map Reduction and Enlargement",
+      "html": "\n<h4>Principles</h4>\n<p><strong>Reduction</strong> means redrawing a map to a smaller size; <strong>enlargement</strong> means redrawing it to a larger size. In both cases the shape and relative positions of features must remain the same, and the scale must be adjusted.</p>\n<h4>The Square (Grid) Method</h4>\n<ol>\n<li>Draw a grid of squares over the original map (or use the existing grid).</li>\n<li>Draw a second grid with the same number of squares, but with each side multiplied by the enlargement factor \\(n\\) or divided by the reduction factor.</li>\n<li>Copy the detail square by square, keeping relative positions.</li>\n<li>Add a title, key, north arrow and the <em>new</em> scale.</li>\n</ol>\n<h4>New Scale After Reduction or Enlargement</h4>\n<p>If the original R.F. is \\(1:D\\):</p>\n$$\\text{Enlargement } n \\text{ times} \\Rightarrow \\text{New R.F.} = 1:\\frac{D}{n}$$\n$$\\text{Reduction to } \\frac{1}{n} \\Rightarrow \\text{New R.F.} = 1:(D\\times n)$$\n<p>Note that enlargement gives a <em>larger</em> scale (smaller denominator) and reduction gives a <em>smaller</em> scale. The new linear scale must always be drawn on the new map.</p>\n<h4>Effect on Area</h4>\n<p>Because area is two-dimensional, enlarging a map \\(n\\) times increases its area by \\(n^{2}\\), while reducing it to \\(1/n\\) reduces its area to \\(1/n^{2}\\). The ground area represented, however, does not change.</p>\n<h4>Percentage Changes</h4>\n<p>An enlargement of 50% means each linear dimension becomes \\(1.5\\) times the original, so the factor is \\(n=1.5\\); a reduction of 25% means each dimension becomes \\(0.75\\) of the original, so \\(D\\) is divided by 0.75, i.e. multiplied by \\(\\tfrac{4}{3}\\).</p>\n",
+      "examples": [
+        {
+          "q": "A map of scale 1:50,000 is enlarged three times. State the new scale and the effect on the area of the drawing.",
+          "a": "New R.F. \\(= 1:\\dfrac{50{,}000}{3} = 1{:}16{,}667\\) (approximately). Each linear dimension becomes three times as long, so the area of the drawing becomes \\(3^{2}=9\\) times the original, although the ground area represented remains unchanged."
+        },
+        {
+          "q": "A map drawn to a scale of 1:25,000 is reduced to half its size. Determine the new scale and the statement scale.",
+          "a": "Reduction by half means the denominator is doubled: New R.F. \\(= 1:(25{,}000\\times2) = 1{:}50{,}000\\). Statement scale: \\(\\dfrac{50{,}000}{100{,}000} = 0.5\\), so 1 cm now represents 0.5 km."
+        }
+      ]
     },
     {
-     "q": "A map drawn to a scale of 1:25,000 is reduced to half its size. Determine the new scale and the statement scale.",
-     "a": "Reduction by half means the denominator is doubled: New R.F. \\(= 1:(25{,}000\\times2) = 1{:}50{,}000\\). Statement scale: \\(\\dfrac{50{,}000}{100{,}000} = 0.5\\), so 1 cm now represents 0.5 km."
-    }
-   ]
-  },
-  {
-   "title": "Map Interpretation: Relief, Drainage and Landuse",
-   "html": "\n<h4>Systematic Description</h4>\n<p>A good interpretation answers four questions about each element: <em>what</em> is present, <em>where</em> it is (use grid references and compass directions), <em>how much</em> (heights, distances, areas), and <em>why</em> (the relationship between features).</p>\n<h4>Relief Description</h4>\n<p>State the general relief type (highland, lowland, undulating plain, plateau), the highest and lowest heights with grid references, the amplitude of relief (highest minus lowest), the direction of slope, and the specific features - ridges, escarpments, spurs, valleys, cols, conical hills, flood plains.</p>\n<h4>Drainage Description</h4>\n<p>Name the main river and its tributaries, state the direction of flow with evidence, describe the drainage pattern and density, and mention associated features such as rapids, waterfalls, swamps, lakes, meanders, ox-bow lakes or a delta.</p>\n<h4>Landuse and Settlement</h4>\n<ul>\n<li><em>Landuse</em>: farmland, plantations, forest reserve, grazing land, quarry, mining, built-up area, recreation.</li>\n<li><em>Settlement</em>: pattern (nucleated, dispersed, linear), size hierarchy, site (wet point, dry point, bridge point, nodal, defensive) and functions suggested by symbols such as market, school, post office, dispensary or police station.</li>\n<li><em>Communication</em>: main and minor roads, railways, footpaths, bridges, ferries and airstrips, noting how routes avoid steep slopes and swamps and converge on nodal towns.</li>\n</ul>\n<h4>Relationships</h4>\n<table class=\"tb-table\"><tr><th>Physical factor</th><th>Human response</th></tr>\n<tr><td>Steep slopes and highlands</td><td>Sparse settlement, forestry, grazing, terracing, winding roads</td></tr>\n<tr><td>Flood plains and swamps</td><td>Rice farming and fishing; settlement avoided or built on levees</td></tr>\n<tr><td>River confluences and bridge points</td><td>Growth of nucleated market towns and route centres</td></tr>\n<tr><td>Waterfalls and narrow valleys</td><td>Dam and HEP sites</td></tr>\n<tr><td>Mineral deposits</td><td>Quarries, mining settlements and access roads</td></tr></table>\n<h4>Examination Technique</h4>\n<ol>\n<li>Read the scale, contour interval and key before answering.</li>\n<li>Support every statement with evidence: grid references, heights, distances and directions.</li>\n<li>Use neat, labelled sketch maps and sections with a title and scale.</li>\n<li>Show all working in calculations of distance, area, gradient and vertical exaggeration, and give the correct units.</li>\n</ol>\n",
-   "examples": [
-    {
-     "q": "A map of scale 1:50,000 shows a proposed dam site. Give three pieces of map evidence that would justify the choice of site.",
-     "a": "(i) A narrow, steep-sided valley or gorge shown by closely spaced contours, which shortens and cheapens the dam wall; (ii) a wide, gently sloping basin upstream indicated by widely spaced contours, giving a large reservoir capacity; (iii) a river with a large catchment and steady flow, plus a waterfall or rapids showing a good head of water for power generation, with few settlements to be resettled in the flooded area."
+      "title": "Map Interpretation: Relief, Drainage and Landuse",
+      "html": "\n<h4>Systematic Description</h4>\n<p>A good interpretation answers four questions about each element: <em>what</em> is present, <em>where</em> it is (use grid references and compass directions), <em>how much</em> (heights, distances, areas), and <em>why</em> (the relationship between features).</p>\n<h4>Relief Description</h4>\n<p>State the general relief type (highland, lowland, undulating plain, plateau), the highest and lowest heights with grid references, the amplitude of relief (highest minus lowest), the direction of slope, and the specific features - ridges, escarpments, spurs, valleys, cols, conical hills, flood plains.</p>\n<h4>Drainage Description</h4>\n<p>Name the main river and its tributaries, state the direction of flow with evidence, describe the drainage pattern and density, and mention associated features such as rapids, waterfalls, swamps, lakes, meanders, ox-bow lakes or a delta.</p>\n<h4>Landuse and Settlement</h4>\n<ul>\n<li><em>Landuse</em>: farmland, plantations, forest reserve, grazing land, quarry, mining, built-up area, recreation.</li>\n<li><em>Settlement</em>: pattern (nucleated, dispersed, linear), size hierarchy, site (wet point, dry point, bridge point, nodal, defensive) and functions suggested by symbols such as market, school, post office, dispensary or police station.</li>\n<li><em>Communication</em>: main and minor roads, railways, footpaths, bridges, ferries and airstrips, noting how routes avoid steep slopes and swamps and converge on nodal towns.</li>\n</ul>\n<h4>Relationships</h4>\n<table class=\"tb-table\"><tr><th>Physical factor</th><th>Human response</th></tr>\n<tr><td>Steep slopes and highlands</td><td>Sparse settlement, forestry, grazing, terracing, winding roads</td></tr>\n<tr><td>Flood plains and swamps</td><td>Rice farming and fishing; settlement avoided or built on levees</td></tr>\n<tr><td>River confluences and bridge points</td><td>Growth of nucleated market towns and route centres</td></tr>\n<tr><td>Waterfalls and narrow valleys</td><td>Dam and HEP sites</td></tr>\n<tr><td>Mineral deposits</td><td>Quarries, mining settlements and access roads</td></tr></table>\n<h4>Examination Technique</h4>\n<ol>\n<li>Read the scale, contour interval and key before answering.</li>\n<li>Support every statement with evidence: grid references, heights, distances and directions.</li>\n<li>Use neat, labelled sketch maps and sections with a title and scale.</li>\n<li>Show all working in calculations of distance, area, gradient and vertical exaggeration, and give the correct units.</li>\n</ol>\n",
+      "examples": [
+        {
+          "q": "A map of scale 1:50,000 shows a proposed dam site. Give three pieces of map evidence that would justify the choice of site.",
+          "a": "(i) A narrow, steep-sided valley or gorge shown by closely spaced contours, which shortens and cheapens the dam wall; (ii) a wide, gently sloping basin upstream indicated by widely spaced contours, giving a large reservoir capacity; (iii) a river with a large catchment and steady flow, plus a waterfall or rapids showing a good head of water for power generation, with few settlements to be resettled in the flooded area."
+        },
+        {
+          "q": "On a 1:50,000 map two towns are 9.6 cm apart by road. A vehicle travels at an average speed of 40 km per hour. How long will the journey take?",
+          "a": "Ground distance \\(= 9.6 \\times 0.5 = 4.8\\text{ km}\\). Time \\(= \\dfrac{4.8}{40} = 0.12\\) hours \\(= 0.12\\times60 = 7.2\\) minutes, i.e. about 7 minutes 12 seconds."
+        }
+      ]
     },
     {
-     "q": "On a 1:50,000 map two towns are 9.6 cm apart by road. A vehicle travels at an average speed of 40 km per hour. How long will the journey take?",
-     "a": "Ground distance \\(= 9.6 \\times 0.5 = 4.8\\text{ km}\\). Time \\(= \\dfrac{4.8}{40} = 0.12\\) hours \\(= 0.12\\times60 = 7.2\\) minutes, i.e. about 7 minutes 12 seconds."
+      "title": "Revision of scale, distance and area",
+      "html": "<p><b>Revision of scale, distance and area</b> is a key part of Advanced Mapwork and Interpretation (SSS 3, Geography). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>In both cases the shape and relative positions of features must remain the same, and the scale must be adjusted.</li><li>Add a title, key, north arrow and the new scale.</li><li>New Scale After Reduction or Enlargement If the original R.F.</li><li>is \\(1:D\\): $$\\text{Enlargement } n \\text{ times} \\Rightarrow \\text{New R.F.} = 1:\\frac{D}{n}$$ $$\\text{Reduction to } \\frac{1}{n} \\Rightarrow \\text{New R.F.} = 1:(D\\times n)$$ Note that enlargement gives a larger scale (smaller denominator) and reduction gives a smaller scale.</li><li>The new linear scale must always be drawn on the new map.</li></ul><h4>Worked example</h4><p><b>Q:</b> When a map is enlarged twice, the new scale of a 1:50,000 map becomes<br/><b>A:</b> 1:25,000 \u2014 Enlargement divides the denominator by the factor: 50,000/2 = 25,000.</p><p><b>Q:</b> Reducing a 1:25,000 map to one-quarter of its size gives a new scale of<br/><b>A:</b> 1:100,000 \u2014 Reduction multiplies the denominator: 25,000 x 4 = 100,000.</p>",
+      "examples": [
+        {
+          "q": "When a map is enlarged twice, the new scale of a 1:50,000 map becomes",
+          "a": "1:25,000 \u2014 Enlargement divides the denominator by the factor: 50,000/2 = 25,000."
+        },
+        {
+          "q": "Reducing a 1:25,000 map to one-quarter of its size gives a new scale of",
+          "a": "1:100,000 \u2014 Reduction multiplies the denominator: 25,000 x 4 = 100,000."
+        }
+      ]
+    },
+    {
+      "title": "Scale changes resulting from reduction and enlargement",
+      "html": "<p><b>Scale changes resulting from reduction and enlargement</b> is a key part of Advanced Mapwork and Interpretation (SSS 3, Geography). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Principles Reduction means redrawing a map to a smaller size; enlargement means redrawing it to a larger size.</li><li>In both cases the shape and relative positions of features must remain the same, and the scale must be adjusted.</li><li>Draw a second grid with the same number of squares, but with each side multiplied by the enlargement factor \\(n\\) or divided by the reduction factor.</li><li>Add a title, key, north arrow and the new scale.</li><li>New Scale After Reduction or Enlargement If the original R.F.</li></ul><h4>Worked example</h4><p><b>Q:</b> When a map is enlarged twice, the new scale of a 1:50,000 map becomes<br/><b>A:</b> 1:25,000 \u2014 Enlargement divides the denominator by the factor: 50,000/2 = 25,000.</p><p><b>Q:</b> Reducing a 1:25,000 map to one-quarter of its size gives a new scale of<br/><b>A:</b> 1:100,000 \u2014 Reduction multiplies the denominator: 25,000 x 4 = 100,000.</p>",
+      "examples": [
+        {
+          "q": "When a map is enlarged twice, the new scale of a 1:50,000 map becomes",
+          "a": "1:25,000 \u2014 Enlargement divides the denominator by the factor: 50,000/2 = 25,000."
+        },
+        {
+          "q": "Reducing a 1:25,000 map to one-quarter of its size gives a new scale of",
+          "a": "1:100,000 \u2014 Reduction multiplies the denominator: 25,000 x 4 = 100,000."
+        }
+      ]
+    },
+    {
+      "title": "Cross-sections, gradient and vertical exaggeration revisited",
+      "html": "<p><b>Cross-sections, gradient and vertical exaggeration revisited</b> is a key part of Advanced Mapwork and Interpretation (SSS 3, Geography). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Use neat, labelled sketch maps and sections with a title and scale.</li><li>Show all working in calculations of distance, area, gradient and vertical exaggeration, and give the correct units.</li><li>Zig-zag routes reduce the gradient that vehicles must climb.</li></ul><h4>Worked example</h4><p><b>Q:</b> If the vertical scale is 1 cm to 50 m and the horizontal scale is 1:50,000, the vertical exaggeration is<br/><b>A:</b> 10 \u2014 50 m = 5,000 cm, so 50,000/5,000 = 10.</p><p><b>Q:</b> Roads in a hilly area on a map are usually winding because they<br/><b>A:</b> avoid steep gradients by following contours \u2014 Zig-zag routes reduce the gradient that vehicles must climb.</p>",
+      "examples": [
+        {
+          "q": "If the vertical scale is 1 cm to 50 m and the horizontal scale is 1:50,000, the vertical exaggeration is",
+          "a": "10 \u2014 50 m = 5,000 cm, so 50,000/5,000 = 10."
+        },
+        {
+          "q": "Roads in a hilly area on a map are usually winding because they",
+          "a": "avoid steep gradients by following contours \u2014 Zig-zag routes reduce the gradient that vehicles must climb."
+        }
+      ]
+    },
+    {
+      "title": "Settlement and communication interpretation",
+      "html": "<p><b>Settlement and communication interpretation</b> is a key part of Advanced Mapwork and Interpretation (SSS 3, Geography). Master the meaning, the main points and how it is tested in JAMB and WAEC questions on this topic.</p><h4>Key points</h4><ul><li>Systematic Description A good interpretation answers four questions about each element: what is present, where it is (use grid references and compass directions), how much (heights, distances, areas), and why (the relationship between features).</li><li>Landuse and Settlement Landuse : farmland, plantations, forest reserve, grazing land, quarry, mining, built-up area, recreation.</li><li>Settlement : pattern (nucleated, dispersed, linear), size hierarchy, site (wet point, dry point, bridge point, nodal, defensive) and functions suggested by symbols such as market, school, post office, dispensary or police station.</li><li>Communication : main and minor roads, railways, footpaths, bridges, ferries and airstrips, noting how routes avoid steep slopes and swamps and converge on nodal towns.</li><li>Relationships Physical factor Human response Steep slopes and highlands Sparse settlement, forestry, grazing, terracing, winding roads Flood plains and swamps Rice farming and fishing; settlement avoided or built on levees River confluences and bridge points Growth of nucleated market towns and route centres Waterfalls and narrow valleys Dam and HEP sites Mineral deposits Quarries, mining settlements and access roads Examination Technique Read the scale, contour interval and key before answering.</li></ul><h4>Worked example</h4><p><b>Q:</b> Which map evidence best suggests a settlement is a route centre?<br/><b>A:</b> Several roads converge on it \u2014 Converging roads and railways identify a nodal or route centre.</p><p><b>Q:</b> In map interpretation, statements should always be supported with<br/><b>A:</b> grid references, heights and directions \u2014 Evidence from the map earns the marks in WAEC and NECO questions.</p>",
+      "examples": [
+        {
+          "q": "Which map evidence best suggests a settlement is a route centre?",
+          "a": "Several roads converge on it \u2014 Converging roads and railways identify a nodal or route centre."
+        },
+        {
+          "q": "In map interpretation, statements should always be supported with",
+          "a": "grid references, heights and directions \u2014 Evidence from the map earns the marks in WAEC and NECO questions."
+        }
+      ]
     }
-   ]
-  }
- ],
- "quiz": [
-  {
-   "q": "When a map is enlarged twice, the new scale of a 1:50,000 map becomes",
-   "options": [
-    "1:100,000",
-    "1:25,000",
-    "1:50,000",
-    "1:12,500"
-   ],
-   "answer": "1",
-   "solution": "Enlargement divides the denominator by the factor: 50,000/2 = 25,000."
-  },
-  {
-   "q": "Reducing a 1:25,000 map to one-quarter of its size gives a new scale of",
-   "options": [
-    "1:6,250",
-    "1:50,000",
-    "1:100,000",
-    "1:12,500"
-   ],
-   "answer": "2",
-   "solution": "Reduction multiplies the denominator: 25,000 x 4 = 100,000."
-  },
-  {
-   "q": "Enlarging a map three times increases the area of the drawing by a factor of",
-   "options": [
-    "3",
-    "6",
-    "9",
-    "12"
-   ],
-   "answer": "2",
-   "solution": "Area varies as the square of the linear factor, so 3 squared = 9."
-  },
-  {
-   "q": "Which of the following remains unchanged when a map is reduced?",
-   "options": [
-    "Length of the linear scale bar",
-    "The ground area represented",
-    "The size of the drawing",
-    "The representative fraction"
-   ],
-   "answer": "1",
-   "solution": "Only the drawing and its scale change; the actual ground area is fixed."
-  },
-  {
-   "q": "The most suitable method of enlarging a map is the",
-   "options": [
-    "thread method",
-    "square or grid method",
-    "strip method",
-    "tracing without a grid"
-   ],
-   "answer": "1",
-   "solution": "Corresponding squares keep the shape and relative positions accurate."
-  },
-  {
-   "q": "A new map produced by enlargement must always carry",
-   "options": [
-    "the original scale",
-    "a new scale",
-    "no scale",
-    "only a title"
-   ],
-   "answer": "1",
-   "solution": "Failure to redraw the scale makes all measurements wrong."
-  },
-  {
-   "q": "On a 1:50,000 map, a road measuring 12 cm represents a ground distance of",
-   "options": [
-    "1.2 km",
-    "6 km",
-    "12 km",
-    "24 km"
-   ],
-   "answer": "1",
-   "solution": "1 cm represents 0.5 km, so 12 x 0.5 = 6 km."
-  },
-  {
-   "q": "A journey of 6 km at an average speed of 30 km/h will take",
-   "options": [
-    "6 minutes",
-    "12 minutes",
-    "20 minutes",
-    "30 minutes"
-   ],
-   "answer": "1",
-   "solution": "Time = 6/30 = 0.2 hours = 12 minutes."
-  },
-  {
-   "q": "The difference between the highest and the lowest point on a map is called the",
-   "options": [
-    "contour interval",
-    "amplitude of relief",
-    "gradient",
-    "vertical exaggeration"
-   ],
-   "answer": "1",
-   "solution": "Amplitude of relief measures the total range of height."
-  },
-  {
-   "q": "Which map evidence best suggests a settlement is a route centre?",
-   "options": [
-    "It lies on a hilltop",
-    "Several roads converge on it",
-    "It has a river beside it",
-    "It is surrounded by forest"
-   ],
-   "answer": "1",
-   "solution": "Converging roads and railways identify a nodal or route centre."
-  },
-  {
-   "q": "A quarry symbol close to a cement factory on a map suggests",
-   "options": [
-    "tourism",
-    "limestone extraction for cement",
-    "fishing",
-    "irrigation farming"
-   ],
-   "answer": "1",
-   "solution": "Raw-material orientation locates cement plants beside limestone quarries."
-  },
-  {
-   "q": "Rice cultivation is most likely to be found on the map in",
-   "options": [
-    "steep rocky slopes",
-    "seasonally flooded plains and swampy valleys",
-    "dry plateaux",
-    "forest reserves"
-   ],
-   "answer": "1",
-   "solution": "Padi rice needs level land that holds water."
-  },
-  {
-   "q": "Settlements are usually avoided on flood plains because of",
-   "options": [
-    "high land value",
-    "annual flooding and waterlogging",
-    "absence of water",
-    "steep gradient"
-   ],
-   "answer": "1",
-   "solution": "Regular inundation makes building risky and unhealthy."
-  },
-  {
-   "q": "A good dam site on a map is indicated by",
-   "options": [
-    "a wide flat valley with dispersed towns",
-    "a narrow gorge with a broad basin upstream",
-    "a plateau summit",
-    "a delta"
-   ],
-   "answer": "1",
-   "solution": "A narrow gorge reduces construction cost while the basin stores water."
-  },
-  {
-   "q": "In map interpretation, statements should always be supported with",
-   "options": [
-    "personal opinion",
-    "grid references, heights and directions",
-    "long introductions",
-    "coloured drawings only"
-   ],
-   "answer": "1",
-   "solution": "Evidence from the map earns the marks in WAEC and NECO questions."
-  },
-  {
-   "q": "If the vertical scale is 1 cm to 50 m and the horizontal scale is 1:50,000, the vertical exaggeration is",
-   "options": [
-    "5",
-    "10",
-    "25",
-    "50"
-   ],
-   "answer": "1",
-   "solution": "50 m = 5,000 cm, so 50,000/5,000 = 10."
-  },
-  {
-   "q": "Roads in a hilly area on a map are usually winding because they",
-   "options": [
-    "follow the shortest route",
-    "avoid steep gradients by following contours",
-    "link only river crossings",
-    "follow the railway"
-   ],
-   "answer": "1",
-   "solution": "Zig-zag routes reduce the gradient that vehicles must climb."
-  }
- ]
+  ],
+  "quiz": [
+    {
+      "q": "When a map is enlarged twice, the new scale of a 1:50,000 map becomes",
+      "options": [
+        "1:100,000",
+        "1:25,000",
+        "1:50,000",
+        "1:12,500"
+      ],
+      "answer": 1,
+      "solution": "Enlargement divides the denominator by the factor: 50,000/2 = 25,000.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Reducing a 1:25,000 map to one-quarter of its size gives a new scale of",
+      "options": [
+        "1:6,250",
+        "1:50,000",
+        "1:100,000",
+        "1:12,500"
+      ],
+      "answer": 2,
+      "solution": "Reduction multiplies the denominator: 25,000 x 4 = 100,000.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Enlarging a map three times increases the area of the drawing by a factor of",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "answer": 2,
+      "solution": "Area varies as the square of the linear factor, so 3 squared = 9.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which of the following remains unchanged when a map is reduced?",
+      "options": [
+        "Length of the linear scale bar",
+        "The ground area represented",
+        "The size of the drawing",
+        "The representative fraction"
+      ],
+      "answer": 1,
+      "solution": "Only the drawing and its scale change; the actual ground area is fixed.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The most suitable method of enlarging a map is the",
+      "options": [
+        "thread method",
+        "square or grid method",
+        "strip method",
+        "tracing without a grid"
+      ],
+      "answer": 1,
+      "solution": "Corresponding squares keep the shape and relative positions accurate.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A new map produced by enlargement must always carry",
+      "options": [
+        "the original scale",
+        "a new scale",
+        "no scale",
+        "only a title"
+      ],
+      "answer": 1,
+      "solution": "Failure to redraw the scale makes all measurements wrong.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "On a 1:50,000 map, a road measuring 12 cm represents a ground distance of",
+      "options": [
+        "1.2 km",
+        "6 km",
+        "12 km",
+        "24 km"
+      ],
+      "answer": 1,
+      "solution": "1 cm represents 0.5 km, so 12 x 0.5 = 6 km.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A journey of 6 km at an average speed of 30 km/h will take",
+      "options": [
+        "6 minutes",
+        "12 minutes",
+        "20 minutes",
+        "30 minutes"
+      ],
+      "answer": 1,
+      "solution": "Time = 6/30 = 0.2 hours = 12 minutes.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The difference between the highest and the lowest point on a map is called the",
+      "options": [
+        "contour interval",
+        "amplitude of relief",
+        "gradient",
+        "vertical exaggeration"
+      ],
+      "answer": 1,
+      "solution": "Amplitude of relief measures the total range of height.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Which map evidence best suggests a settlement is a route centre?",
+      "options": [
+        "It lies on a hilltop",
+        "Several roads converge on it",
+        "It has a river beside it",
+        "It is surrounded by forest"
+      ],
+      "answer": 1,
+      "solution": "Converging roads and railways identify a nodal or route centre.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A quarry symbol close to a cement factory on a map suggests",
+      "options": [
+        "tourism",
+        "limestone extraction for cement",
+        "fishing",
+        "irrigation farming"
+      ],
+      "answer": 1,
+      "solution": "Raw-material orientation locates cement plants beside limestone quarries.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Rice cultivation is most likely to be found on the map in",
+      "options": [
+        "steep rocky slopes",
+        "seasonally flooded plains and swampy valleys",
+        "dry plateaux",
+        "forest reserves"
+      ],
+      "answer": 1,
+      "solution": "Padi rice needs level land that holds water.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Settlements are usually avoided on flood plains because of",
+      "options": [
+        "high land value",
+        "annual flooding and waterlogging",
+        "absence of water",
+        "steep gradient"
+      ],
+      "answer": 1,
+      "solution": "Regular inundation makes building risky and unhealthy.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "A good dam site on a map is indicated by",
+      "options": [
+        "a wide flat valley with dispersed towns",
+        "a narrow gorge with a broad basin upstream",
+        "a plateau summit",
+        "a delta"
+      ],
+      "answer": 1,
+      "solution": "A narrow gorge reduces construction cost while the basin stores water.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "In map interpretation, statements should always be supported with",
+      "options": [
+        "personal opinion",
+        "grid references, heights and directions",
+        "long introductions",
+        "coloured drawings only"
+      ],
+      "answer": 1,
+      "solution": "Evidence from the map earns the marks in WAEC and NECO questions.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "If the vertical scale is 1 cm to 50 m and the horizontal scale is 1:50,000, the vertical exaggeration is",
+      "options": [
+        "5",
+        "10",
+        "25",
+        "50"
+      ],
+      "answer": 1,
+      "solution": "50 m = 5,000 cm, so 50,000/5,000 = 10.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "Roads in a hilly area on a map are usually winding because they",
+      "options": [
+        "follow the shortest route",
+        "avoid steep gradients by following contours",
+        "link only river crossings",
+        "follow the railway"
+      ],
+      "answer": 1,
+      "solution": "Zig-zag routes reduce the gradient that vehicles must climb.",
+      "source": "Chapter notes",
+      "practice": false
+    },
+    {
+      "q": "The conventional color for water bodies on a map is?",
+      "options": [
+        "Green",
+        "Blue",
+        "Brown",
+        "Red"
+      ],
+      "answer": 1,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Blue.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "The conventional color for vegetation on a map is?",
+      "options": [
+        "Green",
+        "Blue",
+        "Yellow",
+        "Black"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: Green.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Nigeria has a total land area of approximately?",
+      "options": [
+        "923,768 sq km",
+        "500,000 sq km",
+        "1,000,000 sq km",
+        "250,000 sq km"
+      ],
+      "answer": 0,
+      "solution": "Past-question bank (legacy TXT). Correct answer: 923,768 sq km.",
+      "source": "Past-question bank (legacy)",
+      "practice": false
+    },
+    {
+      "q": "Global warming gas:",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Argon"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Carbon dioxide.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Desertification prevention:",
+      "options": [
+        "Afforestation",
+        "Deforestation",
+        "Overgrazing",
+        "Burning"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Afforestation.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Renewable resource:",
+      "options": [
+        "Solar",
+        "Coal",
+        "Oil",
+        "Gas"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Solar.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Non-renewable resource:",
+      "options": [
+        "Petroleum",
+        "Wind",
+        "Sun",
+        "Water"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Petroleum.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "ECOWAS HQ:",
+      "options": [
+        "Abuja",
+        "Accra",
+        "Lome",
+        "Dakar"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Abuja.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Landlocked country West Africa:",
+      "options": [
+        "Niger",
+        "Ghana",
+        "Nigeria",
+        "Togo"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Niger.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Largest continent:",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "America"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Asia.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Smallest continent:",
+      "options": [
+        "Australia",
+        "Europe",
+        "Antarctica",
+        "Asia"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Australia.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Equinox:",
+      "options": [
+        "Equal day/night",
+        "Longest day",
+        "Shortest day",
+        "Eclipse"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Equal day/night.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Solstice:",
+      "options": [
+        "Longest/Shortest day",
+        "Equal day/night",
+        "Full moon",
+        "New moon"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Longest/Shortest day.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Rain gauge measures:",
+      "options": [
+        "Rainfall",
+        "Temperature",
+        "Wind",
+        "Pressure"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Rainfall.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Anemometer measures:",
+      "options": [
+        "Wind speed",
+        "Direction",
+        "Rain",
+        "Heat"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Wind speed.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Hygrometer measures:",
+      "options": [
+        "Humidity",
+        "Pressure",
+        "Wind",
+        "Rain"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Humidity.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Stevenson Screen houses:",
+      "options": [
+        "Thermometers",
+        "Barometer",
+        "Anemometer",
+        "Vane"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Thermometers.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Highest mountain Africa:",
+      "options": [
+        "Kilimanjaro",
+        "Everest",
+        "Cameroon",
+        "Kenya"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Kilimanjaro.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "Longest river Africa:",
+      "options": [
+        "Nile",
+        "Niger",
+        "Congo",
+        "Zambezi"
+      ],
+      "answer": 0,
+      "solution": "Past question (JAMB 2021). Correct answer: Nile.",
+      "source": "JAMB 2021",
+      "practice": false
+    },
+    {
+      "q": "The instrument used for measuring atmospheric pressure is the:",
+      "options": [
+        "Thermometer",
+        "Barometer",
+        "Anemometer",
+        "Rain gauge"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Barometer.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which planet is known as the Red Planet?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Mars.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The process by which rocks are broken down in situ is called:",
+      "options": [
+        "Erosion",
+        "Weathering",
+        "Deposition",
+        "Mass wasting"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Weathering.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which of these rivers flows into Lake Chad?",
+      "options": [
+        "River Niger",
+        "River Benue",
+        "River Hadejia",
+        "River Cross"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: River Hadejia.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The port of Lagos is an example of a:",
+      "options": [
+        "River port",
+        "Seaport",
+        "Dry port",
+        "Lake port"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Seaport.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which of the following creates a Rift Valley?",
+      "options": [
+        "Folding",
+        "Faulting",
+        "Volcanism",
+        "Erosion"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Faulting.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The highest peak in Africa is:",
+      "options": [
+        "Mount Everest",
+        "Mount Kilimanjaro",
+        "Mount Cameroon",
+        "Mount Kenya"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Mount Kilimanjaro.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Ajaokuta is famous for:",
+      "options": [
+        "Oil refinery",
+        "Iron and Steel",
+        "Coal mining",
+        "Tin mining"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Iron and Steel.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which of these creates an Ox-bow lake?",
+      "options": [
+        "Wind action",
+        "River action",
+        "Glacial action",
+        "Wave action"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: River action.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Which cloud type is associated with thunderstorms?",
+      "options": [
+        "Cirrus",
+        "Stratus",
+        "Cumulonimbus",
+        "Altocumulus"
+      ],
+      "answer": 2,
+      "solution": "Past question (JAMB 2022). Correct answer: Cumulonimbus.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Magma that cools and solidifies below the earth's surface forms:",
+      "options": [
+        "Extrusive rocks",
+        "Intrusive rocks",
+        "Sedimentary rocks",
+        "Metamorphic rocks"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Intrusive rocks.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The main cause of day and night is:",
+      "options": [
+        "Revolution of the earth",
+        "Rotation of the earth",
+        "Tilt of the earth",
+        "Shape of the earth"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Rotation of the earth.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "Jos Plateau is known for mining:",
+      "options": [
+        "Coal",
+        "Tin and Columbite",
+        "Gold",
+        "Petroleum"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Tin and Columbite.",
+      "source": "JAMB 2022",
+      "practice": false
+    },
+    {
+      "q": "The confluence of Rivers Niger and Benue is at:",
+      "options": [
+        "Onitsha",
+        "Lokoja",
+        "Jebba",
+        "Makurdi"
+      ],
+      "answer": 1,
+      "solution": "Past question (JAMB 2022). Correct answer: Lokoja.",
+      "source": "JAMB 2022",
+      "practice": false
+    }
+  ]
 }
